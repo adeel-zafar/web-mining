@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226101256AAErTiG" type="Answered">
+    <Subject>My torrents are downloading very slowly, what can i do?</Subject>
+    <Content>I use Bit torrent 6.3 to download mostly movies and music. I had this problem before and i forwarded ports 6881 to 6889. This worked for about two months, now they downloading slow again. Are there any other ports that i can open to make these download faster?
+</Content>
+    <Date>2010-02-26 10:12:56</Date>
+    <Timestamp>1267207976</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226101256AAErTiG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HA2v6Sesaa</UserId>
+    <UserNick>Kevin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Use Utorrent it&#039;s better and bittorent sucks!</ChosenAnswer>
+    <ChosenAnswererId>UGwpKOfgaa</ChosenAnswererId>
+    <ChosenAnswererNick>TMC</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267208116</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267767169</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use Utorrent it&#039;s better and bittorent sucks!</Content>
+            <Reference>Personal Experience, had used both of them</Reference>
+            <Best>5</Best>
+            <UserId>UGwpKOfgaa</UserId>
+            <UserNick>TMC</UserNick>
+            <Date>2010-02-26 10:15:16</Date>
+            <Timestamp>1267208116</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:51:04 PDT 2010 -->

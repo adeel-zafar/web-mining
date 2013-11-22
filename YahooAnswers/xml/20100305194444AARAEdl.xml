@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305194444AARAEdl" type="Answered">
+    <Subject>Right click doesn&#039;t work on latest Firefox. Help?</Subject>
+    <Content>Well, this is the second, maybe third time I&#039;ve downloaded the new Firefox, and the right click still doesn&#039;t not work! It will not let me copy and paste, save pictures, etc; but once I click on my desktop with a right click, it works just fine...
+
+Can someone help with this?
+I have the latest Firefox 3.6.
+My right click works fine on Internet Explorer, but not on Firefox.
+</Content>
+    <Date>2010-03-05 19:44:44</Date>
+    <Timestamp>1267847084</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305194444AARAEdl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>V7GH9ZT2aa</UserId>
+    <UserNick>Mauvey</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/16Io6XsI8AAEB-eGC5BAh8kw2U7OyZIfRcAI=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What is the release number?  I have 3.5.3 and my right click function still works.  Did you know that if you center click a link it will open in a new tab?</ChosenAnswer>
+    <ChosenAnswererId>xiucQrWnaa</ChosenAnswererId>
+    <ChosenAnswererNick>FosterK</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267848138</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268366696</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What is the release number?  I have 3.5.3 and my right click function still works.  Did you know that if you center click a link it will open in a new tab?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xiucQrWnaa</UserId>
+            <UserNick>FosterK</UserNick>
+            <Date>2010-03-05 20:02:18</Date>
+            <Timestamp>1267848138</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:52:58 PDT 2010 -->

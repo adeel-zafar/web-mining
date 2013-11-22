@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225201630AAAiqdh" type="Answered">
+    <Subject>What are the pros and cons of Internet Explorer 8?</Subject>
+    <Content>I accidently upgraded from Internet Explorer 7 to Internet Explorer 8.
+
+It says its faster, but I am more worried about brower security. Should I go back to IE 7? I also have Mozilla Firefox and Safari installed, but I don&#039;t use them as much because I am just more used to Windows Internet Explorer.
+</Content>
+    <Date>2010-02-25 20:16:30</Date>
+    <Timestamp>1267157790</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225201630AAAiqdh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IZjK8SHlaa</UserId>
+    <UserNick>John H.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1b76QYrVAAAEC6KxG3kjIDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I suggest you stick with IE8. IE8 is faster and safer than IE 7. It is also compatible with more sites than any other browser. If you are concerned with the way IE 8 will interact with sites you are visiting, you should check out Compatibility Mode which allows you to view sites as they would appear in IE 6 or IE 7, with the added security and speed of IE 8. Here&#039;s some more information: http://blogs.msdn.com/ie/archive/2009/02/16/just-the-facts-recap-of-compatibility-view.aspx
+
+Other cool new features are web-slices and accelerators.
+
+Learn more about the new features here: http://www.microsoft.com/windows/internet-explorer/features/faster.aspx
+
+Cheers,
+
+Bryn
+IE8 Outreach Team</ChosenAnswer>
+    <ChosenAnswererId>5A9mfbA3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Bryn</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267202086</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267677367</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Get Opera</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IGWWIkx0aa</UserId>
+            <UserNick>Boris</UserNick>
+            <Date>2010-02-25 20:17:36</Date>
+            <Timestamp>1267157856</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>internet explorer 8 is very prone to the problem { internet explorer cannot display this webpage} it used to happen so much that i changed to firefox until i found out how fast and reliable google chrome is and have stuck to it since..</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ufccCilHaa</UserId>
+            <UserNick>bigbear</UserNick>
+            <Date>2010-02-25 21:15:27</Date>
+            <Timestamp>1267161327</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I suggest you stick with IE8. IE8 is faster and safer than IE 7. It is also compatible with more sites than any other browser. If you are concerned with the way IE 8 will interact with sites you are visiting, you should check out Compatibility Mode which allows you to view sites as they would appear in IE 6 or IE 7, with the added security and speed of IE 8. Here&#039;s some more information: http://blogs.msdn.com/ie/archive/2009/02/16/just-the-facts-recap-of-compatibility-view.aspx
+
+Other cool new features are web-slices and accelerators.
+
+Learn more about the new features here: http://www.microsoft.com/windows/internet-explorer/features/faster.aspx
+
+Cheers,
+
+Bryn
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5A9mfbA3aa</UserId>
+            <UserNick>Bryn</UserNick>
+            <Date>2010-02-26 08:34:46</Date>
+            <Timestamp>1267202086</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Stick with IE8 but use Safari,It doesn&#039;t allow any malware on your computer,and its FAST!
+The Cons of IE8 is speed and It&#039;s not compatitble with latest technology! Safari supports HTML 5! THE latest technology,So i recommend you use Safari</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0od5FmAkaa</UserId>
+            <UserNick>Bozo</UserNick>
+            <Date>2010-02-26 10:26:45</Date>
+            <Timestamp>1267208805</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:53:24 PDT 2010 -->

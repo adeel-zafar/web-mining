@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304144533AA75FZh" type="Answered">
+    <Subject>I appear to be banned from a blogging site and know that I did not do anything to warrant it.?</Subject>
+    <Content>The error message I receive is:
+
+Forbidden
+You were denied access because:
+Access denied by access control list. 
+
+The number 403 shows up on the bottom tab.  
+
+I checked with my ISP and he went through a few things and a ban was the only other suggestion he could come up with.  I KNOW that I have not done anything to warrant a ban.  Also, I can access it through my BlackBerry so if I was banned, how could that happen?  I&#039;m totally baffled and need some help ASAP.  Thanks!
+</Content>
+    <Date>2010-03-04 14:45:33</Date>
+    <Timestamp>1267742733</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304144533AA75FZh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8i6Oy8ipaa</UserId>
+    <UserNick>prairie mom</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1_tGyc36_AAEC30SVQUUUmUFvq55luw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>the blogging site name would be useful. perhaps attempting to contact the blog admin to look into the issue.</ChosenAnswer>
+    <ChosenAnswererId>5hYqAAo5aa</ChosenAnswererId>
+    <ChosenAnswererNick>NASTY_NATE</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267743538</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268262317</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>403 sounds like the HTTP error code for &quot;forbidden&quot; (in other words access denied), so your IP address has probably been banned from the site. If you use a phone over a cellular network to access the site, it will not use the same IP and therefore not be banned.
+
+I would recommend you talking to an administrator or moderator of the site and find out what had happened, and maybe resolve the problem.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bdHw59ssaa</UserId>
+            <UserNick>Frxstrem</UserNick>
+            <Date>2010-03-04 14:51:02</Date>
+            <Timestamp>1267743062</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>the blogging site name would be useful. perhaps attempting to contact the blog admin to look into the issue.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5hYqAAo5aa</UserId>
+            <UserNick>NASTY_NATE</UserNick>
+            <Date>2010-03-04 14:58:58</Date>
+            <Timestamp>1267743538</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I agree with nasty, more details will help you get better answers.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PryoZ0yAaa</UserId>
+            <UserNick>Oniel Best</UserNick>
+            <Date>2010-03-08 02:47:58</Date>
+            <Timestamp>1268045278</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:09:28 PDT 2010 -->

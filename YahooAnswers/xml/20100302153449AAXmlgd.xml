@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302153449AAXmlgd" type="Answered">
+    <Subject>how can i view my webcam at home on my phone when i am at work?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-02 15:34:49</Date>
+    <Timestamp>1267572889</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302153449AAXmlgd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ab0e81ff07c99de02b44af168d73a379aa</UserId>
+    <UserNick>sharky</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Haha, trying to spy in on the wife, huh? Well here... http://www.eyespyfx.com/index.htm it&#039;s a trusted site but I haven&#039;t got to try the product yet, so... Yeah</ChosenAnswer>
+    <ChosenAnswererId>2mskfdHaaa</ChosenAnswererId>
+    <ChosenAnswererNick>MikeB214</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267573259</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268092495</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You&#039;ll need a webcam with its own ip address. they are available but are expensive. You could also use software that lets you run your PC remotely such as Gotomypc.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HkT5ncTOaa</UserId>
+            <UserNick>Chris</UserNick>
+            <Date>2010-03-02 15:39:13</Date>
+            <Timestamp>1267573153</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Haha, trying to spy in on the wife, huh? Well here... http://www.eyespyfx.com/index.htm it&#039;s a trusted site but I haven&#039;t got to try the product yet, so... Yeah</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2mskfdHaaa</UserId>
+            <UserNick>MikeB214</UserNick>
+            <Date>2010-03-02 15:40:59</Date>
+            <Timestamp>1267573259</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:24:28 PDT 2010 -->

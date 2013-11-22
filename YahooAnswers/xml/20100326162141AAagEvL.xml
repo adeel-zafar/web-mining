@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326162141AAagEvL" type="Answered">
+    <Subject>what happened to slipups.com ?</Subject>
+    <Content>when i try and go to the website it asks me to save or open the documented website !
+</Content>
+    <Date>2010-03-26 16:21:41</Date>
+    <Timestamp>1269645701</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326162141AAagEvL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oE4R3Envaa</UserId>
+    <UserNick>chelsea...</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>worked for me. Make sure you put in www first if you are using IE</ChosenAnswer>
+    <ChosenAnswererId>o0f9bLUDaa</ChosenAnswererId>
+    <ChosenAnswererNick>HammeringOracle</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269647285</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269664853</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>worked for me. Make sure you put in www first if you are using IE</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>o0f9bLUDaa</UserId>
+            <UserNick>HammeringOracle</UserNick>
+            <Date>2010-03-26 16:48:05</Date>
+            <Timestamp>1269647285</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:40 PDT 2010 -->

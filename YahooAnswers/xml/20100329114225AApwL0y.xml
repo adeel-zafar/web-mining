@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329114225AApwL0y" type="Answered">
+    <Subject>Why am I having such a hard time opening websites via my phone service &#039;high speed internet&#039;?</Subject>
+    <Content>When I use my Dell laptop at places with wifi access, i have no problem opening websites and surfing...
+
+At home, to get net access, i plug in the line that connects to a modem operated by my phone company- it is so much slower, and some websites open with no problem, BUT others like MSNBC, Hotmail  and Facebook seldom if ever open at all- 
+
+I have to tale my laptop out where i pick up wifi to get those sites- What&#039;s causing this?
+</Content>
+    <Date>2010-03-29 11:42:25</Date>
+    <Timestamp>1269888145</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329114225AApwL0y</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nt8ZBDvBaa</UserId>
+    <UserNick>ToadFace</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try buying a new router with the connection speed on the box that is 100mbps or over. Your problem might be you have an old or slow router, While the places you go for nwifi access will most likely have good routers.
+
+You can find plenty of routers in argos.</ChosenAnswer>
+    <ChosenAnswererId>kCDqGvD6aa</ChosenAnswererId>
+    <ChosenAnswererNick>No O</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269889007</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269902824</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What kind of connection do you have?  My first guess is that you have a slow internet connection at home vs the wifi spots you have been using.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jqimt65taa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-29 11:44:59</Date>
+            <Timestamp>1269888299</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Several things could be causing this problem 1) have your ISP tech dept do a line check to make sure it&#039;s not their equipment 2) check your router settings 3) your internet speed could be a problem 4) your firewall/antivirus  might be blocking the connection at home check those settings 5) make sure of your router settings</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jmq2i59Jaa</UserId>
+            <UserNick>House</UserNick>
+            <Date>2010-03-29 11:48:15</Date>
+            <Timestamp>1269888495</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Are you talking about a dialup modem or a DSL modem? If dialup, those are pretty much obsolete with today&#039;s high graphics websites. The top dialup modem speed is 53 kbps (kilobits, not megabits!), and most connections don&#039;t do better than 45 kbps. That&#039;s at least 30 times slower than even the slowest DSL.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10594501</UserId>
+            <UserNick>link</UserNick>
+            <Date>2010-03-29 11:50:02</Date>
+            <Timestamp>1269888602</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try buying a new router with the connection speed on the box that is 100mbps or over. Your problem might be you have an old or slow router, While the places you go for nwifi access will most likely have good routers.
+
+You can find plenty of routers in argos.</Content>
+            <Reference>personal expirence</Reference>
+            <Best>3</Best>
+            <UserId>kCDqGvD6aa</UserId>
+            <UserNick>No O</UserNick>
+            <Date>2010-03-29 11:56:47</Date>
+            <Timestamp>1269889007</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:15:57 PDT 2010 -->

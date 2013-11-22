@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331162957AAIM44l" type="Answered">
+    <Subject>VIRUS!! I really need help!!?</Subject>
+    <Content>So I wasn&#039;t even doing anything bad on my computer, I was just on iTunes then surfyhechannel.com which my brother said was fine and he hasn&#039;t had any problems with it. So anyways this antivirus suite popped up and I knew the it was a virus itself cause I have had a problem similar to this before so I just exited out of it, but then when I tried to go back on the Internet it wouldn&#039;t let me all it said was this site could be bad or something like that and I couldn&#039;t even go to control programs or anything, so I&#039;m just wondering how to get this off my computer it&#039;s quite important that I get everything back and running.
+</Content>
+    <Date>2010-03-31 16:29:57</Date>
+    <Timestamp>1270078197</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331162957AAIM44l</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rv4K9QCZaa</UserId>
+    <UserNick>Carat</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>wsZtB0xhaa</ChosenAnswererId>
+    <ChosenAnswererNick>google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270121815</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270122466</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Download Mcafae</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>E1m0gqSQaa</UserId>
+            <UserNick>Alex</UserNick>
+            <Date>2010-03-31 16:31:54</Date>
+            <Timestamp>1270078314</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try a virus scan with your installed anti-virus, making sure to run a &quot;full&quot; scan and NOT a &quot;fast&quot; scan.
+
+You can try a system restore to a date that you know is previous to the date which this issue began.
+
+You can also backup data you need onto discs/flash drive/external hard drive, and reinstall your operating system.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gDewwQd1aa</UserId>
+            <UserNick>concerned property owner</UserNick>
+            <Date>2010-03-31 16:33:31</Date>
+            <Timestamp>1270078411</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Download AVG Its Free If You Get The Basic Version.
+But It Works Really Well :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bpLESEYhaa</UserId>
+            <UserNick>Charlee</UserNick>
+            <Date>2010-03-31 16:33:33</Date>
+            <Timestamp>1270078413</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Restart PC in safe mode by tapping F-8 key, choosing &quot;Safe Mode with Networking&quot; from menu (black screen). Download, update, run Malwarebytes removing what it finds. In normal mode run Hitman Pro.</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://www.surfright.nl/en/hitmanpro</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-31 16:35:01</Date>
+            <Timestamp>1270078501</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>See here:
+
+http://www.geekpolice.net/malware-removal-guides-f12/how-to-remove-antivirus-suite-removal-guide-t20595.htm</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pHNvpmOuaa</UserId>
+            <UserNick>███████</UserNick>
+            <Date>2010-03-31 22:54:44</Date>
+            <Timestamp>1270101284</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>OMG! This virus spreads itself quite actively. Here is the guide I used when I had the same scam:
+http://www.2-spyware.com/remove-antivirus-suite.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8PAkgYMfaa</UserId>
+            <UserNick>George</UserNick>
+            <Date>2010-04-01 04:17:50</Date>
+            <Timestamp>1270120670</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wsZtB0xhaa</UserId>
+            <UserNick>google</UserNick>
+            <Date>2010-04-01 04:36:55</Date>
+            <Timestamp>1270121815</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:27 PDT 2010 -->

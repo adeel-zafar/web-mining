@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313173209AAs4DIG" type="Answered">
+    <Subject>which internet is the best?</Subject>
+    <Content>my brother&#039;s birthday is coming up and i want to get him one.
+</Content>
+    <Date>2010-03-13 17:32:09</Date>
+    <Timestamp>1268530329</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313173209AAs4DIG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0ctN1gCsaa</UserId>
+    <UserNick>not2brite</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ULxpZ9aGAAIC8UL2te_4DQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Get the internets that are free.</ChosenAnswer>
+    <ChosenAnswererId>S3a9cjoGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jacked Up</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268530424</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268819552</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>By internet i&#039;m assuming your talking about ISPs. I would recommend comcast. I have had great results with them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>r8HAHhgkaa</UserId>
+            <UserNick>Ben D</UserNick>
+            <Date>2010-03-13 17:33:43</Date>
+            <Timestamp>1268530423</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Get the internets that are free.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>S3a9cjoGaa</UserId>
+            <UserNick>Jacked Up</UserNick>
+            <Date>2010-03-13 17:33:44</Date>
+            <Timestamp>1268530424</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It really depends on whats available in your area, based on whats available in my area, Roadrunner (Time Warner Cable) internet is the best.</Content>
+            <Reference>Research into local ISP&#039;s</Reference>
+            <Best></Best>
+            <UserId>b3c37234d8501a1e21f2b589e4f489e2aa</UserId>
+            <UserNick>gamer1612</UserNick>
+            <Date>2010-03-13 17:42:05</Date>
+            <Timestamp>1268530925</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:17 PDT 2010 -->

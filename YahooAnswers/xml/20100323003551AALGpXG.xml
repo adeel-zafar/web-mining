@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323003551AALGpXG" type="Answered">
+    <Subject>JUNK E-MAIL, while using the e-mail account for the first time?</Subject>
+    <Content>Hi,
+I have created a new e-mail account at Live Mail (hotmail), and the first e-mail I sent from that new e-mail account to myself (to an older e-mail addres of mine) to test my new account, was not good. It sent that first mail to the junk folder of my older e-mail account. So, the new e-mail address is marked as junk, while I never used it before. Every one get my e-mails from my new account to junk e-mail folder.
+
+What can I do?
+</Content>
+    <Date>2010-03-23 00:35:51</Date>
+    <Timestamp>1269329751</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323003551AALGpXG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10348607</UserId>
+    <UserNick>iguana</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it can be the email id name..... change the account... create a new one.... there is no support for this free account,, so far i think.</ChosenAnswer>
+    <ChosenAnswererId>Oe2ywDc5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Hassan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269330007</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269515654</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it can be the email id name..... change the account... create a new one.... there is no support for this free account,, so far i think.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Oe2ywDc5aa</UserId>
+            <UserNick>Hassan</UserNick>
+            <Date>2010-03-23 00:40:07</Date>
+            <Timestamp>1269330007</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Junk email:
+when an email address is not in your address book then it goes to junk...
+
+shitansh sinha</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RdkdxDGHaa</UserId>
+            <UserNick>Shitansh S</UserNick>
+            <Date>2010-03-23 00:42:03</Date>
+            <Timestamp>1269330123</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:19:39 PDT 2010 -->

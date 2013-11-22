@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321125345AAkTaiw" type="Answered">
+    <Subject>Hide my IP address, but live UK TV unavailable?</Subject>
+    <Content>I use a &#039;Hide my IP address&#039; service to protect my PC from unauthorised access. I connect to ITV catchup TV and BBC iPlayer no problem but can no longer watch live TV as I used to. Do the TV companies now log all the IP addresses used by the &#039;Hide IP&#039; services so they can block their use? Or is there a live TV player service I can still use via &#039;Hide my IP address&#039;?
+</Content>
+    <Date>2010-03-21 12:53:45</Date>
+    <Timestamp>1269201225</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321125345AAkTaiw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>f77ade35721eb90033f5428c6a127db8aa</UserId>
+    <UserNick>Jandyo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I use a personal VPN, http://www.surfbouncer.com to both hide my IP and watch video and TV from all over the world. I hook into their US servers for Hulu and the TV networks and use the UK servers to watch iPlayer form overseas.</ChosenAnswer>
+    <ChosenAnswererId>d1yfbvdXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269370848</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269720857</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I use a personal VPN, http://www.surfbouncer.com to both hide my IP and watch video and TV from all over the world. I hook into their US servers for Hulu and the TV networks and use the UK servers to watch iPlayer form overseas.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>d1yfbvdXaa</UserId>
+            <UserNick>Nan</UserNick>
+            <Date>2010-03-23 12:00:48</Date>
+            <Timestamp>1269370848</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:26:56 PDT 2010 -->

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312155515AA74Fuo" type="Answered">
+    <Subject>I caught Generic!Artemis virus! I need help fixing my system.?</Subject>
+    <Content>I removed the virus within minutes of it hitting my Windows Vista, but it somehow took stopped the connection of my applications (.EXE) from getting to my shortcuts, and i keep getting the &quot;Open With&quot; window every time i try to open anything, or it just says that it can&#039;t find the application. I know the applications are there because I found them and they work in a really roundabout fashion, but mostly its just pissing me off that i have to spend so much time opening any files, and I cannot alter anything on my hardrive and it is very annoying. And also, the lottle button on taskbar that moniters my battery life has disappeared and the scroll lines on the mouse pad are not working either.
+
+I have already tried malware bytes and it does not work since i did actually remove the virus and all the files it downloaded.
+
+Please help, I&#039;m going crazy trying to fix this!!
+</Content>
+    <Date>2010-03-12 15:55:15</Date>
+    <Timestamp>1268438115</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312155515AA74Fuo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rdFBdkVzaa</UserId>
+    <UserNick>Davidoff</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268518684</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268519306</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://search.yahoo.com/search?ei=utf-8&amp;fr=ytff1-yff35&amp;p=malwarebytes&amp;ei=UTF-8&amp;type=</Content>
+            <Reference>http://search.yahoo.com/search?ei=utf-8&amp;fr=ytff1-yff35&amp;p=malwarebytes&amp;ei=UTF-8&amp;type=</Reference>
+            <Best></Best>
+            <UserId>AA11767225</UserId>
+            <UserNick>bert_beer</UserNick>
+            <Date>2010-03-12 16:03:18</Date>
+            <Timestamp>1268438598</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-13 14:18:04</Date>
+            <Timestamp>1268518684</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:44 PDT 2010 -->

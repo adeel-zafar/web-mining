@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324223111AAwswIn" type="Answered">
+    <Subject>I need help with DIV layouts?</Subject>
+    <Content>I usually go to this website createblog.com to get all my DIV layouts. i&#039;ve recently gone to the site and none of the layouts show up. is there something wrong with my computer or the site? I figured if the site was messed up i could find another div layout website but to be honest, they&#039;re all crap. can someone either direct to me to a div layouts website or tell me if its just my computer not loading the site&#039;s layouts?
+</Content>
+    <Date>2010-03-24 22:31:11</Date>
+    <Timestamp>1269495071</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324223111AAwswIn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4sB04VqIaa</UserId>
+    <UserNick>Ari</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1W3z3RGAHAAQEOeGZhJPNtMli27qDiGIR.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You probably want to check the layouts to see if they reference any external CSS files. If those links break (as in, the files become unavailable for any reason at all), you&#039;re gonna get funny display misunderstandings between your website and browser. The best div layouts are the ones you make yourself, of course, since you know that there aren&#039;t any url triggers such as the ones used by http://whattheinternetknowsaboutyou.com , or any creepy scripts or cookie tracker gifs.</ChosenAnswer>
+    <ChosenAnswererId>68b05052c5d2532b5d69227f971ad2d8aa</ChosenAnswererId>
+    <ChosenAnswererNick>campadrenalin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269496592</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270014221</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You probably want to check the layouts to see if they reference any external CSS files. If those links break (as in, the files become unavailable for any reason at all), you&#039;re gonna get funny display misunderstandings between your website and browser. The best div layouts are the ones you make yourself, of course, since you know that there aren&#039;t any url triggers such as the ones used by http://whattheinternetknowsaboutyou.com , or any creepy scripts or cookie tracker gifs.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>68b05052c5d2532b5d69227f971ad2d8aa</UserId>
+            <UserNick>campadrenalin</UserNick>
+            <Date>2010-03-24 22:56:32</Date>
+            <Timestamp>1269496592</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:22 PDT 2010 -->

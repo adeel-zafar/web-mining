@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328145800AACK5o1" type="Answered">
+    <Subject>Is there a free file hosting website that will pay me per download?</Subject>
+    <Content>Like Ziddu.com but with unlimited or large uploads (around 1gb would do rightly)
+</Content>
+    <Date>2010-03-28 14:58:00</Date>
+    <Timestamp>1269813480</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328145800AACK5o1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZhDkgaJ5aa</UserId>
+    <UserNick>Heather B</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb0d12ci1c01zws114ac4/F9.zIx45fqdiMuwIaZT1Ieu7VNwIxFZwVKE-/2/tn48.jpeg?ciAAToMBbEOJ2Smg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s unlikely since those kind of file hosting services earn money and pay you by showing ads. That means that every time someone&#039;s downloading something they see some ads which pay for: their bandwidth, servers, electricity, employees, plus your earnings and their profit.
+
+If everybody posted huge files that would mean that they would show a lot less ads per MB of download which probably wouldn&#039;t be enough to pay for everything.</ChosenAnswer>
+    <ChosenAnswererId>TlwnU1Upaa</ChosenAnswererId>
+    <ChosenAnswererNick>James</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269855746</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270332936</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s unlikely since those kind of file hosting services earn money and pay you by showing ads. That means that every time someone&#039;s downloading something they see some ads which pay for: their bandwidth, servers, electricity, employees, plus your earnings and their profit.
+
+If everybody posted huge files that would mean that they would show a lot less ads per MB of download which probably wouldn&#039;t be enough to pay for everything.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TlwnU1Upaa</UserId>
+            <UserNick>James</UserNick>
+            <Date>2010-03-29 02:42:26</Date>
+            <Timestamp>1269855746</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:52 PDT 2010 -->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222152422AATmPzW" type="Answered">
+    <Subject>Vista Internet Security 2010 virus?</Subject>
+    <Content>A box keeps popping up every few minutes saying that my computer is infected with trojans and I need to buy a program to get rid of it. I know it&#039;s virus, but I ran Malwarebytes Anti-malware and it didn&#039;t detect anything. I never installed the Vista Internet Security and it&#039;s not showing up on the un-install list. How do I get it to stop?
+</Content>
+    <Date>2010-02-22 15:24:22</Date>
+    <Timestamp>1266881062</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222152422AATmPzW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2O63JIrtaa</UserId>
+    <UserNick>Goldiamond</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266937327</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266937994</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>restart the computer and pen in the safe mode with network available
+
+then download superanti spyware...
+
+then run it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iU2e8dsRaa</UserId>
+            <UserNick>Pirates of Hell</UserNick>
+            <Date>2010-02-22 15:26:47</Date>
+            <Timestamp>1266881207</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>remove it manually: http://www.spywarevoid.com/remove-vista-internet-security-2010-removal.html or download Spyware Doctor.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qqnkK2Jgaa</UserId>
+            <UserNick>Bryan Michael</UserNick>
+            <Date>2010-02-23 06:59:02</Date>
+            <Timestamp>1266937142</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-02-23 07:02:07</Date>
+            <Timestamp>1266937327</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:26:05 PDT 2010 -->

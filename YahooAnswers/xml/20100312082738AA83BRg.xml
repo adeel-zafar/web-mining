@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312082738AA83BRg" type="Answered">
+    <Subject>How can I tell when my history was cleared last?</Subject>
+    <Content>I am on a Firefox web browser and I went to check the history this morning and it is empty.  Is there a way to find out what was there or when it was last erased?
+</Content>
+    <Date>2010-03-12 08:27:38</Date>
+    <Timestamp>1268411258</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312082738AA83BRg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>47f2bce7f686c8a43403d5fbd6b20aa7aa</UserId>
+    <UserNick>Kat9</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1GAD3Ai1UAAABTWOcpBbOZMk4WSir2w==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>hmm.. well wait a couple of days.. find the earliest in the history list. well it was cleared right before that...!</ChosenAnswer>
+    <ChosenAnswererId>cpwVjpP6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Navjeet C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268411541</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269768149</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>hmm.. well wait a couple of days.. find the earliest in the history list. well it was cleared right before that...!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cpwVjpP6aa</UserId>
+            <UserNick>Navjeet C</UserNick>
+            <Date>2010-03-12 08:32:21</Date>
+            <Timestamp>1268411541</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>sorry u cant :(</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>P0LLOH0Qaa</UserId>
+            <UserNick>RazoRcutKisseS</UserNick>
+            <Date>2010-03-12 08:37:46</Date>
+            <Timestamp>1268411866</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:09:55 PDT 2010 -->

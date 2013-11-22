@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307182406AAYA3eF" type="Answered">
+    <Subject>Can i change my shipping address?</Subject>
+    <Content>i ordered something from pacsun online.
+can i change the shipping address after
+the order has been submitted?
+i bought my item as a guest,
+i can put in the product number thing
+and view the details and stuff,
+but i dont see like, an edit button or
+anything anywhere.
+</Content>
+    <Date>2010-03-07 18:24:06</Date>
+    <Timestamp>1268015046</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307182406AAYA3eF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vtvFdt4Iaa</UserId>
+    <UserNick>Casey</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://whois.domaintools.com/pacsun.com
+it is best to give them a call.
+the shipping address may already be tied to the order</ChosenAnswer>
+    <ChosenAnswererId>wxsB4w0daa</ChosenAnswererId>
+    <ChosenAnswererNick>Lucy Girl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268016767</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268638342</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, go to your profile</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>76ZOJO1Aaa</UserId>
+            <UserNick>Salim N</UserNick>
+            <Date>2010-03-07 18:26:27</Date>
+            <Timestamp>1268015187</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://whois.domaintools.com/pacsun.com
+it is best to give them a call.
+the shipping address may already be tied to the order</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wxsB4w0daa</UserId>
+            <UserNick>Lucy Girl</UserNick>
+            <Date>2010-03-07 18:52:47</Date>
+            <Timestamp>1268016767</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:36:24 PDT 2010 -->

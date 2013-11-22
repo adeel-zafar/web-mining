@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223094435AA7wmA8" type="Answered">
+    <Subject>internet  can&#039;t browse the internet?</Subject>
+    <Content>my mom has dsl xp dsektop well she say she can check her emails can;t browse the web. she called her isp went into some settings that did not fix it. any ideals ? thanks
+internet explorer 7 no proxy
+</Content>
+    <Date>2010-02-23 09:44:35</Date>
+    <Timestamp>1266947075</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223094435AA7wmA8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9Hm9Pj87aa</UserId>
+    <UserNick>Art</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>With the little information provided, it is impossible to determine the problem. 
+
+Most ISPs provide a self support tool (program) that was installed on your computer when you did the initial set up. That will test your set up &amp; tell you what&#039;s wrong. Look in the Start menu or Start &gt; Programs. Mine is called SBC Self Support Tool because I have SBC DSL. Click it &amp; it will run a wizard &amp; test your system &amp; then provide possible solutions. If those solutions fail to solve the problem, a call to your ISP is the next step. You may have to pay to have someone come out to fix it, if it can&#039;t be solved over the phone.
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267261391</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267466800</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well. It would help if you went and told people what browser you were using. Chances are if she can check her email than she is using an email client and is not really online. 
+
+First check your internet connection. 
+If it is fine than make sure that your computer is hooked up directly to the internet NOT through a proxy.
+People get all pissed of at their ISP&#039;s but this is hardly ever the cause. Can other computers in your house browse the web?
+
+Finally download and install another web-browser. If this doesn&#039;t work than you proably have a registry problem.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>soFbQssVaa</UserId>
+            <UserNick>Jamin</UserNick>
+            <Date>2010-02-23 09:54:29</Date>
+            <Timestamp>1266947669</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>With the little information provided, it is impossible to determine the problem. 
+
+Most ISPs provide a self support tool (program) that was installed on your computer when you did the initial set up. That will test your set up &amp; tell you what&#039;s wrong. Look in the Start menu or Start &gt; Programs. Mine is called SBC Self Support Tool because I have SBC DSL. Click it &amp; it will run a wizard &amp; test your system &amp; then provide possible solutions. If those solutions fail to solve the problem, a call to your ISP is the next step. You may have to pay to have someone come out to fix it, if it can&#039;t be solved over the phone.
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-02-27 01:03:11</Date>
+            <Timestamp>1267261391</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:21:13 PDT 2010 -->

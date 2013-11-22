@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318135954AAGfKAO" type="Answered">
+    <Subject>Does Lockerz Ship to Canada?</Subject>
+    <Content>do you have to pay? do you need to pay with extra points?
+is it free?
+</Content>
+    <Date>2010-03-18 13:59:54</Date>
+    <Timestamp>1268945994</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318135954AAGfKAO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RDS09iYGaa</UserId>
+    <UserNick>Phil B</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>do u have to pay? no
+do u need to pay with extra points? no
+is it free? yes, if u have enough points to buy what u want.</ChosenAnswer>
+    <ChosenAnswererId>1d6hGRsHaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kaitlyn</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268947065</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269288759</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>do u have to pay? no
+do u need to pay with extra points? no
+is it free? yes, if u have enough points to buy what u want.</Content>
+            <Reference>experience</Reference>
+            <Best>1</Best>
+            <UserId>1d6hGRsHaa</UserId>
+            <UserNick>Kaitlyn</UserNick>
+            <Date>2010-03-18 14:17:45</Date>
+            <Timestamp>1268947065</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes they ship to canada, No,No , and yes</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ICqX1dqIaa</UserId>
+            <UserNick>Nycgirl92</UserNick>
+            <Date>2010-03-19 13:52:49</Date>
+            <Timestamp>1269031969</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:39:08 PDT 2010 -->

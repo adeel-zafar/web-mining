@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315142037AA2COXP" type="Answered">
+    <Subject>Having issues rsending an e-mail to an &#039;&#039;aol.com&#039;&#039; address?</Subject>
+    <Content>i have an ad on gumtree and people are replying to it via my e-mail, one person who i would like to talk to has sent an e-mail and every time i reply it comes up with a postmaster fail e-mail. any other e-mail address works fine it is just this particular one.
+
+ps iv have tried it on hotmail and googlemail accounts and its still failed
+</Content>
+    <Date>2010-03-15 14:20:37</Date>
+    <Timestamp>1268688037</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315142037AA2COXP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>W0clGD6haa</UserId>
+    <UserNick>Alex-O</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Read the error inside the email. If it&#039;s just happening with the ONE email address, chances are that person doesn&#039;t actually HAVE an account. Some people are really clever at spoofing emails so it LOOKS like the email is valid, but it&#039;s actually not.</ChosenAnswer>
+    <ChosenAnswererId>cW5RVWNzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Diana R.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268692391</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268848267</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Read the error inside the email. If it&#039;s just happening with the ONE email address, chances are that person doesn&#039;t actually HAVE an account. Some people are really clever at spoofing emails so it LOOKS like the email is valid, but it&#039;s actually not.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>cW5RVWNzaa</UserId>
+            <UserNick>Diana R.</UserNick>
+            <Date>2010-03-15 15:33:11</Date>
+            <Timestamp>1268692391</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:53:22 PDT 2010 -->

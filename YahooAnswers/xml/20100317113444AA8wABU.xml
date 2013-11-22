@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317113444AA8wABU" type="Answered">
+    <Subject>does anybody know any cool sites for 10-12 to go on?</Subject>
+    <Content>i don&#039;t want anything like barbie.com i want something u can chat and make friends on
+</Content>
+    <Date>2010-03-17 11:34:44</Date>
+    <Timestamp>1268850884</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317113444AA8wABU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yn8iUFZVaa</UserId>
+    <UserNick>Amanda</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1O0ETNcgGAAIB-IFCcAneEV32mLptug==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Whyville.com</ChosenAnswer>
+    <ChosenAnswererId>H3Va1OKqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Spilt F</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268851011</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269042249</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Whyville.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>H3Va1OKqaa</UserId>
+            <UserNick>Spilt F</UserNick>
+            <Date>2010-03-17 11:36:51</Date>
+            <Timestamp>1268851011</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:11 PDT 2010 -->

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315103208AALpu0J" type="Answered">
+    <Subject>The IP address for the website channel 131?</Subject>
+    <Content>So basically,channel 131 was blocked by my daddy using the Netgear Firewall. Proxies are stupid and cause viruses. Can somebody tell me how to either kill the firewall or give me a proxy that allows javascript and dosen&#039;t suck or giveme theip address for channel 131? Please and thankyous.
+
+PS: please don&#039;t tell me that i should just talk to my dad cause we do NOT get along. ever. no questions asked.
+</Content>
+    <Date>2010-03-15 10:32:08</Date>
+    <Timestamp>1268674328</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315103208AALpu0J</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ecOt2lGdaa</UserId>
+    <UserNick>Shawanda</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1c-Re_0qUAAIEvKOacCYDpsrKHQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Domain: ch131.com
+Status: Protected
+
+DNS:
+        ns1.ch131.com
+        ns2.ch131.com
+
+Created: 2008-08-08 04:38:10
+Expires: 2011-08-08 04:38:10
+Last Modified: 2009-02-04 18:36:17
+
+Registrant Contact:
+        Whoisprotection.cc
+        Domain Admin  ()
+        Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil
+        Kuala Lumpur, Wilayah Persekutuan, Malaysia 57000
+        P: +603.89966788         F: +603.0
+
+Administrative Contact:
+        Whoisprotection.cc
+        Domain Admin  ()
+        Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil
+        Kuala Lumpur, Wilayah Persekutuan, Malaysia 57000
+        P: +603.89966788         F: +603.0
+
+Technical Contact:
+        Whoisprotection.cc
+        Domain Admin  ()
+        Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil
+        Kuala Lumpur, Wilayah Persekutuan, Malaysia 57000
+        P: +603.89966788         F: +603.0
+
+Billing Contact:
+        Whoisprotection.cc
+        Domain Admin  ()
+        Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil
+        Kuala Lumpur, Wilayah Persekutuan, Malaysia 57000
+        P: +603.89966788         F: +603.0</ChosenAnswer>
+    <ChosenAnswererId>RGojRInzaa</ChosenAnswererId>
+    <ChosenAnswererNick>cs.c0sa</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268674878</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268772288</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>DNS. Learn it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HC3nHkHkaa</UserId>
+            <UserNick>A Name Goes Right Here</UserNick>
+            <Date>2010-03-15 10:35:48</Date>
+            <Timestamp>1268674548</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>First you say proxies are stupid and cause viruses (they don&#039;t)
+
+Then you ask us for a proxy address. 
+
+They&#039;re stupid but you want one anyway? *confused*</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RCU8qmx0aa</UserId>
+            <UserNick>ValerieB</UserNick>
+            <Date>2010-03-15 10:36:15</Date>
+            <Timestamp>1268674575</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Domain: ch131.com
+Status: Protected
+
+DNS:
+        ns1.ch131.com
+        ns2.ch131.com
+
+Created: 2008-08-08 04:38:10
+Expires: 2011-08-08 04:38:10
+Last Modified: 2009-02-04 18:36:17
+
+Registrant Contact:
+        Whoisprotection.cc
+        Domain Admin  ()
+        Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil
+        Kuala Lumpur, Wilayah Persekutuan, Malaysia 57000
+        P: +603.89966788         F: +603.0
+
+Administrative Contact:
+        Whoisprotection.cc
+        Domain Admin  ()
+        Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil
+        Kuala Lumpur, Wilayah Persekutuan, Malaysia 57000
+        P: +603.89966788         F: +603.0
+
+Technical Contact:
+        Whoisprotection.cc
+        Domain Admin  ()
+        Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil
+        Kuala Lumpur, Wilayah Persekutuan, Malaysia 57000
+        P: +603.89966788         F: +603.0
+
+Billing Contact:
+        Whoisprotection.cc
+        Domain Admin  ()
+        Lot 2-1, Incubator 1, Technology Park Malaysia, Bukit Jalil
+        Kuala Lumpur, Wilayah Persekutuan, Malaysia 57000
+        P: +603.89966788         F: +603.0</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>RGojRInzaa</UserId>
+            <UserNick>cs.c0sa</UserNick>
+            <Date>2010-03-15 10:41:18</Date>
+            <Timestamp>1268674878</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try with these:
+
+http://www.homecomputer.ro
+http://www.findyourdating.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QyVyYTn1aa</UserId>
+            <UserNick>HomeComputer.ro</UserNick>
+            <Date>2010-03-16 04:11:02</Date>
+            <Timestamp>1268737862</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:54:10 PDT 2010 -->

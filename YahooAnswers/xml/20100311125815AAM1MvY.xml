@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311125815AAM1MvY" type="Answered">
+    <Subject>My Safari has lost its URL bar...?</Subject>
+    <Content>Ok so y&#039;know the bit were you type in what site you want to go too [not sure what the proper name is for that] but yeah its gone o.O and i uninstalled and installed again but its still not there i dont know whats happened :\ my friend was using it then she went and when i came back on it BAM it was no longer there :|
+
+Please HELP i &lt;3 Safari....
+nope not on a mac... all i have is my bookmarked things... o.O
+</Content>
+    <Date>2010-03-11 12:58:15</Date>
+    <Timestamp>1268341095</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311125815AAM1MvY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WJwkyX6qaa</UserId>
+    <UserNick>little lady</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you are on a mac right click where your url bar used to be, click customize toolbar and then drag and drop the url bar where you want it.</ChosenAnswer>
+    <ChosenAnswererId>Nn91pbFcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nelzoma</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268341717</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268865871</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>View &gt; Show Toolbar.
+
+Keyboard command: Cmd+Shift+| (above the enter key)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EhJrgPqPaa</UserId>
+            <UserNick>Yectep</UserNick>
+            <Date>2010-03-11 12:59:38</Date>
+            <Timestamp>1268341178</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you are on a mac right click where your url bar used to be, click customize toolbar and then drag and drop the url bar where you want it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Nn91pbFcaa</UserId>
+            <UserNick>Zed</UserNick>
+            <Date>2010-03-11 13:08:37</Date>
+            <Timestamp>1268341717</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:13:09 PDT 2010 -->

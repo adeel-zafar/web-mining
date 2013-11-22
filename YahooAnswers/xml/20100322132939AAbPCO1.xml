@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322132939AAbPCO1" type="Answered">
+    <Subject>I am a complete Wordpress.com novice - can anyone help?</Subject>
+    <Content>We have been told to create a &#039;website&#039; using Wordpress for our Media Coursework. I know what I want to put in it and how I want it to look, but I have no idea how to use HTMLs or how to work it.
+
+My &#039;website&#039; is on Quentin Tarantino: his films, his background, the usual stuff. 
+
+First off, I wondered if it was possible to create pages within a page - creating a drop down menu of &quot;sub-pages&quot; linked to the main page. So for example, if the page was &#039;Pulp Fiction&#039;, I&#039;d quite like to have synopsis, trailers, reviews, and production pages that come under it, but as I said, I don&#039;t know if this is possible, and if so, how to do it.
+
+I&#039;d also be really appreciative if someone could give me a few tips tat would be able to help me out; I&#039;ve managed to work out how to upload links and audio and video from YouTube, but that is about it.
+
+If someone could help out, I&#039;d be extremely appreciative and grateful!
+
+Cheers!
+
+Oh, and by the way, if anyone wanted to know the website, it&#039;s http://iamlouis23.wordpress.com/ (but there is nothing on there!)
+</Content>
+    <Date>2010-03-22 13:29:39</Date>
+    <Timestamp>1269289779</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322132939AAbPCO1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6syybQazaa</UserId>
+    <UserNick>iamlouis23</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1adFQm0JOAAEB6OyGtlU=.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can indeed arrange pages this way.  When you do a new page, the Attributes menu should appear on the right side of the editing page, with a message like this: &quot;You can arrange your pages in hierarchies. For example, you could have an &#039;About&#039; page that has &#039;Life Story&#039; and &#039;My Dog&#039; pages under it. There are no limits to how deeply nested you can make pages.&quot;
+
+Make the new page, make the old page the Parent, and you&#039;ve got it.</ChosenAnswer>
+    <ChosenAnswererId>dztKGMAQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Windowphobe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269305214</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269305281</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hi -- There are several different types of Wordpress websites you can set up.  The free ones are not very functional, and from what you describe above, you would want a website that you have to pay for in order to get the functionality you want.  Because this is for school, you may not want to go that route.  Depends on how bad you want a good grade!
+
+Sorry I couldn&#039;t give you more good (free) news!
+
+Good luck.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8pOPxgoVaa</UserId>
+            <UserNick>Suelemente</UserNick>
+            <Date>2010-03-22 13:57:14</Date>
+            <Timestamp>1269291434</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Agreed...In order to create what you want you are probably looking into a self-hosted wordpress installation, which will require you to have your own server space and database to upload and install wordpress on.
+
+Creating subpages is easy...when you create a subpage, simply select a &quot;parent&quot; page before you post it.
+
+However, to display them in a drop-down navigation is going to depend on whether you &quot;Theme&quot; supports drop-down navigation or now.
+
+You can find some great free and premium themes here:  http://www.wpexplorer.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TPdDSxLraa</UserId>
+            <UserNick>WPExplorer</UserNick>
+            <Date>2010-03-22 14:48:01</Date>
+            <Timestamp>1269294481</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can indeed arrange pages this way.  When you do a new page, the Attributes menu should appear on the right side of the editing page, with a message like this: &quot;You can arrange your pages in hierarchies. For example, you could have an &#039;About&#039; page that has &#039;Life Story&#039; and &#039;My Dog&#039; pages under it. There are no limits to how deeply nested you can make pages.&quot;
+
+Make the new page, make the old page the Parent, and you&#039;ve got it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dztKGMAQaa</UserId>
+            <UserNick>Windowphobe</UserNick>
+            <Date>2010-03-22 17:46:54</Date>
+            <Timestamp>1269305214</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:21 PDT 2010 -->

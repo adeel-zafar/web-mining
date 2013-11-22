@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224223447AAZspD7" type="Answered">
+    <Subject>Whats the best website which  allows people to upload 2 hour long vidoes?</Subject>
+    <Content>its not a movie if ur wondering 0.o
+</Content>
+    <Date>2010-02-24 22:34:47</Date>
+    <Timestamp>1267079687</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224223447AAZspD7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kPdu1yZ6aa</UserId>
+    <UserNick>Justin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There are many:
+
+Depositfiles.com
+Rapidshare.com
+Megaupload.com
+
+2 hour long videos are usually around 700MB  so it&#039;s plenty enough for most file uploading websites.</ChosenAnswer>
+    <ChosenAnswererId>AA11352461</ChosenAnswererId>
+    <ChosenAnswererNick>hunterxh2020</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267080868</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267599181</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>megaupload.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tYzmA77paa</UserId>
+            <UserNick>Sy K</UserNick>
+            <Date>2010-02-24 22:35:36</Date>
+            <Timestamp>1267079736</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>uploading to do what</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>9W12ZE5Caa</UserId>
+            <UserNick>cimmic13</UserNick>
+            <Date>2010-02-24 22:36:57</Date>
+            <Timestamp>1267079817</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There are many:
+
+Depositfiles.com
+Rapidshare.com
+Megaupload.com
+
+2 hour long videos are usually around 700MB  so it&#039;s plenty enough for most file uploading websites.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11352461</UserId>
+            <UserNick>hunterxh2020</UserNick>
+            <Date>2010-02-24 22:54:28</Date>
+            <Timestamp>1267080868</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr 21 01:14:25 PDT 2010 -->

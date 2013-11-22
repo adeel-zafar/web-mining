@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313212105AA3Pen9" type="Answered">
+    <Subject>is this bad?!?!!?!? please let me know.?</Subject>
+    <Content>i went on the internet and every website i have an account for was signed out when its usually always signed in. (myspace, yahoo, twitter, youtube, ect.) is it like caused by a virus or something?
+please please let me know.
+</Content>
+    <Date>2010-03-13 21:21:05</Date>
+    <Timestamp>1268544065</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313212105AA3Pen9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d98NG4dnaa</UserId>
+    <UserNick>Sykes.&lt;3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>doubtful. your &quot;cookies&quot; were probably deleted. those are files that save information like passwords. but no worry, its healthy for the computer for those to be deleted every once in a while.</ChosenAnswer>
+    <ChosenAnswererId>W2gU0xsJaa</ChosenAnswererId>
+    <ChosenAnswererNick>Boolia</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268544204</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269059714</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I love how people assume everything is the cause of a &quot;Virus&quot;. Tell me what is this &quot;Virus&quot;?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nXwoqRQ1aa</UserId>
+            <UserNick>:O</UserNick>
+            <Date>2010-03-13 21:22:11</Date>
+            <Timestamp>1268544131</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>your cookies were just cleaned. Its not a bad thing, it just happens. mine does that too when i have a computer update, not virus.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SqJoiKgaaa</UserId>
+            <UserNick>xdfaithxd</UserNick>
+            <Date>2010-03-13 21:23:03</Date>
+            <Timestamp>1268544183</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>doubtful. your &quot;cookies&quot; were probably deleted. those are files that save information like passwords. but no worry, its healthy for the computer for those to be deleted every once in a while.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>W2gU0xsJaa</UserId>
+            <UserNick>Boolia</UserNick>
+            <Date>2010-03-13 21:23:24</Date>
+            <Timestamp>1268544204</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>All of this information is stored in something called a cookie. This little file contains the information to each website and can be deleted by going to tools -&gt; internet options in internet explorer. If these cookies are deleted,  the next time you visit the site you will need to log in again. There shouldn&#039;t be any worries for viruses or malware. If you suspect anything, use your anti virus program such as McAfee or Symantec and then use an anti-malware program such as Ad-aware or Malwarebytes Anti-malware to be safe.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA12380435</UserId>
+            <UserNick>scotty3281</UserNick>
+            <Date>2010-03-13 21:26:45</Date>
+            <Timestamp>1268544405</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You likely just deleted your history and this may have &quot;cleaned out&quot; your cookies, passwords etc. from the browser. That&#039;s not a problem, and should be done regularly anyway. Just re-enter the information and uncheck any boxes that delete your &quot;browsing history&quot; information. It doesn&#039;t sound like any virus. Good luck!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dna6JMaJaa</UserId>
+            <UserNick>Smokies Hiker</UserNick>
+            <Date>2010-03-13 21:36:08</Date>
+            <Timestamp>1268544968</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:30 PDT 2010 -->

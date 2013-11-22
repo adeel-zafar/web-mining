@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226135918AAmlVQN" type="Answered">
+    <Subject>Why can i not get on the Verizon wireless website?</Subject>
+    <Content>I cant log into Verizon my password and user name are correct but i keeps saying address not found. I have tryed 4 different browsers and nothing will work!
+</Content>
+    <Date>2010-02-26 13:59:18</Date>
+    <Timestamp>1267221558</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226135918AAmlVQN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>78pMXSpwaa</UserId>
+    <UserNick>Alex</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hello
+Go here
+
+http://www.verizonwireless.com/b2c/index.html</ChosenAnswer>
+    <ChosenAnswererId>dSaDG765aa</ChosenAnswererId>
+    <ChosenAnswererNick>ԃДɳїƐԼ ԃüֆƐɳՇЯїƐβ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267564044</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267740950</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hello
+Go here
+
+http://www.verizonwireless.com/b2c/index.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dSaDG765aa</UserId>
+            <UserNick>ԃДɳїƐԼ ԃüֆƐɳՇЯїƐβ</UserNick>
+            <Date>2010-03-02 13:07:24</Date>
+            <Timestamp>1267564044</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:50:01 PDT 2010 -->

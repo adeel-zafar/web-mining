@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305101741AApMYmd" type="Answered">
+    <Subject>Is microsoft security essentials a complete anti virus? do i need any other software to download also?</Subject>
+    <Content>I want to know about the antivirus, malware, firewall and spyware. What  r their functions? Is ms security essentials a good av, does it protect from all these or i need to install any additional protection if yes which one &amp; where from (FREE). How long it will protect my PC. I have got my new dell inspiron 15 PC, PLEASE let me know if i need to download any softwares or programmes? THANKS
+</Content>
+    <Date>2010-03-05 10:17:41</Date>
+    <Timestamp>1267813061</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305101741AApMYmd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>l9nC4jHKaa</UserId>
+    <UserNick>Satish</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes microsoft security essentials is a complete anti virus and i am also using the same and has&#039;nt created any problems till now, so don&#039;t worry and use it bindass.........</ChosenAnswer>
+    <ChosenAnswererId>h0TuMdu1aa</ChosenAnswererId>
+    <ChosenAnswererNick>Bunty ghatge</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267814783</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268332573</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes : http://www.malwarebytes.org/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NA3WlA4saa</UserId>
+            <UserNick>kontakt</UserNick>
+            <Date>2010-03-05 10:18:53</Date>
+            <Timestamp>1267813133</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No. its not a complete anti-virus.
+It only provides support for malware detection and removal and lacks centralized management features.
+
+It includes the same anti-malware engine and virus definitions that all other Microsoft desktop antimalware products share, including Forefront Client Security, Windows Live OneCare, and Windows Defender (Defender excludes the antivirus definitions which are separate from the antispyware definitions).</Content>
+            <Reference>http://en.wikipedia.org/wiki/Microsoft_Security_Essentials</Reference>
+            <Best></Best>
+            <UserId>qBNJWRxjaa</UserId>
+            <UserNick>Elan</UserNick>
+            <Date>2010-03-05 10:23:22</Date>
+            <Timestamp>1267813402</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes microsoft security essentials is a complete anti virus and i am also using the same and has&#039;nt created any problems till now, so don&#039;t worry and use it bindass.........</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>h0TuMdu1aa</UserId>
+            <UserNick>Bunty ghatge</UserNick>
+            <Date>2010-03-05 10:46:23</Date>
+            <Timestamp>1267814783</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:57:00 PDT 2010 -->

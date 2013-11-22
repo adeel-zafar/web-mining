@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324142209AAxzteH" type="Answered">
+    <Subject>HELP I need a creative username for Craigslist!?</Subject>
+    <Content>Something preferably with my name Heather. Thanks for any help!
+Heather &lt;3
+</Content>
+    <Date>2010-03-24 14:22:09</Date>
+    <Timestamp>1269465729</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324142209AAxzteH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>660728ab199145ed7b4266c2893d4170aa</UserId>
+    <UserNick>Twisted Vixen</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bbd254i133bz/agMvtEI5fqdS3XdA_zSE845j/100/tn48.jpg?ciAAToMB_Vd8NrGE</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hither with Heather ?</ChosenAnswer>
+    <ChosenAnswererId>5U3vLz6caa</ChosenAnswererId>
+    <ChosenAnswererNick>speedy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269465982</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269641095</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hither with Heather ?</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>5U3vLz6caa</UserId>
+            <UserNick>speedy</UserNick>
+            <Date>2010-03-24 14:26:22</Date>
+            <Timestamp>1269465982</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:13 PDT 2010 -->

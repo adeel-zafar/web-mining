@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222012247AAq7RYj" type="Answered">
+    <Subject>Is there a way to make Internet Explorer start when I log in?</Subject>
+    <Content>When I log in can I make Internet Explorer (8) start straight away? Also I have XP.
+
+Thanks
+</Content>
+    <Date>2010-02-22 01:22:47</Date>
+    <Timestamp>1266830567</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222012247AAq7RYj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GBBP9Me9aa</UserId>
+    <UserNick>HumbleBee</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1sEEgG8f_AAEDsGJ39KTjmpcB.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to START -&gt; Programs -&gt; Startup
+Right click on Startup then click explore.
+Now just drag your Internet Explorer shortcut to that folder.
+
+Now Internet Explorer will start every time you log in :)</ChosenAnswer>
+    <ChosenAnswererId>Mv3UVZ8baa</ChosenAnswererId>
+    <ChosenAnswererNick>Pascal</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266830766</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266991631</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to START -&gt; Programs -&gt; Startup
+Right click on Startup then click explore.
+Now just drag your Internet Explorer shortcut to that folder.
+
+Now Internet Explorer will start every time you log in :)</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>Mv3UVZ8baa</UserId>
+            <UserNick>Pascal</UserNick>
+            <Date>2010-02-22 01:26:06</Date>
+            <Timestamp>1266830766</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, simply copy the shortcut for Internet Explorer to Start &gt; All Programms &gt; Startup.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RVflvbRoaa</UserId>
+            <UserNick>Arie</UserNick>
+            <Date>2010-02-22 01:26:56</Date>
+            <Timestamp>1266830816</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Right-click the Internet Explorer shortcut and select copy, click Start&gt;&gt; programs&gt;&gt; start up menu and paste in there.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>K3krtCslaa</UserId>
+            <UserNick>Iwak E</UserNick>
+            <Date>2010-02-22 01:31:50</Date>
+            <Timestamp>1266831110</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, Copy Internet-Explorer to Start --&gt; All Programs --&gt; Start-up.
+But it sill slow you computer down</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>c9zQj4Tlaa</UserId>
+            <UserNick>Steven Nevets</UserNick>
+            <Date>2010-02-22 01:39:15</Date>
+            <Timestamp>1266831555</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:30:22 PDT 2010 -->

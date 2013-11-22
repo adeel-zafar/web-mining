@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225194936AAeE2Sa" type="Answered">
+    <Subject>Chatroulette not working? It&#039;s Feb.25,2010?</Subject>
+    <Content>Ive never tried the website so idk. Its just a blank white page when i go there. Can anyone help ?
+</Content>
+    <Date>2010-02-25 19:49:36</Date>
+    <Timestamp>1267156176</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225194936AAeE2Sa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Y4AlHHv0aa</UserId>
+    <UserNick>derek</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1NtRmiNZqAAEDQYFHQArFUX6mEDoD.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>they changed servers and are having some probs apparently.. it&#039;s just full of wanking dudes anyway...</ChosenAnswer>
+    <ChosenAnswererId>qAs49JVwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rare</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267160097</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268292753</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>they changed servers and are having some probs apparently.. it&#039;s just full of wanking dudes anyway...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qAs49JVwaa</UserId>
+            <UserNick>Rare</UserNick>
+            <Date>2010-02-25 20:54:57</Date>
+            <Timestamp>1267160097</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:53:49 PDT 2010 -->

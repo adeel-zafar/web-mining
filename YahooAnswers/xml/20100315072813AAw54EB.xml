@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315072813AAw54EB" type="Answered">
+    <Subject>how do i uninstall internet explorer?</Subject>
+    <Content>internet explorer stoped working and i can not close out the blank page
+</Content>
+    <Date>2010-03-15 07:28:13</Date>
+    <Timestamp>1268663293</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315072813AAw54EB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vdJ30jRaaa</UserId>
+    <UserNick>Mitchell</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b04ae32i100fzul8sp1/Bq_fK.oieqj4cGBGb5t9gc_Au9vZP1XOzt5R/1/tn48.jpg?ciAAToMBnt_yr7CM</UserPhotoURL>
+    <NumAnswers>8</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I agree with Aaron, you can not remove Internet Explorer for it is part of the Windows,
+all you can do if you have XP / Vista is remove the current version which you have on the computer and the previous explorer will be replaced automatically for you.</ChosenAnswer>
+    <ChosenAnswererId>8df71a6e2dac0fd66075a1fc67ea3ad1aa</ChosenAnswererId>
+    <ChosenAnswererNick>takataone</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268904902</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269182664</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Drag all of the program files to the trash.</Content>
+            <Reference>me</Reference>
+            <Best></Best>
+            <UserId>ZE3j6R77aa</UserId>
+            <UserNick>Prof. Carl PhD</UserNick>
+            <Date>2010-03-15 07:29:45</Date>
+            <Timestamp>1268663385</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Click start on the taskbar. Click control panel. Then click add or remove programs. Then scroll through the list and select Windows Internet Explorer and click remove on the right. Then follow the steps.</Content>
+            <Reference>Me</Reference>
+            <Best></Best>
+            <UserId>AA11173566</UserId>
+            <UserNick>ernesto1196011</UserNick>
+            <Date>2010-03-15 07:33:23</Date>
+            <Timestamp>1268663603</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ignore Prof. Carl PhD&#039;s comment. 
+
+
+Anyway internet explorer can&#039;t be uninstalled, expect on windows 7 (due to EU&#039;s lawsuit)
+However it can be disabled and you can choose a different internet browser to be used as the default internet browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YESUhp8gaa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-15 07:33:36</Date>
+            <Timestamp>1268663616</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>turn the computer off manually
+waite 10 seconds and turn it on
+it should be OK</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>He108rjjaa</UserId>
+            <UserNick>john</UserNick>
+            <Date>2010-03-15 07:34:03</Date>
+            <Timestamp>1268663643</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can&#039;t. Leave it alone.
+
+Go to control panel and try repairing it.
+
+Or use another browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1b99e2172d8e187dc1c01f1f61578326aa</UserId>
+            <UserNick>Michael from UK</UserNick>
+            <Date>2010-03-15 07:35:51</Date>
+            <Timestamp>1268663751</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Just use another browser... I suggest you Mozilla FireFox!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oPORU8qGaa</UserId>
+            <UserNick>lidude56910</UserNick>
+            <Date>2010-03-15 07:46:50</Date>
+            <Timestamp>1268664410</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Us ethe ADD/REMOVE Programme Option in Windows Control Panel. If that does not remove ALL the Files, then dowload REVO for free and use that software.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QnJaO4eEaa</UserId>
+            <UserNick>Burnham Boy</UserNick>
+            <Date>2010-03-15 09:08:32</Date>
+            <Timestamp>1268669312</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I agree with Aaron, you can not remove Internet Explorer for it is part of the Windows,
+all you can do if you have XP / Vista is remove the current version which you have on the computer and the previous explorer will be replaced automatically for you.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>8df71a6e2dac0fd66075a1fc67ea3ad1aa</UserId>
+            <UserNick>takataone</UserNick>
+            <Date>2010-03-18 02:35:02</Date>
+            <Timestamp>1268904902</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:54:30 PDT 2010 -->

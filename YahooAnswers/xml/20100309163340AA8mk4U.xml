@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309163340AA8mk4U" type="Answered">
+    <Subject>What are buisness hours?</Subject>
+    <Content>I sent an email requesting something and they said they would send it in 8 buisness hours.
+</Content>
+    <Date>2010-03-09 16:33:40</Date>
+    <Timestamp>1268181220</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309163340AA8mk4U</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QOWA80Yiaa</UserId>
+    <UserNick>christopher ramos</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1RTnICCyFAAED_CHvxuE9DA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>8 Business hours would mean approximately 1 business day. If you sent it to them at 8AM today, you might hear back by the end of the day or first thing tomorrow. If you sent it late in the day today, you should hear back by about the same time tomorrow. If you sent it late on a Friday, you probably won&#039;t hear back unil Monday.</ChosenAnswer>
+    <ChosenAnswererId>63e4b2a381a37a2a4e488d966800a454aa</ChosenAnswererId>
+    <ChosenAnswererNick>crazydave</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268181629</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268697381</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Monday-Friday and for time I found say 8am-5pm</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>901930fc8f0cb1ce4a9483207715497baa</UserId>
+            <UserNick>Linds</UserNick>
+            <Date>2010-03-09 16:35:05</Date>
+            <Timestamp>1268181305</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>8 Business hours would mean approximately 1 business day. If you sent it to them at 8AM today, you might hear back by the end of the day or first thing tomorrow. If you sent it late in the day today, you should hear back by about the same time tomorrow. If you sent it late on a Friday, you probably won&#039;t hear back unil Monday.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>63e4b2a381a37a2a4e488d966800a454aa</UserId>
+            <UserNick>crazydave</UserNick>
+            <Date>2010-03-09 16:40:29</Date>
+            <Timestamp>1268181629</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:23:10 PDT 2010 -->

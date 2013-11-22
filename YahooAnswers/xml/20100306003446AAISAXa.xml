@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306003446AAISAXa" type="Answered">
+    <Subject>Wordpress.I think i chose d option&quot;dont show visual mode when editing posts&quot;or something..now i dont want html?</Subject>
+    <Content>well i had chosen an option to NOT show visual mode while editing posts i think.....but now i don&#039;t want the html mode, i want the visual mode and option to switch back isn&#039;t there near the text box.....i cant find it!
+</Content>
+    <Date>2010-03-06 00:34:46</Date>
+    <Timestamp>1267864486</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306003446AAISAXa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>X49owCrtaa</UserId>
+    <UserNick>untappedGeniusSid</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/15gDcNl8KAAAF_OGGpts9jIk_MQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Right where you are adding/editing a post, you will find 2 tabs - Visual / Html, choose visual</ChosenAnswer>
+    <ChosenAnswererId>SJbLdhHcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kool</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268114612</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268458956</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Right where you are adding/editing a post, you will find 2 tabs - Visual / Html, choose visual</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>SJbLdhHcaa</UserId>
+            <UserNick>Kool</UserNick>
+            <Date>2010-03-08 22:03:32</Date>
+            <Timestamp>1268114612</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:51:02 PDT 2010 -->

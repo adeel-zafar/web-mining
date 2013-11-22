@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331181022AAP8i8T" type="Answered">
+    <Subject>what is the website where you ask questions?</Subject>
+    <Content>it has a wierd name and you can anonimously ask yur friends or whatever quistions
+</Content>
+    <Date>2010-03-31 18:10:22</Date>
+    <Timestamp>1270084222</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331181022AAP8i8T</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nKRWOPoZaa</UserId>
+    <UserNick>Emma G</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1FBOsoxEAAAIB3-TgKByLZqzPNQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>formspring.com</ChosenAnswer>
+    <ChosenAnswererId>cWtUPbCRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270084309</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270257882</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>formspring.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cWtUPbCRaa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-31 18:11:49</Date>
+            <Timestamp>1270084309</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:18 PDT 2010 -->

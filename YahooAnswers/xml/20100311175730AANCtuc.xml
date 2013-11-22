@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311175730AANCtuc" type="Answered">
+    <Subject>how do you keep yourself  calm?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-11 17:57:30</Date>
+    <Timestamp>1268359050</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311175730AANCtuc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mXZP2xfxaa</UserId>
+    <UserNick>Diamond</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Masturbation and prozac.</ChosenAnswer>
+    <ChosenAnswererId>LDFMoRDFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Enthorned Crown</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268359205</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268875003</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Being surrounded by the idiots that use Yahoo! Answers, it&#039;s not easy, let me tell you.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-11 17:59:03</Date>
+            <Timestamp>1268359143</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Masturbation and prozac.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>LDFMoRDFaa</UserId>
+            <UserNick>Enthorned Crown</UserNick>
+            <Date>2010-03-11 18:00:05</Date>
+            <Timestamp>1268359205</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:12:30 PDT 2010 -->

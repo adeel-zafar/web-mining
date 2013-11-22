@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319101412AAWQQWc" type="Answered">
+    <Subject>I sold an item on eBay that got damaged after the listing ended, how do I cancel it?</Subject>
+    <Content>A day after selling the item (leather shoes), we had a flood in our basement and the shoes are pretty much ruined. The buyer hasn&#039;t paid as they told me they were going to pay on Saturday, it&#039;s only Friday. Anyways, I mailed the buyer and told them about it. Now, what&#039;s the next step?
+</Content>
+    <Date>2010-03-19 10:14:12</Date>
+    <Timestamp>1269018852</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319101412AAWQQWc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WXYQK71Iaa</UserId>
+    <UserNick>Sana</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Has the buyer replied yet?  
+You could sent them a request to cancel the transaction, the buyer needs to agree to this before ebay would consider the transaction closed &amp; refund your FVF. I think the buyer can also still leave feedback.</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269143569</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269538413</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Has the buyer replied yet?  
+You could sent them a request to cancel the transaction, the buyer needs to agree to this before ebay would consider the transaction closed &amp; refund your FVF. I think the buyer can also still leave feedback.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-20 20:52:49</Date>
+            <Timestamp>1269143569</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:35:42 PDT 2010 -->

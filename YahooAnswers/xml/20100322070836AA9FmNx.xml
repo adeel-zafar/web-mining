@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322070836AA9FmNx" type="Answered">
+    <Subject>how can i connect ym through firefox , coz  by default ym use IE?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-22 07:08:36</Date>
+    <Timestamp>1269266916</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322070836AA9FmNx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>va5EnWZEaa</UserId>
+    <UserNick>peter</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>Open Firefox, open its preferences, and on the Advanced tab set Firefox as the default web browser.</ChosenAnswer>
+    <ChosenAnswererId>qBVcI2vhaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ariel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269547618</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269786358</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Open Firefox, open its preferences, and on the Advanced tab set Firefox as the default web browser.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qBVcI2vhaa</UserId>
+            <UserNick>Ariel</UserNick>
+            <Date>2010-03-25 13:06:58</Date>
+            <Timestamp>1269547618</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>va5EnWZEaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-30 22:11:42</Date>
+            <Timestamp>1269547618</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:46 PDT 2010 -->

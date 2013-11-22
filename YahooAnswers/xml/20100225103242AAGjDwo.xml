@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225103242AAGjDwo" type="Answered">
+    <Subject>What is the difference between Internet Explorer and Firefox? Also, which is better?</Subject>
+    <Content>If I switch from Internet Explorer to Firefox will I still get Google and Yahoo search engines and  outlook express E-Mail?
+</Content>
+    <Date>2010-02-25 10:32:42</Date>
+    <Timestamp>1267122762</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225103242AAGjDwo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cBwy0F1taa</UserId>
+    <UserNick>shatzee</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Outlook express should be installed on your computer so your browser doesn&#039;t matter.
+But if you&#039;re looking to move from IE then go to Chrome, not to failurefox. Firefox is a slow browser. Even IE8 is faster.</ChosenAnswer>
+    <ChosenAnswererId>gxl9z3tCaa</ChosenAnswererId>
+    <ChosenAnswererNick>notcomradealexie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267134106</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267642393</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox is my favorite browser. Yes you can still use Yahoo and Google, in fact you can have a Yahoo and or Google toolbar on Firefox.
+
+It will work with any web based email and I beleive it is compatible with outlook.
+
+It&#039;s a free download so you can try it to see if you like it.
+
+http://www.mozilla.com/en-US/firefox/upgrade.html?utm_id=Q110&amp;utm_source=yahoo&amp;utm_medium=ppc&amp;utm_campaign=firefox36</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>le1tPk57aa</UserId>
+            <UserNick>artgrantz</UserNick>
+            <Date>2010-02-25 10:36:46</Date>
+            <Timestamp>1267123006</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Outlook express should be installed on your computer so your browser doesn&#039;t matter.
+But if you&#039;re looking to move from IE then go to Chrome, not to failurefox. Firefox is a slow browser. Even IE8 is faster.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gxl9z3tCaa</UserId>
+            <UserNick>notcomradealexie</UserNick>
+            <Date>2010-02-25 13:41:46</Date>
+            <Timestamp>1267134106</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:57:27 PDT 2010 -->

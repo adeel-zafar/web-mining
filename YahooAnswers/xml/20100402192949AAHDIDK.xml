@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402192949AAHDIDK" type="Answered">
+    <Subject>Internet explorer wont work but firefox does ?</Subject>
+    <Content>When I click on my IE it says page can not be displayed but firefox is working perfectly, Its not blocked by a firewall either. is there a way I can fix this ?
+I dont use IE normally... The problem is programs like MSN are connected with IE and wont open either. I dont get it
+</Content>
+    <Date>2010-04-02 19:29:49</Date>
+    <Timestamp>1270261789</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402192949AAHDIDK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eur4jAc3aa</UserId>
+    <UserNick>Sean</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try this : Tools &gt; Internet Options &gt; Advanced.  Click Reset
+
+-MM</ChosenAnswer>
+    <ChosenAnswererId>75a6d7c073ea64d018130b576ffb492caa</ChosenAnswererId>
+    <ChosenAnswererNick>Wonder</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270262675</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270284347</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Why would you even want to use IE? It&#039;s full of security holes, and leaves you much less protected than Firefox, heck, most other browsers.
+
+Just stick with Firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>25JryAmiaa</UserId>
+            <UserNick>Mike G.</UserNick>
+            <Date>2010-04-02 19:31:48</Date>
+            <Timestamp>1270261908</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try this : Tools &gt; Internet Options &gt; Advanced.  Click Reset
+
+-MM</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>75a6d7c073ea64d018130b576ffb492caa</UserId>
+            <UserNick>Wonder</UserNick>
+            <Date>2010-04-02 19:44:35</Date>
+            <Timestamp>1270262675</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have a virus if this is true for all pages.  Make sure you have tried more then a few.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>I681sJgtaa</UserId>
+            <UserNick>slimshadybsb</UserNick>
+            <Date>2010-04-02 19:45:41</Date>
+            <Timestamp>1270262741</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:09:44 PDT 2010 -->

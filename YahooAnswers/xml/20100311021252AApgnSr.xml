@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311021252AApgnSr" type="Answered">
+    <Subject>My twitter buttons won&#039;t work?</Subject>
+    <Content>Okay so when i go on twitter , it wont let me use the buttons like the follow, tweet or any of the list buttons , it was all working fine until yesterday do you think i need to download anything for it to work again or whats wrong with it :S any ideas would be great ! Also none of like chat things work like msn and if you make a chat on a site i cant see the writing and it doesnt load !
+i have flash player , but it wont let me on the java script website , thats probably why its not working , it just says this request has been denied :S hmm
+</Content>
+    <Date>2010-03-11 02:12:52</Date>
+    <Timestamp>1268302372</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311021252AApgnSr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZGgmJ8lhaa</UserId>
+    <UserNick>anna.x</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b7ea95ei199ezul5re4/l6JUmAEpRKcyCi6V6vsMulpH/2/tn48.jpg?ciAAToMBjNS0gR9m</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Look up Adobe Flash Player and install it.
+If that does not work look up JavaScript</ChosenAnswer>
+    <ChosenAnswererId>2rVKqhVEaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jacob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268302734</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268391149</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Look up Adobe Flash Player and install it.
+If that does not work look up JavaScript</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2rVKqhVEaa</UserId>
+            <UserNick>Jacob</UserNick>
+            <Date>2010-03-11 02:18:54</Date>
+            <Timestamp>1268302734</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:14:19 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325214249AARgXxo" type="Answered">
+    <Subject>What is missing in my browser?</Subject>
+    <Content>I am unable to open websites like 123greetings.com or any other e-cards website. All my browsers (IE 8, Firefox and Google Chrome) couldn&#039;t perform the tasks.
+</Content>
+    <Date>2010-03-25 21:42:49</Date>
+    <Timestamp>1269578569</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325214249AARgXxo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5GJp805caa</UserId>
+    <UserNick>anonymous</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>java could be the missing thing... or maybe flash player.... or shockwave player just go to java.com and to adobe.com and get the latest versions  of all the things</ChosenAnswer>
+    <ChosenAnswererId>doB8L9Neaa</ChosenAnswererId>
+    <ChosenAnswererNick>brown boy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269578825</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270100572</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>java could be the missing thing... or maybe flash player.... or shockwave player just go to java.com and to adobe.com and get the latest versions  of all the things</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>doB8L9Neaa</UserId>
+            <UserNick>brown boy</UserNick>
+            <Date>2010-03-25 21:47:05</Date>
+            <Timestamp>1269578825</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You need install flash player.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Yt8Nfu1eaa</UserId>
+            <UserNick>Stephen</UserNick>
+            <Date>2010-03-25 22:37:07</Date>
+            <Timestamp>1269581827</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:43 PDT 2010 -->

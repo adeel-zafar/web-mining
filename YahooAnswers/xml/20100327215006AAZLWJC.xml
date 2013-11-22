@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327215006AAZLWJC" type="Answered">
+    <Subject>Whats a good website?</Subject>
+    <Content>What is a good website i can watch the simpsons movie on for free without downloading them. dont tell me it is bad cuz i already know that
+</Content>
+    <Date>2010-03-27 21:50:06</Date>
+    <Timestamp>1269751806</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327215006AAZLWJC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>C5Gz9Z2gaa</UserId>
+    <UserNick>Chelsey</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.movies-links.tv</ChosenAnswer>
+    <ChosenAnswererId>bcAxwlzyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Miami Dolphins</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269752350</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270335816</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.chrugirls.com it should have a simpsons link</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MswXgEflaa</UserId>
+            <UserNick>Jarumbo</UserNick>
+            <Date>2010-03-27 21:51:45</Date>
+            <Timestamp>1269751905</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.movies-links.tv</Content>
+            <Reference>should be there</Reference>
+            <Best>5</Best>
+            <UserId>bcAxwlzyaa</UserId>
+            <UserNick>Miami Dolphins</UserNick>
+            <Date>2010-03-27 21:59:10</Date>
+            <Timestamp>1269752350</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can watch it online for free at http://biilt.com/the-simpsons-movie-2007/
+Have fun!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wFnIjuEUaa</UserId>
+            <UserNick>Nicole</UserNick>
+            <Date>2010-03-28 02:22:02</Date>
+            <Timestamp>1269768122</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.watchmoviescentral.com/
+Site is free and safe. Movie can be found there. :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OLcziNwwaa</UserId>
+            <UserNick>supsuinc</UserNick>
+            <Date>2010-03-28 09:00:44</Date>
+            <Timestamp>1269792044</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:31 PDT 2010 -->

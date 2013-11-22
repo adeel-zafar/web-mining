@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317181256AAYsd6r" type="Answered">
+    <Subject>Block websites, and media?</Subject>
+    <Content>I am playing a prank on my family, I made a second Firefox profile and I want to mess with them by blocking certain websites, and making it seem like videos won&#039;t work and etc. It has to seem like it is the internet or the website itself is having a problem though. If possible, if anyone knows how to set up the administer account to block installing new programs as well. Thanks in advance!
+</Content>
+    <Date>2010-03-17 18:12:56</Date>
+    <Timestamp>1268874776</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317181256AAYsd6r</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11229423</UserId>
+    <UserNick>Ennis</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you can block websites by adding a fake IP in your HOSTS file, or install adblock and just block the entire web site.
+
+another option would be to install foxyproxy and set up a rule for just those web sites</ChosenAnswer>
+    <ChosenAnswererId>PX2uuH2taa</ChosenAnswererId>
+    <ChosenAnswererNick>Chris</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269048831</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269394444</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you can block websites by adding a fake IP in your HOSTS file, or install adblock and just block the entire web site.
+
+another option would be to install foxyproxy and set up a rule for just those web sites</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>PX2uuH2taa</UserId>
+            <UserNick>Chris</UserNick>
+            <Date>2010-03-19 18:33:51</Date>
+            <Timestamp>1269048831</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:42:36 PDT 2010 -->

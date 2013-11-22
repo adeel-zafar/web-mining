@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305205634AAq7pwC" type="Answered">
+    <Subject>anybody know what is swagbucks?</Subject>
+    <Content>i found it and was wondering what exactly it was and if it was reliable and such
+</Content>
+    <Date>2010-03-05 20:56:34</Date>
+    <Timestamp>1267851394</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305205634AAq7pwC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5JXxPyBKaa</UserId>
+    <UserNick>confuze-scious</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>A major waste of time and effort.</ChosenAnswer>
+    <ChosenAnswererId>iq38f6oTaa</ChosenAnswererId>
+    <ChosenAnswererNick>I TRY</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267851644</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267866798</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>A major waste of time and effort.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>iq38f6oTaa</UserId>
+            <UserNick>Bob H</UserNick>
+            <Date>2010-03-05 21:00:44</Date>
+            <Timestamp>1267851644</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:52:37 PDT 2010 -->

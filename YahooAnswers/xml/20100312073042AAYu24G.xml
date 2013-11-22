@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312073042AAYu24G" type="Answered">
+    <Subject>MLIA account........?</Subject>
+    <Content>okay so, i signed up for an MLIA account last night while on mobile web. but when i tried to log in, it wouldnt let me.i gave up, thinking it was just mobile web being dumb.
+today, i returned to the site while on my laptop. i tried to log in, but it told me my account was inactive. i thought maybe the registering hadn&#039;t worked from my phone, so i tried to make a new account. it worked, and told me that an activation email had been sent. i checked my email- nothing was there. i check the spam&amp;trash folders as well. i tried logging in but it still told me it was inactive. so.... now what? sorry if that was confusing.
+i just want to be able to log in cause they wont let me submit a story right now until i have an account :(
+thank youuu
+</Content>
+    <Date>2010-03-12 07:30:42</Date>
+    <Timestamp>1268407842</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312073042AAYu24G</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eGhaZfaJaa</UserId>
+    <UserNick>Lexie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Yb3XhSL-AAADOyOcRBcOFMruIgcF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;ve done the same thing recently. I have a Hotmail account for my personal email, and I tried using that; once on the phone, and then on my laptop when I never received my confirmation email, but I still never got one. I own a Droid (on Verizon&#039;s network) and for that you need a Gmail account, so on my computer I registered with my Gmail, and while I didn&#039;t receive it immediately, it did come. So, now I&#039;m registered and active :) I don&#039;t know if it&#039;ll work the same way for you, but that&#039;s how I did it.</ChosenAnswer>
+    <ChosenAnswererId>HqEOPtmvaa</ChosenAnswererId>
+    <ChosenAnswererNick>opeanseasandshores</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268604127</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268923465</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;ve done the same thing recently. I have a Hotmail account for my personal email, and I tried using that; once on the phone, and then on my laptop when I never received my confirmation email, but I still never got one. I own a Droid (on Verizon&#039;s network) and for that you need a Gmail account, so on my computer I registered with my Gmail, and while I didn&#039;t receive it immediately, it did come. So, now I&#039;m registered and active :) I don&#039;t know if it&#039;ll work the same way for you, but that&#039;s how I did it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>HqEOPtmvaa</UserId>
+            <UserNick>opeanseasandshores</UserNick>
+            <Date>2010-03-14 15:02:07</Date>
+            <Timestamp>1268604127</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:09:52 PDT 2010 -->

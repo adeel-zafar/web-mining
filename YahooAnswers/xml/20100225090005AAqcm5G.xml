@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225090005AAqcm5G" type="Answered">
+    <Subject>I want to download auto clicker for my website Do you know where can i download?</Subject>
+    <Content>I want to download auto clicker for my website Do you know where can i download it and how to place it on my website for work and how does it work ?
+</Content>
+    <Date>2010-02-25 09:00:05</Date>
+    <Timestamp>1267117205</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225090005AAqcm5G</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>k6RDm7Whaa</UserId>
+    <UserNick>Sony G</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There are a lot of autoclickers out there.  They are just macros.  They will record your mouse clicks and keystrokes and then  repeat them. http://www.autoclickextreme.com/ind.html</ChosenAnswer>
+    <ChosenAnswererId>sMfuhIXqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Muninn</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267117776</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267636640</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There are a lot of autoclickers out there.  They are just macros.  They will record your mouse clicks and keystrokes and then  repeat them. http://www.autoclickextreme.com/ind.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>sMfuhIXqaa</UserId>
+            <UserNick>Muninn</UserNick>
+            <Date>2010-02-25 09:09:36</Date>
+            <Timestamp>1267117776</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:58:13 PDT 2010 -->

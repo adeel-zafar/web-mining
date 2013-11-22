@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301042233AAu1R3s" type="Answered">
+    <Subject>What makes the internet on a certain country or place fast?</Subject>
+    <Content>Really curious.
+</Content>
+    <Date>2010-03-01 04:22:33</Date>
+    <Timestamp>1267446153</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301042233AAu1R3s</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0zRDFRxPaa</UserId>
+    <UserNick>Maia Bo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1jDArhpdTAAECYKObbJ_vAw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It depends on the cable infrastructure in that country. Some countries like South Korea have invested heavily in fibre optic connections to most of their citizens and backed it up with a substantial data backbone connecting the various ISPs and telecoms companies. It can also depend on how their connection to other countries is enacted and whether their ISPs are Tier 1 or otherwise.
+
+A Tier 1 provider has a direct connection to every other network on the internet without having to pay a third party to provide them with access. Typically they have very large amounts of bandwidth.
+
+So if you&#039;re in a small country with slow internet speed, it&#039;s likely that the ISP is sub-letting bandwidth from a telecoms company who are in turn sub-letting international bandwidth from another provider.
+
+In summary, a country&#039;s internet speed is limited by the national infrastructure (is it fibre optic, copper cable, or a mixture of the two?), the international telecoms cable links it has (fibre, copper, etc) and whether its ISPs are Tier 1 or lower.</ChosenAnswer>
+    <ChosenAnswererId>tftMEtfzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jon. J</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267461374</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267698357</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The speed of your internet depends on how far away the host of the site you are visiting is (for example, if you lived in Australia, it is usually faster to view a page in Australia rather than in America) and the internet &#039;packages&#039; available for that country. (ADSL, ADSL2+ etc.)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nI3A0g03aa</UserId>
+            <UserNick>Ben W</UserNick>
+            <Date>2010-03-01 04:28:25</Date>
+            <Timestamp>1267446505</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ur dsl connection.if its of 125kb/s it will be slow.if it is of 256,512kb/s it will be fast,if it is of 1 mb or 4mb it will be fasster</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6g0XjFUhaa</UserId>
+            <UserNick>Abhi</UserNick>
+            <Date>2010-03-01 04:35:15</Date>
+            <Timestamp>1267446915</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It depends on the cable infrastructure in that country. Some countries like South Korea have invested heavily in fibre optic connections to most of their citizens and backed it up with a substantial data backbone connecting the various ISPs and telecoms companies. It can also depend on how their connection to other countries is enacted and whether their ISPs are Tier 1 or otherwise.
+
+A Tier 1 provider has a direct connection to every other network on the internet without having to pay a third party to provide them with access. Typically they have very large amounts of bandwidth.
+
+So if you&#039;re in a small country with slow internet speed, it&#039;s likely that the ISP is sub-letting bandwidth from a telecoms company who are in turn sub-letting international bandwidth from another provider.
+
+In summary, a country&#039;s internet speed is limited by the national infrastructure (is it fibre optic, copper cable, or a mixture of the two?), the international telecoms cable links it has (fibre, copper, etc) and whether its ISPs are Tier 1 or lower.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tftMEtfzaa</UserId>
+            <UserNick>Jon. J</UserNick>
+            <Date>2010-03-01 08:36:14</Date>
+            <Timestamp>1267461374</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:59 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323052921AAJvulu" type="Answered">
+    <Subject>Does Republic of korea has the fastest Internet?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-23 05:29:21</Date>
+    <Timestamp>1269347361</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323052921AAJvulu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>J2xCgCTNaa</UserId>
+    <UserNick>Whatever</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, I have heard that South Korea has the fastest internet speed in the world :D
+and I currently live in Seoul, south Korea and the internet speed is insanely fast!</ChosenAnswer>
+    <ChosenAnswererId>r4X34blCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269377977</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269518795</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>really do not know?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GZXZl131aa</UserId>
+            <UserNick>mommy</UserNick>
+            <Date>2010-03-23 05:45:59</Date>
+            <Timestamp>1269348359</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, I have heard that South Korea has the fastest internet speed in the world :D
+and I currently live in Seoul, south Korea and the internet speed is insanely fast!</Content>
+            <Reference>me</Reference>
+            <Best>3</Best>
+            <UserId>r4X34blCaa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-23 13:59:37</Date>
+            <Timestamp>1269377977</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:19:14 PDT 2010 -->

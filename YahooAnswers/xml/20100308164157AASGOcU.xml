@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308164157AASGOcU" type="Answered">
+    <Subject>What are some good websites?</Subject>
+    <Content>Well I have played a few websites like fantage,Clubpenguin,Neopets if you know anymore please let me know :) thanks
+</Content>
+    <Date>2010-03-08 16:41:57</Date>
+    <Timestamp>1268095317</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308164157AASGOcU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>be8xBrmFaa</UserId>
+    <UserNick>Emma</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>RUnescape, secret builders, Wizard 101.</ChosenAnswer>
+    <ChosenAnswererId>oYdeJicnaa</ChosenAnswererId>
+    <ChosenAnswererNick>Magnus</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268095437</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268174941</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>RUnescape, secret builders, Wizard 101.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>oYdeJicnaa</UserId>
+            <UserNick>Magnus</UserNick>
+            <Date>2010-03-08 16:43:57</Date>
+            <Timestamp>1268095437</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>addictinggames.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uaaSBGWIaa</UserId>
+            <UserNick>Mike</UserNick>
+            <Date>2010-03-08 16:43:57</Date>
+            <Timestamp>1268095437</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:29:09 PDT 2010 -->

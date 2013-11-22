@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306210812AA3q04q" type="Answered">
+    <Subject>How do I connect to the internet?</Subject>
+    <Content>I just reformatted my dell- i have windows vista on it... now its saying that it cant get any wireless networks or connect to the internet, meanwhile it was working fine right before i reformatted it.  i really dont know what the next steps are to get myself back on to the internet.. help! please!
+</Content>
+    <Date>2010-03-06 21:08:12</Date>
+    <Timestamp>1267938492</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306210812AA3q04q</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fzwvFjsLaa</UserId>
+    <UserNick>nyllax4</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/16mF5R9v_AAEBO8NokBPIdPcA.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you go into Device Manager (searchable froms Start Menu), and look under Network Adapters, you should find all the adapters that your computer uses to connect to a network. Find the one most related to wireless (eg. WiFi, AGN, AG, 54 etc) and check that it is functioning properly. If nothing is there relating to wireless, then the computer has not detected the wireless card and that can be an issue. If it says something about an issue, try re-installing the driver and reboot your computer. Sometimes it can be as simple as checking the wireless On/Off switch (I know it sounds dumb, but we&#039;ve all done it before). Good luck</ChosenAnswer>
+    <ChosenAnswererId>b7VlJf6yaa</ChosenAnswererId>
+    <ChosenAnswererNick>CHR1SL</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267939110</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268457949</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you probably need to replace the driver for the ethernet controller and wireless adapter if using one</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1JefR6oxaa</UserId>
+            <UserNick>Thomas</UserNick>
+            <Date>2010-03-06 21:10:36</Date>
+            <Timestamp>1267938636</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you go into Device Manager (searchable froms Start Menu), and look under Network Adapters, you should find all the adapters that your computer uses to connect to a network. Find the one most related to wireless (eg. WiFi, AGN, AG, 54 etc) and check that it is functioning properly. If nothing is there relating to wireless, then the computer has not detected the wireless card and that can be an issue. If it says something about an issue, try re-installing the driver and reboot your computer. Sometimes it can be as simple as checking the wireless On/Off switch (I know it sounds dumb, but we&#039;ve all done it before). Good luck</Content>
+            <Reference>Experience</Reference>
+            <Best>5</Best>
+            <UserId>b7VlJf6yaa</UserId>
+            <UserNick>CHR1SL</UserNick>
+            <Date>2010-03-06 21:18:30</Date>
+            <Timestamp>1267939110</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:43:40 PDT 2010 -->

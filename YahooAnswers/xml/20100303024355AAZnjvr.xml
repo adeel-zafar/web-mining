@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303024355AAZnjvr" type="Answered">
+    <Subject>Can anyone please suggest a name for my new articles websites?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-03 02:43:55</Date>
+    <Timestamp>1267613035</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303024355AAZnjvr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TrYdm3M1aa</UserId>
+    <UserNick>Shipu S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>How do you like &quot;articles-bay&quot;.</ChosenAnswer>
+    <ChosenAnswererId>NA3WlA4saa</ChosenAnswererId>
+    <ChosenAnswererNick>Mr Vellore</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267613657</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268132621</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>How do you like &quot;articles-bay&quot;.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NA3WlA4saa</UserId>
+            <UserNick>kontakt</UserNick>
+            <Date>2010-03-03 02:54:17</Date>
+            <Timestamp>1267613657</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:20:06 PDT 2010 -->

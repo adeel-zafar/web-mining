@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401135134AAjOfUH" type="Answered">
+    <Subject>anyone help me my bbc i player says not enough broadwith to stream programe what does that mean?</Subject>
+    <Content>if u can help ill give you best anser thank you!!!!!   (its really bugging me)
+and what can i do to fix this problem?
+</Content>
+    <Date>2010-04-01 13:51:34</Date>
+    <Timestamp>1270155094</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401135134AAjOfUH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dRtDrJiKaa</UserId>
+    <UserNick>james</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1CPcGGqfyAAIC_IFHEC4=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It means your internet connection is not fast enough. Either someone is hogging the line, or you just have poor internet, if you have a wireless connection, try moving closer to your router or setting up a wired connection.</ChosenAnswer>
+    <ChosenAnswererId>eW539ZlZaa</ChosenAnswererId>
+    <ChosenAnswererNick>Devious</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270155346</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270335603</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It means your internet connection is not fast enough. Either someone is hogging the line, or you just have poor internet, if you have a wireless connection, try moving closer to your router or setting up a wired connection.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>eW539ZlZaa</UserId>
+            <UserNick>Devious</UserNick>
+            <Date>2010-04-01 13:55:46</Date>
+            <Timestamp>1270155346</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:24 PDT 2010 -->

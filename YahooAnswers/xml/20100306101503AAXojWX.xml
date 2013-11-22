@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306101503AAXojWX" type="Answered">
+    <Subject>If I uninstall my firefox, will all my bookmarks all be gone?</Subject>
+    <Content>I have lots of saved passwords and bookmarks and stuff on my firefox and now all of a sudden I installed the new yahoo toolbar and firefox sometimes won&#039;t open when I click on it and it freezes all the time.  What should I do?  I don&#039;t remember all these saved passwords and I don&#039;t want them to be gone if I uninstall firefox.
+</Content>
+    <Date>2010-03-06 10:15:03</Date>
+    <Timestamp>1267899303</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306101503AAXojWX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11480826</UserId>
+    <UserNick>j5kat13</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1KiLfQwc5AAED9IFKYIum8Uyki3O6Ww==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you will not get the old book mark. If you uninstall in feature you will do the steps in below 
+
+Export bookmark before uninstall your firefox using these steps below I have mentioned
+
+First click bookmarks -&gt; Organize bookmark -&gt; click Import and backup and select Export html -&gt; then save your bookmark as html file.
+
+Export bookmark after you install new firefox using these steps
+
+click bookmarks -&gt; Organize bookmark -&gt; click Import and backup and select Import html then select an html file -&gt; then select already you have saved html file -&gt; finish
+
+your old bookmark will appear in new firefox</ChosenAnswer>
+    <ChosenAnswererId>57ELdMsAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Greg</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268033302</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268418914</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i have&#039;nt tried that..but sure i can help..
+go to each bookmarks nd save the links to a word doc...then uninstall firefox and install something else and copy each link to it and save them as bookmarks. guess this should work.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4Kw5Q4Zlaa</UserId>
+            <UserNick>T J</UserNick>
+            <Date>2010-03-06 10:22:01</Date>
+            <Timestamp>1267899721</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it should be saved if u reinstall because there is a folder that firefox saves your bookmarks, websites, etc.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GjtddneUaa</UserId>
+            <UserNick>Tim</UserNick>
+            <Date>2010-03-06 10:24:47</Date>
+            <Timestamp>1267899887</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I had the some problem. You should back up your bookmarks by going to Bookmarks, Organize Bookmarks, Backup and Import, Backup. Save that file and now uninstall firefox. When you reinstall it go to File, import to restore your Bookmarks. If you dont backup your bookmarks when you uninstall they will be gone.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>64LjRyzDaa</UserId>
+            <UserNick>Joe</UserNick>
+            <Date>2010-03-06 10:29:35</Date>
+            <Timestamp>1267900175</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you will not get the old book mark. If you uninstall in feature you will do the steps in below 
+
+Export bookmark before uninstall your firefox using these steps below I have mentioned
+
+First click bookmarks -&gt; Organize bookmark -&gt; click Import and backup and select Export html -&gt; then save your bookmark as html file.
+
+Export bookmark after you install new firefox using these steps
+
+click bookmarks -&gt; Organize bookmark -&gt; click Import and backup and select Import html then select an html file -&gt; then select already you have saved html file -&gt; finish
+
+your old bookmark will appear in new firefox</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>57ELdMsAaa</UserId>
+            <UserNick>Greg</UserNick>
+            <Date>2010-03-07 23:28:22</Date>
+            <Timestamp>1268033302</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:48:11 PDT 2010 -->

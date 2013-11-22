@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323031020AAGkr8u" type="Answered">
+    <Subject>Disconnecting from internet?</Subject>
+    <Content>I&#039;m having trouble disconnecting from my internet. Usually I turn my computer on, type in my password and I&#039;m connected. Then I can click &#039;disconnect&#039; and it will disconnect. Now it asks for my password but I can still get onto the internet without it and MSN logs on automatically. This is bad because I want to log out so I can get into a proxy internet thing which is a faster connection. 
+
+I have tired going to &#039;my computer&#039; - &#039;network connections&#039; - &#039;local area connection&#039; and disconnect but that just cuts me off completely. I have also tried turning it off and pulling out the network cord. Can any one help at all? I hope I made the situation clear enough.
+What proxy internet thing? 
+Ok, its hard to explain. I live in university accommodation and am connected to the network. I pay for my own internet (the one that wont disconnect) but can also access my internet account through the uni. Ive used up all my quota for my internet so want to use the uni&#039;s which is faster.
+
+ 
+What does the screen look like when it asks for your password?
+Just - Username :
+          Password:
+
+Are you connecting to a wireless network?
+Nope I have a ethernet cable
+ 
+What is the difference between disabling local area connection and your normal &#039;disconnect&#039;?
+Well ones under the heading of &#039;boradband&#039; while the other is under &#039;LAN&#039;
+</Content>
+    <Date>2010-03-23 03:10:20</Date>
+    <Timestamp>1269339020</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323031020AAGkr8u</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ba2b0c7b7d6c09abcf3a3d6bac39f5e5aa</UserId>
+    <UserNick>Erin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1j1HwSzihAAECBMJgVBM7ZhfhKw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You do not have enough information here.
+What proxy internet thing?
+What does the screen look like when it asks for your password?
+Are you connecting to a wireless network?
+What is the difference between disabling local area connection and your normal &#039;disconnect&#039;?</ChosenAnswer>
+    <ChosenAnswererId>8fa8e471890d38a0197103bea8c1f3d1aa</ChosenAnswererId>
+    <ChosenAnswererNick>blackkbot</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269339540</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269552466</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You do not have enough information here.
+What proxy internet thing?
+What does the screen look like when it asks for your password?
+Are you connecting to a wireless network?
+What is the difference between disabling local area connection and your normal &#039;disconnect&#039;?</Content>
+            <Reference>DSL tech support</Reference>
+            <Best>1</Best>
+            <UserId>8fa8e471890d38a0197103bea8c1f3d1aa</UserId>
+            <UserNick>blackkbot</UserNick>
+            <Date>2010-03-23 03:19:00</Date>
+            <Timestamp>1269339540</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Contact your local ISP</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JuJTnZSDaa</UserId>
+            <UserNick>Dennis PC Repairs</UserNick>
+            <Date>2010-03-23 03:41:39</Date>
+            <Timestamp>1269340899</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:19:27 PDT 2010 -->

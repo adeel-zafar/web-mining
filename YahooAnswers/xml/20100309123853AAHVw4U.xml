@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309123853AAHVw4U" type="Answered">
+    <Subject>what is the internet?</Subject>
+    <Content>i know the general reason for the internet. but still don&#039;t understand it. is the internet a cybernetic spider web connecting everyone to each other?
+</Content>
+    <Date>2010-03-09 12:38:53</Date>
+    <Timestamp>1268167133</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309123853AAHVw4U</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>poeR5xL3aa</UserId>
+    <UserNick>shane</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Basically just all the computers connected to each other.  A server is what host websites, but it&#039;s also essentially a computer, just not in the normal sense.  So, yes, your guess was right.  It&#039;s a bit more complicated than that, but you get the idea.</ChosenAnswer>
+    <ChosenAnswererId>HNJHgMBYaa</ChosenAnswererId>
+    <ChosenAnswererNick>eric e</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268167282</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268308860</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Basically just all the computers connected to each other.  A server is what host websites, but it&#039;s also essentially a computer, just not in the normal sense.  So, yes, your guess was right.  It&#039;s a bit more complicated than that, but you get the idea.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>HNJHgMBYaa</UserId>
+            <UserNick>eric e</UserNick>
+            <Date>2010-03-09 12:41:22</Date>
+            <Timestamp>1268167282</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>the interwebs is a big spiderweb that connects all the neckbeards and C.P sharers together</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>t64wxdcJaa</UserId>
+            <UserNick>Lee J</UserNick>
+            <Date>2010-03-09 12:58:29</Date>
+            <Timestamp>1268168309</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:24:33 PDT 2010 -->

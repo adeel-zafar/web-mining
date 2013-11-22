@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325212133AABYGmQ" type="Answered">
+    <Subject>cant find files i downloaded with firefox?</Subject>
+    <Content>i have mozilla firefox i downloaded a movie  and they always go to firefox download after they are finish downloading i dont know were they go 
+does anybosy have any idea were they might go
+sorry everybody
+i dont need help anymore 
+i found them
+</Content>
+    <Date>2010-03-25 21:21:33</Date>
+    <Timestamp>1269577293</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325212133AABYGmQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ykg5ELBraa</UserId>
+    <UserNick>latinahoney</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1QmHsRosHAAECQEEo4AcOAQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Search your entire harddrive for the file using search function in your pc. U should have used a downlaod manager when downlaoding a huge file like Flashget, etc. XD</ChosenAnswer>
+    <ChosenAnswererId>wioFz2Pcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rhen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269579490</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270096585</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Search your entire harddrive for the file using search function in your pc. U should have used a downlaod manager when downlaoding a huge file like Flashget, etc. XD</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wioFz2Pcaa</UserId>
+            <UserNick>Rhen</UserNick>
+            <Date>2010-03-25 21:58:10</Date>
+            <Timestamp>1269579490</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Open firefox downloads manager: Tools-&gt;Download or use Ctrl + J.
+right click your downloaded file, select Open Containing Folder.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Yt8Nfu1eaa</UserId>
+            <UserNick>Stephen</UserNick>
+            <Date>2010-03-25 22:44:26</Date>
+            <Timestamp>1269582266</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:54 PDT 2010 -->

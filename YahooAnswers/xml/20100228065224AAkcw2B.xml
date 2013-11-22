@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228065224AAkcw2B" type="Answered">
+    <Subject>Is there an application for Twitter?</Subject>
+    <Content>I have an iPod touch and want to download the app for twitter from iTunes, my friend who has an iPhone says she has the twitter app but when i search for it on the iTunes store it doesn&#039;t come up with an obvious app, just others which don&#039;t look like twitter, is there an app available for me to download? if so what do i type in the search bar?
+</Content>
+    <Date>2010-02-28 06:52:24</Date>
+    <Timestamp>1267368744</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228065224AAkcw2B</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uA2mjN9Yaa</UserId>
+    <UserNick>Sam</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1Ur3gH-dsAAED36SDPl0iDg==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to their website, get an account if you haven&#039;t. There should be a link somewhere on the site for the app. Good luck!
+
+EDIT: AHA! you actually dont need the Twitter app. If you have the free texting app (the one that lets you text fro free from your Touch), your good to go! There are instructions on the website that tell you how to add your phone to Twitter. Just follow those! (They&#039;re under the &quot;help&quot; section at the top of the page.)</ChosenAnswer>
+    <ChosenAnswererId>95MVaSFIaa</ChosenAnswererId>
+    <ChosenAnswererNick>Will H</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267373254</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269282999</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>fsafaf</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>q0GYTZKUaa</UserId>
+            <UserNick>Austin</UserNick>
+            <Date>2010-02-28 07:02:33</Date>
+            <Timestamp>1267369353</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to their website, get an account if you haven&#039;t. There should be a link somewhere on the site for the app. Good luck!
+
+EDIT: AHA! you actually dont need the Twitter app. If you have the free texting app (the one that lets you text fro free from your Touch), your good to go! There are instructions on the website that tell you how to add your phone to Twitter. Just follow those! (They&#039;re under the &quot;help&quot; section at the top of the page.)</Content>
+            <Reference>I goes to Twitter.</Reference>
+            <Best>5</Best>
+            <UserId>95MVaSFIaa</UserId>
+            <UserNick>Will H</UserNick>
+            <Date>2010-02-28 08:07:34</Date>
+            <Timestamp>1267373254</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:39:00 PDT 2010 -->

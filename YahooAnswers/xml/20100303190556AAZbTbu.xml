@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303190556AAZbTbu" type="Answered">
+    <Subject>How does swagbucks work?</Subject>
+    <Content>how does swagbucks work? i just got an account but i don&#039;t really understand how it works.
+</Content>
+    <Date>2010-03-03 19:05:56</Date>
+    <Timestamp>1267671956</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303190556AAZbTbu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qProIYz9aa</UserId>
+    <UserNick>yo</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1n63QAQZpAAEC_OF8uI_pAw==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>its basically like google except you can win prize Just for searching things
+you have to look for swagbucks and when you have a lot you can win prizes</ChosenAnswer>
+    <ChosenAnswererId>7Gv3joLYaa</ChosenAnswererId>
+    <ChosenAnswererNick>Julio</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267672098</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267758563</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>its basically like google except you can win prize Just for searching things
+you have to look for swagbucks and when you have a lot you can win prizes</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>7Gv3joLYaa</UserId>
+            <UserNick>Julio</UserNick>
+            <Date>2010-03-03 19:08:18</Date>
+            <Timestamp>1267672098</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>d6E8i3dUaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-07 08:15:55</Date>
+            <Timestamp>1267672098</Timestamp>
+        </Comment>
+        <Comment>
+            <Content></Content>
+            <UserId>d6E8i3dUaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-07 08:16:30</Date>
+            <Timestamp>1267672098</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:14:17 PDT 2010 -->

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227155942AA6jX7r" type="Answered">
+    <Subject>What is thedifference in wireless internet and wifi?</Subject>
+    <Content>Well i have a wireles router at home but my iphone wont connect to it but when i am at like starbucks it works, is there a diference in the wireles internet and wifi
+</Content>
+    <Date>2010-02-27 15:59:42</Date>
+    <Timestamp>1267315182</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227155942AA6jX7r</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0H2Fvk6vaa</UserId>
+    <UserNick>Nathan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>wifi is a wireless modem/router access to the internet which is usually some sort of privat network or even in a business like starbucks.
+wireless internet is a phone company device which acts as a modem and directly connect your device to the web, and can be anywhere cell service works.
+as for your home network, you need ot look at the settings in your router/modem as there are plenty which could be limiting your access, from &#039;only allow connections from list&#039;( a mac address listing which limits who can connect to your network), to encryption protocols and passwords or assigned addresses.</ChosenAnswer>
+    <ChosenAnswererId>PrrPXI30aa</ChosenAnswererId>
+    <ChosenAnswererNick>ez80227</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267315247</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267834578</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>wifi is a wireless modem/router access to the internet which is usually some sort of privat network or even in a business like starbucks.
+wireless internet is a phone company device which acts as a modem and directly connect your device to the web, and can be anywhere cell service works.
+as for your home network, you need ot look at the settings in your router/modem as there are plenty which could be limiting your access, from &#039;only allow connections from list&#039;( a mac address listing which limits who can connect to your network), to encryption protocols and passwords or assigned addresses.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>PrrPXI30aa</UserId>
+            <UserNick>ez80227</UserNick>
+            <Date>2010-02-27 16:00:47</Date>
+            <Timestamp>1267315247</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No, your wireless at home IS WiFi.  You are not connecting to it properly, there is most likely a WEP security encryption on your home WiFi.  You need to program your IPhone to work with it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rhzhN1rvaa</UserId>
+            <UserNick>Drewdawg</UserNick>
+            <Date>2010-02-27 16:01:07</Date>
+            <Timestamp>1267315267</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>wifi is wireless internet.
+and you probably have either a very new wifi standard in youtr router or a very old one so the Iphone doesnt support it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eWuTKMl5aa</UserId>
+            <UserNick>Mr. Feelgood</UserNick>
+            <Date>2010-02-27 16:01:08</Date>
+            <Timestamp>1267315268</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>wireless- you can get connection anywhere
+wi-fi- you have to hook up to a network to get connection</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IYIaZW1Jaa</UserId>
+            <UserNick>Regina</UserNick>
+            <Date>2010-02-27 16:01:57</Date>
+            <Timestamp>1267315317</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Im pretty sure wifi requires a &quot;hot spot&quot; like a radius about a router and wireless internet is what someones phone may have that allows them to connect whenever, wherever.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6e4404c0251621b5d38e3904921c5b96aa</UserId>
+            <UserNick>mike</UserNick>
+            <Date>2010-02-27 16:02:11</Date>
+            <Timestamp>1267315331</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Wifi is at home,wireless internet relates to phones and al that.Remember,for wifi sometimes you need WEP,(I think it means Wireless Encryption Protocol.)
+Hope This Helped!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oCd7DYxTaa</UserId>
+            <UserNick>cooldude</UserNick>
+            <Date>2010-02-27 16:04:36</Date>
+            <Timestamp>1267315476</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi Nathan
+
+Well WiFi is a networking standard;
+when you use WiFi you are connecting to something called a Wireless Access Point or (WAP)
+this is then connected to the &quot;internet&quot; via wires and cables.
+Your &quot;WAP&quot; is your Home router, which has a range of about  30 -90 Meters
+
+Your Computer &lt;--WiFi--&gt; WAP (Wireless Access Point) &lt;--Cables--&gt; &quot;The internet&quot;
+
+WiFi is the connection between your computer and the WAP by using radio waves
+
+hope this helps
+
+Sy
+
+Nine-tenths of wisdom consists in being wise in time. - Theodore Roosevelt</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fM4nAjKpaa</UserId>
+            <UserNick>Sy Valentine</UserNick>
+            <Date>2010-02-27 16:08:35</Date>
+            <Timestamp>1267315715</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:42:17 PDT 2010 -->

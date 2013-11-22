@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302232838AAfdMXN" type="Answered">
+    <Subject>What is the best internet?</Subject>
+    <Content>I live in Oregon and I currently have Qwest but it absolutely sucks. Every time I am in a match (xbox live) I constantly get disconnected and it is extremly annoying.
+</Content>
+    <Date>2010-03-02 23:28:38</Date>
+    <Timestamp>1267601318</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302232838AAfdMXN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>59kJxaYLaa</UserId>
+    <UserNick>turbo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>As said before, check out the ISP reviews in your area.
+
+DSLreports.com is great for this.
+I think even speedtest.net can be useful as well.
+
+based on my own extensive experience though, avoid wireless (radio), satelite, and DSL based internet providers. They are slow and or very finicky.</ChosenAnswer>
+    <ChosenAnswererId>UUgQ8qfHaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sparrow</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267602109</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267700302</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think Road Runner is the best internet.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DWr1Vv4Maa</UserId>
+            <UserNick>&lt;3KPop</UserNick>
+            <Date>2010-03-02 23:36:23</Date>
+            <Timestamp>1267601783</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The best internet varies by location. Do some snooping around. Around here it&#039;s Verizon FIOS.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aHzAlWq3aa</UserId>
+            <UserNick>Anzu</UserNick>
+            <Date>2010-03-02 23:38:05</Date>
+            <Timestamp>1267601885</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>As said before, check out the ISP reviews in your area.
+
+DSLreports.com is great for this.
+I think even speedtest.net can be useful as well.
+
+based on my own extensive experience though, avoid wireless (radio), satelite, and DSL based internet providers. They are slow and or very finicky.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UUgQ8qfHaa</UserId>
+            <UserNick>Sparrow</UserNick>
+            <Date>2010-03-02 23:41:49</Date>
+            <Timestamp>1267602109</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:20:56 PDT 2010 -->

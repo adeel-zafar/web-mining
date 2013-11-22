@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228090653AAByT9X" type="Answered">
+    <Subject>Who needs an invite for LockerZ?</Subject>
+    <Content>I can invite you.
+you guys have been invited by someone else already....
+</Content>
+    <Date>2010-02-28 09:06:53</Date>
+    <Timestamp>1267376813</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228090653AAByT9X</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CbIBkxmFaa</UserId>
+    <UserNick>ltv123</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I need one ))</ChosenAnswer>
+    <ChosenAnswererId>aANrVEJEaa</ChosenAnswererId>
+    <ChosenAnswererNick>M3taSpl0it™</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267376943</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267896353</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I need one ))</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>aANrVEJEaa</UserId>
+            <UserNick>M3taSpl0it™</UserNick>
+            <Date>2010-02-28 09:09:03</Date>
+            <Timestamp>1267376943</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you need an invite email me at fishbeinb@aol.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3LJ27m7Daa</UserId>
+            <UserNick>Ben</UserNick>
+            <Date>2010-02-28 11:02:42</Date>
+            <Timestamp>1267383762</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:38:16 PDT 2010 -->

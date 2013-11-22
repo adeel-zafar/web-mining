@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303141811AAo6bKm" type="Answered">
+    <Subject>Asks for phone number when posting on craigslist?</Subject>
+    <Content>.....but Ive tried 5 times today and still no code on phone. common?
+</Content>
+    <Date>2010-03-03 14:18:11</Date>
+    <Timestamp>1267654691</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303141811AAo6bKm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TJT6gyUYaa</UserId>
+    <UserNick>parabola</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b995ab1i626zws102ac4/miSNHfc7frXBq_YccACycKGetLYrl90-/3/tn48.jpeg?ciAAToMBgow8s.S6</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>not common, they usually call you within seconds. Make sure your phone is working properly, I have a voip phone and its always crashing on me.</ChosenAnswer>
+    <ChosenAnswererId>vXM9EHfjaa</ChosenAnswererId>
+    <ChosenAnswererNick>Illustrative</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267654871</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267769461</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>not common, they usually call you within seconds. Make sure your phone is working properly, I have a voip phone and its always crashing on me.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>vXM9EHfjaa</UserId>
+            <UserNick>Illustrative</UserNick>
+            <Date>2010-03-03 14:21:11</Date>
+            <Timestamp>1267654871</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:04 PDT 2010 -->

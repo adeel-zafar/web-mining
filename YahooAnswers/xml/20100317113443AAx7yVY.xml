@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317113443AAx7yVY" type="Answered">
+    <Subject>Deleting entries in drop-down box of address bar on mozilla firefox?</Subject>
+    <Content>two questions:
+
+1. is there a way to delete entries in this drop down box?
+2. when using private browsing, will the sites visited appear in the drop-down box?
+
+thanks
+</Content>
+    <Date>2010-03-17 11:34:43</Date>
+    <Timestamp>1268850883</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317113443AAx7yVY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Bj75uPyTaa</UserId>
+    <UserNick>pullthetrigger</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ESuTSlPNAAEBOWGRfJPIdPzoH8AE.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1. Hover over them and press delete.
+2. No, that&#039;s the point of it.</ChosenAnswer>
+    <ChosenAnswererId>UFqEZl5qaa</ChosenAnswererId>
+    <ChosenAnswererNick>ಠ̯ಠ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268851135</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268946899</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>1. Hover over them and press delete.
+2. No, that&#039;s the point of it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UFqEZl5qaa</UserId>
+            <UserNick>ϟ</UserNick>
+            <Date>2010-03-17 11:38:55</Date>
+            <Timestamp>1268851135</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can disable the drop down on firefox simply by:
+
+» typing into the address bar about:config
+» Click on the button saying i&#039;ll be careful i promise
+» in the filter box type in browser.urlbar.maxRichResults
+» double click where it says 12 opposite and change the value to -1
+» Restart firefox and the drop down is disabled. 
+
+hope this helps</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6vm4etHIaa</UserId>
+            <UserNick>SocialCode</UserNick>
+            <Date>2010-03-17 14:39:14</Date>
+            <Timestamp>1268861954</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:12 PDT 2010 -->

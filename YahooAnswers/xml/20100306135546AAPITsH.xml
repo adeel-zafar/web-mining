@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306135546AAPITsH" type="Answered">
+    <Subject>What does it mean when people say they are jailed on Twitter?</Subject>
+    <Content>I see people saying &quot;follow my jailed account&quot; what does it mean?
+</Content>
+    <Date>2010-03-06 13:55:46</Date>
+    <Timestamp>1267912546</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306135546AAPITsH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8nAqS6YCaa</UserId>
+    <UserNick>AlexisP</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b7ca058iaaazul6sp1/J4EeIaUheqiMW1X4EjuN_LVO/14/tn48.jpg?ciAAToMBdwrMjd31</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Twitter Jail is no tweeting if you&#039;ve reached the limit of 100 tweets per hour/1000 per day.</ChosenAnswer>
+    <ChosenAnswererId>SJbLdhHcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kool</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268116315</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268458947</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Twitter Jail is no tweeting if you&#039;ve reached the limit of 100 tweets per hour/1000 per day.</Content>
+            <Reference>http://www.mahalo.com/answers/from-twitter/what-is-twitter-jail-what-does-that-mean</Reference>
+            <Best>5</Best>
+            <UserId>SJbLdhHcaa</UserId>
+            <UserNick>Kool</UserNick>
+            <Date>2010-03-08 22:31:55</Date>
+            <Timestamp>1268116315</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:46:20 PDT 2010 -->

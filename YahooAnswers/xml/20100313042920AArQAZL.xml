@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313042920AArQAZL" type="Answered">
+    <Subject>Cannot access ubisoft.com or any other ubi sites?</Subject>
+    <Content>for some reason i cant access ubi sites and even if i do if i click anything it says page cannot be displayed on almost everything i click even forums. wtf&#039;s wrong? tried internet explorer, firefox and safari, it wont open in any
+</Content>
+    <Date>2010-03-13 04:29:20</Date>
+    <Timestamp>1268483360</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313042920AArQAZL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>r6o2nzqXaa</UserId>
+    <UserNick>Mimi</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1KQRVao01AAEC5CS6UDJhtzoB.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It looks like there is a redirect on that page that is broken.
+
+Try www.ubi.com/enca/ instead
+
+If you still have problems, it&#039;s likely that pirates are maliciously attacking ubi servers due to the unpopular decision to make new games unplayable unless you have a good online connection with their servers.</ChosenAnswer>
+    <ChosenAnswererId>E8yS2kKRaa</ChosenAnswererId>
+    <ChosenAnswererNick>yr_nxt_bf</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268483633</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268999068</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It looks like there is a redirect on that page that is broken.
+
+Try www.ubi.com/enca/ instead
+
+If you still have problems, it&#039;s likely that pirates are maliciously attacking ubi servers due to the unpopular decision to make new games unplayable unless you have a good online connection with their servers.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>E8yS2kKRaa</UserId>
+            <UserNick>yr_nxt_bf</UserNick>
+            <Date>2010-03-13 04:33:53</Date>
+            <Timestamp>1268483633</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try using a proxy server,  and do the click things again .
+see if the error pups up again.
+if it doesn&#039;t then there is something wrong about your internet ip address location, service or etc.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KqE31ky4aa</UserId>
+            <UserNick>hamid</UserNick>
+            <Date>2010-03-13 04:34:53</Date>
+            <Timestamp>1268483693</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:05:18 PDT 2010 -->

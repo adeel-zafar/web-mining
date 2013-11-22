@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303134050AA5K3Ro" type="Answered">
+    <Subject>How do I get Internet Explorer 8 new tab to look like Chrome?</Subject>
+    <Content>How can I get IE8 to open a new tab showing 8 webpages I&#039;ve been to in the past like Chrome does? It makes a quick &quot;go to&quot; so much easier.  Thanks!
+How can I get IE8 to open a new tab showing 8 webpages I&#039;ve been to in the past like Chrome does? It makes a quick &quot;go to&quot; so much easier. Thanks!
+See, apparently Chrome uses GoogleUpdater which hogs memory and I can&#039;t delete it.  I thought I saw IE copying the same ability but can&#039;t wade thru the instructions to find out how.
+</Content>
+    <Date>2010-03-03 13:40:50</Date>
+    <Timestamp>1267652450</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303134050AA5K3Ro</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>df910313561b46e1e5284a5d0be52114aa</UserId>
+    <UserNick>Mac</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1DJGkdA6uAAECQWEo8AceAQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>Why don&#039;t you just use Chrome?</ChosenAnswer>
+    <ChosenAnswererId>BhNP2P8Xaa</ChosenAnswererId>
+    <ChosenAnswererNick>joe.attaboy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267652611</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268171699</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Why don&#039;t you just use Chrome?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BhNP2P8Xaa</UserId>
+            <UserNick>joe.attaboy</UserNick>
+            <Date>2010-03-03 13:43:31</Date>
+            <Timestamp>1267652611</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>df910313561b46e1e5284a5d0be52114aa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-10 13:45:34</Date>
+            <Timestamp>1267652611</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:29 PDT 2010 -->

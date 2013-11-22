@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225092637AA67x7t" type="Answered">
+    <Subject>When watching programs on BBCi player, the picture keeps freezing, but the people carry on talking?</Subject>
+    <Content>This is annoying me now, it still happens if I download the programme to my desktop.  I have Virgin broadband with a speed of 50MB.....
+</Content>
+    <Date>2010-02-25 09:26:37</Date>
+    <Timestamp>1267118797</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225092637AA67x7t</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>442eea184ced6819a7d0e72ef6237acaaa</UserId>
+    <UserNick>Lisa</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1yjW5sWl3AAEDnUK6mLORRwsNKQ==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It sounds like graphics lag. When it happens go to you&#039;re destop and right click on it then click refresh, then go back to the video. Also try closing any programs you have running in the background like messenger or any torrent applications and lower the picture quality on bbci player.</ChosenAnswer>
+    <ChosenAnswererId>179e0PsAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Doc</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267119066</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267638331</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It sounds like graphics lag. When it happens go to you&#039;re destop and right click on it then click refresh, then go back to the video. Also try closing any programs you have running in the background like messenger or any torrent applications and lower the picture quality on bbci player.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>179e0PsAaa</UserId>
+            <UserNick>Doc</UserNick>
+            <Date>2010-02-25 09:31:06</Date>
+            <Timestamp>1267119066</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The most common cause of computer freezes is a corrupt registry.
+Corruption within your registry keys, registry classes, and registry settings are the most common causes of Windows error messages.
+ The Computer registry is a database that stores all of your computer
+settings. The computer registry becomes more complex as you use your computer. The more programs you use the greater the chance your
+computer registry will develop errors and become bloated over time. Without cleaning the registry on a regular basis it is very likely that your PC will freeze.
+
+Cleaning the Windows registry improves the performance of your computer and will reduce the number of PC freezes. The Registry cleaner cleans the registry and frees up Windows registry space.
+ 
+Completely clean your windows registry with a few clicks of the mouse
+http://fix-pc-freezing.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XCLP2tcuaa</UserId>
+            <UserNick>Connect</UserNick>
+            <Date>2010-02-26 00:53:59</Date>
+            <Timestamp>1267174439</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:58:08 PDT 2010 -->

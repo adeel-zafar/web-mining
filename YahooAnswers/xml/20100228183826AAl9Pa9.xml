@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228183826AAl9Pa9" type="Answered">
+    <Subject>Is there really prepaid internet?</Subject>
+    <Content>I was watching HSN the other day and they were showing a Virgin Mobile Broadband USB Flash drive like device. They said also something about Sprint and its network.
+</Content>
+    <Date>2010-02-28 18:38:26</Date>
+    <Timestamp>1267411106</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228183826AAl9Pa9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ghr7FPIeaa</UserId>
+    <UserNick>jfs1988</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>In a word, yes.
+
+Since lots of people are moving away from the idea of contract mobile broadband for 2 years, there&#039;s been a surge of prepaid mobile broadband providers such as Virgin Mobile moving in to fill the gap.
+
+Most of them simply lease the service of a larger provider (Virgin leases Sprint&#039;s network as you heard) and then repackage/resell it as their own. The upside to this is the service is solid and not a garbage like connection.
+
+Since their are 2 types of prepaid providers (occasional use and regular use), it also depends on how often you plan to use the internet.</ChosenAnswer>
+    <ChosenAnswererId>Lk4vCloEaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mobile Broadband Tipster</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267463879</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269744165</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you can prepay for minutes to talk on a phone why not prepay for internet. on the other hand, software typically checks for updates from it&#039;s website automatically  which would use your prepaid minutes every time you&#039;d start an application.
+It probably exist, but it&#039;s up there with paying for radio like Sirius.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>A5Fqu3cSaa</UserId>
+            <UserNick>BIll S</UserNick>
+            <Date>2010-02-28 18:45:36</Date>
+            <Timestamp>1267411536</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In a word, yes.
+
+Since lots of people are moving away from the idea of contract mobile broadband for 2 years, there&#039;s been a surge of prepaid mobile broadband providers such as Virgin Mobile moving in to fill the gap.
+
+Most of them simply lease the service of a larger provider (Virgin leases Sprint&#039;s network as you heard) and then repackage/resell it as their own. The upside to this is the service is solid and not a garbage like connection.
+
+Since their are 2 types of prepaid providers (occasional use and regular use), it also depends on how often you plan to use the internet.</Content>
+            <Reference>2010 Prepaid Mobile Broadband Comparison:
+http://www.mobile-broadband-reviews.com/prepaid-mobile-broadband.html</Reference>
+            <Best>5</Best>
+            <UserId>Lk4vCloEaa</UserId>
+            <UserNick>Mobile Broadband Tipster</UserNick>
+            <Date>2010-03-01 09:17:59</Date>
+            <Timestamp>1267463879</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:35:24 PDT 2010 -->

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308173519AA0epyK" type="Answered">
+    <Subject>Would Safari be compatible with an HP Compaq computer with Windows 7?</Subject>
+    <Content>The reason why i&#039;m asking this is because i searched Safari on wikipedia, it said that Safari  was compatible with Windows 7, but when i clicked on the click to download Safari it said it Mac + PC.
+
+All i want to know: is Safari compatible with an HP Compaq computer with Windows 7?
+I have firefox, but it&#039;s french. I would like to have another english browser other than AOL, i used to use Internet Explorer before i found out that it had security issues now.
+
+My current browsers are:
+AOL (english)
+Google Chrome (spanish)
+Opera (portuguese)
+Flock (italian)
+Firefox (french)
+SeaMonkey (german)
+</Content>
+    <Date>2010-03-08 17:35:19</Date>
+    <Timestamp>1268098519</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308173519AA0epyK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1d3be905c594dfa5842eec70072bbee6aa</UserId>
+    <UserNick>ILoveJesusChrist</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>simple answer: yes
+better answer: safari doesn&#039;t work too well with pc. you&#039;re better off with google chrome or firefox.</ChosenAnswer>
+    <ChosenAnswererId>AA10503899</ChosenAnswererId>
+    <ChosenAnswererNick>neil</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268098667</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268614480</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes but I wouldn&#039;t recommend it. There have been known security issues that Apple seems to ignore. Use Firefox. It&#039;s a better browser anyway.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>c6c9153dd8192b8f34049dbf565cf53caa</UserId>
+            <UserNick>Sean C</UserNick>
+            <Date>2010-03-08 17:37:29</Date>
+            <Timestamp>1268098649</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>simple answer: yes
+better answer: safari doesn&#039;t work too well with pc. you&#039;re better off with google chrome or firefox.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10503899</UserId>
+            <UserNick>neil</UserNick>
+            <Date>2010-03-08 17:37:47</Date>
+            <Timestamp>1268098667</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes...Safari is compatible with just about everything</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>46c19c7a1c16d5468a05d86eacb979ecaa</UserId>
+            <UserNick>mocca_617</UserNick>
+            <Date>2010-03-08 17:53:22</Date>
+            <Timestamp>1268099602</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>YES and i would recommend it.
+It Rocks.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0od5FmAkaa</UserId>
+            <UserNick>Bozo</UserNick>
+            <Date>2010-03-09 12:04:21</Date>
+            <Timestamp>1268165061</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:28:42 PDT 2010 -->

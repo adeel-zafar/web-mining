@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328173323AAnjdxP" type="Answered">
+    <Subject>How to remove bottom browser bar?</Subject>
+    <Content>http://i578.photobucket.com/albums/ss229/schoolstuff12345/whatttt.jpg
+
+See the bottom bar with grease monkey and firefox personas on it? 
+
+How can I remove it?
+</Content>
+    <Date>2010-03-28 17:33:23</Date>
+    <Timestamp>1269822803</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328173323AAnjdxP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Gi8jiIPhaa</UserId>
+    <UserNick>Nick</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>View &gt; Status Bar</ChosenAnswer>
+    <ChosenAnswererId>SPzSkAz9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Sanders</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269823557</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270342437</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There is no reason for it to be removed.
+So there is no way of removing it (on FireFox at least).
+
+If you want a bit more room, make it so your taskbar auto hides.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XlsJdrrbaa</UserId>
+            <UserNick>Benjamin</UserNick>
+            <Date>2010-03-28 17:36:36</Date>
+            <Timestamp>1269822996</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>View &gt; Status Bar</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>SPzSkAz9aa</UserId>
+            <UserNick>Sanders</UserNick>
+            <Date>2010-03-28 17:45:57</Date>
+            <Timestamp>1269823557</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:31 PDT 2010 -->

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227131421AAqHpHa" type="Answered">
+    <Subject>Slow internet due to virus?</Subject>
+    <Content>My internet for the last week or so has been running very slow.
+When i first connect to the internet and quickly run a speed test my connect is about 2MB,
+But then after about 3mins of being connected its just says on 24kbps :L,
+This never used to happen, but i have also started to get A LOT of pops up with news tabs opening randomly to gambling sites or some weird search engines. 
+I ran avast computer scan and removed the infected files but it is still running at 24kbps :L.
+What can i do?
+</Content>
+    <Date>2010-02-27 13:14:21</Date>
+    <Timestamp>1267305261</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227131421AAqHpHa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SDeJZHIBaa</UserId>
+    <UserNick>nZyMeZ</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You probably need to get rid of some of the temporary internet files, cookies, etc. by using the Disc Cleanup that you access by either clicking START-All Programs-Accessories-System Tools-Disc Cleanup
+
+or
+
+Go to Start-Run-Type in &quot;cleanmgr&quot;</ChosenAnswer>
+    <ChosenAnswererId>WOfhEiHoaa</ChosenAnswererId>
+    <ChosenAnswererNick>The World&#039;s Sexiest Midget</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267306242</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269279846</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You should call Norton Internet Security they can tell you what to do or visit finnalyfast.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EvV0i07Daa</UserId>
+            <UserNick>Rish</UserNick>
+            <Date>2010-02-27 13:23:13</Date>
+            <Timestamp>1267305793</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You probably need to get rid of some of the temporary internet files, cookies, etc. by using the Disc Cleanup that you access by either clicking START-All Programs-Accessories-System Tools-Disc Cleanup
+
+or
+
+Go to Start-Run-Type in &quot;cleanmgr&quot;</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>WOfhEiHoaa</UserId>
+            <UserNick>We Can Work It Out</UserNick>
+            <Date>2010-02-27 13:30:42</Date>
+            <Timestamp>1267306242</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://registry.tp5pro.com/Slow_PC</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XBdMIVBHaa</UserId>
+            <UserNick>Importe</UserNick>
+            <Date>2010-03-03 12:22:00</Date>
+            <Timestamp>1267647720</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:43:16 PDT 2010 -->

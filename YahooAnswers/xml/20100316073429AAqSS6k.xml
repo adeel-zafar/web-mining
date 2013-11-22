@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316073429AAqSS6k" type="Answered">
+    <Subject>why is my mobile internet always switching off?</Subject>
+    <Content>my laptop is on network 3 on pay as you go but always turns off after a few minutes...HELP!!!
+</Content>
+    <Date>2010-03-16 07:34:29</Date>
+    <Timestamp>1268750069</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316073429AAqSS6k</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3198702b73a4469ae2fabb2bb400c680aa</UserId>
+    <UserNick>auto head</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/18kJX1AnEAAEC_IFHUC_rBw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s either a bad dongle or you live in a very bad reception area.
+
+It only has to drop to about 1 or 2 bars on the strength meter and it will cut off.</ChosenAnswer>
+    <ChosenAnswererId>WeZcSZvKaa</ChosenAnswererId>
+    <ChosenAnswererNick>sewrobb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268756365</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268778473</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your mobile internet always switching off because it catches virus toooooo fast!!!!!!!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>v7nPSiGhaa</UserId>
+            <UserNick>Abish</UserNick>
+            <Date>2010-03-16 07:38:00</Date>
+            <Timestamp>1268750280</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>sounds like a weak signal, try a new location</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bPOIGkpKaa</UserId>
+            <UserNick>Alex</UserNick>
+            <Date>2010-03-16 07:39:51</Date>
+            <Timestamp>1268750391</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>My be you have to buy another one.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3SKcPK0Raa</UserId>
+            <UserNick>YoYo</UserNick>
+            <Date>2010-03-16 07:55:07</Date>
+            <Timestamp>1268751307</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s either a bad dongle or you live in a very bad reception area.
+
+It only has to drop to about 1 or 2 bars on the strength meter and it will cut off.</Content>
+            <Reference>Experienced1</Reference>
+            <Best>5</Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-16 09:19:25</Date>
+            <Timestamp>1268756365</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:50:04 PDT 2010 -->

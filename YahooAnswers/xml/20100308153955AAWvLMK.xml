@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308153955AAWvLMK" type="Answered">
+    <Subject>How do I change back to normal print size from very large?</Subject>
+    <Content>All of a sudden, my print has gotten gigantic.  I want it to be normal size.
+</Content>
+    <Date>2010-03-08 15:39:55</Date>
+    <Timestamp>1268091595</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308153955AAWvLMK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JqAdb156aa</UserId>
+    <UserNick>Frances</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>on your computer? well press Ctrl down, hold, and press the plus sign or minus sign.. or you can just hold Ctrl down and scroll (on your mouse) to magnify or whatever..</ChosenAnswer>
+    <ChosenAnswererId>41EUyLY5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Kathy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268092009</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268607427</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>on your computer? well press Ctrl down, hold, and press the plus sign or minus sign.. or you can just hold Ctrl down and scroll (on your mouse) to magnify or whatever..</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>41EUyLY5aa</UserId>
+            <UserNick>Kathy</UserNick>
+            <Date>2010-03-08 15:46:49</Date>
+            <Timestamp>1268092009</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:29:33 PDT 2010 -->

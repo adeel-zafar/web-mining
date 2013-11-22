@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320105041AAO1aF6" type="Answered">
+    <Subject>Copy and Paste from Firefox Randomly Stopped Working?</Subject>
+    <Content>Since yesterday, I have not been able to copy and paste anything from the internet to Microsoft Word. It just suddenly stopped working, and it is driving me crazy!
+</Content>
+    <Date>2010-03-20 10:50:41</Date>
+    <Timestamp>1269107441</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320105041AAO1aF6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2VOMRZDgaa</UserId>
+    <UserNick>Gusteau Shabazz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try Paste Special.
+
+In Microsoft Word versions prior to Word 2007:
+
+1.Click the Edit-&gt;Paste Special menu item.
+2.Select Unformatted Text in the As list box.
+3.Click OK.
+
+In Word 2007:
+
+1.Press ALT/CTRL/V.
+2.Proceed as in Step 2 above.
+
+Hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269143117</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269626747</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try Paste Special.
+
+In Microsoft Word versions prior to Word 2007:
+
+1.Click the Edit-&gt;Paste Special menu item.
+2.Select Unformatted Text in the As list box.
+3.Click OK.
+
+In Word 2007:
+
+1.Press ALT/CTRL/V.
+2.Proceed as in Step 2 above.
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-20 20:45:17</Date>
+            <Timestamp>1269143117</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:31:14 PDT 2010 -->

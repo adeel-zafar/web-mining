@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314193716AAAyxrf" type="Answered">
+    <Subject>safari and google chrome wont pick up my internet connection, but AIM messenger and internet explorer will?</Subject>
+    <Content>whats going on? i just installed McAfee Virus Protection. Could that have anything to do with it.
+what does that mean
+</Content>
+    <Date>2010-03-14 19:37:16</Date>
+    <Timestamp>1268620636</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314193716AAAyxrf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>y7bV3BiPaa</UserId>
+    <UserNick>Mackenzie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1RD5CCx1GAAEBLONwhJMshEEB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>just make sure that they are not working off line from file tab</ChosenAnswer>
+    <ChosenAnswererId>gRtVFKIkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Wolf-Rayet</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268620718</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269140121</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>just make sure that they are not working off line from file tab</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gRtVFKIkaa</UserId>
+            <UserNick>Wolf-Rayet</UserNick>
+            <Date>2010-03-14 19:38:38</Date>
+            <Timestamp>1268620718</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>McAfee is probably blocking it. I don&#039;t have the program so I can&#039;t tell you how to unblock it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JB7uzfT6aa</UserId>
+            <UserNick>Old Fogey</UserNick>
+            <Date>2010-03-14 19:47:43</Date>
+            <Timestamp>1268621263</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:56:56 PDT 2010 -->

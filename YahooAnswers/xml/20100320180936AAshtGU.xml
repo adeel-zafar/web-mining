@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320180936AAshtGU" type="Answered">
+    <Subject>How does skype russian roulette work?</Subject>
+    <Content>I heard about it and it sounds interesting. How does it work?
+</Content>
+    <Date>2010-03-20 18:09:36</Date>
+    <Timestamp>1269133776</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320180936AAshtGU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lT2CJx82aa</UserId>
+    <UserNick>Krista</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if you lose in roulette, you have to skype a russian friend.</ChosenAnswer>
+    <ChosenAnswererId>4Ic2sAGIaa</ChosenAnswererId>
+    <ChosenAnswererNick>xxsagexx</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269757751</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270135985</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>if you lose in roulette, you have to skype a russian friend.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>4Ic2sAGIaa</UserId>
+            <UserNick>xxsagexx</UserNick>
+            <Date>2010-03-27 23:29:11</Date>
+            <Timestamp>1269757751</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:48 PDT 2010 -->

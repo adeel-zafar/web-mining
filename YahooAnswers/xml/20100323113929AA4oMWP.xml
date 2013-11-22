@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323113929AA4oMWP" type="Answered">
+    <Subject>&quot;Firefox is already running, but not responding&quot;?</Subject>
+    <Content>When I try to open Firefox but a message pops up &amp; says &quot;Firefox is already running, but not responding&quot; i&#039;ve tried restarting my computer but it didn&#039;t work. I&#039;ve also tried going to the task manager but firefox wasn&#039;t listed there. I also tried to unistall it but it&#039;s not listed their either! Help!
+</Content>
+    <Date>2010-03-23 11:39:29</Date>
+    <Timestamp>1269369569</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323113929AA4oMWP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>91Vm4XcEaa</UserId>
+    <UserNick>Cherry</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1zVuFuzBcAAEC2WKcqDJqd-0ibi0G.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I googled that quoted string and found this article:</ChosenAnswer>
+    <ChosenAnswererId>Xrpse3Iaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jim</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269370844</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269912244</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I googled that quoted string and found this article:</Content>
+            <Reference>http://forums.techarena.in/tips-tweaks/1104612.htm</Reference>
+            <Best>5</Best>
+            <UserId>Xrpse3Iaaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-23 12:00:44</Date>
+            <Timestamp>1269370844</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:18:19 PDT 2010 -->

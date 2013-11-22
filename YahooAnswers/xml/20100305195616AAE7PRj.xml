@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305195616AAE7PRj" type="Answered">
+    <Subject>What is MyEasyGPT.com?</Subject>
+    <Content>What is MyEasyGPT.com?  How does it reward you?
+@Cat Daddy
+
+It is blocked at my school
+</Content>
+    <Date>2010-03-05 19:56:16</Date>
+    <Timestamp>1267847776</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305195616AAE7PRj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QRORaiFZaa</UserId>
+    <UserNick>Will</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1bFoP8SluAAED_EFrcJ--Fz4B.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>You have the link, so why don&#039;t you just go there and have a look around for yourself?</ChosenAnswer>
+    <ChosenAnswererId>AA10746187</ChosenAnswererId>
+    <ChosenAnswererNick>Cat Daddy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267849125</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268367296</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You have the link, so why don&#039;t you just go there and have a look around for yourself?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10746187</UserId>
+            <UserNick>Cat Daddy</UserNick>
+            <Date>2010-03-05 20:18:45</Date>
+            <Timestamp>1267849125</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>MyEasyGPT is just like another GPT (Get Paid To) programs where you get paid to do something.. like viewing ads or reading ads, simply join and do the jobs served, and you&#039;ll get paid. Accumulate your balance until you reach $2, and you can withdraw your money to your online payment processor account like PayPal or AlertPay. Don&#039;t use proxy in this site, or you will be marked as cheater.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10942196</UserId>
+            <UserNick>antar1ks4</UserNick>
+            <Date>2010-03-05 20:39:23</Date>
+            <Timestamp>1267850363</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>AA10746187</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-13 00:18:43</Date>
+            <Timestamp>1267850363</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:52:51 PDT 2010 -->

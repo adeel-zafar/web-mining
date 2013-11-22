@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322044741AAFreKo" type="Answered">
+    <Subject>Why do i have bad internet connection from my bunk bed?</Subject>
+    <Content>I have a metal bunk bed and i have the bottom bed. i have really good fast internet but when i take my laptop to my bed the internet gets really slow and sometimes disconnects. Could it be the metal bunk bed interfering with the signal? why does this happen?
+</Content>
+    <Date>2010-03-22 04:47:41</Date>
+    <Timestamp>1269258461</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322044741AAFreKo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VfVY43w0aa</UserId>
+    <UserNick>Doll ♥</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1fJ6DEOetAAEB7IKF5BAhIl3W3QaV1A==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, more than likely. You could try using a better external USB WiFi card.</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269948522</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270123517</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, more than likely. You could try using a better external USB WiFi card.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>Legion</UserNick>
+            <Date>2010-03-30 04:28:42</Date>
+            <Timestamp>1269948522</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:59 PDT 2010 -->

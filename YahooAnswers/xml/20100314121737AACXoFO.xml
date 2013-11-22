@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314121737AACXoFO" type="Answered">
+    <Subject>Do you lose all your mail in internet explorer after synchronizing to outlook?</Subject>
+    <Content>I’ve recently set up my outlook 2007 using my yahoo account to which after it have been synchronize to outlook account and all the mails are now showing up in outlook …there don’t seem to be any mail left in my yahoo account…how is this?
+</Content>
+    <Date>2010-03-14 12:17:37</Date>
+    <Timestamp>1268594257</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314121737AACXoFO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RDIfKbquaa</UserId>
+    <UserNick>Kris</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You don&#039;t technically lose it. It just gets erased from the Yahoo mail server after you retrieve it from outlook. Check and see if there is an option in your account settings on Yahoo Mail, that disables mail deletion after pop retrieval. If that is possible,  your problems would be solved.</ChosenAnswer>
+    <ChosenAnswererId>lyDppNmzaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268594731</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268754244</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Thats not true.  It just syncs up, it doesn&#039;t remove them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-14 12:19:34</Date>
+            <Timestamp>1268594374</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Because outlook automatically downloads the mail and yahoo then deletes it. Its rather foolish to use outlook to begin with considering every drop of mail, spam, infected mails, etc are now stored on your pc. You will find that out in no time when your outlook becomes infected to the hilt with malware.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10654797</UserId>
+            <UserNick>blamay22000</UserNick>
+            <Date>2010-03-14 12:21:26</Date>
+            <Timestamp>1268594486</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You don&#039;t technically lose it. It just gets erased from the Yahoo mail server after you retrieve it from outlook. Check and see if there is an option in your account settings on Yahoo Mail, that disables mail deletion after pop retrieval. If that is possible,  your problems would be solved.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>lyDppNmzaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-14 12:25:31</Date>
+            <Timestamp>1268594731</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:59:05 PDT 2010 -->

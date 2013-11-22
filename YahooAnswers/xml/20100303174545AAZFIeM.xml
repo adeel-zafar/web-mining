@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303174545AAZFIeM" type="Answered">
+    <Subject>Trying to put up a Website with Godaddy?</Subject>
+    <Content>Hey everyone. I&#039;ve decided to use Godaddy&#039;s Website Tonight to put up a website. But the domain I want to put it under is already in use from when I put up a simple website a few weeks ago. Now, website tonight won&#039;t let me choose that domain name because it is already in use. What do I need to do to &quot;clear&quot; the other website off so I can re-use my domain?!
+</Content>
+    <Date>2010-03-03 17:45:45</Date>
+    <Timestamp>1267667145</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303174545AAZFIeM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IrXvCSItaa</UserId>
+    <UserNick>bookworm</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1t8JklBX3AAAC2OKZYJPoEsq8nlq0tQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Oh, yeah I had this problem when I got my grid hosting here&#039;s how to fix that...
+Log in to your account
+go to the my account tab
+over in the left side bar under my products click hosting
+you should see your base free hosting account, the one that has the domain in use , delete it, and then your good to go!</ChosenAnswer>
+    <ChosenAnswererId>bEmrAkauaa</ChosenAnswererId>
+    <ChosenAnswererNick>Vito M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267667503</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267840992</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just load your new html files onto the server. Whatever index you have loaded on the server that the domain is registered to are the ones that will load when you goto the site.
+
+You dont have to &quot;clear&quot; anything.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BgwTxzEFaa</UserId>
+            <UserNick>korgrue</UserNick>
+            <Date>2010-03-03 17:49:52</Date>
+            <Timestamp>1267667392</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Oh, yeah I had this problem when I got my grid hosting here&#039;s how to fix that...
+Log in to your account
+go to the my account tab
+over in the left side bar under my products click hosting
+you should see your base free hosting account, the one that has the domain in use , delete it, and then your good to go!</Content>
+            <Reference>4 year customer of Godaddy!</Reference>
+            <Best>5</Best>
+            <UserId>bEmrAkauaa</UserId>
+            <UserNick>Vito M</UserNick>
+            <Date>2010-03-03 17:51:43</Date>
+            <Timestamp>1267667503</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:14:49 PDT 2010 -->

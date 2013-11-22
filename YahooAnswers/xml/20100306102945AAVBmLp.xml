@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306102945AAVBmLp" type="Answered">
+    <Subject>If you use multiple browsers to click on Click to Give Sites, does it count as multiple clicks?</Subject>
+    <Content>I know it is questionable, but I have been using fours browsers to visit thehungersite.com and other giving sites in order for me to be able to click more than once per day.  Are my efforts working, or am I wasting my time?
+
+Also, anything on the validity of these sites would be appreciated.
+</Content>
+    <Date>2010-03-06 10:29:45</Date>
+    <Timestamp>1267900185</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306102945AAVBmLp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10293741</UserId>
+    <UserNick>questionner</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>its not about using different browsers its about your ip address! your ip address is already logged into the server so its not going to let you click again unless you change your ip address which is illegal!</ChosenAnswer>
+    <ChosenAnswererId>UGIBuFChaa</ChosenAnswererId>
+    <ChosenAnswererNick>Epic Face</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267900564</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268092239</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>its not about using different browsers its about your ip address! your ip address is already logged into the server so its not going to let you click again unless you change your ip address which is illegal!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UGIBuFChaa</UserId>
+            <UserNick>Steven</UserNick>
+            <Date>2010-03-06 10:36:04</Date>
+            <Timestamp>1267900564</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:48:10 PDT 2010 -->

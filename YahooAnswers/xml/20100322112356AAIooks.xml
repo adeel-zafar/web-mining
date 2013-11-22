@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322112356AAIooks" type="Answered">
+    <Subject>How do I set up my router to use hotspot shield so I can use my PS3 and netflix?</Subject>
+    <Content>I downloaded hotspot shield, but the netflix still doesn&#039;t work do I need to do anything else&gt;
+</Content>
+    <Date>2010-03-22 11:23:56</Date>
+    <Timestamp>1269282236</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322112356AAIooks</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mM03SDFFaa</UserId>
+    <UserNick>Danny</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1swMWsl6PAAQCP4FHlJOpBw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hotspot Shield doesn&#039;t work on a router, I can&#039;t imagine how you configured this.</ChosenAnswer>
+    <ChosenAnswererId>QHdEwZEBaa</ChosenAnswererId>
+    <ChosenAnswererNick>ds</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269285464</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269801875</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hotspot Shield doesn&#039;t work on a router, I can&#039;t imagine how you configured this.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>QHdEwZEBaa</UserId>
+            <UserNick>ds</UserNick>
+            <Date>2010-03-22 12:17:44</Date>
+            <Timestamp>1269285464</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:07 PDT 2010 -->

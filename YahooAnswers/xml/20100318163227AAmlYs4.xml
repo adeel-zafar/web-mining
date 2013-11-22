@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318163227AAmlYs4" type="Answered">
+    <Subject>I can&#039;t watch a video in jw player using firefox?</Subject>
+    <Content>I have been watching a tv series on a website for some time now.  I was able to watch up to episode 50 or something along the lines of that.  When I went to the next episode, the place where the video player was (jw player) it was just white.  It didn&#039;t even do video not found.  It didn&#039;t show the bar at the bottom or anything just a white space.  I am using firefox and I don&#039;t know what the problem is, whether its the browser or the website itself.
+</Content>
+    <Date>2010-03-18 16:32:27</Date>
+    <Timestamp>1268955147</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318163227AAmlYs4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MMMq5CD9aa</UserId>
+    <UserNick>Ian</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>JW is good. But I like Moyea Web Player - http://www.playerdiy.com/</ChosenAnswer>
+    <ChosenAnswererId>SQUk93ddaa</ChosenAnswererId>
+    <ChosenAnswererNick>Barbara</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268964495</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269474770</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>JW is good. But I like Moyea Web Player - http://www.playerdiy.com/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>SQUk93ddaa</UserId>
+            <UserNick>Best Answer</UserNick>
+            <Date>2010-03-18 19:08:15</Date>
+            <Timestamp>1268964495</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Install java and flash.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>H9RLpgjUaa</UserId>
+            <UserNick>Great</UserNick>
+            <Date>2010-03-18 23:58:35</Date>
+            <Timestamp>1268981915</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:38:17 PDT 2010 -->

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305061327AArz8XQ" type="Answered">
+    <Subject>How to block others from online virtual bidding?</Subject>
+    <Content>For example I am using a website that sells cars and they run real-life online auctions. CAn I somehow block other bids? Is there a software that enables that? Or for example on Ebay? Thanks
+</Content>
+    <Date>2010-03-05 06:13:27</Date>
+    <Timestamp>1267798407</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305061327AArz8XQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>z0X12RBiaa</UserId>
+    <UserNick>b.pantha</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>On ebay there is a setting in your my account &gt; prefferences.
+
+Buyer prefferences. This enables you to block certain bidders with the credentials below what you set. There is also an area to block certain bidders.
+
+The site your on should have a similar section to enable prefferences.</ChosenAnswer>
+    <ChosenAnswererId>rugZxDXbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Devastation Assistant</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267798766</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269647559</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Usually there&#039;s a end now option to the highest bidder, may need to look through the guides on the website</Content>
+            <Reference>Myself</Reference>
+            <Best></Best>
+            <UserId>2CItf70Zaa</UserId>
+            <UserNick>Trusting Lion</UserNick>
+            <Date>2010-03-05 06:15:44</Date>
+            <Timestamp>1267798544</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>On ebay there is a setting in your my account &gt; prefferences.
+
+Buyer prefferences. This enables you to block certain bidders with the credentials below what you set. There is also an area to block certain bidders.
+
+The site your on should have a similar section to enable prefferences.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rugZxDXbaa</UserId>
+            <UserNick>Devastation Assistant</UserNick>
+            <Date>2010-03-05 06:19:26</Date>
+            <Timestamp>1267798766</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:58:02 PDT 2010 -->

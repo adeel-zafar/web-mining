@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224160924AAFfZxi" type="Answered">
+    <Subject>whe can I get virtual cell phone number?</Subject>
+    <Content>I want a virtual cell phone, where I can sen international text messages and get repplies. I know skipe has a program like that. are there any others?
+</Content>
+    <Date>2010-02-24 16:09:24</Date>
+    <Timestamp>1267056564</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224160924AAFfZxi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2lME2P0haa</UserId>
+    <UserNick>Lucky</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1sQa5sp8HAAEC_GFF4C0=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There are sites where you can send them, but im not sure about receiving them. If you find any ways, please inform me.</ChosenAnswer>
+    <ChosenAnswererId>KNFTlgpSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Anonymous</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267057005</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268286737</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There are sites where you can send them, but im not sure about receiving them. If you find any ways, please inform me.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>KNFTlgpSaa</UserId>
+            <UserNick>Anonymous</UserNick>
+            <Date>2010-02-24 16:16:45</Date>
+            <Timestamp>1267057005</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yeah, its called an email.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GL5A27e4aa</UserId>
+            <UserNick>Russell.</UserNick>
+            <Date>2010-02-24 16:29:13</Date>
+            <Timestamp>1267057753</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:12:45 PDT 2010 -->

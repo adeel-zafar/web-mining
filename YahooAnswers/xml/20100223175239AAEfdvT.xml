@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223175239AAEfdvT" type="Answered">
+    <Subject>Some sites not working with FireFox why?</Subject>
+    <Content>I am using FF 3.6 when i try to open some sites it wont open eg.Face book Orkut etc etc. And others some downloading sites if i click to download it dont show the download button.Iam also using GChrome it doesnt have this problem.But its been attacked by virus pleeessss help me to solve this problem?
+</Content>
+    <Date>2010-02-23 17:52:39</Date>
+    <Timestamp>1266976359</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223175239AAEfdvT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>STV3gNzdaa</UserId>
+    <UserNick>rock</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>tools, options, privacy, accept cookies?</ChosenAnswer>
+    <ChosenAnswererId>NRQXmIcwaa</ChosenAnswererId>
+    <ChosenAnswererNick>tim g</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266977351</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267496080</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Trust me,OPERA is the best browser.Its fast,has unique features and even when a website is very slow to load you just click turbo mode and it loads the website.Ive tried every browser and im most impressed with opera</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cbp7Gukbaa</UserId>
+            <UserNick>Paul</UserNick>
+            <Date>2010-02-23 17:55:46</Date>
+            <Timestamp>1266976546</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>tools, options, privacy, accept cookies?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NRQXmIcwaa</UserId>
+            <UserNick>tim g</UserNick>
+            <Date>2010-02-23 18:09:11</Date>
+            <Timestamp>1266977351</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:29 PDT 2010 -->

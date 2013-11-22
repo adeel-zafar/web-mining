@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328052358AAvsUiT" type="Answered">
+    <Subject>Internet Explorer address bar won&#039;t give me lists of sites anymore unless I put the whole address?</Subject>
+    <Content>I just want to put in a word and for  a search and get a list of sites like I used to.
+
+And before you all start - I KNOW it&#039;s antiquated, I don&#039;t want to change it though and there&#039;s no need to be nasty to me....please just be kind and help? 
+
+Thanks.
+</Content>
+    <Date>2010-03-28 05:23:59</Date>
+    <Timestamp>1269779039</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328052358AAvsUiT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>j8CaXNVIaa</UserId>
+    <UserNick>WB</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I had the exact same problem, uninstall it. shut down your computer and and then download and install all over again.
+
+that worked for me and hopefully it will work for you :)</ChosenAnswer>
+    <ChosenAnswererId>T6HpcEWRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Big Omar</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269781151</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270298583</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I had the exact same problem, uninstall it. shut down your computer and and then download and install all over again.
+
+that worked for me and hopefully it will work for you :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>T6HpcEWRaa</UserId>
+            <UserNick>Big Omar</UserNick>
+            <Date>2010-03-28 05:59:11</Date>
+            <Timestamp>1269781151</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:01 PDT 2010 -->

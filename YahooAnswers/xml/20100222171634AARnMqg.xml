@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222171634AARnMqg" type="Answered">
+    <Subject>how do you set up verizon webmail?</Subject>
+    <Content>i am helping a friend set up verizon webmail and i just want some tips/pointers
+</Content>
+    <Date>2010-02-22 17:16:34</Date>
+    <Timestamp>1266887794</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222171634AARnMqg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BYNUJwhcaa</UserId>
+    <UserNick>Evan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1vYwE_LJBAAEC_MF8Jtd4e8gB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I assume for the following that it&#039;s the same as my FIOS if not the following may not apply:
+
+He should have a User id he got from them that starts with &quot;VZ&quot; and them some more text and words.  Then go to Verizon.com and you should see a &quot;My Verizon Sign In&quot; box.  Type in the user name that starts with VZ along with the password they gave you.  Next click on the &quot;My Account&quot; tab.  And select &quot;Add Sub Account/Email&quot;.  Follow the steps it&#039;ll tell you and there you go.</ChosenAnswer>
+    <ChosenAnswererId>gHDcV5fNaa</ChosenAnswererId>
+    <ChosenAnswererNick>Frank</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266889429</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269996775</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I assume for the following that it&#039;s the same as my FIOS if not the following may not apply:
+
+He should have a User id he got from them that starts with &quot;VZ&quot; and them some more text and words.  Then go to Verizon.com and you should see a &quot;My Verizon Sign In&quot; box.  Type in the user name that starts with VZ along with the password they gave you.  Next click on the &quot;My Account&quot; tab.  And select &quot;Add Sub Account/Email&quot;.  Follow the steps it&#039;ll tell you and there you go.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gHDcV5fNaa</UserId>
+            <UserNick>Frank</UserNick>
+            <Date>2010-02-22 17:43:49</Date>
+            <Timestamp>1266889429</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:39 PDT 2010 -->

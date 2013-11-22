@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303121306AA6LfrD" type="Answered">
+    <Subject>Internet running unusually slow?</Subject>
+    <Content>My internet has been running horribly slow lately. My download rate is only at 9-15kb/s, while I usually get atleast 100. Help?
+</Content>
+    <Date>2010-03-03 12:13:06</Date>
+    <Timestamp>1267647186</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303121306AA6LfrD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TPWfKtvwaa</UserId>
+    <UserNick>John</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://slowpc-checking.com/Slow_PC</ChosenAnswer>
+    <ChosenAnswererId>xKIqbZ16aa</ChosenAnswererId>
+    <ChosenAnswererNick>Hobbies</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267886360</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268166824</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Call up your ISP and ask them what the fuck is going on</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>us3dBYpeaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-03 12:17:10</Date>
+            <Timestamp>1267647430</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>or possibly low on memory, if u have windows memory diagnostic tool run it first for problems, click start, run feed this into run &amp; go, this will check and fix any problem, or u might have too many programs on your desktop..  f that&#039;s the case, then add more RAM&#039;s</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QprJQcYyaa</UserId>
+            <UserNick>richard s</UserNick>
+            <Date>2010-03-03 12:26:25</Date>
+            <Timestamp>1267647985</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I would run Malwarebytes, Hitman Pro, ccleaner, Reset Router or unplug it for 10 sec and plug it back in and restart PC...I would reinstall Network Driver next, if the above didn&#039;t fix it...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-03 12:48:49</Date>
+            <Timestamp>1267649329</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Not with this computer. I was able to ask if a radioactive cow is dangerous  ( :</Content>
+            <Reference>Me.</Reference>
+            <Best></Best>
+            <UserId>EHt5X2Jyaa</UserId>
+            <UserNick>Sam</UserNick>
+            <Date>2010-03-05 08:27:58</Date>
+            <Timestamp>1267806478</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://slowpc-checking.com/Slow_PC</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xKIqbZ16aa</UserId>
+            <UserNick>Hobbies</UserNick>
+            <Date>2010-03-06 06:39:20</Date>
+            <Timestamp>1267886360</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There are MANY reasons for computer slow downs:
+ not enough memory
+ too many programs starting up with windows at boot up time
+ too many junk files
+ too many restore points
+
+Clean windows registry can speed up the computer.
+Over time, you install new programs, uninstalled unimportant programs, update software&#039;s, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://clean-computer-registry.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>moH9qGVqaa</UserId>
+            <UserNick>BuildingSetsBlocks</UserNick>
+            <Date>2010-03-07 05:02:55</Date>
+            <Timestamp>1267966975</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:17:06 PDT 2010 -->

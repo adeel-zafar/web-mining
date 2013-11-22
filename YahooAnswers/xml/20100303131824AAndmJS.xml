@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303131824AAndmJS" type="Answered">
+    <Subject>what age do you have to be to have paypal?</Subject>
+    <Content>is it 18?
+</Content>
+    <Date>2010-03-03 13:18:24</Date>
+    <Timestamp>1267651104</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303131824AAndmJS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xiIk7p8aaa</UserId>
+    <UserNick>Emma B</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1tD_7yRgkAAED42TucKbFF2UB.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>For Paypal It&#039;s the age when you are legally allowed to have a bank account or a credit card.  In the US, it&#039;s 18 or older.  This may vary by country, Paypal is available in 109 countries.</ChosenAnswer>
+    <ChosenAnswererId>0ZboLnn0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Charlie Tuna</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267651529</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268170571</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yep</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UWVMFD0Iaa</UserId>
+            <UserNick>Andy</UserNick>
+            <Date>2010-03-03 13:19:46</Date>
+            <Timestamp>1267651186</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>For Paypal It&#039;s the age when you are legally allowed to have a bank account or a credit card.  In the US, it&#039;s 18 or older.  This may vary by country, Paypal is available in 109 countries.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0ZboLnn0aa</UserId>
+            <UserNick>Charlie Tuna</UserNick>
+            <Date>2010-03-03 13:25:29</Date>
+            <Timestamp>1267651529</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:37 PDT 2010 -->

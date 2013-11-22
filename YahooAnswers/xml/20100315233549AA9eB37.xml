@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315233549AA9eB37" type="Answered">
+    <Subject>How do you make 1¢ on Paypal?</Subject>
+    <Content>Hey I need 1cent fast. Anyone know any ways for me to get it?
+</Content>
+    <Date>2010-03-15 23:35:49</Date>
+    <Timestamp>1268721349</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315233549AA9eB37</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>H5Dgwzexaa</UserId>
+    <UserNick>Matt</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1tVQ3uQ6LAAEC_IGOGT7kSEPhKw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I will mail you a dollar. Get the rest of the world to do that and you will be filthy rich</ChosenAnswer>
+    <ChosenAnswererId>ussoXmHoaa</ChosenAnswererId>
+    <ChosenAnswererNick>ForeverFREE</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268721402</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268768869</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I will mail you a dollar. Get the rest of the world to do that and you will be filthy rich</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ussoXmHoaa</UserId>
+            <UserNick>ForeverFREE</UserNick>
+            <Date>2010-03-15 23:36:42</Date>
+            <Timestamp>1268721402</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>look between the couch cushions</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>R0S7EI8faa</UserId>
+            <UserNick>the evil easter bunny</UserNick>
+            <Date>2010-03-15 23:37:27</Date>
+            <Timestamp>1268721447</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>just ask someone with a paypal account to send you a cent.  I&#039;m sure a friend wont mind giving you a penny.  Just give them your email address and they can send it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>N7ILZUYQaa</UserId>
+            <UserNick>burgz</UserNick>
+            <Date>2010-03-15 23:38:50</Date>
+            <Timestamp>1268721530</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:50:47 PDT 2010 -->

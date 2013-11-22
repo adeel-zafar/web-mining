@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322162654AAHek7l" type="Answered">
+    <Subject>Unbelievably awful internet speeds? Download speed LOWER than upload?</Subject>
+    <Content>I have TalkTalk broadband, and I get download speeds at an average of 4kb/s most days, up to an absolute maximum of 45kb/s, and I&#039;m not joking... It&#039;ll take me a couple of minutes to download a 1mb file on most nights.
+Not only this, but my upload speed is actually hioher than my download?!
+That will often run at around 50kb/s.
+
+Does anyone know the cause of this? I have 100% signal strength (sitting next to router), Belkin N Series router, and even my wired desktop computer is the same.
+
+Thanks in advance, any advice is appreciated.
+About 200 metres away, I know some houses get speeds get download speeds of up to 800kb/s. Although the south west of England isn&#039;t exactly known for good internet speeds, mine is just pathetic.
+</Content>
+    <Date>2010-03-22 16:26:54</Date>
+    <Timestamp>1269300414</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322162654AAHek7l</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FNQe1rCyaa</UserId>
+    <UserNick>Charlie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb3d4d2iad2zws120ac4/66lwQgkyc6c003ow0Zn7cQ6H9TW316dswIYebOkysjbeT.CO/1/tn48.jpeg?ciAAToMBi7mNe21x</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi, The speed could be low for a variety of reasons, we can look into this for if you could register on the talktalk members website and start a new thread in the speed and web browsing section
+
+Chris</ChosenAnswer>
+    <ChosenAnswererId>bc7y49LRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Talktalk Support</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269344157</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269457431</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sometimes your speed depends on your location. Also it has most likely nothing to do with your router. I saw on their website that they offer free support so you should call them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vHvtmmqKaa</UserId>
+            <UserNick>Borbala</UserNick>
+            <Date>2010-03-22 16:40:25</Date>
+            <Timestamp>1269301225</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi, The speed could be low for a variety of reasons, we can look into this for if you could register on the talktalk members website and start a new thread in the speed and web browsing section
+
+Chris</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>bc7y49LRaa</UserId>
+            <UserNick>Talktalk Support</UserNick>
+            <Date>2010-03-23 04:35:57</Date>
+            <Timestamp>1269344157</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:21:39 PDT 2010 -->

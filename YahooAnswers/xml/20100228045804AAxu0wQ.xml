@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228045804AAxu0wQ" type="Answered">
+    <Subject>What do you call the .au,.nl,.ru stuff on webpages ?</Subject>
+    <Content>I know .au is for australia .nl for the netherlands .ru for russia .tw for taiwan .ph for philippines etc.,
+but what do you call it?
+</Content>
+    <Date>2010-02-28 04:58:04</Date>
+    <Timestamp>1267361884</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228045804AAxu0wQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mH6qPqKqaa</UserId>
+    <UserNick>Abraham Tan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/14CioMZnyAAEC_AEOJt57DJAB.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>top level domain</ChosenAnswer>
+    <ChosenAnswererId>xrmI9bH5aa</ChosenAnswererId>
+    <ChosenAnswererNick>ElMarkio</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267362279</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267881177</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>top level domain</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xrmI9bH5aa</UserId>
+            <UserNick>ElMarkio</UserNick>
+            <Date>2010-02-28 05:04:39</Date>
+            <Timestamp>1267362279</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Web Country Codes on the Internet</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ziZcyz4waa</UserId>
+            <UserNick>cheker</UserNick>
+            <Date>2010-02-28 05:05:35</Date>
+            <Timestamp>1267362335</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>as ElMarkio said 
+
+Simply TLDs</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lm7X49cZaa</UserId>
+            <UserNick>█ ..War..Lord.. █</UserNick>
+            <Date>2010-02-28 05:06:28</Date>
+            <Timestamp>1267362388</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Technically it is a &quot;Top Level Domain&quot; representing a Country Code in the Root Zone Database.
+
+Below are a couple of links from IANA (Internet Assigned Numbers Authority) for your reference.
+
+http://www.iana.org/domains/root/cctld/
+http://www.iana.org/domains/root/db/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gPzLD9gmaa</UserId>
+            <UserNick>MLM</UserNick>
+            <Date>2010-02-28 05:08:50</Date>
+            <Timestamp>1267362530</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:39:35 PDT 2010 -->

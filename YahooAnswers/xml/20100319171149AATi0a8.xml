@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319171149AATi0a8" type="Answered">
+    <Subject>How to add bookmark to more than one Firefox folder..?</Subject>
+    <Content>I am running Firefox 3.6 and there is a particular website I would like to bookmark in two of my bookmark folders.
+
+I can place the website into the first folder no problems, however when I go to add it to the second folder it only lets me keep it in the folder I put it in originally, or to remove it from that folder and put it into the new folder.
+
+So I guess I am wondering whether you can have the same website bookmarked in two or more folders at the same time?
+
+Thanks.
+</Content>
+    <Date>2010-03-19 17:11:49</Date>
+    <Timestamp>1269043909</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319171149AATi0a8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>a246961c722109f6a33865925b281b2aaa</UserId>
+    <UserNick>Pete</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Google Chrome is better and even faster than firefox....But try this:
+http://support.mozilla.com/en-US/kb/</ChosenAnswer>
+    <ChosenAnswererId>qQcJtWdMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Fancy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269044036</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269728552</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Google Chrome is better and even faster than firefox....But try this:
+http://support.mozilla.com/en-US/kb/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qQcJtWdMaa</UserId>
+            <UserNick>Fancy</UserNick>
+            <Date>2010-03-19 17:13:56</Date>
+            <Timestamp>1269044036</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:03 PDT 2010 -->

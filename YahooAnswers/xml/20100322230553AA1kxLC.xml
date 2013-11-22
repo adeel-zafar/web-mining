@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322230553AA1kxLC" type="Answered">
+    <Subject>i just heard that my Internet provider can log where you go on there router. what can i do about that?</Subject>
+    <Content>
+i ment to say that my internet provider can track where i go oops
+</Content>
+    <Date>2010-03-22 23:05:53</Date>
+    <Timestamp>1269324353</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322230553AA1kxLC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZJ7ry2Qcaa</UserId>
+    <UserNick>Jay</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>8</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>All your visits will be logged at the ISP level. If you are worried about privacy, you should avoid visiting those sites. 
+
+Arun</ChosenAnswer>
+    <ChosenAnswererId>c75u2IYKaa</ChosenAnswererId>
+    <ChosenAnswererNick>Arun Agrawal - Ebizindia</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269324564</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269843832</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Nothing, just don&#039;t do anything illegal and you should be fine.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>luoSCvIcaa</UserId>
+            <UserNick>Blink</UserNick>
+            <Date>2010-03-22 23:08:04</Date>
+            <Timestamp>1269324484</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Get another internet provider or use http://hidemyass.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Mo88saypaa</UserId>
+            <UserNick>Ralph_T</UserNick>
+            <Date>2010-03-22 23:08:15</Date>
+            <Timestamp>1269324495</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nothing really.  As long as your activity goes through their system they can keep a record of it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cZrfYwzEaa</UserId>
+            <UserNick>Danny</UserNick>
+            <Date>2010-03-22 23:08:24</Date>
+            <Timestamp>1269324504</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>All your visits will be logged at the ISP level. If you are worried about privacy, you should avoid visiting those sites. 
+
+Arun</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>c75u2IYKaa</UserId>
+            <UserNick>Arun Agrawal - Ebizindia</UserNick>
+            <Date>2010-03-22 23:09:24</Date>
+            <Timestamp>1269324564</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>dont use an ISP that is owned by your family.  Otherwise go to 5 million sites so they kept busy.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pDxFOekIaa</UserId>
+            <UserNick>chezzrob</UserNick>
+            <Date>2010-03-22 23:15:18</Date>
+            <Timestamp>1269324918</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can use a proxy server, however, the proxy server also logs where you come from and go anyway. 
+
+If you really need total discretion, you would need to use an open wi-fi connection with a computer that you would ONLY use for that because you could still be traceable via identification information on your computer such as the adapter mac address and more which is also logged on the ISP&#039;s servers.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3E4uO0kAaa</UserId>
+            <UserNick>Dembou</UserNick>
+            <Date>2010-03-22 23:26:39</Date>
+            <Timestamp>1269325599</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Every ISP does the same. Its a common system. If you dont visit any illegal sites, then nothing worry about that...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Oe2ywDc5aa</UserId>
+            <UserNick>Hassan</UserNick>
+            <Date>2010-03-23 00:56:52</Date>
+            <Timestamp>1269331012</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s not a router, it&#039;s a server. All internet activity is logged in some form or another. Entering keywords will trigger an activity log. It doesn&#039;t matter what you try to do. The minute a computer is on the internet it is being monitored, they even know when you use a proxy or try to hide your activities. So what is the big deal, if you aren&#039;t doing anything illegal, it is nothing to be concerned about. Privacy is not one thing you have using the internet.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VbP8YWonaa</UserId>
+            <UserNick>comtech391</UserNick>
+            <Date>2010-03-23 01:26:01</Date>
+            <Timestamp>1269332761</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:19:55 PDT 2010 -->

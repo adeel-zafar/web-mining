@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303220049AAmsk5w" type="Answered">
+    <Subject>i wanna upload some photos on google earth?</Subject>
+    <Content>i upload some photos on panoramio site but i cant show on google earth software tell me the way by which we can see photos on google earth tell me the way in brief
+</Content>
+    <Date>2010-03-03 22:00:49</Date>
+    <Timestamp>1267682449</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303220049AAmsk5w</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>YWonLUkQaa</UserId>
+    <UserNick>KAMAL</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I assume that you want these photos to be viewable in the GE layers?
+The easiest way to add photos to the layers is to open a free
+panoramio account and upload them there. You will need to position
+them on the globe after you upload them. If they qualify, they will
+eventually be added to the panoramio layer in the geographic web. You
+will also get a network link for your images which you can use
+immediately to see them in GE.
+
+http://www.panoramio.com/
+
+Read the FAQ on the panoramio site to get an idea of the type of
+photos which get added to GE and which ones don&#039;t.</ChosenAnswer>
+    <ChosenAnswererId>YzuW2Q1Taa</ChosenAnswererId>
+    <ChosenAnswererNick>rahul b</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267683961</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268201661</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I assume that you want these photos to be viewable in the GE layers?
+The easiest way to add photos to the layers is to open a free
+panoramio account and upload them there. You will need to position
+them on the globe after you upload them. If they qualify, they will
+eventually be added to the panoramio layer in the geographic web. You
+will also get a network link for your images which you can use
+immediately to see them in GE.
+
+http://www.panoramio.com/
+
+Read the FAQ on the panoramio site to get an idea of the type of
+photos which get added to GE and which ones don&#039;t.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>YzuW2Q1Taa</UserId>
+            <UserNick>rahul b</UserNick>
+            <Date>2010-03-03 22:26:01</Date>
+            <Timestamp>1267683961</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:13:15 PDT 2010 -->

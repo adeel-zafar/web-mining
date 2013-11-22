@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327073303AAVnwlQ" type="Answered">
+    <Subject>What website can I find Sally&#039;s Spa at?</Subject>
+    <Content>So, I have it as an app on my iPod, but my friend likes it, and so...
+on this website, can you play the full version too??
+</Content>
+    <Date>2010-03-27 07:33:03</Date>
+    <Timestamp>1269700383</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327073303AAVnwlQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sACJblBcaa</UserId>
+    <UserNick>Nat</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1bftLWNT7AAEBXOKbEJYWM3hCMQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.gamehouse.com/download-games/sallys-spa</ChosenAnswer>
+    <ChosenAnswererId>wioFz2Pcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rhen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269700853</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270219991</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.gamehouse.com/download-games/sallys-spa</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wioFz2Pcaa</UserId>
+            <UserNick>Rhen</UserNick>
+            <Date>2010-03-27 07:40:53</Date>
+            <Timestamp>1269700853</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It is hard to get full version free game, and those free game download website might contain virus, which is a nightmare. 
+
+Get the member discount from http://www.lifegateway.com/games/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cDmQSHD0aa</UserId>
+            <UserNick>Girl</UserNick>
+            <Date>2010-03-28 19:53:55</Date>
+            <Timestamp>1269831235</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:17 PDT 2010 -->

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226142001AAzXjdj" type="Answered">
+    <Subject>I cannot download anything on IE.  As far as i know i have not changed any settings.?</Subject>
+    <Content>More importantly, i cannot open, uninstall or re-download AVG.  I have checked the internet options and they are o.k.   Any help would be appreciated.
+I have free Norton, I ran a scan and it found tracking cookies, but AVG did to when it worked!!!!
+</Content>
+    <Date>2010-02-26 14:20:01</Date>
+    <Timestamp>1267222801</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226142001AAzXjdj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ba1111982dfb97e3f2aef5f3d95273b9aa</UserId>
+    <UserNick>mrs mac</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You don&#039;t say what happens when you try to download something (e.g. by clicking on a download button or a link) but if nothing happens I would say it&#039;s most likely that you&#039;ve picked up a virus or IE has been corrupted in some way.
+
+Go here and download the free version, run it and get it to automatically remove any virus:
+http://www.malwarebytes.org/mbam.php
+
+If that doesn&#039;t help I would try re-installing IE. Obviously you&#039;ll have to download it from another computer and transfer it by burning a CD or poutting it on a USB stick or external drive.
+
+Good luck.</ChosenAnswer>
+    <ChosenAnswererId>WaI693jHaa</ChosenAnswererId>
+    <ChosenAnswererNick>probablygraham</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267223427</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267478904</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your computer RAM may be full, frozen, or broken</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8rBVg3Gyaa</UserId>
+            <UserNick>Nick Samuel</UserNick>
+            <Date>2010-02-26 14:22:39</Date>
+            <Timestamp>1267222959</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It could be that you have a virus.  If you have any sort of virus software, it would be a good idea to do a scan.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TwUkrAOFaa</UserId>
+            <UserNick>Jacob</UserNick>
+            <Date>2010-02-26 14:26:02</Date>
+            <Timestamp>1267223162</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try resetting your browser back to default settings.
+
+To do this, click on Tools &gt; Internet Options.
+
+Click on the Advanced tab.
+
+At the bottom of the Advanced tab you&#039;ll see a button called &quot;Reset&quot;.
+
+Click on the button and it will reset the browser back to default settings. Afterwards, close the browser and open it again. Hopefully you&#039;ll have full access to your browser again.
+
+
+If it still isn&#039;t working, you can open the browser is a special safe mode called &quot;No Addons Mode&quot;.
+
+To do this, 
+
+Start Menu &gt; Programs &gt; Accessories &gt; System Tools &gt; Internet Explorer (No Addons)
+
+
+If your browser works in No Addons mode then it means that something like a toolbar or an addon or plugin is preventing your browser from working properly. You can manage addons in your browser by click on the Tools menu &gt; Manage Addons.
+
+You can enable/disable individual addons until you work out which one is causing your issue.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10834300</UserId>
+            <UserNick>Darren</UserNick>
+            <Date>2010-02-26 14:28:45</Date>
+            <Timestamp>1267223325</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You don&#039;t say what happens when you try to download something (e.g. by clicking on a download button or a link) but if nothing happens I would say it&#039;s most likely that you&#039;ve picked up a virus or IE has been corrupted in some way.
+
+Go here and download the free version, run it and get it to automatically remove any virus:
+http://www.malwarebytes.org/mbam.php
+
+If that doesn&#039;t help I would try re-installing IE. Obviously you&#039;ll have to download it from another computer and transfer it by burning a CD or poutting it on a USB stick or external drive.
+
+Good luck.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>WaI693jHaa</UserId>
+            <UserNick>probablygraham</UserNick>
+            <Date>2010-02-26 14:30:27</Date>
+            <Timestamp>1267223427</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:49:50 PDT 2010 -->

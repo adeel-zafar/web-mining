@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311060503AA4GZ4x" type="Answered">
+    <Subject>How do you post a picture post on Wordpress?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-11 06:05:03</Date>
+    <Timestamp>1268316303</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311060503AA4GZ4x</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UVrhajLJaa</UserId>
+    <UserNick>Julia</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ab93ddaieaazul5sp1/9OPOdb07d7bCryN19Cc-/3/tn48.jpg?ciAAToMB0wh.irwS</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Press &quot;Add new Post&quot; then look above the buttons list, you will see a small button that when you rollover you will see: &quot;Add an Image&quot;, then click Select file and browse your computer for the image you want.</ChosenAnswer>
+    <ChosenAnswererId>ebd5dfdb1e47e98e3b022e5a5aa87252aa</ChosenAnswererId>
+    <ChosenAnswererNick>thedark</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268317427</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268535832</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Press &quot;Add new Post&quot; then look above the buttons list, you will see a small button that when you rollover you will see: &quot;Add an Image&quot;, then click Select file and browse your computer for the image you want.</Content>
+            <Reference>http://www.flamescorpion.com</Reference>
+            <Best>5</Best>
+            <UserId>ebd5dfdb1e47e98e3b022e5a5aa87252aa</UserId>
+            <UserNick>thedark</UserNick>
+            <Date>2010-03-11 06:23:47</Date>
+            <Timestamp>1268317427</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:13:56 PDT 2010 -->

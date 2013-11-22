@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304033703AAxWaSN" type="Answered">
+    <Subject>How to connect to voip calls?</Subject>
+    <Content>I am using 2 different  voip providers to call 2 different free destinations. Now is there any way to connect these 2 calls to make a conference call. any software that can help.
+
+If yes pl. attach the url.
+</Content>
+    <Date>2010-03-04 03:37:03</Date>
+    <Timestamp>1267702623</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304033703AAxWaSN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iKJEC8beaa</UserId>
+    <UserNick>lavsan01</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1zXh1-MA7AAECQWEo8IhsIosB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, Skype offers conference calls, but if you call to landlines or mobile phones, their service is not free (that is how they make their money)
+
+To take advantage of the free service of your two VoIP providers and be able to have conference calls, you first need to make sure that you can use both providers from a SIP client. If that is the case, you can try any free SIP PBX, or you might qualify for Skype for SIP (there are different advantages to both appoaches)
+
+I have written a brief article that can throw some light and be useful as a lead for further investigation (link shown below)
+
+Regards,
+
+Marc</ChosenAnswer>
+    <ChosenAnswererId>CRZC9ZIMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Marc</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267741347</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267795662</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>By using a telephone system or skype has that option.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qbFyAV7xaa</UserId>
+            <UserNick>CheesyPeas</UserNick>
+            <Date>2010-03-04 03:50:04</Date>
+            <Timestamp>1267703404</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, Skype offers conference calls, but if you call to landlines or mobile phones, their service is not free (that is how they make their money)
+
+To take advantage of the free service of your two VoIP providers and be able to have conference calls, you first need to make sure that you can use both providers from a SIP client. If that is the case, you can try any free SIP PBX, or you might qualify for Skype for SIP (there are different advantages to both appoaches)
+
+I have written a brief article that can throw some light and be useful as a lead for further investigation (link shown below)
+
+Regards,
+
+Marc</Content>
+            <Reference>http://www.voipphoneplanet.com/news/skype-asterisk-and-sip</Reference>
+            <Best>3</Best>
+            <UserId>CRZC9ZIMaa</UserId>
+            <UserNick>Marc</UserNick>
+            <Date>2010-03-04 14:22:27</Date>
+            <Timestamp>1267741347</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:12:24 PDT 2010 -->

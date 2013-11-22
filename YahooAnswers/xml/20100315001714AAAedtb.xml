@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315001714AAAedtb" type="Answered">
+    <Subject>Torrent downloading help. New at this...?</Subject>
+    <Content>I want to download this episode of a talk show with an actress so I started looking for a free download but only torrents came up. I downloaded Vuze and searched for the episode I wanted. I found it and clicked download. Then after a while the status was still downloading and I noticed there was no progress to it at all. Apparently I wasn&#039;t connected to any &#039;seeds&#039;. I tried searching for the episode elsewhere but it always ends up with something I have to be a member of and pay. I want to download it for free. Can anyone help? Maybe &#039;guide&#039; me step by step how to download the torrent using Vuze...?
+Please don&#039;t bash me. Many thanks.
+</Content>
+    <Date>2010-03-15 00:17:14</Date>
+    <Timestamp>1268637434</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315001714AAAedtb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>e9c419a6400a6777065d4fe703f0d7c1aa</UserId>
+    <UserNick>anonymously-unknown</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;ve never used Vuze, and never will.
+The torrent downloader I use is called µTorrent, you can download it at www.utorrent.com
+For a torrent website, I suggest www.thepiratebay.org
+Now, here&#039;s what you want to do:
+On www.thepiratebay.org, you search for what you want to find, then once the results come in, notice the two columns of numbers on the far right of the search results. Click the box at the top of the left column. There you get the most seeders.
+Then open the torrent in your torrent downloader (I will explain this for µTorrent)
+
+Open the preferences, on the µTorrent toolbar you can find it by clicking the golden thing on the far right.
+Then go to the bandwidth tab and change Global Maximum Number of Connections to 500 or higher.
+Change the Maximum Number of Peers per Torrent to 500 or higher.</ChosenAnswer>
+    <ChosenAnswererId>S0i0rfFTaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mr. Jolly Madman</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268638026</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268812757</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Unless people are seeding the torrent you want there&#039;s nothing you can do. Except try to find a different copy that is being seeded.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>03Amh6lYaa</UserId>
+            <UserNick>Will</UserNick>
+            <Date>2010-03-15 00:20:24</Date>
+            <Timestamp>1268637624</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;ve never used Vuze, and never will.
+The torrent downloader I use is called µTorrent, you can download it at www.utorrent.com
+For a torrent website, I suggest www.thepiratebay.org
+Now, here&#039;s what you want to do:
+On www.thepiratebay.org, you search for what you want to find, then once the results come in, notice the two columns of numbers on the far right of the search results. Click the box at the top of the left column. There you get the most seeders.
+Then open the torrent in your torrent downloader (I will explain this for µTorrent)
+
+Open the preferences, on the µTorrent toolbar you can find it by clicking the golden thing on the far right.
+Then go to the bandwidth tab and change Global Maximum Number of Connections to 500 or higher.
+Change the Maximum Number of Peers per Torrent to 500 or higher.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>S0i0rfFTaa</UserId>
+            <UserNick>Mr. Jolly Madman</UserNick>
+            <Date>2010-03-15 00:27:06</Date>
+            <Timestamp>1268638026</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:55:16 PDT 2010 -->

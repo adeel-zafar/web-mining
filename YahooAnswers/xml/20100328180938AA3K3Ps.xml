@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328180938AA3K3Ps" type="Answered">
+    <Subject>What to do?.......................?</Subject>
+    <Content>I collect cards for a hobby and with my new computer this new virus protection system tells me if a site is verified,(Green),Caution (yellow), and Risk (red) well one of the sites I go to also has the red (risk) when I got to it. Should I stop going to it or what?
+</Content>
+    <Date>2010-03-28 18:09:38</Date>
+    <Timestamp>1269824978</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328180938AA3K3Ps</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>guLruSbqaa</UserId>
+    <UserNick>John</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it may be the sites certificate is expired</ChosenAnswer>
+    <ChosenAnswererId>LtraugFaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Elle</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269825083</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270047779</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it may be the sites certificate is expired</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>LtraugFaaa</UserId>
+            <UserNick>Elle</UserNick>
+            <Date>2010-03-28 18:11:23</Date>
+            <Timestamp>1269825083</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Nw0yRZSsaa</UserId>
+            <UserNick>Nourhan</UserNick>
+            <Date>2010-03-28 18:12:14</Date>
+            <Timestamp>1269825134</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:24 PDT 2010 -->

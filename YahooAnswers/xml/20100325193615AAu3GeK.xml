@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325193615AAu3GeK" type="Answered">
+    <Subject>Is it possible to mirror your webcam...?</Subject>
+    <Content>I prefer having my webcam imagine mirrored, with sites such at tinychat and chatroulette. Is it possible to do this?
+I have an apple Macbook, and in PhotoBooth it automatically mirrors the image. But on tinychat, when I use my iSight camera, it isn&#039;t mirrored. If someone could tell me how to get it mirrored i would really appreciate it :)
+</Content>
+    <Date>2010-03-25 19:36:15</Date>
+    <Timestamp>1269570975</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325193615AAu3GeK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LIv7RKnDaa</UserId>
+    <UserNick>Lil_Missae</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UqcPE2yKAAEDXAFbhBPwAw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can mirror and a lot of other features using http://www.manycam.com/  Remember to change your source in tinychat or chatroulette to be able to use manycam&#039;s image.</ChosenAnswer>
+    <ChosenAnswererId>tA1FVL6haa</ChosenAnswererId>
+    <ChosenAnswererNick>techrockstar</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269571213</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270090448</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can mirror and a lot of other features using http://www.manycam.com/  Remember to change your source in tinychat or chatroulette to be able to use manycam&#039;s image.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tA1FVL6haa</UserId>
+            <UserNick>techrockstar</UserNick>
+            <Date>2010-03-25 19:40:13</Date>
+            <Timestamp>1269571213</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:29:23 PDT 2010 -->

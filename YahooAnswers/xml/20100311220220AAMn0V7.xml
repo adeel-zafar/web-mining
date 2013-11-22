@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311220220AAMn0V7" type="Answered">
+    <Subject>who introduced firefox?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-11 22:02:20</Date>
+    <Timestamp>1268373740</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311220220AAMn0V7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZbPdqfnVaa</UserId>
+    <UserNick>mahesh</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Mozilla</ChosenAnswer>
+    <ChosenAnswererId>5efcdcb792fbbbf8d308e562edb45ae9aa</ChosenAnswererId>
+    <ChosenAnswererNick>meanhomer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268374345</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268889776</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Mozilla</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5efcdcb792fbbbf8d308e562edb45ae9aa</UserId>
+            <UserNick>meanhomer</UserNick>
+            <Date>2010-03-11 22:12:25</Date>
+            <Timestamp>1268374345</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:11:26 PDT 2010 -->

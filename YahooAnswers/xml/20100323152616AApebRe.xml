@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323152616AApebRe" type="Answered">
+    <Subject>Will My Firefox History Transfer To Safari?</Subject>
+    <Content>i want to look at stuff on firefox but dont want people using safari to see what i was looking at
+</Content>
+    <Date>2010-03-23 15:26:16</Date>
+    <Timestamp>1269383176</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323152616AApebRe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0TNsJgYIaa</UserId>
+    <UserNick>N8DoggyDogg</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No, your porn sites won&#039;t show up on Safari. You might wanna check the cookies left behind by those sites though.</ChosenAnswer>
+    <ChosenAnswererId>dvgj6q6xaa</ChosenAnswererId>
+    <ChosenAnswererNick>Huh?</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269383427</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269902743</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, your porn sites won&#039;t show up on Safari. You might wanna check the cookies left behind by those sites though.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dvgj6q6xaa</UserId>
+            <UserNick>Weasel</UserNick>
+            <Date>2010-03-23 15:30:27</Date>
+            <Timestamp>1269383427</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:39 PDT 2010 -->

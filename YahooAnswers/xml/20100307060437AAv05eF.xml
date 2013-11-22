@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307060437AAv05eF" type="Answered">
+    <Subject>Audio goes ahead of video?</Subject>
+    <Content>I suddenly have this problem where i play some videos and the sound and picture are not synchronized
+together. The video would be seconds ahead of the picture. How do i fix this? mostly from one site
+</Content>
+    <Date>2010-03-07 06:04:37</Date>
+    <Timestamp>1267970677</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307060437AAv05eF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>H1vlujjtaa</UserId>
+    <UserNick>vincent</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b73107di446zul4re4/L6q7RGY8brXenDYIH1m2waLBgQ--/2/tn48.jpg?ciAAToMBqAQpI0YP</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes , i find VLC to be the best at keeping it in sync.</ChosenAnswer>
+    <ChosenAnswererId>KNXY6o6raa</ChosenAnswererId>
+    <ChosenAnswererNick>Tracy W</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268602080</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268832194</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You could try to use VideoLAN&#039;s VLC player, it has specific hotkeys designed for resolving Audio Sync issues. If you want to make the change permanent, you would want to open the video in a video editor such as Windows Movie Maker or Adobe Premiere Pro and manually edit the sound timing to match the video. Hope this Helps!</Content>
+            <Reference>Personal Knowledge/Experience</Reference>
+            <Best></Best>
+            <UserId>qbXc0uuuaa</UserId>
+            <UserNick>Akhil</UserNick>
+            <Date>2010-03-07 06:07:54</Date>
+            <Timestamp>1267970874</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes , i find VLC to be the best at keeping it in sync.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>KNXY6o6raa</UserId>
+            <UserNick>Tracy W</UserNick>
+            <Date>2010-03-14 14:28:00</Date>
+            <Timestamp>1268602080</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:41:09 PDT 2010 -->

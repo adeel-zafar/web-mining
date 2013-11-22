@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302074056AAbSGQ9" type="Answered">
+    <Subject>i have an other use pc but i can&#039;t get on line say internet explorer cannot  display- the webpage , how can fi?</Subject>
+    <Content>how can i config  the pc  what i should type in RUN to fix it
+</Content>
+    <Date>2010-03-02 07:40:56</Date>
+    <Timestamp>1267544456</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302074056AAbSGQ9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nuNM2dfraa</UserId>
+    <UserNick>Lolo</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b3aac0ei1c65zul1sp1/reH.DSo9eqpDXy0E_n6Xib0-/1/tn48.jpg?ciAAToMB_sBr_9Yq</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>think your internet connection is wrong...check if you gave the correct ip and other stuff. if you still have the pro call you Internet service provider...
+
+manual configuration is needed i guess</ChosenAnswer>
+    <ChosenAnswererId>TPt49eQ5aa</ChosenAnswererId>
+    <ChosenAnswererNick>tiger</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267545346</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268063789</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>think your internet connection is wrong...check if you gave the correct ip and other stuff. if you still have the pro call you Internet service provider...
+
+manual configuration is needed i guess</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TPt49eQ5aa</UserId>
+            <UserNick>tiger</UserNick>
+            <Date>2010-03-02 07:55:46</Date>
+            <Timestamp>1267545346</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:26:43 PDT 2010 -->

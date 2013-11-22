@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324010552AAoa5g6" type="Answered">
+    <Subject>Last.FM Library Question?</Subject>
+    <Content>So I&#039;ve had my last.fm account for a while, and added a bunch of artists to my library at the beginning. I&#039;ve been trying to figure out how I can add new artists. I&#039;d just like to be able to add them in my list, instead of having to search for them all or whatever. Thanks for any help you can give me. : )
+</Content>
+    <Date>2010-03-24 01:05:52</Date>
+    <Timestamp>1269417952</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324010552AAoa5g6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KP62IKxpaa</UserId>
+    <UserNick>Kayla</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>GOOGLE</ChosenAnswer>
+    <ChosenAnswererId>rlxWHFjQaa</ChosenAnswererId>
+    <ChosenAnswererNick>LEVEL 33</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270106537</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270283020</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>GOOGLE</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlxWHFjQaa</UserId>
+            <UserNick>Y!</UserNick>
+            <Date>2010-04-01 00:22:17</Date>
+            <Timestamp>1270106537</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:36:08 PDT 2010 -->

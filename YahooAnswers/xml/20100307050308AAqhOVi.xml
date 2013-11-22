@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307050308AAqhOVi" type="Answered">
+    <Subject>Yahoo homepage is eating CPU?</Subject>
+    <Content>I have Yahoo has my homepage.  Whenever I go to it, the CPU utilization jumps up to about 40 to 50 percent.  (iexplorer).   If I click on any link, or go to any other page, after that page loads, the CPU goes down to low single digits.  If I go back to the home page, it goes back up to 40 or 50 percent and stays there.  Running lastest version of MS Explorer on Windows 7.  RIght now I have multiple explorer windows open and non at the Yahoo home page.  If I open another window or go home to Yahoo home page, CPU goes back up.  Seems there must be some script / flash / java or something on that Home page that is eating CPU?    No viruses, etc. present per several malware / virus / etc. programs.  Is there something going on at the Yahoo Home Page !!!!
+</Content>
+    <Date>2010-03-07 05:03:08</Date>
+    <Timestamp>1267966988</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307050308AAqhOVi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>22b54ad9e26bd6685483bcd622e8d200aa</UserId>
+    <UserNick>Michael K</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Use light browsers like Opera. It synchronizes the page so it won&#039;t have to load the items that has been previously loaded. You can adjust your internet settings. Images won&#039;t load and it&#039;ll be faster. The way is to expand RAM.</ChosenAnswer>
+    <ChosenAnswererId>64a582e999957e5b09ad9eba2cf0c22faa</ChosenAnswererId>
+    <ChosenAnswererNick>Willie Black</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267992088</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268486607</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This Happens To me Also. It is the Yahoo Page Just Ignore it. the cause might be the Flash Animations but I&#039;m not sure. you should just change your home page...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>w0yZ3CRzaa</UserId>
+            <UserNick>Dacooter</UserNick>
+            <Date>2010-03-07 05:30:48</Date>
+            <Timestamp>1267968648</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Use light browsers like Opera. It synchronizes the page so it won&#039;t have to load the items that has been previously loaded. You can adjust your internet settings. Images won&#039;t load and it&#039;ll be faster. The way is to expand RAM.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>64a582e999957e5b09ad9eba2cf0c22faa</UserId>
+            <UserNick>Willie</UserNick>
+            <Date>2010-03-07 12:01:28</Date>
+            <Timestamp>1267992088</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>My housemate experienced the same problem, in this case with Win XP Pro Sp 3 and IE 8, and the iexplore.exe process associated with the Yahoo home page would go consume all available cycles and drive the CPU Utilization to 100%.  I suspect that you have a dual processor  system (e.g. Core Duo) and IE process is consuming 100% of one of the processors. 
+
+I saw post elsewhere on the web that switching to FireFox resolved this problem.  We tried that, and sure enough we could view the Yahoo home page with FireFox without the high CPU Utilization that occurs every time with IE 8.</Content>
+            <Reference>Actual personal testing</Reference>
+            <Best></Best>
+            <UserId>S4WprLCyaa</UserId>
+            <UserNick>Scott</UserNick>
+            <Date>2010-03-07 18:58:46</Date>
+            <Timestamp>1268017126</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:41:36 PDT 2010 -->

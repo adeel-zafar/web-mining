@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321084814AAYs8AD" type="Answered">
+    <Subject>What do you think of the website formspringme.com?</Subject>
+    <Content>any good?
+</Content>
+    <Date>2010-03-21 08:48:14</Date>
+    <Timestamp>1269186494</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321084814AAYs8AD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>EY1GwQLCaa</UserId>
+    <UserNick>shanicoral</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1bfF5BgKiAAEB3SSU6cINWooZMw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>good:people come up with funny questions and comments
+bad:other people say rude, sexual, or insulting things or make a dirty comment about your body</ChosenAnswer>
+    <ChosenAnswererId>l8m5fBVfaa</ChosenAnswererId>
+    <ChosenAnswererNick>Javier</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269186704</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269477210</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>good:people come up with funny questions and comments
+bad:other people say rude, sexual, or insulting things or make a dirty comment about your body</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>l8m5fBVfaa</UserId>
+            <UserNick>Javier</UserNick>
+            <Date>2010-03-21 08:51:44</Date>
+            <Timestamp>1269186704</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:52 PDT 2010 -->

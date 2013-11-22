@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321045513AAlLj18" type="Answered">
+    <Subject>Can any one give me Twitter Help?</Subject>
+    <Content>is there any way for me to upload a picture as my profile picture without going to settings. every time i try to upload one so many persons are tweeting so it doesn&#039;t. 
+please help me  aid will be appreciated
+</Content>
+    <Date>2010-03-21 04:55:13</Date>
+    <Timestamp>1269172513</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321045513AAlLj18</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10785186</UserId>
+    <UserNick>jessicaja14</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1AXdyu52AAAAC3YQzZa1eBg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no you have to go to settings.</ChosenAnswer>
+    <ChosenAnswererId>olzXIiSKaa</ChosenAnswererId>
+    <ChosenAnswererNick>Megan B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269174858</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269196343</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no you have to go to settings.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>olzXIiSKaa</UserId>
+            <UserNick>Megan B</UserNick>
+            <Date>2010-03-21 05:34:18</Date>
+            <Timestamp>1269174858</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:06 PDT 2010 -->

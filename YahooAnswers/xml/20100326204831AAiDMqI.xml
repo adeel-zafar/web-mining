@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326204831AAiDMqI" type="Answered">
+    <Subject>why does my web browser keep scrolling to the bottom of the page and wont let me up?</Subject>
+    <Content>for some reason my web browser automatically jumps to the bottom of the page and when i try to go to the top, it just jumps back down and its very difficult to go back up would someone please help me.
+
+and also how can i get my keys on my keyboard unsticky?
+oops sorry its a laptop, and its done this before when i got it new, and resolved itself,
+</Content>
+    <Date>2010-03-26 20:48:31</Date>
+    <Timestamp>1269661711</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326204831AAiDMqI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PGcOarYoaa</UserId>
+    <UserNick>Ty</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1TcQXdPgWAAECgIc1oTM4eAt1q_EG.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Reinstall browser, update driver for mouse, clean the keyboard up,, using with power off of it, cotton swabs , slightly damp with alcohol  ~</ChosenAnswer>
+    <ChosenAnswererId>ssue3clzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasper M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269663220</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270181028</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>My first thought is that you may be having javascript issues, but try unplugging the keyboard and using only the mouse.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Dw3zwKWQaa</UserId>
+            <UserNick>overneinthousand</UserNick>
+            <Date>2010-03-26 21:09:12</Date>
+            <Timestamp>1269662952</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Reinstall browser, update driver for mouse, clean the keyboard up,, using with power off of it, cotton swabs , slightly damp with alcohol  ~</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper M</UserNick>
+            <Date>2010-03-26 21:13:40</Date>
+            <Timestamp>1269663220</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Something wrong with the End Key on your keyboard ?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Yt8Nfu1eaa</UserId>
+            <UserNick>Stephen</UserNick>
+            <Date>2010-03-27 03:27:24</Date>
+            <Timestamp>1269685644</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:24:48 PDT 2010 -->

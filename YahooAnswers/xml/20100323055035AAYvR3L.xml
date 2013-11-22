@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323055035AAYvR3L" type="Answered">
+    <Subject>safari crashes on me but it is the only browser i want to use and is there a way you can restore it?</Subject>
+    <Content>i have a whole bunch of tabs up when it crashes and its a pain in the ass to try and get them all up again through the history so i was wondering if there was a plugin that would restore the tabs opened after a crash?
+</Content>
+    <Date>2010-03-23 05:50:35</Date>
+    <Timestamp>1269348635</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323055035AAYvR3L</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Jo8xtEepaa</UserId>
+    <UserNick>Bob The Builder</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1e-9hhpZ_AAABAIJUCKSBBA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try system restore?may be turn your computer completely off,and back-on again,whole lot of times it helps solves the problem?</ChosenAnswer>
+    <ChosenAnswererId>GZXZl131aa</ChosenAnswererId>
+    <ChosenAnswererNick>mommy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269348982</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269867849</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try system restore?may be turn your computer completely off,and back-on again,whole lot of times it helps solves the problem?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>GZXZl131aa</UserId>
+            <UserNick>mommy</UserNick>
+            <Date>2010-03-23 05:56:22</Date>
+            <Timestamp>1269348982</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:19:10 PDT 2010 -->

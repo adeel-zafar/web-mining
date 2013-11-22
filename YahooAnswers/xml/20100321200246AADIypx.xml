@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321200246AADIypx" type="Answered">
+    <Subject>Can&#039;t watch videos on Firefox?</Subject>
+    <Content>I just installed Mozilla Firefox to my computer, and i cannot watch videos on it, or play flash games... I i can do those things on Internet Explorer, so i don&#039;t understand why i can&#039;t on Firefox.... please help
+I know it&#039;s something with flashplayer, but i don&#039;t know what, i have it installed, and it works on internet explorer
+</Content>
+    <Date>2010-03-21 20:02:46</Date>
+    <Timestamp>1269226966</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321200246AADIypx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0uhUNXVCaa</UserId>
+    <UserNick>vido017</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>install flash for firefox under firefox add on or go to adobe.com and download it from there</ChosenAnswer>
+    <ChosenAnswererId>3dB43nhuaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tony</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269227273</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269746680</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you might not have flash installed.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gVJ6FNvSaa</UserId>
+            <UserNick>bhrtmishra</UserNick>
+            <Date>2010-03-21 20:04:13</Date>
+            <Timestamp>1269227053</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>install flash for firefox under firefox add on or go to adobe.com and download it from there</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3dB43nhuaa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-21 20:07:53</Date>
+            <Timestamp>1269227273</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:25:27 PDT 2010 -->

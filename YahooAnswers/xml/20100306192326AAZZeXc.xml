@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306192326AAZZeXc" type="Answered">
+    <Subject>Why can&#039;t I see images on webpages?</Subject>
+    <Content>I recent;y downloaded IE8 and since, most websites that I visit regularly have a little box inside the frame where the video or pic is supposed to be. I have gone as far as to check my Internet Options to make sure show pic is selected and cleared all of my history. What else can I do?
+</Content>
+    <Date>2010-03-06 19:23:26</Date>
+    <Timestamp>1267932206</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306192326AAZZeXc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CEKZsoFRaa</UserId>
+    <UserNick>dymondQueen83</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1LxEESU0NAAEDQgE_UAlo0TRWDJpbzA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try
+http://get.adobe.com/flashplayer/</ChosenAnswer>
+    <ChosenAnswererId>j0tyLdMIaa</ChosenAnswererId>
+    <ChosenAnswererNick>icavir</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267932339</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268010425</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it is blocked</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>A0wipyuMaa</UserId>
+            <UserNick>Tommy</UserNick>
+            <Date>2010-03-06 19:25:19</Date>
+            <Timestamp>1267932319</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try
+http://get.adobe.com/flashplayer/</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>j0tyLdMIaa</UserId>
+            <UserNick>icavir</UserNick>
+            <Date>2010-03-06 19:25:39</Date>
+            <Timestamp>1267932339</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:44:09 PDT 2010 -->

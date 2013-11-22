@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327043349AAKPuky" type="Answered">
+    <Subject>How fast are your FILE downloads with Verizon DSL 1Mbps or 3Mbps?</Subject>
+    <Content>My friend is interested in getting Verizon DSL.  
+
+He can&#039;t get cable because he&#039;s getting free cable  TV.  He didn&#039;t switch it on himself, it was just like that when he moved in.  If the cable company goes to install internet at his house, they will figure out he&#039;s getting cable for free.  (I know, it&#039;s kind of wrong, but that&#039;s not the point of this question.)  
+
+I have cable and I know it&#039;s fast.  But a file only downloads at about 800kbps on cable (a fraction of the overall speed).  So if he can get somewhere near that with DSL I know he&#039;ll be fine.  I want to know how fast a file downloads from Verizon DSL on their 1Mbps or 3Mbps plan.  I&#039;m pretty sure just &quot;surfing the internet&quot; won&#039;t be a problem. 
+
+I&#039;m sure some of you guys can help.  If you know the speed, don&#039;t forget to say whether it&#039;s the 1Mb or 3Mb plan.
+</Content>
+    <Date>2010-03-27 04:33:49</Date>
+    <Timestamp>1269689629</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327043349AAKPuky</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11991480</UserId>
+    <UserNick>Paul</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1TozpXVVEAAEBrEJdrEH1CQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Did u notice that 1 Mb(megabits) not 1 MB( mega bytes)
+
+so 1 Mb/s = 1/8 MB/s =125KB/s[actual speed because smallest meaningful unit in computer is a byte(8 bits)] . computer uses ascii which is an 8 bit code
+
+similarly 3Mb/s=3/8 MB/s=375KB/s
+
+again 800kbps= 100KB/s (close to 125KB/s) =1Mb plan
+which takes 10sec to download a 1MB file</ChosenAnswer>
+    <ChosenAnswererId>dkdWcmHnaa</ChosenAnswererId>
+    <ChosenAnswererNick>sonu j</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269690303</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270209182</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Did u notice that 1 Mb(megabits) not 1 MB( mega bytes)
+
+so 1 Mb/s = 1/8 MB/s =125KB/s[actual speed because smallest meaningful unit in computer is a byte(8 bits)] . computer uses ascii which is an 8 bit code
+
+similarly 3Mb/s=3/8 MB/s=375KB/s
+
+again 800kbps= 100KB/s (close to 125KB/s) =1Mb plan
+which takes 10sec to download a 1MB file</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dkdWcmHnaa</UserId>
+            <UserNick>sonu j</UserNick>
+            <Date>2010-03-27 04:45:03</Date>
+            <Timestamp>1269690303</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:41 PDT 2010 -->

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311050913AASlFwI" type="Answered">
+    <Subject>Trouble installing Google Earth?</Subject>
+    <Content>After downloading the installer from http://earth.google.com/support/bin/answer.py?hl=en&amp;answer=21955# for a direct installation, I run GoogleEarthWin.exe.  The installation completes and there&#039;s a popup thanking me for installing Google Earth.  But then I can&#039;t find it anywhere!  
+
+Where is it hiding or wasn&#039;t it installed?  Is it not compatible with Windows 7?
+
+Thanks.
+Thanks!
+
+It&#039;s not in programs, unfortunately.  
+
+That must be the problem.  I&#039;ve got the 64 bit version.  I assume nothing was installed then and that there is nothing to uninstall?
+</Content>
+    <Date>2010-03-11 05:09:13</Date>
+    <Timestamp>1268312953</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311050913AASlFwI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cb4212097a0aa7e50406a1f86977275eaa</UserId>
+    <UserNick>utternutter</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>From what i have found, it is not possible to have it run on Windows 7 at a 64 bit rate.  You may just have to give them time to make a 64 bit version. you could also e-mail their help.</ChosenAnswer>
+    <ChosenAnswererId>4bySKxVLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Topher</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268313572</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268835284</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Did you look in Programs?  Its in there.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-11 05:10:35</Date>
+            <Timestamp>1268313035</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>From what i have found, it is not possible to have it run on Windows 7 at a 64 bit rate.  You may just have to give them time to make a 64 bit version. you could also e-mail their help.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>4bySKxVLaa</UserId>
+            <UserNick>Topher</UserNick>
+            <Date>2010-03-11 05:19:32</Date>
+            <Timestamp>1268313572</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:14:05 PDT 2010 -->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222021811AAZG7CO" type="Answered">
+    <Subject>how to remove this error that&#039;s skype IE plugin error?</Subject>
+    <Content>hai,
+      frequently, getting message skype ie plugin error in my IE web-browser.what is the error? and how to remove this error .
+</Content>
+    <Date>2010-02-22 02:18:11</Date>
+    <Timestamp>1266833891</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222021811AAZG7CO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>E2Kv4C3gaa</UserId>
+    <UserNick>cool tamil</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b21e4e3if46zul6sp1/xSsOYi88aLLoZwvlh.P_5qJc_wA-/1/tn48.jpg?ciAAToMBZy3EDvzl</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>firstly i would like to suggest you that IE is worst web browser....use any othr browser like MOZILLA,SAFARI,OPERA,CHROME etc.
+
+but you can solve your Problem by following steps:
+open IE
+then
+press alt key then T then select Internet Option..
+then Select Advance
+then select REST or RESTORE options.
+
+if nothing works then install plugins from adobe.com
+u can also find easily from google search (IE plugins)...
+
+try it!!</ChosenAnswer>
+    <ChosenAnswererId>7f6eOVppaa</ChosenAnswererId>
+    <ChosenAnswererNick>Akim</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266834948</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267353205</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>firstly i would like to suggest you that IE is worst web browser....use any othr browser like MOZILLA,SAFARI,OPERA,CHROME etc.
+
+but you can solve your Problem by following steps:
+open IE
+then
+press alt key then T then select Internet Option..
+then Select Advance
+then select REST or RESTORE options.
+
+if nothing works then install plugins from adobe.com
+u can also find easily from google search (IE plugins)...
+
+try it!!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7f6eOVppaa</UserId>
+            <UserNick>Akim</UserNick>
+            <Date>2010-02-22 02:35:48</Date>
+            <Timestamp>1266834948</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:30:17 PDT 2010 -->

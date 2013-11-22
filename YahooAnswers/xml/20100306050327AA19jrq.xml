@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306050327AA19jrq" type="Answered">
+    <Subject>Where are all those Internet and telephone cables?</Subject>
+    <Content>Where are Internet and telephone cables carrying intercity telecommunication traffic located? Are they under highways, under roads, under railway lines, on electric poles?
+
+And besides, has every ISP its own parallel nationwide network, or does it just lease the already installed Internet cables owned and by another company? Wouldn&#039;t it too expensive for a new company to lay down its own cables across the country when they are already there? Thanks.
+</Content>
+    <Date>2010-03-06 05:03:27</Date>
+    <Timestamp>1267880607</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306050327AA19jrq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BXPQEqJHaa</UserId>
+    <UserNick>Moses</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/13o2Rje0rAAEC_IFH8Fs=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The phone &amp; cable companies allow ISP&#039;s to use their existing lines. That&#039;s why people lose their internet connection when there&#039;s a cable outage.
+
+Of course, there are satellite-fed ISP&#039;s, like HughesNet, but severe weather can interrupt those signals, too.</ChosenAnswer>
+    <ChosenAnswererId>jmbg6unlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Warren</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267881101</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269114999</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The phone &amp; cable companies allow ISP&#039;s to use their existing lines. That&#039;s why people lose their internet connection when there&#039;s a cable outage.
+
+Of course, there are satellite-fed ISP&#039;s, like HughesNet, but severe weather can interrupt those signals, too.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>jmbg6unlaa</UserId>
+            <UserNick>Warren</UserNick>
+            <Date>2010-03-06 05:11:41</Date>
+            <Timestamp>1267881101</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:49:54 PDT 2010 -->

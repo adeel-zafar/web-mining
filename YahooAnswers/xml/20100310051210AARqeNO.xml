@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310051210AARqeNO" type="Answered">
+    <Subject>New to twitter...Question about replying to someone else?</Subject>
+    <Content>I sent an @reply on twitter, but it&#039;s not showing up on the person&#039;s stream.  Why isn&#039;t it showing up? Does this mean that the reply wasn&#039;t sent?
+</Content>
+    <Date>2010-03-10 05:12:10</Date>
+    <Timestamp>1268226730</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310051210AARqeNO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>f0297cb57aed06b186ca12e00181c7aeaa</UserId>
+    <UserNick>Steph L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1PfImPW3oAAEC3YQz0d9YDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sending an @reply doesn&#039;t send the tweet directly to that person, it just directs the tweet towards them (useful if you follow a lot of people, and you need to keep track of a conversation in the timeline.)
+
+They can only see you if they are following you.  If they&#039;re following you, they should have gotten it.  Did you click &quot;Reply&quot; at the bottom of their tweet, or just type in @twittername.  Actually clicking the Reply button is what makes a direct tweet in response to the other person&#039;s tweet.  Just typing in @twittername just inserts a link to their page into the tweet.
+
+Just a little insight about twitter, if you know the person is following you, then I can&#039;t see a reason, other than a glitch, that she didn&#039;t get the reply, in which case just retweet, no harm done.</ChosenAnswer>
+    <ChosenAnswererId>MFir3ySzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Indisputable Logic Time</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268228200</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268742795</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sending an @reply doesn&#039;t send the tweet directly to that person, it just directs the tweet towards them (useful if you follow a lot of people, and you need to keep track of a conversation in the timeline.)
+
+They can only see you if they are following you.  If they&#039;re following you, they should have gotten it.  Did you click &quot;Reply&quot; at the bottom of their tweet, or just type in @twittername.  Actually clicking the Reply button is what makes a direct tweet in response to the other person&#039;s tweet.  Just typing in @twittername just inserts a link to their page into the tweet.
+
+Just a little insight about twitter, if you know the person is following you, then I can&#039;t see a reason, other than a glitch, that she didn&#039;t get the reply, in which case just retweet, no harm done.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>MFir3ySzaa</UserId>
+            <UserNick>Indisputable Logic Time</UserNick>
+            <Date>2010-03-10 05:36:40</Date>
+            <Timestamp>1268228200</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:20:02 PDT 2010 -->

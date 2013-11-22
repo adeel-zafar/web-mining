@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319164145AAzNfe9" type="Answered">
+    <Subject>How do i get rid of so many toolbars on my internet expolorer browser?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-19 16:41:45</Date>
+    <Timestamp>1269042105</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319164145AAzNfe9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>h7uHcpBhaa</UserId>
+    <UserNick>Brownie&lt;3 ;)</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4aa2d28aiea6zul4re4/kd2Vbv8pY75kzGBzLiH677f8FWQlKBt9Lg--/10/tn48.jpg?ciAAToMBnk0To3Og</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>On the menu bar in Internet Explorer
+Go to Tools--&gt; Manage Add-Ons
+A box with pop up with a list of items currently loaded into the Browser.
+Click whichever one you want to get rid off (its status would be &quot;Enable&quot;
+Go to the bottom section of the box, click disable. 
+A dialog box will pop up telling you of your choice and ask you to restart Internet Explorer for changes to take place. click ok. and click ok again to close the box of Add-Ons. 
+When you restart your browser the addons would not be seen. 
+
+hope this helps</ChosenAnswer>
+    <ChosenAnswererId>mIsa8bMgaa</ChosenAnswererId>
+    <ChosenAnswererNick>leigh j</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269043340</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269561499</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You should investigate getting Firefox or Opera since they&#039;re better browsers but IE should have a &quot;Tools&quot; option on the menu to remove third party add-ons. That&#039;s how Firefox does it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>T7Apky52aa</UserId>
+            <UserNick>Simon R</UserNick>
+            <Date>2010-03-19 16:44:59</Date>
+            <Timestamp>1269042299</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>On the menu bar in Internet Explorer
+Go to Tools--&gt; Manage Add-Ons
+A box with pop up with a list of items currently loaded into the Browser.
+Click whichever one you want to get rid off (its status would be &quot;Enable&quot;
+Go to the bottom section of the box, click disable. 
+A dialog box will pop up telling you of your choice and ask you to restart Internet Explorer for changes to take place. click ok. and click ok again to close the box of Add-Ons. 
+When you restart your browser the addons would not be seen. 
+
+hope this helps</Content>
+            <Reference>me.</Reference>
+            <Best>5</Best>
+            <UserId>mIsa8bMgaa</UserId>
+            <UserNick>leigh j</UserNick>
+            <Date>2010-03-19 17:02:20</Date>
+            <Timestamp>1269043340</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go to view then toolbars and you can just click on the ones you don&#039;t want to have</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3DMGogbLaa</UserId>
+            <UserNick>Darkwrath</UserNick>
+            <Date>2010-03-19 18:56:30</Date>
+            <Timestamp>1269050190</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:13 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321031045AAb8Aj7" type="Answered">
+    <Subject>Chatroulette isnt loading, just says &quot;Entering...&quot;?</Subject>
+    <Content>does any1 know what the prob is or how to fix it?
+</Content>
+    <Date>2010-03-21 03:10:45</Date>
+    <Timestamp>1269166245</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321031045AAb8Aj7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QDS3MQZWaa</UserId>
+    <UserNick>Ashie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4af24175i123ezul1sp1/yl6eXsgwaK6SOUUdGk9YwsZEjw--/103/tn48.jpg?ciAAToMBzcBBQ5ze</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think it means a lot of people are using it at once. When this happens to me, I just shut the window and try later, usually it works.</ChosenAnswer>
+    <ChosenAnswererId>SXeCHbR5aa</ChosenAnswererId>
+    <ChosenAnswererNick>naomi j</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269166549</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270005844</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think it means a lot of people are using it at once. When this happens to me, I just shut the window and try later, usually it works.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>SXeCHbR5aa</UserId>
+            <UserNick>naomi j</UserNick>
+            <Date>2010-03-21 03:15:49</Date>
+            <Timestamp>1269166549</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:14 PDT 2010 -->

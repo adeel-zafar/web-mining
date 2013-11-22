@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320075323AAm3TTA" type="Answered">
+    <Subject>Does Ebay allow this and is it ethically correct  ?</Subject>
+    <Content>I&#039;ve got a collection of photography lenses that I want to sell. They all belong to a kit that I got together and I would like to sell them as a whole. However, I feel I can get better value if I sell them individually. My question here is:
+
+Can I put a 7 day auction up for each lens, and also a Buy It Now for the whole kit ? The idea is that I would give the chance of selling the kit as a whole while the auction runs down into the last day. Should no one go for the BIN (which would end 24 hours previously), then lens would sell individually in the running auction. 
+
+Should someone go for the BIN, and I would cancel the auction listings.
+</Content>
+    <Date>2010-03-20 07:53:23</Date>
+    <Timestamp>1269096803</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320075323AAm3TTA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PrwdwCwAaa</UserId>
+    <UserNick>SMR23</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1tJdp4Uv3AAIDpAKdFVT3Cg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;d seem rather suspicious.
+
+Do remember that when you choose to cancel a listing you actually have to submit a form to eBay:
+http://pages.ebay.com/help/sell/end_early.html
+
+My guess is that requests for an listing to be removed is actually done by a human, and they can actually cross check your other auctions to see if you&#039;re violating the rules.</ChosenAnswer>
+    <ChosenAnswererId>kAi14kKxaa</ChosenAnswererId>
+    <ChosenAnswererNick>Masked Musketeer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269097529</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269348039</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;d seem rather suspicious.
+
+Do remember that when you choose to cancel a listing you actually have to submit a form to eBay:
+http://pages.ebay.com/help/sell/end_early.html
+
+My guess is that requests for an listing to be removed is actually done by a human, and they can actually cross check your other auctions to see if you&#039;re violating the rules.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>kAi14kKxaa</UserId>
+            <UserNick>Masked Musketeer</UserNick>
+            <Date>2010-03-20 08:05:29</Date>
+            <Timestamp>1269097529</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>once someone bids the buy it now is auto cancelled</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA12069899</UserId>
+            <UserNick>myrtle1beach</UserNick>
+            <Date>2010-03-22 07:38:39</Date>
+            <Timestamp>1269268719</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:31:48 PDT 2010 -->

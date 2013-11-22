@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222201448AA50UoM" type="Answered">
+    <Subject>How do you get your own email address?</Subject>
+    <Content>is there a FREE way of getting your own email domain name without having to sign up for website hosts? For example:  testemail@mtz.com   =   and if you know a great/awesome provider that you still have to sign up for a web host please tell me. Thanks
+</Content>
+    <Date>2010-02-22 20:14:48</Date>
+    <Timestamp>1266898488</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222201448AA50UoM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KFPJtZwdaa</UserId>
+    <UserNick>O MTZ</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1juoKQCt4AAEC_IFEAJlUBg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You have to buy your own domain name no matter what. You can actually have google host it and it works just like GMail. For free, even. 
+
+http://www.google.com/apps/intl/en/group/index.html</ChosenAnswer>
+    <ChosenAnswererId>jYMUzFRzaa</ChosenAnswererId>
+    <ChosenAnswererNick>isl247</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266898929</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267146112</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>not unless you buy a domain name....</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JuJTnZSDaa</UserId>
+            <UserNick>Dennis PC Repairs</UserNick>
+            <Date>2010-02-22 20:19:36</Date>
+            <Timestamp>1266898776</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have to buy your own domain name no matter what. You can actually have google host it and it works just like GMail. For free, even. 
+
+http://www.google.com/apps/intl/en/group/index.html</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>jYMUzFRzaa</UserId>
+            <UserNick>isl247</UserNick>
+            <Date>2010-02-22 20:22:09</Date>
+            <Timestamp>1266898929</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have a few options, but non are free.
+
+1) There are registrars (companies that you buy domains from) that will let you buy a domain and e-mail hosting for next to nothing. 
+
+2) Buy a domain with e-mail forwarding, and have all e-mails forward to an existing e-mail account. This means when you reply, your testemail@mtz.com won&#039;t show as the from e-mail address.
+
+3) Buy a domain and use free web hosting. There are a few good ones around.
+
+4) Get a subdomain e-mail address, like youname@anothername.zzn.com. I&#039;m sure there are a few like this around. Try http://www.zzn.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Jrn5NrCtaa</UserId>
+            <UserNick>Roger S</UserNick>
+            <Date>2010-02-22 20:32:41</Date>
+            <Timestamp>1266899561</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:24:32 PDT 2010 -->

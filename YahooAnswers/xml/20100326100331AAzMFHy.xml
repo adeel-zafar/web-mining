@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326100331AAzMFHy" type="Answered">
+    <Subject>Is there a website that lets you create, showcase and share a wishlist?</Subject>
+    <Content>I have made a makeshift one on MySpace but I want a proper professional/clean looking wishlist page to put on my blog and show my friends.
+</Content>
+    <Date>2010-03-26 10:03:31</Date>
+    <Timestamp>1269623011</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326100331AAzMFHy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aB9IZesdaa</UserId>
+    <UserNick>carrhey</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yeah http://www.wishlistr.com/ or http://wishlist.com/</ChosenAnswer>
+    <ChosenAnswererId>gtQQuylDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269646133</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270142632</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Amazon.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Hecv3uztaa</UserId>
+            <UserNick>Savoir Faire</UserNick>
+            <Date>2010-03-26 10:04:17</Date>
+            <Timestamp>1269623057</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yeah http://www.wishlistr.com/ or http://wishlist.com/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gtQQuylDaa</UserId>
+            <UserNick>Mark</UserNick>
+            <Date>2010-03-26 16:28:53</Date>
+            <Timestamp>1269646133</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:42 PDT 2010 -->

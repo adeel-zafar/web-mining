@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314214540AAnRfTK" type="Answered">
+    <Subject>What does Twitter do?</Subject>
+    <Content>I know I sound like a dinosaur, but what does Twitter do? What is it good for? Thanks!
+</Content>
+    <Date>2010-03-14 21:45:40</Date>
+    <Timestamp>1268628340</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314214540AAnRfTK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vKb5HYhnaa</UserId>
+    <UserNick>KatieGirl</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1g_RjNrh1AAECncKbABY5RlDZKw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s a way of keeping up with people and events. You post 140 character status updates on what you&#039;re doing, basically like a facebook status. You &quot;follow&quot; other people and see what they&#039;re up to. They can be friends, organizations or even famous people.</ChosenAnswer>
+    <ChosenAnswererId>ettfPSzqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Italian Beauty.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268629136</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269147821</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s a way of keeping up with people and events. You post 140 character status updates on what you&#039;re doing, basically like a facebook status. You &quot;follow&quot; other people and see what they&#039;re up to. They can be friends, organizations or even famous people.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ettfPSzqaa</UserId>
+            <UserNick>Italian Beauty.</UserNick>
+            <Date>2010-03-14 21:58:56</Date>
+            <Timestamp>1268629136</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ok, on Twitter you tell your family and friends [People who follow you] about what you&#039;re doing; in 140 characters or less. A bit more space than a MSN personal message.
+@USERNAME at the beginning of whatever you wrote means it&#039;s to that person. It&#039;l be a link to their profile. If you write @USERNAME in the message, it&#039;ll just link to them.
+A RT or ReTweet is basically sharing what someone wrote. You click on the ReTweet button on the Tweet you want to ReTweet, and it&#039;ll show up on your profile, telling your followers.
+That&#039;s the basics.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>M3IszvKbaa</UserId>
+            <UserNick>cheryleene &lt;3</UserNick>
+            <Date>2010-03-15 17:34:07</Date>
+            <Timestamp>1268699647</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:56:01 PDT 2010 -->

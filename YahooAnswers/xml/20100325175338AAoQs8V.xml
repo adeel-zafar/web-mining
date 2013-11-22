@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325175338AAoQs8V" type="Answered">
+    <Subject>What percent of information on the internet is false?</Subject>
+    <Content>Please give an answer with a source, don&#039;t just guesstimate.
+Or if you remember a number from something you&#039;ve read in the past.
+</Content>
+    <Date>2010-03-25 17:53:38</Date>
+    <Timestamp>1269564818</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325175338AAoQs8V</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KF77cziCaa</UserId>
+    <UserNick>Giggleanthropisticon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I don&#039;t think there&#039;s anyone keeping track. There&#039;s... Just... So... Much!</ChosenAnswer>
+    <ChosenAnswererId>mXTOzdTyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Maya</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269573775</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270096467</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Everything on the internet is true for at least someone.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>k8XbOvyQaa</UserId>
+            <UserNick>MT</UserNick>
+            <Date>2010-03-25 18:26:07</Date>
+            <Timestamp>1269566767</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I don&#039;t think there&#039;s anyone keeping track. There&#039;s... Just... So... Much!</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>mXTOzdTyaa</UserId>
+            <UserNick>Maya</UserNick>
+            <Date>2010-03-25 20:22:55</Date>
+            <Timestamp>1269573775</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:29:52 PDT 2010 -->

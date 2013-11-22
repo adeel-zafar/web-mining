@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311195658AAYUAZ8" type="Answered">
+    <Subject>Tiny red X&#039;s where pictures should be?</Subject>
+    <Content>I just got a brand new laptop,
+so it shouldn&#039;t be having problems yet.
+But when I get on the internet, little red X&#039;s appear were pictures should be.
+what causes them to be there? 
+and is there any way I can fix it?
+thankkyou! :)
+&amp; they don&#039;t appear on ALL pictures. just on a lot of them. and its annoying..
+</Content>
+    <Date>2010-03-11 19:56:58</Date>
+    <Timestamp>1268366218</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311195658AAYUAZ8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>E7KeHTepaa</UserId>
+    <UserNick>katekitten94</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/10o_W_J6mAAEC9MFgwAzIVEjhKw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The red X is a filler for a missing picture.
+
+
+First off, obviously make sure it is happening frequently, not just on a website here and there because their can be a problem with the server hosting the website. You can also try refreshing a page (refresh or F5). You can verify Internet Explorer is setup to show images by going to Tool, Internet Options, click the advanced tab and under Multimedia make sure Show Pictures is checked. Make sure you have the latest updates for Internet Explorer from Windows Update.
+
+http://support.microsoft.com/kb/283807</ChosenAnswer>
+    <ChosenAnswererId>mLs3rMnKaa</ChosenAnswererId>
+    <ChosenAnswererNick>David N</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268366501</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268882147</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe it&#039;s the internet. Either get faster internet or your looking at a site with a lot of broken pictures.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>79nRcGE8aa</UserId>
+            <UserNick>Mccando K</UserNick>
+            <Date>2010-03-11 19:58:58</Date>
+            <Timestamp>1268366338</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The red X is a filler for a missing picture.
+
+
+First off, obviously make sure it is happening frequently, not just on a website here and there because their can be a problem with the server hosting the website. You can also try refreshing a page (refresh or F5). You can verify Internet Explorer is setup to show images by going to Tool, Internet Options, click the advanced tab and under Multimedia make sure Show Pictures is checked. Make sure you have the latest updates for Internet Explorer from Windows Update.
+
+http://support.microsoft.com/kb/283807</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mLs3rMnKaa</UserId>
+            <UserNick>David N</UserNick>
+            <Date>2010-03-11 20:01:41</Date>
+            <Timestamp>1268366501</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:11:59 PDT 2010 -->

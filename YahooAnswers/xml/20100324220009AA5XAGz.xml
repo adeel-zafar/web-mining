@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324220009AA5XAGz" type="Answered">
+    <Subject>Error Message #50266 in IE7?</Subject>
+    <Content>Anybody know what this means?
+
+Thanks.
+</Content>
+    <Date>2010-03-24 22:00:09</Date>
+    <Timestamp>1269493209</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324220009AA5XAGz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MSxEl5IZaa</UserId>
+    <UserNick>Me</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b8369b9i18e2zul7re4/B36F5t8zer.kSzVGfwfy7Hm5exjV/1/tn48.jpg?ciAAToMBAB96.HfV</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Download the MS Knowledgebase, which should have the codes.</ChosenAnswer>
+    <ChosenAnswererId>9cjmxZmMaa</ChosenAnswererId>
+    <ChosenAnswererNick>BA_2</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269493655</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269530395</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>idk....upgrade to ie8</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1F17RG9gaa</UserId>
+            <UserNick>Jay M</UserNick>
+            <Date>2010-03-24 22:01:46</Date>
+            <Timestamp>1269493306</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Download the MS Knowledgebase, which should have the codes.</Content>
+            <Reference>Microsoft.com</Reference>
+            <Best>5</Best>
+            <UserId>9cjmxZmMaa</UserId>
+            <UserNick>BA_2</UserNick>
+            <Date>2010-03-24 22:07:35</Date>
+            <Timestamp>1269493655</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:24 PDT 2010 -->

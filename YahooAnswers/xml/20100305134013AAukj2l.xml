@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305134013AAukj2l" type="Answered">
+    <Subject>Why does it take so long to connect to Chatroulette?</Subject>
+    <Content>Whenever i go to chat roulette.com and press play it just says: looking for a partner, please wait. I once waited for ten minutes and nothing happened. Does this happen to everyone or only me?
+</Content>
+    <Date>2010-03-05 13:40:13</Date>
+    <Timestamp>1267825213</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305134013AAukj2l</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bLpHGW9Raa</UserId>
+    <UserNick>Ivche</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Chat Roulette is fickle with connecting users sometimes. Especially at night when a lot of users are on, it&#039;s tough to connect to people.</ChosenAnswer>
+    <ChosenAnswererId>bkiKQE9Xaa</ChosenAnswererId>
+    <ChosenAnswererNick>George</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268074973</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269378796</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This is happening to me RIGHT NOW.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>R5ai1vmOaa</UserId>
+            <UserNick>RandyxRIOT</UserNick>
+            <Date>2010-03-05 13:48:00</Date>
+            <Timestamp>1267825680</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Chat Roulette is fickle with connecting users sometimes. Especially at night when a lot of users are on, it&#039;s tough to connect to people.</Content>
+            <Reference>http://www.chatroulettevideos.com</Reference>
+            <Best>5</Best>
+            <UserId>bkiKQE9Xaa</UserId>
+            <UserNick>George</UserNick>
+            <Date>2010-03-08 11:02:53</Date>
+            <Timestamp>1268074973</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:55:53 PDT 2010 -->

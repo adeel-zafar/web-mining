@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228190358AAnijT9" type="Answered">
+    <Subject>How do you get people interested in a website?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-28 19:03:58</Date>
+    <Timestamp>1267412638</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228190358AAnijT9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>41Ml6IELaa</UserId>
+    <UserNick>AO099</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Find websites with similar topics around the web.  Leave intelligent comments in the comments section and paste a link to your site in your comments.</ChosenAnswer>
+    <ChosenAnswererId>RNVUp83Taa</ChosenAnswererId>
+    <ChosenAnswererNick>marvlwoods</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267413089</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267499902</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Find websites with similar topics around the web.  Leave intelligent comments in the comments section and paste a link to your site in your comments.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>RNVUp83Taa</UserId>
+            <UserNick>marvlwoods</UserNick>
+            <Date>2010-02-28 19:11:29</Date>
+            <Timestamp>1267413089</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:35:13 PDT 2010 -->

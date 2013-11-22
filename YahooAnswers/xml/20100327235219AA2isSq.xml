@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327235219AA2isSq" type="Answered">
+    <Subject>A Little Help with Internet?</Subject>
+    <Content>When i type a certain website to my address box, it automatically goes to another website? 
+
+For example, the tv show &quot;iCarly&quot;. In an episode, they went to a website called &quot;worldofchucks.com&quot;, when I typed that on my address box, it automatically went to icarly.com which is (the show&#039;s website). In the same iCarly episode, they went to a site called &quot;chickapedia.com&quot; and the same thing happened. 
+
+How do they do it? Because, i want to try it out myself. In short, if someone types a certain &#039;unreal&#039; website, I want it to automatically go to my facebook account. Is that even possible?
+
+Thanks in advance :)
+</Content>
+    <Date>2010-03-27 23:52:19</Date>
+    <Timestamp>1269759139</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327235219AA2isSq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rqYfxlkIaa</UserId>
+    <UserNick>squarepants01</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Ngvine5fAAEB3SShxdW8Cg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Domain Forward. iCarly owns the mentioned websites and points its traffic to their main website..
+
+No, it&#039;s practically impossible to route &#039;unreal&#039; website traffic to you facebook account. You&#039;ll need to own every one of those &#039;unreal&#039; websites in order to point their traffic to your facebook account.</ChosenAnswer>
+    <ChosenAnswererId>nuvI3aviaa</ChosenAnswererId>
+    <ChosenAnswererNick>questioner</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269763665</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270278782</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>well far as i can tell u is, if the website is real, then it&#039;ll go straight to the website if u typed it in right, but if it is a real website and it&#039;s just not goin to it for some reason, then it could be a virus, does everything else u do on the internet work fine? oh! also, it might take u to icarly.com cuz it wants u to sign in and make a user name and stuff like that before u can use the other links, or u can find a link on the icarly page to get to the other sites your lookin for:)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WfDVsabHaa</UserId>
+            <UserNick>lil joe</UserNick>
+            <Date>2010-03-28 00:08:14</Date>
+            <Timestamp>1269760094</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nickelodeon bought the domain names worldofchucks.com and chickapedia.com then redirected them to icarly.com (which they also own.) I imagine they have their own servers to do this with and do it before the episode ever airs.
+
+You would have to buy the fake domain names and then redirect to facebook - if facebook allows such a thing. I don&#039;t know so I can&#039;t speak to that.
+
+This kind of thing is done all the time - but you need to own your own domain names, and have the ability to redirect thru your registrar or web hosting company. It&#039;s not hard to do. You redirect (or point) one domain name to another.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aljvRlLNaa</UserId>
+            <UserNick>j k</UserNick>
+            <Date>2010-03-28 00:43:51</Date>
+            <Timestamp>1269762231</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Domain Forward. iCarly owns the mentioned websites and points its traffic to their main website..
+
+No, it&#039;s practically impossible to route &#039;unreal&#039; website traffic to you facebook account. You&#039;ll need to own every one of those &#039;unreal&#039; websites in order to point their traffic to your facebook account.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nuvI3aviaa</UserId>
+            <UserNick>questioner</UserNick>
+            <Date>2010-03-28 01:07:45</Date>
+            <Timestamp>1269763665</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:18 PDT 2010 -->

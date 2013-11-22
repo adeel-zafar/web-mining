@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224231635AAvhtvF" type="Answered">
+    <Subject>internet explorer not responding problem?</Subject>
+    <Content>Hi
+in the security section it is telling me that the problem is with the add ons &#039;&#039;but they cannot tell which one/ones are causing the problem&#039; any ideas how to sort it out? also what exactly are adds for? and are they necessary?
+</Content>
+    <Date>2010-02-24 23:16:35</Date>
+    <Timestamp>1267082195</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224231635AAvhtvF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA12170604</UserId>
+    <UserNick>gerard</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1LPeYr6srAAECQWEo8Ace8VYB.medium.png</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Solution=Mozilla Firefox</ChosenAnswer>
+    <ChosenAnswererId>OhSx351Baa</ChosenAnswererId>
+    <ChosenAnswererNick>TB</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267082339</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267097943</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>internet explorer in general all around sucks, I suggest eaither using Google Chrome as your browser download it or Firefox download that also u can google both thoes names they are both FREE Browsers Chrome is faster and does not freeze!!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BluW0lCSaa</UserId>
+            <UserNick>Anzmous</UserNick>
+            <Date>2010-02-24 23:17:50</Date>
+            <Timestamp>1267082270</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Solution=Mozilla Firefox</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>OhSx351Baa</UserId>
+            <UserNick>TB</UserNick>
+            <Date>2010-02-24 23:18:59</Date>
+            <Timestamp>1267082339</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Are you using a wireless router?
+If so,just unplug the power wire for ten second at least.Go to your computer,right click on the  icon that shows that you are connected to the internet.double click on diagnose and repair.Wait for the answer.
+Let me know if it works.
+Good luck</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>a34dd97ab4b50e492ac257c01ac49cb9aa</UserId>
+            <UserNick>coeurdange</UserNick>
+            <Date>2010-02-24 23:26:41</Date>
+            <Timestamp>1267082801</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Add-on&#039;s are programs for your browser. See links below for more info.
+
+Try disabling each one until the problem stops to find out which one is causing it.
+
+Using the Manage Add-ons feature
+To change the status of an add-on or to update an add-on, follow these steps: 
+Start Internet Explorer. 
+On the Tools menu, click Manage Add-ons. 
+Click the name of the add-on. 
+Use one of the following methods: 
+Click Update ActiveX to replace the add-on with the current version. This option is not available for all add-ons. 
+To enable an add-on, click Enable, and then click OK. 
+To disable an add-on, click Disable, and then click OK. 
+You may have to restart Internet Explorer for the changes to take effect after you enable or disable an add-on.</Content>
+            <Reference>http://support.microsoft.com/kb/883256
+
+http://www.ieaddons.com/en/?WT.srch=1</Reference>
+            <Best></Best>
+            <UserId>EO3Efx4Daa</UserId>
+            <UserNick>Kenny</UserNick>
+            <Date>2010-02-24 23:27:20</Date>
+            <Timestamp>1267082840</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go through these Cleaning steps:
+1..First, try to clean up your caches, Internet files and delete cookies
+by doing this:
+2.Click Start &gt;&gt; Control Panel 
+3. Double click Network and Internet Connections 
+4. Double click Internet Options.....read more here:http://forums.techarena.in/windows-xp-support/948240.htm</Content>
+            <Reference>http://forums.techarena.in/</Reference>
+            <Best></Best>
+            <UserId>xxQ9yH1vaa</UserId>
+            <UserNick>Amol</UserNick>
+            <Date>2010-02-24 23:59:41</Date>
+            <Timestamp>1267084781</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You could install the new Windows Internet Explorer 8 its free and is easy to download and doesn&#039;t take long. This will take the place of your current browser and all the faults. 
+
+You can always re-install the add-ons you want, with no trouble, and be back up and running again. 
+
+Probably what the browser said about it being an add-on at fault could mean a virus attack.
+Just get the new current browser and everything will be fine. 
+
+givemestrength 
+
+PS  Add-ons are only extra features of software for doing special enhancements, of giving you more options.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vn4FyPjbaa</UserId>
+            <UserNick>givemestrength</UserNick>
+            <Date>2010-02-25 00:28:12</Date>
+            <Timestamp>1267086492</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr 21 01:12:05 PDT 2010 -->

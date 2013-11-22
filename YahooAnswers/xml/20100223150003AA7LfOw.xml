@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223150003AA7LfOw" type="Answered">
+    <Subject>What&#039;s the best,free anti-virus etc. to use?</Subject>
+    <Content>Not just anti virus but other protection I just don&#039;t remember the names
+</Content>
+    <Date>2010-02-23 15:00:03</Date>
+    <Timestamp>1266966003</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223150003AA7LfOw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>YOfiMQfgaa</UserId>
+    <UserNick>Pillow</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267049113</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267049508</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Malware Bytes</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JeTZheoOaa</UserId>
+            <UserNick>-- Question Girl --</UserNick>
+            <Date>2010-02-23 15:01:00</Date>
+            <Timestamp>1266966060</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>avg</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lm5PCZlcaa</UserId>
+            <UserNick>Iggy</UserNick>
+            <Date>2010-02-23 15:01:19</Date>
+            <Timestamp>1266966079</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Malwarebytes http://www.malwarebytes.org is probably the best that I&#039;ve seen when using a manual scan, but the free version doesn&#039;t have real-time protection, but avast http://www.avast.com is also really good, so you can use avast as your main antivirus/spyware protection and if something gets by it, use malwarebytes to get rid of it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BLH0shZraa</UserId>
+            <UserNick>Frank</UserNick>
+            <Date>2010-02-23 15:03:33</Date>
+            <Timestamp>1266966213</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://free.avg.com/download?prd=afe
+http://www.malwarebytes.org/</Content>
+            <Reference>Computer Tech</Reference>
+            <Best></Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-02-23 15:04:54</Date>
+            <Timestamp>1266966294</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Right now I have Avast! &amp; I really like it.  I had a bunch of issues before I got it &amp; my computer completely crashed, but this seems to be working really well so far.  Plus it was suggested by my step dad who does computer techy stuff for the military, so I assume he&#039;d know what he&#039;s talking about =].  
+You can get it here ----&gt; http://www.avast.com/index</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BkuhtLZDaa</UserId>
+            <UserNick>makaroo46</UserNick>
+            <Date>2010-02-23 15:05:20</Date>
+            <Timestamp>1266966320</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-02-24 14:05:13</Date>
+            <Timestamp>1267049113</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:18:30 PDT 2010 -->

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306020428AA9OQKI" type="Answered">
+    <Subject>Easy Twitter question?</Subject>
+    <Content>I&#039;m new to Twitter, so I&#039;m not familiar with much.
+I was wondering, when someone talks to you, like &quot;@[your username]&quot; how can you tell?  Do you get notified somehow?
+I never see that people are trying to talk to me until I search my username.
+How can I tell when someones talking to me?
+
+Sorry, I&#039;m a newbie.
+</Content>
+    <Date>2010-03-06 02:04:28</Date>
+    <Timestamp>1267869868</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306020428AA9OQKI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RErWw0ZNaa</UserId>
+    <UserNick>Celine</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>When you log in and your on the home page,
+on the side bar you will see @[your username] 
+click on that and all the people who are trying to
+talk to you will be in there 
+i hope i helped =)</ChosenAnswer>
+    <ChosenAnswererId>PLXsQYiwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Courtney Bieber</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267873799</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268389419</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>When you log in and your on the home page,
+on the side bar you will see @[your username] 
+click on that and all the people who are trying to
+talk to you will be in there 
+i hope i helped =)</Content>
+            <Reference>www.twitter.com
+my own experience with twitter =D</Reference>
+            <Best>5</Best>
+            <UserId>PLXsQYiwaa</UserId>
+            <UserNick>Courtney Bieber</UserNick>
+            <Date>2010-03-06 03:09:59</Date>
+            <Timestamp>1267873799</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:50:52 PDT 2010 -->

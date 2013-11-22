@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307114028AAinVPR" type="Answered">
+    <Subject>Why does microsoft internet explorer window keep popping up?</Subject>
+    <Content>It&#039;s my dads laptop. It is a windows xp I believe. It doesn&#039;t have a link it&#039;s one of those &quot;help&quot; pages I would say, the icon to the left of the title has a paper and a yellow question mark to the right of it and next to it, it reads &quot;Microsoft Internet Explorer&quot; and inside the screen would say &quot;Setting up an Internet connection&quot; I do not understand because the internet connection is set up. I have no clue what to do please help, I&#039;m not to savy with computers.
+</Content>
+    <Date>2010-03-07 11:40:28</Date>
+    <Timestamp>1267990828</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307114028AAinVPR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bm6NX6nTaa</UserId>
+    <UserNick>Alice</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1FflDYNTGAAEC4mTF5MpaDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I can only suggest using a different browser. What is popping up may be Malware on the computer. I have never seen this kind of message, so I have no answer.</ChosenAnswer>
+    <ChosenAnswererId>VbP8YWonaa</ChosenAnswererId>
+    <ChosenAnswererNick>comtech391</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267991837</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268113383</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>security is warning you are in a unsafe web-site or something is trying to down-load something unsafe on to the site?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GZXZl131aa</UserId>
+            <UserNick>mommy</UserNick>
+            <Date>2010-03-07 11:45:41</Date>
+            <Timestamp>1267991141</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I can only suggest using a different browser. What is popping up may be Malware on the computer. I have never seen this kind of message, so I have no answer.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>VbP8YWonaa</UserId>
+            <UserNick>comtech391</UserNick>
+            <Date>2010-03-07 11:57:17</Date>
+            <Timestamp>1267991837</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:39:05 PDT 2010 -->

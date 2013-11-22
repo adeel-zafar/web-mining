@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320174715AAw5Ad5" type="Answered">
+    <Subject>Where can I find online articles or books?</Subject>
+    <Content>I have to do a research paper and I need 5 sources. Only one can be internet, but the teacher said we could use online articles and books. Where can I find some of those?
+</Content>
+    <Date>2010-03-20 17:47:15</Date>
+    <Timestamp>1269132435</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320174715AAw5Ad5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MH1NyjWBaa</UserId>
+    <UserNick>&#039;91CHEVY</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1izBIeyReAAEDZ6ObsJgPBA==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.ezinearticles.com
+http://www.articlesbase.com
+http://www.gutenberg.org/wiki/Main_Page</ChosenAnswer>
+    <ChosenAnswererId>lMrqFtbTaa</ChosenAnswererId>
+    <ChosenAnswererNick>Phillip</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269132841</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269305362</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.ezinearticles.com
+http://www.articlesbase.com
+http://www.gutenberg.org/wiki/Main_Page</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>lMrqFtbTaa</UserId>
+            <UserNick>Phillip</UserNick>
+            <Date>2010-03-20 17:54:01</Date>
+            <Timestamp>1269132841</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:52 PDT 2010 -->

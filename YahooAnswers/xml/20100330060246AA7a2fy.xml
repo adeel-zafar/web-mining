@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330060246AA7a2fy" type="Answered">
+    <Subject>Can anyone suggest some good auction sites to sell off some of my old stuff?</Subject>
+    <Content>Looking to get rid of some old stuff and wanna do it the easiest most profitable way possible,Thanx
+C&#039;mon Ebay? that&#039;s a given
+</Content>
+    <Date>2010-03-30 06:02:46</Date>
+    <Timestamp>1269954166</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330060246AA7a2fy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>w8f252Ooaa</UserId>
+    <UserNick>spraymonkey001</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>ebay.com
+zazzle.com</ChosenAnswer>
+    <ChosenAnswererId>50Isq8lJaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nicky68</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269957433</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270304632</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.ebay.com/</Content>
+            <Reference>http://www.ebay.com/</Reference>
+            <Best></Best>
+            <UserId>UGKYNb58aa</UserId>
+            <UserNick>mmmm291</UserNick>
+            <Date>2010-03-30 06:45:13</Date>
+            <Timestamp>1269956713</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ebay.com
+zazzle.com</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>50Isq8lJaa</UserId>
+            <UserNick>Nicky68</UserNick>
+            <Date>2010-03-30 06:57:13</Date>
+            <Timestamp>1269957433</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:26 PDT 2010 -->

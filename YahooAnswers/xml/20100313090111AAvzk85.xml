@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313090111AAvzk85" type="Answered">
+    <Subject>Help!! Why won&#039;t the......................?</Subject>
+    <Content>Little button  ON AIM EXPRESS that says &quot;edit&quot; (where you can put your picture) actually work!? Every time I press the stupid thing, it doesn&#039;t open up a  new window that says &quot;take a picture with webcam&#039; or &quot;upload from your computer&quot; or something. Its like the link to that button is broken... And it works on other computers! WHY??? help me. thank you !
+
+xoxo Haydee
+</Content>
+    <Date>2010-03-13 09:01:11</Date>
+    <Timestamp>1268499671</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313090111AAvzk85</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bGmbMKvPaa</UserId>
+    <UserNick>The Love Monster®</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b9d904ci115czws123ac4/cnRq5rM5er8goc96WjGak5Pf/12/tn48.jpeg?ciAAToMBrVveQhVO</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Check if your antivirus or security settings are blocking any pop ups. Reinstall aim</ChosenAnswer>
+    <ChosenAnswererId>QGlA6jnzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Prits</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268499898</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268704364</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Check if your antivirus or security settings are blocking any pop ups. Reinstall aim</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>QGlA6jnzaa</UserId>
+            <UserNick>Prits</UserNick>
+            <Date>2010-03-13 09:04:58</Date>
+            <Timestamp>1268499898</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1.It could be a java error try updating your java http://java.com/en/
+2.could be your browser wont support it try other browsers
+hope this helps</Content>
+            <Reference>its happened to me with various apps</Reference>
+            <Best></Best>
+            <UserId>5gZnFofUaa</UserId>
+            <UserNick>cjrockman92</UserNick>
+            <Date>2010-03-13 09:10:00</Date>
+            <Timestamp>1268500200</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:37 PDT 2010 -->

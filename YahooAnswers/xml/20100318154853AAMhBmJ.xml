@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318154853AAMhBmJ" type="Answered">
+    <Subject>Firefox address bar problems?</Subject>
+    <Content>I used to be able to type the web address in the url bar, click enter, and it would start loading the new page.  Now, I have to push the arrow next to it to make it go.  I know it&#039;s not my enter button that&#039;s broken, because it works for everything else.  Does anyone know how to fix this?
+</Content>
+    <Date>2010-03-18 15:48:53</Date>
+    <Timestamp>1268952533</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318154853AAMhBmJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4n4AUWbraa</UserId>
+    <UserNick>IloveNeville</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Odl0Hi1yAAEB9uFlCA3OZFsB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s possible the problem is caused by an extension. Follow the link for troubleshooting info: http://support.mozilla.com/en-US/kb/Troubleshooting+extensions+and+themes</ChosenAnswer>
+    <ChosenAnswererId>T8E4D2T0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Kevin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268953137</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269040746</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s possible the problem is caused by an extension. Follow the link for troubleshooting info: http://support.mozilla.com/en-US/kb/Troubleshooting+extensions+and+themes</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>T8E4D2T0aa</UserId>
+            <UserNick>Kevin</UserNick>
+            <Date>2010-03-18 15:58:57</Date>
+            <Timestamp>1268953137</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:38:32 PDT 2010 -->

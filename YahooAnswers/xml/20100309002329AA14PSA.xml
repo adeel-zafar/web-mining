@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309002329AA14PSA" type="Answered">
+    <Subject>on firefox, I accidently got rid of menu bar, address bar, navigation bar  and my favourite sites bar I have?</Subject>
+    <Content>Any chance to get them back on firefox?
+
+I tried to click right on the mouse but there is nothing!
+</Content>
+    <Date>2010-03-09 00:23:29</Date>
+    <Timestamp>1268123009</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309002329AA14PSA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>b431c2b178942e89f6dba145592efe76aa</UserId>
+    <UserNick>Tracy A&#039;Hearn</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1MUO3zRBQAAIB-CFBNI2WEpcOIw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think you have pressed F11 key accidentally, so they got rid off. Press F11 again. It will come back...</ChosenAnswer>
+    <ChosenAnswererId>6qr4Aa9waa</ChosenAnswererId>
+    <ChosenAnswererNick>hkp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268124876</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268639000</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you are using PC, try pressing F11</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5UMYL2Xwaa</UserId>
+            <UserNick>Mayank</UserNick>
+            <Date>2010-03-09 00:35:36</Date>
+            <Timestamp>1268123736</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think you have pressed F11 key accidentally, so they got rid off. Press F11 again. It will come back...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6qr4Aa9waa</UserId>
+            <UserNick>hkp</UserNick>
+            <Date>2010-03-09 00:54:36</Date>
+            <Timestamp>1268124876</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:27:27 PDT 2010 -->

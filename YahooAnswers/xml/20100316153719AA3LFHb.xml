@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316153719AA3LFHb" type="Answered">
+    <Subject>Is there anybody here who also uses Askville? How do the two sites compare?</Subject>
+    <Content>Askville&#039;s going through some major changes - disguised as improvements, but the old guard are on strike for three days because the moderators won&#039;t listen to us - and I wondered whether anyone here is in a position to compare the two experiences as they currently manifest themselves. Is there any difference in quality of questions, quality of answers, depth of discussions, and ease of use of the system?
+</Content>
+    <Date>2010-03-16 15:37:19</Date>
+    <Timestamp>1268779039</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316153719AA3LFHb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>adfcOzh6aa</UserId>
+    <UserNick>Betty</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I dont thunk so</ChosenAnswer>
+    <ChosenAnswererId>qyX3qY0Jaa</ChosenAnswererId>
+    <ChosenAnswererNick>Christian R</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268779073</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269298616</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I dont thunk so</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qyX3qY0Jaa</UserId>
+            <UserNick>Christian R</UserNick>
+            <Date>2010-03-16 15:37:53</Date>
+            <Timestamp>1268779073</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:48:00 PDT 2010 -->

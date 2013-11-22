@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312193637AAo2wFi" type="Answered">
+    <Subject>New to Twitter, HELP?</Subject>
+    <Content>i just got a twitter and i have no idea how to use it.
+If i want to talk to someone, i have no idea how to do it, could someone please help.
+
+Like, if i saw someone&#039;s tweet, and i press reply, will it send it to them or something? 
+how to i get in touch with them? besides DM because some people dont have it
+</Content>
+    <Date>2010-03-12 19:36:37</Date>
+    <Timestamp>1268451397</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312193637AAo2wFi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PAH6IsHpaa</UserId>
+    <UserNick>CLKJ</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1lRJYPRsBAAQC_AFtXBAfolB2SxMD.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if you hit &quot;reply&quot; or just type @username it will appear on their homepage.
+
+For more information, visit:
+
+http://news.cnet.com/newbies-guide-to-twitter/</ChosenAnswer>
+    <ChosenAnswererId>Hd863WpCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Trent</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268452020</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269184449</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>if you hit &quot;reply&quot; or just type @username it will appear on their homepage.
+
+For more information, visit:
+
+http://news.cnet.com/newbies-guide-to-twitter/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Hd863WpCaa</UserId>
+            <UserNick>Trent</UserNick>
+            <Date>2010-03-12 19:47:00</Date>
+            <Timestamp>1268452020</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:06:54 PDT 2010 -->

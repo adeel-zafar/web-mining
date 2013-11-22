@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302061229AAh4xDR" type="Answered">
+    <Subject>Help?!?! My internet is not working!!!?</Subject>
+    <Content>On my laptop (a lenova T61P), my internet is messed up. I have no clue what is wrong with it. My computer IS connected to the internet and all, but for some reason the browsers won&#039;t connect! None of them are &quot;work offline,&quot; but I have a feeling there&#039;s some setting on my computer that won&#039;t allow the browsers to connect to the internet (even though the computer IS)... this is really confusing. does anyone have any ideas on how to fix this or any experience with this kind of problem?
+
+BTW. Here is some proof that the internet is connected, but the browsers won&#039;t connect:
+http://farm5.static.flickr.com/4015/4400673259_838377c61e_b.jpg 
+http://farm5.static.flickr.com/4038/4400673255_c68ef0d338_b.jpg
+</Content>
+    <Date>2010-03-02 06:12:29</Date>
+    <Timestamp>1267539149</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302061229AAh4xDR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2lGdpOL5aa</UserId>
+    <UserNick>Sally</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1kbU18sliAAEC5GQy3Uo=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to Start&gt;Run, type &quot;cmd&quot; without the quotes and press enter. Now in the command prompt type &quot;ipconfig /flushdns&quot; wait for the message that the DNS resolver cache was sucessfully flushed, now type &quot;ipconfig /renew&quot;
+
+Try your browser again.
+
+If that doesn&#039;t work, then try rebooting your computer.</ChosenAnswer>
+    <ChosenAnswererId>99EBKWtkaa</ChosenAnswererId>
+    <ChosenAnswererNick>-ynotnA-</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267541235</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268058865</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Did you need to be signed in to any of your browsers that are not working / Some downloads may not be accessible until you are signed on to where you got them, for instance Yahoo Answers. You can access Answers if your signed in to Yahoo.
+ You say you did say you are connected on the internet, be sure the IE is functioning, or you will not get anything that is online.
+ My internet has disappeared before, Good Luck
+ If you run xp, try IE 6 and Fire fox. I get good speed there, and no problems. By the way, fire fox has an up grade; 3.6</Content>
+            <Reference>me</Reference>
+            <Best></Best>
+            <UserId>Z4sH97Vcaa</UserId>
+            <UserNick>mr.dfleming57</UserNick>
+            <Date>2010-03-02 06:43:44</Date>
+            <Timestamp>1267541024</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to Start&gt;Run, type &quot;cmd&quot; without the quotes and press enter. Now in the command prompt type &quot;ipconfig /flushdns&quot; wait for the message that the DNS resolver cache was sucessfully flushed, now type &quot;ipconfig /renew&quot;
+
+Try your browser again.
+
+If that doesn&#039;t work, then try rebooting your computer.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>99EBKWtkaa</UserId>
+            <UserNick>-ynotnA-</UserNick>
+            <Date>2010-03-02 06:47:15</Date>
+            <Timestamp>1267541235</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:27:07 PDT 2010 -->

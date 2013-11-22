@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222074231AAIJwVg" type="Answered">
+    <Subject>Yahoo and its association with picnic.com?</Subject>
+    <Content>Hi anybody out there using this service are there any issues regarding they wanting auto access your yahoo mail etc
+</Content>
+    <Date>2010-02-22 07:42:31</Date>
+    <Timestamp>1266853351</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222074231AAIJwVg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ooebqFx9aa</UserId>
+    <UserNick>johnboy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Picnic? If that is the photo editing site, why would it want access to your email account? From my experience, it&#039;s not a dangerous site.</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267192308</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267373019</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Any reputable website will not require you to give them access to your account - such as passwords. You should be able to use their service without giving them the details
+
+These are often asked for to advertise it&#039;s service to your friends - you will be responsible for their spam! So don&#039;t give them the details (same as Facebook and similar - they ask for e-mail passwords so they can send e-mails to your contacts who arn&#039;t signed up)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>c2666c20df7b27c2859938d7ac3b140daa</UserId>
+            <UserNick>whycantigetagoodnickname</UserNick>
+            <Date>2010-02-22 07:46:39</Date>
+            <Timestamp>1266853599</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Picnic? If that is the photo editing site, why would it want access to your email account? From my experience, it&#039;s not a dangerous site.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>AC/JC</UserNick>
+            <Date>2010-02-26 05:51:48</Date>
+            <Timestamp>1267192308</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:29:06 PDT 2010 -->

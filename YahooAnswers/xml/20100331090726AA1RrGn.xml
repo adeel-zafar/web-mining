@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331090726AA1RrGn" type="Answered">
+    <Subject>Why won&#039;t my Firefox Internet browser display Avatars in Yahoo! Answers?</Subject>
+    <Content>I&#039;m using Firefox 2.0.0.2 (the last release for my Windows 98SE operating system), and Yahoo! Avatars don&#039;t show up on screen. Do I have some settings wrong, or is it a glitch? IE 6.5 displays the Avatars but is ungodly slow.
+
+Thanks in advance.
+It also has a bad tendency to perform an illegal operation and shut down. I checked the details, and it&#039;s always a page fault in Firefox.exe
+</Content>
+    <Date>2010-03-31 09:07:26</Date>
+    <Timestamp>1270051646</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331090726AA1RrGn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WjRqYf6naa</UserId>
+    <UserNick>David H</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4addd8e4i214bzul6re4/lXqayW01erD2tPJOjd0KXvHnT6IX/2/tn48.jpg?ciAAToMBLXluUJQ8</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This is a guess, but I&#039;m guessing that the pieces you&#039;re using simply aren&#039;t playing well with each other.  You&#039;re using a 12 year old operating system and an outdated browser in order to compensate.  Web pages are actually coded to particular specifications, based on common browsers used.  It may very well be that there is coding on Yahoo with which your browser simply can&#039;t cope, because the code wasn&#039;t invented when Firefox 2.0.0.2 was released.</ChosenAnswer>
+    <ChosenAnswererId>21808938a2c954ea0389683f10267c69aa</ChosenAnswererId>
+    <ChosenAnswererNick>Nightwind: Mwa ha ha!</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270139711</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270281392</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>your operating system is too advanced for yahoo</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nnZYK1WAaa</UserId>
+            <UserNick>Steve</UserNick>
+            <Date>2010-03-31 09:10:07</Date>
+            <Timestamp>1270051807</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This is a guess, but I&#039;m guessing that the pieces you&#039;re using simply aren&#039;t playing well with each other.  You&#039;re using a 12 year old operating system and an outdated browser in order to compensate.  Web pages are actually coded to particular specifications, based on common browsers used.  It may very well be that there is coding on Yahoo with which your browser simply can&#039;t cope, because the code wasn&#039;t invented when Firefox 2.0.0.2 was released.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>21808938a2c954ea0389683f10267c69aa</UserId>
+            <UserNick>Nightwind: Mwa ha ha!</UserNick>
+            <Date>2010-04-01 09:35:11</Date>
+            <Timestamp>1270139711</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>do factory settings all over again&#039;</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8e8f00fc5b9e9edb3247392086ec523faa</UserId>
+            <UserNick>bigturkeyme</UserNick>
+            <Date>2010-04-01 15:49:48</Date>
+            <Timestamp>1270162188</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:54 PDT 2010 -->

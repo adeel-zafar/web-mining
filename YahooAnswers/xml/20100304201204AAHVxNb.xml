@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304201204AAHVxNb" type="Answered">
+    <Subject>How do you delete search history and temporary internet files in firefox 3.5.8?</Subject>
+    <Content>I have googled it and there are ways but none of which work in mine.  For example going into tools and privacy does not work.  I think it may be because it is a different version to 3.5.8.
+</Content>
+    <Date>2010-03-04 20:12:04</Date>
+    <Timestamp>1267762324</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304201204AAHVxNb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CU98k9Qsaa</UserId>
+    <UserNick>Baz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1tzNITRpeAAEC_IE1ST4=.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Tools-&gt;Options-&gt;Privacy-&gt;clear your recent history</ChosenAnswer>
+    <ChosenAnswererId>cAoBid7oaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267762607</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268514785</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Tools: Clear Recent History.  It&#039;ll bring up a new window that&#039;ll let you check off what kinds of files you want to delete.
+
+At least...I think that&#039;s how 3.5.8 was configured.
+
+If not, try pressing CTRL + SHIFT + DEL to bring up the same box mentioned above.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>d0nv49tHaa</UserId>
+            <UserNick>kl</UserNick>
+            <Date>2010-03-04 20:15:47</Date>
+            <Timestamp>1267762547</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Tools-&gt;Options-&gt;Privacy-&gt;clear your recent history</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cAoBid7oaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-04 20:16:47</Date>
+            <Timestamp>1267762607</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine &quot;experts&quot; say is impossible, you can always click bookmarks &gt;organize select all and delete</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-04 20:44:17</Date>
+            <Timestamp>1267764257</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 22:00:28 PDT 2010 -->

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305155605AAZGc7o" type="Answered">
+    <Subject>I have windows xp and firefox 3.6. When I close out firefox and then reopen it says it is already running and?</Subject>
+    <Content>that I need to restart my system. I just do the ctrl-alt-delete thing and cancel the process because it doesn&#039;t appear in the applications window. anybody else dealing with this?
+impatience has nothing to do with it...... it doesn&#039;t open at all. it says that firefox is still running and that i have to restart my system, which is ridiculous.
+</Content>
+    <Date>2010-03-05 15:56:05</Date>
+    <Timestamp>1267833365</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305155605AAZGc7o</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4153ca1e07e2ba09e2ccff83f9b225cbaa</UserId>
+    <UserNick>Tim T</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Usually when firefox crashes ( for every reason), then it takes a bit to be closed and removed from RAM completely. At the same time, you can reopen it, because another (older) firefox is still open in your PC memory. 
+
+So you have to close it as you have done before, or wait a few seconds until it get closed automatically. 
+
+Good Luck</ChosenAnswer>
+    <ChosenAnswererId>JLr3UcEHaa</ChosenAnswererId>
+    <ChosenAnswererNick>MS</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268117863</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268352924</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You might just be too impatient. Firefox takes a few seconds to close after the window disappears.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3be70dec6db5e574a7f07a63a50ebe41aa</UserId>
+            <UserNick>Nomadd</UserNick>
+            <Date>2010-03-05 15:58:53</Date>
+            <Timestamp>1267833533</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes,I have the same issue from time to time;it must be a bug. You could find a link to Mozilla and report it. You should have at least 2-3 browsers just in case something like this happens.I have the IE 8,Firefox (primary),and trying out Maxthon (difficult to set up) but if I&#039;m having issues with one I&#039;ll just open another.But anyway,it&#039;s a bug.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>D1cw3f76aa</UserId>
+            <UserNick>NO6664ME</UserNick>
+            <Date>2010-03-05 16:09:53</Date>
+            <Timestamp>1267834193</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>most of yhe times your problems can be solved by turning your computer completely off and than back on again.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GZXZl131aa</UserId>
+            <UserNick>mommy</UserNick>
+            <Date>2010-03-05 16:28:43</Date>
+            <Timestamp>1267835323</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It shouldn&#039;t take more that a second for the process to end when you exit. Look in your Options - Privacy settings in ff.  See if the box to &quot;Always clear my private data when I close Firefox&quot; is selected. If it is then that&#039;s why the delay, it&#039;s cleaning up.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>leGK1w4yaa</UserId>
+            <UserNick>jdjetz</UserNick>
+            <Date>2010-03-05 16:32:37</Date>
+            <Timestamp>1267835557</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Happens to me too, and I&#039;m still using the 3.5.8 version because I&#039;m afraid of bugs. A few months ago I upgraded to a newer version and it was sooo freaking buggy so refuse to upgrade to 3.6 until I read everything runs smoothly.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5buhwIoyaa</UserId>
+            <UserNick>Moni</UserNick>
+            <Date>2010-03-08 20:05:13</Date>
+            <Timestamp>1268107513</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Usually when firefox crashes ( for every reason), then it takes a bit to be closed and removed from RAM completely. At the same time, you can reopen it, because another (older) firefox is still open in your PC memory. 
+
+So you have to close it as you have done before, or wait a few seconds until it get closed automatically. 
+
+Good Luck</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JLr3UcEHaa</UserId>
+            <UserNick>MS</UserNick>
+            <Date>2010-03-08 22:57:43</Date>
+            <Timestamp>1268117863</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:54:48 PDT 2010 -->

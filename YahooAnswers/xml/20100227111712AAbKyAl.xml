@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227111712AAbKyAl" type="Answered">
+    <Subject>Which name is good for my blog?</Subject>
+    <Content>I&#039;m a 14 year old girl who is going to blog about her highschool life and well, everything. Problem? I have no idea what to name it. So, check out these names and feel free to suggest some too:
+
+littleyellowcanary
+megans insight.
+welcometotheworld.
+megans musings.
+youth revolution.
+teenage revolution.
+</Content>
+    <Date>2010-02-27 11:17:12</Date>
+    <Timestamp>1267298232</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227111712AAbKyAl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>I23WPHgwaa</UserId>
+    <UserNick>Lauren</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/14WfpqLpuAAECL6OakJhQHJIB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yesterday...</ChosenAnswer>
+    <ChosenAnswererId>j3M64dabaa</ChosenAnswererId>
+    <ChosenAnswererNick>dcTech</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267298481</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268778198</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yesterday...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>j3M64dabaa</UserId>
+            <UserNick>dcTech</UserNick>
+            <Date>2010-02-27 11:21:21</Date>
+            <Timestamp>1267298481</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:44:04 PDT 2010 -->

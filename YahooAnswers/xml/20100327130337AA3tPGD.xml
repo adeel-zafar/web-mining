@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327130337AA3tPGD" type="Answered">
+    <Subject>firefox opens a new window every time i click a link. Any fix?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-27 13:03:37</Date>
+    <Timestamp>1269720217</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327130337AA3tPGD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>OYFnifbJaa</UserId>
+    <UserNick>The one</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Tools&gt;Options&gt;Tabs and change what it does when you click on a link using the dropdown.
+
+On top of that I use an AddOn called Tab Mix + which adds loads more options.
+https://addons.mozilla.org/en-US/firefox/addon/1122</ChosenAnswer>
+    <ChosenAnswererId>7ssnnAK8aa</ChosenAnswererId>
+    <ChosenAnswererNick>Skipweasel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269720415</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269901426</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Tools&gt;Options&gt;Tabs and change what it does when you click on a link using the dropdown.
+
+On top of that I use an AddOn called Tab Mix + which adds loads more options.
+https://addons.mozilla.org/en-US/firefox/addon/1122</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>7ssnnAK8aa</UserId>
+            <UserNick>Skipweasel</UserNick>
+            <Date>2010-03-27 13:06:55</Date>
+            <Timestamp>1269720415</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Preferences&gt; Tabs&gt; Open new windows in a new tab instead.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>e871c3bc7828a54588e8b88635cfba63aa</UserId>
+            <UserNick>Bill M</UserNick>
+            <Date>2010-03-27 13:08:20</Date>
+            <Timestamp>1269720500</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:22:22 PDT 2010 -->

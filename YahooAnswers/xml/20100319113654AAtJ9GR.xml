@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319113654AAtJ9GR" type="Answered">
+    <Subject>I want to buy something from the internet and I want to use pay-pal. I don&#039;t have a credit card so...?</Subject>
+    <Content>...I want to use my bank account.
+Can anyone explain to me what exactly should I do?? Give as much details you can cause I&#039;m not familiar with this!
+</Content>
+    <Date>2010-03-19 11:36:54</Date>
+    <Timestamp>1269023814</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319113654AAtJ9GR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>k5MYgSSDaa</UserId>
+    <UserNick>positive</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>First, log into your Paypal account.  It should default load to the &#039;My Account&#039; tab.  Under that, to the right, there&#039;s an option for &#039;Profile&#039;.  Hover over that and a menu will pop up.  Choose &#039;Add or Edit Bank Account&#039;.  From there it should be simple.  I&#039;ve had mine set up for a while, so it may be different from someone doing it for the first time.  I have an orange button that says &#039;Add Bank&#039;.  Click that and follow the instructions.  Input any data requested.  Paypal is the biggest online money handling service out there, so it can be trusted.  Just be very safe with your password.  I think they will make small deposits into your account that you then have to verify with them.  Then you will be set up to buy things using Paypal and the money will come directly from your bank account.  You could also use your ATM card if it has the Visa logo on it.  All businesses, including Paypal, will treat that card just like any Visa credit card.  Then the money would come directly from your bank account, also.</ChosenAnswer>
+    <ChosenAnswererId>7rBWVpsuaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chris Cureton</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269025627</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269262726</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I believe you can pay pay pal with a bank account.  Otherwise you can go to your bank and buy a prepaid visa card and use that to pay for the thing online.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KlFgSVrvaa</UserId>
+            <UserNick>Shaun</UserNick>
+            <Date>2010-03-19 11:40:43</Date>
+            <Timestamp>1269024043</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>First, log into your Paypal account.  It should default load to the &#039;My Account&#039; tab.  Under that, to the right, there&#039;s an option for &#039;Profile&#039;.  Hover over that and a menu will pop up.  Choose &#039;Add or Edit Bank Account&#039;.  From there it should be simple.  I&#039;ve had mine set up for a while, so it may be different from someone doing it for the first time.  I have an orange button that says &#039;Add Bank&#039;.  Click that and follow the instructions.  Input any data requested.  Paypal is the biggest online money handling service out there, so it can be trusted.  Just be very safe with your password.  I think they will make small deposits into your account that you then have to verify with them.  Then you will be set up to buy things using Paypal and the money will come directly from your bank account.  You could also use your ATM card if it has the Visa logo on it.  All businesses, including Paypal, will treat that card just like any Visa credit card.  Then the money would come directly from your bank account, also.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7rBWVpsuaa</UserId>
+            <UserNick>Chris Cureton</UserNick>
+            <Date>2010-03-19 12:07:07</Date>
+            <Timestamp>1269025627</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:35:28 PDT 2010 -->

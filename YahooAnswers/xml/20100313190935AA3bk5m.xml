@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313190935AA3bk5m" type="Answered">
+    <Subject>Free online diary/journal?</Subject>
+    <Content>I want to find a free online journal..
+one were you can do things like copy stuff online then paste it in. like pictures. just something that i could make look really cool..
+
+got any.?
+</Content>
+    <Date>2010-03-13 19:09:35</Date>
+    <Timestamp>1268536175</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313190935AA3bk5m</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>D2wZSPWoaa</UserId>
+    <UserNick>02.05.10&lt;3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Blogger</ChosenAnswer>
+    <ChosenAnswererId>QIIltKVJaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gaming Drunk</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268693393</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269052023</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Blogger</Content>
+            <Reference>www.blogger.com</Reference>
+            <Best>5</Best>
+            <UserId>QIIltKVJaa</UserId>
+            <UserNick>Gaming Drunk</UserNick>
+            <Date>2010-03-15 15:49:53</Date>
+            <Timestamp>1268693393</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:57 PDT 2010 -->

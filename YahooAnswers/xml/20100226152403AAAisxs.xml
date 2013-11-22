@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226152403AAAisxs" type="Answered">
+    <Subject>Help - Moderator on Discussion Forum Blocking My Computer?</Subject>
+    <Content>I had an account with a discussion forum. I opened a second account for separate issues in the forum. Both my accounts are now banned by the moderator for having more than one account. How did they know I opened a second account - I opened it with a separate email address and screen name? I want to get a new account but the sign in page is automatically locked. Is there something I can change in my computer or internet settings to open another account?
+</Content>
+    <Date>2010-02-26 15:24:03</Date>
+    <Timestamp>1267226643</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226152403AAAisxs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6H1MiAglaa</UserId>
+    <UserNick>Pam</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UBVCgnuZAAEB3oTwhDK_9ugoHQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Same IP address. There&#039;s nothing you can do. Try actually following the rules of the forum for once, &#039;kay?</ChosenAnswer>
+    <ChosenAnswererId>vAJocLqvaa</ChosenAnswererId>
+    <ChosenAnswererNick>star123compy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267226970</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267401012</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Same IP address. There&#039;s nothing you can do. Try actually following the rules of the forum for once, &#039;kay?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-02-26 15:29:30</Date>
+            <Timestamp>1267226970</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:49:03 PDT 2010 -->

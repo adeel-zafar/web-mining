@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309145418AAk6q81" type="Answered">
+    <Subject>Can someone explain webs.com to me?</Subject>
+    <Content>Could you explain it all?
+I would like info on the credit system and the widgets.
+</Content>
+    <Date>2010-03-09 14:54:18</Date>
+    <Timestamp>1268175258</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309145418AAk6q81</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AInPUiTLaa</UserId>
+    <UserNick>John</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Webs.com is a free service which allows to create web sites simply for those who does not know anything about web development.
+
+Their free service is very basic. however even the paid service is not flexible.
+
+If you want a real web site, I would suggest you to get a web host and develop your site from CMS like Wordpress / Drupal or from Scratch!</ChosenAnswer>
+    <ChosenAnswererId>ZwhubSCvaa</ChosenAnswererId>
+    <ChosenAnswererNick>b2bwild</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268175913</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268979773</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I have 3 websites there. what is your question? Its simple make a name and build yourself a site..
+thats all..</Content>
+            <Reference>http://winxp76.webs.com</Reference>
+            <Best></Best>
+            <UserId>oXjomSXAaa</UserId>
+            <UserNick>Win.XP.76</UserNick>
+            <Date>2010-03-09 14:56:30</Date>
+            <Timestamp>1268175390</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Its a website builder i have one!! http://eighty-8-smiles.webs.com
+lol! =)</Content>
+            <Reference>=)</Reference>
+            <Best></Best>
+            <UserId>5FCSw15Zaa</UserId>
+            <UserNick>Alisha</UserNick>
+            <Date>2010-03-09 15:00:59</Date>
+            <Timestamp>1268175659</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Webs.com is a free service which allows to create web sites simply for those who does not know anything about web development.
+
+Their free service is very basic. however even the paid service is not flexible.
+
+If you want a real web site, I would suggest you to get a web host and develop your site from CMS like Wordpress / Drupal or from Scratch!</Content>
+            <Reference>b2bwild @ http://penguininside.blogspot.com</Reference>
+            <Best>5</Best>
+            <UserId>ZwhubSCvaa</UserId>
+            <UserNick>b2bwild</UserNick>
+            <Date>2010-03-09 15:05:13</Date>
+            <Timestamp>1268175913</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:23:53 PDT 2010 -->

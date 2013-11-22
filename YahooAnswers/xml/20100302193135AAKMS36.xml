@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302193135AAKMS36" type="Answered">
+    <Subject>itunes please help..........................?</Subject>
+    <Content>ok so i bought a song from itunes know how do i get it from my itunes library to my ipod thanks :)
+</Content>
+    <Date>2010-03-02 19:31:35</Date>
+    <Timestamp>1267587095</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302193135AAKMS36</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>J8pj5jGMaa</UserId>
+    <UserNick>Kelsie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b5f2263if6ezul7re4/Bzz0Hnkia6nbt2ppOgsGJPVLS1o-/2/tn48.jpg?ciAAToMB4dGxIDh9</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>connect you ipod and then drag and drop the song onto your ipod in the left side bar</ChosenAnswer>
+    <ChosenAnswererId>P1wnD9pYaa</ChosenAnswererId>
+    <ChosenAnswererNick>Johnny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267587237</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267628630</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>connect you ipod and then drag and drop the song onto your ipod in the left side bar</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>P1wnD9pYaa</UserId>
+            <UserNick>Johnny</UserNick>
+            <Date>2010-03-02 19:33:57</Date>
+            <Timestamp>1267587237</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:22:23 PDT 2010 -->

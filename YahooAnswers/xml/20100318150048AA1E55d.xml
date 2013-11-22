@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318150048AA1E55d" type="Answered">
+    <Subject>Can you help me with firefox?</Subject>
+    <Content>Okay, I can start firefox, I can get to websites, they will seem like they&#039;re working, then firefox freezes and I have to end the program through task manager. I have cleared out everything. Please help me fix this! It has always worked fine, and now I&#039;m stuck using internet explorer which I&#039;m not fond of! Thanks
+</Content>
+    <Date>2010-03-18 15:00:48</Date>
+    <Timestamp>1268949648</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318150048AA1E55d</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>w5zMcbt5aa</UserId>
+    <UserNick>italiangirl13111</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1wtnMYLzWAAEBXWOcND4=.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>First of all, did you try re-installing it? That can sometimes work. If you did, then there could be a virus possibility, in which case you will have to update your antivirus program and then scan for viruses. It could also be your registry. Download a program called &quot;ccleaner&quot; from www.download.com and run a registry scan with it. Or it might be your hardware. Does it only happen with firefoc, or with other programs as well. I know that any of my programs that access the H: Drive crash immediately because there is a problem with that drive. You might want to get someone to look at the parts of your computer/laptop if it is over a year old.
+Hope I helped</ChosenAnswer>
+    <ChosenAnswererId>h7M0vRewaa</ChosenAnswererId>
+    <ChosenAnswererNick>meestaman</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268950004</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269129060</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m sorry. If it doesn&#039;t work out, may I suggest Google Chrome, Opera, or Safari? They are very fast, especially compared to Firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>i2zF8RlAaa</UserId>
+            <UserNick>Johnny D</UserNick>
+            <Date>2010-03-18 15:02:43</Date>
+            <Timestamp>1268949763</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>First of all, did you try re-installing it? That can sometimes work. If you did, then there could be a virus possibility, in which case you will have to update your antivirus program and then scan for viruses. It could also be your registry. Download a program called &quot;ccleaner&quot; from www.download.com and run a registry scan with it. Or it might be your hardware. Does it only happen with firefoc, or with other programs as well. I know that any of my programs that access the H: Drive crash immediately because there is a problem with that drive. You might want to get someone to look at the parts of your computer/laptop if it is over a year old.
+Hope I helped</Content>
+            <Reference>Brain</Reference>
+            <Best>4</Best>
+            <UserId>h7M0vRewaa</UserId>
+            <UserNick>meestaman</UserNick>
+            <Date>2010-03-18 15:06:44</Date>
+            <Timestamp>1268950004</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That is indeed odd behavior for Firefox.  I know it&#039;s a pain but have you tried uninstalling, reboot, and reinstalling firefox.  Perhaps an incompatible plugin got added that is causing this. Probably couldn&#039;t hurt to do a quick scan to rule out trojans/virus&#039;s as well.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Okw6zwqtaa</UserId>
+            <UserNick>Justme1971</UserNick>
+            <Date>2010-03-18 15:10:41</Date>
+            <Timestamp>1268950241</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>my suggestion is to switch to a different porvider like explorer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yQZhJkc8aa</UserId>
+            <UserNick>jmac</UserNick>
+            <Date>2010-03-18 15:16:39</Date>
+            <Timestamp>1268950599</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try updating to the latest version: 
+
+Start firefox
+Help
+Check for updates. 
+
+
+Also, firefox is the fastest browser i thought? cnet.com thinks so.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZVgyfaBmaa</UserId>
+            <UserNick>hash man</UserNick>
+            <Date>2010-03-18 15:24:17</Date>
+            <Timestamp>1268951057</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:38:36 PDT 2010 -->

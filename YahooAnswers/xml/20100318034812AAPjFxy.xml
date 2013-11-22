@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318034812AAPjFxy" type="Answered">
+    <Subject>Internet connection error help?</Subject>
+    <Content>My laptop&#039;s browser suddenly stopped working, so I assumed someone just bumped into the wires again. But even after about 10 minutes I still couldn&#039;t browse. I checked and on the lower right corner there was an exclamation point on the wifi bar. The next day I found out that somehow my torrent finished downloading even with the browser unable to load. Does someone know how to fix this problem? I found out that this happens every few weeks, it somehow gets fixed automatically in a few days but I want to know if there&#039;s a way to fix it myself.
+</Content>
+    <Date>2010-03-18 03:48:12</Date>
+    <Timestamp>1268909292</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318034812AAPjFxy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LHd5LWLfaa</UserId>
+    <UserNick>Prinny dood</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;m guessing you&#039;ve already restarted your pc, so try waiting a few minutes after you turn on your computer and close down processes you may have running like torrent downloader, instant messaging, and the like.
+
+Also, sometimes when your internet says it is down and the browser isn&#039;t working, your torrent can sometimes still download because your computer has a direct link to the internet, which is strange, but it happened to me when I was on instant messaging once.
+
+If the little exclamation point shows up, right click and press troubleshoot problems, or whatever it is on your pc.</ChosenAnswer>
+    <ChosenAnswererId>BoSfbNlRaa</ChosenAnswererId>
+    <ChosenAnswererNick>The Dodo1234</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268910542</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268940145</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>sounds like your processor is busy.  it could be the torrent going out from your laptop
+look at task manager. trial an error by stopping the processes one at a time.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pDxFOekIaa</UserId>
+            <UserNick>chezzrob</UserNick>
+            <Date>2010-03-18 03:53:31</Date>
+            <Timestamp>1268909611</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;m guessing you&#039;ve already restarted your pc, so try waiting a few minutes after you turn on your computer and close down processes you may have running like torrent downloader, instant messaging, and the like.
+
+Also, sometimes when your internet says it is down and the browser isn&#039;t working, your torrent can sometimes still download because your computer has a direct link to the internet, which is strange, but it happened to me when I was on instant messaging once.
+
+If the little exclamation point shows up, right click and press troubleshoot problems, or whatever it is on your pc.</Content>
+            <Reference>experience</Reference>
+            <Best>5</Best>
+            <UserId>BoSfbNlRaa</UserId>
+            <UserNick>The Dodo1234</UserNick>
+            <Date>2010-03-18 04:09:02</Date>
+            <Timestamp>1268910542</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:57 PDT 2010 -->

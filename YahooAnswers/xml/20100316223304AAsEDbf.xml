@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316223304AAsEDbf" type="Answered">
+    <Subject>Help! Is it possible for tenants to steal internet connections?</Subject>
+    <Content>My parents are the landlords of the two unit house, where the tenant pays every month. First of all, I know very less about rental and estates, so I may seem to not know about the laws, conditions..etc.
+
+My parents seem to get along with the tenant, because my parents are really nice towards him. 
+
+Here what&#039;s related to the question. The tenant came up (we live on the upper floor) and asked about our internet modem while I wasn&#039;t home. My mom, without judgement said she allowed him to copy the code that was on the modem. She believed that the tenant tricked her by saying that his own internet doesn&#039;t work. 
+
+My older brother (who cooperates with my parents in taxes, bills, mortgages, wages...etc) and I believe that he is stealing our internet connection.
+
+Does anyone knows if he is actually using/stealing our internet connection? What should I do? My parents only made few agreements such as covering his water/electric bills, A/C+heater, and a parking space and nothing else.
+</Content>
+    <Date>2010-03-16 22:33:04</Date>
+    <Timestamp>1268803984</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316223304AAsEDbf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oAZCD5KOaa</UserId>
+    <UserNick>Heather [Water Element]</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1NSk6Y-WMAAEB2KKb0B051nQB.medium.jpg</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you suspect that someone is stealing your internet credentials, there are several things that you can do. First you can change your existing passwords so that others can not log in using stolen passwords. But if you can not do this still you can check whether someone is using your internet connection. You can request this facility from your internet service provider. They can check what are the IP address that using your internet connection or internet credentials. If that list is having IP address not belongs to you, those are suspicious IP address. Even then can check who is the owner of those IP address. In this way you can find whether someone is using your internet connection. But I not sure whether your service provider will charge for this service or not.</ChosenAnswer>
+    <ChosenAnswererId>MjHTDbRQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Elecsl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268804596</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268876227</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>put a password on the router</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-16 22:36:19</Date>
+            <Timestamp>1268804179</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Of course he stealing it!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-16 22:37:22</Date>
+            <Timestamp>1268804242</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>do you guys have a wireless connection? iF you do then yes they can piggy back on your connection if you haven&#039;t locked yours. it sounds like they are stealing the connection</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TdfBF0Lnaa</UserId>
+            <UserNick>Texas lady</UserNick>
+            <Date>2010-03-16 22:37:49</Date>
+            <Timestamp>1268804269</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you suspect that someone is stealing your internet credentials, there are several things that you can do. First you can change your existing passwords so that others can not log in using stolen passwords. But if you can not do this still you can check whether someone is using your internet connection. You can request this facility from your internet service provider. They can check what are the IP address that using your internet connection or internet credentials. If that list is having IP address not belongs to you, those are suspicious IP address. Even then can check who is the owner of those IP address. In this way you can find whether someone is using your internet connection. But I not sure whether your service provider will charge for this service or not.</Content>
+            <Reference>http://www.lk-tech.blogspot.com/</Reference>
+            <Best>5</Best>
+            <UserId>MjHTDbRQaa</UserId>
+            <UserNick>Elecsl</UserNick>
+            <Date>2010-03-16 22:43:16</Date>
+            <Timestamp>1268804596</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;d call up your phone/internet company and tell them to give you a new code, very easy and the guy will not be able to connect to your internet anymore, but I wouldn&#039;t see any harm in him using my internet, unless there&#039;s a good reason to not trust, and in that situation, he wouldn&#039;t be renting from me in the first place.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>h2KkiKK3aa</UserId>
+            <UserNick>stormgale89</UserNick>
+            <Date>2010-03-16 23:22:08</Date>
+            <Timestamp>1268806928</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Just change the router password, that will stop him if he is stealing internet.
+Read your manual or google your router to find out how to change the password.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bfc8f630c13672893a5a5f36eb477cc9aa</UserId>
+            <UserNick>Scooter_MacGyver</UserNick>
+            <Date>2010-03-16 23:29:43</Date>
+            <Timestamp>1268807383</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>He&#039;s using your internet connection for free. If you don&#039;t want him to use it then you can always change your password.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dcb69ed0501ca28324ffe09398e75961aa</UserId>
+            <UserNick>ChevalierCourageux</UserNick>
+            <Date>2010-03-17 07:20:52</Date>
+            <Timestamp>1268835652</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:46:07 PDT 2010 -->

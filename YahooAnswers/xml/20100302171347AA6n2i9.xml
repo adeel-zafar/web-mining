@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302171347AA6n2i9" type="Answered">
+    <Subject>How do I add money to paypal with a vanilla visa gift card?</Subject>
+    <Content>
+It doesn&#039;t work as any other credit card...
+</Content>
+    <Date>2010-03-02 17:13:47</Date>
+    <Timestamp>1267578827</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302171347AA6n2i9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vDiV8B14aa</UserId>
+    <UserNick>HammyLover</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Stop posting questions that are not real! Nobody is going to believe you!!!!!1</ChosenAnswer>
+    <ChosenAnswererId>COkDY2wAaa</ChosenAnswererId>
+    <ChosenAnswererNick>GeorgiaSue</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267579092</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268517808</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Stop posting questions that are not real! Nobody is going to believe you!!!!!1</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>COkDY2wAaa</UserId>
+            <UserNick>GeorgiaSue</UserNick>
+            <Date>2010-03-02 17:18:12</Date>
+            <Timestamp>1267579092</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It should work just as any other credit card would.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>95ec1b490d220dc4805f3b46e733833daa</UserId>
+            <UserNick>xxx</UserNick>
+            <Date>2010-03-02 18:21:43</Date>
+            <Timestamp>1267582903</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:23 PDT 2010 -->

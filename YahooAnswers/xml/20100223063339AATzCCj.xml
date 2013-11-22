@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223063339AATzCCj" type="Answered">
+    <Subject>What do I do if my ISP blocked torrents?</Subject>
+    <Content>I used torrents only for downloading games.But now,I found that the torrents don&#039;t work anymore and my friend told me that our ISP blocks the use of torrents.Is there a way to fix this without my ISP knowing them?
+Really? Ahh..too bad,I do love playing games.Guess I gotta forget about them.
+</Content>
+    <Date>2010-02-23 06:33:39</Date>
+    <Timestamp>1266935619</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223063339AATzCCj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4SqMc4ZSaa</UserId>
+    <UserNick>leo_chan007</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s because they&#039;re illegal.</ChosenAnswer>
+    <ChosenAnswererId>zVu19UBCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Topi jerami</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267264918</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267455210</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Uh, no. Your Internet Service PROVIDER will know whatever you&#039;re doing. Either get a different ISP or deal with not being able to do illegal downloading.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-02-23 06:34:35</Date>
+            <Timestamp>1266935675</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s because they&#039;re illegal.
+
+I surely hope you get caught. :]</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3yHwgUlMaa</UserId>
+            <UserNick>adamant™</UserNick>
+            <Date>2010-02-23 06:34:50</Date>
+            <Timestamp>1266935690</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>First off, torrents are not illegal. Some of the content being shared through torrents may be copyrighted, but torrents themselves and a lot of the content out there is not illegal.
+
+You can try to use a proxy site for downloading. Google &quot;free proxy servers&quot; and try that route. Your ISP will only see http traffic.
+
+FYI, I would also be wary of warez sites as they will infect your machine faster than you can blink.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7704c373418e0fbb0ffaf3df5a5d46c9aa</UserId>
+            <UserNick>Mike P</UserNick>
+            <Date>2010-02-23 06:53:11</Date>
+            <Timestamp>1266936791</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s because they&#039;re illegal.</Content>
+            <Reference>.........</Reference>
+            <Best>5</Best>
+            <UserId>zVu19UBCaa</UserId>
+            <UserNick>Topi jerami</UserNick>
+            <Date>2010-02-27 02:01:58</Date>
+            <Timestamp>1267264918</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:22:27 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401194047AAwytwB" type="Answered">
+    <Subject>i delete a windows update for internet explorer, as i changed my browser to opera, but now i am being reminded?</Subject>
+    <Content>to install internet explorer 8 update which i no longer use. I don&#039;t want to disable updates altogether but will it keep asking?
+</Content>
+    <Date>2010-04-01 19:40:47</Date>
+    <Timestamp>1270176047</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401194047AAwytwB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XkycjorQaa</UserId>
+    <UserNick>Ds34</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Just hide the update in Windows Update</ChosenAnswer>
+    <ChosenAnswererId>nei5W5HAaa</ChosenAnswererId>
+    <ChosenAnswererNick>golfmad</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270194382</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270194792</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just hide the update in Windows Update</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>nei5W5HAaa</UserId>
+            <UserNick>golfmad</UserNick>
+            <Date>2010-04-02 00:46:22</Date>
+            <Timestamp>1270194382</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:01 PDT 2010 -->

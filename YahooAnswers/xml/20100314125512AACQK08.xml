@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314125512AACQK08" type="Answered">
+    <Subject>What&#039;s a cheap/fast internet provider?</Subject>
+    <Content>Cox is wicked expensive!!
+I&#039;m in Arizona.
+</Content>
+    <Date>2010-03-14 12:55:12</Date>
+    <Timestamp>1268596512</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314125512AACQK08</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>onKuCHWIaa</UserId>
+    <UserNick>Yuki</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1LB0o9bWkAAEB24JdyBa1mCsTLw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Depends on what&#039;s available in your area.  If you want to go super cheap, Net Zero does dial up for free.  I think you get about 10 hours a month and then they charge you 10 bucks.  But dial up sucks...  Look for a good DSL provider.</ChosenAnswer>
+    <ChosenAnswererId>qpSi7DQeaa</ChosenAnswererId>
+    <ChosenAnswererNick>Peter P</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268596680</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269116046</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>So I take it you&#039;re from Boston? 
+
+It depends very much on what part of the state you live, if you&#039;re really in Massachusetts, but Charter, Comcast and Verizon all have service in parts of Boston and other locations in Massachusetts. 
+
+Otherwise you need to tell us where you live, since I&quot;m just guessing based on your stereotypical Bostonian choice of idiomatic expressions.
+
+EDIT: Arizona is a large state. We can&#039;t tell you which ISPs are available to you without knowing your apartment number, building number, street address and city. Comcast services regions in Arizona, but I don&#039;t know if Comcast would service you, in particular, or not, nor do I know if it would be cheaper than Cox.
+
+The only way to find out for certain if you can get service from a particular ISP or not is to call that ISP via telephone or possibly via post. An ISP may service your region and even your street, but that doesn&#039;t mean they will serve every building on that street. Therefore, it&#039;s more or less something that you have to do on your own, since most of us probably don&#039;t want to give away our street address on the Internet.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IbxhRebgaa</UserId>
+            <UserNick>cen</UserNick>
+            <Date>2010-03-14 12:57:46</Date>
+            <Timestamp>1268596666</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Depends on what&#039;s available in your area.  If you want to go super cheap, Net Zero does dial up for free.  I think you get about 10 hours a month and then they charge you 10 bucks.  But dial up sucks...  Look for a good DSL provider.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qpSi7DQeaa</UserId>
+            <UserNick>Peter P</UserNick>
+            <Date>2010-03-14 12:58:00</Date>
+            <Timestamp>1268596680</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:58:49 PDT 2010 -->

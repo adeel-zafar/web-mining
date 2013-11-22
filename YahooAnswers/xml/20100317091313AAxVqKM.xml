@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317091313AAxVqKM" type="Answered">
+    <Subject>how to remove dotted border around links in Firefox , please explain in simple English step by step?</Subject>
+    <Content>How to remove dotted border around links in Firefox, please explain in simple English step by step , and i don&#039;t even know what CSS means , so please explain that too because i am sure it has something to do with it after i searched in Google , the dotted borders started to show recently and never before :(
+</Content>
+    <Date>2010-03-17 09:13:13</Date>
+    <Timestamp>1268842393</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317091313AAxVqKM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3Ree6EW7aa</UserId>
+    <UserNick>Maher H</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Don&#039;t worry, you don&#039;t need to really learn CSS to fix it. CSS stands for &quot;Cascading Style Sheets&quot; - they are used in web design. Just follow these steps to correct your problem:
+
+1. Open My Computer; navigate to this file: C:\Program Files\Mozilla Firefox\res\ua.css
+2. Open the file (in Wordpad).
+3. Press Ctrl-F. In the Find window, enter: moz-any-link:focus
+4. You should see the following:
+
+*|*:-moz-any-link:focus {
+  /* Don&#039;t specify the outline-color, we should always use initial value. */
+  outline: 1px dotted;
+}
+
+5. Where it says &quot;outline: 1px dotted;&quot;, replace the text with &quot;outline: none;&quot;. Now it will say
+
+*|*:-moz-any-link:focus {
+  /* Don&#039;t specify the outline-color, we should always use initial value. */
+  outline: none;
+}
+
+6. Close Firefox if it is open. Save the changes.
+7. You&#039;re done! Problem should be resolved when you re-launch Firefox.
+
+Good luck!</ChosenAnswer>
+    <ChosenAnswererId>FPpj2cuGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Heather</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268843214</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270075580</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Don&#039;t worry, you don&#039;t need to really learn CSS to fix it. CSS stands for &quot;Cascading Style Sheets&quot; - they are used in web design. Just follow these steps to correct your problem:
+
+1. Open My Computer; navigate to this file: C:\Program Files\Mozilla Firefox\res\ua.css
+2. Open the file (in Wordpad).
+3. Press Ctrl-F. In the Find window, enter: moz-any-link:focus
+4. You should see the following:
+
+*|*:-moz-any-link:focus {
+  /* Don&#039;t specify the outline-color, we should always use initial value. */
+  outline: 1px dotted;
+}
+
+5. Where it says &quot;outline: 1px dotted;&quot;, replace the text with &quot;outline: none;&quot;. Now it will say
+
+*|*:-moz-any-link:focus {
+  /* Don&#039;t specify the outline-color, we should always use initial value. */
+  outline: none;
+}
+
+6. Close Firefox if it is open. Save the changes.
+7. You&#039;re done! Problem should be resolved when you re-launch Firefox.
+
+Good luck!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FPpj2cuGaa</UserId>
+            <UserNick>Heather</UserNick>
+            <Date>2010-03-17 09:26:54</Date>
+            <Timestamp>1268843214</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:46 PDT 2010 -->

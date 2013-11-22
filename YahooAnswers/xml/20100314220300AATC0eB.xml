@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314220300AATC0eB" type="Answered">
+    <Subject>Paying the eBay Insertion Fee?</Subject>
+    <Content>If I don&#039;t sell my item, do I still have to pay the insertion fee?
+</Content>
+    <Date>2010-03-14 22:03:00</Date>
+    <Timestamp>1268629380</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314220300AATC0eB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wUjZer0paa</UserId>
+    <UserNick>Nikki</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yesss unfortunately but they have a list 5 free per 30 days thingg. check it out.</ChosenAnswer>
+    <ChosenAnswererId>jOe8FQGyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sarah</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268629533</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269148962</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-14 22:03:46</Date>
+            <Timestamp>1268629426</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yesss unfortunately but they have a list 5 free per 30 days thingg. check it out.</Content>
+            <Reference>http://pages.ebay.com/sell/June2009/List5Free/index.html</Reference>
+            <Best>5</Best>
+            <UserId>jOe8FQGyaa</UserId>
+            <UserNick>Sarah</UserNick>
+            <Date>2010-03-14 22:05:33</Date>
+            <Timestamp>1268629533</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:55:59 PDT 2010 -->

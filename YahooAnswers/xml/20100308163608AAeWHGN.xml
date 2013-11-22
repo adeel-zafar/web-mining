@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308163608AAeWHGN" type="Answered">
+    <Subject>How do you PERMANENTLY delete your IE Address Bar?</Subject>
+    <Content>Okay, so it&#039;s getting really full and I want to delete it!
+
+I can delete my address bar history, but when whenever I look at the past websites I&#039;ve visited by pressing on the arrow, they all show up, so OBVIOUSLY something hasn&#039;t been deleted and I don&#039;t know how to delete it!!!!
+
+Anyways, I hope you can help ;) Btw, don&#039;t say to just delete my browsing history because it DOES NOT work ... Remember, I&#039;m using IE
+
+Thanks!! :P
+</Content>
+    <Date>2010-03-08 16:36:08</Date>
+    <Timestamp>1268094968</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308163608AAeWHGN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vFY3eJ0faa</UserId>
+    <UserNick>Joεy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1dR6ednGXAAEDKcE_KBNxGUMB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it really depends on your version of ie. Remember clearing browser history isnt the only side. You also need to clear cache/cookies.
+
+How to manually delete cookie files in Internet Explorer 8
+
+   1. Exit Internet Explorer 8, and then exit any instances of Windows Explorer.
+   2. Do one of the following:
+          * In Windows Vista, click Start
+            Collapse this imageExpand this image
+            Start button
+            , type inetcpl.cpl in the Start Search box, and then press ENTER
+          * In Windows XP, click Start, click Run, type inetcpl.cpl in the Open box, and then press ENTER.
+   3. On the General tab, click Delete under Browsing History in the Internet Properties dialog box.
+   4. In the Delete Browsing History dialog box, click to clear all of the check boxes except for the Cookies check box.
+   5. Click Delete.</ChosenAnswer>
+    <ChosenAnswererId>q65wIv8uaa</ChosenAnswererId>
+    <ChosenAnswererNick>William K</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268095253</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268175707</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it really depends on your version of ie. Remember clearing browser history isnt the only side. You also need to clear cache/cookies.
+
+How to manually delete cookie files in Internet Explorer 8
+
+   1. Exit Internet Explorer 8, and then exit any instances of Windows Explorer.
+   2. Do one of the following:
+          * In Windows Vista, click Start
+            Collapse this imageExpand this image
+            Start button
+            , type inetcpl.cpl in the Start Search box, and then press ENTER
+          * In Windows XP, click Start, click Run, type inetcpl.cpl in the Open box, and then press ENTER.
+   3. On the General tab, click Delete under Browsing History in the Internet Properties dialog box.
+   4. In the Delete Browsing History dialog box, click to clear all of the check boxes except for the Cookies check box.
+   5. Click Delete.</Content>
+            <Reference>Common Sense
+http://support.microsoft.com/kb/278835</Reference>
+            <Best>1</Best>
+            <UserId>q65wIv8uaa</UserId>
+            <UserNick>William K</UserNick>
+            <Date>2010-03-08 16:40:53</Date>
+            <Timestamp>1268095253</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try a free program called &quot;CCleaner&quot; that works on IE &amp; firefox and does all the job like, emptying the recycle bin, cleaning temporary internet files which clogs everytime you use your browser to surf the internet, and some other features. its small and compact and very very handy.</Content>
+            <Reference>http://www.ccleaner.com/</Reference>
+            <Best></Best>
+            <UserId>xR3GXUh4aa</UserId>
+            <UserNick>bizdock</UserNick>
+            <Date>2010-03-08 16:50:32</Date>
+            <Timestamp>1268095832</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:29:15 PDT 2010 -->

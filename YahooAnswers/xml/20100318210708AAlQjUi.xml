@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318210708AAlQjUi" type="Answered">
+    <Subject>Who&#039;s familiar with pidgin application here?</Subject>
+    <Content>I have a chatmate and he told me that he is not aware whenever I am online until I start chatting him because he is using pidgin. Is it true?
+</Content>
+    <Date>2010-03-18 21:07:08</Date>
+    <Timestamp>1268971628</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318210708AAlQjUi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Vi75LaVyaa</UserId>
+    <UserNick>yew_fadgott</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Duh. Pidgin also has OTR-enabled chats. So your chats with him probably don&#039;t get saved.</ChosenAnswer>
+    <ChosenAnswererId>4uTsosRvaa</ChosenAnswererId>
+    <ChosenAnswererNick>HelterSkelter10124</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268971738</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269146580</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Duh. Pidgin also has OTR-enabled chats. So your chats with him probably don&#039;t get saved.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>4uTsosRvaa</UserId>
+            <UserNick>HelterSkelter10124</UserNick>
+            <Date>2010-03-18 21:08:58</Date>
+            <Timestamp>1268971738</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:37:25 PDT 2010 -->

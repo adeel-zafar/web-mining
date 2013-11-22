@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302183835AAYIEH6" type="Answered">
+    <Subject>are there any netbook plans out there with no &quot;limited usage&quot;. an unlimited wifi or 3G plan.?</Subject>
+    <Content>thanks...
+</Content>
+    <Date>2010-03-02 18:38:35</Date>
+    <Timestamp>1267583915</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302183835AAYIEH6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TIdi72iDaa</UserId>
+    <UserNick>Dylan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>there&#039;s no such thing as a subscription to Wi-Fi. Wi-Fi networks are private- you can set one up in your house- and any computer with a wi-fi card can connect to it. All the 3G (cell phone connection) plans come with a 5GB limit. AT&amp;T happens to operate several thousand wi-fi hotspots in coffee shops, bookstores, and airports around the country and if you have an AT&amp;T broadband connect card, they give you unlimited access to all of their hotspots.</ChosenAnswer>
+    <ChosenAnswererId>SuyAG7MCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ben</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267584139</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268103288</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>there&#039;s no such thing as a subscription to Wi-Fi. Wi-Fi networks are private- you can set one up in your house- and any computer with a wi-fi card can connect to it. All the 3G (cell phone connection) plans come with a 5GB limit. AT&amp;T happens to operate several thousand wi-fi hotspots in coffee shops, bookstores, and airports around the country and if you have an AT&amp;T broadband connect card, they give you unlimited access to all of their hotspots.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>SuyAG7MCaa</UserId>
+            <UserNick>Ben</UserNick>
+            <Date>2010-03-02 18:42:19</Date>
+            <Timestamp>1267584139</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:03 PDT 2010 -->

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327050651AAiqlPZ" type="Answered">
+    <Subject>What is the best INTERNET service?</Subject>
+    <Content>Me and my fiance are looking for a good kind of internet to buy when we move out. We absolutely do not want dial up!!! What are our options??? and for tv.. can you give prices as well?? we live in VA
+</Content>
+    <Date>2010-03-27 05:06:51</Date>
+    <Timestamp>1269691611</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327050651AAiqlPZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ITYHaZ97aa</UserId>
+    <UserNick>Shana</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Depending on where you live, you have several options.
+A Cable provider: Cox, Comcast, or similar
+A Fiber provider: Verizon.
+And Satellite: Dish, or DirecTV had satellite internet options, (don&#039;t know if they still do)
+
+I use Verizon FIOS in Fairfax.  Speeds 15 down/ 5 up, spending $50/month.
+Prices change all the time, so can&#039;t tell you about the other services.
+Always look for startup promotions.</ChosenAnswer>
+    <ChosenAnswererId>WBQ3RtVCaa</ChosenAnswererId>
+    <ChosenAnswererNick>National Park</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269692430</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269778707</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Depending on where you live, you have several options.
+A Cable provider: Cox, Comcast, or similar
+A Fiber provider: Verizon.
+And Satellite: Dish, or DirecTV had satellite internet options, (don&#039;t know if they still do)
+
+I use Verizon FIOS in Fairfax.  Speeds 15 down/ 5 up, spending $50/month.
+Prices change all the time, so can&#039;t tell you about the other services.
+Always look for startup promotions.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>WBQ3RtVCaa</UserId>
+            <UserNick>National Park</UserNick>
+            <Date>2010-03-27 05:20:30</Date>
+            <Timestamp>1269692430</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:29 PDT 2010 -->

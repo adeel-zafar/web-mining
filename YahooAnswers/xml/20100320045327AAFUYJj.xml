@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320045327AAFUYJj" type="Answered">
+    <Subject>Internet pages load intermittently?</Subject>
+    <Content>I have a problem loading pages on my computer, it doesn&#039;t matter what browser i use  they all do the same  the pages load sometimes, sometimes they only load showing half the text and no pictures, just the red cross appears where the pictures should be, have done all the deleting that should be done, but still its the same, the computer in question is running windows xp, have another computer and a laptop and they both work fine, anyone with any ideas would be appreciated
+</Content>
+    <Date>2010-03-20 04:53:27</Date>
+    <Timestamp>1269086007</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320045327AAFUYJj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>c159e142d442199b9157954c3e3faeb8aa</UserId>
+    <UserNick>DAVID R</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>download aa program called cc cleaner and run a scan on all your programs to delete all your cache and cookies Etc, the run a scan on your registry with cc cleaner to see if that helps.
+
+then download the free version of malware anti bytes from  http://www.malwarebytes.org/
+
+you might have to copy and paste            http://www.malwarebytes.org/           into the address bar, download the free version of that and run it also.
+
+after the computer restarts, if you still can not get it working better, maybe it is a problem with your internet connection, maybe your router - it might just be a very slow connection - try running a ping test.
+
+go to your start bar and find Run, type in cmd and press enter
+
+
+then in the black box type in ping www.google.com - this will tell you how fast your connection is basically.
+
+at the bottom it will minimum = xxx and maximum = xxx and average = xxx
+
+if your average is over 100ms then you will have quite a slow internet connection, if it is really high like 250ms then you would suffer from Images not loading.
+
+if you have a normal speed like 10ms or something then i dont know what to suggest</ChosenAnswer>
+    <ChosenAnswererId>xgfkZYPkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Daniel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269114724</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269605578</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You could try resetting IE, if thats what u use.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SsOMJCD8aa</UserId>
+            <UserNick>Allen R</UserNick>
+            <Date>2010-03-20 05:34:49</Date>
+            <Timestamp>1269088489</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>download aa program called cc cleaner and run a scan on all your programs to delete all your cache and cookies Etc, the run a scan on your registry with cc cleaner to see if that helps.
+
+then download the free version of malware anti bytes from  http://www.malwarebytes.org/
+
+you might have to copy and paste            http://www.malwarebytes.org/           into the address bar, download the free version of that and run it also.
+
+after the computer restarts, if you still can not get it working better, maybe it is a problem with your internet connection, maybe your router - it might just be a very slow connection - try running a ping test.
+
+go to your start bar and find Run, type in cmd and press enter
+
+
+then in the black box type in ping www.google.com - this will tell you how fast your connection is basically.
+
+at the bottom it will minimum = xxx and maximum = xxx and average = xxx
+
+if your average is over 100ms then you will have quite a slow internet connection, if it is really high like 250ms then you would suffer from Images not loading.
+
+if you have a normal speed like 10ms or something then i dont know what to suggest</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xgfkZYPkaa</UserId>
+            <UserNick>Daniel</UserNick>
+            <Date>2010-03-20 12:52:04</Date>
+            <Timestamp>1269114724</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:32:20 PDT 2010 -->

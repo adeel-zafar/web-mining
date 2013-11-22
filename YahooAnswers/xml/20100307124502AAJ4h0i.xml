@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307124502AAJ4h0i" type="Answered">
+    <Subject>Nintendo DSi connecting to the internet help?</Subject>
+    <Content>Ok. I have a DSi, also a router, but when i go to settings, then internet, then connection settings, then click on none next to connection 1, then search for access point, and when i do that, my router name (which is shelly) pops up but it has a gray lock. How do you turn that gray lock into gold? Thanks!!!! :)
+I clicked on change to WEP but now it wants a security key! :(
+</Content>
+    <Date>2010-03-07 12:45:02</Date>
+    <Timestamp>1267994702</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307124502AAJ4h0i</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DserA6d5aa</UserId>
+    <UserNick>♥Rach101♥</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1qHMwboslAAEBoCOcRBe8cxwzaJ0F.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your settings on you router are probably WPA, which means high-security lock, but DS&#039;s can only connect to weaker security routers, a good medium DS working security level is WEP, I advise you to change it to that.</ChosenAnswer>
+    <ChosenAnswererId>XUzllGZaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kaotic Kid</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267994883</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268577228</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your settings on you router are probably WPA, which means high-security lock, but DS&#039;s can only connect to weaker security routers, a good medium DS working security level is WEP, I advise you to change it to that.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XUzllGZaaa</UserId>
+            <UserNick>Kaotic Kid</UserNick>
+            <Date>2010-03-07 12:48:03</Date>
+            <Timestamp>1267994883</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:38:32 PDT 2010 -->

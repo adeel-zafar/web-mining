@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226141058AAve4pl" type="Answered">
+    <Subject>HOW TO GET SOMEONES EMAIL ADDRESS WITH THERE NAME?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-26 14:10:58</Date>
+    <Timestamp>1267222258</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226141058AAve4pl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>l3bZEcGcaa</UserId>
+    <UserNick>Clint</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try searching Google with their name, sometimes you can find it that way. there&#039;s also sites you can pay for that can give it to you with their name.</ChosenAnswer>
+    <ChosenAnswererId>7uLbck8raa</ChosenAnswererId>
+    <ChosenAnswererNick>Matt H.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267530511</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267741562</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try searching Google with their name, sometimes you can find it that way. there&#039;s also sites you can pay for that can give it to you with their name.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7uLbck8raa</UserId>
+            <UserNick>Matt H.</UserNick>
+            <Date>2010-03-02 03:48:31</Date>
+            <Timestamp>1267530511</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:49:55 PDT 2010 -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223181601AA4Fry9" type="Answered">
+    <Subject>What is the code for star reporter in Club Penguin?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-23 18:16:01</Date>
+    <Timestamp>1266977761</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223181601AA4Fry9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GBOxRqXEaa</UserId>
+    <UserNick>Julia</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1IUIClQ3QAAECQAE_rJioFcpIMQ==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Visit this site:
+
+http://thecptimes.info/bookcodes.aspx</ChosenAnswer>
+    <ChosenAnswererId>VkRLaQicaa</ChosenAnswererId>
+    <ChosenAnswererNick>Timeless</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266994540</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267497335</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Visit this site:
+
+http://thecptimes.info/bookcodes.aspx</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>VkRLaQicaa</UserId>
+            <UserNick>Brad</UserNick>
+            <Date>2010-02-23 22:55:40</Date>
+            <Timestamp>1266994540</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:26 PDT 2010 -->

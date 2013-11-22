@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225151344AABtvkO" type="Answered">
+    <Subject>why is lockerz today on members appreciation day being so slow on my computer?</Subject>
+    <Content>It takes forevar!
+</Content>
+    <Date>2010-02-25 15:13:44</Date>
+    <Timestamp>1267139624</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225151344AABtvkO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9gcaYN6Aaa</UserId>
+    <UserNick>Michael</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It is slow as hell...
+It&#039;s taking me around 1 minute to open the main site and that too with flaws....</ChosenAnswer>
+    <ChosenAnswererId>3jClWhHTaa</ChosenAnswererId>
+    <ChosenAnswererNick>Varun</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267150309</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267187339</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>mine doesn&#039;t even work</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Gt13EOqtaa</UserId>
+            <UserNick>Justin</UserNick>
+            <Date>2010-02-25 15:19:07</Date>
+            <Timestamp>1267139947</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It is slow as hell...
+It&#039;s taking me around 1 minute to open the main site and that too with flaws....</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>3jClWhHTaa</UserId>
+            <UserNick>Varun</UserNick>
+            <Date>2010-02-25 18:11:49</Date>
+            <Timestamp>1267150309</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:28 PDT 2010 -->

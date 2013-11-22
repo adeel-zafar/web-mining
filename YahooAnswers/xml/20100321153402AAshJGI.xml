@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321153402AAshJGI" type="Answered">
+    <Subject>Accidentally turned off tabbed browsing..how to turn it back on?</Subject>
+    <Content>I have internet explorer 6 and I had tabbed browsing via the yahoo toolbar and I accidentally turned it off, there is not little pencil where I can turn it back on and internet explorer 6 doesn&#039;t have tabs under tools&gt;internet options.
+I need help.
+</Content>
+    <Date>2010-03-21 15:34:02</Date>
+    <Timestamp>1269210842</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321153402AAshJGI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tFJ1mb1haa</UserId>
+    <UserNick>Daly♥</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1b0_ybMLiAAECVIJwhJOLggz_Ig==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No idea. You should use Firefox. It&#039;s safer, faster, and you can customize up where the tabs and address bar thing is. Ya know, the region up there ^. Mine is Bob Marley :) lol</ChosenAnswer>
+    <ChosenAnswererId>MbYDhXlhaa</ChosenAnswererId>
+    <ChosenAnswererNick>I lust you, d00d&lt;3</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269210960</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269263051</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No idea. You should use Firefox. It&#039;s safer, faster, and you can customize up where the tabs and address bar thing is. Ya know, the region up there ^. Mine is Bob Marley :) lol</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>MbYDhXlhaa</UserId>
+            <UserNick>I lust you, d00d&lt;3</UserNick>
+            <Date>2010-03-21 15:36:00</Date>
+            <Timestamp>1269210960</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>tools - internet options - general tab, click on settings under tabs and tick enable tab browsing</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xAJ5IoRzaa</UserId>
+            <UserNick>Michael</UserNick>
+            <Date>2010-03-21 15:37:41</Date>
+            <Timestamp>1269211061</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:26:14 PDT 2010 -->

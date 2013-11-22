@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227231903AA7Z7Hy" type="Answered">
+    <Subject>Download avi from mediafire but after download it&#039;s in txt format?</Subject>
+    <Content>I know there is some catch to this...please help
+there&#039;s many parts to this video
+</Content>
+    <Date>2010-02-27 23:19:03</Date>
+    <Timestamp>1267341543</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227231903AA7Z7Hy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KnCF0V3iaa</UserId>
+    <UserNick>funkymonkynancy</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1W5YLeuJ9AAIB9AGKbTJTpsqGHQ==.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Rename it to .avi</ChosenAnswer>
+    <ChosenAnswererId>778BNfYRaa</ChosenAnswererId>
+    <ChosenAnswererNick>FrostyWinnipeg</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267341682</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267383524</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Rename it to .avi</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>778BNfYRaa</UserId>
+            <UserNick>FrostyWinnipeg</UserNick>
+            <Date>2010-02-27 23:21:22</Date>
+            <Timestamp>1267341682</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>check for a media converter. you&#039;d be surprised at what I found can be converted into another format and still work.
+
+Or what that guy above said.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HxWe29QOaa</UserId>
+            <UserNick>Logan</UserNick>
+            <Date>2010-02-27 23:22:31</Date>
+            <Timestamp>1267341751</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What size is the file you have downloaded?
+
+Try renaming it and putting .avi at the end of the file name</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3qm5LYyYaa</UserId>
+            <UserNick>Matthew T</UserNick>
+            <Date>2010-02-27 23:22:47</Date>
+            <Timestamp>1267341767</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>thats because your stealing files and they have put a dummy file up so you can get infected with viruses
+
+its been happening all over of late</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JuJTnZSDaa</UserId>
+            <UserNick>Dennis PC Repairs</UserNick>
+            <Date>2010-02-27 23:33:57</Date>
+            <Timestamp>1267342437</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:40:34 PDT 2010 -->

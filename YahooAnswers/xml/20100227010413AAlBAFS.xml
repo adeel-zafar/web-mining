@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227010413AAlBAFS" type="Answered">
+    <Subject>WHY DOES CHATROULETTE FREEZE WHEN YOU CHAT?</Subject>
+    <Content>i&#039;ve talked to so many awesome people and hate it because my computer freezes every time i chat longer than 10 minutes. why is this?? i have a brand new hp laptop with windows 7.
+</Content>
+    <Date>2010-02-27 01:04:13</Date>
+    <Timestamp>1267261453</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227010413AAlBAFS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ydQk4QA5aa</UserId>
+    <UserNick>jackie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It is your internet, it cannot sustain a chat/cam with a foreign server for over 10 mins. This is probably due to speed, location, quota or even your firewall.
+
+Most of these can be fixed easily. Some cant though
+
+
+Vote me Best answer (L)</ChosenAnswer>
+    <ChosenAnswererId>mUFqNoUiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mineeman</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267261607</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267781001</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It is your internet, it cannot sustain a chat/cam with a foreign server for over 10 mins. This is probably due to speed, location, quota or even your firewall.
+
+Most of these can be fixed easily. Some cant though
+
+
+Vote me Best answer (L)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mUFqNoUiaa</UserId>
+            <UserNick>Mineeman</UserNick>
+            <Date>2010-02-27 01:06:47</Date>
+            <Timestamp>1267261607</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Are you sure it&#039;s your computer, as it may be the chatroulette server crashing. Also what browser are you using? Try switching to firefox or chrome as there may be a memory leak in the browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Mo2iiZYDaa</UserId>
+            <UserNick>Jeremiah164</UserNick>
+            <Date>2010-02-27 01:08:30</Date>
+            <Timestamp>1267261710</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>OMG i have the same problem too and i have a new hp laptop and windows 7 also! it&#039;s so frustrating o_o</Content>
+            <Reference>experience</Reference>
+            <Best></Best>
+            <UserId>7RY0vJp8aa</UserId>
+            <UserNick>Sadie</UserNick>
+            <Date>2010-02-27 03:48:59</Date>
+            <Timestamp>1267271339</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i don&#039;t know, i got an hp laptop too (windows 7) and it freezes all the time, and it takes forever to get a new partner.
+this happen all the time. I already download google chrome but it&#039;s the same thing. try disabling your firewall maybe it would work. good luck</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>sK9yTuEtaa</UserId>
+            <UserNick>fernando f</UserNick>
+            <Date>2010-02-27 18:20:50</Date>
+            <Timestamp>1267323650</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:46:25 PDT 2010 -->

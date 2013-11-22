@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319135111AAvGSvq" type="Answered">
+    <Subject>Transfer Firefox bookmarks to another computer (possibly through Flash Drive...?)?</Subject>
+    <Content>How do i move firefox bookmarks to a different computer?
+i have a couple of flash drives that i can easily put IE bookmarks on to, but firefox?
+Step by Step instructions please!
+</Content>
+    <Date>2010-03-19 13:51:11</Date>
+    <Timestamp>1269031871</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319135111AAvGSvq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CNjnVYEEaa</UserId>
+    <UserNick>mid_blu_roze</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a5e1891i7dbzul8sp1/03TRE_M8cqKHNp8OSH3G5zJaTa4-/3/tn48.png?ciAAToMBVDBzziwQ</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>open Firefox and go to bookmarks file menu &gt;&gt; organize bookmarks &gt;&gt; import and backup 
+
+u can easily create backup for your bookmarks at any location on your disk.</ChosenAnswer>
+    <ChosenAnswererId>4twfkAjCaa</ChosenAnswererId>
+    <ChosenAnswererNick>harpreet S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269032231</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269047564</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://support.mozilla.com/tiki-view_forum_thread.php?forumId=1&amp;comments_parentId=2046</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ylyDSpb7aa</UserId>
+            <UserNick>Sexy Scottish Kool Aid Man</UserNick>
+            <Date>2010-03-19 13:55:26</Date>
+            <Timestamp>1269032126</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>open Firefox and go to bookmarks file menu &gt;&gt; organize bookmarks &gt;&gt; import and backup 
+
+u can easily create backup for your bookmarks at any location on your disk.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>4twfkAjCaa</UserId>
+            <UserNick>harpreet S</UserNick>
+            <Date>2010-03-19 13:57:11</Date>
+            <Timestamp>1269032231</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you install the free tool here: http://www.xmarks.com/ then it will keep your bookmarks synchronized among all your computers, irregardless if you&#039;re running IE, Firefox, Chrome, or Safari, Mac or Windows.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qiUrtMdqaa</UserId>
+            <UserNick>Toby</UserNick>
+            <Date>2010-03-19 14:00:35</Date>
+            <Timestamp>1269032435</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:35:04 PDT 2010 -->

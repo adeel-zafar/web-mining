@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309063618AAJFdKh" type="Answered">
+    <Subject>What does this mean in Twitter?</Subject>
+    <Content>I know this : &#039; @ &#039; is to mention someone for a reply...but what does this means : # ]
+like ppl tweets like this (for example): It takes charlie to tango. #modernproverbs
+, #raiseyourhandif u r not there ;D,
+
+ what does this # sign means ?
+but these tags...where do they come from there are no users of that # names ?
+</Content>
+    <Date>2010-03-09 06:36:18</Date>
+    <Timestamp>1268145378</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309063618AAJFdKh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6VztxPe1aa</UserId>
+    <UserNick>shining*star</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UDyh8drKAAACvkOcaCLO5LNc2f3ThQA=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Its also called hashtags, when you include &quot;#&quot; in your tweet it becomes a keyword, now anyone who searches this word all the tweets will be listed which have that word with a #
+
+Its a way of improved tagging, grouping in twitter
+
+http://twitter.pbworks.com/Hashtags</ChosenAnswer>
+    <ChosenAnswererId>OXzlezk9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Saurav</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268806117</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269006809</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Click on anything that has the # before it - it&#039;s called a hash tag.  By clicking on one of those tagged keywords, it will show every other post on Twitter that has the same tag included.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>d0nv49tHaa</UserId>
+            <UserNick>kl</UserNick>
+            <Date>2010-03-09 06:39:18</Date>
+            <Timestamp>1268145558</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Its also called hashtags, when you include &quot;#&quot; in your tweet it becomes a keyword, now anyone who searches this word all the tweets will be listed which have that word with a #
+
+Its a way of improved tagging, grouping in twitter
+
+http://twitter.pbworks.com/Hashtags</Content>
+            <Reference>saurav</Reference>
+            <Best>5</Best>
+            <UserId>OXzlezk9aa</UserId>
+            <UserNick>Saurav</UserNick>
+            <Date>2010-03-16 23:08:37</Date>
+            <Timestamp>1268806117</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:26:07 PDT 2010 -->

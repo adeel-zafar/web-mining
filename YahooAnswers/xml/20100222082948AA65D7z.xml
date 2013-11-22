@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222082948AA65D7z" type="Answered">
+    <Subject>I want to get onto to the free version of Spotify but it keeps asking for an invite token. Can anyone help?</Subject>
+    <Content>People have said that you can just register for Free Spotify without an invite but I have tried this and it seems to have blocked this option. Any ideas, I would be very grateful. Thanks :)
+</Content>
+    <Date>2010-02-22 08:29:48</Date>
+    <Timestamp>1266856188</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222082948AA65D7z</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>OXOpY13Zaa</UserId>
+    <UserNick>errand boy</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi
+Spotify doesn&#039;t work in my country...
+Have found http://www.tv243.com a great alternative for Music</ChosenAnswer>
+    <ChosenAnswererId>ugFRu9pOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tiago</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266931055</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267040453</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hi
+Spotify doesn&#039;t work in my country...
+Have found http://www.tv243.com a great alternative for Music</Content>
+            <Reference>http://www.tv243.com</Reference>
+            <Best>3</Best>
+            <UserId>ugFRu9pOaa</UserId>
+            <UserNick>Tiago</UserNick>
+            <Date>2010-02-23 05:17:35</Date>
+            <Timestamp>1266931055</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:28:40 PDT 2010 -->

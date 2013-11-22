@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317100314AA0ami1" type="Answered">
+    <Subject>ebay question: how can i find out if a seller changed the listing right before the auction ended?</Subject>
+    <Content>i bid on an item that i couldve sworn was listed with &#039;free shipping&#039;. the auction ended and now there is a 4 dollar shipping fee (double what the item wouldve required, BTW). how can i find out if they changed it right at the end?
+</Content>
+    <Date>2010-03-17 10:03:14</Date>
+    <Timestamp>1268845394</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317100314AA0ami1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Vv6ox6sCaa</UserId>
+    <UserNick>No One</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>note that you cannot change an auction unless its 12 hours or more before the auction ends. So it had to be before that.
+
+Check and see if this person has other similar items for sale and check feedback. In this day and age, feedback under 98% is bad.</ChosenAnswer>
+    <ChosenAnswererId>gFaG9TOZaa</ChosenAnswererId>
+    <ChosenAnswererNick>SanDiegoMomOF2</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268847594</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269028725</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>note that you cannot change an auction unless its 12 hours or more before the auction ends. So it had to be before that.
+
+Check and see if this person has other similar items for sale and check feedback. In this day and age, feedback under 98% is bad.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>gFaG9TOZaa</UserId>
+            <UserNick>SanDiegoMomOF2</UserNick>
+            <Date>2010-03-17 10:39:54</Date>
+            <Timestamp>1268847594</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:40 PDT 2010 -->

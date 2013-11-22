@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330151942AAOKJ2b" type="Answered">
+    <Subject>Other than itunes, where can i buy something for €1 online?</Subject>
+    <Content>I have a 3v card with €1.18 left on it. Itunes won&#039;t accept it for some reason, i bought things from itunes with it before.
+Any ideas? It would have to be free delivery (Ireland) or download
+</Content>
+    <Date>2010-03-30 15:19:42</Date>
+    <Timestamp>1269987582</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330151942AAOKJ2b</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HNfxDq24aa</UserId>
+    <UserNick>Axl Is Jesus, Who Knew</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb271b5i10fdzws128ac4/O_m.QTE2crILewv_w1o-/4/tn48.jpeg?ciAAToMBXkDypuI5</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to http://voucherboy.com and get more iTunes gift cards for free. Use them to use your other 1.18 euro</ChosenAnswer>
+    <ChosenAnswererId>LoqB9pN0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Sena</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270047844</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270219753</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Amazon</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>R51HeZAdaa</UserId>
+            <UserNick>Tell</UserNick>
+            <Date>2010-03-31 04:09:37</Date>
+            <Timestamp>1270033777</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to http://voucherboy.com and get more iTunes gift cards for free. Use them to use your other 1.18 euro</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>LoqB9pN0aa</UserId>
+            <UserNick>Sena</UserNick>
+            <Date>2010-03-31 08:04:04</Date>
+            <Timestamp>1270047844</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:53 PDT 2010 -->

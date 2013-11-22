@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402113033AAEj6pB" type="Answered">
+    <Subject>What website is best for making a play list?</Subject>
+    <Content>No downloads, it has to be free and available in the UK.
+Tried playlist.com and it&#039;s not available in the UK.
+</Content>
+    <Date>2010-04-02 11:30:33</Date>
+    <Timestamp>1270233033</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402113033AAEj6pB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GPm88dxQaa</UserId>
+    <UserNick>Taralils =]</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/15TJ3HHksAAEBf4OcXDwMKl8B.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>well the one that i use is called grooveshark and you dont need to download anything at all its really good and you can look up any song you want on it but you need to make an acount that takes like two seconds so yeah go and take a look</ChosenAnswer>
+    <ChosenAnswererId>Rljjxcaaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Amy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270233230</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270281725</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try playlist.com! It&#039;s really easy, and pretty fun.</Content>
+            <Reference>http://www.playlist.com</Reference>
+            <Best></Best>
+            <UserId>73551d0e5ca644ea0453a21d28b70194aa</UserId>
+            <UserNick>Autumn</UserNick>
+            <Date>2010-04-02 11:32:32</Date>
+            <Timestamp>1270233152</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>playlist.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nBZS0guhaa</UserId>
+            <UserNick>yuppers :D</UserNick>
+            <Date>2010-04-02 11:32:43</Date>
+            <Timestamp>1270233163</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>either pandora,playlist.com,or itunes. 
+hope it helps; good luck. :)</Content>
+            <Reference>www.pandora.com
+www.playlist.com
+www.apple.com</Reference>
+            <Best></Best>
+            <UserId>OcZYA7p1aa</UserId>
+            <UserNick>Rachel</UserNick>
+            <Date>2010-04-02 11:33:12</Date>
+            <Timestamp>1270233192</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>well the one that i use is called grooveshark and you dont need to download anything at all its really good and you can look up any song you want on it but you need to make an acount that takes like two seconds so yeah go and take a look</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>Rljjxcaaaa</UserId>
+            <UserNick>Vampire Demon</UserNick>
+            <Date>2010-04-02 11:33:50</Date>
+            <Timestamp>1270233230</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:17 PDT 2010 -->

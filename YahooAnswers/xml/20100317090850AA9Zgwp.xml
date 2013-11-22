@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317090850AA9Zgwp" type="Answered">
+    <Subject>Why my status bar most of the time say &quot; Done, but with errors on page&quot;?</Subject>
+    <Content>the status bar that is in my internet explorer page down under thats say&#039;s &quot; done but with errors&quot; and there is yellow sign with it. How can I fix it because sometimes I cant for example click back botton and it responds, so what should I do?
+
+
+Thank u very very much
+ P.S I always delete my history and cookies when I see it but it doesnt work
+</Content>
+    <Date>2010-03-17 09:08:50</Date>
+    <Timestamp>1268842130</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317090850AA9Zgwp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7mRwtSTPaa</UserId>
+    <UserNick>.....</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1_yKICZQVAAEBVIJTiBPpQmU_OA==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sometimes sites take more time to load, or internet connection bandwidth is less. So, try to reload the page.</ChosenAnswer>
+    <ChosenAnswererId>CmfdEkXfaa</ChosenAnswererId>
+    <ChosenAnswererNick>Vishu</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268842464</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268863206</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it doesnt really mean anything, theyre minor errors in the background that dont effect much, its typically minor coding errors, or a ad timed out because of lag or something</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>W14NN1nKaa</UserId>
+            <UserNick>DeinMutter</UserNick>
+            <Date>2010-03-17 09:10:28</Date>
+            <Timestamp>1268842228</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sometimes sites take more time to load, or internet connection bandwidth is less. So, try to reload the page.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>CmfdEkXfaa</UserId>
+            <UserNick>Vishu</UserNick>
+            <Date>2010-03-17 09:14:24</Date>
+            <Timestamp>1268842464</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:48 PDT 2010 -->

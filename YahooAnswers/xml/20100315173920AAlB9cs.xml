@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315173920AAlB9cs" type="Answered">
+    <Subject>Why won&#039;t this let me add any contacts?</Subject>
+    <Content>Every time I click to add someone the bar above my task bar says something like: javascript:oRelationships.addfriend(
+
+How does yahoo know I&#039;m a loner? Ahhh!! zero relationships.. hah
+</Content>
+    <Date>2010-03-15 17:39:20</Date>
+    <Timestamp>1268699960</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315173920AAlB9cs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kjnMtgLsaa</UserId>
+    <UserNick>Nonononon</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba17ecbi23aczws131ac4/Baqj4OIieKqwgpAu5cW7bOA-/1/tn48.jpeg?ciAAToMBYvBvPOsx</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Turn JavaScript back on on your browser. 
+
+Internet Explorer:
+http://kb.iu.edu/data/ahqx.html
+
+Firefox/Safari:
+https://www.google.com/adsense/support/bin/answer.py?answer=12654
+
+Chrome:
+http://www.google.com/support/forum/p/Chrome/thread?tid=5e291648113cc731&amp;hl=en</ChosenAnswer>
+    <ChosenAnswererId>EhJrgPqPaa</ChosenAnswererId>
+    <ChosenAnswererNick>Yectep</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268700373</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268864299</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Turn JavaScript back on on your browser. 
+
+Internet Explorer:
+http://kb.iu.edu/data/ahqx.html
+
+Firefox/Safari:
+https://www.google.com/adsense/support/bin/answer.py?answer=12654
+
+Chrome:
+http://www.google.com/support/forum/p/Chrome/thread?tid=5e291648113cc731&amp;hl=en</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EhJrgPqPaa</UserId>
+            <UserNick>Yectep</UserNick>
+            <Date>2010-03-15 17:46:13</Date>
+            <Timestamp>1268700373</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:19 PDT 2010 -->

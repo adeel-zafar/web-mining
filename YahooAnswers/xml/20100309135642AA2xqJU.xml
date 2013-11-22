@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309135642AA2xqJU" type="Answered">
+    <Subject>What is considered to be high speed internet?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-09 13:56:42</Date>
+    <Timestamp>1268171802</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309135642AA2xqJU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>L5tSM14saa</UserId>
+    <UserNick>Steph</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1StnubRUvAAEB2sJlPJNrEl1UmS7EiE5xMBpv.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>7 Mb/s  or faster.</ChosenAnswer>
+    <ChosenAnswererId>b3nitnovaa</ChosenAnswererId>
+    <ChosenAnswererNick>lee26loo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268171941</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268687856</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Broadband - high speed
+
+Dial up - Phukking sucks</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>C4RQGZwVaa</UserId>
+            <UserNick>Harry Ball</UserNick>
+            <Date>2010-03-09 13:57:20</Date>
+            <Timestamp>1268171840</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>7 Mb/s  or faster.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>b3nitnovaa</UserId>
+            <UserNick>lee26loo</UserNick>
+            <Date>2010-03-09 13:59:01</Date>
+            <Timestamp>1268171941</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This depends on your government. 
+
+In United States, for example, a government agency called the Federal Communications Commission (FCC) decides the definition of `broadband`.
+
+Currently, the FCC defines `broadband` at 768Kbps downstream or better.
+
+In Malaysia though, the definition is different. The Malaysian Communications and Multimedia Commission (MCMC) defines broadband as anything faster than voice transmission on ISDN. In other words, faster than 64Kbps downstream.
+
+So for an answer to this question, you&#039;ll need to specify for which country you&#039;re asking about. Or you could just check with your own government.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IbxhRebgaa</UserId>
+            <UserNick>cen</UserNick>
+            <Date>2010-03-09 14:04:34</Date>
+            <Timestamp>1268172274</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Fiber-Optics is the fastest affordable internet in my opinion. It uses light to send information through wires made with glass. The light carries varying amounts of information at varying speeds, depending on your internet company or plan. I&#039;ve gotten 1.2 MB per seconds on large downloads before, which is considerable. I&#039;d say that the fastest internet would be anything over 10 MB per second.</Content>
+            <Reference>I know stuff.</Reference>
+            <Best></Best>
+            <UserId>kgDm9X79aa</UserId>
+            <UserNick>Shaine</UserNick>
+            <Date>2010-03-09 14:25:50</Date>
+            <Timestamp>1268173550</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:24:06 PDT 2010 -->

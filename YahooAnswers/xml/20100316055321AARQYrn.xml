@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316055321AARQYrn" type="Answered">
+    <Subject>browser redirecting me to different site?</Subject>
+    <Content>every time i try to search
+</Content>
+    <Date>2010-03-16 05:53:21</Date>
+    <Timestamp>1268744001</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316055321AARQYrn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JUX6Rew7aa</UserId>
+    <UserNick>osbornevicky</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If your web browser is redirecting you to a different site, most likely it&#039;s caused by some sort of Spyware, Malware, etc. Scan your computer, if nothing is detected try uninstalling &amp; reinstalling your browser.Check your firewall settings &amp; spam filter settings.</ChosenAnswer>
+    <ChosenAnswererId>RTWVATDiaa</ChosenAnswererId>
+    <ChosenAnswererNick>BillyBob247</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268744703</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269263631</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Browsers just read a webpage and display it for you. They in themselves don&#039;t re-direct. If you&#039;re being re-directed it will be because the website you are visiting is telling your browser to re-direct you. I can&#039;t tell you anything more than that without you giving more details as to what site this is happening on and where you&#039;re being re-directed to.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DOwIbRaDaa</UserId>
+            <UserNick>Dr. TJ</UserNick>
+            <Date>2010-03-16 05:56:19</Date>
+            <Timestamp>1268744179</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your web browser is redirecting you to a different site, most likely it&#039;s caused by some sort of Spyware, Malware, etc. Scan your computer, if nothing is detected try uninstalling &amp; reinstalling your browser.Check your firewall settings &amp; spam filter settings.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RTWVATDiaa</UserId>
+            <UserNick>BillyBob247</UserNick>
+            <Date>2010-03-16 06:05:03</Date>
+            <Timestamp>1268744703</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:50:15 PDT 2010 -->

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315120931AAjQstt" type="Answered">
+    <Subject>How do I set up a wireless internet connection in my home?</Subject>
+    <Content>I&#039;ve recently been given a wireless router by a friend of mine, and I&#039;d like to set it up so we don&#039;t have to queue for the computer all the time (we have 3 PCs, two of which have USB wireless sticks, and one is connected to a router.).  
+
+Do I just unplug my BT Voyager 220V and plug in my wireless router?  Or do I need to install software?
+
+Any help is greatly appreciated.
+
+Cheers.
+</Content>
+    <Date>2010-03-15 12:09:31</Date>
+    <Timestamp>1268680171</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315120931AAjQstt</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hTWDQ1BQaa</UserId>
+    <UserNick>skullpicker</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1NXD2VQ8dAAECJwErtIql8UnKSVmSnw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You fail to mention the make&#039; model no. of your wireless router :-) .... so the quick answer is &#039;no&#039; .... 
+
+Typical issues :-
+1) It&#039;s &#039;used&#039; = so your first step will be a &#039;factory reset&#039; (so it get&#039;s rid of whatever custom settings the previous user has entered) = so go find the Manual on the Internet and work out how to do a factory reset ..
+
+2) You will need to configure the new router with your BT user name and password ... since most people set this up only once, I bet you no longer remember what they are :-) = so next step is to discover your ADSL log-in details.
+
+3) Before turning of your old router, make a note of any FIREWALL settings .. you will need to enter these into the new router ... (if it has a firewall that is .. if it does not have a firewall, DO NOT connect it to the internet under any circumstances)
+
+
+If it does not have a firewall, it is possible that your new wireless router can still be used - but only as a stand-alone wireless &#039;access point&#039; (i.e. you plug it into the Ethernet from the BT router, and use if for wireless only ..  however this also assumes it has multiple Ethernet sockets (4 is typical) and will act as a &#039;mini-hub&#039;, since the BT router has only 1 Ethernet socket )</ChosenAnswer>
+    <ChosenAnswererId>86e0fcff22774bed26d5e5f6773ca754aa</ChosenAnswererId>
+    <ChosenAnswererNick>Steve B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268826187</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269199687</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>router probably does not need software. plug your cable modem into the router instead of into your pc. there should be a port marked modem on the back . then plug your pc into the the router in one of the ports for that . 
+your router will have a webpage for setting up the router . type in your model number and &quot; configuration page &quot;and you should be able to find the config page in search engine.  go there and config your router and then config your pc to the same settings.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>u2w40ptEaa</UserId>
+            <UserNick>marcus</UserNick>
+            <Date>2010-03-15 12:17:08</Date>
+            <Timestamp>1268680628</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You fail to mention the make&#039; model no. of your wireless router :-) .... so the quick answer is &#039;no&#039; .... 
+
+Typical issues :-
+1) It&#039;s &#039;used&#039; = so your first step will be a &#039;factory reset&#039; (so it get&#039;s rid of whatever custom settings the previous user has entered) = so go find the Manual on the Internet and work out how to do a factory reset ..
+
+2) You will need to configure the new router with your BT user name and password ... since most people set this up only once, I bet you no longer remember what they are :-) = so next step is to discover your ADSL log-in details.
+
+3) Before turning of your old router, make a note of any FIREWALL settings .. you will need to enter these into the new router ... (if it has a firewall that is .. if it does not have a firewall, DO NOT connect it to the internet under any circumstances)
+
+
+If it does not have a firewall, it is possible that your new wireless router can still be used - but only as a stand-alone wireless &#039;access point&#039; (i.e. you plug it into the Ethernet from the BT router, and use if for wireless only ..  however this also assumes it has multiple Ethernet sockets (4 is typical) and will act as a &#039;mini-hub&#039;, since the BT router has only 1 Ethernet socket )</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>86e0fcff22774bed26d5e5f6773ca754aa</UserId>
+            <UserNick>Steve B</UserNick>
+            <Date>2010-03-17 04:43:07</Date>
+            <Timestamp>1268826187</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:53:56 PDT 2010 -->

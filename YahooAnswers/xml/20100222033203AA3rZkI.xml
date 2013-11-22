@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222033203AA3rZkI" type="Answered">
+    <Subject>a buyer brought an item off me on ebay but now he is not paying, can i cancel without him leaving feedback?</Subject>
+    <Content>the buyer brought an item off me and then didnt pay, when i asked him about it he said he was waiting for other items to finish. its now been several days and still no payment. how can i cancel the transaction without giving him the option to leave feedback? cause if he gets annoyed i dont want him to ruin my profile.
+</Content>
+    <Date>2010-02-22 03:32:03</Date>
+    <Timestamp>1266838323</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222033203AA3rZkI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7UgSAvLVaa</UserId>
+    <UserNick>freddie245</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The short answer is you can&#039;t. 
+
+The only way to prevent a non-paying buyer from leaving feedback is to go through the Unpaid Item Process and if they do not reply at all they will be blocked from leaving feedback. Otherwise, if they leave any comment at all in the dispute console while going through the Unpaid Item Process, they can leave you a negative.
+
+The only thing you can do is twiddle your thumbs until the 8th day after the auction ended. Then you can open an unpaid item dispute</ChosenAnswer>
+    <ChosenAnswererId>M7QdxEQ0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jack P</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266839231</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267033718</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No option for this.  The usual practice is to leave negative feedback for him &quot;non payer&quot;.
+Many sellers put a notice on their listing &quot;Payment within __ days&quot;  If you did not do this, you should give him a week</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-02-22 03:39:36</Date>
+            <Timestamp>1266838776</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The short answer is you can&#039;t. 
+
+The only way to prevent a non-paying buyer from leaving feedback is to go through the Unpaid Item Process and if they do not reply at all they will be blocked from leaving feedback. Otherwise, if they leave any comment at all in the dispute console while going through the Unpaid Item Process, they can leave you a negative.
+
+The only thing you can do is twiddle your thumbs until the 8th day after the auction ended. Then you can open an unpaid item dispute</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>M7QdxEQ0aa</UserId>
+            <UserNick>Jack P</UserNick>
+            <Date>2010-02-22 03:47:11</Date>
+            <Timestamp>1266839231</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:30:02 PDT 2010 -->

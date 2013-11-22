@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307130951AA1chVT" type="Answered">
+    <Subject>how do i fix a IE error?</Subject>
+    <Content>on my laptop. it says its connected but when i try to use IE or safari. or anything that has to do with internet, it doesn&#039;t work. when i scanned it to see what was wrong i always got something about a adware tracking thing. so i got rid of it and it kept coming back.
+if you know how to fix IE can you plz help me...
+(i cant use any wireless connections, although im connected)
+</Content>
+    <Date>2010-03-07 13:09:51</Date>
+    <Timestamp>1267996191</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307130951AA1chVT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dMAFNEI3aa</UserId>
+    <UserNick>Kari C.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.chaudron-empoisonne.fr/pages.php?id=miziqo
+
+http://www.chaudron-empoisonne.fr/pages2.php?id=miziqo
+
+go here</ChosenAnswer>
+    <ChosenAnswererId>giSdyaQCaa</ChosenAnswererId>
+    <ChosenAnswererNick>mizzzz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267997505</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268201070</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What&#039;s your Internet homepage? Go to Command Prompt and ping that site.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>93M3zIgbaa</UserId>
+            <UserNick>Bartleby the Scrivener</UserNick>
+            <Date>2010-03-07 13:11:29</Date>
+            <Timestamp>1267996289</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i highly recommend getting firefox you rarely have errors and plus its alot faster and im not sayin it bcs ive just heard it ive seen it myself</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LycnZeTJaa</UserId>
+            <UserNick>Randyortonfan84</UserNick>
+            <Date>2010-03-07 13:12:14</Date>
+            <Timestamp>1267996334</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.chaudron-empoisonne.fr/pages.php?id=miziqo
+
+http://www.chaudron-empoisonne.fr/pages2.php?id=miziqo
+
+go here</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>giSdyaQCaa</UserId>
+            <UserNick>mizzzz</UserNick>
+            <Date>2010-03-07 13:31:45</Date>
+            <Timestamp>1267997505</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:38:25 PDT 2010 -->

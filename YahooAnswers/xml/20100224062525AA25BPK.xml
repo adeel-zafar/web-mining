@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224062525AA25BPK" type="Answered">
+    <Subject>please help i really need to get into my yahoo mail but it wont load?</Subject>
+    <Content>for the past week i cant get into my yahoo mail, on both internet explorer and firefox it says the page is finshed loading but it just shows a blank white page, on firefox if i refresh the page it will show my mail for a few seconds before the page refreshes. please help i have emails about college assignments in there and i really need to see them and this is really slowing me down.. i have looked through my blocked and restricted sites on IE but there was nothing in there about yahoo... 
+
+please help
+thank you
+</Content>
+    <Date>2010-02-24 06:25:25</Date>
+    <Timestamp>1267021525</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224062525AA25BPK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cs1PHX8Qaa</UserId>
+    <UserNick>queenbee</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1xCBG4W1sAAEC-EFodI1LpkTTLQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Open up internet explorer instead of firefox and sign into yahoo mail classic rather than the new fandangled useless version that always has these problems. Hope you manage to get in.</ChosenAnswer>
+    <ChosenAnswererId>cCNUOnTxaa</ChosenAnswererId>
+    <ChosenAnswererNick>Andy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267021755</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267541022</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Open up internet explorer instead of firefox and sign into yahoo mail classic rather than the new fandangled useless version that always has these problems. Hope you manage to get in.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cCNUOnTxaa</UserId>
+            <UserNick>Andy</UserNick>
+            <Date>2010-02-24 06:29:15</Date>
+            <Timestamp>1267021755</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Click on this to see if it helps.
+
+http://uk.yahoo.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NkenKT7yaa</UserId>
+            <UserNick>meriva</UserNick>
+            <Date>2010-02-24 06:34:45</Date>
+            <Timestamp>1267022085</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:15:06 PDT 2010 -->

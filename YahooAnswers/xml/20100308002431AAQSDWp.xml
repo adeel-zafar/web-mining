@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308002431AAQSDWp" type="Answered">
+    <Subject>winrar problem please help?</Subject>
+    <Content>winrar is getting files with out my permiision how to choose wat you want to uptain far as files ,
+yeah from the internet it gathers all kind of info
+</Content>
+    <Date>2010-03-08 00:24:31</Date>
+    <Timestamp>1268036671</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308002431AAQSDWp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WEtR7Oyaaa</UserId>
+    <UserNick>ecent</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/11lr6KLtmAAED0EJsiJPo4rNo21o0j2QY.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Reinstall WinRAR 
+it will solve your problem.</ChosenAnswer>
+    <ChosenAnswererId>TmSU83Vbaa</ChosenAnswererId>
+    <ChosenAnswererNick>San24</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268039822</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268556194</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>without yer permission? do u mean 4m da internet?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aNXFxbdRaa</UserId>
+            <UserNick>punkr</UserNick>
+            <Date>2010-03-08 01:11:38</Date>
+            <Timestamp>1268039498</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Reinstall WinRAR 
+it will solve your problem.</Content>
+            <Reference>Experiance</Reference>
+            <Best>5</Best>
+            <UserId>TmSU83Vbaa</UserId>
+            <UserNick>San24</UserNick>
+            <Date>2010-03-08 01:17:02</Date>
+            <Timestamp>1268039822</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Maybe you clicked on a link that points to an RARed or Zipped file which is why WinRAR popped up. Usually you have a choice between opening it with WinRAR or saving the file on your hard disk for later viewing or opening.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TJDklEwtaa</UserId>
+            <UserNick>Bill M.</UserNick>
+            <Date>2010-03-08 02:35:06</Date>
+            <Timestamp>1268044506</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Is this a legal or a cracked copy of WinRAR?
+
+I own a legal copy, and mine makes absolutely no connections to the internet whatsoever.
+(Version 3.92.)
+WinRAR doesn&#039;t have the ability to auto-update, nor does it have the ability do check for updates.
+
+My firewall doesn&#039;t register WinRAR as making any connections to the internet.
+(No incoming or outgoing.)
+
+Either you are using a cracked version that connects to the internet for whatever reason, or you are clicking on links that point to .rar files on the internet.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IZDz7El2aa</UserId>
+            <UserNick>lantere</UserNick>
+            <Date>2010-03-08 09:53:21</Date>
+            <Timestamp>1268070801</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:35:13 PDT 2010 -->

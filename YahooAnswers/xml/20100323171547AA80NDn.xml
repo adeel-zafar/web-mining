@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323171547AA80NDn" type="Answered">
+    <Subject>What is a torrent tracker on the internet?</Subject>
+    <Content>Thanks
+</Content>
+    <Date>2010-03-23 17:15:47</Date>
+    <Timestamp>1269389747</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323171547AA80NDn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3Go2n0w5aa</UserId>
+    <UserNick>Jamal</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>In layman&#039;s terms, it is software that keeps track of everyone who has all or part of a file that is being shared via torrent.</ChosenAnswer>
+    <ChosenAnswererId>aaemiUA6aa</ChosenAnswererId>
+    <ChosenAnswererNick>God</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269389873</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269909456</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>In layman&#039;s terms, it is software that keeps track of everyone who has all or part of a file that is being shared via torrent.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>aaemiUA6aa</UserId>
+            <UserNick>God</UserNick>
+            <Date>2010-03-23 17:17:53</Date>
+            <Timestamp>1269389873</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:17 PDT 2010 -->

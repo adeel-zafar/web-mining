@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402113909AAuP6Qw" type="Answered">
+    <Subject>Mozilla Firefox 3 bookmarks backup?</Subject>
+    <Content>IE has a folder that keep our Favorite site&#039;s address files.But does Mozilla have something like it?How can I make a backup of my bookmarks of Mozilla?
+</Content>
+    <Date>2010-04-02 11:39:09</Date>
+    <Timestamp>1270233549</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402113909AAuP6Qw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qYeJsCClaa</UserId>
+    <UserNick>T.N</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to Bookmark -&gt; Organize Bookmark  or press this (Ctrl+Shift+B)
+Then library will appear, go to Import and backup tab and choose backup..
+that bakcup file will name like this ( .JSON )</ChosenAnswer>
+    <ChosenAnswererId>n69RE8Fyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Audi</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270234116</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270320311</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to Bookmark -&gt; Organize Bookmark  or press this (Ctrl+Shift+B)
+Then library will appear, go to Import and backup tab and choose backup..
+that bakcup file will name like this ( .JSON )</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>n69RE8Fyaa</UserId>
+            <UserNick>Audi</UserNick>
+            <Date>2010-04-02 11:48:36</Date>
+            <Timestamp>1270234116</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:15 PDT 2010 -->

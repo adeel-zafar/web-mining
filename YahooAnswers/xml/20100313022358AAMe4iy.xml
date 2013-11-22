@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313022358AAMe4iy" type="Answered">
+    <Subject>how can one internet system like IE or firefox be faster than the other? surely it&#039;s how fast your connection?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-13 02:23:58</Date>
+    <Timestamp>1268475838</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313022358AAMe4iy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lGayyR8faa</UserId>
+    <UserNick>JamesJones</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your internet connection does play an integral part. However good reliable Internet Browsers like Internet Explorer or Firefox display the web pages you  access on the internet, and do so in different manners, those different manners are what allows them to display a web page a few seconds faster or a a bit better or reliably. A good browser (I&#039;m not going to show favoritism and say one or the other) can help maximize the speed of your internet connection by handling the data you take and give to a site in an efficient manner.</ChosenAnswer>
+    <ChosenAnswererId>cmJ6DarHaa</ChosenAnswererId>
+    <ChosenAnswererNick>descolada_virus</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268476209</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268597386</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no its how many videos and ads that load</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qOX3EapGaa</UserId>
+            <UserNick>Jackie D</UserNick>
+            <Date>2010-03-13 02:25:46</Date>
+            <Timestamp>1268475946</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The &#039;faster&#039; browsers are often faster, but it is only by thousandths of a second. It is based on their caching protocols and things like that. But yes, it is not really faster, it&#039;s mainly your connection and how fast your computer is.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pVGY9myOaa</UserId>
+            <UserNick>Firzen</UserNick>
+            <Date>2010-03-13 02:26:15</Date>
+            <Timestamp>1268475975</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it is the connection but also what a browsers tools has to do to download information.  internet explorer use all of its tool to bring up moveable images, and placing text in the write place etc</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AqjrRdHeaa</UserId>
+            <UserNick>siamese fighter</UserNick>
+            <Date>2010-03-13 02:28:24</Date>
+            <Timestamp>1268476104</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your internet connection does play an integral part. However good reliable Internet Browsers like Internet Explorer or Firefox display the web pages you  access on the internet, and do so in different manners, those different manners are what allows them to display a web page a few seconds faster or a a bit better or reliably. A good browser (I&#039;m not going to show favoritism and say one or the other) can help maximize the speed of your internet connection by handling the data you take and give to a site in an efficient manner.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cmJ6DarHaa</UserId>
+            <UserNick>descolada_virus</UserNick>
+            <Date>2010-03-13 02:30:09</Date>
+            <Timestamp>1268476209</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sure, the speed of your connection matters, also the upload speeds of the websites you access. But when those are high enough that the browser doesn&#039;t need to wait for the data to arrive, it is the way the browser handles that data that makes it faster or slower than its competitors.
+
+For more information, read this article: http://www.tomshardware.com/reviews/firefox-chrome-opera,2558.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pmna8fhyaa</UserId>
+            <UserNick>Dyslexic Agnostic Insomniac</UserNick>
+            <Date>2010-03-13 03:50:25</Date>
+            <Timestamp>1268481025</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:05:44 PDT 2010 -->

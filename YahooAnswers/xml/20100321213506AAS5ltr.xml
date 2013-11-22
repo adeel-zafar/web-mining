@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321213506AAS5ltr" type="Answered">
+    <Subject>is there any site like chatroulette where you do not need an account that requires a password?</Subject>
+    <Content>im just looking for a site that lets me video chat with people without using a credit card
+</Content>
+    <Date>2010-03-21 21:35:06</Date>
+    <Timestamp>1269232506</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321213506AAS5ltr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SibvzhWJaa</UserId>
+    <UserNick>kinda worried</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.stickam.com is free, but you do need an account, I think, to be able to use it. No credit card info needed.</ChosenAnswer>
+    <ChosenAnswererId>Y2hoaOJlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kat</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269238712</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269752054</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.stickam.com is free, but you do need an account, I think, to be able to use it. No credit card info needed.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Y2hoaOJlaa</UserId>
+            <UserNick>Kat</UserNick>
+            <Date>2010-03-21 23:18:32</Date>
+            <Timestamp>1269238712</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://camstumble.com - is 100% free and an alternative to chatroulette</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0wWIvKz1aa</UserId>
+            <UserNick>Corey</UserNick>
+            <Date>2010-03-22 05:27:15</Date>
+            <Timestamp>1269260835</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:56 PDT 2010 -->

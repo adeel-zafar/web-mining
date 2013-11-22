@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313085505AAWGKqn" type="Answered">
+    <Subject>Can you use fake info on prizerebel?</Subject>
+    <Content>like use fakenamegenerator?
+</Content>
+    <Date>2010-03-13 08:55:05</Date>
+    <Timestamp>1268499305</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313085505AAWGKqn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KtritR8Naa</UserId>
+    <UserNick>Jericoe</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1iSQ-ESbAAAEC_CH88e3BDQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can use fake information, but it has to be somewhat plausible (location within your zipcode, same with phone number) and you have to use the same information for every offer. RoboForm is a great program to help you do just that. 
+
+Greasemonkey and the Just Say NO! userscript used together are also good for speeding up offer completion.
+
+[EDIT]: If you&#039;re completing medical offers (RH and Pharmdaily are good examples), make sure you enter in information that qualifies you for the offer. If not, the offer won&#039;t credit.
+.</ChosenAnswer>
+    <ChosenAnswererId>tPcI6tKsaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chemaqua</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268714488</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269015306</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can use fake information, but it has to be somewhat plausible (location within your zipcode, same with phone number) and you have to use the same information for every offer. RoboForm is a great program to help you do just that. 
+
+Greasemonkey and the Just Say NO! userscript used together are also good for speeding up offer completion.
+
+[EDIT]: If you&#039;re completing medical offers (RH and Pharmdaily are good examples), make sure you enter in information that qualifies you for the offer. If not, the offer won&#039;t credit.
+.</Content>
+            <Reference>Referral link: http://preview.tinyurl.com/yensshj
+
+Used a preview TinyUrl so that you know I&#039;m not redirecting you to a shady website.</Reference>
+            <Best>5</Best>
+            <UserId>tPcI6tKsaa</UserId>
+            <UserNick>Konjak</UserNick>
+            <Date>2010-03-15 21:41:28</Date>
+            <Timestamp>1268714488</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:43 PDT 2010 -->

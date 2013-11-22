@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222172413AAVZemi" type="Answered">
+    <Subject>why is chatroulette not working?</Subject>
+    <Content>is it just me.. or you have the same problem?
+</Content>
+    <Date>2010-02-22 17:24:13</Date>
+    <Timestamp>1266888253</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222172413AAVZemi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>u2MNxdi9aa</UserId>
+    <UserNick>Anne P</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>same thing on my end it just keeps saying where play should be it says entering</ChosenAnswer>
+    <ChosenAnswererId>2pIXchbqaa</ChosenAnswererId>
+    <ChosenAnswererNick>miklos</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266904262</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267407885</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>same thing on my end it just keeps saying where play should be it says entering</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2pIXchbqaa</UserId>
+            <UserNick>miklos</UserNick>
+            <Date>2010-02-22 21:51:02</Date>
+            <Timestamp>1266904262</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i thought i&#039;m the only one who encountered this..</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>z3x4Z61Daa</UserId>
+            <UserNick>mcjerome™</UserNick>
+            <Date>2010-02-23 02:11:47</Date>
+            <Timestamp>1266919907</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>65m9A5t1aa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-09 13:58:00</Date>
+            <Timestamp>1266919907</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:36 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331164314AAQSBa8" type="Answered">
+    <Subject>ITunes can&#039;t connect to Internet?</Subject>
+    <Content>My Internet was switched from one service to another and Internet works on my computer. Firefox works but iTunes won&#039;t. Please help.
+</Content>
+    <Date>2010-03-31 16:43:14</Date>
+    <Timestamp>1270078994</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331164314AAQSBa8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>R1ZwyY0Yaa</UserId>
+    <UserNick>Sam</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1SI4h2mIFAAEBPSEr-AfbAXiyFg==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Do you have a firewall, if so look at it&#039;s log and see if ITunes tryed to connect, if so see from what port, then open that port.</ChosenAnswer>
+    <ChosenAnswererId>13UCTS9Saa</ChosenAnswererId>
+    <ChosenAnswererNick>Christopher C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270079669</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270130022</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Do you have a firewall, if so look at it&#039;s log and see if ITunes tryed to connect, if so see from what port, then open that port.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>13UCTS9Saa</UserId>
+            <UserNick>Christopher C</UserNick>
+            <Date>2010-03-31 16:54:29</Date>
+            <Timestamp>1270079669</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:22 PDT 2010 -->

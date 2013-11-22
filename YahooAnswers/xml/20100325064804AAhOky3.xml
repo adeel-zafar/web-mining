@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325064804AAhOky3" type="Answered">
+    <Subject>how do i get the text in the textbox back after accidentally pressing the back button!!!?</Subject>
+    <Content>anyone noes? i haven closed the page yet... i tried forward but cant, using firefox
+someone gotta noe the answer... pls help?
+ermm... anyone?
+monster- ctrl z doesnt work... it seems to be erased :( someone... any other suggestions?
+</Content>
+    <Date>2010-03-25 06:48:04</Date>
+    <Timestamp>1269524884</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325064804AAhOky3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10940133</UserId>
+    <UserNick>yuanhui3344</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>click in the text field (box) so that you can see the cursor blinking in it and then hold down the Ctrl key and hit z - in essence Ctrl + z</ChosenAnswer>
+    <ChosenAnswererId>pcSIElJDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Creative Monster</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269525301</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270044362</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>click in the text field (box) so that you can see the cursor blinking in it and then hold down the Ctrl key and hit z - in essence Ctrl + z</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>pcSIElJDaa</UserId>
+            <UserNick>Creative Monster</UserNick>
+            <Date>2010-03-25 06:55:01</Date>
+            <Timestamp>1269525301</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:31:20 PDT 2010 -->

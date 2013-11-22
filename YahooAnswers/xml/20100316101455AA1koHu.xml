@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316101455AA1koHu" type="Answered">
+    <Subject>How to count rows in a table that is online?</Subject>
+    <Content>I am working at doing some data input for a fitness company. My job is to count how many clients the company has each day and put this in an excel spreadsheet.
+
+The company&#039;s records for the last year are on the internet in the form of tables whereby each row counts as one customer. So, a 26 row column = 26 customers.
+
+It&#039;s very laborious to have to count the rows though and I was wondering if anyone knows if it&#039;s possible to somehow highlight all the tables and count them that way? Or any other way?
+
+Would be much appreciated
+Is there any way of counting the rows online or do I have to copy into excel?
+</Content>
+    <Date>2010-03-16 10:14:55</Date>
+    <Timestamp>1268759695</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316101455AA1koHu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Y36ndjv7aa</UserId>
+    <UserNick>tms171717</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>use the counta() function
+if your data is in column A
+then copy&amp;paste this formula
+
+=COUNTA(A1:A99999)
+
+then as you add rows, the formula will automatically adjust.
+if you have a header row, then you probably dont want to count the column label so adjust it to
+=COUNTA(A2:A99999)
+i just used A99999 because its large enough to count a bunch as you add.  if you have more customers, then just adjust the 99999 part
+
+edit-
+sorry, i dont know how to count online
+i would copy&amp;paste into excel</ChosenAnswer>
+    <ChosenAnswererId>h2nPm9bxaa</ChosenAnswererId>
+    <ChosenAnswererNick>expletive_xom</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268768393</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269279282</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>use the counta() function
+if your data is in column A
+then copy&amp;paste this formula
+
+=COUNTA(A1:A99999)
+
+then as you add rows, the formula will automatically adjust.
+if you have a header row, then you probably dont want to count the column label so adjust it to
+=COUNTA(A2:A99999)
+i just used A99999 because its large enough to count a bunch as you add.  if you have more customers, then just adjust the 99999 part
+
+edit-
+sorry, i dont know how to count online
+i would copy&amp;paste into excel</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>h2nPm9bxaa</UserId>
+            <UserNick>expletive_xom</UserNick>
+            <Date>2010-03-16 12:39:53</Date>
+            <Timestamp>1268768393</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:27 PDT 2010 -->

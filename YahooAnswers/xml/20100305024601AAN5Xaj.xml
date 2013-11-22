@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305024601AAN5Xaj" type="Answered">
+    <Subject>Can the Magic Jack be used from outside the US? If yes, how?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-05 02:46:01</Date>
+    <Timestamp>1267785961</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305024601AAN5Xaj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA12252798</UserId>
+    <UserNick>Stratomanssy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/17BRVM6rLAAEBMIEr6IeeMZkA.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi there.
+I think you can make free calls in the US &amp; Canada, outside you will pay international fees.
+I recently wrote about this - http://nut.bz/1gho0w.k
+Check it out, it has info which i pulled from the internet but things might have changed so your best bet will be to get into contact with the company that sell these.
+Best off luck ;-)</ChosenAnswer>
+    <ChosenAnswererId>tG6FZQLUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Zhu</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267786374</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268562140</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hi there.
+I think you can make free calls in the US &amp; Canada, outside you will pay international fees.
+I recently wrote about this - http://nut.bz/1gho0w.k
+Check it out, it has info which i pulled from the internet but things might have changed so your best bet will be to get into contact with the company that sell these.
+Best off luck ;-)</Content>
+            <Reference>http://nut.bz/1gho0w.k</Reference>
+            <Best>5</Best>
+            <UserId>tG6FZQLUaa</UserId>
+            <UserNick>Zhu</UserNick>
+            <Date>2010-03-05 02:52:54</Date>
+            <Timestamp>1267786374</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:58:42 PDT 2010 -->

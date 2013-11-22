@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315040040AAFLoF0" type="Answered">
+    <Subject>When I press F11 in Internet Explorer,the address bar doesn&#039;t go up.?</Subject>
+    <Content>I am using a vista laptop(Pavilion dv4). I recently played this game called Keyboard Smash on Face book,and after I played,the address bar doesn&#039;t go up.Anyone knows what is happening?
+</Content>
+    <Date>2010-03-15 04:00:40</Date>
+    <Timestamp>1268650840</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315040040AAFLoF0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mSGPb8Wcaa</UserId>
+    <UserNick>Clarissa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/13oIhxN2gAAEB-AGkQJcVs83KXZ6d3w==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>there is only two things I can think off...
+use Firefox (but dont think this is appropiate)
+Windows&gt;All Programs&gt;Assesories&gt;System Tools&gt;System Restore
+dont worry you will not lose any documents or anything, it will just change some of your settings back to the date you choose... so in this case, if that happened yesterday, you may want to restore it to the day before, that should do the trick - I aint no technician, but that is all I can think off - See what others say, good luck =]</ChosenAnswer>
+    <ChosenAnswererId>tzDyIkPsaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gray Fox</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268651091</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269170007</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>there is only two things I can think off...
+use Firefox (but dont think this is appropiate)
+Windows&gt;All Programs&gt;Assesories&gt;System Tools&gt;System Restore
+dont worry you will not lose any documents or anything, it will just change some of your settings back to the date you choose... so in this case, if that happened yesterday, you may want to restore it to the day before, that should do the trick - I aint no technician, but that is all I can think off - See what others say, good luck =]</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tzDyIkPsaa</UserId>
+            <UserNick>Gray Fox</UserNick>
+            <Date>2010-03-15 04:04:51</Date>
+            <Timestamp>1268651091</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:54:55 PDT 2010 -->

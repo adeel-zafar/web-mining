@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305145357AAJjd2M" type="Answered">
+    <Subject>What would be a really good safe blog starter for me?</Subject>
+    <Content>i really wanna have a blog of my own but i don&#039;t know what to use.i tried a google search and of course it came up with tons of blog starters but i&#039;m not sure which ones are the awsome ones or whatever u wanna call it
+</Content>
+    <Date>2010-03-05 14:53:57</Date>
+    <Timestamp>1267829637</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305145357AAJjd2M</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vA5ig5HPaa</UserId>
+    <UserNick>countrygirl896</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1oKP1WttwAAED1wQDZSHOtPt0IQ==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try WordPress.</ChosenAnswer>
+    <ChosenAnswererId>Vh8RA9MUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jeff P</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267829842</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268055869</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try WordPress.</Content>
+            <Reference>http://www.wordpress.com/</Reference>
+            <Best>5</Best>
+            <UserId>Vh8RA9MUaa</UserId>
+            <UserNick>Jeff P</UserNick>
+            <Date>2010-03-05 14:57:22</Date>
+            <Timestamp>1267829842</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:55:27 PDT 2010 -->

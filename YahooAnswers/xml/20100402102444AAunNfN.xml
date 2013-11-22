@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402102444AAunNfN" type="Answered">
+    <Subject>Sometimes after i have used Firefox. Windows will say still running. How do I stop that?</Subject>
+    <Content>I will be using Firefox. X out than later want to use Firefox again. Windows tells me to restart. Anything else I can do to stop that?
+Task manger does not show anything.
+</Content>
+    <Date>2010-04-02 10:24:44</Date>
+    <Timestamp>1270229084</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402102444AAunNfN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fEJgk48Maa</UserId>
+    <UserNick>Sir Donny Prince of Dover</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a775c0difa8zul4re4/o084miw8erV9nfej1uyFK8w8bWpzKSsqFTSjgHaUORauh_I-/1/tn48.jpg?ciAAToMBFsJnLbaQ</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>lock &amp; load button - hahahhahahaha</ChosenAnswer>
+    <ChosenAnswererId>dPULl5hjaa</ChosenAnswererId>
+    <ChosenAnswererNick>KAS</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270251595</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270255406</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to taskmanger:
+
+hit AlT+CTL+DELETE at the same time;
+then click on task menager:
+find firefox.exe then select &quot;end process&quot;
+
+That should fix it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5YgAVyM2aa</UserId>
+            <UserNick>Jason B</UserNick>
+            <Date>2010-04-02 10:25:35</Date>
+            <Timestamp>1270229135</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>press ALT+Ctrl+Delete...the task manager windows pops out..click on &quot;processes&quot; tab and search for firefox.exe and click on &quot;end task&quot;...you might find many &quot;firefox.exe&quot; processes running...stop them all by &quot;end task&quot;...try reinstalling Firefox..it might solve the problem..also scan your PC fro viruses...good luck</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10734998</UserId>
+            <UserNick>Computer Scientist10</UserNick>
+            <Date>2010-04-02 11:04:44</Date>
+            <Timestamp>1270231484</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>lock &amp; load button - hahahhahahaha</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>dPULl5hjaa</UserId>
+            <UserNick>KAS</UserNick>
+            <Date>2010-04-02 16:39:55</Date>
+            <Timestamp>1270251595</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:22 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307210639AAHJ1hm" type="Answered">
+    <Subject>Are there any websites that you can create nak*Ed avatars?</Subject>
+    <Content>?
+</Content>
+    <Date>2010-03-07 21:06:39</Date>
+    <Timestamp>1268024799</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307210639AAHJ1hm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>z9mLROZ9aa</UserId>
+    <UserNick>Bob</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1pUE0EQEBAAEDP8GNbBMCDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Tektek.org</ChosenAnswer>
+    <ChosenAnswererId>BZahDC96aa</ChosenAnswererId>
+    <ChosenAnswererNick>Bug</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268024949</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268105877</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Tektek.org</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>BZahDC96aa</UserId>
+            <UserNick>Bug</UserNick>
+            <Date>2010-03-07 21:09:09</Date>
+            <Timestamp>1268024949</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>TikTik.ru</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZUWwbVjNaa</UserId>
+            <UserNick>kim TaeHye</UserNick>
+            <Date>2010-03-07 21:11:02</Date>
+            <Timestamp>1268025062</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:35:39 PDT 2010 -->

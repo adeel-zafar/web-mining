@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313143320AArgOYg" type="Answered">
+    <Subject>How can I right-click on a website that won&#039;t allow right-click?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-13 14:33:20</Date>
+    <Timestamp>1268519600</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313143320AArgOYg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11080225</UserId>
+    <UserNick>Amber k</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Disable javascript in your browser.</ChosenAnswer>
+    <ChosenAnswererId>BgwTxzEFaa</ChosenAnswererId>
+    <ChosenAnswererNick>korgrue</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268519701</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268546882</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Disable javascript in your browser.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BgwTxzEFaa</UserId>
+            <UserNick>korgrue</UserNick>
+            <Date>2010-03-13 14:35:01</Date>
+            <Timestamp>1268519701</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to view then source and you can look up what you want on the page and bring it up on another browser and download it. Not sure of the details of what you want so that is all I have for you.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>klY8pcOqaa</UserId>
+            <UserNick>Andrewj</UserNick>
+            <Date>2010-03-13 14:41:26</Date>
+            <Timestamp>1268520086</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:03:02 PDT 2010 -->

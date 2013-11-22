@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303004054AATeVew" type="Answered">
+    <Subject>how can you block the ads on yahoo answers useing google chrome?</Subject>
+    <Content>ive only just noticed them in the last day or to , before then i managed to have them blocked with a host file   .  i find them unwanted, intrusive and annoying and i dont want to see them  .
+
+anyone any  ideas what i can do  other than use firefox   ?
+
+are there any decent ad blockers for : internet explorer and or  google chrome ?
+</Content>
+    <Date>2010-03-03 00:40:54</Date>
+    <Timestamp>1267605654</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303004054AATeVew</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BalR8ARPaa</UserId>
+    <UserNick>THE  Norman knight</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1cPcPzi0QAAEC_kF7AbLbN0QB.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try AdBlock for Google Chrome:
+
+https://chrome.google.com/extensions/detail/gighmmpiobklfepjocnamgkkbiglidom</ChosenAnswer>
+    <ChosenAnswererId>EhJrgPqPaa</ChosenAnswererId>
+    <ChosenAnswererNick>Yectep</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267605777</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267624224</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try AdBlock for Google Chrome:
+
+https://chrome.google.com/extensions/detail/gighmmpiobklfepjocnamgkkbiglidom</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>EhJrgPqPaa</UserId>
+            <UserNick>Yectep</UserNick>
+            <Date>2010-03-03 00:42:57</Date>
+            <Timestamp>1267605777</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it sounds like your infected with adware, run malwarebytes.</Content>
+            <Reference>http://www.filehippo.com/download_malwarebytes_anti_malware/</Reference>
+            <Best></Best>
+            <UserId>7FY9JB9Faa</UserId>
+            <UserNick>Michael</UserNick>
+            <Date>2010-03-03 00:45:47</Date>
+            <Timestamp>1267605947</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>why do u care ?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MDgT3gj9aa</UserId>
+            <UserNick>Phoebe</UserNick>
+            <Date>2010-03-03 00:47:33</Date>
+            <Timestamp>1267606053</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can&#039;t. It&#039;s part of the Yahoo page make up.
+
+Also Google is a very basic browser.
+
+The only way you will stop them is to go to Internet Options ► Advanced ► Scroll down to Multi Media ► Take the ticks out of &quot;Show Animations&quot; and Pictures&quot; ► Apply &amp; OK
+
+But then that defeats the whole object because that will affect every web site you go on!</Content>
+            <Reference>Experienced1</Reference>
+            <Best></Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-03 01:50:31</Date>
+            <Timestamp>1267609831</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:20:35 PDT 2010 -->

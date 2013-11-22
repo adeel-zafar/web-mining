@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401055013AAV10HR" type="Answered">
+    <Subject>Why is this pesky ask.com site keep coming up?</Subject>
+    <Content>I don&#039;t know why but there&#039;s a pesky site called ask.com that will take over my home page from time to time.
+
+I thought I eliminated all trace of it from my computer using Revo Uninstaller.
+
+What&#039;s the deal with this site???
+</Content>
+    <Date>2010-04-01 05:50:13</Date>
+    <Timestamp>1270126213</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401055013AAV10HR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eNo0oDbZaa</UserId>
+    <UserNick>John-kuma</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>ask.com has a lot of programs they partner with to auto install their toolbars etc. when you download freeware/shareware. You can uninstall it usually through windows, but I would recommend running Malwarebytes anti malware (free AV program) just to be sure.</ChosenAnswer>
+    <ChosenAnswererId>S16zm2jAaa</ChosenAnswererId>
+    <ChosenAnswererNick>jon</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270129749</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270213428</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You&#039;re homepage has been hijacked. Get anti-spyware and run it. http://www.techsupportalert.com/best-free-adware-spyware-scumware-remover.htm#Quick_Selection_Guide</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XwTIQl0uaa</UserId>
+            <UserNick>Stimorol</UserNick>
+            <Date>2010-04-01 05:57:41</Date>
+            <Timestamp>1270126661</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ask.com has a lot of programs they partner with to auto install their toolbars etc. when you download freeware/shareware. You can uninstall it usually through windows, but I would recommend running Malwarebytes anti malware (free AV program) just to be sure.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>S16zm2jAaa</UserId>
+            <UserNick>jon</UserNick>
+            <Date>2010-04-01 06:49:09</Date>
+            <Timestamp>1270129749</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:44 PDT 2010 -->

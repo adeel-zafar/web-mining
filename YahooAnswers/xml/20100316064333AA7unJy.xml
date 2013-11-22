@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316064333AA7unJy" type="Answered">
+    <Subject>When signing up for stuff or uploading pictures, why is there a code?</Subject>
+    <Content>I was trying to upload a picture for my Y! A avatar and it has a code like; errZ5 or JbnHl56. Why does Yahoo (and other websites) have those?
+</Content>
+    <Date>2010-03-16 06:43:33</Date>
+    <Timestamp>1268747013</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316064333AA7unJy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QsBOccbWaa</UserId>
+    <UserNick>Please, Just PANIC At The Disco</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1h8EMabcmAAEEBSOc6MIPumXjLQ==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The codes can be typed in the required box by human beings. Any automated software cannot do this anonymously.</ChosenAnswer>
+    <ChosenAnswererId>k5hCrD0gaa</ChosenAnswererId>
+    <ChosenAnswererNick>Anand</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268747541</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268871443</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>these are not codes!!!
+these are captcha!!!!
+and the reason that there are there is to avoid bots( automatically machines that try to get access )</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10383085</UserId>
+            <UserNick>rude_r</UserNick>
+            <Date>2010-03-16 06:46:57</Date>
+            <Timestamp>1268747217</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Keeps spam bots away.
+It&#039;s the best way to tell that you are human.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bptPcitHaa</UserId>
+            <UserNick>Gregory Allen Mansheim</UserNick>
+            <Date>2010-03-16 06:47:27</Date>
+            <Timestamp>1268747247</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The codes can be typed in the required box by human beings. Any automated software cannot do this anonymously.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>k5hCrD0gaa</UserId>
+            <UserNick>Anand</UserNick>
+            <Date>2010-03-16 06:52:21</Date>
+            <Timestamp>1268747541</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:50:10 PDT 2010 -->

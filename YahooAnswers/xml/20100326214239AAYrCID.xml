@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326214239AAYrCID" type="Answered">
+    <Subject>How to find password for wi fi?</Subject>
+    <Content>my aunt has wi fi but doesnt remember the password....they say they didnt put a password but its locked so they must have.....how do i find the password for their wi fi
+</Content>
+    <Date>2010-03-26 21:42:39</Date>
+    <Timestamp>1269664959</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326214239AAYrCID</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3g3GehFfaa</UserId>
+    <UserNick>Daniel</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>on their modem,on the Serial key sticker, it should say &#039;&#039;WEP key&#039;&#039; and then a few number and/or letters. Sometimes it&#039;s also in brackets</ChosenAnswer>
+    <ChosenAnswererId>IQZxdghGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ghost</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269665081</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269695189</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>on their modem,on the Serial key sticker, it should say &#039;&#039;WEP key&#039;&#039; and then a few number and/or letters. Sometimes it&#039;s also in brackets</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>IQZxdghGaa</UserId>
+            <UserNick>Ghost</UserNick>
+            <Date>2010-03-26 21:44:41</Date>
+            <Timestamp>1269665081</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You cant unless you can access the router. But you still need a password. On the router you can just push the rest button and will default to factory reset ---&gt; no password</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rezaDU35aa</UserId>
+            <UserNick>shortiegrl8</UserNick>
+            <Date>2010-03-26 21:45:16</Date>
+            <Timestamp>1269665116</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>shortie below said it best press the reset button on the back</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8LBUSHpkaa</UserId>
+            <UserNick>Derek</UserNick>
+            <Date>2010-03-26 21:50:29</Date>
+            <Timestamp>1269665429</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:24:34 PDT 2010 -->

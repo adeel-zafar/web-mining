@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314055114AAurk2k" type="Answered">
+    <Subject>Why Can&#039;t I Go On My Twitter?</Subject>
+    <Content>When I go to my Twitter account today it said: &#039;Do you want to view only the webpage content that is secure&#039; or something like that and whether I choose yes or no it will always close the window and say that &#039;Internet cannot display the webpage&#039;.
+
+What&#039;s going on?!
+</Content>
+    <Date>2010-03-14 05:51:14</Date>
+    <Timestamp>1268571074</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314055114AAurk2k</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uCxLYrAsaa</UserId>
+    <UserNick>MrWriter</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1mgzYmffdAAEB_IFUQJJq6neNNw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I do believe Twitter is down.  Probs something to do with the Daylight Savings Time, or the Beiber fans broke it.
+
+Edit:  They have a status report up that they are aware of frozen timelines and are fixing it.  I can get on from my Blackberry but not from my laptop.  Weird.</ChosenAnswer>
+    <ChosenAnswererId>AA11262883</ChosenAnswererId>
+    <ChosenAnswererNick>Max</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268575512</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268854817</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I do believe Twitter is down.  Probs something to do with the Daylight Savings Time, or the Beiber fans broke it.
+
+Edit:  They have a status report up that they are aware of frozen timelines and are fixing it.  I can get on from my Blackberry but not from my laptop.  Weird.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>AA11262883</UserId>
+            <UserNick>Max</UserNick>
+            <Date>2010-03-14 07:05:12</Date>
+            <Timestamp>1268575512</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Twitter always does that.
+
+You can view private Twitter tweets @ http://viewmorepix.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>X4m2GmP5aa</UserId>
+            <UserNick>Red R</UserNick>
+            <Date>2010-03-14 12:05:46</Date>
+            <Timestamp>1268593546</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:00:25 PDT 2010 -->

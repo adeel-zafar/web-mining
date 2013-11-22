@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322011626AAu5ebZ" type="Answered">
+    <Subject>Is my ISP watching me?</Subject>
+    <Content>Recently my torrent speeds have been really slow. I ran a few speed tests and the average speed was something like 1300kB/s. Regardless of how many seeds or peers I am connected to, it wont download faster than 30kB/s. Do you think my ISP is limiting my speed or am i just being paranoid?
+</Content>
+    <Date>2010-03-22 01:16:26</Date>
+    <Timestamp>1269245786</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322011626AAu5ebZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2fgcLwf4aa</UserId>
+    <UserNick>ReclUseNz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You need to change the default port your client uses and then use forced encryption. Google how to do this with what ever client you are using.</ChosenAnswer>
+    <ChosenAnswererId>TRLMIgrEaa</ChosenAnswererId>
+    <ChosenAnswererNick>kinamyen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269249644</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269417875</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Depends on how many and what quality of seeders there are.  But yea, it is possible for them to be throttling it.  Some have started filtering out popular P2P protocols and limiting the traffic speed they allow on those file types.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YY822lZVaa</UserId>
+            <UserNick>frodo2690</UserNick>
+            <Date>2010-03-22 01:19:04</Date>
+            <Timestamp>1269245944</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i have comcast internet, i was experiencing the same issue a while back. then a few days after that i got a lovely mail from comcast telling me that if i didnt cease and desist with uploading/downloading illegal torrents i would be canceled and turned in for pirating music and movies! WATCH YOURSELF!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>23ca3d23d6809b3ecf8acde5c416964caa</UserId>
+            <UserNick>dcoynej</UserNick>
+            <Date>2010-03-22 01:29:02</Date>
+            <Timestamp>1269246542</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You need to change the default port your client uses and then use forced encryption. Google how to do this with what ever client you are using.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>TRLMIgrEaa</UserId>
+            <UserNick>kinamyen</UserNick>
+            <Date>2010-03-22 02:20:44</Date>
+            <Timestamp>1269249644</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:22 PDT 2010 -->

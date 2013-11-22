@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312045839AAfovD2" type="Answered">
+    <Subject>Qustion about torrents.................?</Subject>
+    <Content>I m using u torrents and isohunt to download movies and data by peers but i want to know is it possible that every person who is using u torrents can download my whole computer data or personal data if it is so how can i set the priority for the data which i dnt want to share or smthing else........
+</Content>
+    <Date>2010-03-12 04:58:39</Date>
+    <Timestamp>1268398719</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312045839AAfovD2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Zm0RX656aa</UserId>
+    <UserNick>shy boy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>In the preferences, you specify files and folders to share as well as a place to store files received from others. Any file you receive is shared unless you explicitly remove it AFTER it is completely transferred to you. THESE are the only things shared and available to others. There is also a feature called &quot;remote control&quot; in which like shared folders and files, you can allow people to do things on your machine. Turn OFF remote control. Remove any files and folders from the sharing list that you do not want to make available. Remember one crucial fact, any file in progress IS being shared even if NOT on your sharing list. Some programs have an option to not make a file available until it is complete instead of sharing pieces as they arrive.
+
+So, NO, people can NOT &quot;download my whole computer data or personal data&quot; as you put it, unless you added these things to the shared list.</ChosenAnswer>
+    <ChosenAnswererId>5586ad15a09ab2f36457c1e8042071f2aa</ChosenAnswererId>
+    <ChosenAnswererNick>rowlfe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268399536</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268914429</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>without your permission no one can access the data</Content>
+            <Reference>www.anishatechnology.com</Reference>
+            <Best></Best>
+            <UserId>Bgxqw03Vaa</UserId>
+            <UserNick>Prakash</UserNick>
+            <Date>2010-03-12 05:01:44</Date>
+            <Timestamp>1268398904</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In the preferences, you specify files and folders to share as well as a place to store files received from others. Any file you receive is shared unless you explicitly remove it AFTER it is completely transferred to you. THESE are the only things shared and available to others. There is also a feature called &quot;remote control&quot; in which like shared folders and files, you can allow people to do things on your machine. Turn OFF remote control. Remove any files and folders from the sharing list that you do not want to make available. Remember one crucial fact, any file in progress IS being shared even if NOT on your sharing list. Some programs have an option to not make a file available until it is complete instead of sharing pieces as they arrive.
+
+So, NO, people can NOT &quot;download my whole computer data or personal data&quot; as you put it, unless you added these things to the shared list.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5586ad15a09ab2f36457c1e8042071f2aa</UserId>
+            <UserNick>rowlfe</UserNick>
+            <Date>2010-03-12 05:12:16</Date>
+            <Timestamp>1268399536</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>set dont share</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NeErpYEUaa</UserId>
+            <UserNick>Chesterflameon</UserNick>
+            <Date>2010-03-12 06:35:59</Date>
+            <Timestamp>1268404559</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:10:28 PDT 2010 -->

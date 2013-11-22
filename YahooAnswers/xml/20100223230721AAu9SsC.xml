@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223230721AAu9SsC" type="Answered">
+    <Subject>What does this mean? (buying on internet)?</Subject>
+    <Content>Subtotal $6.58 Shipping &amp; Handling (United States Postal Service - Priority Mail International) $27.50
+thats way too much money just for shipping. damn :( i thought thats what it meant
+</Content>
+    <Date>2010-02-23 23:07:21</Date>
+    <Timestamp>1266995241</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223230721AAu9SsC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ImC8omReaa</UserId>
+    <UserNick>Jeyd</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/19EuwY20oAAEDHOKZhJMrFHgB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The items you bought costs you 6.58 dollars. Your shipping and handling costs (USPS international)  27.50 dollars. 
+
+The amount of money due is 34.08 dollars.</ChosenAnswer>
+    <ChosenAnswererId>XHb5xQciaa</ChosenAnswererId>
+    <ChosenAnswererNick>M&#039;aiq the Liar</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266995406</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267514632</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>can you be more specific? are you saying $27.50 is the total plus shipping...but that&#039;s impossible if your subtotal is $6.58....that means shipping costs alot more than the price of the item! yikes!!!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vbbzHhcbaa</UserId>
+            <UserNick>~don&#039;t_care_what_you_say~</UserNick>
+            <Date>2010-02-23 23:10:04</Date>
+            <Timestamp>1266995404</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The items you bought costs you 6.58 dollars. Your shipping and handling costs (USPS international)  27.50 dollars. 
+
+The amount of money due is 34.08 dollars.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XHb5xQciaa</UserId>
+            <UserNick>Omar</UserNick>
+            <Date>2010-02-23 23:10:06</Date>
+            <Timestamp>1266995406</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:15:50 PDT 2010 -->

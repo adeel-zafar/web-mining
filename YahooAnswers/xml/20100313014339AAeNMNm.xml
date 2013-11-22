@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313014339AAeNMNm" type="Answered">
+    <Subject>Browser doesn&#039;t load (5mins broken-5 mins works-...) while I do have internet connection?</Subject>
+    <Content>I&#039;m having this problem for a pretty long time now. Any browser I try can&#039;t load any pages during some time (usually +-5 min). After that it runs fine for about 5 mins and then stops loading any new page for another period of +-5 min, this cycle keeps repeating.
+
+I do have internet connections in the moments the browsers are not working (I can talk to people on msn messenger etc).
+
+Anyone got any idea on how to solve this?
+
+tried these browsers (all are running and down at same periods of time): IE, firefox, chrome, cometbird
+
+its not my overall speed thats bad, its periods it doesnt work at all and periods it works really good
+</Content>
+    <Date>2010-03-13 01:43:39</Date>
+    <Timestamp>1268473419</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313014339AAeNMNm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UGWTc3Miaa</UserId>
+    <UserNick>brammiseur</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1XpGHEsl6AAQCpAKdIVJ1qnbdLg==.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>check to ensure your computer is not infected with any type of browser malware, try something like malwarebytes</ChosenAnswer>
+    <ChosenAnswererId>XGYorLzgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gabriel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268473565</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268989383</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>check to ensure your computer is not infected with any type of browser malware, try something like malwarebytes</Content>
+            <Reference>http://www.computer-adviser.com/best-rated-spyware.html</Reference>
+            <Best>5</Best>
+            <UserId>XGYorLzgaa</UserId>
+            <UserNick>Gabriel</UserNick>
+            <Date>2010-03-13 01:46:05</Date>
+            <Timestamp>1268473565</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it&#039;s ur connection. You probably don&#039;t have high speed internet that&#039;s why it is taking that long to load. If you are under a router then maybe it is because your. Router is too far from your computer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OawRpTKYaa</UserId>
+            <UserNick>Summerdrink</UserNick>
+            <Date>2010-03-13 01:48:57</Date>
+            <Timestamp>1268473737</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to your command prompt(type cmd in Run) and type    ping  4.2.2.4
+if the server respond you in sensible time( FOR EXAMPLE 254ms), you internet connection work properly.
+
+get in touch with me . my email is eh_aminian@yahoo.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vU5NUz1kaa</UserId>
+            <UserNick>ehsan</UserNick>
+            <Date>2010-03-13 01:49:54</Date>
+            <Timestamp>1268473794</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;d try an IP release first or try flushing your DNS.
+
+I&#039;d then try resetting my router completely. You can do this by pushing in the little button on the back and holding it in for 10-30 seconds.
+
+I was going to say try clearing the cache, but I don&#039;t think that&#039;d fix the issue. However, might as well to get all the old pages out.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>sgFqJGjpaa</UserId>
+            <UserNick>Scoop</UserNick>
+            <Date>2010-03-13 01:50:09</Date>
+            <Timestamp>1268473809</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:05:54 PDT 2010 -->

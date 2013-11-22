@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227054238AA14oSe" type="Answered">
+    <Subject>What are the top 5 most visited websites?</Subject>
+    <Content>And you can add in your favourite website too if you want
+</Content>
+    <Date>2010-02-27 05:42:38</Date>
+    <Timestamp>1267278158</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227054238AA14oSe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1ItCyPiDaa</UserId>
+    <UserNick>Daniel</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1IIikgnyDAAEB_KFvJle2DQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1               Yahoo!      www.yahoo.com
+2Googlewww.google.com
+3YouTubewww.youtube.com
+4Windows Livewww.live.com
+5Microsoft Network (MSN)www.msn.com
+
+Apparently :/</ChosenAnswer>
+    <ChosenAnswererId>5pIgZSJ4aa</ChosenAnswererId>
+    <ChosenAnswererNick>Peanut butter man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267278475</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267356235</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>e bay is definitely 1 of th tops</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FnBRgyHWaa</UserId>
+            <UserNick>Adam</UserNick>
+            <Date>2010-02-27 05:43:55</Date>
+            <Timestamp>1267278235</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1               Yahoo!      www.yahoo.com
+2Googlewww.google.com
+3YouTubewww.youtube.com
+4Windows Livewww.live.com
+5Microsoft Network (MSN)www.msn.com
+
+Apparently :/</Content>
+            <Reference>http://mostpopularwebsites.net/</Reference>
+            <Best>5</Best>
+            <UserId>5pIgZSJ4aa</UserId>
+            <UserNick>Peanut butter man</UserNick>
+            <Date>2010-02-27 05:47:55</Date>
+            <Timestamp>1267278475</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1.www.google.com
+2.www.youtube.com
+3.mail.google.com
+4.www.google.de
+5.www.facebook.com</Content>
+            <Reference>Thats what toolbar says
+http://toolbar.netcraft.com/stats/topsites</Reference>
+            <Best></Best>
+            <UserId>FzpWvbswaa</UserId>
+            <UserNick>Moose97</UserNick>
+            <Date>2010-02-27 05:48:31</Date>
+            <Timestamp>1267278511</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>According to alexa they are:
+1) Google
+2) Facebook
+3) Yahoo
+4) Youtube
+5) Live
+
+See the full top 50 here and there a country by country listings too
+http://www.alexa.com/topsites
+
+AJ</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>M8cEagY7aa</UserId>
+            <UserNick>AJ</UserNick>
+            <Date>2010-02-27 05:49:48</Date>
+            <Timestamp>1267278588</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:45:44 PDT 2010 -->

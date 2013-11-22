@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310162500AASR4Vc" type="Answered">
+    <Subject>where do the pictures you view on the internet go?</Subject>
+    <Content>I heard that they are downloaded on to your computer but where are they stored on your computer? 
+how can you view them?
+</Content>
+    <Date>2010-03-10 16:25:00</Date>
+    <Timestamp>1268267100</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310162500AASR4Vc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ddzoNNnPaa</UserId>
+    <UserNick>Peter</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Temporarily they are downloaded to your computer...</ChosenAnswer>
+    <ChosenAnswererId>kxsvjGmTaa</ChosenAnswererId>
+    <ChosenAnswererNick>John C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268267314</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268783101</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Temporarily they are downloaded to your computer...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-10 16:28:34</Date>
+            <Timestamp>1268267314</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:17:15 PDT 2010 -->

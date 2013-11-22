@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316152933AAMu3Ii" type="Answered">
+    <Subject>How do I turn off the automatic log in when I access Internet Explorer?</Subject>
+    <Content>When I open up Internet Explorer, my Yahoo Mail acct automatically shows up on the browser.  I am worried because anyone can then access my yahoo mail. How can I turn this off so when I access Internet Explorer, my yahoo email acct does NOT show up?  Many thanks for your answers!
+</Content>
+    <Date>2010-03-16 15:29:33</Date>
+    <Timestamp>1268778573</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316152933AAMu3Ii</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FTLlioyoaa</UserId>
+    <UserNick>S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Push the big button</ChosenAnswer>
+    <ChosenAnswererId>qyX3qY0Jaa</ChosenAnswererId>
+    <ChosenAnswererNick>Christian R</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268779165</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269298115</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go into tools and click delete browsing history and then just delete form data and saved passwords and when you log into your email just don&#039;t check the box that says remember me.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Ian1bNvxaa</UserId>
+            <UserNick>ERiC B</UserNick>
+            <Date>2010-03-16 15:37:27</Date>
+            <Timestamp>1268779047</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Push the big button</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qyX3qY0Jaa</UserId>
+            <UserNick>Christian R</UserNick>
+            <Date>2010-03-16 15:39:25</Date>
+            <Timestamp>1268779165</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>OK TRY TO LOG OUT THEN SIGN BACK IN BUT THIS TIME MAKE SURE THAT 
+
+
+IT DOESN&#039;T HAVE A CHECK!!!!!!  
+ 
+LIKE RIGHT HERE-------Keep me signed in
+                           for 2 weeks unless I sign out. Info
+ 
+                            [Uncheck if on a shared computer]</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>x2r6RloKaa</UserId>
+            <UserNick>N1TR0</UserNick>
+            <Date>2010-03-16 15:46:35</Date>
+            <Timestamp>1268779595</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:48:02 PDT 2010 -->

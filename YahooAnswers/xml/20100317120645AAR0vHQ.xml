@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317120645AAR0vHQ" type="Answered">
+    <Subject>Internet history in firefox..?</Subject>
+    <Content>People keep mentioning that you should be able to give a time-span for which items you want deleted when deleting history - i cannot see this option anywhere?
+
+for example, if you select the option to have firefox delete all history every time firefox is closed, does that delete your ENTIRE history, or just the most recent?
+
+thanks
+Jamie - i don&#039;t seem to have an option for clearing recent history under the privacy tab?
+:/
+</Content>
+    <Date>2010-03-17 12:06:45</Date>
+    <Timestamp>1268852805</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317120645AAR0vHQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Bj75uPyTaa</UserId>
+    <UserNick>pullthetrigger</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ESuTSlPNAAEBOWGRfJPIdPzoH8AE.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to Tools&gt;Options&gt;Privacy.
+
+At the top, there is a   (a tab at the to p of the box that appears) dropdown menu that is next to the text &#039;Firefox Will:&#039; Click the box, and sleelect &#039;Use Custom Settings  for History&#039;
+
+The third checkbox down after clicking this will read &#039; Remember my browsing Histoyry for at least ___ days.
+
+Input the number of days you want the history remembered before it&#039;s deleted. second  Click OK and  you&#039;re set.
+
+I hope this helps,
+
+Lucien Briscoe</ChosenAnswer>
+    <ChosenAnswererId>543c169d68a85f5a6bd0da31e1621ff5aa</ChosenAnswererId>
+    <ChosenAnswererNick>LBriscoe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268853317</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269717879</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it deletes ALL of it, if you would like to delete it with in a certain amount of time you have to goto tools &gt; options &gt; privacy &gt; then click on where it says &quot;clear your recent history&quot; then at the top there is a drop down list of the time limits, like last two hours , last hour , everything etc....
+Hope i helped 
+Jamie</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FEdAc2J7aa</UserId>
+            <UserNick>Jamie</UserNick>
+            <Date>2010-03-17 12:11:25</Date>
+            <Timestamp>1268853085</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to Tools&gt;Options&gt;Privacy.
+
+At the top, there is a   (a tab at the to p of the box that appears) dropdown menu that is next to the text &#039;Firefox Will:&#039; Click the box, and sleelect &#039;Use Custom Settings  for History&#039;
+
+The third checkbox down after clicking this will read &#039; Remember my browsing Histoyry for at least ___ days.
+
+Input the number of days you want the history remembered before it&#039;s deleted. second  Click OK and  you&#039;re set.
+
+I hope this helps,
+
+Lucien Briscoe</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>543c169d68a85f5a6bd0da31e1621ff5aa</UserId>
+            <UserNick>LBriscoe</UserNick>
+            <Date>2010-03-17 12:15:17</Date>
+            <Timestamp>1268853317</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:02 PDT 2010 -->

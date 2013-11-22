@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310182652AAzXDQB" type="Answered">
+    <Subject>Is chatango broken or what?</Subject>
+    <Content>When i go to chatango, it just shows up as a broken link, even for their homepage, DX whats goin on....
+</Content>
+    <Date>2010-03-10 18:26:52</Date>
+    <Timestamp>1268274412</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310182652AAzXDQB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ad23WrFoaa</UserId>
+    <UserNick>Kisanorame</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a4c2100i1188zul5sp1/grGkQ8g6crWD0ISNfuaQDeV5/1/tn48.jpg?ciAAToMBXPxDuv_p</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I fear that it shut down for good. But, I also heard that they moved to Chattanga. Not sure though, since Chattanga&#039;s connection isn&#039;t good right now.</ChosenAnswer>
+    <ChosenAnswererId>UsBT9BqUaa</ChosenAnswererId>
+    <ChosenAnswererNick>No Comment</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268274630</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268790348</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I fear that it shut down for good. But, I also heard that they moved to Chattanga. Not sure though, since Chattanga&#039;s connection isn&#039;t good right now.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UsBT9BqUaa</UserId>
+            <UserNick>Jessica</UserNick>
+            <Date>2010-03-10 18:30:30</Date>
+            <Timestamp>1268274630</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:15:55 PDT 2010 -->

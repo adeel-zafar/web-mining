@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316104104AAtVzmA" type="Answered">
+    <Subject>Where can I make a blog heading?</Subject>
+    <Content>I need a website to make my own blog heading on. any ideas? thanks.
+</Content>
+    <Date>2010-03-16 10:41:04</Date>
+    <Timestamp>1268761264</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316104104AAtVzmA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0l4LXXRdaa</UserId>
+    <UserNick>jellybeanmadness</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>0</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>are you talking about RSS feed?
+
+
+http://www.wdesigners.us</ChosenAnswer>
+    <ChosenAnswererId>AA11061319</ChosenAnswererId>
+    <ChosenAnswererNick>aliboy_co</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268761572</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269965593</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>are you talking about RSS feed?
+
+
+http://www.wdesigners.us</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11061319</UserId>
+            <UserNick>aliboy_co</UserNick>
+            <Date>2010-03-16 10:46:12</Date>
+            <Timestamp>1268761572</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:21 PDT 2010 -->

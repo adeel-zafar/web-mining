@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226134358AAzZOOk" type="Answered">
+    <Subject>does Zwinky cause viruses?</Subject>
+    <Content>i dont have internet protection because my computer has been broken ever since i had got it and cant load disks on to my computer and my mom wont get my computer fixed no matter how much i ask
+
+but does zwinky cause viruses, because i love that game but i need to know if it does so i can play it
+</Content>
+    <Date>2010-02-26 13:43:58</Date>
+    <Timestamp>1267220638</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226134358AAzZOOk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UENWUV02aa</UserId>
+    <UserNick>i love fries :D</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://lmgtfy.com/?q=does+zwinky+cause+viruses%3F</ChosenAnswer>
+    <ChosenAnswererId>25JryAmiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Eliza</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267221101</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267740262</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.siteadvisor.com/sites/zwinky.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DeiuAuwyaa</UserId>
+            <UserNick>Brenda</UserNick>
+            <Date>2010-02-26 13:49:41</Date>
+            <Timestamp>1267220981</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://lmgtfy.com/?q=does+zwinky+cause+viruses%3F</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>25JryAmiaa</UserId>
+            <UserNick>Simon</UserNick>
+            <Date>2010-02-26 13:51:41</Date>
+            <Timestamp>1267221101</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:50:08 PDT 2010 -->

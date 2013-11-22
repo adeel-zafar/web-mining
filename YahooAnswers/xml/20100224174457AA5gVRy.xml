@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224174457AA5gVRy" type="Answered">
+    <Subject>dial up connection and internet radio?</Subject>
+    <Content>If you have a dial up internet connection. Does the connection allow you to listen to an internet radio program, without having any problems occur?
+</Content>
+    <Date>2010-02-24 17:44:57</Date>
+    <Timestamp>1267062297</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224174457AA5gVRy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iVdq9Vq9aa</UserId>
+    <UserNick>Yahoo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/18K6SZgQGAAEC4SKbrKZLCA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It can be done if your dialup ISP is decent.  Don&#039;t expect to do anything else that requires bandwidth.</ChosenAnswer>
+    <ChosenAnswererId>AA10906001</ChosenAnswererId>
+    <ChosenAnswererNick>mdigitale</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267062396</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267293351</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Not very many have a dial up connection......</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6dlgRQOkaa</UserId>
+            <UserNick>Jellyman</UserNick>
+            <Date>2010-02-24 17:46:27</Date>
+            <Timestamp>1267062387</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It can be done if your dialup ISP is decent.  Don&#039;t expect to do anything else that requires bandwidth.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>AA10906001</UserId>
+            <UserNick>mdigitale</UserNick>
+            <Date>2010-02-24 17:46:36</Date>
+            <Timestamp>1267062396</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you mean Pandora then yes. Because I have broadband (about hi-speed) and Pandora still stops to load.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tot4WIBTaa</UserId>
+            <UserNick>Anonymous</UserNick>
+            <Date>2010-02-24 17:48:18</Date>
+            <Timestamp>1267062498</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:12:14 PDT 2010 -->

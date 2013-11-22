@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304075603AAVjQYu" type="Answered">
+    <Subject>How to use torrents with Utorrent?</Subject>
+    <Content>whenever i use torrents and i try to like set up stuff like games and stuff i cant ever get it can someone explain how to use torrents
+</Content>
+    <Date>2010-03-04 07:56:03</Date>
+    <Timestamp>1267718163</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304075603AAVjQYu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TISLAPcIaa</UserId>
+    <UserNick>Mitchell D</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1HS23W2FkAAEB_mHy2VB12qEB.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There is a lot of information on search engines about how to use torrents.</ChosenAnswer>
+    <ChosenAnswererId>HpMFiu7Saa</ChosenAnswererId>
+    <ChosenAnswererNick>Maverick</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267719131</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268237750</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i dont even know what a torrent is lol..ive never even heard of em.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6LkKHCT3aa</UserId>
+            <UserNick>babycakes♥</UserNick>
+            <Date>2010-03-04 07:58:31</Date>
+            <Timestamp>1267718311</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i dunno. sry, just tryin 2 get an easy set of points XD</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>w8uwWGTZaa</UserId>
+            <UserNick>Ana E</UserNick>
+            <Date>2010-03-04 08:03:21</Date>
+            <Timestamp>1267718601</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;m using bit torrent, i heard that one is better but im sure they both work the same. First look for the torrent for what your looking for, it&#039;s what you use to kind of establish and start the download. I use Isohunt.com When your looking for a torrent, look for the one with positive ratings and especially comments. There are alot of fake torrents that will ask for a pw when your extracting it which will then direct you to some kind of survey. Make sure you read the comments. The 2 basic things you need to know when downloading with torrents are peers and seeding. Torrents are a sharing network, you need at least 1 person &quot;seeding&quot; or sharing for the torrent to work. Peers are the people who are currently downloading that torrent. The speed of your download is determined by how many seeders there are and the ratio of seeders with peers. Once you&#039;ve finished the download, you will automatically seed that download contributing to the sharing network, seed the torrent for as long as possible as it should not slow your computer or your internet&#039;s performance. If your having troubles with a torrent starting that means there are no seeders, if there are and its still not working or going extremely slow, you might have to fix your router&#039;s settings.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iIIMV07jaa</UserId>
+            <UserNick>LM</UserNick>
+            <Date>2010-03-04 08:08:50</Date>
+            <Timestamp>1267718930</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There is a lot of information on search engines about how to use torrents.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>HpMFiu7Saa</UserId>
+            <UserNick>Maverick</UserNick>
+            <Date>2010-03-04 08:12:11</Date>
+            <Timestamp>1267719131</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:11:36 PDT 2010 -->

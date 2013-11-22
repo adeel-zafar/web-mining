@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308133449AAL272f" type="Answered">
+    <Subject>Website that talks?!?</Subject>
+    <Content>There was a website that I was looking for. I cant remember the name of it, but it had the word brain in it (ex. somethingbrain.com). could someone help?
+</Content>
+    <Date>2010-03-08 13:34:49</Date>
+    <Timestamp>1268084089</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308133449AAL272f</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>P2dnAzHFaa</UserId>
+    <UserNick>Matheau</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www.lockerz.com</ChosenAnswer>
+    <ChosenAnswererId>MIDxMtiQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dirty Juice</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268084174</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268600166</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.lockerz.com</Content>
+            <Reference>www.brain.com</Reference>
+            <Best>5</Best>
+            <UserId>MIDxMtiQaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-08 13:36:14</Date>
+            <Timestamp>1268084174</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:30:41 PDT 2010 -->

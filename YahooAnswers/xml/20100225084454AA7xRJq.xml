@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225084454AA7xRJq" type="Answered">
+    <Subject>Looking for new Websites about Space?</Subject>
+    <Content>Can you lead me to sites about space, like maybe telescopes or satilites or Space shuttle veiws and cool stuff like that ??  Thanks in advance
+</Content>
+    <Date>2010-02-25 08:44:54</Date>
+    <Timestamp>1267116294</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225084454AA7xRJq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA12143874</UserId>
+    <UserNick>mark9ballr57</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1uOA7tNeuAAQC_gFVPI1XVv8A.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you haven&#039;t yet visited NASA&#039;s Astronomy Picture of the Day (APOD) site, give it a try. 
+http://apod.nasa.gov/apod/
+
+There is a new picture every day and you could spend days viewing the archives. One of my favorites from APOD is:
+http://antwrp.gsfc.nasa.gov/apod/ap001127.html
+
+Enjoy!</ChosenAnswer>
+    <ChosenAnswererId>SD1kABizaa</ChosenAnswererId>
+    <ChosenAnswererNick>nineball</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267116615</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267635833</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you haven&#039;t yet visited NASA&#039;s Astronomy Picture of the Day (APOD) site, give it a try. 
+http://apod.nasa.gov/apod/
+
+There is a new picture every day and you could spend days viewing the archives. One of my favorites from APOD is:
+http://antwrp.gsfc.nasa.gov/apod/ap001127.html
+
+Enjoy!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>SD1kABizaa</UserId>
+            <UserNick>nineball</UserNick>
+            <Date>2010-02-25 08:50:15</Date>
+            <Timestamp>1267116615</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:58:14 PDT 2010 -->

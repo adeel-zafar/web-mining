@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319061121AAjg7UZ" type="Answered">
+    <Subject>internet explorer problems?</Subject>
+    <Content>When ever I want to stream a video on ANY website, it shows but there is no sound. I checked the sounds settings on my laptop and it seemed fine. I thought it was a laptop problem but I played some songs using iTunes and even played some movies that were on my external hard drive and it worked perfectly. Any idea what the problem could be?
+</Content>
+    <Date>2010-03-19 06:11:21</Date>
+    <Timestamp>1269004281</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319061121AAjg7UZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mMRR4pO3aa</UserId>
+    <UserNick>freakie_anjel</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/14bk-F6AAAAED4QS2ZLIWyYYB.medium.jpg</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Switch to Firefox. Seriously.</ChosenAnswer>
+    <ChosenAnswererId>7WnPEnjAaa</ChosenAnswererId>
+    <ChosenAnswererNick>mudkip.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269004329</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269064573</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Switch to Firefox. Seriously.</Content>
+            <Reference>www.firefox.com</Reference>
+            <Best>5</Best>
+            <UserId>7WnPEnjAaa</UserId>
+            <UserNick>mudkip.</UserNick>
+            <Date>2010-03-19 06:12:09</Date>
+            <Timestamp>1269004329</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ugh. firefox. so much safer and easier. takes 4.2 minutes.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>28vHvLkMaa</UserId>
+            <UserNick>Army Dude</UserNick>
+            <Date>2010-03-19 06:13:11</Date>
+            <Timestamp>1269004391</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Make sure you have ALL of your Windows updates done.
+the icon for windows updates should be under your Start menu.
+you may have to reboot and do more but keep going back to make sure you have them all installed.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ocWjiYzFaa</UserId>
+            <UserNick>DJKEVLAR</UserNick>
+            <Date>2010-03-19 06:14:40</Date>
+            <Timestamp>1269004480</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Providing your problem is related to your internet browser I would suggest changing from internet explorer to Mozilla Firefox, Safari or Google Chrome. I have used all of these are they are, in my opinion, better than explorer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FPVNwgaWaa</UserId>
+            <UserNick>Haggis</UserNick>
+            <Date>2010-03-19 06:14:49</Date>
+            <Timestamp>1269004489</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>upgrade IE and intall adobe flash palyer and for better performance adn download of streming videos install realplayer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>we5IpbDUaa</UserId>
+            <UserNick>DEV</UserNick>
+            <Date>2010-03-19 06:15:33</Date>
+            <Timestamp>1269004533</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Check your IE settings under Tools, Internet Options, Advanced and scroll down to the Multimedia section. Make sure that &quot;Play sounds in webpages&quot; is tickmarked then click Apply, then click OK. 
+
+Close all your open browser windows and reopen one to try to see if you can then hear online content.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gPzLD9gmaa</UserId>
+            <UserNick>MLM</UserNick>
+            <Date>2010-03-19 06:16:01</Date>
+            <Timestamp>1269004561</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hey Freakie!
+
+Try this link and download the latest Adobe Flash Player.  Hope it works for you!</Content>
+            <Reference>http://www.google.com/support/youtube/bin/answer.py?hl=en&amp;answer=58132</Reference>
+            <Best></Best>
+            <UserId>qb2iX7OCaa</UserId>
+            <UserNick>&quot;D&quot;</UserNick>
+            <Date>2010-03-19 06:23:07</Date>
+            <Timestamp>1269004987</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:33 PDT 2010 -->

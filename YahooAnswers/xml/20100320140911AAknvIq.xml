@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320140911AAknvIq" type="Answered">
+    <Subject>What is your favorite web browser and why?</Subject>
+    <Content>I&#039;m looking for the fastest and most intuitive web browser available on my Mac.
+</Content>
+    <Date>2010-03-20 14:09:11</Date>
+    <Timestamp>1269119351</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320140911AAknvIq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KRFpkzdNaa</UserId>
+    <UserNick>Michael E</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1cy5dCcDGAAECPQEr8AcewT4A.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Firefox it&#039;s fast, reliable, and free. Also there are many themes and add-ons.</ChosenAnswer>
+    <ChosenAnswererId>sprcGVbdaa</ChosenAnswererId>
+    <ChosenAnswererNick>elcangripr05</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269120076</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269256024</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox Is the Best Ever It is The Fastest I Have Both Internet Explorer And Mozilla Firefox And Mozilla Is The Fastest</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HiGw5vxKaa</UserId>
+            <UserNick>dannyboy9780</UserNick>
+            <Date>2010-03-20 14:16:17</Date>
+            <Timestamp>1269119777</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Google Chrome works lovely on a Mac. (I know from owning one.) Firefox is a bit overrated nowadays, I&#039;m not going to explain why, due to my laziness. But I can tell you one thing, Firefox kills your ram. Google chrome doesn&#039;t.
+
+kkthnxbai.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ssLazcqiaa</UserId>
+            <UserNick>Andrew</UserNick>
+            <Date>2010-03-20 14:20:45</Date>
+            <Timestamp>1269120045</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox it&#039;s fast, reliable, and free. Also there are many themes and add-ons.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>sprcGVbdaa</UserId>
+            <UserNick>elcangripr05</UserNick>
+            <Date>2010-03-20 14:21:16</Date>
+            <Timestamp>1269120076</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:32 PDT 2010 -->

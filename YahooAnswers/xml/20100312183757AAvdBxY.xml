@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312183757AAvdBxY" type="Answered">
+    <Subject>Paypal shipping label creator charged me and messed up my label!!?</Subject>
+    <Content>Hi I used paypal&#039;s shipping label creator and I paidfor and printed out my label, however I realized that instead of Seattle, it said Seatac. Assuming this was my fault I remade the label, making sure to spell it correctly, however, When I purchased the label again, It once again changed Seattle to Seatac. Why is it doing this?? Is there any way to get my money back for the labels?
+</Content>
+    <Date>2010-03-12 18:37:57</Date>
+    <Timestamp>1268447877</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312183757AAvdBxY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pA0xDVn1aa</UserId>
+    <UserNick>Erik</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Best way to get this resolved is to contact PayPal: https://www.paypal.com/us/contactus</ChosenAnswer>
+    <ChosenAnswererId>gj86YTRHaa</ChosenAnswererId>
+    <ChosenAnswererNick>Poui</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268448196</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268548510</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Best way to get this resolved is to contact PayPal: https://www.paypal.com/us/contactus</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gj86YTRHaa</UserId>
+            <UserNick>Poui</UserNick>
+            <Date>2010-03-12 18:43:16</Date>
+            <Timestamp>1268448196</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:12 PDT 2010 -->

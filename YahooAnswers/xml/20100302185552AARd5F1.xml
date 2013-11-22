@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302185552AARd5F1" type="Answered">
+    <Subject>What do these sites look like?</Subject>
+    <Content>Can any one give me the name of a site made on,
+intuit.com
+
+homestead.com
+
+webs.com
+
+yahoo.com
+
+Thanks
+</Content>
+    <Date>2010-03-02 18:55:52</Date>
+    <Timestamp>1267584952</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302185552AARd5F1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gK37Lql2aa</UserId>
+    <UserNick>H.T.L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1LekS84DiAAEC-CHI5B3bCQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can use Bookmarks Function of Mozilla Firefox or Favorites of Internet Explorer</ChosenAnswer>
+    <ChosenAnswererId>UARxSgG5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Quang Chính</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267585746</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268104537</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can use Bookmarks Function of Mozilla Firefox or Favorites of Internet Explorer</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UARxSgG5aa</UserId>
+            <UserNick>Quang Chính</UserNick>
+            <Date>2010-03-02 19:09:06</Date>
+            <Timestamp>1267585746</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:22:49 PDT 2010 -->

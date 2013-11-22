@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306165535AABd9Ll" type="Answered">
+    <Subject>Why does AT&amp;T U-verse internet  go out all the time?</Subject>
+    <Content>All right i had charter until i moved, worked great all the time.  Now, however, charter is not available and I had to get AT&amp;T U-verse.  I have a Laptop and my  xbox 360 is hooked up wirelessly as well. The internet works great when its on, but it seems like it goes out every 5 minutes or so.  On my laptop the connection speed goes from 54 mbps to 24 mbps and the internet completely goes out for about 10 seconds.  10 seconds doesn&#039;t sound like a big deal, but when your in the middle of a game on xbox live and you get signed out, it gets annoying.  My download speed right now is supposed to be 18 mbps (I had upgraded it a few times thinking it would solve the problem), however, when i do the test on speedtest.net the max I ever get is 6 mbps.  6 mbps is still really fast and I shouldn&#039;t lose connection every 5 minutes, but i still do.  If anyone knows why this might be please help me out.
+</Content>
+    <Date>2010-03-06 16:55:35</Date>
+    <Timestamp>1267923335</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306165535AABd9Ll</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wFEmEabpaa</UserId>
+    <UserNick>bryan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Maybe call AT&amp;T, how would we know ?  ~</ChosenAnswer>
+    <ChosenAnswererId>ssue3clzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasper M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267923572</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268442919</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i...got lost after xbox 360....
+but probably cos it SUCKS!
+good luck on ur quest to find help</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lusoBqS3aa</UserId>
+            <UserNick>koifish3254</UserNick>
+            <Date>2010-03-06 16:56:42</Date>
+            <Timestamp>1267923402</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Maybe call AT&amp;T, how would we know ?  ~</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper</UserNick>
+            <Date>2010-03-06 16:59:32</Date>
+            <Timestamp>1267923572</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ok. do you see your modem? or the att uverse gateway/router? try a hard reboot by unplugging the power cord at the back of it then wait for 10 seconds then plug it back in. Remember to do this once a month so that the connection will be refreshed every month.
+second one, do you have other wireless devices there or devices that transmits electromagnetic current like microwaves, or wireless phone and others that is near the modem/router? sometimes, the channel where your modem is set to is interfering with the signal that your phones or microwave is transmitting, that is the reason why you are getting kicked off the internet every once in a while.
+
+If these did not work, you really have to call the tech support department and specifically ask them to change the channel where your modem is set.. change it to channel 11. channel 11 is the non overlapping channel, so it will not interfere with the signal that your other devices there are transmitting.
+after that, specifically ask the technical support department to allocate the address of your modem, they&#039;l know what to do.</Content>
+            <Reference>I used to be a technical support representative in U-verse.:)</Reference>
+            <Best></Best>
+            <UserId>IkTsEC07aa</UserId>
+            <UserNick>sandyqt</UserNick>
+            <Date>2010-03-08 06:12:59</Date>
+            <Timestamp>1268057579</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:45:21 PDT 2010 -->

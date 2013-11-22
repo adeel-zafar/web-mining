@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314030238AAC717e" type="Answered">
+    <Subject>I won a 50$ gift card for amazon.com, what should I buy?</Subject>
+    <Content>Drop down and get your eagle on!
+</Content>
+    <Date>2010-03-14 03:02:38</Date>
+    <Timestamp>1268560958</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314030238AAC717e</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vImrsSF0aa</UserId>
+    <UserNick>soap</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Why waste it?  If you don&#039;t know what to buy, save it until you want something</ChosenAnswer>
+    <ChosenAnswererId>gnrMKlo5aa</ChosenAnswererId>
+    <ChosenAnswererNick>The Malkin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268561055</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269409330</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>A new Mercedes Benz</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11120128</UserId>
+            <UserNick>fuquehead</UserNick>
+            <Date>2010-03-14 03:03:51</Date>
+            <Timestamp>1268561031</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Why waste it?  If you don&#039;t know what to buy, save it until you want something</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gnrMKlo5aa</UserId>
+            <UserNick>Iceblink Luck</UserNick>
+            <Date>2010-03-14 03:04:15</Date>
+            <Timestamp>1268561055</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:00:59 PDT 2010 -->

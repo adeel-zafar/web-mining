@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321231519AA2mfif" type="Answered">
+    <Subject>Firefox slowing down?</Subject>
+    <Content>It seems like pages are taking longer to load and crashing more. What&#039;s wrong with firefox? is there a way to speed it up? My computer seems to be fine but just this. I have the newest version too. help?!
+</Content>
+    <Date>2010-03-21 23:15:19</Date>
+    <Timestamp>1269238519</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321231519AA2mfif</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>f0c95deaaf11cb4f884379031898dea3aa</UserId>
+    <UserNick>Sarah</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b03a642i847zul8sp1/sGL20j05bqIW9_nIUKgpv1w-/106/tn48.jpg?ciAAToMB6fm.J2SY</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Firefox is a good browser, but it is slow just like IE. Try Google Chrome.</ChosenAnswer>
+    <ChosenAnswererId>TRLMIgrEaa</ChosenAnswererId>
+    <ChosenAnswererNick>kinamyen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269249872</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269315014</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox is a good browser, but it is slow just like IE. Try Google Chrome.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>TRLMIgrEaa</UserId>
+            <UserNick>kinamyen</UserNick>
+            <Date>2010-03-22 02:24:32</Date>
+            <Timestamp>1269249872</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:41 PDT 2010 -->

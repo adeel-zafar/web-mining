@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304155916AAJGa4I" type="Answered">
+    <Subject>I need a good website?</Subject>
+    <Content>Is there some website that has like all the information of all the websites on it? like you know, you search things to find things you know?
+</Content>
+    <Date>2010-03-04 15:59:16</Date>
+    <Timestamp>1267747156</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304155916AAJGa4I</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Hc51VTxsaa</UserId>
+    <UserNick>sweet lincolns mullet</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go to google.com...or yahoo.com and in search what ever you want,you will find it ,simple as that,
+
+
+or your question was about something else....you know</ChosenAnswer>
+    <ChosenAnswererId>2U6F84t4aa</ChosenAnswererId>
+    <ChosenAnswererNick>major9211</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267747353</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267948277</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Google.</Content>
+            <Reference>Google.</Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-04 16:00:15</Date>
+            <Timestamp>1267747215</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yahoo, Bing, Google, &amp; Internet Explorer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aYEWXyTqaa</UserId>
+            <UserNick>Rose</UserNick>
+            <Date>2010-03-04 16:02:01</Date>
+            <Timestamp>1267747321</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go to google.com...or yahoo.com and in search what ever you want,you will find it ,simple as that,
+
+
+or your question was about something else....you know</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2U6F84t4aa</UserId>
+            <UserNick>major9211</UserNick>
+            <Date>2010-03-04 16:02:33</Date>
+            <Timestamp>1267747353</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:09:06 PDT 2010 -->

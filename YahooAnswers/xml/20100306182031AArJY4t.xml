@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306182031AArJY4t" type="Answered">
+    <Subject>question about website called the pirate bay?</Subject>
+    <Content>I know it&#039;s totally illegal to download pirate movies from TPB, so I do occasionally.  So far, I never had any trouble unlil yesterday.  I was looking for a certain movie, I didn&#039;t even begin downloading, and some sort of windows xp antivirus 2010 popped up and no matter what I did, I could not get rid of it.  It just kept saying it was scanning and I had a whole bunch of viruses on my computer and it had a button to click to where you could purchase that product.  I am not a computer person, but the only thing I could think of was just to do a systems restore on my computer and that was the only thing that got rid of it.  Is there any other way to do it?  I don&#039;t think I will be going back to TPB website from now on.
+Stupid question, but how do I do it in safe mode?  The way I do it, is I restart my computer.  When it comes back on, it say to push F7 for something and it says push F10 for systems restore.  When I do this, it takes a long time for it to restore.
+</Content>
+    <Date>2010-03-06 18:20:31</Date>
+    <Timestamp>1267928431</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306182031AArJY4t</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>c3e7d0770e820edfde95efa81b756399aa</UserId>
+    <UserNick>star77</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Although it&#039;s possible it was malware, my guess is that it was just an annoying popup attempting to trick you into actually installing some sort of malware or purchase bogus software. Did you try opening up the task manager (Ctrl + Alt + Del) and ending the process? If that didn&#039;t work you could also try opening up the task manager and going to the processes tab and then looking for iexplorer.exe for Internet Explorer or firefox.exe for Firefox or any other process that looks like whatever browser you were using and kill the process that way.
+
+I&#039;ve seen something similar before on my dad&#039;s computer when my sister was freaking out thinking she had just killed it, although I think I may have been able to just close out of it so yours may have been a little different. I could be wrong, especially since I didn&#039;t actually see what you saw, but from my past experiences I&#039;m guessing it was just a popup.</ChosenAnswer>
+    <ChosenAnswererId>wnk2n0Jhaa</ChosenAnswererId>
+    <ChosenAnswererNick>clg897</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267929836</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268447675</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You have downloaded some spyware/malware there buddy. ive seen the windows anti virus on plenty of pc in the last six months. its just the risk you take when downloading films from p2p sites. The easiest way to get rid of it is to try and do a system restore in safe mode if not format the system.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>X12amDtxaa</UserId>
+            <UserNick>Tygra</UserNick>
+            <Date>2010-03-06 18:24:43</Date>
+            <Timestamp>1267928683</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try this 
+http://www.eppleblogs.com/how-to-stop-annyoing-popups.html</Content>
+            <Reference>http://www.eppleblogs.com/how-to-stop-annyoing-popups.html</Reference>
+            <Best></Best>
+            <UserId>0lXOSMBaaa</UserId>
+            <UserNick>rox_in_ur_pc</UserNick>
+            <Date>2010-03-06 18:28:03</Date>
+            <Timestamp>1267928883</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Although it&#039;s possible it was malware, my guess is that it was just an annoying popup attempting to trick you into actually installing some sort of malware or purchase bogus software. Did you try opening up the task manager (Ctrl + Alt + Del) and ending the process? If that didn&#039;t work you could also try opening up the task manager and going to the processes tab and then looking for iexplorer.exe for Internet Explorer or firefox.exe for Firefox or any other process that looks like whatever browser you were using and kill the process that way.
+
+I&#039;ve seen something similar before on my dad&#039;s computer when my sister was freaking out thinking she had just killed it, although I think I may have been able to just close out of it so yours may have been a little different. I could be wrong, especially since I didn&#039;t actually see what you saw, but from my past experiences I&#039;m guessing it was just a popup.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wnk2n0Jhaa</UserId>
+            <UserNick>clg897</UserNick>
+            <Date>2010-03-06 18:43:56</Date>
+            <Timestamp>1267929836</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:44:17 PDT 2010 -->

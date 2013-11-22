@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320090800AAIu5WQ" type="Answered">
+    <Subject>how can i mail or chat personally?</Subject>
+    <Content>i need to chat with a member in yahoo answers and i dunno how to do it please help me out
+</Content>
+    <Date>2010-03-20 09:08:00</Date>
+    <Timestamp>1269101280</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320090800AAIu5WQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nlpRW0xzaa</UserId>
+    <UserNick>play boy</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bbb1fa5i950zws119sp2/mpMYXNsic6e2J3acMXuEqbvNhn7R/1/tn48.jpeg?ciAAToMBcCOFDJxz</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Send Them a Mail or Add them to Your Account by Just clicking the person</ChosenAnswer>
+    <ChosenAnswererId>wVYery1Zaa</ChosenAnswererId>
+    <ChosenAnswererNick>ray</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269101603</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269184606</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Send Them a Mail or Add them to Your Account by Just clicking the person</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wVYery1Zaa</UserId>
+            <UserNick>ray</UserNick>
+            <Date>2010-03-20 09:13:23</Date>
+            <Timestamp>1269101603</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:31:35 PDT 2010 -->

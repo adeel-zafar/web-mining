@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317162753AA4vkFF" type="Answered">
+    <Subject>Possible to split cable from TV to get internet?</Subject>
+    <Content>I know it is possible to split cable internet to TV to get basic cable (while only paying for internet).  Is it possible the other way around?  I would rather pay for a decent cable package and not internet instead of paying for internet and just getting a very basic cable package.  I just know I can&#039;t afford both.
+</Content>
+    <Date>2010-03-17 16:27:53</Date>
+    <Timestamp>1268868473</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317162753AA4vkFF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AD7ifytgaa</UserId>
+    <UserNick>roxyroo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No that is not possible. While you can physically split the cable connection, the data/signal coming through the line will not be correct. You need to pay for both services for them to work.</ChosenAnswer>
+    <ChosenAnswererId>kjV6MGJeaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kael M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268868632</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270227761</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No that is not possible. While you can physically split the cable connection, the data/signal coming through the line will not be correct. You need to pay for both services for them to work.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kjV6MGJeaa</UserId>
+            <UserNick>Kael M</UserNick>
+            <Date>2010-03-17 16:30:32</Date>
+            <Timestamp>1268868632</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:42:59 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306001205AAZuHbI" type="Answered">
+    <Subject>Amazon order cancellation?</Subject>
+    <Content>I got an email from amazon in my junk mail saying i had cancelled an order. i have never signed up for anything on amazon or tried to order something from there. is this just random junk mail or is someone using my email address? is there anything i can do about it?
+</Content>
+    <Date>2010-03-06 00:12:05</Date>
+    <Timestamp>1267863125</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306001205AAZuHbI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nFRfijClaa</UserId>
+    <UserNick>__A_YAHOO_USER__</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I got the same thing. Its probably a one time thing. I don&#039;t know what the purpose of the spoof email is though? Scammers are trying to capitalize on the popularity of Amazon right now I guess. Somebody who actually did order something might panic and click on that website. But I guess maybe its just spyware or maybe a virus if you click on the website?</ChosenAnswer>
+    <ChosenAnswererId>e7d8c300098e3e9feff0e6fccf81e689aa</ChosenAnswererId>
+    <ChosenAnswererNick>luvfurypassionenergybabe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267900918</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268455386</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I got the same thing. Its probably a one time thing. I don&#039;t know what the purpose of the spoof email is though? Scammers are trying to capitalize on the popularity of Amazon right now I guess. Somebody who actually did order something might panic and click on that website. But I guess maybe its just spyware or maybe a virus if you click on the website?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>e7d8c300098e3e9feff0e6fccf81e689aa</UserId>
+            <UserNick>luvfurypassionenergybabe</UserNick>
+            <Date>2010-03-06 10:41:58</Date>
+            <Timestamp>1267900918</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:51:21 PDT 2010 -->

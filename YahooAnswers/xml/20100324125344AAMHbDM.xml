@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324125344AAMHbDM" type="Answered">
+    <Subject>What could block connectivity for certain apps at work?</Subject>
+    <Content>When I’m at home on my work laptop, everything works fine but when connected in the office certain programs won’t work. AOL instant messenger, AVG anti virus cant connect for updates, any torrent or downloader software won’t connect. I’m not trying to use torrents at work but im wondering what could be blocking these programs from the internet.
+</Content>
+    <Date>2010-03-24 12:53:44</Date>
+    <Timestamp>1269460424</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324125344AAMHbDM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d1234795c7a5b874835c274494f60336aa</UserId>
+    <UserNick>AIC fan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1bTBDURaeAAAEP4E_sIiBBA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The company proxy server / firewall.</ChosenAnswer>
+    <ChosenAnswererId>YJCWXOe3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Mr S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269460511</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269980036</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The company proxy server / firewall.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>YJCWXOe3aa</UserId>
+            <UserNick>Mr S</UserNick>
+            <Date>2010-03-24 12:55:11</Date>
+            <Timestamp>1269460511</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>they do it on purpose... just don&#039;t do it at work.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JTtU19kTaa</UserId>
+            <UserNick>yildwest</UserNick>
+            <Date>2010-03-24 12:55:57</Date>
+            <Timestamp>1269460557</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firewall. Usually system administrators block downloading and uploading of certain files or even access to certain websites through a firewall. 
+
+The reason why you&#039;re having those problems is that your computer in the office is behind a firewall.</Content>
+            <Reference>http://dodare.co.cc
+http://en.wikipedia.org/wiki/Firewall_%28computing%29</Reference>
+            <Best></Best>
+            <UserId>2VFfA4ssaa</UserId>
+            <UserNick>Azraille</UserNick>
+            <Date>2010-03-24 13:02:47</Date>
+            <Timestamp>1269460967</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:46 PDT 2010 -->

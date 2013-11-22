@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227141605AAM1b9G" type="Answered">
+    <Subject>Pictures Not Displaying on IE/Firefox?</Subject>
+    <Content>it has been happening alot recently(all i get is the good ole red X) in IE so i tried out firefox to see if IE was the issue and it wasn&#039;t it did the same thing in firefox, i have done everything microsoft has mentioned on their website and also tried what this person has said (http://forums.majorgeeks.com/showthread.php?t=30885) and ive check to see what format the picture is in it&#039;s jpg and sill nothing just a red x followed by some text that says &quot;IPB picture&quot;
+
+any ideas?
+
+thanks
+i have IE 8, Vista, and McAfee.
+</Content>
+    <Date>2010-02-27 14:16:05</Date>
+    <Timestamp>1267308965</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227141605AAM1b9G</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Kx3E7h1Waa</UserId>
+    <UserNick>Aric R</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I would check your firewall settings and internet options. Also, it could be that your browsers aren&#039;t updating. I&#039;ve only ever had that happen if my images were purposely blocked by internet security.</ChosenAnswer>
+    <ChosenAnswererId>g2ODb0Jpaa</ChosenAnswererId>
+    <ChosenAnswererNick>eSkye</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267310849</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270167797</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I would check your firewall settings and internet options. Also, it could be that your browsers aren&#039;t updating. I&#039;ve only ever had that happen if my images were purposely blocked by internet security.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>g2ODb0Jpaa</UserId>
+            <UserNick>ENSkye</UserNick>
+            <Date>2010-02-27 14:47:29</Date>
+            <Timestamp>1267310849</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:42:48 PDT 2010 -->

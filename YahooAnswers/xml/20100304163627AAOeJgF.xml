@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304163627AAOeJgF" type="Answered">
+    <Subject>Can i change the shipping time on something I bought?</Subject>
+    <Content>I bought something on amazon, and I now want to change the shipping time to make it come faster! Could I still do that?
+I am getting it through Amazon and they are going to ship it tommorow...so would i still be able to change it?
+Never mind turns out they already shipped it!
+</Content>
+    <Date>2010-03-04 16:36:27</Date>
+    <Timestamp>1267749387</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304163627AAOeJgF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ujavGPwGaa</UserId>
+    <UserNick>Beagle(:</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1VEb5WAeuAAEEiSOc3D31uUEB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you bought it from Amazon themselves and not a merchant, and it hasn&#039;t shipped yet, yes.
+If it&#039;s already shipped, you&#039;re out of luck.
+If it&#039;s with a merchant you need to email them to reorder with expedited.</ChosenAnswer>
+    <ChosenAnswererId>559e2c4e0797055bc74e4daa3686e5beaa</ChosenAnswererId>
+    <ChosenAnswererNick>crazyaznpig</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267749497</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267832705</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you bought it from Amazon themselves and not a merchant, and it hasn&#039;t shipped yet, yes.
+If it&#039;s already shipped, you&#039;re out of luck.
+If it&#039;s with a merchant you need to email them to reorder with expedited.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>559e2c4e0797055bc74e4daa3686e5beaa</UserId>
+            <UserNick>crazyaznpig</UserNick>
+            <Date>2010-03-04 16:38:17</Date>
+            <Timestamp>1267749497</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:08:40 PDT 2010 -->

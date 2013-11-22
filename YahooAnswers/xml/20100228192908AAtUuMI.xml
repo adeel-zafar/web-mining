@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228192908AAtUuMI" type="Answered">
+    <Subject>FIREFOX QUESTION. NEEED HELLLPPPP !!!!!?</Subject>
+    <Content>I pressed some button and lost the back key, the forward key and the thing where you type in the website that you want to go to. How do i get these back? Its no fun using Firefox without them. I have looked all over the internet trying to find out how to get this back and ive found nothing ): PLEASE HELP!!!
+</Content>
+    <Date>2010-02-28 19:29:08</Date>
+    <Timestamp>1267414148</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228192908AAtUuMI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>92FTI48zaa</UserId>
+    <UserNick>SouthlANd</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>View - Toolbars
+
+Then make sure &quot;navigation toolbar is checked&quot;.</ChosenAnswer>
+    <ChosenAnswererId>nznc8zaxaa</ChosenAnswererId>
+    <ChosenAnswererNick>Angiel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267414699</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267470046</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use System Restore and reset your computer to a checkpoint before you pressed the button.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>r49T7zQlaa</UserId>
+            <UserNick>Crocosmile</UserNick>
+            <Date>2010-02-28 19:34:18</Date>
+            <Timestamp>1267414458</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>View - Toolbars
+
+Then make sure &quot;navigation toolbar is checked&quot;.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nznc8zaxaa</UserId>
+            <UserNick>Angiel</UserNick>
+            <Date>2010-02-28 19:38:19</Date>
+            <Timestamp>1267414699</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Towards the top of your page, just under the titlebar (contains the X button), right click.  You&#039;ll get a menu with &quot;Navigation Toolbar&quot;.   Click on it so that there is a check in front of it and it will re-appear.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fd9rbJYhaa</UserId>
+            <UserNick>Mel</UserNick>
+            <Date>2010-02-28 19:38:30</Date>
+            <Timestamp>1267414710</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:34:57 PDT 2010 -->

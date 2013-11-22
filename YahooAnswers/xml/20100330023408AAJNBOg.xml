@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330023408AAJNBOg" type="Answered">
+    <Subject>Using Firefox browser, why can I no longer right click on a link and open the link in a new tab?</Subject>
+    <Content>I just downloaded the latest version, and my OS is Windows XP Pro
+</Content>
+    <Date>2010-03-30 02:34:08</Date>
+    <Timestamp>1269941648</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330023408AAJNBOg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0b2f21a75737427e6567af9bb0302b47aa</UserId>
+    <UserNick>Sebassssssss</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1s0i-irB5AAEB_AFVzCRjBw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You should be able to I can. However there are some types of windows that can&#039;t be opened as tabs. That has to do with how the website set up each window/pop up from their host site.</ChosenAnswer>
+    <ChosenAnswererId>W7tv8ck5aa</ChosenAnswererId>
+    <ChosenAnswererNick>X-Lander</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269941743</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270019615</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You should be able to I can. However there are some types of windows that can&#039;t be opened as tabs. That has to do with how the website set up each window/pop up from their host site.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>W7tv8ck5aa</UserId>
+            <UserNick>X-Lander</UserNick>
+            <Date>2010-03-30 02:35:43</Date>
+            <Timestamp>1269941743</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:45 PDT 2010 -->

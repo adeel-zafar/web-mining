@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301171703AArdxPe" type="Answered">
+    <Subject>is there a website where I can create a creature?</Subject>
+    <Content>I like to create a creature out of other animals body parts.
+</Content>
+    <Date>2010-03-01 17:17:03</Date>
+    <Timestamp>1267492623</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301171703AArdxPe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3cTCHVAfaa</UserId>
+    <UserNick>InkStorm</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1kUDss3wGAAIC_IFH9KBeuBHXa3t9r54Y.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Spore creature.. http://www.spore.com
+
+You can create cute little aliens and monsters.. I don&#039;t know about actual animals though.</ChosenAnswer>
+    <ChosenAnswererId>a59ef4cbb9b429bdadfb67a8542fab4daa</ChosenAnswererId>
+    <ChosenAnswererNick>scarsoflife8282</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267492763</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267575610</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think the spore website might have that.
+
+Google it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PAEeyfdQaa</UserId>
+            <UserNick>Soo Ming Sang</UserNick>
+            <Date>2010-03-01 17:18:32</Date>
+            <Timestamp>1267492712</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Spore creature.. http://www.spore.com
+
+You can create cute little aliens and monsters.. I don&#039;t know about actual animals though.</Content>
+            <Reference>I think it is also available on xbox/playstation... might want to look into it more.</Reference>
+            <Best>4</Best>
+            <UserId>a59ef4cbb9b429bdadfb67a8542fab4daa</UserId>
+            <UserNick>scarsoflife8282</UserNick>
+            <Date>2010-03-01 17:19:23</Date>
+            <Timestamp>1267492763</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:29:32 PDT 2010 -->

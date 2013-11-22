@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227143036AAWpsCo" type="Answered">
+    <Subject>netbooks with built in 3g?</Subject>
+    <Content>I know you can get netbooks with built in 3g.... 
+
+But do you have to take out a contract for this? 
+
+If so would something like 500mb be another for a bit of gmail nd google docks (1 hour per day)
+</Content>
+    <Date>2010-02-27 14:30:36</Date>
+    <Timestamp>1267309836</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227143036AAWpsCo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lVMGmlPpaa</UserId>
+    <UserNick>Luke B</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1nUi1aCNsAAICQ4E_8Ai0Cw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Netbooks are pieces of crap. A 3G phone is faster and more usable. You shouldn&#039;t get one at all. You can spend less money on a phone that works just as well, or better, or you can just get a laptop for 500.</ChosenAnswer>
+    <ChosenAnswererId>g2ODb0Jpaa</ChosenAnswererId>
+    <ChosenAnswererNick>eSkye</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267311057</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270167795</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Netbooks are pieces of crap. A 3G phone is faster and more usable. You shouldn&#039;t get one at all. You can spend less money on a phone that works just as well, or better, or you can just get a laptop for 500.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>g2ODb0Jpaa</UserId>
+            <UserNick>ENSkye</UserNick>
+            <Date>2010-02-27 14:50:57</Date>
+            <Timestamp>1267311057</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>HP Compaq Airlife 100 is having built in 3g. I have one. I am very much happy with that.</Content>
+            <Reference>http://www.techsupportserve.com/blog/news/hp-compaq-airlife-100-new-3g-announced-smartbook-pid_82.html</Reference>
+            <Best></Best>
+            <UserId>AA10751038</UserId>
+            <UserNick>salsanej</UserNick>
+            <Date>2010-02-28 03:56:02</Date>
+            <Timestamp>1267358162</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:42:40 PDT 2010 -->

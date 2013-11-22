@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225115040AAJ6koh" type="Answered">
+    <Subject>How can I move my bookmarks from internet explorer to firefox?</Subject>
+    <Content>Whenever I try to expor them they only work for a day or so then firefox will not open the bookmark
+</Content>
+    <Date>2010-02-25 11:50:40</Date>
+    <Timestamp>1267127440</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225115040AAJ6koh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vPBxvf0xaa</UserId>
+    <UserNick>Mr.S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>import from firefox import menu</ChosenAnswer>
+    <ChosenAnswererId>2Bxy8GO6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Harley Drive</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267127688</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267408810</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>import from firefox import menu</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-02-25 11:54:48</Date>
+            <Timestamp>1267127688</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.tips4pc.com/Bookmarks/Bookmarks.htm#Bookmarks1</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ybfCLYp1aa</UserId>
+            <UserNick>zep516</UserNick>
+            <Date>2010-02-25 12:09:33</Date>
+            <Timestamp>1267128573</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:57:02 PDT 2010 -->

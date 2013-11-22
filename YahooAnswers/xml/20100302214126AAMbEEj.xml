@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302214126AAMbEEj" type="Answered">
+    <Subject>why the maxthonbrowser is blocking?which browser is good?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-02 21:41:26</Date>
+    <Timestamp>1267594886</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302214126AAMbEEj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Xobe4kJEaa</UserId>
+    <UserNick>Bhanu</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I have evaluated chrome, the only thing chrome is good for is flashing routers.  it&#039;s perfect for that, but don&#039;t use it as a browser - it doesn&#039;t load 75% of sites I visit, and they are reputable.
+
+apple safari is good and supports html 5.0 with more capabilities than other browsers
+mozilla firefox is good but features break if you use plugins. doesn&#039;t always print well.
+IE is insecure but a good browser, prints well.
+Opera is fast, but doesn&#039;t use webkit like safari and firefox, and renders DHTML in a way that requires special handling (at least my display:block code didn&#039;t work).  actually, code that works on everything else doesn&#039;t work on opera.  headache for the DHTML coder.
+
+I would say stick with firefox or safari to be safe.</ChosenAnswer>
+    <ChosenAnswererId>Xrpse3Iaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jim</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267596969</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268114135</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox or Chrome</Content>
+            <Reference>http://www.mozilla.com/en-US/firefox/firefox.html
+http://www.google.com/chrome</Reference>
+            <Best></Best>
+            <UserId>UAjXa6nfaa</UserId>
+            <UserNick>Guy Incognito</UserNick>
+            <Date>2010-03-02 21:54:58</Date>
+            <Timestamp>1267595698</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have evaluated chrome, the only thing chrome is good for is flashing routers.  it&#039;s perfect for that, but don&#039;t use it as a browser - it doesn&#039;t load 75% of sites I visit, and they are reputable.
+
+apple safari is good and supports html 5.0 with more capabilities than other browsers
+mozilla firefox is good but features break if you use plugins. doesn&#039;t always print well.
+IE is insecure but a good browser, prints well.
+Opera is fast, but doesn&#039;t use webkit like safari and firefox, and renders DHTML in a way that requires special handling (at least my display:block code didn&#039;t work).  actually, code that works on everything else doesn&#039;t work on opera.  headache for the DHTML coder.
+
+I would say stick with firefox or safari to be safe.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Xrpse3Iaaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-02 22:16:09</Date>
+            <Timestamp>1267596969</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:21:21 PDT 2010 -->

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319013335AAcjaGz" type="Answered">
+    <Subject>why can&#039;t i download anything using firefox and how can i stop pop up ads from internet explorer?</Subject>
+    <Content>a couple of days ago i downloaded mozilla firefox, because Internet Explorer kept opening the pop-up ads windows constantly. I&#039;ve tried everything and they still haven&#039;t stopped! Help please?!
+And now, i can&#039;t download a thing from firefox, it asks me to &#039;save&#039; it not &#039;run&#039; it.
+I&#039;m really freaking out, and i don&#039;t know where to get the right help. So if you&#039;re experts and have been through the same situation, please help! :(
+</Content>
+    <Date>2010-03-19 01:33:35</Date>
+    <Timestamp>1268987615</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319013335AAcjaGz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>q6sDW6HJaa</UserId>
+    <UserNick>Maryam</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/12ySd9Z_GAAED2AKZhJOm23YB.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I faced the same problem years ago, when i started using the computer. Solution- switch to firefox ;). 
+Usually Firefox is better off blocking pop-ups, as opposed to IE. Just make sure you have the latest version running always.
+
+If you&#039;re running genuine Windows, You can always download their pop-up blocker and anti spy-ware for free. If not genuine, try any other good stand alone anti spy-ware/anti virus scans on your PC (like Avast, Kaspersky). Avast &amp; avira are freeware.
+
+However, in my experience all these deliver good results only like half the time. Your best option would be to reinstall windows. That&#039;ll rectify any sluggish performance too (if you&#039;re facing that problem too). Don&#039;t worry, it&#039;s not hard to reinstall at all. You just have to make sure you back up your data that&#039;s in the same drive as where windows is installed (for help on that, feel free to mail me). 
+
+About the save/run thing on firefox:
+When you click on a download link, a pop up comes up. There you have an option to choose If you want to &#039;run&#039; or &#039;save as&#039;. click on run. but be aware that the file is not stored on your computer (in case you want for future viewing) . If you want it saved on your hard disk, choose save as. Then go to the saved folder and double click, to run it. 
+To know/set where the downloaded files are saved, in firefox, go to (this is at the top of the window) Tools&gt;options&gt; save files to&gt; choose whatever location you want.</ChosenAnswer>
+    <ChosenAnswererId>cxfqKJZJaa</ChosenAnswererId>
+    <ChosenAnswererNick>realm_wrecker</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268989719</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269009300</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>&quot;save&quot; the file then run it from your downloads directory.
+(My documents\downloads)
+
+It sounds like your computer is infected with spyware/adware and possibly a virus that installed them. It is a good idea to install and run the first two programs I linked below.
+
+Adaware - http://www.lavasoft.com/?domain=adware.us
+Spybot - http://www.safer-networking.org/index2.html
+
+and possibly some sort of virus scanner like: 
+AVG - http://free.avg.com/au-en/homepage</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8dbcVedwaa</UserId>
+            <UserNick>Vad</UserNick>
+            <Date>2010-03-19 01:36:30</Date>
+            <Timestamp>1268987790</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>To stop the Pop Ups with IE use the Pop Up Blocker loacted under the Tools Section in your Browser.
+
+In regards to Firefox, this is how it is set up. You must first download and save it then open and run it. Look under the options in your Firefox Browser and you should find &quot; What to do with Downloads&quot;.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UJRMWNvCaa</UserId>
+            <UserNick>Buster</UserNick>
+            <Date>2010-03-19 01:39:45</Date>
+            <Timestamp>1268987985</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>there is no add ons for internet explorer to stop opening the pop-up...
+sorry for that,
+but in firefox u just click save and then it will ask you where you want to locate the file that you want to download,
+or just using firefox download manager/accelarator,
+you can go to Tools &gt; Add-Ons&gt; Get Add Ons
+and type 
+downthemall
+i hope it will solve your problem</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cAKVSOpzaa</UserId>
+            <UserNick>Idham</UserNick>
+            <Date>2010-03-19 01:43:28</Date>
+            <Timestamp>1268988208</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I faced the same problem years ago, when i started using the computer. Solution- switch to firefox ;). 
+Usually Firefox is better off blocking pop-ups, as opposed to IE. Just make sure you have the latest version running always.
+
+If you&#039;re running genuine Windows, You can always download their pop-up blocker and anti spy-ware for free. If not genuine, try any other good stand alone anti spy-ware/anti virus scans on your PC (like Avast, Kaspersky). Avast &amp; avira are freeware.
+
+However, in my experience all these deliver good results only like half the time. Your best option would be to reinstall windows. That&#039;ll rectify any sluggish performance too (if you&#039;re facing that problem too). Don&#039;t worry, it&#039;s not hard to reinstall at all. You just have to make sure you back up your data that&#039;s in the same drive as where windows is installed (for help on that, feel free to mail me). 
+
+About the save/run thing on firefox:
+When you click on a download link, a pop up comes up. There you have an option to choose If you want to &#039;run&#039; or &#039;save as&#039;. click on run. but be aware that the file is not stored on your computer (in case you want for future viewing) . If you want it saved on your hard disk, choose save as. Then go to the saved folder and double click, to run it. 
+To know/set where the downloaded files are saved, in firefox, go to (this is at the top of the window) Tools&gt;options&gt; save files to&gt; choose whatever location you want.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>cxfqKJZJaa</UserId>
+            <UserNick>realm_wrecker</UserNick>
+            <Date>2010-03-19 02:08:39</Date>
+            <Timestamp>1268989719</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:49 PDT 2010 -->

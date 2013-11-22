@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326165904AAF1DlT" type="Answered">
+    <Subject>A site that lets you text cell phones?</Subject>
+    <Content>My friend said that because she has no phone she just uses some site that lets you text to phones, what site is this?
+</Content>
+    <Date>2010-03-26 16:59:04</Date>
+    <Timestamp>1269647944</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326165904AAF1DlT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Fq8QIRHJaa</UserId>
+    <UserNick>Suzoryu</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you have a GMail account, you can text any phone in the U.S. Just go to the Google Labs tab and go to SMS messaging.</ChosenAnswer>
+    <ChosenAnswererId>N9Q3wVY9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Havok</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269648118</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270167255</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yahoo
+
+PLEASE CHOOSE FOR BEST ANSWER :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ELGQrLqZaa</UserId>
+            <UserNick>PT</UserNick>
+            <Date>2010-03-26 16:59:50</Date>
+            <Timestamp>1269647990</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>textem.net</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8NPYfJGNaa</UserId>
+            <UserNick>tae-tur-tots</UserNick>
+            <Date>2010-03-26 17:00:23</Date>
+            <Timestamp>1269648023</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you have a GMail account, you can text any phone in the U.S. Just go to the Google Labs tab and go to SMS messaging.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>N9Q3wVY9aa</UserId>
+            <UserNick>Havok</UserNick>
+            <Date>2010-03-26 17:01:58</Date>
+            <Timestamp>1269648118</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:28 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323104417AAAOFhM" type="Answered">
+    <Subject>How to use twitter to put a tweet on another page?</Subject>
+    <Content>I set up a twitter account i just wanted to post a comment on a popular twitter account. So if i tweet on my own page how do i get that tweet to appear on the page i want?
+</Content>
+    <Date>2010-03-23 10:44:17</Date>
+    <Timestamp>1269366257</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323104417AAAOFhM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0oYwVQ3raa</UserId>
+    <UserNick>Rik</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>thanks for the two points you type in the box where it says commenty dumb a s s</ChosenAnswer>
+    <ChosenAnswererId>GhbFFM10aa</ChosenAnswererId>
+    <ChosenAnswererNick>Anthony</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269366401</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269967413</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>thanks for the two points you type in the box where it says commenty dumb a s s</Content>
+            <Reference>YOUR FACE</Reference>
+            <Best>5</Best>
+            <UserId>GhbFFM10aa</UserId>
+            <UserNick>Anthony</UserNick>
+            <Date>2010-03-23 10:46:41</Date>
+            <Timestamp>1269366401</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:18:39 PDT 2010 -->

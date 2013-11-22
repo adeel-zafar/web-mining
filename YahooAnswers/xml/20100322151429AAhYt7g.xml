@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322151429AAhYt7g" type="Answered">
+    <Subject>How can I follow my thread on 4chan?</Subject>
+    <Content>I put in some hilarious content, and it gets launched into cyber space. How can I follow it?
+Thanks
+</Content>
+    <Date>2010-03-22 15:14:29</Date>
+    <Timestamp>1269296069</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322151429AAhYt7g</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QXrfq7mCaa</UserId>
+    <UserNick>Kendii</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b9bb03ei1636zws136mud/x1k5738ifrBn9yE3s8rbda8pSpmQd5JaMwY9vzYVWQLcnY92iAZP/1/tn48.jpeg?ciAAToMBhr_JqC6A</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>4chan sucks FJ for life!!!</ChosenAnswer>
+    <ChosenAnswererId>tSLvd83Maa</ChosenAnswererId>
+    <ChosenAnswererNick>Bacon</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269296115</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269815751</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>4chan sucks FJ for life!!!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tSLvd83Maa</UserId>
+            <UserNick>Bacon</UserNick>
+            <Date>2010-03-22 15:15:15</Date>
+            <Timestamp>1269296115</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>put noko in the email field, foo</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UeczzqJVaa</UserId>
+            <UserNick>Spyro, Destroyer of Sheep</UserNick>
+            <Date>2010-03-22 15:15:31</Date>
+            <Timestamp>1269296131</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>put noko in email
+
+ps 4chan is for 15 year olds</Content>
+            <Reference>personal experience from when I was 15</Reference>
+            <Best></Best>
+            <UserId>NcmkQuRpaa</UserId>
+            <UserNick>Susie</UserNick>
+            <Date>2010-03-22 15:16:18</Date>
+            <Timestamp>1269296178</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:21:56 PDT 2010 -->

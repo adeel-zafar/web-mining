@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303182106AAXR127" type="Answered">
+    <Subject>what does this error mean?</Subject>
+    <Content>Coppermine critical error:
+Unable to connect to database !
+
+MySQL said: Access denied for user &#039;lolisam&#039;@&#039;localhost&#039;
+
+
+i got it when i tried going to a site that was saved under my favorites.
+any help is greatly appreciated :)
+</Content>
+    <Date>2010-03-03 18:21:06</Date>
+    <Timestamp>1267669266</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303182106AAXR127</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bsFcU9xwaa</UserId>
+    <UserNick>Bo Binker</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/17aYQ_wqaAAED9oGi0DuMBw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The website owner needs to update their code or database settings because the username - password that they use to &quot;login&quot; to their database is incorrect. Nothing you can do other than contacting the website&#039;s owner or tech person to fix it.</ChosenAnswer>
+    <ChosenAnswererId>sugb6cikaa</ChosenAnswererId>
+    <ChosenAnswererNick>Robin T</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267685467</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268188667</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The website owner needs to update their code or database settings because the username - password that they use to &quot;login&quot; to their database is incorrect. Nothing you can do other than contacting the website&#039;s owner or tech person to fix it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>sugb6cikaa</UserId>
+            <UserNick>Robin T</UserNick>
+            <Date>2010-03-03 22:51:07</Date>
+            <Timestamp>1267685467</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:14:40 PDT 2010 -->

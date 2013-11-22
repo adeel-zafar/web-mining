@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303003656AAEeea0" type="Answered">
+    <Subject>my internet problems?</Subject>
+    <Content>every time im on the internet it stuffs up  VERY OFTEN and im not 100% sure why...  i have a very old modem im not sure if that helps also i use wireless internet and help would be appreciated
+</Content>
+    <Date>2010-03-03 00:36:56</Date>
+    <Timestamp>1267605416</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303003656AAEeea0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DvjlOxYWaa</UserId>
+    <UserNick>Hieu</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you need to replace the old modem into new one and i&#039;m not sure you are asking what type of stuff is very often?</ChosenAnswer>
+    <ChosenAnswererId>10DTmAgVaa</ChosenAnswererId>
+    <ChosenAnswererNick>usman2k_us</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267605692</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268124811</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you need to replace the old modem into new one and i&#039;m not sure you are asking what type of stuff is very often?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>10DTmAgVaa</UserId>
+            <UserNick>usman2k_us</UserNick>
+            <Date>2010-03-03 00:41:32</Date>
+            <Timestamp>1267605692</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it is possible the modem may be the cause, but if you have cable internet, or similar shared internet service, you are sharing bandwidth with everybody else in the area.  you could try replacing the modem if it won&#039;t cost you anything, but sounds like you have cable.  no fixing that other than to switch to a different ISP (DSL? FIOS?).  even some DSL companies do shared.</Content>
+            <Reference>http://jesusnjim.com/ISPs.html</Reference>
+            <Best></Best>
+            <UserId>Xrpse3Iaaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-03 00:43:32</Date>
+            <Timestamp>1267605812</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Upgrade now!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uzJYpkwCaa</UserId>
+            <UserNick>bobmacans</UserNick>
+            <Date>2010-03-03 01:44:27</Date>
+            <Timestamp>1267609467</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:20:40 PDT 2010 -->

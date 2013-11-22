@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325192900AAGvKuz" type="Answered">
+    <Subject>Hotspot shield cannot connect help pls?</Subject>
+    <Content>I just installed hotspot shield and when I click connect then it says connecting and then it IS connected for a second but then says &quot; reconnecting&quot; or &quot;TCP connect wait&quot; and it stays like that forever. What is the problem help pls!!
+And there is an error message which says: &quot;Windows cannot find
+...:895/config/?action=connect&amp;lang=eng&amp;afd=1167298554&amp;afc=24668DBFE79FC2157DF3... 
+Make sure you typed the name correctly and the try again.&quot; What??????
+</Content>
+    <Date>2010-03-25 19:29:00</Date>
+    <Timestamp>1269570540</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325192900AAGvKuz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RXYeETDiaa</UserId>
+    <UserNick>Balint</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You are better off this way. All they care about is scanning your traffic so they can make money by selling advertising at your personal expense. At least your personal information is safe this way.</ChosenAnswer>
+    <ChosenAnswererId>d1yfbvdXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269623544</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269751208</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You are better off this way. All they care about is scanning your traffic so they can make money by selling advertising at your personal expense. At least your personal information is safe this way.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>d1yfbvdXaa</UserId>
+            <UserNick>Nan</UserNick>
+            <Date>2010-03-26 10:12:24</Date>
+            <Timestamp>1269623544</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:29:26 PDT 2010 -->

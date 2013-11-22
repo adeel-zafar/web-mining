@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317201123AAniYDv" type="Answered">
+    <Subject>HELP ME WITH SAFARI  (Please)?</Subject>
+    <Content>so when i open it up on the top gray bar ya know there no hyperlink or  web adress thing or refresg button or search box on the side. it wont even let me go back!! its Super annoying!! How to i get all these things back??
+</Content>
+    <Date>2010-03-17 20:11:23</Date>
+    <Timestamp>1268881883</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317201123AAniYDv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>su37vnIXaa</UserId>
+    <UserNick>Raerae</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1CRTJ9VwfAAED5GR26l9ZDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You should be able to turn all those different bars back on by looking in the View menu.</ChosenAnswer>
+    <ChosenAnswererId>be55f04b8c79c46e08a6dcc1d71b8bd5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Mike M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268882169</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268948846</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You should be able to turn all those different bars back on by looking in the View menu.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>be55f04b8c79c46e08a6dcc1d71b8bd5aa</UserId>
+            <UserNick>Mike M</UserNick>
+            <Date>2010-03-17 20:16:09</Date>
+            <Timestamp>1268882169</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:42:00 PDT 2010 -->

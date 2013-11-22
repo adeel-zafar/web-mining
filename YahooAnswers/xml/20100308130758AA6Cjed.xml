@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308130758AA6Cjed" type="Answered">
+    <Subject>Recommend me some popular forums with a good community?</Subject>
+    <Content>I like to discuss mainstream music as well as games and just general chat things like that. I&#039;d also like it to be a fairly large community but not over top with like so many users that you can&#039;t even make a topic. So if anyone knows any good forums share please.
+</Content>
+    <Date>2010-03-08 13:07:58</Date>
+    <Timestamp>1268082478</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308130758AA6Cjed</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>si8F9JlHaa</UserId>
+    <UserNick>shadowcat</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Airg.ca</ChosenAnswer>
+    <ChosenAnswererId>cRGe1Vzfaa</ChosenAnswererId>
+    <ChosenAnswererNick>myspace.com/anqieqotqame</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268093223</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268598417</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Airg.ca</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cRGe1Vzfaa</UserId>
+            <UserNick>myspace.com/anqieqotqame</UserNick>
+            <Date>2010-03-08 16:07:03</Date>
+            <Timestamp>1268093223</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:31:08 PDT 2010 -->

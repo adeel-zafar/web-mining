@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222121945AAT1Vbr" type="Answered">
+    <Subject>Reporting a fake account on twitter?</Subject>
+    <Content>So, i have an account on twitter, but today i found that there is someone using an account with a nickname i go by, and is also violating the copyright on my photos they stole off of my flickr. How do i report them and get them off of twitter?
+</Content>
+    <Date>2010-02-22 12:19:45</Date>
+    <Timestamp>1266869985</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222121945AAT1Vbr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BixCbgedaa</UserId>
+    <UserNick>Hola, Emma</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a39e328ic7ezul7sp1/xfHVFYs4b7TIVWn7gp2Ys6gz3Y8-/2/tn48.jpg?ciAAToMBpBa.fRO2</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sorry but if I copied your photos off the web and posted them on my website, there is nothing you can do about it.  Unless you have the money and patience to formally register copyright (it is a genuine legal concept), putting your pictures on the web is like surrendering your exclusive right to them.</ChosenAnswer>
+    <ChosenAnswererId>2LbTrlQnaa</ChosenAnswererId>
+    <ChosenAnswererNick>JIM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266870236</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267389479</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sorry but if I copied your photos off the web and posted them on my website, there is nothing you can do about it.  Unless you have the money and patience to formally register copyright (it is a genuine legal concept), putting your pictures on the web is like surrendering your exclusive right to them.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-02-22 12:23:56</Date>
+            <Timestamp>1266870236</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>why ?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pF76PJsNaa</UserId>
+            <UserNick>Trent Moss</UserNick>
+            <Date>2010-02-22 12:26:21</Date>
+            <Timestamp>1266870381</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:27:24 PDT 2010 -->

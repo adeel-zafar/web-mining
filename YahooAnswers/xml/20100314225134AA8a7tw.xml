@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314225134AA8a7tw" type="Answered">
+    <Subject>why won&#039;t airg let me use it on my phone anymore?</Subject>
+    <Content>i&#039;ve been trying to get onto airg on my mobile phone for awhile now,
+but everytime i try it just says &quot;internal error&quot;
+why won&#039;t it let me use it anymore? D:
+</Content>
+    <Date>2010-03-14 22:51:34</Date>
+    <Timestamp>1268632294</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314225134AA8a7tw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kwpR7Uoyaa</UserId>
+    <UserNick>Kimmeh</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb9aee2ib0dzws118sp2/m5Pgbxc6cqt2lCWiatQBbLg-/2/tn48.jpeg?ciAAToMBXaYt6ofw</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it just recently updated its possible the firmware on the phone is not working right with the new version</ChosenAnswer>
+    <ChosenAnswererId>iV7sVWdIaa</ChosenAnswererId>
+    <ChosenAnswererNick>Doug</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268632484</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269151429</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it just recently updated its possible the firmware on the phone is not working right with the new version</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>iV7sVWdIaa</UserId>
+            <UserNick>Doug</UserNick>
+            <Date>2010-03-14 22:54:44</Date>
+            <Timestamp>1268632484</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:55:34 PDT 2010 -->

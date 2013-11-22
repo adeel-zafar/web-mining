@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227170352AAwMIsS" type="Answered">
+    <Subject>Will a proxy server keep me from getting caught downloading torrents?</Subject>
+    <Content>I&#039;m trying to find a way to download bitorrent&#039;s without getting caught by my internet provider (i&#039;ve already gotten a pre-lawsuit notice, so i know they are watching me extra close.) will a proxy server hide me completely? or can my internet provider still see what i&#039;m downloading?
+</Content>
+    <Date>2010-02-27 17:03:52</Date>
+    <Timestamp>1267319032</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227170352AAwMIsS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ka9QvdAcaa</UserId>
+    <UserNick>goodwood</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Proxy servers leak everything. They are not secure. You would be a fool to do this and risk some multi million dollar lawsuit.</ChosenAnswer>
+    <ChosenAnswererId>dfldrUPEaa</ChosenAnswererId>
+    <ChosenAnswererNick>ds</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267330053</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267341856</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>idk but telling everyone on yahoo will lol jkjkjk</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gP8AWZsHaa</UserId>
+            <UserNick>Hunter</UserNick>
+            <Date>2010-02-27 17:05:28</Date>
+            <Timestamp>1267319128</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Download peer guardian.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eCKgG89paa</UserId>
+            <UserNick>B00NDOCKSAINT</UserNick>
+            <Date>2010-02-27 17:05:55</Date>
+            <Timestamp>1267319155</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Everything you do goes through your ISP, and that is where you are being tracked from.  It seems to me you don&#039;t give a damn about the law, so go right ahead and steal! We&#039;ll see you when you  get out of prison!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-02-27 17:05:57</Date>
+            <Timestamp>1267319157</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sorta, but no... It will redirect your outside ip address, but if someone was looking for you, and they did what is called a traceroute it would show your actual outside ip address as one of the hops it takes... so no not really :(</Content>
+            <Reference>just what i know... :P</Reference>
+            <Best></Best>
+            <UserId>5ECnyaPwaa</UserId>
+            <UserNick>Trichxiii</UserNick>
+            <Date>2010-02-27 17:08:14</Date>
+            <Timestamp>1267319294</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Proxy servers leak everything. They are not secure. You would be a fool to do this and risk some multi million dollar lawsuit.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>dfldrUPEaa</UserId>
+            <UserNick>ds</UserNick>
+            <Date>2010-02-27 20:07:33</Date>
+            <Timestamp>1267330053</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:41:50 PDT 2010 -->

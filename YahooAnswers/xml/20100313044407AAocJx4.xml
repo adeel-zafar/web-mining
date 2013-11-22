@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313044407AAocJx4" type="Answered">
+    <Subject>If you deactivate your formspring, can they still see your name?</Subject>
+    <Content>say you ask a question and accidentally forget to put anonymous, when you intended to.
+if you deactivate your account, does your name still show if they haven&#039;t answered the question yet?
+</Content>
+    <Date>2010-03-13 04:44:07</Date>
+    <Timestamp>1268484247</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313044407AAocJx4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KionPvENaa</UserId>
+    <UserNick>Hello Beautiful</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Unfortunately,
+The same thing happened to me.
+You might have to just tough it out,
+I haven&#039;t found a solution yet.
+Good luck, love.</ChosenAnswer>
+    <ChosenAnswererId>1O7U3bpIaa</ChosenAnswererId>
+    <ChosenAnswererNick>Amy Nakamura</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268619121</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269000206</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Unfortunately,
+The same thing happened to me.
+You might have to just tough it out,
+I haven&#039;t found a solution yet.
+Good luck, love.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>1O7U3bpIaa</UserId>
+            <UserNick>Amy Nakamura</UserNick>
+            <Date>2010-03-14 19:12:01</Date>
+            <Timestamp>1268619121</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:05:11 PDT 2010 -->

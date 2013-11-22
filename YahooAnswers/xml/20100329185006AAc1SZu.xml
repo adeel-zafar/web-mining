@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329185006AAc1SZu" type="Answered">
+    <Subject>Internet problem....?</Subject>
+    <Content>I have at&amp;t elite its 6.0 mbs. The problem is when there are people on both the desktops we have that are wireless and im trying to play my xbox 360 online. I get some lag and dropped from online matches only when someone is on the desktops. Currently just using the 2wire modem/router and my xbox 360 is direct connect. Would it help if i got just a modem to run my xbox and move the 2wire to the living room to run the desktops.
+</Content>
+    <Date>2010-03-29 18:50:06</Date>
+    <Timestamp>1269913806</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329185006AAc1SZu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Q3TEdbjlaa</UserId>
+    <UserNick>Eric</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It will only help if the modem is running through a separate account. The problem here is bandwidth. If all three units are processing maximum loads, then each is only using a third of the bandwidth allocated under your account (which explains the lag).
+
+You can purchase more bandwidth under your current account with AT&amp;T, if they have it.
+
+or
+
+You can buy an additional account, and use those resources only for the xBox</ChosenAnswer>
+    <ChosenAnswererId>fIhsOYYQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Aaron</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269914061</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270060587</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It will only help if the modem is running through a separate account. The problem here is bandwidth. If all three units are processing maximum loads, then each is only using a third of the bandwidth allocated under your account (which explains the lag).
+
+You can purchase more bandwidth under your current account with AT&amp;T, if they have it.
+
+or
+
+You can buy an additional account, and use those resources only for the xBox</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>fIhsOYYQaa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-29 18:54:21</Date>
+            <Timestamp>1269914061</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You could try it, but I don&#039;t know that it would really make that much of a difference. You would still be using the same amount of bandwidth. Since your xbox is already direct connected, adding a modem would not help you.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tOCESHLYaa</UserId>
+            <UserNick>Ed G</UserNick>
+            <Date>2010-03-29 18:56:23</Date>
+            <Timestamp>1269914183</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That might help but if it doesn&#039;t then maybe you could ask a expert on computers.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>k8HVgVdnaa</UserId>
+            <UserNick>Shaleeza L</UserNick>
+            <Date>2010-03-29 19:00:11</Date>
+            <Timestamp>1269914411</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You are probably maxing out your bandwidth, so, no, an additional modem would be of no help at all. at&amp;t would be who to ask about bandwidth.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>S2JjG3ynaa</UserId>
+            <UserNick>Jack</UserNick>
+            <Date>2010-03-29 19:02:15</Date>
+            <Timestamp>1269914535</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:15:10 PDT 2010 -->

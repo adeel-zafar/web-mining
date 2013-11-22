@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223095107AACIpMW" type="Answered">
+    <Subject>Is it possible that i can see some another person............?</Subject>
+    <Content>for example i am watching a Porn movie, so some another person can know about it by other laptop
+
+serious answer please appreciate for the answer
+
+Is it possible that i can see some another person that what he are doing on his internet by wi fi connection?
+You can answer me as yes or No thanks for the help
+</Content>
+    <Date>2010-02-23 09:51:07</Date>
+    <Timestamp>1266947467</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223095107AACIpMW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aHCABzDMaa</UserId>
+    <UserNick>ronika</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you are on a wifi with your laptop and it&#039;s not secured by WPA or better WPA2 (encrypted) then anyone can get on your wifi &amp; see exactly what&#039;s going on. If it&#039;s secured, then no, nobody can see what you see
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267261894</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267466929</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It is possible for someone to hack into your computer and see what you are running yes.  However, this is unlikely especially if you have proper Firewall/AV and even then it&#039;s unlikely they&#039;ll be able to see exactly what you are viewing.  If the other person you&#039;re worried about doesn&#039;t have computer skills then no don&#039;t worry about it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gHDcV5fNaa</UserId>
+            <UserNick>Frank</UserNick>
+            <Date>2010-02-23 09:54:15</Date>
+            <Timestamp>1266947655</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Not remotely, aka it&#039;s difficult. Someone would have to hack into your computer or otherwise plant a trojan in your system, but if your computer is clean of viruses no one can know what your doing.</Content>
+            <Reference>Knowledge</Reference>
+            <Best></Best>
+            <UserId>85DmWzHaaa</UserId>
+            <UserNick>Johnny Cage</UserNick>
+            <Date>2010-02-23 10:14:37</Date>
+            <Timestamp>1266948877</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you are on a wifi with your laptop and it&#039;s not secured by WPA or better WPA2 (encrypted) then anyone can get on your wifi &amp; see exactly what&#039;s going on. If it&#039;s secured, then no, nobody can see what you see
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-02-27 01:11:34</Date>
+            <Timestamp>1267261894</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:21:09 PDT 2010 -->

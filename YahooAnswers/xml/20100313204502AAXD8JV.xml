@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313204502AAXD8JV" type="Answered">
+    <Subject>Why does my laptop read &quot;connected to wireless network&quot; but cannot access the internet?</Subject>
+    <Content>My laptop connects to my wireless router without a problem.  It even reads connected to the name of my network and states that the connection strength is excellent but when I try to access the internet I can&#039;t. Once the internet explorer starts up is shows the general cannot access website page.  Can anybody tell me what the problem could possibly be? Thanks in advance.
+</Content>
+    <Date>2010-03-13 20:45:02</Date>
+    <Timestamp>1268541902</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313204502AAXD8JV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>o8OAnL7Yaa</UserId>
+    <UserNick>l_michelle18</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1mrzlJKo5AAACT6ObxBbpsmLqHuCTiGsR.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try turning off DHCP in your OS, using a static IP and entering your nameserver addresses manually.</ChosenAnswer>
+    <ChosenAnswererId>IbxhRebgaa</ChosenAnswererId>
+    <ChosenAnswererNick>cen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268542579</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269690124</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try turning off DHCP in your OS, using a static IP and entering your nameserver addresses manually.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>IbxhRebgaa</UserId>
+            <UserNick>cen</UserNick>
+            <Date>2010-03-13 20:56:19</Date>
+            <Timestamp>1268542579</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:36 PDT 2010 -->

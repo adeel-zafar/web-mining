@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321113038AA0V9mo" type="Answered">
+    <Subject>Is the internet broken?</Subject>
+    <Content>Is the internet broken? If so the Why?
+</Content>
+    <Date>2010-03-21 11:30:38</Date>
+    <Timestamp>1269196238</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321113038AA0V9mo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>322LFG0Yaa</UserId>
+    <UserNick>Sticky Johnson</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Nope....works fine at my house :)</ChosenAnswer>
+    <ChosenAnswererId>nVk1DEcTaa</ChosenAnswererId>
+    <ChosenAnswererNick>thomasb1961</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269197008</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269735907</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The internet can never be &quot;broken&quot; it is essentially  in its own world, its probably your router if your internet isnt working.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YV8HPUQHaa</UserId>
+            <UserNick>Tokio hotelftw</UserNick>
+            <Date>2010-03-21 11:35:18</Date>
+            <Timestamp>1269196518</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I don&#039;t the internet is even going to catch on and become popular and widely used.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA12235727</UserId>
+            <UserNick>chris1emt</UserNick>
+            <Date>2010-03-21 11:38:17</Date>
+            <Timestamp>1269196697</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nope....works fine at my house :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nVk1DEcTaa</UserId>
+            <UserNick>thomasb1961</UserNick>
+            <Date>2010-03-21 11:43:28</Date>
+            <Timestamp>1269197008</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes. The internet broke. Some guy came in with a hammer and destroyed the one computer that runs the internet as we know it. Nukes are launching, the zombie apocalypse is staring, and your mother is a whore. Enjoy it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6x6fswQeaa</UserId>
+            <UserNick>rickeymarsee</UserNick>
+            <Date>2010-03-21 12:22:10</Date>
+            <Timestamp>1269199330</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No, but the troll filters are broken.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GxSxTc2haa</UserId>
+            <UserNick>lostdog</UserNick>
+            <Date>2010-03-21 21:01:49</Date>
+            <Timestamp>1269230509</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:19 PDT 2010 -->

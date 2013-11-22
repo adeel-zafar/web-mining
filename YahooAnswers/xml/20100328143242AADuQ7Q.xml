@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328143242AADuQ7Q" type="Answered">
+    <Subject>Why has my e-Bay profile been suspended?</Subject>
+    <Content>I recently received an e-mail from eBay saying: 
+
+&quot;We have limited your eBay account as a precaution because our review of your account has identified an issue regarding its safe use.
+
+As part of our efforts to provide a safe and secure environment for the online community, we regularly screen account activity. We never share exactly what gave us reason to place limitations on an account as this information could assist an individual, who may present a safety risk, avoid such limitations.&quot;
+
+I have checked my Pay-Pal account and it says that I have had no disputes etc. My feedback was also 100%: 
+
+Whats the problem?
+</Content>
+    <Date>2010-03-28 14:32:42</Date>
+    <Timestamp>1269811962</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328143242AADuQ7Q</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zytes5yKaa</UserId>
+    <UserNick>Chris A</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>have you checked your ebay account?
+It could be a spoof email.
+
+However if it is correct, what recent activity have you had with ebay?
+
+Suspensions can come from things like false details, inappropriate listing content, shill bidding, or even a chance your account has been hacked.
+
+You should always check the your ebay account, do not rely on emails.
+
+If your ebay account is fine report the email you received by clicking the forward tab and entering the following address
+spoof@ebay.com</ChosenAnswer>
+    <ChosenAnswererId>rugZxDXbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Devastation Assistant</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269812240</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270331602</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You been doing a bit of shill bidding??</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eiJOdPgxaa</UserId>
+            <UserNick>Sal*UK</UserNick>
+            <Date>2010-03-28 14:33:55</Date>
+            <Timestamp>1269812035</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>have you checked your ebay account?
+It could be a spoof email.
+
+However if it is correct, what recent activity have you had with ebay?
+
+Suspensions can come from things like false details, inappropriate listing content, shill bidding, or even a chance your account has been hacked.
+
+You should always check the your ebay account, do not rely on emails.
+
+If your ebay account is fine report the email you received by clicking the forward tab and entering the following address
+spoof@ebay.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rugZxDXbaa</UserId>
+            <UserNick>Devastation Assistant</UserNick>
+            <Date>2010-03-28 14:37:20</Date>
+            <Timestamp>1269812240</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:56 PDT 2010 -->

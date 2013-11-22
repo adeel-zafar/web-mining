@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317134721AAySoHb" type="Answered">
+    <Subject>How do I get rid of an internet explorer tab?</Subject>
+    <Content>I have internet Explorer and it has the tab things. I love the tabs because they&#039;re very useful. Whenever I open it up, instead of taking me to my homepage, it opens a tab with my homepage and then another tab. Somehow my annoying cousin has made it to where whenever I open up Explorer, two tabs come up automatically and I can&#039;t figure out how to make it to where only one tab comes up. It gets annoying having to go and wait for everything to load just to close it. I need to make it where only one tab comes up like normal. Help? Please?
+</Content>
+    <Date>2010-03-17 13:47:21</Date>
+    <Timestamp>1268858841</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317134721AAySoHb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uUYewHnFaa</UserId>
+    <UserNick>aidyn autopsy</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a381c0ci231bzul5sp1/rNv7MjQwcqIhdOOb.d_Ag0.AKl8JObt8/1/tn48.png?ciAAToMBEMpct8vH</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you have 2 address in your homepage setting. go to control panel,internet options then change your homepage to what you want then hit apply. hope this helps.</ChosenAnswer>
+    <ChosenAnswererId>heXM9Z9Faa</ChosenAnswererId>
+    <ChosenAnswererNick>Tom</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268865651</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269378340</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This site does a great job explaining how to change tab settings on Internet Explorer:
+http://blogmines.com/blog/2009/07/09/how-change-the-internet-explorer-8-new-tab-open-behavior/
+
+Kyler
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0BzipcAfaa</UserId>
+            <UserNick>Kyler_IE8_Team</UserNick>
+            <Date>2010-03-17 15:02:07</Date>
+            <Timestamp>1268863327</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you have 2 address in your homepage setting. go to control panel,internet options then change your homepage to what you want then hit apply. hope this helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>heXM9Z9Faa</UserId>
+            <UserNick>Tom</UserNick>
+            <Date>2010-03-17 15:40:51</Date>
+            <Timestamp>1268865651</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:43:43 PDT 2010 -->

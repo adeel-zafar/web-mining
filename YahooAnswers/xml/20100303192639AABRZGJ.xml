@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303192639AABRZGJ" type="Answered">
+    <Subject>I click links and they open in Firefox?</Subject>
+    <Content>I use Google Chrome  (Used to use firefox) but when I click links, the open in Firefox. Why is this? How can I change it?
+</Content>
+    <Date>2010-03-03 19:26:39</Date>
+    <Timestamp>1267673199</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303192639AABRZGJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HlclTfJlaa</UserId>
+    <UserNick>Dragon A</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>In Chrome go to the &quot;tool wrench&quot; then &quot;options&quot; click the &quot;Basics&quot; tab and at the bottom click &quot;Make Chrome My Default Browser&quot;</ChosenAnswer>
+    <ChosenAnswererId>OeINa4KTaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jason H</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267673402</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268192663</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>mozilla</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wbUZB9fAaa</UserId>
+            <UserNick>gd</UserNick>
+            <Date>2010-03-03 19:27:21</Date>
+            <Timestamp>1267673241</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In Google Chrome on the upper right corner there is a button that looks like a tool. Click it, then from the drop down menu choose &quot;Options&quot;. On the very bottom of the new window (Basics tab) there is a button &quot;Make Google Chrome my default browser&quot;. Click that and done!</Content>
+            <Reference>i use google too</Reference>
+            <Best></Best>
+            <UserId>sfkn30Rfaa</UserId>
+            <UserNick>dxcenag</UserNick>
+            <Date>2010-03-03 19:29:22</Date>
+            <Timestamp>1267673362</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In Chrome go to the &quot;tool wrench&quot; then &quot;options&quot; click the &quot;Basics&quot; tab and at the bottom click &quot;Make Chrome My Default Browser&quot;</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OeINa4KTaa</UserId>
+            <UserNick>Jason H</UserNick>
+            <Date>2010-03-03 19:30:02</Date>
+            <Timestamp>1267673402</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have to set Google Chrome as your default browser.  There are several ways to do this, but the easiest is to open up Chrome, click on the  Tools menu (the little wrench icon) select Options from the drop down menu, and select the option, &quot;Make Google Chrome my default browser&quot;.  See the link below for illustrated instructions.</Content>
+            <Reference>http://www.techdreams.org/browsers/set-google-chrome-as-your-default-web-browser/278-20080910</Reference>
+            <Best></Best>
+            <UserId>AA11017655</UserId>
+            <UserNick>Jim W</UserNick>
+            <Date>2010-03-03 19:32:27</Date>
+            <Timestamp>1267673547</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>cz your default browser is firefox ........
+
+you need  to open chrome 
+then from options choose your default browser..........
+
+it is very easy ..........</Content>
+            <Reference>www.eppleblogs.com</Reference>
+            <Best></Best>
+            <UserId>xLZnCKEJaa</UserId>
+            <UserNick>PATAKA</UserNick>
+            <Date>2010-03-03 19:33:24</Date>
+            <Timestamp>1267673604</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:14:13 PDT 2010 -->

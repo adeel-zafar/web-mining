@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312115833AALcL55" type="Answered">
+    <Subject>Myspace VS. Facebook?</Subject>
+    <Content>Which do you like better
+</Content>
+    <Date>2010-03-12 11:58:33</Date>
+    <Timestamp>1268423913</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312115833AALcL55</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>c1q2glGsaa</UserId>
+    <UserNick>Book</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>FB is more popular.. the ppl have spoken</ChosenAnswer>
+    <ChosenAnswererId>X4m2GmP5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Red R</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268425734</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268510876</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I like facebook more than I like myspace.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>s641dmqSaa</UserId>
+            <UserNick>xdmwe</UserNick>
+            <Date>2010-03-12 12:16:03</Date>
+            <Timestamp>1268424963</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>FB is more popular.. the ppl have spoken</Content>
+            <Reference>If you wanna view private MySpace &amp; Facebook pics to go: http://viewmorepix.com</Reference>
+            <Best>4</Best>
+            <UserId>X4m2GmP5aa</UserId>
+            <UserNick>Red R</UserNick>
+            <Date>2010-03-12 12:28:54</Date>
+            <Timestamp>1268425734</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:09:05 PDT 2010 -->

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227185430AAls0JD" type="Answered">
+    <Subject>What is Peerguardian and if i use it can my internet provider still see what i&#039;m downloading?</Subject>
+    <Content>I&#039;ve been trying to find a way to download files from web sites like the piratebay without my internet provider catching me (i know that i am on the watchlist so i have to be careful) and one solution that somebody has given me was Peerguardian. Can anybody explain how it works and how safe i will be if i use it?
+</Content>
+    <Date>2010-02-27 18:54:30</Date>
+    <Timestamp>1267325670</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227185430AAls0JD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ka9QvdAcaa</UserId>
+    <UserNick>goodwood</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Peerguardian is capable of blocking incoming and outgoing connections based on IP blacklists. The system is also capable of blocking custom ranges, depending upon user preferences.
+
+lt basically prevents the government seeing what you&#039;re downloading, as well as your ISP.
+
+My friend said it&#039;s pretty safe, he has recommended me to use it but l&#039;d rather prevent downloading things of Torrents altogether because my brother does it for me instead. :P</ChosenAnswer>
+    <ChosenAnswererId>A6oeV4flaa</ChosenAnswererId>
+    <ChosenAnswererNick>The Fame Monster</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267326052</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267341367</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Peerguardian is capable of blocking incoming and outgoing connections based on IP blacklists. The system is also capable of blocking custom ranges, depending upon user preferences.
+
+lt basically prevents the government seeing what you&#039;re downloading, as well as your ISP.
+
+My friend said it&#039;s pretty safe, he has recommended me to use it but l&#039;d rather prevent downloading things of Torrents altogether because my brother does it for me instead. :P</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>A6oeV4flaa</UserId>
+            <UserNick>PJ ♥ ; So Happy l Could Die</UserNick>
+            <Date>2010-02-27 19:00:52</Date>
+            <Timestamp>1267326052</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>When anyone downloads files, their Internet provider will see what they download. But it may not be seen by other organizations, I mean RIAA and MPAA.I prefer beethink ip blocker as an alternative of peerguardian, which is compatible with windows 7 64 bits, faster and more stable.</Content>
+            <Reference>http://www.beethink.com</Reference>
+            <Best></Best>
+            <UserId>fFFhQFxmaa</UserId>
+            <UserNick>Caca</UserNick>
+            <Date>2010-02-27 22:25:28</Date>
+            <Timestamp>1267338328</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:41:20 PDT 2010 -->

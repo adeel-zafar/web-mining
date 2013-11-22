@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227132758AAAQFhs" type="Answered">
+    <Subject>How can I set firefox to open always in full screen?And activated in caret browsing also,if u could tell?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-27 13:27:58</Date>
+    <Timestamp>1267306078</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227132758AAAQFhs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Gg4IQ5Hjaa</UserId>
+    <UserNick>polo</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a53f8b0i1c66zul6sp1/Ti9DTiEibquK8XGBU43zbnOb/1/tn48.jpg?ciAAToMBII1cHdLn</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This add-on allows for full screen on start up.
+https://addons.mozilla.org/en-US/firefox/addon/1568
+
+To turn on/off caret browsing, press F7. Or go to Tools-&gt;Options menu and under Advanced-&gt;General tab, select Always use the cursor keys to navigate within pages.</ChosenAnswer>
+    <ChosenAnswererId>EO3Efx4Daa</ChosenAnswererId>
+    <ChosenAnswererNick>Kenny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267307062</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267577119</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This add-on allows for full screen on start up.
+https://addons.mozilla.org/en-US/firefox/addon/1568
+
+To turn on/off caret browsing, press F7. Or go to Tools-&gt;Options menu and under Advanced-&gt;General tab, select Always use the cursor keys to navigate within pages.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>EO3Efx4Daa</UserId>
+            <UserNick>Kenny</UserNick>
+            <Date>2010-02-27 13:44:22</Date>
+            <Timestamp>1267307062</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Right click on the firefox icon and select properties. In the RUN select maximised.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OBdnHTs3aa</UserId>
+            <UserNick>uppaluri k</UserNick>
+            <Date>2010-02-27 20:19:14</Date>
+            <Timestamp>1267330754</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can use Autohide extension :
+
+Please read the related explanation from here (how to install and set options):
+
+http://www.mouserunner.com/FF_Tips_Full_Screen.html
+
+Good Luck</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JLr3UcEHaa</UserId>
+            <UserNick>MS</UserNick>
+            <Date>2010-03-01 03:14:18</Date>
+            <Timestamp>1267442058</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:43:10 PDT 2010 -->

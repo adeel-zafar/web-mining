@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314132417AAND2mo" type="Answered">
+    <Subject>How do i delete a firefox&#039;s drop down search bar and address bar?</Subject>
+    <Content>there are a few sites that i don&#039;t want people that use my pc to know about and i want to know how to delete those drop down search bars history and the sites that i have visited on my address bar.
+how do i do it and thanks i guess
+</Content>
+    <Date>2010-03-14 13:24:17</Date>
+    <Timestamp>1268598257</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314132417AAND2mo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>adL7mXBIaa</UserId>
+    <UserNick>woooooooo13</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ijyeuNBPAAEC_IFHBNhiCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Click Tools &gt;&gt;then Options 
+
+When the window opens choose the PRIVACY Tab 
+
+Untick Remember search and form History 
+
+then at the bottom 
+
+When using the location bar &gt;&gt;Change this to NOTHING</ChosenAnswer>
+    <ChosenAnswererId>ylyDSpb7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Sexy Scottish Kool Aid Man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268598528</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269117914</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Click Tools &gt;&gt;then Options 
+
+When the window opens choose the PRIVACY Tab 
+
+Untick Remember search and form History 
+
+then at the bottom 
+
+When using the location bar &gt;&gt;Change this to NOTHING</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ylyDSpb7aa</UserId>
+            <UserNick>Sexy Scottish Kool Aid Man</UserNick>
+            <Date>2010-03-14 13:28:48</Date>
+            <Timestamp>1268598528</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Tools&gt; Clear Recent History. With the latest version of Firefox you can choose private browsing.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>e871c3bc7828a54588e8b88635cfba63aa</UserId>
+            <UserNick>Bill M</UserNick>
+            <Date>2010-03-14 13:36:44</Date>
+            <Timestamp>1268599004</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:58:38 PDT 2010 -->

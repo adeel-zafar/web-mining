@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321185553AAc1tx6" type="Answered">
+    <Subject>Does your activity on Limewire show on your Internet History?</Subject>
+    <Content>Does your activity, such as what you have downloaded on Limewire, show up on Internet history. Or could you see it from a different computer, eg. if there were three or four laptops using the same WIFI, could the others possibly see what you&#039;ve downloaded?
+</Content>
+    <Date>2010-03-21 18:55:53</Date>
+    <Timestamp>1269222953</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321185553AAc1tx6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BH3hB1uBaa</UserId>
+    <UserNick>Alex</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No your history of what you download is on just limewire and heres how to delete it.</ChosenAnswer>
+    <ChosenAnswererId>3XKZhDvUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tommy B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269223241</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269742556</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No your history of what you download is on just limewire and heres how to delete it.</Content>
+            <Reference>http://www.ehow.com/how_2102915_delete-limewire-history.html</Reference>
+            <Best>5</Best>
+            <UserId>3XKZhDvUaa</UserId>
+            <UserNick>Tommy B</UserNick>
+            <Date>2010-03-21 19:00:41</Date>
+            <Timestamp>1269223241</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:25:37 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322140324AAyzWuj" type="Answered">
+    <Subject>what is the best internet browser?</Subject>
+    <Content>what is the best internet browse
+</Content>
+    <Date>2010-03-22 14:03:24</Date>
+    <Timestamp>1269291804</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322140324AAyzWuj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>51d9dsEnaa</UserId>
+    <UserNick>matthew</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i suggest u to go with the Mozilla fire fox which is of open source and available for all the platforms</ChosenAnswer>
+    <ChosenAnswererId>fyq2Ox0aaa</ChosenAnswererId>
+    <ChosenAnswererNick>vijay Rathi</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269292050</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269467979</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i suggest u to go with the Mozilla fire fox which is of open source and available for all the platforms</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>fyq2Ox0aaa</UserId>
+            <UserNick>vijay Rathi</UserNick>
+            <Date>2010-03-22 14:07:30</Date>
+            <Timestamp>1269292050</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>firefox is stable i would recommend it over any other</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>mpFukVSFaa</UserId>
+            <UserNick>Josh</UserNick>
+            <Date>2010-03-22 14:09:33</Date>
+            <Timestamp>1269292173</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:13 PDT 2010 -->

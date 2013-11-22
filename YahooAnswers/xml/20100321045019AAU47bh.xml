@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321045019AAU47bh" type="Answered">
+    <Subject>How can I cut one part of an anime/movie?</Subject>
+    <Content>U guys know how to cut one part of an anime /movie???As in those like this:http://i1014.photobucket.com/albums/af265/elmobadboi/926978t509hz4t7c.gif
+Pls tell me,I&#039;m really desperate!!!
+</Content>
+    <Date>2010-03-21 04:50:19</Date>
+    <Timestamp>1269172219</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321045019AAU47bh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RBOufE9vaa</UserId>
+    <UserNick>Nanako</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>get a gif anamator</ChosenAnswer>
+    <ChosenAnswererId>hLtQ3eeQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Blair</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269176845</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269691451</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Download any movie editor (Adobe Premier)
+cut the scene that you want 
+and download this software but usually if you have adobe premier you can save it or import it to animated gif</Content>
+            <Reference>http://www.adobe.com/products/premiere/
+http://www.freedownloadscenter.com/Best/free-avi-2-gif.html</Reference>
+            <Best></Best>
+            <UserId>D2DVS6cqaa</UserId>
+            <UserNick>Alvin</UserNick>
+            <Date>2010-03-21 05:29:51</Date>
+            <Timestamp>1269174591</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>get a gif anamator</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>hLtQ3eeQaa</UserId>
+            <UserNick>Blair</UserNick>
+            <Date>2010-03-21 06:07:25</Date>
+            <Timestamp>1269176845</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:07 PDT 2010 -->

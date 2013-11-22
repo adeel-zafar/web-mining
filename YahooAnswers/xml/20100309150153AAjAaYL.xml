@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309150153AAjAaYL" type="Answered">
+    <Subject>A firefox addon name?</Subject>
+    <Content>I am searching for a firefox addon I used to have but I have reinstalled ff and I don&#039;t remember it. It replaced the X on each tab with a &quot;1&quot;,&quot;2&quot;,&quot;3&quot; etc, and you could navigate to the tabs using Alt+1 or 2 or 3 etc, according to the tab&#039;s &quot;tag&quot;. What is this addon?
+</Content>
+    <Date>2010-03-09 15:01:53</Date>
+    <Timestamp>1268175713</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309150153AAjAaYL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>igRb3xQdaa</UserId>
+    <UserNick>mechanicarts</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1jx4hDhy4AAED_AGc7laIK4cB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>dont know what it&#039;s called,but if you never get to find it, you can switch through tabs with CTRL+Tab which cycles to the next open tab.</ChosenAnswer>
+    <ChosenAnswererId>e7nKd7Hcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Insane_mad_maniak</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268175864</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268797994</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>dont know what it&#039;s called,but if you never get to find it, you can switch through tabs with CTRL+Tab which cycles to the next open tab.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>e7nKd7Hcaa</UserId>
+            <UserNick>Insane_mad_maniak</UserNick>
+            <Date>2010-03-09 15:04:24</Date>
+            <Timestamp>1268175864</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Is it tabmixplus?  That&#039;s a popular one.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GmZEBfU6aa</UserId>
+            <UserNick>Micah</UserNick>
+            <Date>2010-03-09 15:05:03</Date>
+            <Timestamp>1268175903</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:23:49 PDT 2010 -->

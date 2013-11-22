@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308043918AAZHOW1" type="Answered">
+    <Subject>At the bottom of internet explorer, where it usually says &#039;done&#039;, it says &#039;error on page&#039;. How do I fix it?</Subject>
+    <Content>http://s473.photobucket.com/albums/rr91/shanutzeh/Error%20msg/?action=view&amp;current=Error.png
+
+It&#039;s kind of frustrating, I can&#039;t click on links and things, and on facebook I cant click on anything...
+
+If you have a question please ask, I will answer, PLEASE come back to check :-)
+</Content>
+    <Date>2010-03-08 04:39:18</Date>
+    <Timestamp>1268051958</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308043918AAZHOW1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wOMfCz24aa</UserId>
+    <UserNick>Desperate Housewife</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b51d5c1i145czul1sp1/5AaqzcIic6cnJbWruym8pT8-/1/tn48.jpg?ciAAToMBkWf6SyTL</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://support.microsoft.com/kb/936213/en-us
+This page is microsoft troubleshooting for internet explorer problems.  Rather than try to guess you might check out these steps.
+EDIT-I have read that sometimes simply clearing the cache will solve the problem(delete browsing history.)
+ Also be sure your windows updates are on so newer pages are recognized.
+ Let us know how you solve it so we can benefit.</ChosenAnswer>
+    <ChosenAnswererId>1OBXqGi8aa</ChosenAnswererId>
+    <ChosenAnswererNick>Keith M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268053109</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268196545</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>this happens to me regularly. it is annoying and i can&#039;t click on anything it&#039;s as though the screen has froze. i hope you get the answer, i will be interested to find out what to do. sorry i can&#039;t give you an answer, but hopefully somebody will.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5GFHLlmhaa</UserId>
+            <UserNick>Michelle</UserNick>
+            <Date>2010-03-08 04:43:12</Date>
+            <Timestamp>1268052192</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://support.microsoft.com/kb/936213/en-us
+This page is microsoft troubleshooting for internet explorer problems.  Rather than try to guess you might check out these steps.
+EDIT-I have read that sometimes simply clearing the cache will solve the problem(delete browsing history.)
+ Also be sure your windows updates are on so newer pages are recognized.
+ Let us know how you solve it so we can benefit.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>1OBXqGi8aa</UserId>
+            <UserNick>Keith M</UserNick>
+            <Date>2010-03-08 04:58:29</Date>
+            <Timestamp>1268053109</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:34:21 PDT 2010 -->

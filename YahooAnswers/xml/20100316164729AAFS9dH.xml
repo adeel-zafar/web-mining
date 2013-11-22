@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316164729AAFS9dH" type="Answered">
+    <Subject>What is syndicatlongoogle?</Subject>
+    <Content>Okay, I&#039;m not sure what this is. It sometimes redirects me to another page or ad. Is it a virus? I wouldn&#039;t recommend typing it in the web browser if it is a virus then.
+</Content>
+    <Date>2010-03-16 16:47:29</Date>
+    <Timestamp>1268783249</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316164729AAFS9dH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>J5Xk3NQlaa</UserId>
+    <UserNick>Matt</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>sounds like a virus, I&#039;ve had a virus do something really similar to my computer.</ChosenAnswer>
+    <ChosenAnswererId>uYxpNQXqaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268783581</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270261373</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It might be a cookie ad-on.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BkeGPtHqaa</UserId>
+            <UserNick>Jake</UserNick>
+            <Date>2010-03-16 16:50:36</Date>
+            <Timestamp>1268783436</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>sounds like a virus, I&#039;ve had a virus do something really similar to my computer.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>uYxpNQXqaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-16 16:53:01</Date>
+            <Timestamp>1268783581</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:47:35 PDT 2010 -->

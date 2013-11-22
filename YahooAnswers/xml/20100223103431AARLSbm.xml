@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223103431AARLSbm" type="Answered">
+    <Subject>how do i get back the bar on your firefox that you would search for internet sites?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-23 10:34:31</Date>
+    <Timestamp>1266950071</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223103431AARLSbm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5eRrM5vdaa</UserId>
+    <UserNick>jeremi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1DJGkdA6uAAECQWEo8AceAQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to view &lt;&gt; tool bars &lt;&gt; check navigation bar.</ChosenAnswer>
+    <ChosenAnswererId>CVpM4VqGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Computer Tech</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266951909</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268249694</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>JUST REDOWNLOAD FIREFOX IT WILL PUT IT BACK !
+GOOD LUCK !!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kXPHGwEhaa</UserId>
+            <UserNick>Barbara</UserNick>
+            <Date>2010-02-23 11:04:43</Date>
+            <Timestamp>1266951883</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to view &lt;&gt; tool bars &lt;&gt; check navigation bar.</Content>
+            <Reference>Computer Tech</Reference>
+            <Best>5</Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-02-23 11:05:09</Date>
+            <Timestamp>1266951909</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:20:41 PDT 2010 -->

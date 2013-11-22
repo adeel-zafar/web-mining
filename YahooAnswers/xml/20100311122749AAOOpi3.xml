@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311122749AAOOpi3" type="Answered">
+    <Subject>I hate the latest Firefox!!?</Subject>
+    <Content>I just upgraded my Firefox (I&#039;m on a mac) and I choose a &#039;theme&#039; that put all this artwork in the backround...like a skin...how do I get rid of it!!! I don&#039;t want another skin, I just want this gone!!!!  thanks!!!
+</Content>
+    <Date>2010-03-11 12:27:49</Date>
+    <Timestamp>1268339269</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311122749AAOOpi3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9CIJ1n7Faa</UserId>
+    <UserNick>mrmagoo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>8</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes they are stupid. Just got rid of mine
+
+Tools..........Add ons.................Themes then uninstall</ChosenAnswer>
+    <ChosenAnswererId>0a88332d968993b9b9d62ec94243eb24aa</ChosenAnswererId>
+    <ChosenAnswererNick>GreenEyes</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268468103</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269211645</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you use chrome</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GRNgb1Jgaa</UserId>
+            <UserNick>Dunkle berry</UserNick>
+            <Date>2010-03-11 12:29:35</Date>
+            <Timestamp>1268339375</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ummm. click delete skin?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>d0jb7VM7aa</UserId>
+            <UserNick>Johnny</UserNick>
+            <Date>2010-03-11 12:29:40</Date>
+            <Timestamp>1268339380</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Click the tools tab than add ons click uninstall</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uCQQdDXfaa</UserId>
+            <UserNick>mgo316</UserNick>
+            <Date>2010-03-11 12:30:08</Date>
+            <Timestamp>1268339408</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Use Google Chrome.  (I&#039;m using it right now)
+
+1. More stability
+
+Google implies that Chrome is more stable than existing browsers. A major selling point for me. As their little Google’s comic book puts it, “When you’re writing an important email or editing a document a browser crash is a big deal”.
+
+2. More speed
+
+Google claim that sites will download quicker on Chrome; this appears to have something to do with Chrome’s JavaScript Virtual Machine named V8. Google state that Chrome looks at the JavaScript source code and “generates machine code that can run directly on the CPU that’s running the browser”, this apparently helps speed things up.
+
+Brendan Eich (the founder of Mozilla CTO and JavaScript creator) claims a new Firefox’s new TraceMonkey JavaScript engine outperforms V8 so this particular claim is hard to verify.
+
+3. More secure
+
+I like how they have built Chrome using a sandboxing technique that prevents unwanted software installing itself on your machine and stops what happens on one tab affecting what happens on another.
+
+4. More open
+
+Google have decided to open source the entire browser. This could be of huge benefit to the web community. Yes, I know Google has more money than God so they can afford to do this but they deserve a pat on the back for doing this.
+
+5. More style
+
+Google definitely lacks Apple’s style but what they’ve build here looks really slick. I’m a big fan of the smooth and uncluttered look and feel.
+
+6. A dynamic start page
+
+Chrome have done away with the traditional start page approach used by other browsers to display your 9 most visited pages when you boot it up.
+
+7. More Privacy
+
+Google have included an “Incognito window” in this build. None of your history is saved in the browser when you use this window and when you close it the cookies from that session are wiped out.
+
+8. Better approach to blocking pop ups
+
+Pop ups are confined to stay in the tab they came from unless you want to drag them out in to a new tab. I just tested this out on one of my favourite music sites and it works like a treat.</Content>
+            <Reference>Google Chrome &gt; Mozilla Firefox
+http://blog.snagsta.com/2008/09/05/8-reasons-why-google-chrome-is-better-than-ie-and-firefox/</Reference>
+            <Best></Best>
+            <UserId>6ahTfnVuaa</UserId>
+            <UserNick>The Rock</UserNick>
+            <Date>2010-03-11 12:31:23</Date>
+            <Timestamp>1268339483</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i think you&#039;re talking about a persona.
+
+right click (or click, i cant remember) the little fox head icon in the status bar on the bottom of the browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>peTV7Nmmaa</UserId>
+            <UserNick>Jimmy</UserNick>
+            <Date>2010-03-11 12:32:26</Date>
+            <Timestamp>1268339546</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That&#039;s your fault. Not Firefox&#039;s. You should be hating yourself right now.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jmLkQ5jWaa</UserId>
+            <UserNick>GrimFusion</UserNick>
+            <Date>2010-03-11 12:46:51</Date>
+            <Timestamp>1268340411</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i did the same thing.  i just uninstalled it, then went back to firefox and installed it again.  there may be an easier way, but this worked.   and i didn&#039;t put one of those stupid themes on the second time.  what is the point of those things ?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ICG482RVaa</UserId>
+            <UserNick>Tom</UserNick>
+            <Date>2010-03-11 12:55:11</Date>
+            <Timestamp>1268340911</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes they are stupid. Just got rid of mine
+
+Tools..........Add ons.................Themes then uninstall</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0a88332d968993b9b9d62ec94243eb24aa</UserId>
+            <UserNick>GreenEyes</UserNick>
+            <Date>2010-03-13 00:15:03</Date>
+            <Timestamp>1268468103</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:13:13 PDT 2010 -->

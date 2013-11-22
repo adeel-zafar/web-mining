@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222181652AArTo65" type="Answered">
+    <Subject>How do I get search engines to locate my blog?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-22 18:16:52</Date>
+    <Timestamp>1266891412</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222181652AArTo65</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LHRCRnUcaa</UserId>
+    <UserNick>Marcus</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/17CqzxpE_AAEErwJd9C--PbgB.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well, you mean to get it indexed. Write quality articles and after you post each article ping it and social bookmarket to as many social bookmarks you can. In other words write and post quality articles (content) and build backlinks.</ChosenAnswer>
+    <ChosenAnswererId>MeBGXA0Daa</ChosenAnswererId>
+    <ChosenAnswererNick>Increase Traffic</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266896768</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266973229</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well, you mean to get it indexed. Write quality articles and after you post each article ping it and social bookmarket to as many social bookmarks you can. In other words write and post quality articles (content) and build backlinks.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>MeBGXA0Daa</UserId>
+            <UserNick>Increase Traffic</UserNick>
+            <Date>2010-02-22 19:46:08</Date>
+            <Timestamp>1266896768</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:29 PDT 2010 -->

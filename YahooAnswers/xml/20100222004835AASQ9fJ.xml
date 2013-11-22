@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222004835AASQ9fJ" type="Answered">
+    <Subject>Why don&#039;t my photos show up in a search at photobucket?</Subject>
+    <Content>I posted photos two days ago, I used tags and now I can&#039;t find them on any search.
+
+Is there some time delay before the search feature includes them in a memory bank?
+
+I typed in the exact wording for the tags of one photo and it came back with zero hits.
+
+Go figger!!!
+</Content>
+    <Date>2010-02-22 00:48:35</Date>
+    <Timestamp>1266828515</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222004835AASQ9fJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>026d63c46c14c0d14d0dcdbdd286e8a3aa</UserId>
+    <UserNick>mindbender - seeker of truth</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49c1468ci169cz/aoPzeo05fqdapCRpH8.RtWNFBrShcg--/100/tn48.jpg?ciAAToMB41zDLy41</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>Did you give tags for your photos. Is you give tags means it will show</ChosenAnswer>
+    <ChosenAnswererId>DjV6mBgvaa</ChosenAnswererId>
+    <ChosenAnswererNick>jenin A</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266828884</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267347859</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They are safe in your account obviously, but the people I know who use Photobucket simply use it either to store photos or to get HTML code for specific photos rather than to have strangers being able to search for them.  Never thought of Photobucket in a searching context.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-02-22 00:53:29</Date>
+            <Timestamp>1266828809</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Did you give tags for your photos. Is you give tags means it will show</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DjV6mBgvaa</UserId>
+            <UserNick>jenin A</UserNick>
+            <Date>2010-02-22 00:54:44</Date>
+            <Timestamp>1266828884</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Maybe google hasnt crawled the tags check again in a week</Content>
+            <Reference>http://www.specialistmats.co.uk/
+
+http://www.murcom.co.uk</Reference>
+            <Best></Best>
+            <UserId>LKazbWNHaa</UserId>
+            <UserNick>craigc0302</UserNick>
+            <Date>2010-02-22 00:58:01</Date>
+            <Timestamp>1266829081</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>c4d0e719539285829b5349b9fa755aa6aa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-20 17:12:24</Date>
+            <Timestamp>1266829081</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:30:27 PDT 2010 -->

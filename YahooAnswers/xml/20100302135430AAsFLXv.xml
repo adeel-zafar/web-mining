@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302135430AAsFLXv" type="Answered">
+    <Subject>Does the epic fail guy from 4chan have a real name?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-02 13:54:30</Date>
+    <Timestamp>1267566870</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302135430AAsFLXv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8b38a26745f28cc2d7dda92b9a4cef63aa</UserId>
+    <UserNick>sonicfan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1IqFI-DoMAAEB_OFJyk-oCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no</ChosenAnswer>
+    <ChosenAnswererId>GRyED2nbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chelease199</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267566941</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268508909</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>GRyED2nbaa</UserId>
+            <UserNick>Chelease199</UserNick>
+            <Date>2010-03-02 13:55:41</Date>
+            <Timestamp>1267566941</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:25:21 PDT 2010 -->

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325163110AAbLpW8" type="Answered">
+    <Subject>Do you think wifi is stealing?</Subject>
+    <Content>im talking about unsecured no password ones
+</Content>
+    <Date>2010-03-25 16:31:10</Date>
+    <Timestamp>1269559870</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325163110AAbLpW8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AOzt7qORaa</UserId>
+    <UserNick>Corey</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Nah, i don&#039;t think so. 
+It is pretty easy to get a password for the Wifi things. 
+It is the owners responsibility to put a password on it.
+I think of it as them &quot;sharing&quot; their internet (:</ChosenAnswer>
+    <ChosenAnswererId>kDyj5d7laa</ChosenAnswererId>
+    <ChosenAnswererNick>Live♥Laugh♥Love♥</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269560604</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269699272</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>its your responsibilty to create a secure network, its not a crime and you cant be charged for it but if i find someone using my wireless network they get their head kicked in</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FcaDJlHYaa</UserId>
+            <UserNick>Its him again</UserNick>
+            <Date>2010-03-25 16:35:25</Date>
+            <Timestamp>1269560125</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you are at a Starbucks or some such place then no. They supply it for customers. But if you are leeching from a neighbor then yes. You are stealing.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JB7uzfT6aa</UserId>
+            <UserNick>Old Fogey</UserNick>
+            <Date>2010-03-25 16:35:49</Date>
+            <Timestamp>1269560149</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nah, i don&#039;t think so. 
+It is pretty easy to get a password for the Wifi things. 
+It is the owners responsibility to put a password on it.
+I think of it as them &quot;sharing&quot; their internet (:</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>kDyj5d7laa</UserId>
+            <UserNick>Live♥Laugh♥Love♥</UserNick>
+            <Date>2010-03-25 16:43:24</Date>
+            <Timestamp>1269560604</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:30:04 PDT 2010 -->

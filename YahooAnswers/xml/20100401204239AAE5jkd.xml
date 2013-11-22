@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401204239AAE5jkd" type="Answered">
+    <Subject>Web Browser Problem help?</Subject>
+    <Content>Everytime I click on a site... It gives me a blank white screen saying GIF 1x1. Help?
+</Content>
+    <Date>2010-04-01 20:42:39</Date>
+    <Timestamp>1270179759</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401204239AAE5jkd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jUijkg5waa</UserId>
+    <UserNick>रियान</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can try to use another browser. If this phenomenon still exist I think your computer may be infected with virus or malware. If it is too tought to solve by yourself you can visit this website, it may help you: http://www.teesupport.com/ Just depends on yourself.</ChosenAnswer>
+    <ChosenAnswererId>ohQdBdvhaa</ChosenAnswererId>
+    <ChosenAnswererNick>Zhao</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270181427</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270256491</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>uninstall that web browser and install latest version of same browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>I0iuLIEoaa</UserId>
+            <UserNick>Uday Teja</UserNick>
+            <Date>2010-04-01 20:49:19</Date>
+            <Timestamp>1270180159</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can try to use another browser. If this phenomenon still exist I think your computer may be infected with virus or malware. If it is too tought to solve by yourself you can visit this website, it may help you: http://www.teesupport.com/ Just depends on yourself.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ohQdBdvhaa</UserId>
+            <UserNick>Zhao</UserNick>
+            <Date>2010-04-01 21:10:27</Date>
+            <Timestamp>1270181427</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Uninstall and then Install it.Which Browser you use?? Download Google Chrome.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qJY54u2Vaa</UserId>
+            <UserNick>Hunts</UserNick>
+            <Date>2010-04-01 23:47:58</Date>
+            <Timestamp>1270190878</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:57 PDT 2010 -->

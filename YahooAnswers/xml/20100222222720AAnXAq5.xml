@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222222720AAnXAq5" type="Answered">
+    <Subject>I can&#039;t visit entered URLs in Firefox?</Subject>
+    <Content>Here is the problem.  I suddenly can&#039;t go to a web site I&#039;ve typed in myself.  I can type it in but when I hit enter nothing happens.  When I click the &quot;go&quot; arrow next to the URL box nothing happens.  I can visit my bookmarks without issues, I can click links on web sites without problems, I can click my &quot;stumble&quot; button without problems.  I just can&#039;t go to a URL that is in the URL box.
+
+And for those of you skimming this question and thinking of asking if my enter key is working I assure you that it is and that I am currently using it to type this question.
+
+The only change I&#039;ve made is that I&#039;ve installed Miro (a video player that was recommended by Firefox) and I have since uninstalled it and done a system restore with no change.  Any suggestions?
+The thing is I can visit all the sites through IE.  It&#039;s not sitting there and idling.  It&#039;s just not doing ANYTHING.  No status bar, no time outs.  It&#039;s just ignoring the enter key and go arrow.
+I do run AVG...I wonder if this caused the issue...I tried disabling all extensions (starting in safe mode) and it didn&#039;t help so I made a new profile and dragged over all my extensions and bookmarks and all is good with the new extension.  If it happens again maybe I&#039;ll remove the AVG tool bar.  Thanks for the information
+</Content>
+    <Date>2010-02-22 22:27:20</Date>
+    <Timestamp>1266906440</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222222720AAnXAq5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2hBxZSEJaa</UserId>
+    <UserNick>Eaglesong3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1O6R5cEybAAABV-J1RBOe9AUnIg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>AVG can cause this issue. You can also try disabling extensions one at a time and restarting FF to see if an extension is causing the problem.</ChosenAnswer>
+    <ChosenAnswererId>Xcri5qeTaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary Oster</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267002504</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267051976</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m having trouble getting to certain web sites and domains myself, right now. I don&#039;t know if this is a problem with the DNS server I use, or if there are web sites being attacked right now. Best thing is to wait a little bit and see what things look like in an hour, maybe 30 minutes.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11559018</UserId>
+            <UserNick>·</UserNick>
+            <Date>2010-02-22 22:30:18</Date>
+            <Timestamp>1266906618</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>AVG can cause this issue. You can also try disabling extensions one at a time and restarting FF to see if an extension is causing the problem.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>Xcri5qeTaa</UserId>
+            <UserNick>Gary Oster</UserNick>
+            <Date>2010-02-24 01:08:24</Date>
+            <Timestamp>1267002504</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:24:07 PDT 2010 -->

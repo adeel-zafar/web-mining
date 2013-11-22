@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302083740AA8tNvb" type="Answered">
+    <Subject>Are Google and Yahoo secretly in bed together?</Subject>
+    <Content>After being banned by gmail, Yahoo seems to magically know this, and prevents me from posting on Yahoo answers because of &quot;unusual network activity&quot; coming from my IP. Is Google passing information about my usage to Yahoo?
+</Content>
+    <Date>2010-03-02 08:37:40</Date>
+    <Timestamp>1267547860</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302083740AA8tNvb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Qp0u9q5Naa</UserId>
+    <UserNick>Emmy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1SyLkMK1jAAEB_8He8Lp92S-7rB8G.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Google and Yahoo probably know nothing about you individually... but there are organizations out there that probably do and pass that information along to many different sites.
+
+These organizations maintain what are known as &#039;blacklisting sites&#039; that are huge databases of domains, providers and IP addresses that have been demonstrated to participate in bad Internet behavior.  For example, if tons and tons of spam are always detected coming from a certain IP range, that IP range will be added to the blacklist.
+
+Other sites then subscribe to these blacklists and automatically prevent access of data coming from a blacklisted site.
+
+At my corporate site, for example, I have a Watchguard Firebox firewall and I subscribe to their blacklisting services.  These services are constantly updated preventing my users from receiving e-mails from known spammers.  Another example of something like this would be AppRiver, a site that monitors spam sites and prevents reception of e-mails from known bad sites.
+
+Somewhere along the link there was some &quot;unusual network activity&quot; coming either from yourself or someone else on your IP range.  Because of that activity, odds are very good that your IP address was added to a blacklist site... and that information was shared with sites like Google and Yahoo all over the world.
+
+One place you can go to check is the following website:
+http://www.dnsbl.info/
+
+Type your current IP address into the &#039;Quick DNSBL Check&#039; bar and click on &#039;Check this IP.&#039;  If you come back with the red circle (&quot;listed&quot;), then your IP address is indeed listed with those blacklist sites.  It will be up to you to follow up with those sites to have your IP address removed.</ChosenAnswer>
+    <ChosenAnswererId>7vh5fOeRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jamfo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267548093</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268067353</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>HA HA HA HA HA
+
+No, they know nothing about one another.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-02 08:39:16</Date>
+            <Timestamp>1267547956</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Google and Yahoo probably know nothing about you individually... but there are organizations out there that probably do and pass that information along to many different sites.
+
+These organizations maintain what are known as &#039;blacklisting sites&#039; that are huge databases of domains, providers and IP addresses that have been demonstrated to participate in bad Internet behavior.  For example, if tons and tons of spam are always detected coming from a certain IP range, that IP range will be added to the blacklist.
+
+Other sites then subscribe to these blacklists and automatically prevent access of data coming from a blacklisted site.
+
+At my corporate site, for example, I have a Watchguard Firebox firewall and I subscribe to their blacklisting services.  These services are constantly updated preventing my users from receiving e-mails from known spammers.  Another example of something like this would be AppRiver, a site that monitors spam sites and prevents reception of e-mails from known bad sites.
+
+Somewhere along the link there was some &quot;unusual network activity&quot; coming either from yourself or someone else on your IP range.  Because of that activity, odds are very good that your IP address was added to a blacklist site... and that information was shared with sites like Google and Yahoo all over the world.
+
+One place you can go to check is the following website:
+http://www.dnsbl.info/
+
+Type your current IP address into the &#039;Quick DNSBL Check&#039; bar and click on &#039;Check this IP.&#039;  If you come back with the red circle (&quot;listed&quot;), then your IP address is indeed listed with those blacklist sites.  It will be up to you to follow up with those sites to have your IP address removed.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7vh5fOeRaa</UserId>
+            <UserNick>Jamfo</UserNick>
+            <Date>2010-03-02 08:41:33</Date>
+            <Timestamp>1267548093</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:26:33 PDT 2010 -->

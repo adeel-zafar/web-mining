@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401163346AAbrAbv" type="Answered">
+    <Subject>IN opera browser, i tried to change colour to Blue but it is still grey bars?</Subject>
+    <Content>
+</Content>
+    <Date>2010-04-01 16:33:46</Date>
+    <Timestamp>1270164826</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401163346AAbrAbv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XkycjorQaa</UserId>
+    <UserNick>Ds34</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>sounds like you have windows themes turned off?</ChosenAnswer>
+    <ChosenAnswererId>m10Ir6Fraa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270169661</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270351610</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>sounds like you have windows themes turned off?</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>m10Ir6Fraa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-04-01 17:54:21</Date>
+            <Timestamp>1270169661</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:14 PDT 2010 -->

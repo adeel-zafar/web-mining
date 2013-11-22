@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326163441AAMR3tx" type="Answered">
+    <Subject>How to uninstall anti virus soft? my sister downloaded this program called antiviris soft( this is the way tha?</Subject>
+    <Content>How to uninstall anti virus soft?
+my sister downloaded this program called antiviris soft( this is the way that its spelled).... im not even sure where she got it from but i cant get it off my computer i have tried EVERY THING if any one out there knows how to delete this program off my computer completely please tell me how
+</Content>
+    <Date>2010-03-26 16:34:41</Date>
+    <Timestamp>1269646481</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326163441AAMR3tx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xxC3bRdYaa</UserId>
+    <UserNick>breadtalk</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>wsZtB0xhaa</ChosenAnswererId>
+    <ChosenAnswererNick>google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269728430</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269729039</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>That is considered spyware. You should download and run Malwarebytes.</Content>
+            <Reference>http://filehippo.com/download_malwarebytes_anti_malware/</Reference>
+            <Best></Best>
+            <UserId>o0f9bLUDaa</UserId>
+            <UserNick>HammeringOracle</UserNick>
+            <Date>2010-03-26 16:45:06</Date>
+            <Timestamp>1269647106</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wsZtB0xhaa</UserId>
+            <UserNick>google</UserNick>
+            <Date>2010-03-27 15:20:30</Date>
+            <Timestamp>1269728430</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:36 PDT 2010 -->

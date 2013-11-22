@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327223811AAeXf0V" type="Answered">
+    <Subject>How do people ship so fast on ebay?</Subject>
+    <Content>i just bought something off ebay and like 3 minutes later i got a message in my email saying that they already have shipped the item and it gave me a tracking # too..just wondering how people do this?
+</Content>
+    <Date>2010-03-27 22:38:11</Date>
+    <Timestamp>1269754691</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327223811AAeXf0V</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TXRR09tyaa</UserId>
+    <UserNick>Ryan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>maybe there are onilne all day long, and they got the order email right away, then they can print label off from ebay, the system will automatically send you email with their tracking number</ChosenAnswer>
+    <ChosenAnswererId>zbYURALGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Johnny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269754883</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269814465</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>maybe there are onilne all day long, and they got the order email right away, then they can print label off from ebay, the system will automatically send you email with their tracking number</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>zbYURALGaa</UserId>
+            <UserNick>Johnny</UserNick>
+            <Date>2010-03-27 22:41:23</Date>
+            <Timestamp>1269754883</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:25 PDT 2010 -->

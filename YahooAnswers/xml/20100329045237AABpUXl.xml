@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329045237AABpUXl" type="Answered">
+    <Subject>are there any decent ad blockers for internet explorer?</Subject>
+    <Content>when i first signed up for an account in late 2006 on yahoo answers, i dont remember &#039; ever &#039; seeing any intrusive, distracting advertisements - over the last year or so it seems now they are a fixed , permanent feature.
+
+i find them distracting and annoying at best . i despise them.
+
+ive managed to block them on google chrome useing an ad block, ive also blocked them on firefox , but there are tons of ad ons on firefox it keeps freezing and doesn&#039;t operate too well.
+
+but i notice the ads are still showing on internet explorer , i thought i blocked them with a host file, blocker - but the ads are still managing to show through..
+
+
+is there any effective way i can block the ads through internet explorer ?
+
+i really dont like them, i resent their presence and they ruin my enjoyment of yahoo answers.
+</Content>
+    <Date>2010-03-29 04:52:37</Date>
+    <Timestamp>1269863557</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329045237AABpUXl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BalR8ARPaa</UserId>
+    <UserNick>THE  Norman knight</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1cPcPzi0QAAEC_kF7AbLbN0QB.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I don&#039;t use Internet Explorer for it&#039;s lack of protection and abilities in this department. I would suggest changing browsers before trying ad ons for that with IE. Try Firefox and then install the add-on called NoScript. It gives you the ability to allow or block anything on the page you are looking at. I been using it for years and swear by it.</ChosenAnswer>
+    <ChosenAnswererId>fcSav16uaa</ChosenAnswererId>
+    <ChosenAnswererNick>cj</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269864070</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269883738</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yahoo survives on adds, you can have pop up blocker etc on and you still get them, want no adds on yahoo, they start charging for accounts? Not IE</Content>
+            <Reference>IT Cert. 3</Reference>
+            <Best></Best>
+            <UserId>iSj8L9IKaa</UserId>
+            <UserNick>t12_incomplete</UserNick>
+            <Date>2010-03-29 04:56:41</Date>
+            <Timestamp>1269863801</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I don&#039;t use Internet Explorer for it&#039;s lack of protection and abilities in this department. I would suggest changing browsers before trying ad ons for that with IE. Try Firefox and then install the add-on called NoScript. It gives you the ability to allow or block anything on the page you are looking at. I been using it for years and swear by it.</Content>
+            <Reference>https://addons.mozilla.org/en-US/firefox/addon/722
+
+http://www.antihacksecurity.com/the-news/116-noscript-for-internet-explorer-ie-8</Reference>
+            <Best>5</Best>
+            <UserId>fcSav16uaa</UserId>
+            <UserNick>cj</UserNick>
+            <Date>2010-03-29 05:01:10</Date>
+            <Timestamp>1269864070</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>.l</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>H9VFiGQraa</UserId>
+            <UserNick>bloodykilla33</UserNick>
+            <Date>2010-03-29 05:03:25</Date>
+            <Timestamp>1269864205</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>not an add-on but as a background working software &quot;Ad Muncher&quot; is really successful with &quot;munching&quot; ads and stuff. it doesn&#039;t matter which browser you are using. it is not free but i say give it a try ;)</Content>
+            <Reference>http://www.admuncher.com/</Reference>
+            <Best></Best>
+            <UserId>Qy96dQNuaa</UserId>
+            <UserNick>procsee</UserNick>
+            <Date>2010-03-29 05:12:46</Date>
+            <Timestamp>1269864766</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:16:29 PDT 2010 -->

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313191020AAVcJ01" type="Answered">
+    <Subject>How many websites are registered on the internet?</Subject>
+    <Content>By website I mean domain names, not necessarily blogs and pages within domains.
+
+I suppose this is a hard question to answer, but I have wondered about it for a while now. Good luck!
+</Content>
+    <Date>2010-03-13 19:10:20</Date>
+    <Timestamp>1268536220</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313191020AAVcJ01</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2P2jqIMBaa</UserId>
+    <UserNick>Destroyer000</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/12SP_geavAAEDPCKbsCW7DQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>according to netcraft.com around 210 million</ChosenAnswer>
+    <ChosenAnswererId>JNt0v9SUaa</ChosenAnswererId>
+    <ChosenAnswererNick>MrDharma</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268537051</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270287139</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What the hell is an internet?</Content>
+            <Reference>Stop making up words.  It&#039;s unbecoming and weird.</Reference>
+            <Best></Best>
+            <UserId>2ALLpRpiaa</UserId>
+            <UserNick>srcdecay</UserNick>
+            <Date>2010-03-13 19:12:55</Date>
+            <Timestamp>1268536375</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>999,999,999,998</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-13 19:12:59</Date>
+            <Timestamp>1268536379</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>more than the stars in the sky and people in the world. count them and you might get an idea</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2B4vi74baa</UserId>
+            <UserNick>stronghold1135</UserNick>
+            <Date>2010-03-13 19:18:27</Date>
+            <Timestamp>1268536707</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>according to netcraft.com around 210 million</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JNt0v9SUaa</UserId>
+            <UserNick>MrDharma</UserNick>
+            <Date>2010-03-13 19:24:11</Date>
+            <Timestamp>1268537051</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:56 PDT 2010 -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228140142AAJqwfn" type="Answered">
+    <Subject>Firefox Cache Folder in Windows 7?</Subject>
+    <Content>I&#039;m trying to located the Firefox Cache Folder in Windows 7 to see if I can recover some photos I just looked at with the browser.   
+
+  Anyone know where the folder is located?
+</Content>
+    <Date>2010-02-28 14:01:42</Date>
+    <Timestamp>1267394502</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228140142AAJqwfn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uBcHDhFmaa</UserId>
+    <UserNick>zealot55</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1sID7XOY_AAECWIE_8Ajz4UwEzygD.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try here:
+
+C:\Users\your username\AppData\ Local\Mozilla\Firefox\Profiles\your profile\Cache
+
+Hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267396264</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267913750</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try here:
+
+C:\Users\your username\AppData\ Local\Mozilla\Firefox\Profiles\your profile\Cache
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-02-28 14:31:04</Date>
+            <Timestamp>1267396264</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:36:54 PDT 2010 -->

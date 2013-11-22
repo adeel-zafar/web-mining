@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325020023AAFkB9S" type="Answered">
+    <Subject>Removing picture from SPOKEO site?</Subject>
+    <Content>Ok so I did a search on myself on my email address and I was shocked.  It actually shows a picture of me thats about 4 years old. I want to know how to remove this because I already went to they&#039;re privacy settings and it says it can&#039;t remove email info because most of it is from public sites like myspace, facebook, etc....ok well I haven&#039;t had any of these for at least 2 years now so what gives.
+</Content>
+    <Date>2010-03-25 02:00:23</Date>
+    <Timestamp>1269507623</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325020023AAFkB9S</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qFrTyhTvaa</UserId>
+    <UserNick>Prissy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>At the bottom of each Spokeo page there is a link for &quot;privacy&quot;.  Click on that link and enter the URL where they show your info.  The URL should look something like:
+
+&quot;http://www.spokeo.com/name/search?n=joe.smith#District of Columbia:1234&quot;
+
+Except it will be your name rather than &quot;Joe Smith.&quot;
+
+If that doesn&#039;t work, there are commercial services like ReputationDefender.com/MyPrivacy that automatically remove data from Spokeo for you.</ChosenAnswer>
+    <ChosenAnswererId>adgtGvwHaa</ChosenAnswererId>
+    <ChosenAnswererNick>David</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269588971</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270026796</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you didn&#039;t remove all of your information from those sites before you stopped using them the data still exists online. Probably the best thing to do is to try and remember your log in details and then remove the stuff that you don&#039;t want people to see if they search for you or your email addresss. If you can&#039;t access those sites you will have to find out how to contact them but it may not be easy to get your data removed.
+
+To prevent the same thing happening again I suggest keeping one email for personal use and a couple of others which do not contain your name for sites requiring a point of contact like Facebook or any other site!
+
+Also be aware that if you post your email address on any site it may well become searchable so use a different ending like @dotcom or atYahoo.com or .co.ukay and then it won&#039;t be harvested by spam bots either.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1uIn1AEaaa</UserId>
+            <UserNick>Chrisallis</UserNick>
+            <Date>2010-03-25 03:32:55</Date>
+            <Timestamp>1269513175</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>At the bottom of each Spokeo page there is a link for &quot;privacy&quot;.  Click on that link and enter the URL where they show your info.  The URL should look something like:
+
+&quot;http://www.spokeo.com/name/search?n=joe.smith#District of Columbia:1234&quot;
+
+Except it will be your name rather than &quot;Joe Smith.&quot;
+
+If that doesn&#039;t work, there are commercial services like ReputationDefender.com/MyPrivacy that automatically remove data from Spokeo for you.</Content>
+            <Reference>http://www.reputationdefender.com/how-to/remove-your-name-from-spokeo-and-other-people-finder-sites/</Reference>
+            <Best>5</Best>
+            <UserId>adgtGvwHaa</UserId>
+            <UserNick>David</UserNick>
+            <Date>2010-03-26 00:36:11</Date>
+            <Timestamp>1269588971</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:31:57 PDT 2010 -->

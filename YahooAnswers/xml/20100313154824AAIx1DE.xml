@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313154824AAIx1DE" type="Answered">
+    <Subject>how to know where is someone tweeting from?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-13 15:48:24</Date>
+    <Timestamp>1268524104</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313154824AAIx1DE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SAuBmdVOaa</UserId>
+    <UserNick>michelle</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/14u3BLdGbAAEB0IScIEN4ersB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>At the bottom of each tweet, it says whether they&#039;ve tweeted on the web or phone or otherwise but locations aren&#039;t given.</ChosenAnswer>
+    <ChosenAnswererId>Wv79nDJWaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dancingzombiez</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268524271</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269040073</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>At the bottom of each tweet, it says whether they&#039;ve tweeted on the web or phone or otherwise but locations aren&#039;t given.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Wv79nDJWaa</UserId>
+            <UserNick>Dancingzombiez</UserNick>
+            <Date>2010-03-13 15:51:11</Date>
+            <Timestamp>1268524271</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:34 PDT 2010 -->

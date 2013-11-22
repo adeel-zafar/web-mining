@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228073445AAPTtI2" type="Answered">
+    <Subject>Firefox browser does not work, but others,like Explorer and Google Chrome do. This is Window XP.?</Subject>
+    <Content>I downloaded the set up, click the icon. It asks me which program to open. I click Mozilla, it just do nothing. One time I went to the &quot; All Progammes&quot; and click some &quot; Accessories&quot; , it worked again. Also some icons in my Control Panel  do not work because the  &quot; System32rundll32exc&quot; Application not found. Can some one tell me how to get my Firefox back using &quot; All Progammes&quot; and clicking some &quot; Accessories&quot; programs?
+</Content>
+    <Date>2010-02-28 07:34:45</Date>
+    <Timestamp>1267371285</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228073445AAPTtI2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>47lsWtroaa</UserId>
+    <UserNick>mlam18</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Download Firefox setup again from normal website (like www.firefox.com) and install it again.
+
+Otherwise, 2 more things I can recommend: 1) Learn using your PC deeper and 2) Reinstall your Windows</ChosenAnswer>
+    <ChosenAnswererId>172080af47a25771cb96135c3b749288aa</ChosenAnswererId>
+    <ChosenAnswererNick>Anvar</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268056595</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268236413</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Download Firefox setup again from normal website (like www.firefox.com) and install it again.
+
+Otherwise, 2 more things I can recommend: 1) Learn using your PC deeper and 2) Reinstall your Windows</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>172080af47a25771cb96135c3b749288aa</UserId>
+            <UserNick>Anvar</UserNick>
+            <Date>2010-03-08 05:56:35</Date>
+            <Timestamp>1268056595</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:38:50 PDT 2010 -->

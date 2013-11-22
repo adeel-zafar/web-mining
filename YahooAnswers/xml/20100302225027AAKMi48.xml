@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302225027AAKMi48" type="Answered">
+    <Subject>Help getting wireless internet please!?</Subject>
+    <Content>I have absolutely no knowledge of internet and connections and all of the devices in between. I have always lived somewhere that provided all of that for me. I am moving this weekend and internet is a must. I only have a laptop and currently no cable or any thing really. If someone could explain my options and ideas on their price ranges, that would be very much help to me! Simple terms please :) I really am clueless about this stuff. I can work a computer, but I&#039;m lost when it comes to all the extra stuff. 
+Thanks so much!
+Oops. Just wanted to add that this is in Arizona, U.S. in the East Valley/Phoenix area.
+</Content>
+    <Date>2010-03-02 22:50:27</Date>
+    <Timestamp>1267599027</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302225027AAKMi48</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>g5KxNqTyaa</UserId>
+    <UserNick>ChocolateChick</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Since you have a laptop, you can go to Verizon, Comcast, AT&amp;T or any ISPs near you or whichever you prefer, and ask for internet expressed card. Usually, if you sign a contract they are going to give that for free. Anyways what an express card will do is wherever you go, as long the card is connected to your laptop, you have internet access. I think they are about $40-60 a month.
+
+However, if you just want to have a wireless network at your home then you will need a high speed internet, and a wireless router. About the router, the good brands are Linksys, D-link, Netgear.
+This is how you setup your wireless router with your high speed internet:
+Make sure that you turn-off all the components which are Modem, router and PC. Make sure that no power at all. After that, connect your modem to the router and then connect your router to the computer. (use a cat5e cable). It should look like this.
+[Cable Modem]------&gt;[Wireless router]-------&gt;[Computer]
+
+Once everything is connected, log-in to your router, and change the admin username and password.
+Then go to wireless and rename your SSID to whatever name you want.
+Choose the Security, I would recommend use WPA or WPA2(best). Do not use WEP unless you have to.
+Choose the algorithm, the choices are AES, TKIP or both. I would say AES since that is the best encryption for wireless, but TKIP is not bad. If you are not sure which one you want, you can choose both.
+Create your Share Key(password). Make sure you are the only one who knows the password and never share it to someone.
+Those are the basic settings of setting up a wireless network.
+
+You can add some addition things like:
+Disable your SSID Broadcast
+MAC Filtering
+
+So once you finished the setting it up, you can disconnect your laptop from the router and then connect to your network wirelessly.
+It should look like this:
+[Cable modem]-----&gt;[Wireless Router] ) ) ) ) ) ) )[Laptop]</ChosenAnswer>
+    <ChosenAnswererId>hRpg78bSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nikki</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267600120</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267772295</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it would be better if we knew which part of the world your going to be in and what available in that region? Are we talking USD, Euro, AUD, so on? Laptops will pick up wireless and use ethernet, voltages from country to country vary as well?</Content>
+            <Reference>IT Cert. 3</Reference>
+            <Best></Best>
+            <UserId>iSj8L9IKaa</UserId>
+            <UserNick>t12_incomplete</UserNick>
+            <Date>2010-03-02 23:00:11</Date>
+            <Timestamp>1267599611</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Since you have a laptop, you can go to Verizon, Comcast, AT&amp;T or any ISPs near you or whichever you prefer, and ask for internet expressed card. Usually, if you sign a contract they are going to give that for free. Anyways what an express card will do is wherever you go, as long the card is connected to your laptop, you have internet access. I think they are about $40-60 a month.
+
+However, if you just want to have a wireless network at your home then you will need a high speed internet, and a wireless router. About the router, the good brands are Linksys, D-link, Netgear.
+This is how you setup your wireless router with your high speed internet:
+Make sure that you turn-off all the components which are Modem, router and PC. Make sure that no power at all. After that, connect your modem to the router and then connect your router to the computer. (use a cat5e cable). It should look like this.
+[Cable Modem]------&gt;[Wireless router]-------&gt;[Computer]
+
+Once everything is connected, log-in to your router, and change the admin username and password.
+Then go to wireless and rename your SSID to whatever name you want.
+Choose the Security, I would recommend use WPA or WPA2(best). Do not use WEP unless you have to.
+Choose the algorithm, the choices are AES, TKIP or both. I would say AES since that is the best encryption for wireless, but TKIP is not bad. If you are not sure which one you want, you can choose both.
+Create your Share Key(password). Make sure you are the only one who knows the password and never share it to someone.
+Those are the basic settings of setting up a wireless network.
+
+You can add some addition things like:
+Disable your SSID Broadcast
+MAC Filtering
+
+So once you finished the setting it up, you can disconnect your laptop from the router and then connect to your network wirelessly.
+It should look like this:
+[Cable modem]-----&gt;[Wireless Router] ) ) ) ) ) ) )[Laptop]</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>hRpg78bSaa</UserId>
+            <UserNick>Nikki</UserNick>
+            <Date>2010-03-02 23:08:40</Date>
+            <Timestamp>1267600120</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:21:02 PDT 2010 -->

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314192128AA3SpEI" type="Answered">
+    <Subject>Why do I have problems with new tabs opening uncontrollably, Firefox downloads, IE...?</Subject>
+    <Content>I had a PC that kept getting the blue screen of death. Then, it completely stopped working and would freeze as soon as it started up to all the icons and such. 
+
+Now, we&#039;re using our laptop as a home computer until further notice. It has Internet Explorer, and we just installed McAfee Anti-Virus 2010 on it. Now, a Firefox 3.6 is out, and I&#039;d like to install it. However, it&#039;ll just about halfway install, then say &quot;File Corrupt&quot;. I&#039;m now wondering if putting Firefox on here will cause any future BSODss or viruses. Is it a good idea to install it (or version 3.5.8), or should I just stick with IE? 
+
+Also, two Web sites (imdb.com and myspace.com) will open up at least 40 new tabs everytime I click a link on them. Is this a virus, or something else?
+
+Please help! Thank you!
+</Content>
+    <Date>2010-03-14 19:21:28</Date>
+    <Timestamp>1268619688</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314192128AA3SpEI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nQOtGIm4aa</UserId>
+    <UserNick>I_Just_Saw_Halley&#039;s_Comet...</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>In most cases, the build up of junk files in your registry is the main culprit of this trouble; this is due to the fact that area in your computer is very crucial because it is the central database of important files where most vital information and programs are stored. The accumulation of redundant items can significantly affect vital data because the build up can dislodge some of them from its proper location and cause others to be corrupted. The moment this scenario takes place, problems start to emerge and the dreaded blue screen of death appear which you need to immediately repair to prevent worsening the case.Consequently, one of the best solutions in managing the situation is to use registry cleaning tools  http://make-computer-run-smoothly.com                  with great power and capacity to completely flush out all junk files and fix all errors found. By effectively keeping this area clean from all trashes, you can also effectively solve the problem and even optimize your computer&#039;s performance.</ChosenAnswer>
+    <ChosenAnswererId>QM5YPrQQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Killy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268664741</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269139046</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This does appear to be virus-like behaviour (my computer did something similar when I got the virus that killed it), but if McAfee can&#039;t find anything...
+
+On the other hand, the virus that killed my machine was designed to kill the antivirus first, so maybe yours has.  Check it with McAfee&#039;s online thingy.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QW0zhGKoaa</UserId>
+            <UserNick>Deadly Headshot</UserNick>
+            <Date>2010-03-14 21:20:14</Date>
+            <Timestamp>1268626814</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Looks like to me that you are downloading it from a corrupt source 
+which can happen if you are using a mirror site.
+
+Tried downloading it from Mozilla themselves?
+
+http://www.mozilla-europe.org/en/firefox/</Content>
+            <Reference>Experienced1</Reference>
+            <Best></Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-15 01:49:01</Date>
+            <Timestamp>1268642941</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In most cases, the build up of junk files in your registry is the main culprit of this trouble; this is due to the fact that area in your computer is very crucial because it is the central database of important files where most vital information and programs are stored. The accumulation of redundant items can significantly affect vital data because the build up can dislodge some of them from its proper location and cause others to be corrupted. The moment this scenario takes place, problems start to emerge and the dreaded blue screen of death appear which you need to immediately repair to prevent worsening the case.Consequently, one of the best solutions in managing the situation is to use registry cleaning tools  http://make-computer-run-smoothly.com                  with great power and capacity to completely flush out all junk files and fix all errors found. By effectively keeping this area clean from all trashes, you can also effectively solve the problem and even optimize your computer&#039;s performance.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>QM5YPrQQaa</UserId>
+            <UserNick>Killy</UserNick>
+            <Date>2010-03-15 07:52:21</Date>
+            <Timestamp>1268664741</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:56:59 PDT 2010 -->

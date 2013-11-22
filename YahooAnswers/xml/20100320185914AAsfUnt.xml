@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320185914AAsfUnt" type="Answered">
+    <Subject>Why does FlashFlashRevolution not work?</Subject>
+    <Content>I used to play the game, and when i went back onto the site to play again after a year break, it says &quot;patience, check back soon&quot;
+Its been like that for days, anyone know whats going on, or what they&#039;re doing?
+</Content>
+    <Date>2010-03-20 18:59:14</Date>
+    <Timestamp>1269136754</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320185914AAsfUnt</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aC4ZB34faa</UserId>
+    <UserNick>Sexy Peanut Man</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Fl2dUW0QAAEB_OFUfJJKBg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>could be upgrading the software/servers/ anything.</ChosenAnswer>
+    <ChosenAnswererId>VXaQn8joaa</ChosenAnswererId>
+    <ChosenAnswererNick>maxamilus</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269139061</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269656084</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>could be upgrading the software/servers/ anything.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>VXaQn8joaa</UserId>
+            <UserNick>maxamilus</UserNick>
+            <Date>2010-03-20 19:37:41</Date>
+            <Timestamp>1269139061</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;ve googled this along time ago and i heard that ffr was shutdown and the team didn&#039;t have the funds to keep it running.  Thats what i remember and it&#039;s probably wrong.  Im guessing that the team is trying to get money to run the site again.</Content>
+            <Reference>Google</Reference>
+            <Best></Best>
+            <UserId>vNElcyZ3aa</UserId>
+            <UserNick>Kalani C</UserNick>
+            <Date>2010-03-22 15:19:37</Date>
+            <Timestamp>1269296377</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:36 PDT 2010 -->

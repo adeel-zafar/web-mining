@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325013446AAyy4y9" type="Answered">
+    <Subject>Browsing cookie causing a site to not update?</Subject>
+    <Content>I&#039;m sure that Youtube just got its new looking recently. But when I checked the site using Chrome, Youtube showed the previous looking with five stars rating still up there. Then I cleaned my browsing data and then the new looking was there. So I reckon the reason is that Chrome pretty much downloaded the design of the whole site so that even though the site itself is updated it wont be shown.
+
+Can anybody tells me if I&#039;m right? And if so, how to turn off this kind of function without affecting any other cookie?(You know I do like cookies since they make website load way faster)
+</Content>
+    <Date>2010-03-25 01:34:46</Date>
+    <Timestamp>1269506086</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325013446AAyy4y9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DctWidjNaa</UserId>
+    <UserNick>Dowson</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try it again pressing ctrl+f5</ChosenAnswer>
+    <ChosenAnswererId>0BBZlMuGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Smith</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269506497</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269558224</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try it again pressing ctrl+f5</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0BBZlMuGaa</UserId>
+            <UserNick>Smith</UserNick>
+            <Date>2010-03-25 01:41:37</Date>
+            <Timestamp>1269506497</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:31:58 PDT 2010 -->

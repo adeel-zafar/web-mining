@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307062912AAjyN15" type="Answered">
+    <Subject>anyone else unable to access firefox today?</Subject>
+    <Content>I tried to open up Firefox but it said that it &quot;crashed&quot; and wouldn&#039;t let me open it.  Anyone had this problem?  and if so, how did you fix it?  I have version 3.5.8 and am wondering if I need to update to version 3.6 but not sure if that will erase all my saved info (passwords, pages etc.,).
+</Content>
+    <Date>2010-03-07 06:29:12</Date>
+    <Timestamp>1267972152</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307062912AAjyN15</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BdJ0ZZg8aa</UserId>
+    <UserNick>Leggie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bb45eai2a42z/a_MFyJ49frVF5MWXEmbxNuqxMXkL/100/tn48.jpg?ciAAToMBDDHKNnZI</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>mine opened fine. it should hang onto all your personal info when it updates-shouldn&#039;t be any problem there. Did you try rebooting the computer?</ChosenAnswer>
+    <ChosenAnswererId>EEPWlKMIaa</ChosenAnswererId>
+    <ChosenAnswererNick>Eric</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267972321</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268491438</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>mine opened fine. it should hang onto all your personal info when it updates-shouldn&#039;t be any problem there. Did you try rebooting the computer?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EEPWlKMIaa</UserId>
+            <UserNick>Eric</UserNick>
+            <Date>2010-03-07 06:32:01</Date>
+            <Timestamp>1267972321</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Updating your Firefox will not delete your passwords or pages. It will only update the files that are needed to be updated, it will not delete any page or password that you saved... It is safe to update your Firefox, it is recommended too because it fixes bugs &amp; security holes...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4AlCqApPaa</UserId>
+            <UserNick>ShArK</UserNick>
+            <Date>2010-03-07 06:48:58</Date>
+            <Timestamp>1267973338</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>mines been fine this evening  but i haven&#039;t been on for a few hrs... ,, updating can;t hurt..... 
+Good Luck Lxx
+It&#039;s been  a while ...Nice to see Ya...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JY3SARkIaa</UserId>
+            <UserNick>Jarimmiha</UserNick>
+            <Date>2010-03-07 19:48:50</Date>
+            <Timestamp>1268020130</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:41:03 PDT 2010 -->

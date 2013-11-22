@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309050024AAboCon" type="Answered">
+    <Subject>Website are blocked....?</Subject>
+    <Content>I have internet explorer - OmniGlobe. The only website a can really get into, and browse, are Yahoo! Answers and AOL. But when I try to get into any other site, the URL goes from, www.youtube.com, to, about: blank, and takes me to a page that says blocked and This page can not be displayed.
+But if it does go to the homepage, I can&#039;t browse the site. I have no idea what is wrong.
+
+Does anyone have any idea of what might be wrong? And how I could &#039;fix&#039; this problem?
+</Content>
+    <Date>2010-03-09 05:00:24</Date>
+    <Timestamp>1268139624</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309050024AAboCon</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IXNsHYFsaa</UserId>
+    <UserNick>A</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I had the same problem so now I use Mozilla Firefox instead of Explorer and I haven&#039;t had any problems at all.
+
+It has to do with the security settings and its a pain in the butt!</ChosenAnswer>
+    <ChosenAnswererId>w59Irqhhaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nona said so</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268139760</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268161666</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I had the same problem so now I use Mozilla Firefox instead of Explorer and I haven&#039;t had any problems at all.
+
+It has to do with the security settings and its a pain in the butt!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>w59Irqhhaa</UserId>
+            <UserNick>Nona said so</UserNick>
+            <Date>2010-03-09 05:02:40</Date>
+            <Timestamp>1268139760</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try posting getting proxy could be a fire wall</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NduE2Hjnaa</UserId>
+            <UserNick>BigBangBilly</UserNick>
+            <Date>2010-03-09 05:03:31</Date>
+            <Timestamp>1268139811</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Clear your cookies.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pmYdwHqJaa</UserId>
+            <UserNick>Anonymous</UserNick>
+            <Date>2010-03-09 05:09:02</Date>
+            <Timestamp>1268140142</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Just never use IE. Worst browser in the world, Firefox is faster, easier to use and is a lot nicer too.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>T1Bz1lD6aa</UserId>
+            <UserNick>George P</UserNick>
+            <Date>2010-03-09 05:17:48</Date>
+            <Timestamp>1268140668</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Check your security setting, for that maybe your problem.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>t2Qx1Mgkaa</UserId>
+            <UserNick>moner_j2000</UserNick>
+            <Date>2010-03-09 05:22:44</Date>
+            <Timestamp>1268140964</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:26:16 PDT 2010 -->

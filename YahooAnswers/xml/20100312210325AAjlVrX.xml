@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312210325AAjlVrX" type="Answered">
+    <Subject>How can you set a picture on a chatroulette instead of using a webcam?</Subject>
+    <Content>I have seen many pictures of chatroullete with pictures on it instead of using a webcam. But I can&#039;t find a set picture button. Help?
+</Content>
+    <Date>2010-03-12 21:03:25</Date>
+    <Timestamp>1268456605</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312210325AAjlVrX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MXwpUITraa</UserId>
+    <UserNick>Qwerty</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a2b0d07i1432zul6sp1/3vAkXF8hbrQZj6fdvuLSmWhZivhAEdQJU2F09kJf/1/tn48.png?ciAAToMBTeLa3LD4</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>ChatLack.com is like chatroulette but with photos instead of webcam.</ChosenAnswer>
+    <ChosenAnswererId>1xtEYl6gaa</ChosenAnswererId>
+    <ChosenAnswererNick>ChatLack.com</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268474675</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269145367</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>ChatLack.com is like chatroulette but with photos instead of webcam.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>1xtEYl6gaa</UserId>
+            <UserNick>ChatLack.com</UserNick>
+            <Date>2010-03-13 02:04:35</Date>
+            <Timestamp>1268474675</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:06:27 PDT 2010 -->

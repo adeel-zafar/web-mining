@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307175752AAlAjbn" type="Answered">
+    <Subject>Why do I keep getting the &quot;Internet Explorer cannot display the web page?&quot;?</Subject>
+    <Content>I&#039;ve cleaned my cache, scanned for viruses, and cleaned the registry.  Sometimes it opens, sometimes not.
+</Content>
+    <Date>2010-03-07 17:57:52</Date>
+    <Timestamp>1268013472</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307175752AAlAjbn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10293429</UserId>
+    <UserNick>­ ­­Shotsie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1rvzqHwIwAAECHCKcOLHjeB7jOQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sounds like it could be a problem with the Internet settings cutting out. It&#039;s often the case for computers to get confused and save their Internet settings in the wrong way.
+
+Which registry cleaner did you use? If it&#039;s one called &quot;CCleaner&quot; then its no wonder it has not done anything to fix your PC. CCleaner does nothing to fix the settings inside your PC. It has a good temp file remover but it&#039;s registry cleaner is terrible. You should try a tool such as &#039;RegCure&#039; which you can find at http://www.fastregistryfixes.com/best_registry_cleaner_tools.html</ChosenAnswer>
+    <ChosenAnswererId>MDucxU68aa</ChosenAnswererId>
+    <ChosenAnswererNick>Timothy S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268038653</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268070788</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you should ditch internet explorer and get firefox, chrome or opera, i always had problems with it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WMaUGBdqaa</UserId>
+            <UserNick>Funny oney</UserNick>
+            <Date>2010-03-07 17:59:32</Date>
+            <Timestamp>1268013572</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>perhaps the link is old. if not just today with the problem, it could servers on other end. try getting there using search with keyword</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>47117270d222bc03bb11a9b57fb4e4cfaa</UserId>
+            <UserNick>globeweasel</UserNick>
+            <Date>2010-03-07 18:00:43</Date>
+            <Timestamp>1268013643</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>there could be many things. If you internet explorer is not displaying the web page, it is usually connection problem. you should reset your modem and reboot your PC. If you are connected and trying to open other website and you get this error, possibly the website is no longer available. i hope this one helps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>X5B0yPq4aa</UserId>
+            <UserNick>tes112</UserNick>
+            <Date>2010-03-07 18:02:52</Date>
+            <Timestamp>1268013772</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>because it&#039;s internet explorer!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UGIBuFChaa</UserId>
+            <UserNick>Steven</UserNick>
+            <Date>2010-03-07 18:03:57</Date>
+            <Timestamp>1268013837</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It may be that a third party app is interfering with opening IE, like your virus scan app, which may download updates when you boot up your computer.
+
+You need to go to your startup programs and eliminate them one by one, until you discover which one is causing the hang in your IE .  Go to your help and support program on your computer, and do a search for third party apps, to see what steps you need to take to eliminate startup programs.</Content>
+            <Reference>I recently had the same problem and I discovered that my virus scan, which downloads updates daily a few minutes after my desktop appears, was the culprit.  Now, I wait about 5 minutes when virus scan updates start to download, and then I can open IE without any problem.</Reference>
+            <Best></Best>
+            <UserId>85cd219a73d0a53be5037883da657650aa</UserId>
+            <UserNick>Chatelaine</UserNick>
+            <Date>2010-03-07 18:16:59</Date>
+            <Timestamp>1268014619</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sounds like it could be a problem with the Internet settings cutting out. It&#039;s often the case for computers to get confused and save their Internet settings in the wrong way.
+
+Which registry cleaner did you use? If it&#039;s one called &quot;CCleaner&quot; then its no wonder it has not done anything to fix your PC. CCleaner does nothing to fix the settings inside your PC. It has a good temp file remover but it&#039;s registry cleaner is terrible. You should try a tool such as &#039;RegCure&#039; which you can find at http://www.fastregistryfixes.com/best_registry_cleaner_tools.html</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>MDucxU68aa</UserId>
+            <UserNick>Timothy S</UserNick>
+            <Date>2010-03-08 00:57:33</Date>
+            <Timestamp>1268038653</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:36:36 PDT 2010 -->

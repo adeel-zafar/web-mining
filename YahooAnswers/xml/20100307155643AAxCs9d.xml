@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307155643AAxCs9d" type="Answered">
+    <Subject>Help me please really fast?</Subject>
+    <Content>what does  TypeError:el.parent Node is Null mean   Im trying to get on this website and a box keeps popping up and i close it and it pops back up
+</Content>
+    <Date>2010-03-07 15:56:43</Date>
+    <Timestamp>1268006203</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307155643AAxCs9d</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7GHCVJTWaa</UserId>
+    <UserNick>Amanda</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>maybe theres something wrong with the site or ur computer</ChosenAnswer>
+    <ChosenAnswererId>YcaXpMRWaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kevan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268007425</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268724768</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>maybe theres something wrong with the site or ur computer</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>YcaXpMRWaa</UserId>
+            <UserNick>Kevan</UserNick>
+            <Date>2010-03-07 16:17:05</Date>
+            <Timestamp>1268007425</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:37:19 PDT 2010 -->

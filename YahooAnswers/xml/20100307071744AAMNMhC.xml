@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307071744AAMNMhC" type="Answered">
+    <Subject>Does watching Lockerz videos count as downloading?</Subject>
+    <Content>how much memory it takes up?
+</Content>
+    <Date>2010-03-07 07:17:44</Date>
+    <Timestamp>1267975064</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307071744AAMNMhC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JESXn78Eaa</UserId>
+    <UserNick>Jonathan</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1cnKumjy_AAEC_IFHqKQ-Cw==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>everything you do on the net counts as downloading, every web page you open every website you visit all count</ChosenAnswer>
+    <ChosenAnswererId>55c1d74ea3f28f36e0572a05769f11d3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Carling</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267979307</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269374542</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>everything you do on the net counts as downloading, every web page you open every website you visit all count</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>55c1d74ea3f28f36e0572a05769f11d3aa</UserId>
+            <UserNick>Carling</UserNick>
+            <Date>2010-03-07 08:28:27</Date>
+            <Timestamp>1267979307</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:40:45 PDT 2010 -->

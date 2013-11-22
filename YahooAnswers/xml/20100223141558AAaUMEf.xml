@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223141558AAaUMEf" type="Answered">
+    <Subject>Why does Internet Explorer freeze up?</Subject>
+    <Content>I constantly get a IE is Not responding message. Why is it freezing up and not responding so often?
+</Content>
+    <Date>2010-02-23 14:15:58</Date>
+    <Timestamp>1266963358</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223141558AAaUMEf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>R7om85dKaa</UserId>
+    <UserNick>gramhottie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1a-a9GLSxAAEBm6ObELBuCA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The most common cause of computer freezes is a corrupt registry.
+Corruption within your registry keys, registry classes, and registry settings are the most common causes of Windows error messages.
+ The Computer registry is a database that stores all of your computer
+settings. The computer registry becomes more complex as you use your computer. The more programs you use the greater the chance your
+computer registry will develop errors and become bloated over time. Without cleaning the registry on a regular basis it is very likely that your PC will freeze.
+
+Cleaning the Windows registry improves the performance of your computer and will reduce the number of PC freezes. The Registry cleaner cleans the registry and frees up Windows registry space.
+ 
+Completely clean your windows registry with a few clicks of the mouse
+http://fix-computer-freezing.com</ChosenAnswer>
+    <ChosenAnswererId>XCLP2tcuaa</ChosenAnswererId>
+    <ChosenAnswererNick>Connect</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267088029</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267482994</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>my guess would be that you have a virus
+
+scan your PC</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7BYu2Shaaa</UserId>
+            <UserNick>shnoople</UserNick>
+            <Date>2010-02-23 14:23:28</Date>
+            <Timestamp>1266963808</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sometimes IE8 needs to be Reset back to Default in Options, Advanced. I would also use Malwarebytes, Hitman Pro, ccleaner and Restart PC...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://www.surfright.nl/en/hitmanpro
+http://download.cnet.com/ccleaner/?tag=mncol</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-23 14:29:13</Date>
+            <Timestamp>1266964153</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The Windows operating system constantly refers to the registry to get information about all of the components such as hardware and software which are installed on the computer. The registry tells Windows what to do and how to access the various programs, files, and processes.However, the registry can contain bad information which sends Windows off doing useless tasks or running unneeded routines. Sometimes errors occur including the freezeing. Other times the system slows down. Because of the sheer number of factors that can affect the registry, there’s no one size fits all approach. You can’t just go into the registry and remove the bad information because it’s nearly impossible to decipher which information is good and which information is bad. That’s a job better suited for software. I should like to commend Registry Easy http://computer-e-book-money.com            to you ! You can try ! Good luck!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yxdg5gRGaa</UserId>
+            <UserNick>Smild</UserNick>
+            <Date>2010-02-23 15:04:30</Date>
+            <Timestamp>1266966270</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The most common cause of computer freezes is a corrupt registry.
+Corruption within your registry keys, registry classes, and registry settings are the most common causes of Windows error messages.
+ The Computer registry is a database that stores all of your computer
+settings. The computer registry becomes more complex as you use your computer. The more programs you use the greater the chance your
+computer registry will develop errors and become bloated over time. Without cleaning the registry on a regular basis it is very likely that your PC will freeze.
+
+Cleaning the Windows registry improves the performance of your computer and will reduce the number of PC freezes. The Registry cleaner cleans the registry and frees up Windows registry space.
+ 
+Completely clean your windows registry with a few clicks of the mouse
+http://fix-computer-freezing.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XCLP2tcuaa</UserId>
+            <UserNick>Connect</UserNick>
+            <Date>2010-02-25 00:53:49</Date>
+            <Timestamp>1267088029</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:18:54 PDT 2010 -->

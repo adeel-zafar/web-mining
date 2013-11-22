@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321134418AAIGAmk" type="Answered">
+    <Subject>How can I watch Amercian TV series on-line if I&#039;m no US resident?</Subject>
+    <Content>Hi,
+I live in Switzerland but still I like to watch my favorite TV series on-line on the channel&#039;s websites (like A*C&#039;s), because they broadcast about half a year earlier than where I live.
+Mostly however, an error message pops up, saying &quot;You appear to be outside the United States or its territories. Due to international rights agreements, we only offer this video to viewers located within the United States and its territories.&quot;
+I&#039;ve tried various US proxies but can&#039;t get it work. Does anyone know how to outsmart this system?
+Thanks
+Thanks for your answers.
+
+@Mike D: I&#039;m sorry, but your proxy didn&#039;t work either.
+@ds: looks like I have to pay for a Personal VPN, I&#039;d rather not do that... ;)
+</Content>
+    <Date>2010-03-21 13:44:18</Date>
+    <Timestamp>1269204258</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321134418AAIGAmk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>EyzL7OMzaa</UserId>
+    <UserNick>niggixxx</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/10aYhEZ_aAAEBQqObSJdQtvgwKLoF.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>With a Personal VPN, http://www.surfbouncer.com you can watch all USA TV sites and others like Hulu. You can also watch BBC iPlayer from the UK. It is fast and reliable. Unlike proxies, it works with video.</ChosenAnswer>
+    <ChosenAnswererId>dfldrUPEaa</ChosenAnswererId>
+    <ChosenAnswererNick>ds</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269281345</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270225466</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Here&#039;s a free proxy created today:
+http://mcancer1.info/1
+-Unblock ANY Website
+-watch youtube videos
+-download up to 50 MB
+-hide you IP and stay anonymous
+-Fast and hosted on a dedicated server
+
+I get new proxies here everyday:
+http://tech.groups.yahoo.com/group/NewFastWorkingProxies/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oZydD2rsaa</UserId>
+            <UserNick>Mike D</UserNick>
+            <Date>2010-03-21 19:30:18</Date>
+            <Timestamp>1269225018</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>With a Personal VPN, http://www.surfbouncer.com you can watch all USA TV sites and others like Hulu. You can also watch BBC iPlayer from the UK. It is fast and reliable. Unlike proxies, it works with video.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dfldrUPEaa</UserId>
+            <UserNick>ds</UserNick>
+            <Date>2010-03-22 11:09:05</Date>
+            <Timestamp>1269281345</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:26:40 PDT 2010 -->

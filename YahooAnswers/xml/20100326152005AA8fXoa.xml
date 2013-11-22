@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326152005AA8fXoa" type="Answered">
+    <Subject>Internet anti virus question please help!?</Subject>
+    <Content>Can somebody give me a link of a free anti virus online I can downloads for my laptop please!!!!!!! thank you!!!! 
+
+Who ever get&#039;s me the best one get&#039;s the 10points!
+</Content>
+    <Date>2010-03-26 15:20:05</Date>
+    <Timestamp>1269642005</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326152005AA8fXoa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Gg8nO6cGaa</UserId>
+    <UserNick>Jerome</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb294eei10bdzws107ac4/7DiaKWw7frRF.7YZkBUdEHDPLR8T4oc-/6/tn48.jpeg?ciAAToMBS3e8NoYw</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here is a combination that we use for our customers computers:
+
+1. Microsoft Security Essentials: http://www.microsoft.com/security_essentials/
+2. Malware Bytes: http://www.malwarebytes.org/</ChosenAnswer>
+    <ChosenAnswererId>sdY2rM7Haa</ChosenAnswererId>
+    <ChosenAnswererNick>kaerfpl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269642217</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269735073</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.avast.com/index
+http://free.avg.com/us-en/homepage</Content>
+            <Reference>I&#039;ve used both, they&#039;re pretty awesome.</Reference>
+            <Best></Best>
+            <UserId>lAzphJ9gaa</UserId>
+            <UserNick>Lana</UserNick>
+            <Date>2010-03-26 15:21:49</Date>
+            <Timestamp>1269642109</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.microsoft.com/security_essentials/
+best for 7
+always spots malware and spyware sites before u enter them also. never have had a virus with this antivirus.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vTvJ8ZLKaa</UserId>
+            <UserNick>FitnessDude557</UserNick>
+            <Date>2010-03-26 15:22:07</Date>
+            <Timestamp>1269642127</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here is a combination that we use for our customers computers:
+
+1. Microsoft Security Essentials: http://www.microsoft.com/security_essentials/
+2. Malware Bytes: http://www.malwarebytes.org/</Content>
+            <Reference>Gateway Tech</Reference>
+            <Best>5</Best>
+            <UserId>sdY2rM7Haa</UserId>
+            <UserNick>kaerfpl</UserNick>
+            <Date>2010-03-26 15:23:37</Date>
+            <Timestamp>1269642217</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>www.avg.com is good</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7rWfxVSpaa</UserId>
+            <UserNick>Matthew</UserNick>
+            <Date>2010-03-26 15:26:29</Date>
+            <Timestamp>1269642389</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you are already infected, especially with that virus that pretends to be an antivirus, you need Malwarebytes AntiMalware.
+
+It&#039;s free and available at Download.com
+
+The virus will often block installation, so you need to boot into Safe Mode with Networking.
+
+1) Turn off computer.
+2) Turn the computer on.
+3) Tap the &quot;F8&quot; key every few seconds.
+4) At the boot prompt choose &quot;Safe Mode With Networking&quot;
+5) When Windows loads fire up your Internet browser and go to Download.com.
+6) Download and install Malwarebytes AntiMalware.  (It&#039;ll be on their top downloads list on the right)
+
+Make sure that Malwarebytes updates itself, then run it.
+
+That should fix it.  Most other antiviruses will not work.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hebgnstGaa</UserId>
+            <UserNick>Paul P</UserNick>
+            <Date>2010-03-26 15:28:37</Date>
+            <Timestamp>1269642517</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:58 PDT 2010 -->

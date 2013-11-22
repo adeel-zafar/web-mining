@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223062731AAGx1sE" type="Answered">
+    <Subject>What the hell is Mysearchbox?</Subject>
+    <Content>When i click a link, it always opens a site called mysearchbox. What is wrong? it changes the URL. What is this site? www.mysearchbox.com
+</Content>
+    <Date>2010-02-23 06:27:31</Date>
+    <Timestamp>1266935251</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223062731AAGx1sE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ea3qHPD2aa</UserId>
+    <UserNick>Yoseb</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You have malware / spyware / adware infection. Update &amp; run full scans with your anti-virus &amp; anti-spyware programs to remove the nasties from your system
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267255925</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267454611</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You have malware / spyware / adware infection. Update &amp; run full scans with your anti-virus &amp; anti-spyware programs to remove the nasties from your system
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-02-26 23:32:05</Date>
+            <Timestamp>1267255925</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:22:32 PDT 2010 -->

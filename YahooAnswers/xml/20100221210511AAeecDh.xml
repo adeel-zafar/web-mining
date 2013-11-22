@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221210511AAeecDh" type="Answered">
+    <Subject>Is there any other chat rooms like xat?</Subject>
+    <Content>is there any other chat rooms like xat? with moderators and members? and you can watch youtube videos and stuff?
+</Content>
+    <Date>2010-02-21 21:05:11</Date>
+    <Timestamp>1266815111</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221210511AAeecDh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3dT5EciFaa</UserId>
+    <UserNick>Kevin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1zyeIEDrVAAAD_MGnbJXacoGMNw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.blogtv.com/Livenow
+or
+http://www.stickam.com/chatRoom.do
+Cheers</ChosenAnswer>
+    <ChosenAnswererId>AA11048518</ChosenAnswererId>
+    <ChosenAnswererNick>WyattEarp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267070997</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268456561</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.blogtv.com/Livenow
+or
+http://www.stickam.com/chatRoom.do
+Cheers</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11048518</UserId>
+            <UserNick>WyattEarp</UserNick>
+            <Date>2010-02-24 20:09:57</Date>
+            <Timestamp>1267070997</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:31:18 PDT 2010 -->

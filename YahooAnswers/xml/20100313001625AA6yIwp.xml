@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313001625AA6yIwp" type="Answered">
+    <Subject>Is there a way to take off advertisements?</Subject>
+    <Content>Like off web pagers? is there a way to block them? not the pop ups, but the ones on the page/site
+</Content>
+    <Date>2010-03-13 00:16:25</Date>
+    <Timestamp>1268468185</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313001625AA6yIwp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wKA3jFAZaa</UserId>
+    <UserNick>Amanda B</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Jljl4IXzAAECOaFrPBNywoFCGbEE.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think you mean the ads that flash across the page. I had the same problem as many do. If you use firefox there&#039;s an add on called Adblock plus and you also download the Filter subscription: EasyList (USA) which will kill these intrusive ads plus leave your normal flash usage unaffected.</ChosenAnswer>
+    <ChosenAnswererId>hSy8ZKRXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gil</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268468650</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268559165</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>there is NO way to get rid of them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>E5lZsqbaaa</UserId>
+            <UserNick>Myles G</UserNick>
+            <Date>2010-03-13 00:17:50</Date>
+            <Timestamp>1268468270</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Get the browser called Firefox, then get the add-on called AddBlock.
+
+Mozilla.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NDQb0KFuaa</UserId>
+            <UserNick>Dalton</UserNick>
+            <Date>2010-03-13 00:18:16</Date>
+            <Timestamp>1268468296</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>YEs, adblock pro with Firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BgwTxzEFaa</UserId>
+            <UserNick>korgrue</UserNick>
+            <Date>2010-03-13 00:19:59</Date>
+            <Timestamp>1268468399</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think you mean the ads that flash across the page. I had the same problem as many do. If you use firefox there&#039;s an add on called Adblock plus and you also download the Filter subscription: EasyList (USA) which will kill these intrusive ads plus leave your normal flash usage unaffected.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>hSy8ZKRXaa</UserId>
+            <UserNick>Gil</UserNick>
+            <Date>2010-03-13 00:24:10</Date>
+            <Timestamp>1268468650</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:06:05 PDT 2010 -->

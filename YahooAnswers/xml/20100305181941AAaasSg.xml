@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305181941AAaasSg" type="Answered">
+    <Subject>How can I find out who owns a particular verizon.net email address?</Subject>
+    <Content>does Verizon have a directory or do I go to emailfinder.com?
+</Content>
+    <Date>2010-03-05 18:19:41</Date>
+    <Timestamp>1267841981</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305181941AAaasSg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>buemDGPJaa</UserId>
+    <UserNick>LeavingForaBetterPlace</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>click Find Email Addresses link in this website</ChosenAnswer>
+    <ChosenAnswererId>uzZ1xuPtaa</ChosenAnswererId>
+    <ChosenAnswererNick>AcharyamaagaSevaiSingham</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267978333</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268361447</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Why don&#039;t you send them an email and ask em?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MOABgzMSaa</UserId>
+            <UserNick>kevin</UserNick>
+            <Date>2010-03-05 18:23:51</Date>
+            <Timestamp>1267842231</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>click Find Email Addresses link in this website</Content>
+            <Reference>http://www.searchyourpeople.com</Reference>
+            <Best>5</Best>
+            <UserId>uzZ1xuPtaa</UserId>
+            <UserNick>AcharyamaagaSevaiSingham</UserNick>
+            <Date>2010-03-07 08:12:13</Date>
+            <Timestamp>1267978333</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:53:40 PDT 2010 -->

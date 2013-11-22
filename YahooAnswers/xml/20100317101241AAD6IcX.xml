@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317101241AAD6IcX" type="Answered">
+    <Subject>internet explorer add-ons off?</Subject>
+    <Content>Whenever I open internet explorer, it brings me to a page that says all add-ons are currently off. I checked them all and they are all enabled, but it still says they are off. How do I turn them on?
+</Content>
+    <Date>2010-03-17 10:12:41</Date>
+    <Timestamp>1268845961</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317101241AAD6IcX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>s1OZBv9yaa</UserId>
+    <UserNick>Andrew</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1-9m0vsgVAAEC2QS05JaqFS4B.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Tools| manage add-ons then make sure they&#039;re on.  
+
+http://support.microsoft.com/kb/883256</ChosenAnswer>
+    <ChosenAnswererId>PX2uuH2taa</ChosenAnswererId>
+    <ChosenAnswererNick>Chris</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269017415</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269365685</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Tools| manage add-ons then make sure they&#039;re on.  
+
+http://support.microsoft.com/kb/883256</Content>
+            <Reference>http://support.microsoft.com/kb/883256</Reference>
+            <Best>5</Best>
+            <UserId>PX2uuH2taa</UserId>
+            <UserNick>Chris</UserNick>
+            <Date>2010-03-19 09:50:15</Date>
+            <Timestamp>1269017415</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:38 PDT 2010 -->

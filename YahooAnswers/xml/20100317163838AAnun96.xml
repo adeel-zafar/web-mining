@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317163838AAnun96" type="Answered">
+    <Subject>What is the best browser to use strictly for downloading files?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-17 16:38:38</Date>
+    <Timestamp>1268869118</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317163838AAnun96</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0O2LgZ7iaa</UserId>
+    <UserNick>Mike</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>opera, and firefox</ChosenAnswer>
+    <ChosenAnswererId>wjDpAYHRaa</ChosenAnswererId>
+    <ChosenAnswererNick>appled</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269209355</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269461740</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>fire fox</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qrx400kJaa</UserId>
+            <UserNick>Roberts</UserNick>
+            <Date>2010-03-17 16:45:32</Date>
+            <Timestamp>1268869532</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>opera, and firefox</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wjDpAYHRaa</UserId>
+            <UserNick>appled</UserNick>
+            <Date>2010-03-21 15:09:15</Date>
+            <Timestamp>1269209355</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:42:56 PDT 2010 -->

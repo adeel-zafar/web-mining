@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327172822AAzraEI" type="Answered">
+    <Subject>when will gamecrush.com be up and working?</Subject>
+    <Content>just curious....
+</Content>
+    <Date>2010-03-27 17:28:22</Date>
+    <Timestamp>1269736102</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327172822AAzraEI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9Jb4N1ZYaa</UserId>
+    <UserNick>Brianna</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It could be a while if they are installing more servers. month to a year!</ChosenAnswer>
+    <ChosenAnswererId>K77a7cQnaa</ChosenAnswererId>
+    <ChosenAnswererNick>bjm904</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269909152</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269922768</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It could be a while if they are installing more servers. month to a year!</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>K77a7cQnaa</UserId>
+            <UserNick>bjm904</UserNick>
+            <Date>2010-03-29 17:32:32</Date>
+            <Timestamp>1269909152</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:40 PDT 2010 -->

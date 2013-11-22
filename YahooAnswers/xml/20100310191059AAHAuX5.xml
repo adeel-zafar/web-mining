@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310191059AAHAuX5" type="Answered">
+    <Subject>how do you edit your tumblr page?</Subject>
+    <Content>i want to get rid of all of those quotes and links that&#039;s on my page that wasn&#039;t written by me.. how do i delete them?
+</Content>
+    <Date>2010-03-10 19:10:59</Date>
+    <Timestamp>1268277059</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310191059AAHAuX5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>poc0dqqvaa</UserId>
+    <UserNick>Leo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1W3NjprfHAAID4cTFKMAeCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no way</ChosenAnswer>
+    <ChosenAnswererId>BOlM38mbaa</ChosenAnswererId>
+    <ChosenAnswererNick>jeremy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268277582</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268792774</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no way</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BOlM38mbaa</UserId>
+            <UserNick>jeremy</UserNick>
+            <Date>2010-03-10 19:19:42</Date>
+            <Timestamp>1268277582</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:15:43 PDT 2010 -->

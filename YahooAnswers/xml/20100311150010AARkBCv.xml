@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311150010AARkBCv" type="Answered">
+    <Subject>how do you remove a website you have made from the internet?</Subject>
+    <Content>I maintain the website at my school, and recently the school got a new website. The problem is that now the school has two websites with the same address. What I want to do is remove the old one so that it stops showing up when people look for the school website.
+I know that I shouldn&#039;t be able to have two different sites with the same address, but I do. That&#039;s my problem. When I type in the address on different computers or at different times, sometimes the old website appears and sometimes the new one appears. I want to know how to disable or delete the old website from the host computer.
+</Content>
+    <Date>2010-03-11 15:00:10</Date>
+    <Timestamp>1268348410</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311150010AARkBCv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BsAIG4VXaa</UserId>
+    <UserNick>Levi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can&#039;t have 2 websites with the same address. 
+
+Sitename.com only points to one location. If the problem is that you have an old site and want to point that old site to the new one then place a redirect code into the old sites index.html  file to redirect the person to the new site name.
+
+If you have 2 index files in the site one called index.php and the other index.html then erase the old one and the new one will take over.</ChosenAnswer>
+    <ChosenAnswererId>s45CoJFPaa</ChosenAnswererId>
+    <ChosenAnswererNick>John N</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268351695</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268864268</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can&#039;t have 2 websites with the same address. 
+
+Sitename.com only points to one location. If the problem is that you have an old site and want to point that old site to the new one then place a redirect code into the old sites index.html  file to redirect the person to the new site name.
+
+If you have 2 index files in the site one called index.php and the other index.html then erase the old one and the new one will take over.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>s45CoJFPaa</UserId>
+            <UserNick>John N</UserNick>
+            <Date>2010-03-11 15:54:55</Date>
+            <Timestamp>1268351695</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:12:49 PDT 2010 -->

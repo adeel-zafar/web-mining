@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306204338AA5MTYZ" type="Answered">
+    <Subject>VG cats relationship?</Subject>
+    <Content>I recently got into VG cats, and i was curious, what is the relationship between Leo and Aeris. Are they close friends, siblings, BF/GF, or what?
+</Content>
+    <Date>2010-03-06 20:43:38</Date>
+    <Timestamp>1267937018</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306204338AA5MTYZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AT5Btedvaa</UserId>
+    <UserNick>robertemb</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>People say there roommates but after the last comic (perfect gift) it may change.</ChosenAnswer>
+    <ChosenAnswererId>GQE7YT7Faa</ChosenAnswererId>
+    <ChosenAnswererNick>Matt</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268224395</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268456649</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>People say there roommates but after the last comic (perfect gift) it may change.</Content>
+            <Reference>vg cats.</Reference>
+            <Best>5</Best>
+            <UserId>GQE7YT7Faa</UserId>
+            <UserNick>Matt</UserNick>
+            <Date>2010-03-10 04:33:15</Date>
+            <Timestamp>1268224395</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:43:48 PDT 2010 -->

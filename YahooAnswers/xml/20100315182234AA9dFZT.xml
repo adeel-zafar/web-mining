@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315182234AA9dFZT" type="Answered">
+    <Subject>Whenever I go to Google and click a link?</Subject>
+    <Content>It brings me somewhere else. Like say I&#039;m searching something on Google (or yahoo or anywhere) and I click a link it will bring me to some other site. It&#039;s really annoying. How do I fix it?
+</Content>
+    <Date>2010-03-15 18:22:34</Date>
+    <Timestamp>1268702554</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315182234AA9dFZT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LLKbTxYKaa</UserId>
+    <UserNick>Monica</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Check for malware.. use this free.  update, run quick scan.. http://www.malwarebytes.org/mbam.php  ~</ChosenAnswer>
+    <ChosenAnswererId>ssue3clzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasper M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268702692</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269222262</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Check for malware.. use this free.  update, run quick scan.. http://www.malwarebytes.org/mbam.php  ~</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper M</UserNick>
+            <Date>2010-03-15 18:24:52</Date>
+            <Timestamp>1268702692</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:02 PDT 2010 -->

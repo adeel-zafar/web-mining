@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225185003AAUbLus" type="Answered">
+    <Subject>My internet connection is fine, but for some reason I can&#039;t access the internet?</Subject>
+    <Content>About a month ago, one day I clicked on my Internet, and the page said that it could not be accessed. I&#039;m a little confused, because the internet symbol says it is fine, and on all the other accounts on this computer, (like the one I&#039;m using now) the Internet loads perfectly. 
+I&#039;ve tried everything. Does anyone know what&#039;s going on, and how I can fix it? 
+Thanks, it&#039;s driving me crazy!
+</Content>
+    <Date>2010-02-25 18:50:03</Date>
+    <Timestamp>1267152603</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225185003AAUbLus</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1aOJE7FPaa</UserId>
+    <UserNick>itsdarby4u</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1QmHsRosHAAECQEEo4AcOAQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think the website is blocked by your ISP. You should use proxy to unblock it, use this website if u r beginner.
+http://adf.ly/1NHr
+
+ads will annoy you, if u want to surf without ads, you need little knowledge of proxy then use this website.
+http://adf.ly/1NHT</ChosenAnswer>
+    <ChosenAnswererId>OeWEdfHBaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ahmad</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267156781</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267892568</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it might be possible that administrator might have changed the network setting for ur account.
+it may be possible that the setting of anti-virus may be changed</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BNhZnR93aa</UserId>
+            <UserNick>ISHITA</UserNick>
+            <Date>2010-02-25 19:16:36</Date>
+            <Timestamp>1267154196</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think the website is blocked by your ISP. You should use proxy to unblock it, use this website if u r beginner.
+http://adf.ly/1NHr
+
+ads will annoy you, if u want to surf without ads, you need little knowledge of proxy then use this website.
+http://adf.ly/1NHT</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OeWEdfHBaa</UserId>
+            <UserNick>Ahmad</UserNick>
+            <Date>2010-02-25 19:59:41</Date>
+            <Timestamp>1267156781</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:54:08 PDT 2010 -->

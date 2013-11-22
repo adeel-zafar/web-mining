@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323222920AA6nMDu" type="Answered">
+    <Subject>How do I change my nameserver to my new dedicated hoster?</Subject>
+    <Content>I am finally moving my (usually) high-traffic site from its inadequate hosting to a dedicated server. 
+
+Having already replicated the site at the new server, I now guess it would be prudent to transfer domain management and nameserving over to Fasthosts too (they are renting me the dedicated server). My current hosting is with 123, and they hold the domain record too.
+
+I HAVE NO IDEA HOW ALL THIS WORKS !!!! :S
+
+C-NAMES, domain records, I am clueless. They are meaningless words to me. I have Plesk V9 on the new server but it comes with no instructions for the uninitiated regarding DNS records. I am no Linux/hosting nerd. 
+
+I have one successful site that I want to move to its own server, and that&#039;s it. I would rather not have a successful site offline for weeks while I buy/read books and so I want to get this right first time.
+
+Does anyone know of a web-guide for this process that is aimed at someone of my limited capabilities?
+
+Thanks in advance!
+</Content>
+    <Date>2010-03-23 22:29:20</Date>
+    <Timestamp>1269408560</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323222920AA6nMDu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5OtUnV1Kaa</UserId>
+    <UserNick>A J</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I suggest you email the domain registrar and ask them to set the nameservers for you. 
+
+&quot;If you need to re-set the nameservers for hosting with Fasthosts, set them to:
+
+    1st nameserver: ns1.livedns.co.uk
+    2nd nameserver: ns2.livedns.co.uk
+    3rd nameserver: ns3.livedns.co.uk&quot;</ChosenAnswer>
+    <ChosenAnswererId>sGYPSyUwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Omnipotent W.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269408869</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269928046</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Okay your host should give you 2 name servers.  You&#039;ll have to figure out or contact support to find your 2 name servers.  Once you have the name servers go to the place you registered your domains.  log into whatever account you have set up and search for a place to add your name servers to the domain you have registered.  If you can&#039;t find the spot to input the name servers contact support where you registered your domains.  They should be able to walk you through it, people do it all the time.  I actually prefer to have my site hosted separately from where i register my domains.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jqimt65taa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-23 22:32:33</Date>
+            <Timestamp>1269408753</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I suggest you email the domain registrar and ask them to set the nameservers for you. 
+
+&quot;If you need to re-set the nameservers for hosting with Fasthosts, set them to:
+
+    1st nameserver: ns1.livedns.co.uk
+    2nd nameserver: ns2.livedns.co.uk
+    3rd nameserver: ns3.livedns.co.uk&quot;</Content>
+            <Reference>http://www.fasthosts.co.uk/knowledge-base/?article_id=990</Reference>
+            <Best>5</Best>
+            <UserId>sGYPSyUwaa</UserId>
+            <UserNick>Omnipotent W.</UserNick>
+            <Date>2010-03-23 22:34:29</Date>
+            <Timestamp>1269408869</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:16:31 PDT 2010 -->

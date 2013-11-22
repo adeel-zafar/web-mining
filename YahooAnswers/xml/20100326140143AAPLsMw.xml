@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326140143AAPLsMw" type="Answered">
+    <Subject>What&#039;s a blogroll? How is it different from just listing links to other sites?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-26 14:01:43</Date>
+    <Timestamp>1269637303</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326140143AAPLsMw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QVw4k00raa</UserId>
+    <UserNick>Rusty Shackleferd</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a6225f5i78ezul7sp1/a65ZTa0ic6exJGcMQhTnfvIITGer_N5Gww__Ld0-/1/tn48.png?ciAAToMBHXZlTlrb</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Blogrolls are often automated; a common version on Blogger, for instance, uses blog RSS feeds to reorder the blogroll with the most-recently-updated blogs at the top.</ChosenAnswer>
+    <ChosenAnswererId>dztKGMAQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Windowphobe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269651303</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269660182</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Blogrolls are often automated; a common version on Blogger, for instance, uses blog RSS feeds to reorder the blogroll with the most-recently-updated blogs at the top.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dztKGMAQaa</UserId>
+            <UserNick>Windowphobe</UserNick>
+            <Date>2010-03-26 17:55:03</Date>
+            <Timestamp>1269651303</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:12 PDT 2010 -->

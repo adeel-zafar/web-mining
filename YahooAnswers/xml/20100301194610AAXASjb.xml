@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301194610AAXASjb" type="Answered">
+    <Subject>is there a truth box/honesty box i can use for myyearbook?</Subject>
+    <Content>or any other fun interacting toys with friends
+</Content>
+    <Date>2010-03-01 19:46:10</Date>
+    <Timestamp>1267501570</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301194610AAXASjb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>A45VlHuFaa</UserId>
+    <UserNick>Marrisa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Nope not yet.</ChosenAnswer>
+    <ChosenAnswererId>D6kZzXQeaa</ChosenAnswererId>
+    <ChosenAnswererNick>freak12545</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267846800</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268950576</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Nope not yet.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>D6kZzXQeaa</UserId>
+            <UserNick>freak12545</UserNick>
+            <Date>2010-03-05 19:40:00</Date>
+            <Timestamp>1267846800</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:28:50 PDT 2010 -->

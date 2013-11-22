@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319092514AA7NaTO" type="Answered">
+    <Subject>How can you tell if someone has ordered something for you off your Amazon wishlist?</Subject>
+    <Content>Is there an option on the site that lets you check?
+</Content>
+    <Date>2010-03-19 09:25:14</Date>
+    <Timestamp>1269015914</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319092514AA7NaTO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LIoudScMaa</UserId>
+    <UserNick>Emily</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bba0e5iba2zul2re3/0D5LRwM5dLVJq7anMedqhKcM7g--/3/tn48.jpg?ciAAToMBtFIWau.N</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no</ChosenAnswer>
+    <ChosenAnswererId>2idWIahPaa</ChosenAnswererId>
+    <ChosenAnswererNick>c02z</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269015972</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269535430</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2idWIahPaa</UserId>
+            <UserNick>c02z</UserNick>
+            <Date>2010-03-19 09:26:12</Date>
+            <Timestamp>1269015972</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you get it in the mail?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>W14NN1nKaa</UserId>
+            <UserNick>DeinMutter</UserNick>
+            <Date>2010-03-19 09:26:15</Date>
+            <Timestamp>1269015975</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:00 PDT 2010 -->

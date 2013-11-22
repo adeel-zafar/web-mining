@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401081141AAD7GvY" type="Answered">
+    <Subject>Help! Now I can&#039;t find Internet Explorer on the start menu!?</Subject>
+    <Content>First the icon was missing from my desktop and some Y.A. hero told me to find it in the start menu. That worked like magic but now it is missing from both the desktop and start men!. How do I get it back? How do I prevent it running away again? I know I&#039;m not a very good cook but this is ridiculous!
+</Content>
+    <Date>2010-04-01 08:11:41</Date>
+    <Timestamp>1270134701</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401081141AAD7GvY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>109a6dfea08822c4b720a3d5f9fa6b9eaa</UserId>
+    <UserNick>Dove</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/11uxisMSkAAEBHGJskBNNxMlUGQ==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>slick start/search/do a search for the program or find the program the best way you know how. right click the location such as C:\Program Files\Internet Explorer, making sure you are copying the loacation of the program and NOT the containing folder. then copy the location. Before you close out search you will see many internet explorers right click one then hover over send to then click desktop(create shortcut).  now right click taskbar/ click properties/click start menu tab/click customize/click add/right click in box/paste location/ click next/ choose where you want the shortcut/click next and finish.YOu can also click internet options then click programs in the internet options menu not your start menu programs. Then click make default. That should automatically put it on the top left of your start menu. If you have another browser set to default then that will be there.</ChosenAnswer>
+    <ChosenAnswererId>mWHKIyIOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Goerge</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270135802</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270295441</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>slick start/search/do a search for the program or find the program the best way you know how. right click the location such as C:\Program Files\Internet Explorer, making sure you are copying the loacation of the program and NOT the containing folder. then copy the location. Before you close out search you will see many internet explorers right click one then hover over send to then click desktop(create shortcut).  now right click taskbar/ click properties/click start menu tab/click customize/click add/right click in box/paste location/ click next/ choose where you want the shortcut/click next and finish.YOu can also click internet options then click programs in the internet options menu not your start menu programs. Then click make default. That should automatically put it on the top left of your start menu. If you have another browser set to default then that will be there.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mWHKIyIOaa</UserId>
+            <UserNick>Goerge</UserNick>
+            <Date>2010-04-01 08:30:02</Date>
+            <Timestamp>1270135802</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Right click on your Start Menu. Choose Properties &gt; Start Menu &gt; Customize. Select IE as your internet browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TJDklEwtaa</UserId>
+            <UserNick>Bill M.</UserNick>
+            <Date>2010-04-01 08:59:33</Date>
+            <Timestamp>1270137573</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to your Home folder within Places/ , find File system click to bring up the tree of folders, scroll to etc. the browsers should all be under this extension. You could drag the one you want to your desktop folder.
+
+Choice two: Go to Add Remove Programs, Go to the Internet choice in the left margin-click- Scroll down to the browser(s) of your choice in the check off box field and be sure to check mark (with a click) the boxes and push install programs at the bottom if they are not already checked. It might have gotten unchecked somehow. 
+
+The Internet Explorer browser should be in your etc file now if it wasn&#039;t there before.</Content>
+            <Reference>My PC.</Reference>
+            <Best></Best>
+            <UserId>w2koMODvaa</UserId>
+            <UserNick>zaggittier</UserNick>
+            <Date>2010-04-01 10:37:53</Date>
+            <Timestamp>1270143473</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:35 PDT 2010 -->

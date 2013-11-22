@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329091625AA72pCn" type="Answered">
+    <Subject>My broadband connection keeps failing......?</Subject>
+    <Content>At what are obviously busy times on the net.  I use Firefox via Orange.  Anybody else had a problem please?
+</Content>
+    <Date>2010-03-29 09:16:25</Date>
+    <Timestamp>1269879385</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329091625AA72pCn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>e5ab8861f853dfb5e950f381962e8e78aa</UserId>
+    <UserNick>edgarl</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi,
+
+At busy peak times you may notice your connection lags and then drops completely, if you already have a high connection signal the only other thing you could really do is make sure you are running the lastest software provided by Orange.</ChosenAnswer>
+    <ChosenAnswererId>lK7CYD3Laa</ChosenAnswererId>
+    <ChosenAnswererNick>Geek Unit</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270125997</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270147082</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hi,
+
+At busy peak times you may notice your connection lags and then drops completely, if you already have a high connection signal the only other thing you could really do is make sure you are running the lastest software provided by Orange.</Content>
+            <Reference>http://www.geekunit.co.uk</Reference>
+            <Best>5</Best>
+            <UserId>lK7CYD3Laa</UserId>
+            <UserNick>Geek Unit</UserNick>
+            <Date>2010-04-01 05:46:37</Date>
+            <Timestamp>1270125997</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:16:12 PDT 2010 -->

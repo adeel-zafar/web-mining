@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302153426AAmlhOQ" type="Answered">
+    <Subject>My iTunes store won&#039;t open!! Please Help!?</Subject>
+    <Content>My iTunes store has worked before. When I click on &quot;Open iTunes Store&quot; a box saying that there is a connection problem. I know my internet works cause I can get on firefox. I closed out of all other windows and tried again but it wont work! Please help!
+reset my compute?? Won&#039;t that erase everything??
+</Content>
+    <Date>2010-03-02 15:34:26</Date>
+    <Timestamp>1267572866</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302153426AAmlhOQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>COkDY2wAaa</UserId>
+    <UserNick>GeorgiaSue</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba56e73i4e1zws109mud/GuY64iM9crLbTcZh5k.Tr4QJF4B75eY8VA--/6/tn48.jpeg?ciAAToMBoGcOjbjy</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you can get to other sites, it is possible that DNS cached entry is out dated or corrputed
+
+Try couple of steps listed here
+
+http://support.apple.com/kb/HT1527
+
+Good luck!</ChosenAnswer>
+    <ChosenAnswererId>gB8sfvGGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Soma Bulusu</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267573094</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267912618</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you can get to other sites, it is possible that DNS cached entry is out dated or corrputed
+
+Try couple of steps listed here
+
+http://support.apple.com/kb/HT1527
+
+Good luck!</Content>
+            <Reference>http://support.apple.com/kb/HT1527</Reference>
+            <Best>5</Best>
+            <UserId>gB8sfvGGaa</UserId>
+            <UserNick>Soma Bulusu</UserNick>
+            <Date>2010-03-02 15:38:14</Date>
+            <Timestamp>1267573094</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>reset your computer, it should work, because it happened to me before, and a rest and it worked fine</Content>
+            <Reference>previous experince</Reference>
+            <Best></Best>
+            <UserId>B25UHQrpaa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-02 15:47:07</Date>
+            <Timestamp>1267573627</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:24:29 PDT 2010 -->

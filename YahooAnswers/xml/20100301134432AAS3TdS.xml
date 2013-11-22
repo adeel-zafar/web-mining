@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301134432AAS3TdS" type="Answered">
+    <Subject>I need a website like......?</Subject>
+    <Content>Is there a website that is similar to Wikipedia with it broad range of topics, but yet it  is a reliable source?
+</Content>
+    <Date>2010-03-01 13:44:32</Date>
+    <Timestamp>1267479872</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301134432AAS3TdS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rDnwu00saa</UserId>
+    <UserNick>Tina54</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1OqiI-tDkAAEE4eSifHBYDg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Google the name of your favorite encyclopedia and having gotten to the site, you search for your topic</ChosenAnswer>
+    <ChosenAnswererId>2LbTrlQnaa</ChosenAnswererId>
+    <ChosenAnswererNick>JIM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267479993</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267566177</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Google the name of your favorite encyclopedia and having gotten to the site, you search for your topic</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-01 13:46:33</Date>
+            <Timestamp>1267479993</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:30:50 PDT 2010 -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223182634AARy1sn" type="Answered">
+    <Subject>Recently when I open Firefox or Internet Ex. I have a box right in the middle of the screen that wont close...?</Subject>
+    <Content>it doesn&#039;t happen with Google chrome. Is Google messing up my Firefox? If anyone has suggestions I would really really appreciate it!!
+alright... its an empty white box that goes all the way across the screen. at the top theres a Blue line that says &#039;click here to close box&#039; then theres a box you click..but when you click it the page just reloads
+</Content>
+    <Date>2010-02-23 18:26:34</Date>
+    <Timestamp>1266978394</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223182634AARy1sn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PBodm8fdaa</UserId>
+    <UserNick>Liz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1xpyxM532AAED4eQz5V82DA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sounds like spyware to me....try downloading and running Spybot.  You can google it.  All the best!</ChosenAnswer>
+    <ChosenAnswererId>I4b0jfp8aa</ChosenAnswererId>
+    <ChosenAnswererNick>advocatefreedom</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266984408</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267497882</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>sigh...what kind of box, how would we know what to do if you don&#039;t even describe it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LuawSTW9aa</UserId>
+            <UserNick>Jimmy C</UserNick>
+            <Date>2010-02-23 18:34:07</Date>
+            <Timestamp>1266978847</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sounds like spyware to me....try downloading and running Spybot.  You can google it.  All the best!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>I4b0jfp8aa</UserId>
+            <UserNick>advocatefreedom</UserNick>
+            <Date>2010-02-23 20:06:48</Date>
+            <Timestamp>1266984408</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:16 PDT 2010 -->

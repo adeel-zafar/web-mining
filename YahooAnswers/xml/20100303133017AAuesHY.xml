@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303133017AAuesHY" type="Answered">
+    <Subject>I have a Skype account, but not a webcam. If my friend has a webcam, can i still do &quot;video call&quot; with them?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-03 13:30:17</Date>
+    <Timestamp>1267651817</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303133017AAuesHY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>a722fLczaa</UserId>
+    <UserNick>eeee</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, you can still video call with them. Since you don&#039;t have a webcam all they will see is a blank box.</ChosenAnswer>
+    <ChosenAnswererId>TQGHKxkYaa</ChosenAnswererId>
+    <ChosenAnswererNick>echotrancer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267652006</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267751348</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ya you should still be able to and then you can see them but they won&#039;t be able to see you (obviously)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vHosCmAVaa</UserId>
+            <UserNick>Hal00</UserNick>
+            <Date>2010-03-03 13:31:59</Date>
+            <Timestamp>1267651919</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, you can see him, he can&#039;t see you.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HjAoUaqBaa</UserId>
+            <UserNick>Gohaleg</UserNick>
+            <Date>2010-03-03 13:32:02</Date>
+            <Timestamp>1267651922</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, you can still video call with them. Since you don&#039;t have a webcam all they will see is a blank box.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TQGHKxkYaa</UserId>
+            <UserNick>echotrancer</UserNick>
+            <Date>2010-03-03 13:33:26</Date>
+            <Timestamp>1267652006</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:34 PDT 2010 -->

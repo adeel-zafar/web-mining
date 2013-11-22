@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327130927AAHhk9I" type="Answered">
+    <Subject>How do I find a map of fibre optic and Virgin Media coverage in London?</Subject>
+    <Content>It seems nigh on impossible to find a detailed map of fibre optic and Virgin Media coverage in London. I rent and actually want to physically move to an area which is covered by fibre optic. Is it possible to find a detailed coverage map online of actual London postcodes which have these services available?
+</Content>
+    <Date>2010-03-27 13:09:27</Date>
+    <Timestamp>1269720567</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327130927AAHhk9I</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oZWZbFdiaa</UserId>
+    <UserNick>Mark_W</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Phone Virgin Media, let them know the postcode of the area you are interested in and they will tell you
+You can also do this online by searching post codes. http://www.virginmedia.com</ChosenAnswer>
+    <ChosenAnswererId>AA11705909</ChosenAnswererId>
+    <ChosenAnswererNick>Flying Fid</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269721390</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270239898</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>well i work for virgin media networks and the network layout/diagrams are not available online.
+here is something to look at http://www.samknows.com/broadband/llu-operator/virgin
+also http://allyours.virginmedia.com/websales/service.do?id=2 where you enter postcode and it will show the available of the networks.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA12180741</UserId>
+            <UserNick>Paultech</UserNick>
+            <Date>2010-03-27 13:20:14</Date>
+            <Timestamp>1269721214</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Phone Virgin Media, let them know the postcode of the area you are interested in and they will tell you
+You can also do this online by searching post codes. http://www.virginmedia.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11705909</UserId>
+            <UserNick>Flying Fid</UserNick>
+            <Date>2010-03-27 13:23:10</Date>
+            <Timestamp>1269721390</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:22:20 PDT 2010 -->

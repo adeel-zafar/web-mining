@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317221654AAqOkMb" type="Answered">
+    <Subject>Firefox works,Internet Explorer doesn&#039;t?</Subject>
+    <Content>Error:Internet Explorer cannot display the webpage
+
+Firefox works completely smoothly.
+Why will only Firefox work?
+Is there a way to make Internet Explorer work?
+
+And don&#039;t give me other internet options,such as Google Chrome or Safari. That&#039;s not the point.
+
+-Antonio Banderas
+Questions ,Comments? 
+-SquallLeonhartX@yahoo.com~
+</Content>
+    <Date>2010-03-17 22:16:54</Date>
+    <Timestamp>1268889414</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317221654AAqOkMb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PI28ckZRaa</UserId>
+    <UserNick>Anthonio XD</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1E4kbHBEPAAEB_KGNfJJmVcli2y0E.medium.jpg</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>In IE, go to Tool-&gt;Internet Options and then once there, go into the Connections tab. In there is a button labeled &quot;LAN Settings,&quot; click it. In that window that pops up, make sure either everything is unchecked, or that ONLY &quot;Automatically detect settings&quot; is checked.
+
+Say OK to everything and restart IE.</ChosenAnswer>
+    <ChosenAnswererId>2U3fC3Eraa</ChosenAnswererId>
+    <ChosenAnswererNick>Stews</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268889584</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268995444</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>obviously the IE settings are incorrect</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Tsye1UAJaa</UserId>
+            <UserNick>Akmed</UserNick>
+            <Date>2010-03-17 22:17:58</Date>
+            <Timestamp>1268889478</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>let me put it this way: Internet explorer is terrible. microsoft only released a patch for it a few months ago for a 7 year old bug it had. you may just need to re download it, get a new clean un-buggy version.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PjsQslPlaa</UserId>
+            <UserNick>Tom</UserNick>
+            <Date>2010-03-17 22:18:52</Date>
+            <Timestamp>1268889532</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>my internet explorer is working fine. Do you use frontier as an internet provider? I heard they are having problems with certain things like microsoft stuff. If not, than idk what&#039;s wrong.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZO5IEMPYaa</UserId>
+            <UserNick>Thomas</UserNick>
+            <Date>2010-03-17 22:19:07</Date>
+            <Timestamp>1268889547</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In IE, go to Tool-&gt;Internet Options and then once there, go into the Connections tab. In there is a button labeled &quot;LAN Settings,&quot; click it. In that window that pops up, make sure either everything is unchecked, or that ONLY &quot;Automatically detect settings&quot; is checked.
+
+Say OK to everything and restart IE.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2U3fC3Eraa</UserId>
+            <UserNick>Stews</UserNick>
+            <Date>2010-03-17 22:19:44</Date>
+            <Timestamp>1268889584</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>reset your internet settings to the factory settings by doing this 
+1. In Internet Explorer, click Tools.
+
+2. Select the Advanced tab.
+
+3. Click Restore advanced settings.
+
+4. Click Reset, then Reset again.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zkeWmgNxaa</UserId>
+            <UserNick>loko</UserNick>
+            <Date>2010-03-17 22:20:56</Date>
+            <Timestamp>1268889656</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Control panel&gt;Programs and Features&gt;Turn windows features on or off.  Turn off internet explorer.  you will have to restart your computer.  repeat the steps to turn it back on after restarting.  If it still doesn&#039;t work, download internet explorer 8 to reinstall the entire program</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fVvOB85Waa</UserId>
+            <UserNick>Joe</UserNick>
+            <Date>2010-03-17 22:21:11</Date>
+            <Timestamp>1268889671</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What version of IE are you using? A lot of newer sites no longer support IE6 or earlier properly. If it is happening on multiple sites, you will most likely have to either re-install IE.
+
+If you are on a newer version than IE6, first clear your cache and restart IE. If that does not fix the problem (most likely won&#039;t), then next check if there is an update to your version. First try and update as that will make you current and also resolve the problem.  Otherwise you will most likely need to reinstall.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10462795</UserId>
+            <UserNick>Catahoula</UserNick>
+            <Date>2010-03-17 22:21:43</Date>
+            <Timestamp>1268889703</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:29 PDT 2010 -->

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302222651AAUqa4a" type="Answered">
+    <Subject>where could i find the setting for my internet browser?</Subject>
+    <Content>
+my edit doesn&#039;t have a Preferences button
+</Content>
+    <Date>2010-03-02 22:26:51</Date>
+    <Timestamp>1267597611</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302222651AAUqa4a</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DgfBmb7waa</UserId>
+    <UserNick>Adlyn A</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1-On Firefox: go to  Edit&gt;Preferences
+
+2.On Internet Explorer: go to Tools&gt;Internet Options</ChosenAnswer>
+    <ChosenAnswererId>BPNb3MkFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Moussa</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267597937</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268116998</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>1-On Firefox: go to  Edit&gt;Preferences
+
+2.On Internet Explorer: go to Tools&gt;Internet Options</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BPNb3MkFaa</UserId>
+            <UserNick>Moussa</UserNick>
+            <Date>2010-03-02 22:32:17</Date>
+            <Timestamp>1267597937</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:21:09 PDT 2010 -->

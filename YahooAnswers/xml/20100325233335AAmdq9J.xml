@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325233335AAmdq9J" type="Answered">
+    <Subject>How to create profile for mozila Firefox and then set it?</Subject>
+    <Content>I want to change the startup page of it and some other things also...
+
+I want to do all this using a batch file....
+</Content>
+    <Date>2010-03-25 23:33:35</Date>
+    <Timestamp>1269585215</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325233335AAmdq9J</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AT1o0Mx5aa</UserId>
+    <UserNick>Badshah</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1GQJrRQi_AAEB_OFzCKSEVj4B.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Create a New Profile in Firefox
+Step1
+Close Firefox. Click &#039;File&#039; and then &#039;Exit&#039; to make sure the program is completely closed.
+Step2
+Click &#039;Start&#039; from the desktop and then &#039;Run.&#039;
+Step3
+Type &#039;firefox.exe -ProfileManager&#039; (without the quotes) in the &#039;Open&#039; text field.
+Step4
+Click &#039;OK&#039; to launch the Profile Manager.
+Step5
+Click the &#039;Create Profile&#039; button to begin using the profile creation wizard.
+Step6
+Click &#039;Next&#039; after reading the welcome message.
+Step7
+Type a profile name in the space provided. Consider using something descriptive to help you remember what is saved in the profile.
+Step8
+Click the &#039;Finish&#039; button to complete the wizard.
+
+Use Your New Profile in Firefox
+Step1
+Open the Profile Manager following the instructions above.
+Step2
+Browse through the list of profiles that you have created.
+Step3
+Click the profile you want to use.
+Step4
+Click the &#039;Start Firefox&#039; button to use the selected profile.</ChosenAnswer>
+    <ChosenAnswererId>s9wTJ248aa</ChosenAnswererId>
+    <ChosenAnswererNick>p!!!nKyy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269585723</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270104791</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Create a New Profile in Firefox
+Step1
+Close Firefox. Click &#039;File&#039; and then &#039;Exit&#039; to make sure the program is completely closed.
+Step2
+Click &#039;Start&#039; from the desktop and then &#039;Run.&#039;
+Step3
+Type &#039;firefox.exe -ProfileManager&#039; (without the quotes) in the &#039;Open&#039; text field.
+Step4
+Click &#039;OK&#039; to launch the Profile Manager.
+Step5
+Click the &#039;Create Profile&#039; button to begin using the profile creation wizard.
+Step6
+Click &#039;Next&#039; after reading the welcome message.
+Step7
+Type a profile name in the space provided. Consider using something descriptive to help you remember what is saved in the profile.
+Step8
+Click the &#039;Finish&#039; button to complete the wizard.
+
+Use Your New Profile in Firefox
+Step1
+Open the Profile Manager following the instructions above.
+Step2
+Browse through the list of profiles that you have created.
+Step3
+Click the profile you want to use.
+Step4
+Click the &#039;Start Firefox&#039; button to use the selected profile.</Content>
+            <Reference>www.ehow.com › ... › Web Browsers › Firefox</Reference>
+            <Best>5</Best>
+            <UserId>s9wTJ248aa</UserId>
+            <UserNick>p!!!nKyy</UserNick>
+            <Date>2010-03-25 23:42:03</Date>
+            <Timestamp>1269585723</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>run your firefox.exe with -P</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Yt8Nfu1eaa</UserId>
+            <UserNick>Stephen</UserNick>
+            <Date>2010-03-25 23:55:44</Date>
+            <Timestamp>1269586544</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:27 PDT 2010 -->

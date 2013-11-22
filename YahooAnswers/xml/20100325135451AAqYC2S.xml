@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325135451AAqYC2S" type="Answered">
+    <Subject>How do you keep your posting on craigslist above the rest?</Subject>
+    <Content>I understand that posting twice a day helps, but is there other tricks to this game?
+</Content>
+    <Date>2010-03-25 13:54:51</Date>
+    <Timestamp>1269550491</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325135451AAqYC2S</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oSBl3xeeaa</UserId>
+    <UserNick>anaise</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1FmbPYrpYAAIB8yK2KLzyeEv_LA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>bump meaning repost careful though do it to much and you will get flagged</ChosenAnswer>
+    <ChosenAnswererId>UVnw0kzgaa</ChosenAnswererId>
+    <ChosenAnswererNick>tik</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269550631</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269610189</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>bump meaning repost careful though do it to much and you will get flagged</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>UVnw0kzgaa</UserId>
+            <UserNick>tik</UserNick>
+            <Date>2010-03-25 13:57:11</Date>
+            <Timestamp>1269550631</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:30:42 PDT 2010 -->

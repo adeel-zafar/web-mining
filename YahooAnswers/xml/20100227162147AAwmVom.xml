@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227162147AAwmVom" type="Answered">
+    <Subject>ip address of a mobile modem?</Subject>
+    <Content>i want to know if you connect to the internet through a mobile modem does your ip address show up from where you are or does it show up from where the mobile device connects to. the mobile device is a plug in o2 modem in ireland. thanks in advance.
+</Content>
+    <Date>2010-02-27 16:21:47</Date>
+    <Timestamp>1267316507</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227162147AAwmVom</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BRt5GY0laa</UserId>
+    <UserNick>Laura B</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It shows up to where you connect to.  HOWEVER someone could find out where that signal is comming from and trace the router from the modem to you phone, and then use triangulation or GPS to find out where you are</ChosenAnswer>
+    <ChosenAnswererId>zhAPLIe5aa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267319068</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267392777</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It shows up to where you connect to.  HOWEVER someone could find out where that signal is comming from and trace the router from the modem to you phone, and then use triangulation or GPS to find out where you are</Content>
+            <Reference>I Know things</Reference>
+            <Best>5</Best>
+            <UserId>zhAPLIe5aa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-02-27 17:04:28</Date>
+            <Timestamp>1267319068</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:42:06 PDT 2010 -->

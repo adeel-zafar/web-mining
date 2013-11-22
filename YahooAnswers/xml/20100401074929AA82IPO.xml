@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401074929AA82IPO" type="Answered">
+    <Subject>can i change the colour of opera browsers grey bars?</Subject>
+    <Content>
+</Content>
+    <Date>2010-04-01 07:49:29</Date>
+    <Timestamp>1270133369</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401074929AA82IPO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XkycjorQaa</UserId>
+    <UserNick>Ds34</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can go to System,  and choose Appearances,  where you will see edit preferences and choose a color scheme. There will be tabs to click and you just go on from there choosing from the available options. This is across the top row with Applications, Places, System, browser (net scape, fire fox, etc.) If you have the browser installed on Add Remove Applications the color scheme you choose will transpose into it.</ChosenAnswer>
+    <ChosenAnswererId>w2koMODvaa</ChosenAnswererId>
+    <ChosenAnswererNick>zaggittier</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270135506</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270351676</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can go to System,  and choose Appearances,  where you will see edit preferences and choose a color scheme. There will be tabs to click and you just go on from there choosing from the available options. This is across the top row with Applications, Places, System, browser (net scape, fire fox, etc.) If you have the browser installed on Add Remove Applications the color scheme you choose will transpose into it.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>w2koMODvaa</UserId>
+            <UserNick>zaggittier</UserNick>
+            <Date>2010-04-01 08:25:06</Date>
+            <Timestamp>1270135506</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes chose Appearances you will see edit preferences and choose a color scheme.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>B8evz3Eeaa</UserId>
+            <UserNick>truth</UserNick>
+            <Date>2010-04-01 08:36:23</Date>
+            <Timestamp>1270136183</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:38 PDT 2010 -->

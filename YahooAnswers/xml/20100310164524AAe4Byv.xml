@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310164524AAe4Byv" type="Answered">
+    <Subject>Is there an internet provider with unlimited access that is at a fairly reasonable price?</Subject>
+    <Content>We have verizon wireless right now and we go over sometimes, is there an internet provider like that, or one that has a lot of GB usage
+</Content>
+    <Date>2010-03-10 16:45:24</Date>
+    <Timestamp>1268268324</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310164524AAe4Byv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>D8Spq3U9aa</UserId>
+    <UserNick>anonymous</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Time Warner doesn&#039;t have any limitation!</ChosenAnswer>
+    <ChosenAnswererId>kxsvjGmTaa</ChosenAnswererId>
+    <ChosenAnswererNick>John C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268268406</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268784323</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Time Warner doesn&#039;t have any limitation!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-10 16:46:46</Date>
+            <Timestamp>1268268406</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>they undoubtedly have an unlimited package, as does every provider... sprint for instance is $69 last time i checked... unlimited phone service w/ unlimited data...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PrrPXI30aa</UserId>
+            <UserNick>ez80227</UserNick>
+            <Date>2010-03-10 16:47:06</Date>
+            <Timestamp>1268268426</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:17:10 PDT 2010 -->

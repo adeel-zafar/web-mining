@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323001241AAcn3Ju" type="Answered">
+    <Subject>Why I am not getting Internet?</Subject>
+    <Content>I have two systems both are connected to same LAN (through modem) by a cable. I am getting net on one system and not on the other (I was getting until last two days but now its not coming). why? Is there any settings in the system to be changed to get connection? I looked in control panel&gt;network and internet connection&gt;internet option&gt; connection&gt;lan settings. I cleared proxy server and automatic configeration script option (bcz if some numbers are in proxy server net will not come) but still not getting net. What can I do? I saw some people using DOS command to set it right. How to do it.Please help me
+</Content>
+    <Date>2010-03-23 00:12:41</Date>
+    <Timestamp>1269328361</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323001241AAcn3Ju</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8oSMYp3Zaa</UserId>
+    <UserNick>S G Bhat</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You just called the service provider they will send some body to fixed the problem</ChosenAnswer>
+    <ChosenAnswererId>eQ0TXktZaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jennifer T.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269335891</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269847978</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Better is contact with your ISP people... They will give you a proper solution....</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Oe2ywDc5aa</UserId>
+            <UserNick>Hassan</UserNick>
+            <Date>2010-03-23 00:25:46</Date>
+            <Timestamp>1269329146</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You just called the service provider they will send some body to fixed the problem</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>eQ0TXktZaa</UserId>
+            <UserNick>Jennifer T.</UserNick>
+            <Date>2010-03-23 02:18:11</Date>
+            <Timestamp>1269335891</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>First unplug the Router from the electricity wait few minutes and then plug it again. This time you should connect to the internet if you can&#039;t then visit the link http://forums.techarena.in/windows-vista-network/1173184.htm</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IPlt1gwCaa</UserId>
+            <UserNick>Techie</UserNick>
+            <Date>2010-03-23 03:23:35</Date>
+            <Timestamp>1269339815</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hey, you can use:
+
+Hightechking.com
+
+Hope this helped! For more visit unblockability.com!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LGxNBKlTaa</UserId>
+            <UserNick>Unblockability</UserNick>
+            <Date>2010-03-24 12:51:04</Date>
+            <Timestamp>1269460264</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:19:44 PDT 2010 -->

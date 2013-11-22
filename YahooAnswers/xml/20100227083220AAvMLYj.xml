@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227083220AAvMLYj" type="Answered">
+    <Subject>My internet browsers do not connect to the internet when I connect my laptop through wifi...what should I do?</Subject>
+    <Content>It says I have a strong wireless connection. Works fine when I connect through wires though. By the way I am using xp.
+</Content>
+    <Date>2010-02-27 08:32:20</Date>
+    <Timestamp>1267288340</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227083220AAvMLYj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SRxa6NCfaa</UserId>
+    <UserNick>Tania B</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>OK this could be a number of things.
+
+Go to network settings and disable the firewall for the wireless connection.
+
+Check your wireless router for a MAC Authentication button, your laptop might be connected to the router but not authenticated.
+
+Check your browsers &#039;proxy&#039; settings, they may be tied to an address in the wired range of yor router.</ChosenAnswer>
+    <ChosenAnswererId>EEZv5hnCaa</ChosenAnswererId>
+    <ChosenAnswererNick>pug106man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267389898</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267808034</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>OK this could be a number of things.
+
+Go to network settings and disable the firewall for the wireless connection.
+
+Check your wireless router for a MAC Authentication button, your laptop might be connected to the router but not authenticated.
+
+Check your browsers &#039;proxy&#039; settings, they may be tied to an address in the wired range of yor router.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EEZv5hnCaa</UserId>
+            <UserNick>pug106man</UserNick>
+            <Date>2010-02-28 12:44:58</Date>
+            <Timestamp>1267389898</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:45:01 PDT 2010 -->

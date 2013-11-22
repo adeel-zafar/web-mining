@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314132513AAsEY0A" type="Answered">
+    <Subject>Anybody know how I can fix this problem on netflix?</Subject>
+    <Content>When I put my instant streaming disc in my ps3 it says &quot;Cannot connect to Netflix.  Please try again later.  If the problem persists, please visit netflix.com/help on your computer.&quot;  Well it&#039;s been doing this for a while and I went to netflix.com/help and it didn&#039;t say anything on how to fix this problem.  Anybody know of a way to fix this?
+my ps3 is definitely connected to the internet.  I can still play games online and access the internet.
+</Content>
+    <Date>2010-03-14 13:25:13</Date>
+    <Timestamp>1268598313</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314132513AAsEY0A</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PNz02w5kaa</UserId>
+    <UserNick>toasty86</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I would guess that this is because you don&#039;t have connectivity on your PS3? Check to make sure that it&#039;s connected to the internet.</ChosenAnswer>
+    <ChosenAnswererId>MA9nUUuLaa</ChosenAnswererId>
+    <ChosenAnswererNick>nigel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268598408</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269117941</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I would guess that this is because you don&#039;t have connectivity on your PS3? Check to make sure that it&#039;s connected to the internet.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>MA9nUUuLaa</UserId>
+            <UserNick>nigel</UserNick>
+            <Date>2010-03-14 13:26:48</Date>
+            <Timestamp>1268598408</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:58:37 PDT 2010 -->

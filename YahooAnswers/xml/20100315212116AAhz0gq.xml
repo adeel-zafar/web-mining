@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315212116AAhz0gq" type="Answered">
+    <Subject>How do i get rid of AOL search?</Subject>
+    <Content>Okay, I know how to get rid of the toolbar and all, but it&#039;s the address bar that&#039;s annoying. I used to be able to type in, like, Facebook in the address bar and it&#039;s take me straight to the website. Now when I type in only &#039;Facebook&#039; in AOL searches it. I updated Firefox and it still does it. Any ideas?
+</Content>
+    <Date>2010-03-15 21:21:16</Date>
+    <Timestamp>1268713276</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315212116AAhz0gq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1hrzHVsSaa</UserId>
+    <UserNick>McAwesome Badasston</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if you already tried to delete the tool bar and it didn&#039;t work 
+
+try add or remove programs
+
+also you can try start program files then if the Aol file still there delete it then clean your disk top and restart the computer
+
+i hope it helps</ChosenAnswer>
+    <ChosenAnswererId>7gVi7ZVJaa</ChosenAnswererId>
+    <ChosenAnswererNick>Pharaoh</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268713709</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269334937</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>if you already tried to delete the tool bar and it didn&#039;t work 
+
+try add or remove programs
+
+also you can try start program files then if the Aol file still there delete it then clean your disk top and restart the computer
+
+i hope it helps</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7gVi7ZVJaa</UserId>
+            <UserNick>Pharaoh</UserNick>
+            <Date>2010-03-15 21:28:29</Date>
+            <Timestamp>1268713709</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>AOL is about as hard to remove as the worse virus.  Even after you uninstall it it leaves multiple files all over your computer.  Try this:
+
+First download and install Unlocker (it&#039;s free):
+
+http://ccollomb.free.fr/unlocker/
+
+then do a scan on you drives for this: *AOL*.*   it will return every occurrence of any file with AOL in the name.  Look them over to be sure that they are AOL files and delete them.  Have yet to run into a file with AOL in it that wasn&#039;t one of theirs.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HWoEiKPMaa</UserId>
+            <UserNick>Sattamander</UserNick>
+            <Date>2010-03-15 22:24:18</Date>
+            <Timestamp>1268717058</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:18 PDT 2010 -->

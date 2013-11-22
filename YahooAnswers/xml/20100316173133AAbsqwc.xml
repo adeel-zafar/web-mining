@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316173133AAbsqwc" type="Answered">
+    <Subject>How many blogs should be your limit?</Subject>
+    <Content>I have multiple sides and different hobbies, and I&#039;ve been making blogs for them.. I&#039;m just wondering, what should be my limit? I&#039;m sure I could keep up with them, but I am just not sure. Please help!! I already have 4 different blogs on the same website, and was thinking of making more.. When should I stop?
+</Content>
+    <Date>2010-03-16 17:31:33</Date>
+    <Timestamp>1268785893</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316173133AAbsqwc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ScJtzaQvaa</UserId>
+    <UserNick>Amber</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1MqsJ3lluAAEBIeKbdMSdeU0pMQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you can keep up, the sky&#039;s the limit, though the most I&#039;ve ever seen anyone run is five.  (I have three.)</ChosenAnswer>
+    <ChosenAnswererId>dztKGMAQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Windowphobe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268789987</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269722550</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I dont think you will stop, but you will get kinda tired of posting things in more than 2 blogs.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eTrka9Fyaa</UserId>
+            <UserNick>Saurabh</UserNick>
+            <Date>2010-03-16 17:33:33</Date>
+            <Timestamp>1268786013</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you can keep up, the sky&#039;s the limit, though the most I&#039;ve ever seen anyone run is five.  (I have three.)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dztKGMAQaa</UserId>
+            <UserNick>Windowphobe</UserNick>
+            <Date>2010-03-16 18:39:47</Date>
+            <Timestamp>1268789987</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:47:22 PDT 2010 -->

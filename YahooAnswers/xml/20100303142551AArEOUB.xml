@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303142551AArEOUB" type="Answered">
+    <Subject>How can I look up who used to own a domain name?</Subject>
+    <Content>Hi. Is there anyway to look up who used to own a domain name.  eg. the domain has expired and is now available, but I want to find out who owned it a couple of years ago, before they let it expire.  I know that domaintools.com will do it, but I&#039;m looking for something free!
+</Content>
+    <Date>2010-03-03 14:25:51</Date>
+    <Timestamp>1267655151</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303142551AArEOUB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Llz4vd3haa</UserId>
+    <UserNick>paul</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Looking it up on http://Archive.org might help - and Google indexes a fair amount of Whois data if you use a closed caption &quot;www.domain name.TLD&quot; search</ChosenAnswer>
+    <ChosenAnswererId>L9ichpB7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Domain</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267697194</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268174628</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Looking it up on http://Archive.org might help - and Google indexes a fair amount of Whois data if you use a closed caption &quot;www.domain name.TLD&quot; search</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>L9ichpB7aa</UserId>
+            <UserNick>Domain</UserNick>
+            <Date>2010-03-04 02:06:34</Date>
+            <Timestamp>1267697194</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:02 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224191343AAs6aZd" type="Answered">
+    <Subject>Need a quick answer: Internet Explorer refuses to close?</Subject>
+    <Content>I&#039;ve already tried forcing it to close from the Task Manager, but it gives me a pop up that says, &quot;The application is not responding. The program may respond again if you wait. Do you want to end this process?&quot; It has two options: end process and cancel. I&#039;ve tried both, but it&#039;s still open and it&#039;s been over an hour since I initially tried to close it.
+</Content>
+    <Date>2010-02-24 19:13:43</Date>
+    <Timestamp>1267067623</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224191343AAs6aZd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gCIRxhXDaa</UserId>
+    <UserNick>angelicsunshine25</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a232c2di9a5zul6sp1/R1B4gMswdaFTgU0rGVppqDbLV.vIDLkUjA--/2/tn48.jpg?ciAAToMBWuAAseAX</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go into task manager and right click on iexpolre.exe  and select go to process and end the process it takes you to it will then close</ChosenAnswer>
+    <ChosenAnswererId>lfSzLC59aa</ChosenAnswererId>
+    <ChosenAnswererNick>Gunit</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267067678</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267125910</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go into task manager and right click on iexpolre.exe  and select go to process and end the process it takes you to it will then close</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>lfSzLC59aa</UserId>
+            <UserNick>Gunit</UserNick>
+            <Date>2010-02-24 19:14:38</Date>
+            <Timestamp>1267067678</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;ve had that happen.  You&#039;ll need to restart your computer.
+
+-MM</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>75a6d7c073ea64d018130b576ffb492caa</UserId>
+            <UserNick>Wonder</UserNick>
+            <Date>2010-02-24 19:24:17</Date>
+            <Timestamp>1267068257</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:11:54 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302183449AAzgVmP" type="Answered">
+    <Subject>How long has AOL been around?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-02 18:34:49</Date>
+    <Timestamp>1267583689</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302183449AAzgVmP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>c9e8b6599cf6d856c12d5bfa20e80374aa</UserId>
+    <UserNick>zug777</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/12TzFUAxLAAECPgE_cAho0X0A.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You&#039;ll find the answer here.</ChosenAnswer>
+    <ChosenAnswererId>Vh8RA9MUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jeff P</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267583840</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268103248</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You&#039;ll find the answer here.</Content>
+            <Reference>http://en.wikipedia.org/wiki/AOL</Reference>
+            <Best>5</Best>
+            <UserId>Vh8RA9MUaa</UserId>
+            <UserNick>Jeff P</UserNick>
+            <Date>2010-03-02 18:37:20</Date>
+            <Timestamp>1267583840</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>October 2, 1989 
+
+AppleLink changed its name to America Online, a service offered through Quantum.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yeHfjBByaa</UserId>
+            <UserNick>ranger_airborn2002</UserNick>
+            <Date>2010-03-02 18:39:12</Date>
+            <Timestamp>1267583952</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:06 PDT 2010 -->

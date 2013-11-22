@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302142142AAIxuRF" type="Answered">
+    <Subject>How do you use zazzle.com?</Subject>
+    <Content>i just joined zazzle and i was wondering how do you put shirts up in the market place thing, i kno how to create the shirts but nothing else
+</Content>
+    <Date>2010-03-02 14:21:42</Date>
+    <Timestamp>1267568502</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302142142AAIxuRF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xZTioRSpaa</UserId>
+    <UserNick>usually confused</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1nMMPwX0VAAIB-IFTYNSTCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You could try reading this ( http://www.zazzle.com/sell ).  Or, if that is too complicated, you might consult the Zazzle new-user forum ( http://forum.zazzle.com/new ).  Someone should be able to help you figure it out, there.</ChosenAnswer>
+    <ChosenAnswererId>Ko2DOvtOaa</ChosenAnswererId>
+    <ChosenAnswererNick>rlamoni</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267645117</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267661346</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You could try reading this ( http://www.zazzle.com/sell ).  Or, if that is too complicated, you might consult the Zazzle new-user forum ( http://forum.zazzle.com/new ).  Someone should be able to help you figure it out, there.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Ko2DOvtOaa</UserId>
+            <UserNick>rlamoni</UserNick>
+            <Date>2010-03-03 11:38:37</Date>
+            <Timestamp>1267645117</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:25:10 PDT 2010 -->

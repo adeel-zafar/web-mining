@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322121043AAtlKRZ" type="Answered">
+    <Subject>Why is my firefox browser getting all weird now?</Subject>
+    <Content>I am using Google Chrome right now, because I can&#039;t use firefox. I don&#039;t know if it&#039;s a virus or what.
+but well, it first started yesterday when if I exited firefox I wasn&#039;t able to open firefox again unless I logged out and logged back in to the computer.
+
+And like 30 minutes ago, I just noticed that the refresh, backword/foreward button do not work. They are there, but they are invisible and will not do anything when you put your mouse on it.
+
+and NOW the URL at the top of the page is missing for everything I click on.
+
+What does this all mean?
+</Content>
+    <Date>2010-03-22 12:10:43</Date>
+    <Timestamp>1269285043</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322121043AAtlKRZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zpxp8yDkaa</UserId>
+    <UserNick>Jake</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You could delete it. Then go to www.mozilla.com and get the latest version.  That should fix it.</ChosenAnswer>
+    <ChosenAnswererId>WE1a2DUXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Michele C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269285738</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269470264</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You could delete it. Then go to www.mozilla.com and get the latest version.  That should fix it.</Content>
+            <Reference>Camino, Chrome, Firefox, Safari.  When things give Firefox a hard time (like TCF Bank) I switch to Camino or Chrome</Reference>
+            <Best>5</Best>
+            <UserId>WE1a2DUXaa</UserId>
+            <UserNick>Michele C</UserNick>
+            <Date>2010-03-22 12:22:18</Date>
+            <Timestamp>1269285738</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try to uninstall and then again install it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oVZ2hQLmaa</UserId>
+            <UserNick>john</UserNick>
+            <Date>2010-03-22 12:28:11</Date>
+            <Timestamp>1269286091</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:50 PDT 2010 -->

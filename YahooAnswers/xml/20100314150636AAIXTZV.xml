@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314150636AAIXTZV" type="Answered">
+    <Subject>Okay so theres ONE site that wont work?</Subject>
+    <Content>Okay so i was on this site, then I exited it out by accident, so I opened another page and type it in again but it wouldn&#039;t come up. Everything works BUT this site.! And like, I was JUST on it... it just keeps saying &quot;Server not found&quot;. GAH HELP!
+How do I &quot;Clean my cookies and brousers&quot; or whatever?
+</Content>
+    <Date>2010-03-14 15:06:36</Date>
+    <Timestamp>1268604396</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314150636AAIXTZV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>L0oLpDwSaa</UserId>
+    <UserNick>Tink</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1Kd6PLRyqAAED24J28I5nMk6iy8bLvw==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Clear your cookies and your browser cache and try again.</ChosenAnswer>
+    <ChosenAnswererId>BgwTxzEFaa</ChosenAnswererId>
+    <ChosenAnswererNick>korgrue</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268604601</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269123909</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Clear your cookies and your browser cache and try again.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BgwTxzEFaa</UserId>
+            <UserNick>korgrue</UserNick>
+            <Date>2010-03-14 15:10:01</Date>
+            <Timestamp>1268604601</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>maybe the site is down? wait an hour and try again</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>85ClGmvxaa</UserId>
+            <UserNick>Mikael T</UserNick>
+            <Date>2010-03-14 15:23:21</Date>
+            <Timestamp>1268605401</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:58:03 PDT 2010 -->

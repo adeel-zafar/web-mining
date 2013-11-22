@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306045334AAtBNoj" type="Answered">
+    <Subject>Windows 7 internet connection problem?</Subject>
+    <Content>I installed window 7 recently (64 bit). The install went fine. No problems. My problem is with the internet. For some reason it just stops working. I am using a WUSB600N Linksys USB wireless adapter. I will be using the computer (or sometimes I will walk away and leave it on) and my internet will stop working. I get a yellow exclamation point on the wireless thing in the tool bar. 
+I check device manager and everything is fine. The real problem is once this happens the Wireless usb does not respond at all. If I go unplug it from my computer and plug it back in not even the indicator light will turn on. The PC also doesn&#039;t make the eject sound either. It completely refuses to recognize it. Then if I hit shut down or restart. my computer will stay on the shut down screen and not properly shut down. This only occurs if the internet &quot;goes out&quot; otherwise my computer shuts down just fine. 
+The internet also &quot;goes out&quot; in safe mode. While the internet is functioning the computer operates perfectly. I have tried the ipconfg/ renew and everything but it comes back clean unless I do it when the internet &quot;goes out&quot;, than I get an error. I have also tried the RAlink driver and that doesn&#039;t stop it either.
+</Content>
+    <Date>2010-03-06 04:53:34</Date>
+    <Timestamp>1267880014</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306045334AAtBNoj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ssghZNgPaa</UserId>
+    <UserNick>Oswald</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You have to call or chat with Microsoft. They &quot;optimized&quot; my internet explorer (even though I don&#039;t use it) and for some reason it fixed my connection problem.
+http://support.microsoft.com/</ChosenAnswer>
+    <ChosenAnswererId>0gGMadkVaa</ChosenAnswererId>
+    <ChosenAnswererNick>redsheik7</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267890189</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268917965</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>well check if you have installed the drivers for the device or/and check if there are compatible drivers with your win7 64bit version, anyway Always check before installing another os, especially if it&#039;s a 64bit, if it&#039;s completely compatible. For better support post your technical problems on Microsoft Answers Forums( http://social.answers.microsoft.com/Forums/en-US/categories )</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XMmAMORbaa</UserId>
+            <UserNick>aLx</UserNick>
+            <Date>2010-03-06 05:06:57</Date>
+            <Timestamp>1267880817</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have to call or chat with Microsoft. They &quot;optimized&quot; my internet explorer (even though I don&#039;t use it) and for some reason it fixed my connection problem.
+http://support.microsoft.com/</Content>
+            <Reference>Had the same problem</Reference>
+            <Best>5</Best>
+            <UserId>0gGMadkVaa</UserId>
+            <UserNick>redsheik7</UserNick>
+            <Date>2010-03-06 07:43:09</Date>
+            <Timestamp>1267890189</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:50:05 PDT 2010 -->

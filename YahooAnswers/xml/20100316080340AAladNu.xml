@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316080340AAladNu" type="Answered">
+    <Subject>what are the seller fees on ebay?</Subject>
+    <Content>does it cost you money to put up an item, if so how much
+</Content>
+    <Date>2010-03-16 08:03:40</Date>
+    <Timestamp>1268751820</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316080340AAladNu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jPU4vF7aaa</UserId>
+    <UserNick>And They Gave Us</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ijmASYW3AAEBvcN8uI9sMncB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Putting an item on eBay means you will be charged a fee just for listing it there. If your item sells, you are also charged another fee based on the final cost. 
+
+So to get the total cost of putting your item on eBay, you’ll have to add those 2 fees together.</ChosenAnswer>
+    <ChosenAnswererId>nznc8zaxaa</ChosenAnswererId>
+    <ChosenAnswererNick>Angiel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268757864</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268956087</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you can get all Information to ebay website.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zk3dPPhMaa</UserId>
+            <UserNick>Lucky</UserNick>
+            <Date>2010-03-16 08:23:11</Date>
+            <Timestamp>1268752991</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Putting an item on eBay means you will be charged a fee just for listing it there. If your item sells, you are also charged another fee based on the final cost. 
+
+So to get the total cost of putting your item on eBay, you’ll have to add those 2 fees together.</Content>
+            <Reference>http://pages.ebay.com/help/sell/fees.html</Reference>
+            <Best>1</Best>
+            <UserId>nznc8zaxaa</UserId>
+            <UserNick>Angiel</UserNick>
+            <Date>2010-03-16 09:44:24</Date>
+            <Timestamp>1268757864</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:57 PDT 2010 -->

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322203646AAovv5n" type="Answered">
+    <Subject>MS word opening hyperlinks in IE8 not Firefox?</Subject>
+    <Content>Kay so Firefox is my default browser (you know because it&#039;s better) google the hell out of this problem. Came up with going to set default from the program section in admin options, selecting IE8 as my default then changing back to Firefox, and I opened and closed my MS word every time I changed something. I am working with MS word 7 and Windows 7. It&#039;s seriously pissing me off, because it was working a hour and a half ago. I just opened IE because Firefox didn&#039;t have a plug-in I needed, and it would&#039;ve required a restart to install it. But now my problem is making me wish I spent the extra five minutes. 
+
+Hope you guys come up with something. I&#039;m still working on it... but the more I get annoyed the less likely it will be fixed. 
+
+Thanks
+By the by I checked the firefox and ms word boards. Got notta.
+</Content>
+    <Date>2010-03-22 20:36:46</Date>
+    <Timestamp>1269315406</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322203646AAovv5n</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9KbrFx0Saa</UserId>
+    <UserNick>murderdetective</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try this:
+
+In Firefox:
+
+1. Click the Tools-&gt;Options menu item.
+2. Click the Advanced page.
+3. Click the General tab.
+4. Check the &quot;Always check to see if Firefox is the default browser on startup&quot; checkbox.
+5. Click the Check Now button.
+6. Click OK.
+
+This should set Firefox up as the web page handler.
+
+Hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269318120</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269834883</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try this:
+
+In Firefox:
+
+1. Click the Tools-&gt;Options menu item.
+2. Click the Advanced page.
+3. Click the General tab.
+4. Check the &quot;Always check to see if Firefox is the default browser on startup&quot; checkbox.
+5. Click the Check Now button.
+6. Click OK.
+
+This should set Firefox up as the web page handler.
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-22 21:22:00</Date>
+            <Timestamp>1269318120</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:35 PDT 2010 -->

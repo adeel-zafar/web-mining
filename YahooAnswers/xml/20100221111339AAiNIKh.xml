@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221111339AAiNIKh" type="Answered">
+    <Subject>How do you set a homepage on Firefox?</Subject>
+    <Content>I do not know how to on the latest version of Mozzilla Firefox.
+</Content>
+    <Date>2010-02-21 11:13:39</Date>
+    <Timestamp>1266779619</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221111339AAiNIKh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9VrKjgrsaa</UserId>
+    <UserNick>goodguy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Open Firefox. At the top go to tools &gt; options. Click the general button. The 2nd white box from the top is what you want.</ChosenAnswer>
+    <ChosenAnswererId>namlduaOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Woody</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266779965</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266869858</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Open Firefox. At the top go to tools &gt; options. Click the general button. The 2nd white box from the top is what you want.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>namlduaOaa</UserId>
+            <UserNick>Woody</UserNick>
+            <Date>2010-02-21 11:19:25</Date>
+            <Timestamp>1266779965</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go to &quot;tool&quot; &quot;options&quot; &quot;main&quot; and you will see what is your homepage there, just change it to what you want.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oqvl2GFsaa</UserId>
+            <UserNick>g&#039;kar</UserNick>
+            <Date>2010-02-21 11:20:02</Date>
+            <Timestamp>1266780002</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go on the site you want to homepage, then, the icon next to the URL, take it, and drag it to the home looking icon. It&#039;ll ask you &quot;Do you want this document to be your new home page?&quot;. Say yes, and there you go.</Content>
+            <Reference>I used to use mozilla.</Reference>
+            <Best></Best>
+            <UserId>ivbqo6xzaa</UserId>
+            <UserNick>yassy</UserNick>
+            <Date>2010-02-21 11:35:29</Date>
+            <Timestamp>1266780929</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:34:29 PDT 2010 -->

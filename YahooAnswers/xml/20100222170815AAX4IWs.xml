@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222170815AAX4IWs" type="Answered">
+    <Subject>Can you ever delete a www.thesims2.com account?</Subject>
+    <Content>I&#039;m just wondering &#039;cause I have one, but I never use it. :/
+</Content>
+    <Date>2010-02-22 17:08:15</Date>
+    <Timestamp>1266887295</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222170815AAX4IWs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VkuvnccRaa</UserId>
+    <UserNick>Miley</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b47fc0ci1720zul8re4/SmbY2XwpdrNGzIqeqQcDzUo3/1/tn48.jpg?ciAAToMBBp7BvwKD</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;m sure if you email EA, they&#039;ll do it for you.</ChosenAnswer>
+    <ChosenAnswererId>559e2c4e0797055bc74e4daa3686e5beaa</ChosenAnswererId>
+    <ChosenAnswererNick>crazyaznpig</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266887378</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267752359</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m sure if you email EA, they&#039;ll do it for you.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>559e2c4e0797055bc74e4daa3686e5beaa</UserId>
+            <UserNick>crazyaznpig</UserNick>
+            <Date>2010-02-22 17:09:38</Date>
+            <Timestamp>1266887378</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:42 PDT 2010 -->

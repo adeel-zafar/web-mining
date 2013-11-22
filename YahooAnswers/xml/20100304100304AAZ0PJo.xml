@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304100304AAZ0PJo" type="Answered">
+    <Subject>i use firefox browser and ive got a problem!?</Subject>
+    <Content>basicly when i used to close the pade id click &quot;save and exit&quot; but i clicked &quot;dont show me this again&quot; by accident so now it doestn come up no more and takes me back to the home page :( any clue how to get it back up ?
+</Content>
+    <Date>2010-03-04 10:03:04</Date>
+    <Timestamp>1267725784</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304100304AAZ0PJo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4eIdSu7Qaa</UserId>
+    <UserNick>Becky</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Close down Firefox completely
+
+Go to Start -&gt; All Programs -&gt; Mozilla Firefox  Then open Firefox (Safe Mode)
+
+when the dialog comes up, check &quot;restore to default settings&quot;</ChosenAnswer>
+    <ChosenAnswererId>VNViqKSqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Barron</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267726205</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267876724</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Close down Firefox completely
+
+Go to Start -&gt; All Programs -&gt; Mozilla Firefox  Then open Firefox (Safe Mode)
+
+when the dialog comes up, check &quot;restore to default settings&quot;</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>VNViqKSqaa</UserId>
+            <UserNick>Barron</UserNick>
+            <Date>2010-03-04 10:10:05</Date>
+            <Timestamp>1267726205</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try the newly released opera 10.5! It rocks! its the fastest!
+http://www.opera.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0od5FmAkaa</UserId>
+            <UserNick>Bozo</UserNick>
+            <Date>2010-03-04 10:20:41</Date>
+            <Timestamp>1267726841</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:11:12 PDT 2010 -->

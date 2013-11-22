@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317050602AAHg71y" type="Answered">
+    <Subject>Internet Problem Sound! please help?</Subject>
+    <Content>ok so out of no where my computer all of a sudden doesnt play songs on the internet (firefox or internet explorer)
+it plays music from itunes fine so its not speakers. when i try to watch a video on youtube or a try to play music on my music download site its all quiet and static and scratchy. 
+what is this? and how do i fix it.
+its windows XP and ive had it for over 6 years and it has never done this. it was working fine an hour ago now its not. i havent done anything to upset it and it doesnt have a virus
+</Content>
+    <Date>2010-03-17 05:06:02</Date>
+    <Timestamp>1268827562</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317050602AAHg71y</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6t8swf6raa</UserId>
+    <UserNick>EzzyMezzy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1fD9O3siFAAEC4ySD5l8BDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>maybe you can try using antoher browser, like firefox or google chrome... If that doesn&#039;t work you might want to reinstall your flash player.
+
+sorry for my bad english</ChosenAnswer>
+    <ChosenAnswererId>DxIm4KbLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mr N</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268828213</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269346987</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What operating system do you have? In Windows 7, sound that coming from your browser can be turn on and off or change the volume from your sound settings in your task bar beside the clock. Click it then click the mixer and see if the volume from your browser are turned up all the way.
+
+I am not sure in XP because I haven&#039;t use XP in a while.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>J8dDdWzHaa</UserId>
+            <UserNick>Jacqueline</UserNick>
+            <Date>2010-03-17 05:16:31</Date>
+            <Timestamp>1268828191</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>maybe you can try using antoher browser, like firefox or google chrome... If that doesn&#039;t work you might want to reinstall your flash player.
+
+sorry for my bad english</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DxIm4KbLaa</UserId>
+            <UserNick>Mr N</UserNick>
+            <Date>2010-03-17 05:16:53</Date>
+            <Timestamp>1268828213</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:45:25 PDT 2010 -->

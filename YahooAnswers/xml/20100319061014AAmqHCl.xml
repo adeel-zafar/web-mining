@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319061014AAmqHCl" type="Answered">
+    <Subject>How to receive real money from PayPal?</Subject>
+    <Content>I just started selling things on eBay, and I understand I get credit on my PayPal account from what I make.  I would like to instead get a check or something in the mail so I can actually spend that money. Is there any way I can get real money and not credit?
+</Content>
+    <Date>2010-03-19 06:10:14</Date>
+    <Timestamp>1269004214</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319061014AAmqHCl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vO25C9XCaa</UserId>
+    <UserNick>Chris</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Dogv65lOAAED_AFwcmE=.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Link it to a bank account and then request a funds transfer.  I do it all the time.  Word of caution:  set up a separate bank account just for this purpose so you don&#039;t have problems with your personal accounts.  It will make it easier at tax time, too.
+
+The instructions are on the Paypal website.</ChosenAnswer>
+    <ChosenAnswererId>ozWi3TJlaa</ChosenAnswererId>
+    <ChosenAnswererNick>originalkippyj</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269004368</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269766989</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Link it to a bank account and then request a funds transfer.  I do it all the time.  Word of caution:  set up a separate bank account just for this purpose so you don&#039;t have problems with your personal accounts.  It will make it easier at tax time, too.
+
+The instructions are on the Paypal website.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ozWi3TJlaa</UserId>
+            <UserNick>originalkippyj</UserNick>
+            <Date>2010-03-19 06:12:48</Date>
+            <Timestamp>1269004368</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if you have a bank or credit union account you can link paypal to it. i have a secondary account just for paypal (so if somebody hacks my password they can&#039;t empty my savings/checking.) what you do then is transfer/withdraw the money from paypal to your bank account. of course, paypal will take their fee from it, but then you&#039;ll have real dollars. mind you, paypal doesn&#039;t move money anywhere at anytime without skimming a bit of it off.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gWoyKxXSaa</UserId>
+            <UserNick>Annie</UserNick>
+            <Date>2010-03-19 06:13:02</Date>
+            <Timestamp>1269004382</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You may have to update your Paypal account to get it, but Paypal does offer a debit card which draws directly off of your Paypal balance.  The instant money is available in your Paypal account, you can run to an ATM and withdraw up to $400 of it per day, or spend up to $3000 per day.  More details are available here --
+
+https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Marketing/account/DCIntro-outside
+
+As others here have mentioned, you can withdraw the funds to your checking account.  The turnaround time on funds transfer is usually three business days.  As you&#039;ll quickly learn, Paypal holds onto money for as long as it possibly can.  They&#039;re pretty shameless that way.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>weISqaxGaa</UserId>
+            <UserNick>Jack Corbin</UserNick>
+            <Date>2010-03-19 08:54:51</Date>
+            <Timestamp>1269014091</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:35 PDT 2010 -->

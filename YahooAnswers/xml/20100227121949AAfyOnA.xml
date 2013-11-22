@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227121949AAfyOnA" type="Answered">
+    <Subject>Is there an online forum similar to Y!A that&#039;s designed more for conversations?</Subject>
+    <Content>I like the format of Y!A, such as the categories it separates topics into. But it&#039;s not so great if you want to have conversations.
+</Content>
+    <Date>2010-02-27 12:19:49</Date>
+    <Timestamp>1267301989</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227121949AAfyOnA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZmjtuLPzaa</UserId>
+    <UserNick>Angela</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1haR2bnS2AAEC9EFvlBLUCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Internet Relay Chat, or IRC.  Pick a program (http://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients ) pick a network and pick a channel.  If there&#039;s no channel about what you&#039;re interested in, join it (the server will create it for you) and wait for people to join.</ChosenAnswer>
+    <ChosenAnswererId>7bf62358ee706efffb78c25a9c7d5a00aa</ChosenAnswererId>
+    <ChosenAnswererNick>Colanth</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267302407</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267452564</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Internet Relay Chat, or IRC.  Pick a program (http://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients ) pick a network and pick a channel.  If there&#039;s no channel about what you&#039;re interested in, join it (the server will create it for you) and wait for people to join.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7bf62358ee706efffb78c25a9c7d5a00aa</UserId>
+            <UserNick>Colanth</UserNick>
+            <Date>2010-02-27 12:26:47</Date>
+            <Timestamp>1267302407</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:43:39 PDT 2010 -->

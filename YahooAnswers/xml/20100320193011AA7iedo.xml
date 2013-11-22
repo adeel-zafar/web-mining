@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320193011AA7iedo" type="Answered">
+    <Subject>Do you get offended when people disconnect you on chat roulette? lol?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-20 19:30:11</Date>
+    <Timestamp>1269138611</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320193011AA7iedo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA12298968</UserId>
+    <UserNick>Brianne :)</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No there are to many other people to talk to</ChosenAnswer>
+    <ChosenAnswererId>hOI6tc7Zaa</ChosenAnswererId>
+    <ChosenAnswererNick>Cancer1</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269138687</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269474400</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No there are to many other people to talk to</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>hOI6tc7Zaa</UserId>
+            <UserNick>Cancer1</UserNick>
+            <Date>2010-03-20 19:31:27</Date>
+            <Timestamp>1269138687</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:30 PDT 2010 -->

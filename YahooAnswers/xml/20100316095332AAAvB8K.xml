@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316095332AAAvB8K" type="Answered">
+    <Subject>Do you need to verify your pay pal account to get the money into your bank account?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-16 09:53:32</Date>
+    <Timestamp>1268758412</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316095332AAAvB8K</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zWd7yCKdaa</UserId>
+    <UserNick>Jeni</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1hR4kSwMPAAEC5GTxYdA_Cw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It is more like other way around. You need to verify your Bank Account to withdraw money from paypal. To be more specific - Paypal will verify your bank account when you add the bank details by debiting very little amount from your bank account. Then you have to enter those exact amount to your paypal account verification page. (Last time they deduct £0.12 and £0.13 from my account) 
+
+Hope the above answer will help you.</ChosenAnswer>
+    <ChosenAnswererId>N54KEwuRaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268758718</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268860372</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yes, otherwise you cant send it to your account, unless theyre linked. and when you link it paypal sends 2 amounts into you account. theyre usually like .43 or .06 amounts, but once thats done, all is good and you can access both accounts from the other</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eutCnSZcaa</UserId>
+            <UserNick>Mirza</UserNick>
+            <Date>2010-03-16 09:57:01</Date>
+            <Timestamp>1268758621</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It is more like other way around. You need to verify your Bank Account to withdraw money from paypal. To be more specific - Paypal will verify your bank account when you add the bank details by debiting very little amount from your bank account. Then you have to enter those exact amount to your paypal account verification page. (Last time they deduct £0.12 and £0.13 from my account) 
+
+Hope the above answer will help you.</Content>
+            <Reference>personal experience</Reference>
+            <Best>5</Best>
+            <UserId>N54KEwuRaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-16 09:58:38</Date>
+            <Timestamp>1268758718</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:30 PDT 2010 -->

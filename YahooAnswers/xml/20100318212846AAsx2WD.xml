@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318212846AAsx2WD" type="Answered">
+    <Subject>Can you receive payments on paypal if you dont have a bank account listed?</Subject>
+    <Content>I have a paypal account but dont intend on buying anything, so I dont have a payment option listed.  I am using this just for receiving payments.  Can I still get the payment credited to my account? What will happen if someone makes a payment to me but I dont have a credit card or bank account on the paypal account? Thanks
+</Content>
+    <Date>2010-03-18 21:28:46</Date>
+    <Timestamp>1268972926</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318212846AAsx2WD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d1af838c6aa6c1355f5c6cc68c6a50d0aa</UserId>
+    <UserNick>susanabbey@sbcglobal.net</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>money go on your account.</ChosenAnswer>
+    <ChosenAnswererId>H9RLpgjUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Great</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268981495</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269687764</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The money goes in to your PayPal account, it comes from their bank account or credit card!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-18 21:32:57</Date>
+            <Timestamp>1268973177</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can have a check mailed to you from paypal for a fee (limited to $500 withdrawn per month.)  You can also just keep the money in your paypal account to use to pay things.  From paypal&#039;s website &quot;Withdraw Funds by Check A fee of $1.50 USD will be applied to each check withdrawal. To receive your money faster, you may transfer funds electronically to your bank account.&quot;</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QZrxJEtZaa</UserId>
+            <UserNick>Mello</UserNick>
+            <Date>2010-03-18 21:36:55</Date>
+            <Timestamp>1268973415</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It sits in the Paypal account forever.  You have to action to get it out yourself, even if you have submitted your bank acc to them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pDxFOekIaa</UserId>
+            <UserNick>chezzrob</UserNick>
+            <Date>2010-03-18 21:46:21</Date>
+            <Timestamp>1268973981</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>money go on your account.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>H9RLpgjUaa</UserId>
+            <UserNick>Great</UserNick>
+            <Date>2010-03-18 23:51:35</Date>
+            <Timestamp>1268981495</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:37:18 PDT 2010 -->

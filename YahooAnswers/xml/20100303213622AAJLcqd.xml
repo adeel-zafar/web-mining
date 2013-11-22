@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303213622AAJLcqd" type="Answered">
+    <Subject>Why can I download torrents fine, but internet pages don&#039;t load properly (if at all)?</Subject>
+    <Content>My torrents are downloading at normal speeds right now, but web pages for both my computers rarely load. I usually get just text (with hyperlinks) when it does load. It seems to go through periods where everything loads fine, though.  This has just been happening today.
+
+Help me please!
+</Content>
+    <Date>2010-03-03 21:36:22</Date>
+    <Timestamp>1267680982</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303213622AAJLcqd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lre2F33aaa</UserId>
+    <UserNick>ss_omp</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>*cough* you are downloading a virus *cough* Stop whatever you are downloading</ChosenAnswer>
+    <ChosenAnswererId>UqUqNIYpaa</ChosenAnswererId>
+    <ChosenAnswererNick>a</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267681201</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268200434</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>*cough* you are downloading a virus *cough* Stop whatever you are downloading</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UqUqNIYpaa</UserId>
+            <UserNick>a</UserNick>
+            <Date>2010-03-03 21:40:01</Date>
+            <Timestamp>1267681201</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This is assuming that you&#039;re trying to load the web pages while downloading the torrents:
+The rate at which you download torrents is not always what affects your download speed. Remember, you are connected to other people. Sometimes you&#039;re connected to only ten. Sometimes you&#039;re connected to a hundred. Sometimes, just maybe, even more. The number of people you are connected to can slow you down. Your router (is this right?) can handle only so many connections.
+By the way, are you seeding?</Content>
+            <Reference>don&#039;t take my word for it. a part of it is speculation. check it out yourself</Reference>
+            <Best></Best>
+            <UserId>Y24qCdUpaa</UserId>
+            <UserNick>Beatenpollo</UserNick>
+            <Date>2010-03-03 22:12:15</Date>
+            <Timestamp>1267683135</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:13:22 PDT 2010 -->

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323114512AAsUNCo" type="Answered">
+    <Subject>Why do people use Firefox and other 3rd party browsers?</Subject>
+    <Content>Opposed to Internet Explorer.  IE works just fine for me.  What&#039;s so great about Firefox?
+</Content>
+    <Date>2010-03-23 11:45:12</Date>
+    <Timestamp>1269369912</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323114512AAsUNCo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>giaq8wzNaa</UserId>
+    <UserNick>Joshums</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1cP3069zvAAEDXIE_XAlIwSrQBg==.medium.png</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it is faster, more customizable, and you don&#039;t have to look at ads. you can change absolutely everything about how it works, making it exactly what you like. it has no annoying &quot;are you sure&quot; screens and very seldom crashes. it has a built in virus check for all downloads, and downloads carry on in a seperate window so your downloads continue even if you close the browser. literally every thing that ie does, firefox either does better, faster, simpler, and does it the way you&#039;d like to see it done.</ChosenAnswer>
+    <ChosenAnswererId>AA10247601</ChosenAnswererId>
+    <ChosenAnswererNick>joelius24</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269370132</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269447195</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>internet explorer is just a bad browser. i use google chrome</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>v1KUGIMmaa</UserId>
+            <UserNick>Josh</UserNick>
+            <Date>2010-03-23 11:48:41</Date>
+            <Timestamp>1269370121</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it is faster, more customizable, and you don&#039;t have to look at ads. you can change absolutely everything about how it works, making it exactly what you like. it has no annoying &quot;are you sure&quot; screens and very seldom crashes. it has a built in virus check for all downloads, and downloads carry on in a seperate window so your downloads continue even if you close the browser. literally every thing that ie does, firefox either does better, faster, simpler, and does it the way you&#039;d like to see it done.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>AA10247601</UserId>
+            <UserNick>joelius24</UserNick>
+            <Date>2010-03-23 11:48:52</Date>
+            <Timestamp>1269370132</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>well, if you do internet banking or make on-line purchases, you need more security to your info, unless you want some scumbag from nigeria emtying your bank account. Firefox is more secure than IE and crashes less. I have talked to people that have had their bank accounts emptied because they used ie, plus they have cool add ons that ie does not have.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11767225</UserId>
+            <UserNick>bert_beer</UserNick>
+            <Date>2010-03-23 11:53:12</Date>
+            <Timestamp>1269370392</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>IE allows ActiveX controls.  ActiveX can directly access the system.  and though it is set for &quot;safe&quot; by default, there are web pages out there which will infect your machine.  FF, Safari, Chrome are safer browsers because they do not use activex controls (however, chrome allows installable applications, and ff aqllows plugins which you must approve).
+
+IE also must approve an activeX control if I remember right.
+
+ActiveX controls are compiled binary code programs and usually are DLL&#039;s, OCX&#039;s, or sometimes .EXE&#039;s.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Xrpse3Iaaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-23 11:55:18</Date>
+            <Timestamp>1269370518</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Some people believe that IE isn&#039;t secure, however, it&#039;s just a matter of security settings etc.  IE is more susceptible viruses, trojans etc. with the default settings and a lot of hacks are written specifically for IE.  However, real computer professionals use Firefox for a variety of reasons.
+
+1) if a company hard codes proxy settings in their IE deployments support professionals use non-IE browsers to test around the proxy to troubleshoot browsing issues.
+
+2) Non-IE browsers handle html code etc. slightly differently and programmers use them to test websites and how they look to different browsers.
+
+3) A lot of people just hate Microsoft, they see it as a monopoly and look for anything else out there they can run. (not disagreeing with this mentality just explaining it)
+
+4) different software has different styles/themes and people like aesthetics. Also Microsoft&#039;s IE Browser make assumptions in the configuration and handling of web pages on how the average user would like to see them viewed.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8QViiSH8aa</UserId>
+            <UserNick>Coota</UserNick>
+            <Date>2010-03-23 12:06:22</Date>
+            <Timestamp>1269371182</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If some body askme what is the difference between IE and firefox?
+i will tell:
+you can not compare an angel with a witch. there are a lots of difference between these browsers.
+
+1. it&#039;s safer and faster
+2. more stability
+3. unbelievable addons with unbelievable efficiency and ....
+
+i just want to say, doubtless IE is the worst one.
+
+just check it out
+
+http://www.mozilla.com/en-US/firefox/upgrade.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OZ2ke215aa</UserId>
+            <UserNick>!</UserNick>
+            <Date>2010-03-23 12:06:54</Date>
+            <Timestamp>1269371214</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:18:18 PDT 2010 -->

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326030249AAQx8Lw" type="Answered">
+    <Subject>whats internet explorer 9 going to have?</Subject>
+    <Content>how is it going to be improved
+</Content>
+    <Date>2010-03-26 03:02:49</Date>
+    <Timestamp>1269597769</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326030249AAQx8Lw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AqjrRdHeaa</UserId>
+    <UserNick>siamese fighter</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/163NpeohfAAEBAmJGPkkwCl8B.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Thanks to the tremendous feedback from developers with IE8, we’ve been able to take their input and invest in key areas with Internet Explorer 9. Nearly 90 % of the top Web sites from around the world are compatible with Internet Explorer 8 without using the Compatibility View list, which puts us on par with other shipping versions of popular browsers.  The addition of the CV list means more sites can be viewed as the site creator intended in Internet Explorer 8 than any other shipping browser. In addition, Internet Explorer 9 has blocked 560 million attempted malware downloads, making it #1 in malware protection according to NSS Labs. We expect Internet Explorer 9 to build on this progress. In addition, Internet Explorer 9 includes significant advances in interoperability, performance and hardware accelerated browsing.  
+
+Other changes are Internet Explorer adds new support from the HTML5 specification, including:
+•HTML parsing improvements, including parsing of generic elements and overlapping tags
+•Support for parsing XHTML
+•Text Selection APIs to enable programmatic selection of text
+•SVG Support including:
+oDocument Structure, including metadata and extensibility functionality
+oBasic Shapes, including rectangles, circles, ellipses, lines, polylines, and polygons
+oCoordinate System, Transforms and Units
+oPaths, including full capabilities of the path element and d attribute
+Internet Explorer adds new support from the CSS3 specification, including:
+•Rounded corners via the border-radius property
+Support for the CSS Opacity property and RBGA color model, allowing developers to specify the transparency or opacity of an element
+
+IE9 Platform Preview is intended for developers and you can check it out here:
+http://ie.microsoft.com/testdrive/
+
+Cheers,
+Bryn
+IE Outreach Team</ChosenAnswer>
+    <ChosenAnswererId>5A9mfbA3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Bryn</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269618738</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269624854</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>look on microsofts web page or google it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YchuP01jaa</UserId>
+            <UserNick>Mark</UserNick>
+            <Date>2010-03-26 03:06:40</Date>
+            <Timestamp>1269598000</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It will probably be a lighter shade of blue&amp; make a wee noise like a fanfare when it opens --It will probably take even longer to load ,,,,crash &amp; burn &amp; spy on you even more.... I suppose we are used to it by now anyway,..</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3f21c30b3424532b28fd9578258f69d9aa</UserId>
+            <UserNick>Mrs G</UserNick>
+            <Date>2010-03-26 03:08:20</Date>
+            <Timestamp>1269598100</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Another huge failure like the rest of the Internet explorer versions.
+
+Firefox Rules.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rugZxDXbaa</UserId>
+            <UserNick>Devastation Assistant</UserNick>
+            <Date>2010-03-26 03:09:06</Date>
+            <Timestamp>1269598146</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>more stability and faster loading like ferifox I hope. even add-ons are the simplest of all on ff. and why do you have such a cheesy nickname? fighter - that just so cheesy and typical. have something original such as lemur. but not tiger.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6kmQmGxxaa</UserId>
+            <UserNick>obsidian</UserNick>
+            <Date>2010-03-26 03:14:35</Date>
+            <Timestamp>1269598475</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Thanks to the tremendous feedback from developers with IE8, we’ve been able to take their input and invest in key areas with Internet Explorer 9. Nearly 90 % of the top Web sites from around the world are compatible with Internet Explorer 8 without using the Compatibility View list, which puts us on par with other shipping versions of popular browsers.  The addition of the CV list means more sites can be viewed as the site creator intended in Internet Explorer 8 than any other shipping browser. In addition, Internet Explorer 9 has blocked 560 million attempted malware downloads, making it #1 in malware protection according to NSS Labs. We expect Internet Explorer 9 to build on this progress. In addition, Internet Explorer 9 includes significant advances in interoperability, performance and hardware accelerated browsing.  
+
+Other changes are Internet Explorer adds new support from the HTML5 specification, including:
+•HTML parsing improvements, including parsing of generic elements and overlapping tags
+•Support for parsing XHTML
+•Text Selection APIs to enable programmatic selection of text
+•SVG Support including:
+oDocument Structure, including metadata and extensibility functionality
+oBasic Shapes, including rectangles, circles, ellipses, lines, polylines, and polygons
+oCoordinate System, Transforms and Units
+oPaths, including full capabilities of the path element and d attribute
+Internet Explorer adds new support from the CSS3 specification, including:
+•Rounded corners via the border-radius property
+Support for the CSS Opacity property and RBGA color model, allowing developers to specify the transparency or opacity of an element
+
+IE9 Platform Preview is intended for developers and you can check it out here:
+http://ie.microsoft.com/testdrive/
+
+Cheers,
+Bryn
+IE Outreach Team</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5A9mfbA3aa</UserId>
+            <UserNick>Bryn</UserNick>
+            <Date>2010-03-26 08:52:18</Date>
+            <Timestamp>1269618738</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:01 PDT 2010 -->

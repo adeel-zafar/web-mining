@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222220942AAR7Np0" type="Answered">
+    <Subject>Is anyone else having trouble with chatroulette?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-22 22:09:42</Date>
+    <Timestamp>1266905382</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222220942AAR7Np0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2aaa4cc69c908cffbbd4119081f29eeeaa</UserId>
+    <UserNick>David C</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes. It doesn&#039;t load. 
+It just says &quot;Entering&quot;.
+
+PS:
+I don&#039;t think that&#039;s what she said.</ChosenAnswer>
+    <ChosenAnswererId>odchJxYQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Hasan J</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266905972</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267424630</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes. It doesn&#039;t load. 
+It just says &quot;Entering&quot;.
+
+PS:
+I don&#039;t think that&#039;s what she said.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>odchJxYQaa</UserId>
+            <UserNick>Hasan J</UserNick>
+            <Date>2010-02-22 22:19:32</Date>
+            <Timestamp>1266905972</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes. the play button never shows for me.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>91xDyIRPaa</UserId>
+            <UserNick>na</UserNick>
+            <Date>2010-02-22 22:20:40</Date>
+            <Timestamp>1266906040</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:24:09 PDT 2010 -->

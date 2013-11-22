@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222100242AABl2Kn" type="Answered">
+    <Subject>If you close a tab on Firefox, is there a way to get it back?</Subject>
+    <Content>Suppose you had multiple tabs opened and you accidentally closed one of them but forgot the URL, is there a short cut or something that allows you to get it back? Maybe there&#039;s an add-on or something?
+</Content>
+    <Date>2010-02-22 10:02:42</Date>
+    <Timestamp>1266861762</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222100242AABl2Kn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>weBm0Faoaa</UserId>
+    <UserNick>sam</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Right click the line where tabs go, and click &quot;Undo Close Tab&quot;</ChosenAnswer>
+    <ChosenAnswererId>rUFwAulfaa</ChosenAnswererId>
+    <ChosenAnswererNick>ACKirbachu</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266862386</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267119842</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>maybe check history on when you closed it or temp internet files</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wxsB4w0daa</UserId>
+            <UserNick>Lucy Girl</UserNick>
+            <Date>2010-02-22 10:06:26</Date>
+            <Timestamp>1266861986</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Right click the line where tabs go, and click &quot;Undo Close Tab&quot;</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rUFwAulfaa</UserId>
+            <UserNick>ACKirbachu</UserNick>
+            <Date>2010-02-22 10:13:06</Date>
+            <Timestamp>1266862386</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It happens to everyone, and it&#039;s annoying. Sometimes the wrong tab gets closed in Firefox, but it&#039;s OK. There&#039;s a solution to the problem, and it comes in the form of CTRL + SHIFT + T
+
+or you can add this addon for better use
+https://addons.mozilla.org/en-US/firefox/addon/3082</Content>
+            <Reference>addons.mozilla.org</Reference>
+            <Best></Best>
+            <UserId>4JMNs67haa</UserId>
+            <UserNick>Sandra Willam</UserNick>
+            <Date>2010-02-22 10:19:30</Date>
+            <Timestamp>1266862770</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:28:07 PDT 2010 -->

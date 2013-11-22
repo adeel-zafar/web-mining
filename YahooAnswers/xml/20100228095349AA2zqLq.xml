@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228095349AA2zqLq" type="Answered">
+    <Subject>What does &quot;Like New&quot; mean on Ebay?</Subject>
+    <Content>on ebay there is the condition thingy and it says like: brand new, like new, etc.
+
+does like new mean brand new not out of the box but had it for a while, used but not for long, or what??
+
+Thanks for your help!
+</Content>
+    <Date>2010-02-28 09:53:49</Date>
+    <Timestamp>1267379629</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228095349AA2zqLq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Rtoti9uvaa</UserId>
+    <UserNick>Goomba Iffer</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1srWs9qw6AAIDPIOcPJcVc_fKY9O92Skc.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>like new is the better side of used</ChosenAnswer>
+    <ChosenAnswererId>wxsB4w0daa</ChosenAnswererId>
+    <ChosenAnswererNick>Lucy Girl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267381185</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267899284</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Means that it&#039;s not new but in top condition, e.g. like new.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nvoaxZ8jaa</UserId>
+            <UserNick>Adin</UserNick>
+            <Date>2010-02-28 09:57:25</Date>
+            <Timestamp>1267379845</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>like new is the better side of used</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wxsB4w0daa</UserId>
+            <UserNick>Lucy Girl</UserNick>
+            <Date>2010-02-28 10:19:45</Date>
+            <Timestamp>1267381185</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:38:02 PDT 2010 -->

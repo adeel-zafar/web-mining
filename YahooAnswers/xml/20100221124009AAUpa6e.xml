@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221124009AAUpa6e" type="Answered">
+    <Subject>The sound on the internet keeps going quiet and muffled for a few seconds at a time?</Subject>
+    <Content>The sound on the internet keeps going quiet and muffled for a few seconds at a time before returning to normal only for it to start again within 10 seconds. I&#039;ve been on multiple websites and it happens every time with music, video, ETC.. Anyone know why this is happening or what I can do to prevent it?
+
+Thanks.
+</Content>
+    <Date>2010-02-21 12:40:09</Date>
+    <Timestamp>1266784809</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221124009AAUpa6e</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Zn8Tfprsaa</UserId>
+    <UserNick>LoDa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sounds like the video/music could be buffering which may mean its still loading, can you pause the video/music wait for it to fully load.  Some sites have a different coloured bar that loads across to show how much of the media has loaded, does it still jump after trying that?</ChosenAnswer>
+    <ChosenAnswererId>Upna7qFYaa</ChosenAnswererId>
+    <ChosenAnswererNick>wastedexistence</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267038937</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267304245</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sounds like the video/music could be buffering which may mean its still loading, can you pause the video/music wait for it to fully load.  Some sites have a different coloured bar that loads across to show how much of the media has loaded, does it still jump after trying that?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Upna7qFYaa</UserId>
+            <UserNick>wastedexistence</UserNick>
+            <Date>2010-02-24 11:15:37</Date>
+            <Timestamp>1267038937</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:33:58 PDT 2010 -->

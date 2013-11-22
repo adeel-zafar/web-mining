@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319145710AAOJqEe" type="Answered">
+    <Subject>help with internet explorer?</Subject>
+    <Content>i usually use Firefox now, but i know some sites still require Internet Explorer (IE) to access them. for some reason, IE wont connect for anything, to go online, nor updates...i want to remove it, if possible i know its part of windows programming, and reinstall it at its current Version 6.0...any ideas?
+both worked fine last week, i don&#039;t know what went wrong...
+</Content>
+    <Date>2010-03-19 14:57:10</Date>
+    <Timestamp>1269035830</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319145710AAOJqEe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SZ37TIxPaa</UserId>
+    <UserNick>NYninja</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I concur your statement concerning  certain sites requiring IE to access them. If IE is having issues, I would advise 
+1) installing back the particular component from your XP CD or by 
+2)visiting Microsoft&#039;s website to download IE 6--&gt;http://www.microsoft.com/windows/ie/ie6/downloads/default.mspx 
+You can also check out probably a later version if you interested. the page covers updates etc 
+
+Hope this helps.</ChosenAnswer>
+    <ChosenAnswererId>mIsa8bMgaa</ChosenAnswererId>
+    <ChosenAnswererNick>leigh j</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269044445</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269555247</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>U don&#039;t need to uninstall, i&#039;m not sure u can, but the reinstall of the version u wish to download will replace your currecnt install, that is to say it will uninstall it and give u ur fresh download. I wudnt recommend downloading version 6 because of compatability problems and also security problems but anyway the download will be on the microsoft site. www.microsoft.com just search for internet explorer 6</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OBemKKwoaa</UserId>
+            <UserNick>Scott A</UserNick>
+            <Date>2010-03-19 15:00:13</Date>
+            <Timestamp>1269036013</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>When you switched to Firefox you must have deleted some IE access options.
+
+Delete IE entirely and install the most recent IE.
+
+( My Firefox brings up all IE links with no problem.)  ????</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3YYgdNj0aa</UserId>
+            <UserNick>Kelle</UserNick>
+            <Date>2010-03-19 15:00:17</Date>
+            <Timestamp>1269036017</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You don&#039;t really need IE for even Microsoft/Windows Updates. 
+
+Go to Mozilla Add-On for Firefox and get the Coral IE Tab Add-On. With this you can have Firefox open sites in an IE tab and they will work great. I use this for my Microsoft/Windows Update and never have a problem. Any site only working with IE will work with this add on.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6L662JQRaa</UserId>
+            <UserNick>Bobby</UserNick>
+            <Date>2010-03-19 15:09:21</Date>
+            <Timestamp>1269036561</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You don&#039;t mention which version you have on there now...See if you can Reset IE to Defaults in Options, Advanced. You will want to download and  use at least IE7, because MS has or will soon, discontinue updates for IE6 and 6 is just not safe to use anymore...After you install 7, be sure to check MS Updates for any Updates. You should also use ccleaner and restart PC.</Content>
+            <Reference>http://www.ccleaner.com/</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-19 15:11:38</Date>
+            <Timestamp>1269036698</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I concur your statement concerning  certain sites requiring IE to access them. If IE is having issues, I would advise 
+1) installing back the particular component from your XP CD or by 
+2)visiting Microsoft&#039;s website to download IE 6--&gt;http://www.microsoft.com/windows/ie/ie6/downloads/default.mspx 
+You can also check out probably a later version if you interested. the page covers updates etc 
+
+Hope this helps.</Content>
+            <Reference>me.</Reference>
+            <Best>5</Best>
+            <UserId>mIsa8bMgaa</UserId>
+            <UserNick>leigh j</UserNick>
+            <Date>2010-03-19 17:20:45</Date>
+            <Timestamp>1269044445</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:50 PDT 2010 -->

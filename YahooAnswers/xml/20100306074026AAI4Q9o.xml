@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306074026AAI4Q9o" type="Answered">
+    <Subject>Is firefox messing up for anyone else?</Subject>
+    <Content>lately it just randomly goes into the &quot;Not responding&quot; mood for like 10 seconds. Then goes back to normal. Its getting annoying =/
+</Content>
+    <Date>2010-03-06 07:40:26</Date>
+    <Timestamp>1267890026</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306074026AAI4Q9o</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BIIJLpOuaa</UserId>
+    <UserNick>EaterofSouls101</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b832c46i1491zul5re4/Ngy61ew0erLcC5p80GfucJNjHQYxA5w-/1/tn48.jpg?ciAAToMBspYaDgJe</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>So scan for malware</ChosenAnswer>
+    <ChosenAnswererId>3LHsCLVFaa</ChosenAnswererId>
+    <ChosenAnswererNick>vulcan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267890113</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268494347</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>So scan for malware</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3LHsCLVFaa</UserId>
+            <UserNick>vulcan</UserNick>
+            <Date>2010-03-06 07:41:53</Date>
+            <Timestamp>1267890113</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:49:34 PDT 2010 -->

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228194716AALINeY" type="Answered">
+    <Subject>Internet Explorer Malfuction? Please help.?</Subject>
+    <Content>Ok, so. When I signed on my computer after being out tonight my back/ forward buttons were missing. So were all of my other tool bars but i managed to get them back easily. But, how do i get my back/ forward button back? please help.
+
+P.S. I already tried the &quot;F11&quot; fix.
+</Content>
+    <Date>2010-02-28 19:47:16</Date>
+    <Timestamp>1267415236</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228194716AALINeY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eOVodFQ3aa</UserId>
+    <UserNick>Tyler</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Reset IE8 to Default in Options, Advanced...I would also run Malwarebytes, ccleaner and restart PC...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267416239</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267483222</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Reset IE8 to Default in Options, Advanced...I would also run Malwarebytes, ccleaner and restart PC...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/ccleaner/?tag=mncol</Reference>
+            <Best>3</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-28 20:03:59</Date>
+            <Timestamp>1267416239</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:34:50 PDT 2010 -->

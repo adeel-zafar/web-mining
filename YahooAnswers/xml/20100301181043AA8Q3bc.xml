@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301181043AA8Q3bc" type="Answered">
+    <Subject>I keep losing Internet connection?</Subject>
+    <Content>I own a 64bit HP Limited DV series laptop pavilion which had Vista as an original OS. Recently I completely restored my computer with Windows 7...(had to, i had another issue that upgrading wouldnt have fixed so I restored it completely with win7). My issue now is that I cant stay connected to the internet...its seems like the more I access internet wise e.g. several tabs open, several youtube videos loading etc. the more often it loses connectivity. I diagnose the problem and it comes back always saying its the &quot;Default Gateway is not available&quot;(a device that connects a local network or computer to a network. A broadband modem or router is usually the default gateway). So how do I fix this and what exactly is that??? Because I cant download an excessive amount of mbps or else it will trigger limited connectivity which is NO Internet connection!
+</Content>
+    <Date>2010-03-01 18:10:43</Date>
+    <Timestamp>1267495843</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301181043AA8Q3bc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CeBVY1VQaa</UserId>
+    <UserNick>ʂʈɒɳ</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I would check with the geeks at craigslist Computer Discussion Forum...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267499378</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268015201</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I would check with the geeks at craigslist Computer Discussion Forum...</Content>
+            <Reference>http://www.craigslist.org/about/sites</Reference>
+            <Best>5</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-01 19:09:38</Date>
+            <Timestamp>1267499378</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:29:24 PDT 2010 -->

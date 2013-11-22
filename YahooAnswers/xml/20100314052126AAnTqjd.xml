@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314052126AAnTqjd" type="Answered">
+    <Subject>What is PHP warning??!?</Subject>
+    <Content>Every time I try to open page I get this:
+
+PHP Warning: include(classes/box.php) [function.include]: failed to open stream: No such file or directory in D:\websites\ukwwwroot\product.php on line 50 PHP Warning: include() [function.include]: Failed opening &#039;classes/box.php&#039; for inclusion (include_path=&#039;C:\php528nts\pear;d:\websites\ukwwwroot&#039;) in D:\websites\ukwwwroot\product.php on line 50 PHP Warning: include(classes/category.php) [function.include]: failed to open stream: No such file or directory in D:\websites\ukwwwroot\product.php on line 51 PHP Warning: include() [function.include]: Failed opening &#039;classes/category.php&#039; for inclusion (include_path=&#039;C:\php528nts\pear;d:\websites\ukwwwroot&#039;) in D:\websites\ukwwwroot\product.php on line 51 PHP Warning: include(includes/functions/language_functions.inc.php) [function.include]: failed to open stream: No such file or directory in D:\websites\ukwwwroot\product.php on line 58 PHP Warning: include() [function.include]: Failed opening &#039;includes/functions/language_functions.inc.php&#039; for inclusion (include_path=&#039;C:\php528nts\pear;d:\websites\ukwwwroot&#039;) in D:\websites\ukwwwroot\product.php on line 58
+</Content>
+    <Date>2010-03-14 05:21:26</Date>
+    <Timestamp>1268569286</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314052126AAnTqjd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>YoqjpSnSaa</UserId>
+    <UserNick>Soy Boricua Como El Coqui</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1RNqamdNKAAIEXMGbXBQq-n4B.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Server side scripting is &#039;broken&#039; .. I would guess the site you are visiting is &#039;under construction&#039; and the owner has left it in a non-working state .. 
+
+By the look of it, the site code has been uploaded with &#039;absolute&#039; instead of &#039;relative&#039; path names .. (easy thing to do if you can&#039;t be bothered to pay for proper site maintenance)</ChosenAnswer>
+    <ChosenAnswererId>86e0fcff22774bed26d5e5f6773ca754aa</ChosenAnswererId>
+    <ChosenAnswererNick>Steve B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268824644</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269088546</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s because it cant find the file. Make sure the file exists in the relative path (so if D:\websites\ukwwwroot\classes\box.php) . If it fail, you can type the absolute path ( Like D:\websites\ukwwwroot\product.php )
+Also, to verify the relative path, you can use the dir function in php to see if the path exists ( directory / and /classes )
+
+Seeing the source can help me to help you ... !</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qinCoqtEaa</UserId>
+            <UserNick>Jeanfrancois</UserNick>
+            <Date>2010-03-14 17:57:52</Date>
+            <Timestamp>1268614672</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Server side scripting is &#039;broken&#039; .. I would guess the site you are visiting is &#039;under construction&#039; and the owner has left it in a non-working state .. 
+
+By the look of it, the site code has been uploaded with &#039;absolute&#039; instead of &#039;relative&#039; path names .. (easy thing to do if you can&#039;t be bothered to pay for proper site maintenance)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>86e0fcff22774bed26d5e5f6773ca754aa</UserId>
+            <UserNick>Steve B</UserNick>
+            <Date>2010-03-17 04:17:24</Date>
+            <Timestamp>1268824644</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:00:31 PDT 2010 -->

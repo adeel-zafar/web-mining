@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224204822AA7i6mb" type="Answered">
+    <Subject>I just got banned fomr the internet?</Subject>
+    <Content>how do i get unbaned, i am using a freinds computers to type this
+</Content>
+    <Date>2010-02-24 20:48:22</Date>
+    <Timestamp>1267073302</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224204822AA7i6mb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dz5PxhLzaa</UserId>
+    <UserNick>mykhail</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>:O You never go back. Also, just send the internet an apology letter and promise not to download so many illegal movies and porn. I bet that sucker will believe you.</ChosenAnswer>
+    <ChosenAnswererId>BfAz7xmhaa</ChosenAnswererId>
+    <ChosenAnswererNick>Luis N</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267073413</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267146207</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Call your Internet Service Provider.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>COZGF7bEaa</UserId>
+            <UserNick>Brandon</UserNick>
+            <Date>2010-02-24 20:49:50</Date>
+            <Timestamp>1267073390</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>:O You never go back. Also, just send the internet an apology letter and promise not to download so many illegal movies and porn. I bet that sucker will believe you.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BfAz7xmhaa</UserId>
+            <UserNick>Luis N</UserNick>
+            <Date>2010-02-24 20:50:13</Date>
+            <Timestamp>1267073413</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you did not give any information on why and who banned you</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-02-24 20:51:03</Date>
+            <Timestamp>1267073463</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr 21 01:16:34 PDT 2010 -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319074022AAPgCCB" type="Answered">
+    <Subject>why is this thing hapenning?</Subject>
+    <Content>on this website www.hayag.com  uh i cant watch anything the screen is black not my screen but like the little screen where you would watch the video what can i do?
+i&#039;m using google chrome
+</Content>
+    <Date>2010-03-19 07:40:22</Date>
+    <Timestamp>1269009622</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319074022AAPgCCB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yI6ljr7iaa</UserId>
+    <UserNick>person</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Which Browser are you using. If it&#039;s IE or Firefox, download flash player.</ChosenAnswer>
+    <ChosenAnswererId>a1dbccd39e8c32d3b8bc2e5021ce4b6baa</ChosenAnswererId>
+    <ChosenAnswererNick>Dinesh Peter</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269009814</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269891974</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Which Browser are you using. If it&#039;s IE or Firefox, download flash player.</Content>
+            <Reference>http://rds.yahoo.com/_ylt=A0geu8d6jaNLjS8AhjBXNyoA;_ylu=X3oDMTByMTNuNTZzBHNlYwNzcgRwb3MDMgRjb2xvA2FjMgR2dGlkAw--/SIG=1259cj4gl/EXP=1269096186/**http%3a//www.adobe.com/downloads/%3fogn=EN_US-gn_dl</Reference>
+            <Best>5</Best>
+            <UserId>a1dbccd39e8c32d3b8bc2e5021ce4b6baa</UserId>
+            <UserNick>Dinesh Peter</UserNick>
+            <Date>2010-03-19 07:43:34</Date>
+            <Timestamp>1269009814</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:26 PDT 2010 -->

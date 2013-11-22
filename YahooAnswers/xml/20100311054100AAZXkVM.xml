@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311054100AAZXkVM" type="Answered">
+    <Subject>how to use twitter and how to make friends in that?</Subject>
+    <Content>I am new in twwiter,so how to use it.
+</Content>
+    <Date>2010-03-11 05:41:00</Date>
+    <Timestamp>1268314860</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311054100AAZXkVM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AvXaQ4ihaa</UserId>
+    <UserNick>Nikki</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Just follow the instructions...find your friends and follow them. It&#039;ll be easy</ChosenAnswer>
+    <ChosenAnswererId>wMl8qJPSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Futures best</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268484045</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268830513</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just follow the instructions...find your friends and follow them. It&#039;ll be easy</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wMl8qJPSaa</UserId>
+            <UserNick>Futures best</UserNick>
+            <Date>2010-03-13 04:40:45</Date>
+            <Timestamp>1268484045</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:14:00 PDT 2010 -->

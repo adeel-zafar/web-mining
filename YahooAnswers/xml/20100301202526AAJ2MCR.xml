@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301202526AAJ2MCR" type="Answered">
+    <Subject>what does mean this :&#039;-( mean?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-01 20:25:26</Date>
+    <Timestamp>1267503926</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301202526AAJ2MCR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rjBweIn0aa</UserId>
+    <UserNick>dirah2002</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1l3_g1hVpAAED-AFaII7OUUkqS3RRV6oM.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Typically it is a crying frowny face.</ChosenAnswer>
+    <ChosenAnswererId>gj86YTRHaa</ChosenAnswererId>
+    <ChosenAnswererNick>Poui</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267504008</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268679834</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Typically it is a crying frowny face.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gj86YTRHaa</UserId>
+            <UserNick>Poui</UserNick>
+            <Date>2010-03-01 20:26:48</Date>
+            <Timestamp>1267504008</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>its a crying face
+the : is the eyes the &#039; is a tear and the - is a nose and the ( is a sad mouth
+:&#039;-(</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RM50dJEkaa</UserId>
+            <UserNick>Shortmousie</UserNick>
+            <Date>2010-03-01 20:29:23</Date>
+            <Timestamp>1267504163</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:28:33 PDT 2010 -->

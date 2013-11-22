@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330053801AARq4Xz" type="Answered">
+    <Subject>Can my school access my chat/internet history?</Subject>
+    <Content>If I use yahoo messenger while at school, using the school&#039;s wireless internet, can the school access my chat history and current conversations? How likely is it that there is someone reading what I write?  What about the things I look up on the internet while at school - can the school see that too? Is it possible for them to access my IM conversations if they take place when I&#039;m at home? 
+
+Even though there isn&#039;t really anything I want to hide from them, I&#039;m not especially comfortable with the idea of my internet use being monitored. 
+
+To what extent can a school (or other organisation) see what I do online?
+Thanks everyone for your advice. I use my own laptop.
+</Content>
+    <Date>2010-03-30 05:38:01</Date>
+    <Timestamp>1269952681</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330053801AARq4Xz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yKg9dckAaa</UserId>
+    <UserNick>dreamer</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Ei3zPtoTAAED0gWKnbN15yPhKw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>11</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you&#039;re using their computers they can go so far as to see your screen remotly.
+
+If you&#039;re using your own laptop, they can still see what sites you access but would take advanced skills to see what you&#039;re typing by using a packet sniffer/monitor.</ChosenAnswer>
+    <ChosenAnswererId>dHK9odLSaa</ChosenAnswererId>
+    <ChosenAnswererNick>TechGuru</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269952863</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270129467</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, they can... they own the computers. But rarely will they do this... too much traffic: needles in haystacks.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4HoVVCenaa</UserId>
+            <UserNick>crazy8eddie</UserNick>
+            <Date>2010-03-30 05:40:23</Date>
+            <Timestamp>1269952823</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes they eventually can do that. Read the IT and Computer Lab rules given 2 you. This done by security purposes, in case something goes awry...take care.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8bdb26ef852ec6badaf14eb086e49875aa</UserId>
+            <UserNick>Edgar C</UserNick>
+            <Date>2010-03-30 05:40:50</Date>
+            <Timestamp>1269952850</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you&#039;re using their computers they can go so far as to see your screen remotly.
+
+If you&#039;re using your own laptop, they can still see what sites you access but would take advanced skills to see what you&#039;re typing by using a packet sniffer/monitor.</Content>
+            <Reference>I am a network administrator.</Reference>
+            <Best>5</Best>
+            <UserId>dHK9odLSaa</UserId>
+            <UserNick>TechGuru</UserNick>
+            <Date>2010-03-30 05:41:03</Date>
+            <Timestamp>1269952863</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If they have it set up to do so, they could have any number of key loggers or other monitoring software installed on the computers - and for all intents and purposes it&#039;s perfectly legal. After all, the computers are theirs.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>9xpxFraOaa</UserId>
+            <UserNick>Digital_Utopia</UserNick>
+            <Date>2010-03-30 05:41:59</Date>
+            <Timestamp>1269952919</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>well, seeing what you do online, they can pretty much see everything you type into a search engine, as for using yahoo messenger with wifi, if someone duz check they can see that you are using the wifi, but they most probably wouldnt be reading everything your talking about. And as for IM conversations that are done at home they cant see any of that.</Content>
+            <Reference>studying i.t.</Reference>
+            <Best></Best>
+            <UserId>8sEGwIt4aa</UserId>
+            <UserNick>BigSmoke101</UserNick>
+            <Date>2010-03-30 05:42:02</Date>
+            <Timestamp>1269952922</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If its there internet that you are using they can and WILL see everything and by law GOOD because its there&#039;s..........you would like to know whats happening with something thats yours.......
+And NO they cant go so far as to read you chat while you are at home, only when you are chatting on THERE internet.......</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>db6796fbc769952ff6593e0d3219cf68aa</UserId>
+            <UserNick>daniellestig</UserNick>
+            <Date>2010-03-30 05:42:19</Date>
+            <Timestamp>1269952939</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Possible, but unlikely. The admins usually have better things to do.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NvJTuf8naa</UserId>
+            <UserNick>Meh</UserNick>
+            <Date>2010-03-30 05:42:44</Date>
+            <Timestamp>1269952964</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The school&#039;s IT department should not interfere in someone&#039;s privacy, they can know if you&#039;re connecting to yahoo, msn or any website in general. But usually IM, emails and communication stuff are encrypted so that even if someone is attempting to use packet sniffing on the network to see the in-going and out-going data packets from your computer to the school&#039;s router, he&#039;d find the packets encrypted and decrypting them would take him big time and effort that probably he&#039;ll not be interested to do it for each single message you send.
+
+So it might be easy to know that you&#039;re browsing a certain website, but if you&#039;re interacting with a website or a webservice, it&#039;ll take a lot of work to find out what you&#039;re doing. However it is possible, but who ever has the time and skill to do it, will probably target someone other than a girl chatting with her friends at a school</Content>
+            <Reference>Computer Engineering student</Reference>
+            <Best></Best>
+            <UserId>VDWNVh7faa</UserId>
+            <UserNick>khamis0o</UserNick>
+            <Date>2010-03-30 05:47:16</Date>
+            <Timestamp>1269953236</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Most schools do have a policy against using personal accounts on school computers, and if you have your password saved (so you sign in automatically) they technically could, yes. I would advise not using Yahoo during school time, but maybe finding a forum you can post anonymously on without logging in just for you &amp; your friends. 
+So...
+1. Possibly. It depends on settings you have saved on your account.
+2. Not very likely, but you shouldn&#039;t really be on IM at school anyway. Use your phone or something instead.
+3. The school can see what you have been searching for definite, and will probably be monitoring every pupil for anti-bullying reasons etc.
+4. If you have your password saved and the &#039;chat log&#039; auto computer save on, yep.
+
+Just use the school internet for what it is meant for and keep personal stuff for at home, then you&#039;ll be fine.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4cDCLsasaa</UserId>
+            <UserNick>Beth</UserNick>
+            <Date>2010-03-30 05:47:26</Date>
+            <Timestamp>1269953246</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>they cant. and they dont.
+even if they get to ur computer, they cant access chat conversations</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>C0daJzN8aa</UserId>
+            <UserNick>sicksycle</UserNick>
+            <Date>2010-03-30 05:51:10</Date>
+            <Timestamp>1269953470</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>They can only see the URL of the websites you visited. They cannot monitor your screen unless you are wired into the system (ethernet). If it is a school issued laptop, then they most likely can monitor your screen. They are only allowed to access your personal files and archives if the police/FBI are involved and they feel the legal need to search them.</Content>
+            <Reference>Personal Knowledge</Reference>
+            <Best></Best>
+            <UserId>AA12389558</UserId>
+            <UserNick>Walter</UserNick>
+            <Date>2010-03-30 06:39:11</Date>
+            <Timestamp>1269956351</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:27 PDT 2010 -->

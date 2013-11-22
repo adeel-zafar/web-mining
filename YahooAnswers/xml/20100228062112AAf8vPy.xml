@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228062112AAf8vPy" type="Answered">
+    <Subject>help plz! on my computer when i go on the internet like yahoo answers n that..........?</Subject>
+    <Content>the writing is normal then i go on facebook n its massive it like its doubled in size. hoq do i get my writing back to normal????
+</Content>
+    <Date>2010-02-28 06:21:12</Date>
+    <Timestamp>1267366872</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228062112AAf8vPy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>29VFEZo9aa</UserId>
+    <UserNick>its me</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I don&#039;t know why one site would be different than others, but you can always change it by pressing Ctrl and either the down arrow or scrolling down on the mouse wheel.
+
+Or you can reset it in your browser by clicking on View and choosing 100%.</ChosenAnswer>
+    <ChosenAnswererId>y3iKcyPGaa</ChosenAnswererId>
+    <ChosenAnswererNick>S.K.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267367077</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268007823</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I don&#039;t know why one site would be different than others, but you can always change it by pressing Ctrl and either the down arrow or scrolling down on the mouse wheel.
+
+Or you can reset it in your browser by clicking on View and choosing 100%.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>y3iKcyPGaa</UserId>
+            <UserNick>S.K.</UserNick>
+            <Date>2010-02-28 06:24:37</Date>
+            <Timestamp>1267367077</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can hold down CTRL and roll the mouse wheel up and down to make your text any size you desire. Also you can hit F11 to go full page.</Content>
+            <Reference>Computer Tech</Reference>
+            <Best></Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-02-28 06:28:59</Date>
+            <Timestamp>1267367339</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:39:07 PDT 2010 -->

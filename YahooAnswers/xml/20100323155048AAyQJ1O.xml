@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323155048AAyQJ1O" type="Answered">
+    <Subject>Really Bad Virus?? Help?</Subject>
+    <Content>Okay my parents computer has a really bad virus. It won&#039;t let them get into any files on their computer and this little box keeps popping up saying that it has a virus on the computer and it will open their internet to a website for an anti-virus. And whenever they try to go online it will bring them to a anti-virus site and won&#039;t let them look up anything else but that. They do have Avast Anti-Virus but the virus has taken over it so it stopped working. How can i get rid of the virus? Thanks!
+
+Well it will keep saying that there is a Virus,Malware, and Spyware on the computer. We got our computer into safe mode and it seems to be working now but we can&#039;t get onto the internet. I did click on the safe mode with the internet. So i don&#039;t know why it won&#039;t let us. I will keep trying to find out what it is. But will avast scan the whole computer in safe mode?
+</Content>
+    <Date>2010-03-23 15:50:48</Date>
+    <Timestamp>1269384648</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323155048AAyQJ1O</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dCV1IV0saa</UserId>
+    <UserNick>Facebook</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269436947</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269437300</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>HEADS UP: Do not take it to Geek Squad. What you&#039;ll probably have to do is get a 100GB drive, plug it into your computer, and get your information off of it. Then you&#039;ll have to reformat. Go to a local computer guy or whatever and ask him about it. Hopefully he can fix it. I know viruses are a big hassle, but don&#039;t panic and spend 300 dollars.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lWWSwh4Xaa</UserId>
+            <UserNick>Jake</UserNick>
+            <Date>2010-03-23 15:54:32</Date>
+            <Timestamp>1269384872</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>SmithRem is the healer, man!
+Download SmithRem from google or where ever you want. Remember its free but dam does everything that a 500 dollar antivirus doesnt.
+
+After unpacking SmithRem, go to safemode and then run SmithRem in safe mode, and follow the instructions. after that wait until SmithRem do its job.
+I Promise SmithRem is the program where can solve your problem, coz your browser is hijacked!
+
+Here is SmithRem Toturial
+http://www.pchell.com/support/smitremtutorial.shtml
+
+and here where you can download Free SmithRem
+http://www.brothersoft.com/smitrem-212075.html
+
+ENJOY!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10604917</UserId>
+            <UserNick>Mr.Nice Guy</UserNick>
+            <Date>2010-03-23 16:49:08</Date>
+            <Timestamp>1269388148</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i have used SpyNoMore,it can found every kelogger that the common antivirus can&#039;t found and uninstalled,i feel so good ,maybe you can try it
+
+http://www.mobi32.com/Other-Software/Other_Tools/SpyNoMore.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>U3A3Yf0taa</UserId>
+            <UserNick>Ffffi D</UserNick>
+            <Date>2010-03-24 00:37:34</Date>
+            <Timestamp>1269416254</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-24 06:22:27</Date>
+            <Timestamp>1269436947</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:36 PDT 2010 -->

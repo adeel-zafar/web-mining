@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227100226AA7ZERl" type="Answered">
+    <Subject>Which is better for playing 4od on, Firefox or Safari?</Subject>
+    <Content>I have leopard 10. something on a mac powerbook G4 so it&#039;s pretty old :s
+I am downloading the newest versions of both firefox and safari.
+4od is all jumpy and stoppy, what would help this and which would be better?
+x
+</Content>
+    <Date>2010-02-27 10:02:26</Date>
+    <Timestamp>1267293746</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227100226AA7ZERl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IIDKXbiOaa</UserId>
+    <UserNick>JamGirl</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You might find Firefox more effective. It is lighter weight than Safari.</ChosenAnswer>
+    <ChosenAnswererId>EEZv5hnCaa</ChosenAnswererId>
+    <ChosenAnswererNick>pug106man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267389245</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267813376</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You might find Firefox more effective. It is lighter weight than Safari.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EEZv5hnCaa</UserId>
+            <UserNick>pug106man</UserNick>
+            <Date>2010-02-28 12:34:05</Date>
+            <Timestamp>1267389245</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:44:39 PDT 2010 -->

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222092403AAiOlOd" type="Answered">
+    <Subject>Ebay buy it now option?</Subject>
+    <Content>I am new to Ebay and I wanted to figure out how to do the &quot;buy it now&quot; option on the items i am selling. 
+
+Please help! Thanks!
+I am selling items on ebay.. not purchasing. I want to have the buy it now price on there instead of bidding
+</Content>
+    <Date>2010-02-22 09:24:03</Date>
+    <Timestamp>1266859443</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222092403AAiOlOd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dIyJtNslaa</UserId>
+    <UserNick>KSTinkerbell</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>At Ebay &quot;Sell&quot; module - on the Create Your Listing page will be an option “Choose how to sell your item”.
+
+You’ll see 2 tabs, one for online auction, and one for fixed price. Click “fixed price”, and you’ll see the Buy It Now box.</ChosenAnswer>
+    <ChosenAnswererId>nznc8zaxaa</ChosenAnswererId>
+    <ChosenAnswererNick>Angiel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266860407</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266945908</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you have the money to pay for the item, you simply click on the &quot;buy it now&quot; button, fill in the payment (either paypal, or sometimes credit card) and you will have paid for the item.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>l8sFb9YVaa</UserId>
+            <UserNick>Will</UserNick>
+            <Date>2010-02-22 09:28:36</Date>
+            <Timestamp>1266859716</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>At Ebay &quot;Sell&quot; module - on the Create Your Listing page will be an option “Choose how to sell your item”.
+
+You’ll see 2 tabs, one for online auction, and one for fixed price. Click “fixed price”, and you’ll see the Buy It Now box.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nznc8zaxaa</UserId>
+            <UserNick>Angiel</UserNick>
+            <Date>2010-02-22 09:40:07</Date>
+            <Timestamp>1266860407</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:28:12 PDT 2010 -->

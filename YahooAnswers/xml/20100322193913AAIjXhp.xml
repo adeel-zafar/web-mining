@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322193913AAIjXhp" type="Answered">
+    <Subject>My router kicks me off?</Subject>
+    <Content>I have a WRT110 router and since i have bought it, it has been kicking me off every time someone else with a computer in my house signs on.  It does not regain connection until almost fifteen minutes later.   I have already called my problem in but i received no answer to my problem, if someone can please help me i would be grateful Thank you so much
+</Content>
+    <Date>2010-03-22 19:39:13</Date>
+    <Timestamp>1269311953</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322193913AAIjXhp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0Piv1FDwaa</UserId>
+    <UserNick>Tyler</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>its called: high latency issues. or possibly to much bandwith going through that router, i had the same problem, and from my expierence, i went and bought a new one. guess what? no more disconnections, at all, unless i unplugged the router (lol) but basically you need a new router, no joke. it also might be because your router doesnt recognize the other computer connected, and disconnects frequently.</ChosenAnswer>
+    <ChosenAnswererId>oEXp6VLdaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269314856</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269370473</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>its called: high latency issues. or possibly to much bandwith going through that router, i had the same problem, and from my expierence, i went and bought a new one. guess what? no more disconnections, at all, unless i unplugged the router (lol) but basically you need a new router, no joke. it also might be because your router doesnt recognize the other computer connected, and disconnects frequently.</Content>
+            <Reference>knowledge is power</Reference>
+            <Best>5</Best>
+            <UserId>oEXp6VLdaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-22 20:27:36</Date>
+            <Timestamp>1269314856</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:43 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303061742AAzyjDZ" type="Answered">
+    <Subject>The website chat-avenue won&#039;t work on my netbook is there a way i can fix this?</Subject>
+    <Content>I wasn&#039;t banned from the site but the first time i tried to log onto it, it wouldn&#039;t work and still doesn&#039;t.
+</Content>
+    <Date>2010-03-03 06:17:42</Date>
+    <Timestamp>1267625862</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303061742AAzyjDZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JfnR9YkIaa</UserId>
+    <UserNick>glamorousone06</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1pCFHsnOpAAEFnyKcqDKn-LcBNw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Use the site&#039;s support option</ChosenAnswer>
+    <ChosenAnswererId>2LbTrlQnaa</ChosenAnswererId>
+    <ChosenAnswererNick>JIM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267625990</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268145284</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use the site&#039;s support option</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-03 06:19:50</Date>
+            <Timestamp>1267625990</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:19:29 PDT 2010 -->

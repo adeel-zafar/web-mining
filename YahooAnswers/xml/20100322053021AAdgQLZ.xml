@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322053021AAdgQLZ" type="Answered">
+    <Subject>How do I stop the green links that take you to play sushi from appearing?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-22 05:30:21</Date>
+    <Timestamp>1269261021</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322053021AAdgQLZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KC0f4u7oaa</UserId>
+    <UserNick>blutic11</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Use MalwareBytes or a similar program to remove any malicious code, then in the future, keep track of what you look at and download.</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269606392</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269780218</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use MalwareBytes or a similar program to remove any malicious code, then in the future, keep track of what you look at and download.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>Legion</UserNick>
+            <Date>2010-03-26 05:26:32</Date>
+            <Timestamp>1269606392</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:54 PDT 2010 -->

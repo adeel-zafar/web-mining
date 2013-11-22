@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302184128AAzDuPG" type="Answered">
+    <Subject>Internet on i-Touch isn&#039;t working?</Subject>
+    <Content>I have had my iTouch now for 3 months, and the internet has worked all three months. For some reason though, tonight it is saying it is connected, but is not working. Anyone know how to fix this? I&#039;ve already restarted it, and reset al of the settings.
+</Content>
+    <Date>2010-03-02 18:41:28</Date>
+    <Timestamp>1267584088</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302184128AAzDuPG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eZwUNMXxaa</UserId>
+    <UserNick>Sami</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1aapHiPW-AAEDcSOcrJjVGYsB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>contact your provider</ChosenAnswer>
+    <ChosenAnswererId>jbQpLl5jaa</ChosenAnswererId>
+    <ChosenAnswererNick>Deevil</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267584221</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268103338</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>contact your provider</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>jbQpLl5jaa</UserId>
+            <UserNick>Deevil</UserNick>
+            <Date>2010-03-02 18:43:41</Date>
+            <Timestamp>1267584221</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>first off, its called an ipod touch, not itouch; there&#039;s no such thing as an itouch
+
+
+it may not be your ipod touch that is the problem; but your router.  unplug your router, wait 30 seconds, then plug it back in.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>S6wsxOriaa</UserId>
+            <UserNick>xforever</UserNick>
+            <Date>2010-03-02 18:44:51</Date>
+            <Timestamp>1267584291</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try resetting your wifi at the router. Mine frequently stops working, and resetting it lets me connect.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>mAC5fJj0aa</UserId>
+            <UserNick>Connor</UserNick>
+            <Date>2010-03-02 18:46:07</Date>
+            <Timestamp>1267584367</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:02 PDT 2010 -->

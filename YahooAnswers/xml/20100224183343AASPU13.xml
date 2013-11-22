@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224183343AASPU13" type="Answered">
+    <Subject>Internet Explorer: opening a new tab.?</Subject>
+    <Content>i got my internet explorer reseted and everything and when i open a new tab it doesnt open my homepage, instead it opens this thing &quot;You&#039;ve opened a new tab&quot;. can anyone help me make it my hompage instead of that. ty ^_^
+</Content>
+    <Date>2010-02-24 18:33:43</Date>
+    <Timestamp>1267065223</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224183343AASPU13</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gPlTeVRAaa</UserId>
+    <UserNick>微笑</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi! I use Internet Explorer as well. You&#039;ll see somewhere at the top of the page &quot;Tools.&quot; Click this, and a menu should drop down. Now, click on &quot;Internet Options.&quot; First it&#039;ll have your home page options. If you haven&#039;t already, type in whatever page you want your home page to be. Somewhere below that you&#039;ll see the subtitle &quot;Tabs.&quot; Click &quot;Settings&quot; on the right of that and it&#039;ll open up another window. You&#039;ll then see something that says, &quot;When a new tab is opened, open:&quot; and then a drop-down menu. Click on this and select the home page option. I hope I helped! If this isn&#039;t working (I may be using a different version), let me know and I&#039;ll correct it right away. Also, feel free to send me a message if you have any other questions.
+
+Edit: Zorro is right. I guess I just took longer to explain it haha. Uhm, I please pick me for best answer? (Yes, I&#039;m aware that asking to be chosen for best answer would probably lessen my chances of being chosen for best answer, but what the heck. I wanna keep my best answer thing at 100%.)  (:
+
+Edit#2: MyDigitalDeals is incorrect. The homepage option is just to change your default homepage, it doesn&#039;t affect how a tab opens. However, if you&#039;d like more than one tab to open whenever you go to your homepage (for example, you could have Google open and then have another open tab that&#039;s, let&#039;s say, YouTube), type in your main homepage (the one you want to open first), then go to next line (Enter/Return) and type in whatever other tab(s) you want open. You can have many if you&#039;d like. :D (If my explanation is at all confusing, feel free to let me know and I&#039;ll try to explain it as simply as possible.</ChosenAnswer>
+    <ChosenAnswererId>2L9phnTYaa</ChosenAnswererId>
+    <ChosenAnswererNick>Samantha</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267065956</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267584810</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>In internet explorer go tools&gt;internet options&gt; under tabs select settings. Then under When new tab is opened select your first home page.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bUKJmguuaa</UserId>
+            <UserNick>Zorro</UserNick>
+            <Date>2010-02-24 18:42:13</Date>
+            <Timestamp>1267065733</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Tools -&gt; Internet Options -&gt; Homepage</Content>
+            <Reference>http://www.microsoft.com/windows/ie/ie6/using/howto/customizing/prsonalizehmpg.mspx</Reference>
+            <Best></Best>
+            <UserId>RUYBDfDEaa</UserId>
+            <UserNick>MyDigitalDeals</UserNick>
+            <Date>2010-02-24 18:42:54</Date>
+            <Timestamp>1267065774</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi! I use Internet Explorer as well. You&#039;ll see somewhere at the top of the page &quot;Tools.&quot; Click this, and a menu should drop down. Now, click on &quot;Internet Options.&quot; First it&#039;ll have your home page options. If you haven&#039;t already, type in whatever page you want your home page to be. Somewhere below that you&#039;ll see the subtitle &quot;Tabs.&quot; Click &quot;Settings&quot; on the right of that and it&#039;ll open up another window. You&#039;ll then see something that says, &quot;When a new tab is opened, open:&quot; and then a drop-down menu. Click on this and select the home page option. I hope I helped! If this isn&#039;t working (I may be using a different version), let me know and I&#039;ll correct it right away. Also, feel free to send me a message if you have any other questions.
+
+Edit: Zorro is right. I guess I just took longer to explain it haha. Uhm, I please pick me for best answer? (Yes, I&#039;m aware that asking to be chosen for best answer would probably lessen my chances of being chosen for best answer, but what the heck. I wanna keep my best answer thing at 100%.)  (:
+
+Edit#2: MyDigitalDeals is incorrect. The homepage option is just to change your default homepage, it doesn&#039;t affect how a tab opens. However, if you&#039;d like more than one tab to open whenever you go to your homepage (for example, you could have Google open and then have another open tab that&#039;s, let&#039;s say, YouTube), type in your main homepage (the one you want to open first), then go to next line (Enter/Return) and type in whatever other tab(s) you want open. You can have many if you&#039;d like. :D (If my explanation is at all confusing, feel free to let me know and I&#039;ll try to explain it as simply as possible.</Content>
+            <Reference>Source? My mind. ^_^</Reference>
+            <Best>5</Best>
+            <UserId>2L9phnTYaa</UserId>
+            <UserNick>Samantha</UserNick>
+            <Date>2010-02-24 18:45:56</Date>
+            <Timestamp>1267065956</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:12:04 PDT 2010 -->

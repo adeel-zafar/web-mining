@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320153048AAILW98" type="Answered">
+    <Subject>SLow internet connection sharing? why?? HELP please!?</Subject>
+    <Content>Hello i just set up a network at my house between my two pc&#039;s. One is windows 7 and the other windows XP. The problem is that i got internet running on both of them but the internet seems to have gotten much slower than usual. is this normal or could it be that the settings are messed up? i thought that when you do internet sharing it was supposed to be be at the same fast speed.
+</Content>
+    <Date>2010-03-20 15:30:48</Date>
+    <Timestamp>1269124248</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320153048AAILW98</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0EGNWwvQaa</UserId>
+    <UserNick>jonny</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I will guess that one of the computers is connected to the internet normally. eg. with a Ethernet cable to a modem.
+
+If it is the other computer that has slow internet it may be the way you have connected them, eg. via blue-tooth, remember that if any of the connections aren&#039;t very fast, the internet won&#039;t be fast either.
+
+Could you please provide more information? how they are connected and which computers have slow internet?</ChosenAnswer>
+    <ChosenAnswererId>nJso6Awuaa</ChosenAnswererId>
+    <ChosenAnswererNick>Olly E7</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269126583</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269643598</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I will guess that one of the computers is connected to the internet normally. eg. with a Ethernet cable to a modem.
+
+If it is the other computer that has slow internet it may be the way you have connected them, eg. via blue-tooth, remember that if any of the connections aren&#039;t very fast, the internet won&#039;t be fast either.
+
+Could you please provide more information? how they are connected and which computers have slow internet?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nJso6Awuaa</UserId>
+            <UserNick>Olly E7</UserNick>
+            <Date>2010-03-20 16:09:43</Date>
+            <Timestamp>1269126583</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:15 PDT 2010 -->

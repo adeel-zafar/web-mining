@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224125617AAN88AB" type="Answered">
+    <Subject>I recently blocked a site through my router, then unblocked it why can i still not access it?</Subject>
+    <Content>help please
+
+i have a lynksy router, and i have tried deleting my cookies
+</Content>
+    <Date>2010-02-24 12:56:17</Date>
+    <Timestamp>1267044977</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224125617AAN88AB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>58N166Jjaa</UserId>
+    <UserNick>OMGiTS;BETH</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1NJxChrB-AAEC4QSDDlI=.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It may be cached in your router. Try unplugging the power cable for 30 seconds, then plugging it back in. Go to the web interface and check if the site is still in the block list. If it is then remove it and make sure that you selected &quot;Update&quot; or &quot;Apply&quot;.
+
+Next you need to flush your DNS incase the site is still pointing to your router&#039;s block page.
+
+Follow the correct instructions for your OS (i.e. if you are using Windows XP only use the ones that i&#039;ve marked as Windows XP. For Windows Vista/7 use the ones I marked as Windows Vista): 
+
+Go to start-&gt;run (Windows XP)
+Click start then click in the find box (Windows Vista)
+
+Type in cmd
+
+Press enter (Windows XP)
+Right Click on cmd in the list and press Run as Administrator. Press YES on the popup box. (Windows Vista)
+
+Type in:
+ipconfig /flushdns
+--------
+If you are using a Mac, type Terminal in finder and press enter.
+Type in
+dscacheutil -flushcache
+Press enter
+--------
+Close all your internet browsers and try again.</ChosenAnswer>
+    <ChosenAnswererId>d17915423fc32a0b032214c6736982a8aa</ChosenAnswererId>
+    <ChosenAnswererNick>Thomas</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267045646</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267564499</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>because the internet host still recognizes it as blocked</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zRxyolLGaa</UserId>
+            <UserNick>Christian</UserNick>
+            <Date>2010-02-24 13:04:24</Date>
+            <Timestamp>1267045464</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It may be cached in your router. Try unplugging the power cable for 30 seconds, then plugging it back in. Go to the web interface and check if the site is still in the block list. If it is then remove it and make sure that you selected &quot;Update&quot; or &quot;Apply&quot;.
+
+Next you need to flush your DNS incase the site is still pointing to your router&#039;s block page.
+
+Follow the correct instructions for your OS (i.e. if you are using Windows XP only use the ones that i&#039;ve marked as Windows XP. For Windows Vista/7 use the ones I marked as Windows Vista): 
+
+Go to start-&gt;run (Windows XP)
+Click start then click in the find box (Windows Vista)
+
+Type in cmd
+
+Press enter (Windows XP)
+Right Click on cmd in the list and press Run as Administrator. Press YES on the popup box. (Windows Vista)
+
+Type in:
+ipconfig /flushdns
+--------
+If you are using a Mac, type Terminal in finder and press enter.
+Type in
+dscacheutil -flushcache
+Press enter
+--------
+Close all your internet browsers and try again.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>d17915423fc32a0b032214c6736982a8aa</UserId>
+            <UserNick>Thomas</UserNick>
+            <Date>2010-02-24 13:07:26</Date>
+            <Timestamp>1267045646</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>use 1 of the below
+
+musicweapon.info
+yahooisfun.info
+googleisfun.info
+newcampus.info
+oldcampus.info
+
+proxies get blocked very fast..to get Fresh Proxies right to 
+
+your mail
+ join the group
+http://tech.groups.yahoo.com/group/getaproxy/join</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lzTS24KQaa</UserId>
+            <UserNick>Web</UserNick>
+            <Date>2010-02-25 05:24:40</Date>
+            <Timestamp>1267104280</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:14:03 PDT 2010 -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310042417AA8fQXJ" type="Answered">
+    <Subject>What is the best place to share direct download files?</Subject>
+    <Content>As torrents are out I&#039;d like to find a place to post direct download links. I have been using http://tehparadox.com but I&#039;m not entirely thrilled with the ability (or inability) to sign up for a new account. I also don&#039;t think a forum type setup is the most friendly. (I have an account but want to use my TPB username and the register new account isn&#039;t working.)
+
+I like http://www.movies-megaupload.com/ but you can&#039;t share on it. 
+
+Does anyone have any suggestions for good sharing sites?
+</Content>
+    <Date>2010-03-10 04:24:17</Date>
+    <Timestamp>1268223857</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310042417AA8fQXJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA12007113</UserId>
+    <UserNick>I like pizza</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1gM53jNY0AAEC_oFHVJKYBA==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>oneddl is fairly good.</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268907877</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269085386</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>oneddl is fairly good.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>Legion</UserNick>
+            <Date>2010-03-18 03:24:37</Date>
+            <Timestamp>1268907877</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:20:12 PDT 2010 -->

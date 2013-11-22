@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324204454AAcyCri" type="Answered">
+    <Subject>Can you buy items at amazon with gift card balance?</Subject>
+    <Content>I&#039;m wondering if you can buy things at amazon with your gift card balance after you&#039;ve bought an item before already.
+Without putting credit card stuff in?
+</Content>
+    <Date>2010-03-24 20:44:54</Date>
+    <Timestamp>1269488694</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324204454AAcyCri</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9PUbDp0caa</UserId>
+    <UserNick>paul y</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1ICumRSgYAAEC_EGEFBJmZe7YnXRVsw==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>of course you can</ChosenAnswer>
+    <ChosenAnswererId>sGYPSyUwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Omnipotent W.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269488823</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270008312</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>of course you can</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>sGYPSyUwaa</UserId>
+            <UserNick>Omnipotent W.</UserNick>
+            <Date>2010-03-24 20:47:03</Date>
+            <Timestamp>1269488823</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:53 PDT 2010 -->

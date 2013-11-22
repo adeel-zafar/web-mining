@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309144727AAamgQy" type="Answered">
+    <Subject>Email Virus... Help please!?</Subject>
+    <Content>I opened an email and after opening it i released it was a virus. It was an email about a new iphone. That is all i read before closing my hotmail account. Im guessing its a virus... what will it do to my system? How do i get clear it from my system... please help!
+
+Oh... by the way... i do know the sender... thats the only reason i opened the email!
+</Content>
+    <Date>2010-03-09 14:47:27</Date>
+    <Timestamp>1268174847</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309144727AAamgQy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Xvy87j0kaa</UserId>
+    <UserNick>Queen Elizabeth</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268232812</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268233551</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Run a anti-virus scan on the computer, and change your email password and any other site that uses that password ... like now.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SvRXhbUWaa</UserId>
+            <UserNick>NinjaUK</UserNick>
+            <Date>2010-03-09 14:53:01</Date>
+            <Timestamp>1268175181</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>a worm actually attachs itself to an adress book then you receive an email from someone u know and trust it and open it and there u get a virus.
+
+AS LONG AS YOU ARE ON WINDOWS viruses trojan horses worms spyware will be a FACT OF LIFE if you want to be free of virus consider a beautiful mac will not be your last time with viruses
+
+in the meantime REINSTALL WINDOWS AND REFORMAT hard drive running an antivirus wont do any good now because the registry has been damaged
+
+GOOD LUK</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bmvo90OTaa</UserId>
+            <UserNick>Rickie</UserNick>
+            <Date>2010-03-09 15:07:46</Date>
+            <Timestamp>1268176066</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-10 06:53:32</Date>
+            <Timestamp>1268232812</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:23:54 PDT 2010 -->

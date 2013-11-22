@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321153719AA9cSNB" type="Answered">
+    <Subject>INTERNET CONNECTED, BUT BROWSING TROUGH EXPLORER WONT WORK. help plz!?</Subject>
+    <Content>My wireless internet connection is solid, but when i attempt to browse the internet trough internet explorer i get this messege. &quot;Internet Explorer cannot display the webpage&quot; i try the diagnostic help option, but it cant find a solution to the problem. I tried to access the web trough other programs, like REAL player, Chrome, and even safari, but same problem for all. But somehow Firefox was able to bypass the issue. i can access most of webpages, but i occasionally encounter the issue of not being able to connect to the website. i really dont know what to do, its been a week now, my antivirus cant connect to update database,msn says the service is temp. unavail. i just find it strange that all of a sudden a bunch of my apps are not working properly. the internet connection is excellent. I have vista, and IE 8
+</Content>
+    <Date>2010-03-21 15:37:19</Date>
+    <Timestamp>1269211039</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321153719AA9cSNB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cb2H7SOfaa</UserId>
+    <UserNick>Jenx D</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Google Chrome is your friend.</ChosenAnswer>
+    <ChosenAnswererId>CEo8Sgqyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269211108</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269755582</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Google Chrome is your friend.</Content>
+            <Reference>http://chrome.google.com/</Reference>
+            <Best>5</Best>
+            <UserId>CEo8Sgqyaa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-21 15:38:28</Date>
+            <Timestamp>1269211108</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>- Try uninstalling IE8 to IE 7 at control panel and thru hardware and programs- once uninstalling IE8 itll revert back to IE7- if this didnt work....
+- got to tools &gt; Internet options&gt; Advance &gt; reset or restore defaults.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>K0aZUCpCaa</UserId>
+            <UserNick>jaypee</UserNick>
+            <Date>2010-03-21 16:23:09</Date>
+            <Timestamp>1269213789</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:26:12 PDT 2010 -->

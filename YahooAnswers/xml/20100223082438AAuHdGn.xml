@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223082438AAuHdGn" type="Answered">
+    <Subject>my internet explorer wont work?</Subject>
+    <Content>When i click on internet explorer the page comes up and then it says &quot;internet explorer cannot display the  web page&quot; i can get onto Aol but not onto internet explorer.
+
+Can anyone help me?
+</Content>
+    <Date>2010-02-23 08:24:38</Date>
+    <Timestamp>1266942278</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223082438AAuHdGn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PUzGf0Riaa</UserId>
+    <UserNick>C</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try these methods to resolve the problem.
+1. Clear cached data in Internet Explorer
+2. Reset security settings for Internet Explorer
+3. Run Internet Explorer in &quot;No Add-Ons&quot; mode 
+4.  Reset Internet Explorer
+5. Use the Manage Add-ons tool to determine which add-on is causing the issue.
+6.Reset Internet Explorer settings
+http://support.microsoft.com/kb/936213
+For aditional  details ,  instructions and methods to resolve the problem.refer:
+http://support.microsoft.com/kb/956196</ChosenAnswer>
+    <ChosenAnswererId>AA10180216</ChosenAnswererId>
+    <ChosenAnswererNick>rkrkrameshrk</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266943313</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267461828</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try these methods to resolve the problem.
+1. Clear cached data in Internet Explorer
+2. Reset security settings for Internet Explorer
+3. Run Internet Explorer in &quot;No Add-Ons&quot; mode 
+4.  Reset Internet Explorer
+5. Use the Manage Add-ons tool to determine which add-on is causing the issue.
+6.Reset Internet Explorer settings
+http://support.microsoft.com/kb/936213
+For aditional  details ,  instructions and methods to resolve the problem.refer:
+http://support.microsoft.com/kb/956196</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10180216</UserId>
+            <UserNick>rkrkrameshrk</UserNick>
+            <Date>2010-02-23 08:41:53</Date>
+            <Timestamp>1266943313</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:21:54 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316210534AAcAeMT" type="Answered">
+    <Subject>whats the point of IE or Firefox offline mode?</Subject>
+    <Content>I know you can get around megavideo&#039;s time limit with it, but what else is it good for?
+</Content>
+    <Date>2010-03-16 21:05:34</Date>
+    <Timestamp>1268798734</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316210534AAcAeMT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oBfNqEDHaa</UserId>
+    <UserNick>ZeRo_cOoL</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Anytime you want to work on something say a project, you can open every page you need to work on it . It just allows you to work offline on your stuff and like you said, it keeps you from using someone&#039;s bandwidth for a long period of time. This keeps the site&#039;s you get your info from happy and because your not using any of their bandwidth and it is more secure for you to do this not being online</ChosenAnswer>
+    <ChosenAnswererId>GYdjJKgOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Wide Glide</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268799247</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269663795</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Some older computers used IE as a picture viewer, so someone without an internet connection could still use it for that purpose. Also, if your designing a website on a computer that doesn&#039;t have internet access (maybe a laptop while not at home) you can preview it with either browser.</Content>
+            <Reference>Had an Win 95 computer and did a wee bit of Website design in the past.</Reference>
+            <Best></Best>
+            <UserId>pHBhclORaa</UserId>
+            <UserNick>ilovepi3.14159</UserNick>
+            <Date>2010-03-16 21:08:48</Date>
+            <Timestamp>1268798928</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Anytime you want to work on something say a project, you can open every page you need to work on it . It just allows you to work offline on your stuff and like you said, it keeps you from using someone&#039;s bandwidth for a long period of time. This keeps the site&#039;s you get your info from happy and because your not using any of their bandwidth and it is more secure for you to do this not being online</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>GYdjJKgOaa</UserId>
+            <UserNick>Wide Glide</UserNick>
+            <Date>2010-03-16 21:14:07</Date>
+            <Timestamp>1268799247</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:46:20 PDT 2010 -->

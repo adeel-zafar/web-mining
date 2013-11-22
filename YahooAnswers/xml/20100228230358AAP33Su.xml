@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228230358AAP33Su" type="Answered">
+    <Subject>Can you give me some feedback to make my blog better?</Subject>
+    <Content>I&#039;m starting a blog for songwriters/guitarists. Take a look at it and tell me what I can do to make it more interesting, attractive, etc. www.muzicatto.com
+</Content>
+    <Date>2010-02-28 23:03:58</Date>
+    <Timestamp>1267427038</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228230358AAP33Su</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KdbLk9hfaa</UserId>
+    <UserNick>Dustin</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b881abbi28edzws107sp2/0U2TUYQ1brUVgKe0z14X23dciaZPlAsA/1/tn48.jpeg?ciAAToMBS.d36AlQ</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think one important thing is to decide your categories and tags. Like in the post caged theory the category would be something along the links of &#039;learning music&#039; or &#039;guitar learning&#039; and the tags would be fretboard, caged theory. These can be displayed in the left column to add an additional navigation feature to the website.Also, there is a lot of blank after the logo at the top. Scope there for some type of image, banner, etc.
+
+Also in left column you can add links to useful resources for your target visitors. Wordpress offers a lot of scope so you can look at useful information on plugins and on websites in general. A couple of resources below from blogs I subscribe to but there are many others.</ChosenAnswer>
+    <ChosenAnswererId>ETERL78xaa</ChosenAnswererId>
+    <ChosenAnswererNick>andrew</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267429415</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267636341</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Theres a lot of open white space on the left side of the screen that is...um...weird...
+Perhaps you could include some light color there, like a nice light green or something, not too harsh, nothing to draw the eye, but to keep the eye from being drawn to the blank white. Other than that I like the simple nature of the site. Keeps the focus on the content of the posts.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5VJ4hIiCaa</UserId>
+            <UserNick>Billy J</UserNick>
+            <Date>2010-02-28 23:09:29</Date>
+            <Timestamp>1267427369</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think one important thing is to decide your categories and tags. Like in the post caged theory the category would be something along the links of &#039;learning music&#039; or &#039;guitar learning&#039; and the tags would be fretboard, caged theory. These can be displayed in the left column to add an additional navigation feature to the website.Also, there is a lot of blank after the logo at the top. Scope there for some type of image, banner, etc.
+
+Also in left column you can add links to useful resources for your target visitors. Wordpress offers a lot of scope so you can look at useful information on plugins and on websites in general. A couple of resources below from blogs I subscribe to but there are many others.</Content>
+            <Reference>http://www.wolf-howl.com/tools/how-i-create-and-manage-a-wordpress-website/
+http://www.dharne.com/blog/2010/02/22/7-important-factors-to-improve-your-website-%E2%80%93-part-1/</Reference>
+            <Best>3</Best>
+            <UserId>ETERL78xaa</UserId>
+            <UserNick>andrew</UserNick>
+            <Date>2010-02-28 23:43:35</Date>
+            <Timestamp>1267429415</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:34:04 PDT 2010 -->

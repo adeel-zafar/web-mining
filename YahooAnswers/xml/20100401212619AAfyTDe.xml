@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401212619AAfyTDe" type="Answered">
+    <Subject>Firefox / Anyway to save and open all the tabs at once next time?</Subject>
+    <Content>So I always open about 6 tabs and it&#039;s always hte same webs, so I want to know how to open them at once. I already know how to bookmark but still I have to create extra tabs and click differernt bookmark icons.
+</Content>
+    <Date>2010-04-01 21:26:19</Date>
+    <Timestamp>1270182379</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401212619AAfyTDe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fluDNzXhaa</UserId>
+    <UserNick>Barney</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b2c8ec5i22f9zul6sp1/JJMcuHshcqOM3JJhspogjOpM9v8-/1/tn48.jpg?ciAAToMBvhBivECc</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The best way to open all 6 tabs every time you start Firefox is to load only the 6 tabs you want to start up, then go to Firefox menu &gt; Tools &gt; Options &gt; General section &gt; Home Page section -- click button to select &quot;Use current pages.&quot;
+
+This will load all 6 tabs at every loading of Firefox, and when you close them, or go to different pages and want to load all 6 again, click on your &quot;home&quot; button. It will keep your current tabs open, plus open the 6 home pages you set.</ChosenAnswer>
+    <ChosenAnswererId>l6nGYvXIaa</ChosenAnswererId>
+    <ChosenAnswererNick>Doug G</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270182789</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270227282</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>force it to crash use alt-control-delete. and end the process called Firefox.exe there may be a plugin but i am to lazy to find it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5BjmU3Ciaa</UserId>
+            <UserNick>teh_spartan</UserNick>
+            <Date>2010-04-01 21:28:54</Date>
+            <Timestamp>1270182534</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes!  Under the Tools menu, click Options....  Under the General tab, in the Startup group, go to the When Firefox starts: drop down menu.  Select Show my windows and tabs from last time.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4f7qltl8aa</UserId>
+            <UserNick>answerer</UserNick>
+            <Date>2010-04-01 21:31:18</Date>
+            <Timestamp>1270182678</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It should ask you automatically when you press the red close x if you want to save your tabs. If this isn&#039;t happening you can open all the tabs you want to save and go to tools&gt;options&gt; and in the general tab you can click use currents pages as homepages. That will save it. Or you can click the middle mouse button over your bookmarks which will load them in a new tab.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>16Zd2WXYaa</UserId>
+            <UserNick>Aiden</UserNick>
+            <Date>2010-04-01 21:31:45</Date>
+            <Timestamp>1270182705</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The best way to open all 6 tabs every time you start Firefox is to load only the 6 tabs you want to start up, then go to Firefox menu &gt; Tools &gt; Options &gt; General section &gt; Home Page section -- click button to select &quot;Use current pages.&quot;
+
+This will load all 6 tabs at every loading of Firefox, and when you close them, or go to different pages and want to load all 6 again, click on your &quot;home&quot; button. It will keep your current tabs open, plus open the 6 home pages you set.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>l6nGYvXIaa</UserId>
+            <UserNick>Doug G</UserNick>
+            <Date>2010-04-01 21:33:09</Date>
+            <Timestamp>1270182789</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>HI,
+
+There are various types of solutions for your query...
+
+
+1. This seems to be the easiest option of them all.
+
+When you have opened all the six tabs (or more) go to &quot;Tools&quot; menu click on &quot;Options&quot;.
+
+Now click on &quot;General&quot; icon (usually the first icon) and in the &quot;StartUp&quot; section, under &quot;Home Page&quot; text box you will find a button called &quot;Use current pages&quot;. 
+
+Click on &quot;Use Current Pages&quot;
+
+Now whenever you open your browser, you will find your sites open in six tabs...., 
+
+You can get these six tabs even when you click on the home icon near the address bar (the shortcut for home is usually &quot;Alt+Home&quot;). 
+
+
+2. You can terminate the process by going to Task Manager (ctrl+alt+del or right click on taskbar and selecting &quot;Task Manager&quot;).
+
+Go to  process tab and end Firefox.exe
+
+Thus, the next time you open your firefox it will ask for restore session.
+
+
+3. You and try the addon called &quot;Tab Mix Plus&quot; by going to :
+
+https://addons.mozilla.org/en-US/firefox/addon/1122
+
+After installing the addon, restart your firefox browser and go to
+
+Tools --&gt; Tab Mix Plus Options
+
+Click on the &quot;Session&quot; icon (usually the last icon)
+
+Click on the check box to select &quot;Enable Session Manager&quot;
+
+Let the other options to be the same (or you can play around if you want to explore more)
+
+Click &quot;Ok&quot;
+
+Now, if you close your browser with the six tabs intact, the next time you open your browser, this addon will ask for a &quot;session restore&quot; if you click &quot;Ok&quot; your previous tabs will be restored.
+
+
+4. When you have opened all the six tabs (or more) go to &quot;Bookmarks&quot; menu and click on &quot;Bookmark all tabs&quot; (usually the shortcut to bookmark all tabs is Ctrl+Shift+D).
+
+Provide a folder name and click on &quot;Add bookmarks&quot;.
+
+Now go back to &quot;Bookmarks&quot; menu, hover over the folder you created...
+
+You will find an option called &quot;Open All in Tabs&quot;. Usually this option is placed at the bottom of all bookmarks, in a particular folder.
+
+
+Hope this helps, :)
+
+Regards,
+Johnny Litson</Content>
+            <Reference>I have been working with Mozilla Firefox every day from past 3 years....</Reference>
+            <Best></Best>
+            <UserId>2ShljWkbaa</UserId>
+            <UserNick>El Johnny</UserNick>
+            <Date>2010-04-01 21:54:07</Date>
+            <Timestamp>1270184047</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:48 PDT 2010 -->

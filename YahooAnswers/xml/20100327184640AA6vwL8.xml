@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327184640AA6vwL8" type="Answered">
+    <Subject>How do i Access my Router through a web browser? (it doesn&#039;t load)?</Subject>
+    <Content>Yesterday, i could easily go onto my web browser and type my IP address into the URL bar and i could access my ports and other details (i have linksys router). but today, everytime i try to go on it through my browser it says &quot;Problem Loading page&quot; another detail i ahve to add is that when i logged onto my computer this morning, it gave me a message saying &quot;another computer has the same IP address as you&quot; and other things. after that i couldn&#039;t get on. is there anyway to fix that?
+</Content>
+    <Date>2010-03-27 18:46:40</Date>
+    <Timestamp>1269740800</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327184640AA6vwL8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FyhaFk05aa</UserId>
+    <UserNick>Frenchie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Power cycle your router. Unplug the power from the router and wait 2 mins. Plug it back in and wait 1 min. Reconnect computers. Mines does the same thing from time to time.</ChosenAnswer>
+    <ChosenAnswererId>lyDppNmzaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269741038</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270260260</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This can happen because of too much trafficking through the router. Resetting the router is your best option. (On the back there should be a little hole with &quot;reset&quot; next to it. Press that and hold it down for 10 seconds.) If you don&#039;t already have a password on it, put one on. Some outsider might be accessing it. Hope you problem is solved!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RjACWAO5aa</UserId>
+            <UserNick>Tristian7Fire</UserNick>
+            <Date>2010-03-27 18:49:41</Date>
+            <Timestamp>1269740981</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Power cycle your router. Unplug the power from the router and wait 2 mins. Plug it back in and wait 1 min. Reconnect computers. Mines does the same thing from time to time.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>lyDppNmzaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-27 18:50:38</Date>
+            <Timestamp>1269741038</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:29 PDT 2010 -->

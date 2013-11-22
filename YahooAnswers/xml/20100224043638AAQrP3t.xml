@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224043638AAQrP3t" type="Answered">
+    <Subject>how long does it takes for cookies to expire?</Subject>
+    <Content>if i logged on to yahoo answer from someone else computer and forget to log off , how long would it take to autimatically log off
+is there anything i can do now
+</Content>
+    <Date>2010-02-24 04:36:38</Date>
+    <Timestamp>1267014998</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224043638AAQrP3t</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>e7f9613d5b480e9758d037bfe66ac6b9aa</UserId>
+    <UserNick>mathew</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/11dV-O2jWAAEC_IFHcGE=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>well, if you have ticked in setting that cookie is valid for 2 weeks, then it will expire after that.
+You can put it for 1 day, and then it expires.
+
+my advise, clear your privacy every time you use someone&#039;s PC.
+
+easiest is to use keyboard shortcuts.
+
+in IE8, and Firefox use CTRL + SHIFT + DELETE and select all and you&#039;re done.
+in Opera, goto Tools/Delete Privacy data, tick all things you want to delete and press OK.
+
+Grivier</ChosenAnswer>
+    <ChosenAnswererId>obNDcWNbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Grivier</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267015934</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267509090</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>well for yahoo if have that check mark on the that mean i will stay on for two weeks</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gY9HYbAUaa</UserId>
+            <UserNick>bdwilson15</UserNick>
+            <Date>2010-02-24 04:47:04</Date>
+            <Timestamp>1267015624</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>well, if you have ticked in setting that cookie is valid for 2 weeks, then it will expire after that.
+You can put it for 1 day, and then it expires.
+
+my advise, clear your privacy every time you use someone&#039;s PC.
+
+easiest is to use keyboard shortcuts.
+
+in IE8, and Firefox use CTRL + SHIFT + DELETE and select all and you&#039;re done.
+in Opera, goto Tools/Delete Privacy data, tick all things you want to delete and press OK.
+
+Grivier</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>obNDcWNbaa</UserId>
+            <UserNick>Grivier</UserNick>
+            <Date>2010-02-24 04:52:14</Date>
+            <Timestamp>1267015934</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:15:13 PDT 2010 -->

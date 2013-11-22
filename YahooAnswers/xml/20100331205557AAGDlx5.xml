@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331205557AAGDlx5" type="Answered">
+    <Subject>when you unfollow someone on Tumblr, will he/she get some sort of notification that you did?</Subject>
+    <Content>Just wondering though. thanks in advance :)
+</Content>
+    <Date>2010-03-31 20:55:57</Date>
+    <Timestamp>1270094157</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331205557AAGDlx5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qPqs3iVAaa</UserId>
+    <UserNick>yeamen.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no.</ChosenAnswer>
+    <ChosenAnswererId>JsBZ7V9Zaa</ChosenAnswererId>
+    <ChosenAnswererNick>xMuhleenaww</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270134564</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270169537</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>JsBZ7V9Zaa</UserId>
+            <UserNick>xMuhleenaww</UserNick>
+            <Date>2010-04-01 08:09:24</Date>
+            <Timestamp>1270134564</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:04 PDT 2010 -->

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225135841AAjTkrQ" type="Answered">
+    <Subject>How do I stop this annoying Firefox pop up?</Subject>
+    <Content>How do I stop this Firefox pop up?
+The pop up says:
+
+&quot;You have chosen to open &lt;file name&gt; which is a application/octet-stream&quot;
+
+and then it gives me the option to save the file. But I am not trying to download anything. It happens when I try to open links, especially when I&#039;m on YouTube. It&#039;s very annoying. How can I fix this issue?
+</Content>
+    <Date>2010-02-25 13:58:41</Date>
+    <Timestamp>1267135121</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225135841AAjTkrQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5ZT8LcN5aa</UserId>
+    <UserNick>dan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1aIT7nIOQAAED_MFoKI7dUh8lLA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Exit Firefox.
+
+In Windows Explorer, navigate to:
+C:\Program Files\Mozilla Firefox\greprefs
+Open all.js file with Notepad.
+
+Scroll down, and locate following lines:
+pref(&quot;network.http.version&quot;, &quot;1.1&quot;);
+pref(&quot;network.http.proxy.version&quot;, &quot;1.1&quot;);
+//pref(&quot;network.http.version&quot;, &quot;1.0&quot;);
+//pref(&quot;network.http.proxy.version&quot;, &quot;1.0&quot;);</ChosenAnswer>
+    <ChosenAnswererId>k2WtnBBEaa</ChosenAnswererId>
+    <ChosenAnswererNick>MyWorldPlz - Young Technician</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267135422</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267311286</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just use Google Chrome, it&#039;s way better.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>c3NWLTRNaa</UserId>
+            <UserNick>Michael</UserNick>
+            <Date>2010-02-25 14:00:11</Date>
+            <Timestamp>1267135211</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Exit Firefox.
+
+In Windows Explorer, navigate to:
+C:\Program Files\Mozilla Firefox\greprefs
+Open all.js file with Notepad.
+
+Scroll down, and locate following lines:
+pref(&quot;network.http.version&quot;, &quot;1.1&quot;);
+pref(&quot;network.http.proxy.version&quot;, &quot;1.1&quot;);
+//pref(&quot;network.http.version&quot;, &quot;1.0&quot;);
+//pref(&quot;network.http.proxy.version&quot;, &quot;1.0&quot;);</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>k2WtnBBEaa</UserId>
+            <UserNick>MyWorldPlz - Young Technician</UserNick>
+            <Date>2010-02-25 14:03:42</Date>
+            <Timestamp>1267135422</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In your browser click on tools, then option for setting pop ups, then set your preferences.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SpIlb43Uaa</UserId>
+            <UserNick>sharon red baron</UserNick>
+            <Date>2010-02-25 14:05:00</Date>
+            <Timestamp>1267135500</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:56:06 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310200306AAjRo7i" type="Answered">
+    <Subject>How do I save web pages so that I can read them when I&#039;m not on the internet?</Subject>
+    <Content>I want to be able to view pages from the web when I am not online, without having to copy and paste the information into a word program. Is there any way to save pages (lots) to my computer to read later?
+</Content>
+    <Date>2010-03-10 20:03:06</Date>
+    <Timestamp>1268280186</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310200306AAjRo7i</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA12293737</UserId>
+    <UserNick>Chanel #5</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>File&gt; Save As</ChosenAnswer>
+    <ChosenAnswererId>kxsvjGmTaa</ChosenAnswererId>
+    <ChosenAnswererNick>John C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268280252</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268321755</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>File&gt; Save As</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-10 20:04:12</Date>
+            <Timestamp>1268280252</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Using CaptureSaver.
+With CaptureSaver you can permanently save selected text, images, and complete Web pages, then edit, mark, organize, and search for information in your offline personal and portable knowledge base.
+For more detail see: http://www.capturesaver.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TP1iB8zHaa</UserId>
+            <UserNick>Garvey</UserNick>
+            <Date>2010-03-11 04:44:33</Date>
+            <Timestamp>1268311473</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:15:19 PDT 2010 -->

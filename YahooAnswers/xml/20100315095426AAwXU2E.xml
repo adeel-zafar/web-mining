@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315095426AAwXU2E" type="Answered">
+    <Subject>What&#039;s a suitable internet connection for hosting a heavy traffic site from home?</Subject>
+    <Content>I&#039;m currently in the middle of setting up a website, the website itself will possibly have high traffic and high loads of data being sent back and fourth. I wondered if I were to host from home what kind of interent connection? Speed wise, any suggestions? I just like to know what the best options are for home hosting?
+</Content>
+    <Date>2010-03-15 09:54:26</Date>
+    <Timestamp>1268672066</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315095426AAwXU2E</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3GsiA4FJaa</UserId>
+    <UserNick>Jordz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Make sure your ISP allows you to do that! Most don&#039;t!</ChosenAnswer>
+    <ChosenAnswererId>kxsvjGmTaa</ChosenAnswererId>
+    <ChosenAnswererNick>John C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268672205</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269500525</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Make sure your ISP allows you to do that! Most don&#039;t!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-15 09:56:45</Date>
+            <Timestamp>1268672205</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:54:13 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320154138AA6sDie" type="Answered">
+    <Subject>if u have 2 blackberries do u have to pay double internet?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-20 15:41:38</Date>
+    <Timestamp>1269124898</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320154138AA6sDie</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xrZQh2Tmaa</UserId>
+    <UserNick>Osvaldo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you have two separate contracts that are therefore using two separate internet connections then yes.</ChosenAnswer>
+    <ChosenAnswererId>zSF3MsPZaa</ChosenAnswererId>
+    <ChosenAnswererNick>rob z</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269125567</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269644166</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes if you don&#039;t have a total share plan that covers all users having internet.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cU0psYrNaa</UserId>
+            <UserNick>Ryan</UserNick>
+            <Date>2010-03-20 15:43:03</Date>
+            <Timestamp>1269124983</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you have two separate contracts that are therefore using two separate internet connections then yes.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>zSF3MsPZaa</UserId>
+            <UserNick>rob z</UserNick>
+            <Date>2010-03-20 15:52:47</Date>
+            <Timestamp>1269125567</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:13 PDT 2010 -->

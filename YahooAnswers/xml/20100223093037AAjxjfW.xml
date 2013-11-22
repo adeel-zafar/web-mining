@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223093037AAjxjfW" type="Answered">
+    <Subject>what are the best online video chat website ? (mostly social site)?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-23 09:30:37</Date>
+    <Timestamp>1266946237</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223093037AAjxjfW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>e5340b8faf69d0607e271bfeee4d143eaa</UserId>
+    <UserNick>jerry j</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1AtiYWSVDAAEE_MF2DLBUhtgA.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.6rounds.com/</ChosenAnswer>
+    <ChosenAnswererId>zVu19UBCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Topi jerami</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267265168</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267465677</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>stickam</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>o3oYRv6laa</UserId>
+            <UserNick>imsexxxy</UserNick>
+            <Date>2010-02-23 09:33:34</Date>
+            <Timestamp>1266946414</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>oovoo.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0wOGYI6Caa</UserId>
+            <UserNick>Ashie</UserNick>
+            <Date>2010-02-23 09:38:44</Date>
+            <Timestamp>1266946724</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.6rounds.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GMIY16HSaa</UserId>
+            <UserNick>Steven Miles</UserNick>
+            <Date>2010-02-23 10:34:41</Date>
+            <Timestamp>1266950081</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.6rounds.com/</Content>
+            <Reference>......</Reference>
+            <Best>5</Best>
+            <UserId>zVu19UBCaa</UserId>
+            <UserNick>Topi jerami</UserNick>
+            <Date>2010-02-27 02:06:08</Date>
+            <Timestamp>1267265168</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:21:14 PDT 2010 -->

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306122038AAz1bNn" type="Answered">
+    <Subject>when ever i try to go to a certain site i get this what can i do about it?</Subject>
+    <Content>Unable to connect
+Firefox can&#039;t establish a connection to the server at lu.scous
+*   The site could be temporarily unavailable or too busy. Try again in a few
+          moments.
+*   If you are unable to load any pages, check your computer&#039;s network
+          connection.
+
+*   If your computer or network is protected by a firewall or proxy, make sure
+          that Firefox is permitted to access the Web.
+</Content>
+    <Date>2010-03-06 12:20:38</Date>
+    <Timestamp>1267906838</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306122038AAz1bNn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Rk32uVrzaa</UserId>
+    <UserNick>Austin</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a5eaa77i1680zul1sp1/8d3_H2k1aafnn7QN3mE_5g1_MT4-/1/tn48.jpg?ciAAToMBOHyeU5tJ</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sounds like a malware/virus i had. It would not let me open google i got the same message.   after running malewarebytes it went away.</ChosenAnswer>
+    <ChosenAnswererId>fNuMoHt7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Justin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267907006</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268091179</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sounds like a malware/virus i had. It would not let me open google i got the same message.   after running malewarebytes it went away.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>fNuMoHt7aa</UserId>
+            <UserNick>Justin</UserNick>
+            <Date>2010-03-06 12:23:26</Date>
+            <Timestamp>1267907006</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:47:20 PDT 2010 -->

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311030057AAXbCvM" type="Answered">
+    <Subject>Any good free Web Hosts with FTP support?</Subject>
+    <Content>I need a free web host that supports FTP for uploading files for my new website. Could anybody point me to any?
+</Content>
+    <Date>2010-03-11 03:00:57</Date>
+    <Timestamp>1268305257</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311030057AAXbCvM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>K742OO7xaa</UserId>
+    <UserNick>Nathan</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1JUITbvVDAAECPyGbONSHCg==.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try this kwikphp.com, it&#039;s free a has a big bandwidth and storage, downside is it places an ad at the bottom of your pages. I&#039;ve tested this one...
+
+also look for http://www.000webhost.com/ I&#039;ve never actually tried it but my friend says it&#039;s better
+
+http://prodigalconcepts.com/</ChosenAnswer>
+    <ChosenAnswererId>TP9DOCvlaa</ChosenAnswererId>
+    <ChosenAnswererNick>xzykho</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268305584</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268398449</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try this kwikphp.com, it&#039;s free a has a big bandwidth and storage, downside is it places an ad at the bottom of your pages. I&#039;ve tested this one...
+
+also look for http://www.000webhost.com/ I&#039;ve never actually tried it but my friend says it&#039;s better
+
+http://prodigalconcepts.com/</Content>
+            <Reference>http://kwikphp.com/
+
+http://www.000webhost.com/</Reference>
+            <Best>5</Best>
+            <UserId>TP9DOCvlaa</UserId>
+            <UserNick>xzykho</UserNick>
+            <Date>2010-03-11 03:06:24</Date>
+            <Timestamp>1268305584</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Are you looking for a site builder kind of host or no? it does make a difference.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RGWYij5iaa</UserId>
+            <UserNick>♣ Mel</UserNick>
+            <Date>2010-03-11 03:25:26</Date>
+            <Timestamp>1268306726</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try http://www.sky.uk.net, they are free with the promo code</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DX1J41Vgaa</UserId>
+            <UserNick>John S</UserNick>
+            <Date>2010-03-11 03:47:35</Date>
+            <Timestamp>1268308055</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.freewebhosting.comxa.com/
+
+Lots of disk space and bandwidth and the upload and download speeds were good for a 40MB file I tested.</Content>
+            <Reference>http://www.freewebhosting.comxa.com/</Reference>
+            <Best></Best>
+            <UserId>S8KqDO37aa</UserId>
+            <UserNick>Pugger!</UserNick>
+            <Date>2010-03-11 18:56:04</Date>
+            <Timestamp>1268362564</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:14:14 PDT 2010 -->

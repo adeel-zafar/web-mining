@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319055816AAD6g3a" type="Answered">
+    <Subject>How come I can&#039;t get on the internet?</Subject>
+    <Content>Hi I recently got a dongle for my computer and it worked on the first day but the day after that it would only get on local area connection and I cannot get on the internet at all because I am unable to get a wider area connection... I have tried all advice and nothing is working what do I do?
+I am currently on my college computer.  But yes I tried resseting it and everything
+It is a phone network dongle.
+</Content>
+    <Date>2010-03-19 05:58:16</Date>
+    <Timestamp>1269003496</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319055816AAD6g3a</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NNdnfOLdaa</UserId>
+    <UserNick>Prolly Lolly</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1IFCEPFN1AAIC-AFM7IwNCg==.medium.png</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>How far are you from your router or modem?
+Have you tried to reset the router or modem?</ChosenAnswer>
+    <ChosenAnswererId>2rVKqhVEaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jacob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269003678</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269522862</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>aren&#039;t you on the internet right now?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZPVHgFnEaa</UserId>
+            <UserNick>Tess</UserNick>
+            <Date>2010-03-19 05:59:48</Date>
+            <Timestamp>1269003588</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>How far are you from your router or modem?
+Have you tried to reset the router or modem?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2rVKqhVEaa</UserId>
+            <UserNick>Jacob</UserNick>
+            <Date>2010-03-19 06:01:18</Date>
+            <Timestamp>1269003678</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Have you tried reinstalling the dongle.
+What kind of dongle is it, a phone network one, or a dongle that makes your computer wireless enabled?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>C9TJYLoVaa</UserId>
+            <UserNick>Trish</UserNick>
+            <Date>2010-03-19 06:04:21</Date>
+            <Timestamp>1269003861</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>dongle. funny word.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>28vHvLkMaa</UserId>
+            <UserNick>Army Dude</UserNick>
+            <Date>2010-03-19 06:14:08</Date>
+            <Timestamp>1269004448</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi the best solution uninstall the software that came with your Dongle  then try reinstalling the software again if the problem persists then take the Dongle and software in the box and return back to the shop were you bought it from and ask for a replacement because their is a problem with the dongle</Content>
+            <Reference>Own experance</Reference>
+            <Best></Best>
+            <UserId>x1wvuZQDaa</UserId>
+            <UserNick>FIXER</UserNick>
+            <Date>2010-03-19 07:45:53</Date>
+            <Timestamp>1269009953</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:36 PDT 2010 -->

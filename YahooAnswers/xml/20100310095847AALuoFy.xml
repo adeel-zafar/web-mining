@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310095847AALuoFy" type="Answered">
+    <Subject>How to detect the IP Address and Country of a visitor to my website?</Subject>
+    <Content>I know there are tons of websites out there to detect IP address. Not only do they detect the IP address, but they also display the country of that corresponding IP address. 
+
+I want to know how to do detect the country of a visitor to my website.
+please list the program languages that I might have to use
+</Content>
+    <Date>2010-03-10 09:58:47</Date>
+    <Timestamp>1268243927</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310095847AALuoFy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oL4xSPyTaa</UserId>
+    <UserNick>RKO</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b8a949eic01zws136ac4/KOOQo6ojcKmirmn1AOMDpQ--/1/tn48.png?ciAAToMBGMq0w0k1</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try to use free javascript tracking tool from http://www.ipaddresslocation.org/ or 
+http://www.find-ip-address.org/
+
+Your visitors will see cool tracking information&#039;s about them.</ChosenAnswer>
+    <ChosenAnswererId>N16coDrUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Miha L</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268298270</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268870530</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This is what we use and it works great...
+http://www.ip2location.com/
+for something not as pricey tho Geolocation class can be used to determine the geographic location of an IP address using the hostip.info Web services.
+
+The class is guaranteed to work with PHP version 4.2 and PHP 5.2. It accesses the hostip.info Web services API site passing a given host IP address as query parameter.
+
+The class retrieves and parses the response to return the country, the city, and the latitude and longitude coordinates of the specified host.
+
+More details here:
+
+http://www.phpclasses.org/browse/package/3813.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>F8QdWnd5aa</UserId>
+            <UserNick>Gathering of Coders</UserNick>
+            <Date>2010-03-10 10:01:45</Date>
+            <Timestamp>1268244105</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try to use free javascript tracking tool from http://www.ipaddresslocation.org/ or 
+http://www.find-ip-address.org/
+
+Your visitors will see cool tracking information&#039;s about them.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>N16coDrUaa</UserId>
+            <UserNick>Miha L</UserNick>
+            <Date>2010-03-11 01:04:30</Date>
+            <Timestamp>1268298270</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:18:55 PDT 2010 -->

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311134521AApM6IB" type="Answered">
+    <Subject>Where are my tabs and address bar for Internet Explorer?</Subject>
+    <Content>Recently, my address bar and tabs have gone missing.  There is just a  see through line that shows my desktop background.  Where did it go and how can i get it back?
+</Content>
+    <Date>2010-03-11 13:45:21</Date>
+    <Timestamp>1268343921</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311134521AApM6IB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cgVVOvKGaa</UserId>
+    <UserNick>me</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1mu-bF0dzAAICTWPFkLO7Z1vTMA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>Click ALT
+on the Internet Explorer Page
+Then something should pop up on the top
+Next Click VIEW
+and then Click Toolbars
+
+And from there, you can add back your items onto I.E.</ChosenAnswer>
+    <ChosenAnswererId>tQ4QlE8Waa</ChosenAnswererId>
+    <ChosenAnswererNick>Kevin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268344059</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268447433</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Click ALT
+on the Internet Explorer Page
+Then something should pop up on the top
+Next Click VIEW
+and then Click Toolbars
+
+And from there, you can add back your items onto I.E.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tQ4QlE8Waa</UserId>
+            <UserNick>Kevin</UserNick>
+            <Date>2010-03-11 13:47:39</Date>
+            <Timestamp>1268344059</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>IE is horrible, try switching to Firefox, or even try Opera.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>04XoOSqqaa</UserId>
+            <UserNick>Charlie</UserNick>
+            <Date>2010-03-11 14:10:15</Date>
+            <Timestamp>1268345415</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You should be able to right click where the toolbar used to be, and then check the boxes that appear.  If that is not the issue, it could be a malware problem.  If that does not fix the problem let me know and we can work from there.
+
+Thanks,
+Kyler
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0BzipcAfaa</UserId>
+            <UserNick>Kyler_IE8_Team</UserNick>
+            <Date>2010-03-11 16:13:37</Date>
+            <Timestamp>1268352817</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>WiojIBHHaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-20 15:20:58</Date>
+            <Timestamp>1268352817</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:13:00 PDT 2010 -->

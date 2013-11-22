@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307090712AAak7Hq" type="Answered">
+    <Subject>Should I use internet explorer 8, mozilla firefox 3.6, google chrome, or opera 10.50?</Subject>
+    <Content>Which internet browser should I use?
+which one is the fastest?
+Which one is the most secure.
+</Content>
+    <Date>2010-03-07 09:07:12</Date>
+    <Timestamp>1267981632</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307090712AAak7Hq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eDv2rgBwaa</UserId>
+    <UserNick>soccer_str</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Safari probably. Don&#039;t use internet explorer, it&#039;s slow. Firefox is ok. I haven&#039;t tried Chrome or opera. I would go with safari for sure.</ChosenAnswer>
+    <ChosenAnswererId>tkGG2hGuaa</ChosenAnswererId>
+    <ChosenAnswererNick>▐▀▼G▼▀▌</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267981942</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268079949</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use Safari. Failing that, Chrome.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-07 09:10:11</Date>
+            <Timestamp>1267981811</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Safari probably. Don&#039;t use internet explorer, it&#039;s slow. Firefox is ok. I haven&#039;t tried Chrome or opera. I would go with safari for sure.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>tkGG2hGuaa</UserId>
+            <UserNick>HlUlNlTlElR</UserNick>
+            <Date>2010-03-07 09:12:22</Date>
+            <Timestamp>1267981942</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:40:12 PDT 2010 -->

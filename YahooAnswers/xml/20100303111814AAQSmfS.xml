@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303111814AAQSmfS" type="Answered">
+    <Subject>I know that Wi-Fi when you connect to an?</Subject>
+    <Content>unsecured router/network that it sends packets to that computer do the packets stay there forever or do they get deleted over time being? if the person does not know how to read them or even knows there, there, and if you connect through a router to someones unsecured network does that also send packets over to there side?
+just a wondering question.
+</Content>
+    <Date>2010-03-03 11:18:14</Date>
+    <Timestamp>1267643894</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303111814AAQSmfS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1SFPfM4Waa</UserId>
+    <UserNick>Nicole</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b4b95f0i1698zul6re4/ZqQU0PA_cqXfI0FDElV6ZJWMFg--/4/tn48.png?ciAAToMBIz.2nCne</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The data packets sent just pass through the router, it doesn&#039;t store any data transmitted through it between your computer and the Internet. It&#039;s just a pathway.</ChosenAnswer>
+    <ChosenAnswererId>VzSpV4Xoaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dave L</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267646360</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267659896</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The data packets sent just pass through the router, it doesn&#039;t store any data transmitted through it between your computer and the Internet. It&#039;s just a pathway.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>VzSpV4Xoaa</UserId>
+            <UserNick>Dave L</UserNick>
+            <Date>2010-03-03 11:59:20</Date>
+            <Timestamp>1267646360</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:17:28 PDT 2010 -->

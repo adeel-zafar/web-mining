@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227135235AA3cW8n" type="Answered">
+    <Subject>whats better firefox or safari?</Subject>
+    <Content>and which is faster?
+</Content>
+    <Date>2010-02-27 13:52:35</Date>
+    <Timestamp>1267307555</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227135235AA3cW8n</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tXsEpp4Waa</UserId>
+    <UserNick>GREASER 4 LIFE</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/174HsvHubAAIDQyGbpLJWdueUXR4F.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>chrome is better than both!</ChosenAnswer>
+    <ChosenAnswererId>w9LOTXXxaa</ChosenAnswererId>
+    <ChosenAnswererNick>smokingmonkey98</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267307646</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267327989</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>chrome is better than both!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>w9LOTXXxaa</UserId>
+            <UserNick>smokingmonkey98</UserNick>
+            <Date>2010-02-27 13:54:06</Date>
+            <Timestamp>1267307646</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Neither. Google Chrome is faster than both of them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3rZsq27Qaa</UserId>
+            <UserNick>Brandyn</UserNick>
+            <Date>2010-02-27 13:54:08</Date>
+            <Timestamp>1267307648</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;ve used both internet browsers, but on my opinion and public opinion, I would use Firefox. It is faster on most computers.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LptuT7b7aa</UserId>
+            <UserNick>Jeffrey</UserNick>
+            <Date>2010-02-27 13:54:13</Date>
+            <Timestamp>1267307653</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>firefox. google chrome may even be faster than both. But if you have windows 7, for some reason IE works the BEST in speed</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>9rfwF9leaa</UserId>
+            <UserNick>zJ0n</UserNick>
+            <Date>2010-02-27 13:54:56</Date>
+            <Timestamp>1267307696</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I would choose safari out of the two, because it is faster. I like SRWare Iron better though...</Content>
+            <Reference>http://www.srware.net/en/software_srware_iron.php</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-27 14:06:12</Date>
+            <Timestamp>1267308372</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:43:00 PDT 2010 -->

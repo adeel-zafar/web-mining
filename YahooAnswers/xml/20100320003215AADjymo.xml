@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320003215AADjymo" type="Answered">
+    <Subject>When you load a website, theres a little picture that loads on the tab next to the metadata?</Subject>
+    <Content>What is the little icon picture called that loads next to the tab? (Example:The little green question bubble with the star inside on this tab.)
+</Content>
+    <Date>2010-03-20 00:32:15</Date>
+    <Timestamp>1269070335</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320003215AADjymo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>OECqlQRUaa</UserId>
+    <UserNick>Ryan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It is called the &#039;favicon&#039;.</ChosenAnswer>
+    <ChosenAnswererId>pVGY9myOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Firzen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269070852</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269112531</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It is called the &#039;favicon&#039;.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>pVGY9myOaa</UserId>
+            <UserNick>Firzen</UserNick>
+            <Date>2010-03-20 00:40:52</Date>
+            <Timestamp>1269070852</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:32:42 PDT 2010 -->

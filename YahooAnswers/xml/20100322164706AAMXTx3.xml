@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322164706AAMXTx3" type="Answered">
+    <Subject>How do I connect to the Internet.......?</Subject>
+    <Content>I have a NETGEAR router for my laptop, and I accidentally disconnected it. Now when I try to reconnect it says I need a password.
+I do not know the password. The Internet company didn&#039;t set it up, my dad did. 
+Could I call the NETGEAR company and ask for the password or something?
+What can I do?
+
+Thanks!
+</Content>
+    <Date>2010-03-22 16:47:06</Date>
+    <Timestamp>1269301626</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322164706AAMXTx3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sx8V6uD1aa</UserId>
+    <UserNick>rummaging for {lιиα}</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb7b017ifbezws117ac4/FhTxzWEifr6qJJh2fEoR93cL/35/tn48.jpeg?ciAAToMB3e13SeUV</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, call netgear, they should be able to help you. I had the same problem and they sorted me out in no time. Good luck!</ChosenAnswer>
+    <ChosenAnswererId>ku1W8BDEaa</ChosenAnswererId>
+    <ChosenAnswererNick>jimpage</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269301946</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269903402</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, call netgear, they should be able to help you. I had the same problem and they sorted me out in no time. Good luck!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ku1W8BDEaa</UserId>
+            <UserNick>jimpage</UserNick>
+            <Date>2010-03-22 16:52:26</Date>
+            <Timestamp>1269301946</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:21:31 PDT 2010 -->

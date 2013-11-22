@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315173140AAJsDfJ" type="Answered">
+    <Subject>my fire wall wont let me use my browser?</Subject>
+    <Content>when i open my browser it says that windows cant connect to the internet http, https, or ftp. it says the problem is cause by the fire wall settings on this computer...
+</Content>
+    <Date>2010-03-15 17:31:40</Date>
+    <Timestamp>1268699500</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315173140AAJsDfJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DdKRZ8Guaa</UserId>
+    <UserNick>*- LiLah -*</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1hUwS-9whAAEB3wTvEKbCFMpa4vcF.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Turn off Windows Firewall.</ChosenAnswer>
+    <ChosenAnswererId>TPWfKtvwaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268699591</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269218923</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Turn off Windows Firewall.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TPWfKtvwaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-15 17:33:11</Date>
+            <Timestamp>1268699591</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Search Google   &quot;(your firewall software&#039;s name) exception&quot;
+
+Just create an exception for your browser and its done. If its just the windows Firewall....You could be borked. Windows firewall is very good about not blocking random stuff.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7gdwVo26aa</UserId>
+            <UserNick>Aigloblam</UserNick>
+            <Date>2010-03-15 17:35:09</Date>
+            <Timestamp>1268699709</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:20 PDT 2010 -->

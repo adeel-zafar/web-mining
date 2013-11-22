@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315025934AAre4d8" type="Answered">
+    <Subject>question about photobucket&#039;s album privacy?</Subject>
+    <Content>if i upload a photo to an album which is set to private, and i post that picture to a forum, will others on the forum be able to see the picture?
+</Content>
+    <Date>2010-03-15 02:59:34</Date>
+    <Timestamp>1268647174</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315025934AAre4d8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hoznytxVaa</UserId>
+    <UserNick>bttorn</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you can see it so can they. If they are two separate sites, then your browser won&#039;t know that only you have permission to view the photo on photobucket.
+
+On photobucket, private albums can&#039;t be viewed, but if they know the link then they can see the pic, so yeah you can still show images from a private album.</ChosenAnswer>
+    <ChosenAnswererId>EO3Efx4Daa</ChosenAnswererId>
+    <ChosenAnswererNick>Kenny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268648368</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269166447</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you can see it so can they. If they are two separate sites, then your browser won&#039;t know that only you have permission to view the photo on photobucket.
+
+On photobucket, private albums can&#039;t be viewed, but if they know the link then they can see the pic, so yeah you can still show images from a private album.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EO3Efx4Daa</UserId>
+            <UserNick>Kenny</UserNick>
+            <Date>2010-03-15 03:19:28</Date>
+            <Timestamp>1268648368</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:55:06 PDT 2010 -->

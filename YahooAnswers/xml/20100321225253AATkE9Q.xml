@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321225253AATkE9Q" type="Answered">
+    <Subject>Can I create a blog at Blogger.com without my gmail contacts knowing?</Subject>
+    <Content>As you all probably know, Gmail and Blogger are joined.  I&#039;d like to know if my gmail contacts will know/be notified about my Blogger.com blog if I create one.
+</Content>
+    <Date>2010-03-21 22:52:53</Date>
+    <Timestamp>1269237173</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321225253AATkE9Q</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11421941</UserId>
+    <UserNick>zlumos</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Xyg5h5_mAAABx6SaiMU6HLgB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No, they don&#039;t. Only if you decide to either invite them to read your blog or they look up your details themselves to find your blog accounts under that email (but that&#039;s largely uncommon unless you have stalker friends) they will not be sent any notification of any new blogs you create.</ChosenAnswer>
+    <ChosenAnswererId>5949aa957baef47c6e7b3e8934c7eb06aa</ChosenAnswererId>
+    <ChosenAnswererNick>Alaska</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269237601</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269425278</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, they don&#039;t. Only if you decide to either invite them to read your blog or they look up your details themselves to find your blog accounts under that email (but that&#039;s largely uncommon unless you have stalker friends) they will not be sent any notification of any new blogs you create.</Content>
+            <Reference>From experience and general knowledge - friend created a blog and I didn&#039;t know until she invited me to be an author (I don&#039;t regularly check if my friends make new blogs or not)</Reference>
+            <Best>5</Best>
+            <UserId>5949aa957baef47c6e7b3e8934c7eb06aa</UserId>
+            <UserNick>Alaska</UserNick>
+            <Date>2010-03-21 23:00:01</Date>
+            <Timestamp>1269237601</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can use different email services &amp; it&#039;s not mandatory to use Gmail to create a blog you can use yahoo as well.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>b5e081d33adc66f2f168cd19feeea4d7aa</UserId>
+            <UserNick>RATEDR</UserNick>
+            <Date>2010-03-22 02:10:54</Date>
+            <Timestamp>1269249054</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:42 PDT 2010 -->

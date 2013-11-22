@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305211604AA99UvJ" type="Answered">
+    <Subject>what is this website?? i cant remember what it is called!?</Subject>
+    <Content>i believe it is fairly popular, you click a button that says the name of the site, or a form of it, and it takes you to a random website. thanks
+thank you! i got the answer! it was stumbleupon
+</Content>
+    <Date>2010-03-05 21:16:04</Date>
+    <Timestamp>1267852564</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305211604AA99UvJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Wn0J67biaa</UserId>
+    <UserNick>Vance</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.stumbleupon.com/</ChosenAnswer>
+    <ChosenAnswererId>qE4ZoqzBaa</ChosenAnswererId>
+    <ChosenAnswererNick>Syxx</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267853710</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268372079</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>this probably isn&#039;t it.
+http://www.randomwebsite.com/ 
+
+is it kind of the same?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gRgO1FXbaa</UserId>
+            <UserNick>Łυcιєи</UserNick>
+            <Date>2010-03-05 21:21:33</Date>
+            <Timestamp>1267852893</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.stumbleupon.com/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qE4ZoqzBaa</UserId>
+            <UserNick>Syxx</UserNick>
+            <Date>2010-03-05 21:35:10</Date>
+            <Timestamp>1267853710</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:52:32 PDT 2010 -->

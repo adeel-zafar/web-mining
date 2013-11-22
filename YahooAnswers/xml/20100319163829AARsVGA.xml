@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319163829AARsVGA" type="Answered">
+    <Subject>Why won&#039;t Peggle online work on my computer?</Subject>
+    <Content>Last Saturday, Popcap&#039;s version of Peggle stopped working. It hasn&#039;t worked since. Help?
+</Content>
+    <Date>2010-03-19 16:38:29</Date>
+    <Timestamp>1269041909</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319163829AARsVGA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Wtn5Doa7aa</UserId>
+    <UserNick>__A_YAHOO_USER__</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Two possible reasons:
+
+1. Are you running a new firewall or port blocker like Peer Guardian or Peer Blocker? I know I can&#039;t run MapleStory with Peer Blocker running.
+
+2. Did you recently update Flash? I&#039;ve had a few older Flash based games bookmarked that don&#039;t work anymore with newer versions of Flash.
+
+Hope that helps!</ChosenAnswer>
+    <ChosenAnswererId>T7Apky52aa</ChosenAnswererId>
+    <ChosenAnswererNick>Simon R</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269042420</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269561427</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Two possible reasons:
+
+1. Are you running a new firewall or port blocker like Peer Guardian or Peer Blocker? I know I can&#039;t run MapleStory with Peer Blocker running.
+
+2. Did you recently update Flash? I&#039;ve had a few older Flash based games bookmarked that don&#039;t work anymore with newer versions of Flash.
+
+Hope that helps!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>T7Apky52aa</UserId>
+            <UserNick>Simon R</UserNick>
+            <Date>2010-03-19 16:47:00</Date>
+            <Timestamp>1269042420</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:14 PDT 2010 -->

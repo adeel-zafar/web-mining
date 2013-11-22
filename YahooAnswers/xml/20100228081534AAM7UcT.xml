@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228081534AAM7UcT" type="Answered">
+    <Subject>internet problems and mozilla firefox problems?</Subject>
+    <Content>When I try to open my mozilla firefox 3.6, a crash report instantly pops up telling me to quit firefox or restart firefox. I tried both of those options and neither worked. So then I try to open my I Explorer and that wont even pop and that to comes with a error report telling me to send the error to them. How do I fix this?  I scanned my computer and had nothing found
+</Content>
+    <Date>2010-02-28 08:15:34</Date>
+    <Timestamp>1267373734</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228081534AAM7UcT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PW89uCnUaa</UserId>
+    <UserNick>Jack</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UZ98Md4OAAED_2HylU8=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try a system restore back a week or so</ChosenAnswer>
+    <ChosenAnswererId>QtYixKVaaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267373845</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267893248</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try a system restore back a week or so</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>QtYixKVaaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-02-28 08:17:25</Date>
+            <Timestamp>1267373845</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try installing both, Internet Explorer and your Firefox back, with newly downloaded setups. You can always switch your browser to anything else if these 2 still don&#039;t work.
+
+Try
+
+Apple Safari - http://www.apple.com/safari/download/
+
+Flock Browser - http://flock.com/
+
+Google Chrome - http://www.google.com/chrome</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>f6764603604df2623761fc6ef77c8eb7aa</UserId>
+            <UserNick>brain_hacker17</UserNick>
+            <Date>2010-02-28 08:21:53</Date>
+            <Timestamp>1267374113</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:38:30 PDT 2010 -->

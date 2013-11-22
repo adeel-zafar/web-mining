@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303135149AAXCsIy" type="Answered">
+    <Subject>New browser problem. Which is best?</Subject>
+    <Content>I have the option of downloading a new browser on my laptop. I would prefer one that is fast and quick with downloading, but I have a norton, yahoo and google tool bars which i would like to keep, so I do not want one which deletes them. Thank you to all
+I have heard Opera is a fast one also, it is just my laptop has received something through an update recommending a new browser.
+If I chose explorer 8, would that keep the toolbars?
+</Content>
+    <Date>2010-03-03 13:51:49</Date>
+    <Timestamp>1267653109</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303135149AAXCsIy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cLGx7HEhaa</UserId>
+    <UserNick>Cameron L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>2</NumComments>
+    <ChosenAnswer>None of the browsers will delete your toolbars, and they should still be there if you choose to start using Internet Explorer again. Regardless, you will have to get another version of the toolbar that is compatible with the new browser that you choose.
+
+As for your choice of browser, just take a look at the features of each one and decide which one suits you best. I would recommend Mozilla Firefox or Google Chrome since they have a very large library of add-ons (although Google Chrome&#039;s library is still up-and-coming), which means it&#039;s also really easy to get hold of toolbars for them. Safari would also be a good choice, although it isn&#039;t as well supported on Windows machines as Firefox and Chrome, and has a smaller library of add-ons.
+
+As for speed, Google Chrome and Mozilla Firefox are about equal, as the fastest, to the average user when they are still &#039;clean&#039; installs (ie. no add-ons to slow it down).
+
+Mozilla Firefox: http://www.mozilla.com/firefox/
+Google Chrome: http://www.google.com/chrome
+Apple Safari: http://www.apple.com/safari/
+
+[EDIT] If you choose to keep Internet Explorer, then nothing will change IF you have the latest version (8). If you have an older version, then it will simply be updated to version 8. Your toolbars should continue to function with the new version.</ChosenAnswer>
+    <ChosenAnswererId>0AeH1pVuaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gizzo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267653671</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268172340</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox is best and you have to download your toolbars again whichever browser you choose then when you sign back in to Yahoo/Google your toolbar settings will still be the same.
+
+Also Explorer will still be on your computer if your on a PC .</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2fc41c047ea73817b652adfb66c2199aaa</UserId>
+            <UserNick>Gengi$</UserNick>
+            <Date>2010-03-03 13:58:02</Date>
+            <Timestamp>1267653482</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>None of the browsers will delete your toolbars, and they should still be there if you choose to start using Internet Explorer again. Regardless, you will have to get another version of the toolbar that is compatible with the new browser that you choose.
+
+As for your choice of browser, just take a look at the features of each one and decide which one suits you best. I would recommend Mozilla Firefox or Google Chrome since they have a very large library of add-ons (although Google Chrome&#039;s library is still up-and-coming), which means it&#039;s also really easy to get hold of toolbars for them. Safari would also be a good choice, although it isn&#039;t as well supported on Windows machines as Firefox and Chrome, and has a smaller library of add-ons.
+
+As for speed, Google Chrome and Mozilla Firefox are about equal, as the fastest, to the average user when they are still &#039;clean&#039; installs (ie. no add-ons to slow it down).
+
+Mozilla Firefox: http://www.mozilla.com/firefox/
+Google Chrome: http://www.google.com/chrome
+Apple Safari: http://www.apple.com/safari/
+
+[EDIT] If you choose to keep Internet Explorer, then nothing will change IF you have the latest version (8). If you have an older version, then it will simply be updated to version 8. Your toolbars should continue to function with the new version.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0AeH1pVuaa</UserId>
+            <UserNick>Gizzo</UserNick>
+            <Date>2010-03-03 14:01:11</Date>
+            <Timestamp>1267653671</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>cLGx7HEhaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-09 14:13:32</Date>
+            <Timestamp>1267653671</Timestamp>
+        </Comment>
+        <Comment>
+            <Content></Content>
+            <UserId>cLGx7HEhaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-09 14:14:37</Date>
+            <Timestamp>1267653671</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:16 PDT 2010 -->

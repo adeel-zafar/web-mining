@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309184018AAkOkdS" type="Answered">
+    <Subject>how do i delete internet explorer?</Subject>
+    <Content>I use firefox but internet explorer still opens my hotmail and some other programs. How do i get to just firefox?
+</Content>
+    <Date>2010-03-09 18:40:18</Date>
+    <Timestamp>1268188818</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309184018AAkOkdS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4D78yC3Iaa</UserId>
+    <UserNick>Batman</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you dont delete you unistall
+and you dont need to do that anyway
+just change the default program to what you want, not IE</ChosenAnswer>
+    <ChosenAnswererId>lWdNOvo7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Andy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268189361</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268704643</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>usually when you open firefox it should say make firefox your defult browser or somthing like that, and you have to click yes. hope it helped</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>P8ISOP7Taa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-09 18:44:00</Date>
+            <Timestamp>1268189040</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You don&#039;t delete Internet Explorer, it is an integral component of the Windows Operating System.
+
+Find the configuration settings in FireFox (something like Tools\Options) and set it as your default browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>En58zmwhaa</UserId>
+            <UserNick>t-bar</UserNick>
+            <Date>2010-03-09 18:44:19</Date>
+            <Timestamp>1268189059</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you dont delete you unistall
+and you dont need to do that anyway
+just change the default program to what you want, not IE</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>lWdNOvo7aa</UserId>
+            <UserNick>Andy</UserNick>
+            <Date>2010-03-09 18:49:21</Date>
+            <Timestamp>1268189361</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you really don&#039;t like Windows Internet Explorer to disturb your Firefox browser then read on...
+
+Windows Internet Explorer is Installed in your computer and you cannot delete it like a normal file but you can remove it or uninstall the program so that it may stop functioning with Firefox.
+
+My way of doing it is like this:
+
+1. Go to start and click control panel
+2. There you&#039;ll see a list of categories, click on the Add or Remove Programs
+3. After clicking the Add or Remove programs a new window appears showing all the programs installed. Just scroll down and you&#039;ll find Windows Internet Explorer and click on it.
+4. At your right there&#039;s a Remove button, click this and it will remove windows internet explorer.
+5. A dialogue box appears telling you to remove this program or not, by click the yes and no button. Click Yes to remove Windows Internet Explorer.
+
+I hope this works.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uhF8cxfhaa</UserId>
+            <UserNick>Jeffrey</UserNick>
+            <Date>2010-03-09 19:11:53</Date>
+            <Timestamp>1268190713</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:22:31 PDT 2010 -->

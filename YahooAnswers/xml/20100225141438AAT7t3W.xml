@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225141438AAT7t3W" type="Answered">
+    <Subject>can you safely delete internet explorer to use mozilla firefox?</Subject>
+    <Content>a friend recommended firefox to me so i can use tor, i use internet explorer now, its there a safe way where i can delete internet explorer without messing up anything?
+</Content>
+    <Date>2010-02-25 14:14:38</Date>
+    <Timestamp>1267136078</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225141438AAT7t3W</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9b2ef8325e0d74fe7a41561a1f60c9c6aa</UserId>
+    <UserNick>nicole_rebelo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1MD_PwIUyAAECOeObUJQcY-4qKw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Internet Explorer is integrated into the Window&#039;s operating system, so no you can&#039;t safely delete it.
+
+You can set Firefox as your default browser so IE is basically hidden. On Windows 7 and I think Vista, click Start, and go to Default Programs. Then click set your default programs, select Firefox, and finally click Set this Program as Default.
+
+Now every file that Firefox can open (like saved web pages) will open in Firefox automatically instead of IE</ChosenAnswer>
+    <ChosenAnswererId>gN3iLLeWaa</ChosenAnswererId>
+    <ChosenAnswererNick>kol</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267136271</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267363164</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I would use something safer, and faster, such as Chrome or Safari.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3yHwgUlMaa</UserId>
+            <UserNick>adamant™</UserNick>
+            <Date>2010-02-25 14:15:41</Date>
+            <Timestamp>1267136141</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>download firefox, then drag IE into the trash.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eK46XFjcaa</UserId>
+            <UserNick>Alex C</UserNick>
+            <Date>2010-02-25 14:16:02</Date>
+            <Timestamp>1267136162</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Control panel will remove it, but you do not have to. I have both browser installed on my computer, so if it were me I would leave internet explorer on the computer. It doesn;t take up much room and certain sites will not work on firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>901930fc8f0cb1ce4a9483207715497baa</UserId>
+            <UserNick>Linds</UserNick>
+            <Date>2010-02-25 14:16:08</Date>
+            <Timestamp>1267136168</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Depends on your OS...if it is Vista....you cant...I know you can do it for all earlier operating systems....Not sure with windows 7.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jtciYPY6aa</UserId>
+            <UserNick>Lassard</UserNick>
+            <Date>2010-02-25 14:16:23</Date>
+            <Timestamp>1267136183</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Just leave explorer on your pc and use explorer, it&#039;s not hurting anything.  I hated firefox after about a month.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11212822</UserId>
+            <UserNick>Cattales</UserNick>
+            <Date>2010-02-25 14:16:35</Date>
+            <Timestamp>1267136195</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Internet Explorer is integrated into the Window&#039;s operating system, so no you can&#039;t safely delete it.
+
+You can set Firefox as your default browser so IE is basically hidden. On Windows 7 and I think Vista, click Start, and go to Default Programs. Then click set your default programs, select Firefox, and finally click Set this Program as Default.
+
+Now every file that Firefox can open (like saved web pages) will open in Firefox automatically instead of IE</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gN3iLLeWaa</UserId>
+            <UserNick>kol</UserNick>
+            <Date>2010-02-25 14:17:51</Date>
+            <Timestamp>1267136271</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:51 PDT 2010 -->

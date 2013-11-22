@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227141423AAEbsva" type="Answered">
+    <Subject>I&#039;m trying to create a formspring account, please help?</Subject>
+    <Content>When creating an account i filled in all the information and checked the Agree To Terms box and everything (username password, etc) was accepted.  But, when i click &quot;finish&quot; it takes me to a blank page. I have tried on another computer and have tried refreshing the page and it doesnt work, any suggestions? Thanks (:
+</Content>
+    <Date>2010-02-27 14:14:23</Date>
+    <Timestamp>1267308863</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227141423AAEbsva</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cTSe9ZX5aa</UserId>
+    <UserNick>just lovely . (:</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1c__P6gWuAAID9MFuRBelWDsB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s the website.
+It does that to me all the time.
+Try making one in a few Hours.</ChosenAnswer>
+    <ChosenAnswererId>Mi2pbUZlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chanel---</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267308983</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267400168</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>that is weird. i have had things like that happen to me</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ecik9KDWaa</UserId>
+            <UserNick>Patrick</UserNick>
+            <Date>2010-02-27 14:15:29</Date>
+            <Timestamp>1267308929</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s the website.
+It does that to me all the time.
+Try making one in a few Hours.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Mi2pbUZlaa</UserId>
+            <UserNick>Chanel---</UserNick>
+            <Date>2010-02-27 14:16:23</Date>
+            <Timestamp>1267308983</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:42:50 PDT 2010 -->

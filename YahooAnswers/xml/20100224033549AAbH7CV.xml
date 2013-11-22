@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224033549AAbH7CV" type="Answered">
+    <Subject>why do certain web pages not load?</Subject>
+    <Content>i am trying to do my joshua&#039;s law on the internet but for some reason internet explorer or Firefox wont load the page. There are a few others that also wont load.
+</Content>
+    <Date>2010-02-24 03:35:49</Date>
+    <Timestamp>1267011349</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224033549AAbH7CV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mQcUeyDAaa</UserId>
+    <UserNick>Zachary</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What website did you take the course on? Sometimes this could be a flash issue and you need to either download or upgrade your Adobe flash. The customer support reps should be able to walk you through whatever issue it is.</ChosenAnswer>
+    <ChosenAnswererId>6xGkGX7taa</ChosenAnswererId>
+    <ChosenAnswererNick>adian919</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267032998</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267334104</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What website did you take the course on? Sometimes this could be a flash issue and you need to either download or upgrade your Adobe flash. The customer support reps should be able to walk you through whatever issue it is.</Content>
+            <Reference>http://www.joshuaslaw.com</Reference>
+            <Best>1</Best>
+            <UserId>6xGkGX7taa</UserId>
+            <UserNick>adian919</UserNick>
+            <Date>2010-02-24 09:36:38</Date>
+            <Timestamp>1267032998</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:15:21 PDT 2010 -->

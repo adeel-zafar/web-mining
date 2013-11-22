@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319165430AALlf5B" type="Answered">
+    <Subject>Chatroulette problem - webcam only fills 1/4 of the box?</Subject>
+    <Content>Chatroulette used to work fine. It was completely good and normal. 
+I&#039;m not sure why it changed, but now my webcam only fills up 1/4 of the black box. Ive tried asking people if my webcam fills the entire box on their screen, but no one will answer, they just stare at the screen blankly like morons.
+
+I&#039;ve tried editing my settings to make it bigger to fill the box but it won&#039;t let me change it.
+
+I&#039;m not sure why, but I think it may be because I installed Skype. However earlier today it wasn&#039;t working properly, and when I restarted my laptop and tried again, it filled the entire box. I&#039;ve restarted my laptop 3 times in the last half an hour and tried both IE and Google Chrome but its the same on both.
+
+I also think it may be happening since they updated the website. It was down for maintenance and I think it could be since then that it hasn&#039;t been working. 
+
+Has this happened to anyone else? And how can I fix it? Any ideas?
+</Content>
+    <Date>2010-03-19 16:54:30</Date>
+    <Timestamp>1269042870</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319165430AALlf5B</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wcFsZnqaaa</UserId>
+    <UserNick>Joanne</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I haven&#039;t had this problem, but I have had other issues.
+If you look to the bottom of the page you will see an option to go to the &quot;old version&quot; try this link it works for me every time
+Hope this helps 
+Good luck</ChosenAnswer>
+    <ChosenAnswererId>nWeTkYvYaa</ChosenAnswererId>
+    <ChosenAnswererNick>ivor g</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269050038</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269126838</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I haven&#039;t had this problem, but I have had other issues.
+If you look to the bottom of the page you will see an option to go to the &quot;old version&quot; try this link it works for me every time
+Hope this helps 
+Good luck</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nWeTkYvYaa</UserId>
+            <UserNick>ivor g</UserNick>
+            <Date>2010-03-19 18:53:58</Date>
+            <Timestamp>1269050038</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:09 PDT 2010 -->

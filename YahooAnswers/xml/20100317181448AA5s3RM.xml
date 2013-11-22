@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317181448AA5s3RM" type="Answered">
+    <Subject>When one computer connects... Another cannot browse internet?</Subject>
+    <Content>I&#039;m at a friends house on my laptop, and when I got it hooked and connected to the internet (Which is Orange UK service) she was able to browse the internet for a while but now her browser has stopped working. She tried to delete history, cookies anything.. she is still able to go on MSN Messenger, but her Google chrome, mozzila or I.E (All latest addition) say they cannot connect, Her google chrome just says &quot;This webpage is currently down&quot; yet, it says that for every, single, webpage. She said when she got her laptop connected to the internet, her family computer started doing the same. She&#039;s pretty much tried everything she and I can think of, Please help?
+MSN still works.. all things like that will work but her browser wont. thats all. It simply says that the websites are null and temporarily down. Also, its the most recent hub, I cant remember the name.. its Orange (Uk) The hub is meant to allow as many connections as there are in the house but with 8 being the limit before connections faulter. So far there is 4. Her xBox, downstairs computer, her laptop and my laptop.
+</Content>
+    <Date>2010-03-17 18:14:48</Date>
+    <Timestamp>1268874888</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317181448AA5s3RM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mwVTkV9yaa</UserId>
+    <UserNick>Ashley</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1ux33vYmXAAECJME_nIhF8knIDy2LbQ==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well your not giving much detail other than it&#039;s Orange.
+
+The only thing I can think of reading that, is her connection. Either it&#039;s too slow to support two computers or she has used all her capped allowance and her connection is being throttled.</ChosenAnswer>
+    <ChosenAnswererId>WeZcSZvKaa</ChosenAnswererId>
+    <ChosenAnswererNick>sewrobb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268888966</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269394502</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well your not giving much detail other than it&#039;s Orange.
+
+The only thing I can think of reading that, is her connection. Either it&#039;s too slow to support two computers or she has used all her capped allowance and her connection is being throttled.</Content>
+            <Reference>Experienced1</Reference>
+            <Best>5</Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-17 22:09:26</Date>
+            <Timestamp>1268888966</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:42:34 PDT 2010 -->

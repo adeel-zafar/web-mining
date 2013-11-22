@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330183846AAIrih2" type="Answered">
+    <Subject>Internet out in the country?</Subject>
+    <Content>i live out in the country and i have dial-up and it sucks. do any of you know any cheap ways of getting high speed internet out here? Like satalite that does not cost like $60 a month.
+</Content>
+    <Date>2010-03-30 18:38:46</Date>
+    <Timestamp>1269999526</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330183846AAIrih2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>K4V3zAZzaa</UserId>
+    <UserNick>Devon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1qPbnbzkMAAED_4E1vb_2CQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Plug your zip code into an internet search and add high speed internet service provider to your query (I.E. &quot;12345 high speed internet service provider). Most carriers won&#039;t service rural areas because of the expense in laying high speed lines.</ChosenAnswer>
+    <ChosenAnswererId>abOrk5CVaa</ChosenAnswererId>
+    <ChosenAnswererNick>Voo Doo Pirate</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269999720</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270260896</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Plug your zip code into an internet search and add high speed internet service provider to your query (I.E. &quot;12345 high speed internet service provider). Most carriers won&#039;t service rural areas because of the expense in laying high speed lines.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>abOrk5CVaa</UserId>
+            <UserNick>Voo Doo Pirate</UserNick>
+            <Date>2010-03-30 18:42:00</Date>
+            <Timestamp>1269999720</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.hughesnet.com/</Content>
+            <Reference>google.com</Reference>
+            <Best></Best>
+            <UserId>bEEEnNF3aa</UserId>
+            <UserNick>Eagl3</UserNick>
+            <Date>2010-03-30 18:46:38</Date>
+            <Timestamp>1269999998</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:40 PDT 2010 -->

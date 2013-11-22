@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327192325AAe9REN" type="Answered">
+    <Subject>i have an internet connection problem?</Subject>
+    <Content>i have a problem in my internet connection, recently i cant connect to any online game and cant connect to limewire. I can only browse and download. what should i do?
+
+Thanks in advance!
+</Content>
+    <Date>2010-03-27 19:23:25</Date>
+    <Timestamp>1269743005</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327192325AAe9REN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>61gs7K2Paa</UserId>
+    <UserNick>Bong A</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Alot of ISP&#039;s are shutting Limewire  down,,, check yours out ,,, may be your issue.. ~
+
+Edit : Just fixed neighbors computer with friend,, check for malware installed..</ChosenAnswer>
+    <ChosenAnswererId>ssue3clzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasper M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269743811</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270262600</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>reinstall your os system</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PccbJXMtaa</UserId>
+            <UserNick>hhiirraann</UserNick>
+            <Date>2010-03-27 19:26:45</Date>
+            <Timestamp>1269743205</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Alot of ISP&#039;s are shutting Limewire  down,,, check yours out ,,, may be your issue.. ~
+
+Edit : Just fixed neighbors computer with friend,, check for malware installed..</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper M</UserNick>
+            <Date>2010-03-27 19:36:51</Date>
+            <Timestamp>1269743811</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:22 PDT 2010 -->

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317052648AAoxv86" type="Answered">
+    <Subject>Internet problems....help me out guys please.?</Subject>
+    <Content>I have a problem with my internet.Sometimes,it just stops playing videos and can&#039;t download anything.But at that time i can surf the internet(without playing videos and downloads).I used IE and firefox but it happens every time.I have a good internet connection and my anti virus is Kaspersky 6.0.4.1212.Thanks in advance.
+</Content>
+    <Date>2010-03-17 05:26:48</Date>
+    <Timestamp>1268828808</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317052648AAoxv86</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Z2My2JBsaa</UserId>
+    <UserNick>Tanjib R</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Probably it happens due to Overheating of the Modem. If your internet connection is old, it could be probably because your modem cannot handle the large amount of data from videos. The Kaspersky version is also old. Better Upgrade to the latest version and turn off your firewall while browsing. For smooth watching of videos, install SPEEDBIT VIDEO ACCELERATOR from http://www.speedbit.com/</ChosenAnswer>
+    <ChosenAnswererId>s3pVfJkmaa</ChosenAnswererId>
+    <ChosenAnswererNick>__A_YAHOO_USER__</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268830541</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269348235</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>probably caused by a firewall, try turning it off in windows or your antivirus software.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5a2969878efc1ea28cb5f1d0e5c13b07aa</UserId>
+            <UserNick>Diagoras</UserNick>
+            <Date>2010-03-17 05:29:40</Date>
+            <Timestamp>1268828980</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Please try downloading google chrome browser.
+Just visit google.com and type google chrome
+it is free.
+
+I hope this helps</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EMl8D9jyaa</UserId>
+            <UserNick>olei</UserNick>
+            <Date>2010-03-17 05:43:08</Date>
+            <Timestamp>1268829788</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Probably it happens due to Overheating of the Modem. If your internet connection is old, it could be probably because your modem cannot handle the large amount of data from videos. The Kaspersky version is also old. Better Upgrade to the latest version and turn off your firewall while browsing. For smooth watching of videos, install SPEEDBIT VIDEO ACCELERATOR from http://www.speedbit.com/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>s3pVfJkmaa</UserId>
+            <UserNick>Preetam</UserNick>
+            <Date>2010-03-17 05:55:41</Date>
+            <Timestamp>1268830541</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:45:23 PDT 2010 -->

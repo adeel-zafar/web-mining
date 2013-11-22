@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221174443AAy6AAP" type="Answered">
+    <Subject>Where&#039;s a good blog site that won&#039;t limit the amount of characters in my blog?</Subject>
+    <Content>The one I&#039;m using, isn&#039;t even that long but it wont allow it all
+im using blogspot it restricts my characters not only that it wont let me comment on my own to post the rest
+</Content>
+    <Date>2010-02-21 17:44:43</Date>
+    <Timestamp>1266803083</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221174443AAy6AAP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KYaM65gzaa</UserId>
+    <UserNick>Chorus</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b28c8caifebzul6sp1/cMw0Lk42dLTp7mbTC3WDy2fClw--/12/tn48.jpg?ciAAToMBT6nyTmaM</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www.tumblr.com</ChosenAnswer>
+    <ChosenAnswererId>BOtbtd7Haa</ChosenAnswererId>
+    <ChosenAnswererNick>kaybabyy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266803528</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266833739</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.blogspot.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>H4ewbZ0Taa</UserId>
+            <UserNick>Joy</UserNick>
+            <Date>2010-02-21 17:46:40</Date>
+            <Timestamp>1266803200</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>www.tumblr.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BOtbtd7Haa</UserId>
+            <UserNick>kaybabyy</UserNick>
+            <Date>2010-02-21 17:52:08</Date>
+            <Timestamp>1266803528</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:32:24 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310180617AAcHXpe" type="Answered">
+    <Subject>What new internet browser works for Windows Home Edition?</Subject>
+    <Content>I tried Internet Explorer 8 but it doesn&#039;t work for windows home edition, so what should I get? I wanted IE8 because I know how simple it is, so if there&#039;s another almost like that reccomend it =]
+</Content>
+    <Date>2010-03-10 18:06:17</Date>
+    <Timestamp>1268273177</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310180617AAcHXpe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WvserEeOaa</UserId>
+    <UserNick>Your Wonderwall =]</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1dvOhru3TAAEB-sHFzEUvS2YB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>IE should work... but try Google Chrome. It&#039;s nice and simple. It only has the buttons you need, no unnecessary ones. http://google.com/chrome</ChosenAnswer>
+    <ChosenAnswererId>MGvue1KTaa</ChosenAnswererId>
+    <ChosenAnswererNick>▐▀▀▼▀▀▌ ►Michael◄ ▐▄▄▲▄▄▌</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268273410</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268789034</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They all do.  IE8 should work, must be your pc.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-10 18:07:27</Date>
+            <Timestamp>1268273247</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>IE should work... but try Google Chrome. It&#039;s nice and simple. It only has the buttons you need, no unnecessary ones. http://google.com/chrome</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>MGvue1KTaa</UserId>
+            <UserNick>▐▀▀▼▀▀▌ ►Michael◄ ▐▄▄▲▄▄▌</UserNick>
+            <Date>2010-03-10 18:10:10</Date>
+            <Timestamp>1268273410</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:16:12 PDT 2010 -->

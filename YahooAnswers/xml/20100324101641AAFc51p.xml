@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324101641AAFc51p" type="Answered">
+    <Subject>Which domain name should I buy?</Subject>
+    <Content>What sounds better to you? This is just an example: outdoorsportsman.com OR theoutdoorsportsman.com Should I go with or without the &quot;the&quot;
+</Content>
+    <Date>2010-03-24 10:16:41</Date>
+    <Timestamp>1269451001</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324101641AAFc51p</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xPonrcIWaa</UserId>
+    <UserNick>Brilliant</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b9d271di1b7dzws129ac4/fAwCqMU9dLSAYAbCVzZqDQ--/7/tn48.jpeg?ciAAToMBAS9_6a0y</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It is better with out the &quot;the&quot;.  But you can get both their just $10 at http://www.netinternetdomains.com</ChosenAnswer>
+    <ChosenAnswererId>Mhaun4IZaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nate D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269544377</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269970506</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Do not use &quot;the&quot; in the domain name.  Always attempt to use the main keyword in the domain name.</Content>
+            <Reference>experience</Reference>
+            <Best></Best>
+            <UserId>uiW766mFaa</UserId>
+            <UserNick>Paco</UserNick>
+            <Date>2010-03-24 10:24:53</Date>
+            <Timestamp>1269451493</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It is better with out the &quot;the&quot;.  But you can get both their just $10 at http://www.netinternetdomains.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Mhaun4IZaa</UserId>
+            <UserNick>Nate D</UserNick>
+            <Date>2010-03-25 12:12:57</Date>
+            <Timestamp>1269544377</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:35:18 PDT 2010 -->

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223130406AApzzsD" type="Answered">
+    <Subject>Where is the best place to make a Group Blog?</Subject>
+    <Content>Me and my friends want to create a blog together, with a bunch of pages (so no blogger). We want something where we can design together, and pick colors and stuff, put in our own pictures, not like weebly.
+Does anyone have any good ideas?
+</Content>
+    <Date>2010-02-23 13:04:06</Date>
+    <Timestamp>1266959046</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223130406AApzzsD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cJg6WMaaaa</UserId>
+    <UserNick>Anna</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I would suggest using wordpress as the blogging platform and creating multiple author accounts.  You can add pages to a wordpress blog and all authors will be able to post.  I would suggest using just one admin account so there is just one person with the ability to change things but all the authors would get input into the look and feel of the blog.
+
+For some more great tips on blogging be sure to check out http://www.get-pnb.com</ChosenAnswer>
+    <ChosenAnswererId>vewbBI30aa</ChosenAnswererId>
+    <ChosenAnswererNick>Brian L</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267137078</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267602151</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I would suggest using wordpress as the blogging platform and creating multiple author accounts.  You can add pages to a wordpress blog and all authors will be able to post.  I would suggest using just one admin account so there is just one person with the ability to change things but all the authors would get input into the look and feel of the blog.
+
+For some more great tips on blogging be sure to check out http://www.get-pnb.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>vewbBI30aa</UserId>
+            <UserNick>Brian L</UserNick>
+            <Date>2010-02-25 14:31:18</Date>
+            <Timestamp>1267137078</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:19:37 PDT 2010 -->

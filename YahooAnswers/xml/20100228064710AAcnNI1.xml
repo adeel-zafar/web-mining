@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228064710AAcnNI1" type="Answered">
+    <Subject>Guys are u finding problems in finding people on twitter....?</Subject>
+    <Content>I am not able to find people.....whenever i search for people on twitter (not through email id)....i do not get any results.....please help me....check wether u r finding the same problem like me
+</Content>
+    <Date>2010-02-28 06:47:10</Date>
+    <Timestamp>1267368430</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228064710AAcnNI1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IlN0jUTbaa</UserId>
+    <UserNick>ng111gala</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1tmGhlps8AAEBPCKblJ8pm3cB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yea..m havn d same problem for d last 3 days..</ChosenAnswer>
+    <ChosenAnswererId>7qVznUaWaa</ChosenAnswererId>
+    <ChosenAnswererNick>TNT245</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267368620</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267459260</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Twitter is buggy.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YJCWXOe3aa</UserId>
+            <UserNick>Mr S</UserNick>
+            <Date>2010-02-28 06:48:46</Date>
+            <Timestamp>1267368526</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yea..m havn d same problem for d last 3 days..</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7qVznUaWaa</UserId>
+            <UserNick>TNT245</UserNick>
+            <Date>2010-02-28 06:50:20</Date>
+            <Timestamp>1267368620</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes i am! im searching for people who i know have got twitter and it says no results found so i think im having the exact same problem as you, im glad its not just me</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uA2mjN9Yaa</UserId>
+            <UserNick>Sam</UserNick>
+            <Date>2010-02-28 06:55:49</Date>
+            <Timestamp>1267368949</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:39:04 PDT 2010 -->

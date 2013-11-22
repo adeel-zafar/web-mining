@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308091425AAGtyGe" type="Answered">
+    <Subject>Can other people see who you have on your skype contact list?</Subject>
+    <Content>Just wanting to know, if so how can you hide it from other people.
+</Content>
+    <Date>2010-03-08 09:14:25</Date>
+    <Timestamp>1268068465</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308091425AAGtyGe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>G76shBUkaa</UserId>
+    <UserNick>Caramel D</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1fyIbdSHDAAEE-CGU6UKo-BeJJQetsg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no, they can&#039;t.</ChosenAnswer>
+    <ChosenAnswererId>BXsxsPLbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Daisy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268069486</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268762137</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qRy7KAn0aa</UserId>
+            <UserNick>Megan</UserNick>
+            <Date>2010-03-08 09:15:09</Date>
+            <Timestamp>1268068509</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Only if you use screen sharing</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GOWtW4w7aa</UserId>
+            <UserNick>Dexter7724</UserNick>
+            <Date>2010-03-08 09:16:36</Date>
+            <Timestamp>1268068596</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>no, they can&#039;t.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BXsxsPLbaa</UserId>
+            <UserNick>㋡ Daisy</UserNick>
+            <Date>2010-03-08 09:31:26</Date>
+            <Timestamp>1268069486</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:32:50 PDT 2010 -->

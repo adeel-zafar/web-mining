@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306101107AAw1Z35" type="Answered">
+    <Subject>Zomganime is now blocked on firefox?</Subject>
+    <Content>http://safebrowsing.clients.google.com/safebrowsing/diagnostic?client=Firefox&amp;hl=en-US&amp;site=http://www.zomganime.com/
+
+Whenever i go on the site, firefox says its a reported attack site.
+</Content>
+    <Date>2010-03-06 10:11:07</Date>
+    <Timestamp>1267899067</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306101107AAw1Z35</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Y3KdCrqGaa</UserId>
+    <UserNick>Sam X</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s blocked for me, too. It could be that one of the advertisments on the site (pop-ups etc.) is malicious (gives you a virus or other malware). This could be the fault of the zomg&#039;s advertising provider, rather than the site itself, hence the link with other video sites in the diagnostic page. Apparently the site admins are &quot;working on it.&quot;
+
+You can ignore the warning, and Adblock and/or your antivirus /might/ block the offending content (if it does come up).
+
+There are some threads about it here:</ChosenAnswer>
+    <ChosenAnswererId>icqakBx6aa</ChosenAnswererId>
+    <ChosenAnswererNick>5926348</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267926028</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268182692</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well that means the the you will get a virus if you go to that website.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>u32uXIuKaa</UserId>
+            <UserNick>E</UserNick>
+            <Date>2010-03-06 10:19:21</Date>
+            <Timestamp>1267899561</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>also blocked on google chrome...must be a dangerous site...avoid until site is repaired, if repaired</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>F0DjGdt2aa</UserId>
+            <UserNick>Max</UserNick>
+            <Date>2010-03-06 10:19:54</Date>
+            <Timestamp>1267899594</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>its a spyware or something 
+you cant do anything about, just dont go on it or else your computer will crash or something</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GjtddneUaa</UserId>
+            <UserNick>Tim</UserNick>
+            <Date>2010-03-06 10:28:03</Date>
+            <Timestamp>1267900083</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That is strange. Firefox is giving me the same message. I was watching anime this morning, but there was no warning. Something must have happened between this morning and this afternoon that compromised the site and infected it with a virus.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EOnCFHcHaa</UserId>
+            <UserNick>Nate</UserNick>
+            <Date>2010-03-06 11:36:36</Date>
+            <Timestamp>1267904196</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I had that message appear yesterday. I wonder what happened</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MkAl9p0Yaa</UserId>
+            <UserNick>Gem G</UserNick>
+            <Date>2010-03-06 12:57:42</Date>
+            <Timestamp>1267909062</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Any Virus,Trojan,Bug,And Ect. Could be transmited through any video link by any 3 party program.
+
+And my guess is it was mega video&#039;s malicious ads/pop&#039;ups fault.</Content>
+            <Reference>http://www.siteadvisor.com/sites/megavideo.com/summary/</Reference>
+            <Best></Best>
+            <UserId>v2rZVF0faa</UserId>
+            <UserNick>Link</UserNick>
+            <Date>2010-03-06 13:22:10</Date>
+            <Timestamp>1267910530</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s blocked for me, too. It could be that one of the advertisments on the site (pop-ups etc.) is malicious (gives you a virus or other malware). This could be the fault of the zomg&#039;s advertising provider, rather than the site itself, hence the link with other video sites in the diagnostic page. Apparently the site admins are &quot;working on it.&quot;
+
+You can ignore the warning, and Adblock and/or your antivirus /might/ block the offending content (if it does come up).
+
+There are some threads about it here:</Content>
+            <Reference>http://www.zomgforums.com/report-broken-links-out-sync-videos/27540-google-accusing-http-www-zomganime-com-seikon-no-qwaser-episode-6-uncensored-being-attack-site.html
+http://www.zomgforums.com/suggestions-bugs-series-requests/27547-idea-why-zomg-being-blocked.html
+http://www.zomgforums.com/tech-talk/27539-google-safe-browsing-flagged-zomganime.html</Reference>
+            <Best>5</Best>
+            <UserId>icqakBx6aa</UserId>
+            <UserNick>5926348</UserNick>
+            <Date>2010-03-06 17:40:28</Date>
+            <Timestamp>1267926028</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:48:16 PDT 2010 -->

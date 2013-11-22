@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227005943AAKT7dy" type="Answered">
+    <Subject>Help please! My internet keeps disconnecting even though it has full bars?</Subject>
+    <Content>My Windows Vista laptop keeps dropping its internet connection every 30 seconds (Exactly every 30 seconds, I have to disconnect from the internet, then reconnect, then have it go out again 30 seconds later.) I&#039;ve virus scanned it over five times today, but the internet still won&#039;t stop dropping. I know it is not a signal problem, because my internet has full bars when it&#039;s connected. This is beginning to become a major annoyance, it&#039;s nonstop internet dropping. The connection isn&#039;t dropping on any computer but this one, which apparently doesn&#039;t have a virus. Help please?!?
+</Content>
+    <Date>2010-02-27 00:59:43</Date>
+    <Timestamp>1267261183</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227005943AAKT7dy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gOkoSoyOaa</UserId>
+    <UserNick>PwNaGe</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49ea785ficb9zul8sp1/NzinQ4IhdK0V_rI0zwuv1HU8OWc-/2/tn48.png?ciAAToMBjrTZj9hw</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I solved a similar problem on my machine. Hope this helps.
+
+I have separate ADSL modem and wireless router. I noticed that by default both of their IP addresses were &quot;192.168.1.1&quot;. I thought this would create conflict situation. So, I changed the IP address of my wireless router to something different (eg: 192.168.1.20). You can do so by logging on to your router. And simply this solved my problem.
+
+Cheers</ChosenAnswer>
+    <ChosenAnswererId>rEaTQWM7aa</ChosenAnswererId>
+    <ChosenAnswererNick>OM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267371528</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267780398</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to your laptop manufacturer&#039;s website and see if they have an updated driver for your wireless card.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jhTJFgVFaa</UserId>
+            <UserNick>Squalldesu</UserNick>
+            <Date>2010-02-27 01:03:18</Date>
+            <Timestamp>1267261398</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I solved a similar problem on my machine. Hope this helps.
+
+I have separate ADSL modem and wireless router. I noticed that by default both of their IP addresses were &quot;192.168.1.1&quot;. I thought this would create conflict situation. So, I changed the IP address of my wireless router to something different (eg: 192.168.1.20). You can do so by logging on to your router. And simply this solved my problem.
+
+Cheers</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rEaTQWM7aa</UserId>
+            <UserNick>OM</UserNick>
+            <Date>2010-02-28 07:38:48</Date>
+            <Timestamp>1267371528</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:46:29 PDT 2010 -->

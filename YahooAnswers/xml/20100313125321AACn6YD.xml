@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313125321AACn6YD" type="Answered">
+    <Subject>when i start my browser-firefox-the tools,help and favourites etc at the top have disappeared?</Subject>
+    <Content>i am no longer seeing the tool bar right at the top of my web page- the one that has things like
+tools , files, help, favourites, options etc. its just disappeared- how do i get it back. ive already uninstalled firefox and reinstalled but still not there. they are there on internet explorer tho.
+</Content>
+    <Date>2010-03-13 12:53:21</Date>
+    <Timestamp>1268513601</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313125321AACn6YD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>z9PO2Uc9aa</UserId>
+    <UserNick>neilcooper1972</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Press ALT + V ( both keys together)
+
+When the menu bar comes up , select View &gt;.Toolbars&gt;. and double click on Menu Bar until the tick appears next to it
+
+Or are you in Full Screen Mode ?..If so press F11 to return to normal</ChosenAnswer>
+    <ChosenAnswererId>ylyDSpb7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Sexy Scottish Kool Aid Man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268513752</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268592690</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Press ALT + V ( both keys together)
+
+When the menu bar comes up , select View &gt;.Toolbars&gt;. and double click on Menu Bar until the tick appears next to it
+
+Or are you in Full Screen Mode ?..If so press F11 to return to normal</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ylyDSpb7aa</UserId>
+            <UserNick>Sexy Scottish Kool Aid Man</UserNick>
+            <Date>2010-03-13 12:55:52</Date>
+            <Timestamp>1268513752</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Right click an empty spot of the light grey area at top of browser and put a check mark in &quot;Menu Bar&quot;</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7171116e415b32ec3c854edfc2597e14aa</UserId>
+            <UserNick>Tom g</UserNick>
+            <Date>2010-03-13 12:58:44</Date>
+            <Timestamp>1268513924</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:03:36 PDT 2010 -->

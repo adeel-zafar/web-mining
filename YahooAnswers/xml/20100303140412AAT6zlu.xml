@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303140412AAT6zlu" type="Answered">
+    <Subject>Is regular phone cord OK to use to connect my DSL modem?</Subject>
+    <Content>It&#039;s just regular phone cord, the kind you can get 50 feet of at Wal-Mart.  Will that support the bandwidth, or do I need something special?
+I should&#039;ve been more specific: this is the cable that will connect the modem to the wall - not the ethernet cable . . .
+</Content>
+    <Date>2010-03-03 14:04:12</Date>
+    <Timestamp>1267653852</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303140412AAT6zlu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11415716</UserId>
+    <UserNick>kevinb671</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49a8386ei795zul5re4/2XycX7o6frD3SVl.oqc_i5Q-/105/tn48.jpg?ciAAToMBS.j6V.lI</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;ll work provided the plug on each end has 4 metal contacts. Some only have two so that may not work. Simple answer is try it!</ChosenAnswer>
+    <ChosenAnswererId>tfuPCVzOaa</ChosenAnswererId>
+    <ChosenAnswererNick>dancingdog777</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267654038</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267744575</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;ll work provided the plug on each end has 4 metal contacts. Some only have two so that may not work. Simple answer is try it!</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>tfuPCVzOaa</UserId>
+            <UserNick>dancingdog777</UserNick>
+            <Date>2010-03-03 14:07:18</Date>
+            <Timestamp>1267654038</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, you need something special.  It&#039;s called a network cable.  A bit more expenisive, but a phone cable just wont do it.
+
+There are 8 plugs in your network port, and only 4 pins on a phone cable.  8 pins, because it needs them to do it&#039;s job.
+
+Grab a network cable.  Specifically a Patch cable.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>sUnpWbbqaa</UserId>
+            <UserNick>Peter</UserNick>
+            <Date>2010-03-03 14:07:44</Date>
+            <Timestamp>1267654064</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, it will work but I would use the shortest one possible.That will only work to connect your modem to the phone jack on the wall;-)
+
+BTW: It does have to have 4 contacts on it and there are usually green in color.</Content>
+            <Reference>Experience</Reference>
+            <Best></Best>
+            <UserId>ZQAhWrFnaa</UserId>
+            <UserNick>Michael</UserNick>
+            <Date>2010-03-03 14:11:22</Date>
+            <Timestamp>1267654282</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It should work, that&#039;s what I&#039;m using now.
+I hope you don&#039;t mean DSL out to Computer, for that you need an Ethernet cable. But for phone line into DSL modem any regular phone line should work.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gQnsT9cRaa</UserId>
+            <UserNick>Bruce</UserNick>
+            <Date>2010-03-03 14:13:28</Date>
+            <Timestamp>1267654408</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have dsl networking/ you must have a phone line to the wall jack, mine 25 feet long, but to the cpu, you need a ethernet cord, mine yellow from the dsl to the cpu - yes!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QprJQcYyaa</UserId>
+            <UserNick>richard s</UserNick>
+            <Date>2010-03-03 14:13:44</Date>
+            <Timestamp>1267654424</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:13 PDT 2010 -->

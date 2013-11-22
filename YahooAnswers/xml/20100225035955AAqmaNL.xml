@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225035955AAqmaNL" type="Answered">
+    <Subject>Why cant i watch videos on mtv.com &quot;the american site&quot;anymore?</Subject>
+    <Content>ok...right now i live in Taiwan and i&#039;ve been watching ABDC in mtv american site since taiwan doesnt have ABDC but now i cant anymore it says because they can&#039;t let other users from other countries watch it please help me and give me information why i cant watch any videos now!
+</Content>
+    <Date>2010-02-25 03:59:55</Date>
+    <Timestamp>1267099195</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225035955AAqmaNL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Oe2Z3mAMaa</UserId>
+    <UserNick>Ken S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>To watch videos which are restricted to a country (say america as in this case), use HotSpotSheild to get an ip which masks your location. 
+
+I use it all the time to watch my fav tv shows on hulu from america while living in england.
+
+http://hotspotshield.com/</ChosenAnswer>
+    <ChosenAnswererId>5fRlxdQJaa</ChosenAnswererId>
+    <ChosenAnswererNick>ThatGuyCharlie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267099314</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267618389</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>To watch videos which are restricted to a country (say america as in this case), use HotSpotSheild to get an ip which masks your location. 
+
+I use it all the time to watch my fav tv shows on hulu from america while living in england.
+
+http://hotspotshield.com/</Content>
+            <Reference>http://hotspotshield.com/</Reference>
+            <Best>5</Best>
+            <UserId>5fRlxdQJaa</UserId>
+            <UserNick>Charlie</UserNick>
+            <Date>2010-02-25 04:01:54</Date>
+            <Timestamp>1267099314</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:59:41 PDT 2010 -->

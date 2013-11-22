@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314130831AAEHFPI" type="Answered">
+    <Subject>On Twitter, what is the meaning of the # (then various words) posts?</Subject>
+    <Content>What is the point? What do they do? ALL DETAIL!
+</Content>
+    <Date>2010-03-14 13:08:31</Date>
+    <Timestamp>1268597311</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314130831AAEHFPI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4wPGdPryaa</UserId>
+    <UserNick>hughes.joe99</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Because Twitter provided no easy way to group tweets or add extra data, the Twitter community came up with their own way: hashtags.  A hashtag is similar to other web tags- it helps add tweets to a category.</ChosenAnswer>
+    <ChosenAnswererId>xx76GXdtaa</ChosenAnswererId>
+    <ChosenAnswererNick>emily</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268597924</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269116763</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Because Twitter provided no easy way to group tweets or add extra data, the Twitter community came up with their own way: hashtags.  A hashtag is similar to other web tags- it helps add tweets to a category.</Content>
+            <Reference>http://help.twitter.com/entries/49309-what-are-hashtags-symbols</Reference>
+            <Best>5</Best>
+            <UserId>xx76GXdtaa</UserId>
+            <UserNick>emily</UserNick>
+            <Date>2010-03-14 13:18:44</Date>
+            <Timestamp>1268597924</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It means trending topic ... That&#039;s what people are currently tweeting a lot about (:</Content>
+            <Reference>♥</Reference>
+            <Best></Best>
+            <UserId>JmK3Bgdyaa</UserId>
+            <UserNick>ıтzz cʟαяııcε , вııαтcн ▌♥ ▌</UserNick>
+            <Date>2010-03-14 13:26:20</Date>
+            <Timestamp>1268598380</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:58:44 PDT 2010 -->

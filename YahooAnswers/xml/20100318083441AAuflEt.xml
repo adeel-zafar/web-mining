@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318083441AAuflEt" type="Answered">
+    <Subject>Once someone pays you money via Paypal, can they cancel the transaction?</Subject>
+    <Content>I have received a payment via Paypal for an invoice I issued.  This is the first time I&#039;ve done this.  Once the person buying has paid, can they cancel the payment?  Or am I safe to make the shipment immediately?
+</Content>
+    <Date>2010-03-18 08:34:41</Date>
+    <Timestamp>1268926481</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318083441AAuflEt</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>20016d8973329e9fa21b75c5e680c1e9aa</UserId>
+    <UserNick>Neerdowellian</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1-wc6sytKAAECqEJwUJKeBA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If they paid, the only recourse they may have is to claim they never got the goods. That&#039;s why you ship with a tracking number, to prove you actually shipped it. PayPal insists on that when there is a dispute.
+
+Since they paid ahead of your shipping, they are putting some trust into your honesty, so I&#039;d say go ahead and ship with a tracking number, and you should be generally safe...</ChosenAnswer>
+    <ChosenAnswererId>xVfjkTyuaa</ChosenAnswererId>
+    <ChosenAnswererNick>Adrian</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268926877</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269022660</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If they paid, the only recourse they may have is to claim they never got the goods. That&#039;s why you ship with a tracking number, to prove you actually shipped it. PayPal insists on that when there is a dispute.
+
+Since they paid ahead of your shipping, they are putting some trust into your honesty, so I&#039;d say go ahead and ship with a tracking number, and you should be generally safe...</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>xVfjkTyuaa</UserId>
+            <UserNick>Adrian</UserNick>
+            <Date>2010-03-18 08:41:17</Date>
+            <Timestamp>1268926877</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>hi neerdowel..., i trust from their credit card you mean, no but don&#039;t send their order until you have it paid in full not unless you advertized some other advertisement. it is like if you are doing the sell and they sent you their money you are the main man, the big boss the main man so if you have their money and they say i have changed my mind i don&#039;t want the order then send a notice that you have a no return policy so you will be glad to exchange their order for other merchandise but when they sent the money and you have it all then send out their order like you agreed to do. that is how the big dogs do it like i saw a tool advertised on televission it is not what i thought it was so i tried to return it but trancaction went through sorry to me so buyer beware and that is how it is. congratulation for the sale i hope your product is of good quality and then they will not want their money back they want their merchandise. good luck hope i was helpful to you</Content>
+            <Reference>the only thing you didn&#039;t mention is what your product is who knows i might have wanted to make an order there is a saying you snooze you lose. wake up and make those sales where you can and it might have been something i could have used too oh well better luck next time. walking advertise ment. lol</Reference>
+            <Best></Best>
+            <UserId>6XYxCk6taa</UserId>
+            <UserNick>hemppy</UserNick>
+            <Date>2010-03-18 08:54:39</Date>
+            <Timestamp>1268927679</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Can a buyer cancel a transaction such that the money disappears from your Paypal account?  No.  But all or a portion of the funds* can be frozen in your Paypal account for up to a full month if the buyer opens a dispute against you.  If the buyer prevails against you in his dispute, Paypal would remove the disputed funds* from your account and give them back to the buyer.  Paypal itself determines who wins and who loses.
+
+* If the buyer gave you $200 but disputes only $15 of that amount, then only $15 would be frozen, not the full amount.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>weISqaxGaa</UserId>
+            <UserNick>Jack Corbin</UserNick>
+            <Date>2010-03-19 10:42:53</Date>
+            <Timestamp>1269020573</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:18 PDT 2010 -->

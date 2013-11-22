@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329165015AA9wOzL" type="Answered">
+    <Subject>Need Help With Mozilla Firefox?</Subject>
+    <Content>ok i dont know what i did but whenever i open a new tab i get a yahoo.com homepage, i was wondering how i can change the homepage of my tabs instead of the yahoo.com one.
+</Content>
+    <Date>2010-03-29 16:50:15</Date>
+    <Timestamp>1269906615</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329165015AA9wOzL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Vr1tl9yNaa</UserId>
+    <UserNick>Alex</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I read you can only make a blank tab appear as your homepage by using an add-on. Did you download an add-on for firefox? I&#039;m not sure how to fix it, must be within the settings of that particular add-on....I don&#039;t have one on mine. Try searching the internet for specific add-ons for firefox that do that and then search your computer to see if you installed any. Check to see if you have the latest version of Firefox too....maybe there is an issue with an add-on.</ChosenAnswer>
+    <ChosenAnswererId>kxLvo67Haa</ChosenAnswererId>
+    <ChosenAnswererNick>L</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269907692</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270069606</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I read you can only make a blank tab appear as your homepage by using an add-on. Did you download an add-on for firefox? I&#039;m not sure how to fix it, must be within the settings of that particular add-on....I don&#039;t have one on mine. Try searching the internet for specific add-ons for firefox that do that and then search your computer to see if you installed any. Check to see if you have the latest version of Firefox too....maybe there is an issue with an add-on.</Content>
+            <Reference>http://support.mozilla.com/en-US/forum/1/296265?s=tabs%20open%20as%20homepage&amp;as=q</Reference>
+            <Best>5</Best>
+            <UserId>kxLvo67Haa</UserId>
+            <UserNick>L</UserNick>
+            <Date>2010-03-29 17:08:12</Date>
+            <Timestamp>1269907692</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:15:28 PDT 2010 -->

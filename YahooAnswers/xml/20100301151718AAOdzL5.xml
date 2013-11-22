@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301151718AAOdzL5" type="Answered">
+    <Subject>How do I get a music player on my tumblr?</Subject>
+    <Content>I don&#039;t like streampad though. Any other choices?
+</Content>
+    <Date>2010-03-01 15:17:18</Date>
+    <Timestamp>1267485438</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301151718AAOdzL5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>s3hUJkzEaa</UserId>
+    <UserNick>Joy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.tumbltape.com/ or http://www.playlist.com/</ChosenAnswer>
+    <ChosenAnswererId>UQz5fngmaa</ChosenAnswererId>
+    <ChosenAnswererNick>ａｌｏｐｅｘ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267580178</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268004872</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.tumbltape.com/ or http://www.playlist.com/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UQz5fngmaa</UserId>
+            <UserNick>ａｌｏｐｅｘ</UserNick>
+            <Date>2010-03-02 17:36:18</Date>
+            <Timestamp>1267580178</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:30:09 PDT 2010 -->

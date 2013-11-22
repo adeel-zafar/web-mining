@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321044405AAK8As6" type="Answered">
+    <Subject>my internet keeps disconnecting (bt home hub 2.0)?</Subject>
+    <Content>I am with BT and using a BT home hub 2.0 
+My computer is using a dynamode 802.11N wireless USB adapter (WL-700N-M)
+Recently at least once an hour, my google chrome will come up with this error:
+This web page is not available.
+
+The web page at null might be temporarily down or it may have moved permanently to a new web address.
+
+Here are some suggestions:
+Reload this web page later.
+  More information on this error
+Below is the original error message
+
+Error 105 (net::ERR_NAME_NOT_RESOLVED): The server could not be found.
+
+ 
+
+i have tried firefox and other browsers and they all seem to be coming up with that error or similar.
+please help me if you can and thank you for your time.
+</Content>
+    <Date>2010-03-21 04:44:05</Date>
+    <Timestamp>1269171845</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321044405AAK8As6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dVgpm24xaa</UserId>
+    <UserNick>Luke</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi
+
+I seem to have similar problem and for me closing the browser then reopen sometimes works or reload password or repair option gets things working.But have not found a fix but on one restart microsoft pop up said known fault but no fix yet?So I&#039;m hoping they get back with a fix soon.</ChosenAnswer>
+    <ChosenAnswererId>Eo5fOgKXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Roy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269180468</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269691406</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hi
+
+I seem to have similar problem and for me closing the browser then reopen sometimes works or reload password or repair option gets things working.But have not found a fix but on one restart microsoft pop up said known fault but no fix yet?So I&#039;m hoping they get back with a fix soon.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Eo5fOgKXaa</UserId>
+            <UserNick>Roy</UserNick>
+            <Date>2010-03-21 07:07:48</Date>
+            <Timestamp>1269180468</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Its happening to me too! Its really annoying I have a coursework deadline for tomorrow. I live in Norfolk and near Norwich and I know its not happening to everyone. Im not getting any errors when I go online its just my Home Hub 2.0 keeps getting and Orange light on the broadband section!
+
+If anyone knows whats happening, it may be they&#039;re doing some works but I thought that would be notified beefore it happened, please let me know thanks.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6mBxgkZtaa</UserId>
+            <UserNick>MrGibbs</UserNick>
+            <Date>2010-03-21 12:03:12</Date>
+            <Timestamp>1269198192</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:10 PDT 2010 -->

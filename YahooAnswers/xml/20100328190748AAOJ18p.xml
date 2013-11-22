@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328190748AAOJ18p" type="Answered">
+    <Subject>how do i narrow down a search?</Subject>
+    <Content>When I&#039;m searching things on the internet, I swear there&#039;s something wrong with the computer, I look up something on yahoo, yahoo answers etc, and it takes a while to find what I&#039;m looking for. E.g. A while ago I searched up &quot;BoA lyrics&quot; and lots of results came up that I wanted, but now I can&#039;t find any??
+</Content>
+    <Date>2010-03-28 19:07:48</Date>
+    <Timestamp>1269828468</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328190748AAOJ18p</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iKWXjXm9aa</UserId>
+    <UserNick>hambug</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Insert the + symbol in front of each word you type in the search box.</ChosenAnswer>
+    <ChosenAnswererId>r49T7zQlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Croc</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269830494</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270347936</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Insert the + symbol in front of each word you type in the search box.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>r49T7zQlaa</UserId>
+            <UserNick>Croc</UserNick>
+            <Date>2010-03-28 19:41:34</Date>
+            <Timestamp>1269830494</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:18 PDT 2010 -->

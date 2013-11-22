@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318173825AAOwOSD" type="Answered">
+    <Subject>Can I delete my Twitter account?</Subject>
+    <Content>I&#039;ve got an old twitter account I want to delete. Is there any way of getting rid of it other then removing all of my tweets and followers, etc? (Because that would take FOREVER.)
+Thanks Joel! Best Answer is all yours for helping. :)
+Thanks to anyone else who posts trying to help too, its always appreciated. :3
+</Content>
+    <Date>2010-03-18 17:38:25</Date>
+    <Timestamp>1268959105</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318173825AAOwOSD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>a22u8LCWaa</UserId>
+    <UserNick>Ashley</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/18-Yx-bpxAAED4CKcdCb7Cw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yes, simply go to &quot;settings&quot; and scroll down to the bottom part of the white section on the tab &quot;account.&quot; you will see in small text &quot;deactivate my account.&quot; click that and follow the instructions</ChosenAnswer>
+    <ChosenAnswererId>Bq6kW0MJaa</ChosenAnswererId>
+    <ChosenAnswererNick>Joel L</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268959349</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269199696</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wmcwGi8Taa</UserId>
+            <UserNick>Nickki</UserNick>
+            <Date>2010-03-18 17:41:29</Date>
+            <Timestamp>1268959289</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes, simply go to &quot;settings&quot; and scroll down to the bottom part of the white section on the tab &quot;account.&quot; you will see in small text &quot;deactivate my account.&quot; click that and follow the instructions</Content>
+            <Reference>ive done it before my friend, twitter sucks</Reference>
+            <Best>5</Best>
+            <UserId>Bq6kW0MJaa</UserId>
+            <UserNick>Joel L</UserNick>
+            <Date>2010-03-18 17:42:29</Date>
+            <Timestamp>1268959349</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, you can delete your Twitter account by logging in, going to Settings and then to the Account section.
+
+From there, you should scroll down and then click on &quot;Deactivate my account.&quot;
+
+Good luck and I hope I helped you!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7fd15b7507af7da3c6ae3fb710bbdd1aaa</UserId>
+            <UserNick>Jamie</UserNick>
+            <Date>2010-03-18 17:43:52</Date>
+            <Timestamp>1268959432</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Deactivatng your account permanently removes your profile from Twitter.  Note that deactivated profiles may take up to 30 days to clear from our internal systems. While the deactivation is being completed, usernames or email addresses cannot be used in the creation of new accounts.  If you wish to use your username or email address with a future account, be sure to change them in your Settings page before you deactivate your account.  You can deactivate your account from your account settings page by clicking &quot;Deactivate my account&quot; at the bottom.</Content>
+            <Reference>http://help.twitter.com/entries/15358-how-to-deactivate-your-account</Reference>
+            <Best></Best>
+            <UserId>AA11946174</UserId>
+            <UserNick>David O</UserNick>
+            <Date>2010-03-18 18:15:54</Date>
+            <Timestamp>1268961354</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:37:52 PDT 2010 -->

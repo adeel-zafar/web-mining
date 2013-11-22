@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318221240AAwWDpd" type="Answered">
+    <Subject>I want to start a blog, but i don&#039;t know what to have it about?</Subject>
+    <Content>I want something that would get peoples attention (high traffic) that&#039;s not gossip. My life wouldn&#039;t work because it&#039;s a total bore. Any ideas?
+</Content>
+    <Date>2010-03-18 22:12:40</Date>
+    <Timestamp>1268975560</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318221240AAwWDpd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>l9NnkHruaa</UserId>
+    <UserNick>Nathan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1QcKjP3WgAAECzGKb5LrIBw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>do you have any hobbies? passions? opinions on music? are you a bit of a movie critic? etc.</ChosenAnswer>
+    <ChosenAnswererId>WNKx2Bp7aa</ChosenAnswererId>
+    <ChosenAnswererNick>princess_kitty</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268975902</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269147333</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Purchase a domain,
+
+Purchase hosting, make sure your hosting offers a database.
+
+Goto http://wordpress.org/ and download wordpress.
+
+Upload it to your host.
+
+Follow the instructions for the 5 minute setup on the wordpress site.
+
+Enjoy.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BgwTxzEFaa</UserId>
+            <UserNick>korgrue</UserNick>
+            <Date>2010-03-18 22:16:11</Date>
+            <Timestamp>1268975771</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>do you have any hobbies? passions? opinions on music? are you a bit of a movie critic? etc.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>WNKx2Bp7aa</UserId>
+            <UserNick>princess_kitty</UserNick>
+            <Date>2010-03-18 22:18:22</Date>
+            <Timestamp>1268975902</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>blogger.com signup your account and you can make blog your own very easy way.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>66VGkvjZaa</UserId>
+            <UserNick>Hunts</UserNick>
+            <Date>2010-03-18 22:31:03</Date>
+            <Timestamp>1268976663</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:37:08 PDT 2010 -->

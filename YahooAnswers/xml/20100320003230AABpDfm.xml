@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320003230AABpDfm" type="Answered">
+    <Subject>Firefox taking too long to load pictures!?</Subject>
+    <Content>It takes like 20+ seconds just to load a few pictures.. it never does this, what could be the possible reason?  It started to act like this all today.
+
+Email me for questions...
+The site it is mainly doing it to is www.interpals.net
+
+They have just finished fixing the site and it takes so long to load the pictures now, they made it so if your not active for 2 minutes they log you out! it is so stupid! but anyways any help?!
+</Content>
+    <Date>2010-03-20 00:32:30</Date>
+    <Timestamp>1269070350</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320003230AABpDfm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>YG01S9rVaa</UserId>
+    <UserNick>Me~</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1gZHHTdT3AAED-2Ey0VbADcgB.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The sever of this website is not fast for your connection. it&#039;s not firefox&#039;s problem.</ChosenAnswer>
+    <ChosenAnswererId>qZSKLayraa</ChosenAnswererId>
+    <ChosenAnswererNick>Charles</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269105393</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269308469</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Contact your host. Your speed may be the problem.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>voSuVHTVaa</UserId>
+            <UserNick>sram</UserNick>
+            <Date>2010-03-20 00:36:02</Date>
+            <Timestamp>1269070562</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>clean your history.
+delete your caches and cookies.
+:)
+try it,
+it might work.
+goodluck</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eV3FKJ9Xaa</UserId>
+            <UserNick>iamyou</UserNick>
+            <Date>2010-03-20 00:36:51</Date>
+            <Timestamp>1269070611</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can make some tweaks here: http://www.bestofcomputers.co.nr/?p=142</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FV2LBL3vaa</UserId>
+            <UserNick>Chetan</UserNick>
+            <Date>2010-03-20 00:54:43</Date>
+            <Timestamp>1269071683</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The sever of this website is not fast for your connection. it&#039;s not firefox&#039;s problem.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>qZSKLayraa</UserId>
+            <UserNick>Charles</UserNick>
+            <Date>2010-03-20 10:16:33</Date>
+            <Timestamp>1269105393</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Give up on Firefox until its fixed there are currently just too many problems to rate it as a reliable piece of software. Try Orca, K-Meleon or Flock they are all free Mozilla based browsers and are all faster than Firefox. They have been produced by people who agree the Mozilla search engine is best but that firefox has gone wrong somewhere. If you go to firefox help pages or Mozillazine help pages you will see that the people there are extremely arrogant and blame everything and everybody for having problems with Firefox. Not a good sign. IE8 is OK with a shell like Avant or Maxthon or slim browser. But a browser that is not part of the OS will always be more secure. the less well known it is the less likely it will be hacked. current versions have problems with pictures and thumbnails and can open several versions at once and freeze the computer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-20 13:05:33</Date>
+            <Timestamp>1269115533</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:32:41 PDT 2010 -->

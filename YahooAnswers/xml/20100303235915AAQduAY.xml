@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303235915AAQduAY" type="Answered">
+    <Subject>some sites can&#039;t open !!?</Subject>
+    <Content>some of the sites can&#039;t open (problem from the router) but other sites work normally because when i try those sites on my laptop on another router they open normally
+do u know why???
+</Content>
+    <Date>2010-03-03 23:59:15</Date>
+    <Timestamp>1267689555</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303235915AAQduAY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>228dd48cf64b44a0a3b5e5febc2fd11baa</UserId>
+    <UserNick>Anas.R.H</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>SO, what was your question?</ChosenAnswer>
+    <ChosenAnswererId>eSHlcsmnaa</ChosenAnswererId>
+    <ChosenAnswererNick>BONEZ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267689815</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268208790</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>SO, what was your question?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>eSHlcsmnaa</UserId>
+            <UserNick>BONEZ</UserNick>
+            <Date>2010-03-04 00:03:35</Date>
+            <Timestamp>1267689815</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Either these sites are blocked by the filter on the router or the nameserver that this router uses has blocked these sites.
+
+You may try opening the admin panel and see if any sites are blocked. If this is a router at work, there is a fair chance that this is indeed the case.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>c75u2IYKaa</UserId>
+            <UserNick>Arun</UserNick>
+            <Date>2010-03-04 00:10:17</Date>
+            <Timestamp>1267690217</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:12:55 PDT 2010 -->

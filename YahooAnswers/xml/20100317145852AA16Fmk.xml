@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317145852AA16Fmk" type="Answered">
+    <Subject>Which company is better for internet tv and phone COX or CenturyLink?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-17 14:58:52</Date>
+    <Timestamp>1268863132</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317145852AA16Fmk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Z1QroanWaa</UserId>
+    <UserNick>Justin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1lhseACeaAAEB_IF32JAf4nDWXfwLn7pZeAM=.medium.jpg</UserPhotoURL>
+    <NumAnswers>0</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>CenturyLink!  I can tell you from years of telecommunication experience that DSL is more reliable, stable, and less expensive than Cable any day.  Further more VOIP (Cox) technology is still far from being as reliable as a LAN line when your talking about phone service.  Depending on where you live CenturyLink sells IPTV and Dish Network.  IPTV is more expensive but a fun and reliable product.  Dish is much less expensive than Cox but Dish reliability is hit and miss depending on where you live.</ChosenAnswer>
+    <ChosenAnswererId>iPDLLrpFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Justin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269206460</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269382498</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>CenturyLink!  I can tell you from years of telecommunication experience that DSL is more reliable, stable, and less expensive than Cable any day.  Further more VOIP (Cox) technology is still far from being as reliable as a LAN line when your talking about phone service.  Depending on where you live CenturyLink sells IPTV and Dish Network.  IPTV is more expensive but a fun and reliable product.  Dish is much less expensive than Cox but Dish reliability is hit and miss depending on where you live.</Content>
+            <Reference>telecommunication employee</Reference>
+            <Best>5</Best>
+            <UserId>iPDLLrpFaa</UserId>
+            <UserNick>Justin</UserNick>
+            <Date>2010-03-21 14:21:00</Date>
+            <Timestamp>1269206460</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:43:31 PDT 2010 -->

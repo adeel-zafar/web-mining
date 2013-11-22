@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303123638AAnmgEY" type="Answered">
+    <Subject>How can I download several podcasts or MP3 files from NPR all at once without having to do it one by one?</Subject>
+    <Content>I started downloading Talk of the Nation programs from 2008 but I want to download several months that I missed on that year.
+</Content>
+    <Date>2010-03-03 12:36:38</Date>
+    <Timestamp>1267648598</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303123638AAnmgEY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>387e6bdcfa21776c19717287461e2171aa</UserId>
+    <UserNick>Coy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try using tabbed browsing. Open a new tab for each show you want and download it separately that way.</ChosenAnswer>
+    <ChosenAnswererId>6HwcJDbiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Christopher B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267649273</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268168140</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try using tabbed browsing. Open a new tab for each show you want and download it separately that way.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6HwcJDbiaa</UserId>
+            <UserNick>Christopher B</UserNick>
+            <Date>2010-03-03 12:47:53</Date>
+            <Timestamp>1267649273</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:55 PDT 2010 -->

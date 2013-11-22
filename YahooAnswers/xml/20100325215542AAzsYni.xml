@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325215542AAzsYni" type="Answered">
+    <Subject>trying to use my friends internet, dont know the wifi password?</Subject>
+    <Content>its through comcast internet
+where do i find the password?
+help!
+im not stealing. i have permission, idiot.
+</Content>
+    <Date>2010-03-25 21:55:42</Date>
+    <Timestamp>1269579342</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325215542AAzsYni</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6tIgoroYaa</UserId>
+    <UserNick>Cyborg</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1D0q2VCHDAAECB4ScTCZidcdIGTP8iw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s usually the phone number associated with the account. If that&#039;s not it and your friend doesn&#039;t know/remember the code, call up the provider and they should be able to help.</ChosenAnswer>
+    <ChosenAnswererId>c97d0a981a904b480c007f6300d388eaaa</ChosenAnswererId>
+    <ChosenAnswererNick>jm4</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269579512</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269741822</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go to www.lemonparty.org , they can help u hack the internet password really quickly, and it wont damage the computer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gjtskLfLaa</UserId>
+            <UserNick>H2SO4</UserNick>
+            <Date>2010-03-25 21:57:07</Date>
+            <Timestamp>1269579427</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s usually the phone number associated with the account. If that&#039;s not it and your friend doesn&#039;t know/remember the code, call up the provider and they should be able to help.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>c97d0a981a904b480c007f6300d388eaaa</UserId>
+            <UserNick>jm4</UserNick>
+            <Date>2010-03-25 21:58:32</Date>
+            <Timestamp>1269579512</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Either ask them for their password, or quit trying to steal internet service!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-25 21:58:43</Date>
+            <Timestamp>1269579523</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:40 PDT 2010 -->

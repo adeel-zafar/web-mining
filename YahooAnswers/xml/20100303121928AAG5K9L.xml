@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303121928AAG5K9L" type="Answered">
+    <Subject>Verizon High Speed Internet General Question.?</Subject>
+    <Content>Okay, well I just paid for Verizon High Speed Internet (FIOS isn&#039;t available in the hicks). I got telephone line &quot;adapters&quot; in the mail today along with a few papers to go along with everything. The Internet setup shows a modem with a telephone line going to it instead of a coax cable.
+Is High Speed Internet, cause it looks a lot like DSL to me?
+</Content>
+    <Date>2010-03-03 12:19:28</Date>
+    <Timestamp>1267647568</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303121928AAG5K9L</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Y5wIU49Taa</UserId>
+    <UserNick>Tyler</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>DSL IS high speed internet! You got some line filters, but yes it basically just uses your phone line. Don&#039;t confuse DSL with &#039;dial-up&#039; - it&#039;s much faster - up to 10-15MB/s if there is a decent fiber network in your area, but a minimum of 1.5 - 2 MB/s anyway, even over old copper phone lines.</ChosenAnswer>
+    <ChosenAnswererId>VzSpV4Xoaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dave L</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267647864</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267739479</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It is DSL. You need to get Cable.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>us3dBYpeaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-03 12:24:00</Date>
+            <Timestamp>1267647840</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>DSL IS high speed internet! You got some line filters, but yes it basically just uses your phone line. Don&#039;t confuse DSL with &#039;dial-up&#039; - it&#039;s much faster - up to 10-15MB/s if there is a decent fiber network in your area, but a minimum of 1.5 - 2 MB/s anyway, even over old copper phone lines.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>VzSpV4Xoaa</UserId>
+            <UserNick>Dave L</UserNick>
+            <Date>2010-03-03 12:24:24</Date>
+            <Timestamp>1267647864</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:17:03 PDT 2010 -->

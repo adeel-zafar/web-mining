@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301073919AAj1rpD" type="Answered">
+    <Subject>Internet Explorer Help?</Subject>
+    <Content>Hello,
+
+I have windows 7 with the current updated internet explorer. I am having trouble with passwords.
+
+Lastweek I was able to log into my facebook page and not have to enter a password. Today it will remember my username but it won&#039;t enter the password.
+
+It works fine on anyother site. I checked the auto complete and its checked for saving passwords.
+I didn&#039;t even log out of facebook. If i choose to close the page i am stuck re-entering everything.
+
+I don&#039;t even get a box that asked me to save info on facebook anymore..any help would be great.
+
+Also,
+Is firefox any good? is it safe to use? and how does it compare to windows ie?
+
+thanks
+</Content>
+    <Date>2010-03-01 07:39:19</Date>
+    <Timestamp>1267457959</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301073919AAj1rpD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>t1H2ehmgaa</UserId>
+    <UserNick>cleveland129</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You should upgrade to IE8.
+Try this (on either):
+Internet Explorer users, do this first:
+Tools&gt; Internet options&gt; Security&gt; tick the &quot;Internet&quot; icon&gt; Security level box&gt; set slider to &quot;Medium high&quot;&gt; OK out.  Then:
+
+IE (pre-8): Go to the site first&gt; Tools&gt; Internet options&gt; Security&gt; tick the &#039;Trusted&#039; icon&gt; Sites&gt; Add&gt; ok&gt; out
+Note this setting may permit undesirable &#039;Active scripting&#039; or other server based action: use with caution, especially if you have &#039;Active content&#039; allowed.
+Again, supplemental blockers, in browsers mainly, may have to be muted, or &#039;site allowed&#039;.
+
+IE 8:
+Go to the site needing approval &amp; copy the URL from address bar, then:
+Tools&gt; Internet Options&gt; Privacy&gt; Sites&gt; paste that URL into top line&gt; Allow&gt; OK&gt; OK.
+The &quot;Pop-up Blocker&quot; may also need to be modified to accommodate the site. 
+Tools&gt; Internet Options&gt; Pop up blocker heading&gt; Settings&gt; again, paste that URL into the slot&gt; Close&gt; OK.
+
+General cookie settings should be:
+Tools&gt; Internet Options&gt; Privacy&gt; Advanced: tick &quot;Override...&quot;; Allow 1st party cookies; Allow session Cookies  ►BLOCK 3rd Party cookies&gt; OK&gt; OK.
+
+IE (any breed) is a steaming pile of bull plop.
+Firefox is 2 orders of magnitude better and safer (with the proper add-on&#039;s).</ChosenAnswer>
+    <ChosenAnswererId>14d0ad3dfdb4dd36a9f896b96a702e69aa</ChosenAnswererId>
+    <ChosenAnswererNick>Dunbar Pappy ϟϟ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267459018</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267977273</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox is sooo much better than Internet Explorer, IE is shit.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FZR6D90Kaa</UserId>
+            <UserNick>﻿διαύγεια - Clarity</UserNick>
+            <Date>2010-03-01 07:42:05</Date>
+            <Timestamp>1267458125</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You should upgrade to IE8.
+Try this (on either):
+Internet Explorer users, do this first:
+Tools&gt; Internet options&gt; Security&gt; tick the &quot;Internet&quot; icon&gt; Security level box&gt; set slider to &quot;Medium high&quot;&gt; OK out.  Then:
+
+IE (pre-8): Go to the site first&gt; Tools&gt; Internet options&gt; Security&gt; tick the &#039;Trusted&#039; icon&gt; Sites&gt; Add&gt; ok&gt; out
+Note this setting may permit undesirable &#039;Active scripting&#039; or other server based action: use with caution, especially if you have &#039;Active content&#039; allowed.
+Again, supplemental blockers, in browsers mainly, may have to be muted, or &#039;site allowed&#039;.
+
+IE 8:
+Go to the site needing approval &amp; copy the URL from address bar, then:
+Tools&gt; Internet Options&gt; Privacy&gt; Sites&gt; paste that URL into top line&gt; Allow&gt; OK&gt; OK.
+The &quot;Pop-up Blocker&quot; may also need to be modified to accommodate the site. 
+Tools&gt; Internet Options&gt; Pop up blocker heading&gt; Settings&gt; again, paste that URL into the slot&gt; Close&gt; OK.
+
+General cookie settings should be:
+Tools&gt; Internet Options&gt; Privacy&gt; Advanced: tick &quot;Override...&quot;; Allow 1st party cookies; Allow session Cookies  ►BLOCK 3rd Party cookies&gt; OK&gt; OK.
+
+IE (any breed) is a steaming pile of bull plop.
+Firefox is 2 orders of magnitude better and safer (with the proper add-on&#039;s).</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>14d0ad3dfdb4dd36a9f896b96a702e69aa</UserId>
+            <UserNick>Dunbar Pappy ϟϟ</UserNick>
+            <Date>2010-03-01 07:56:58</Date>
+            <Timestamp>1267459018</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>stop using Firefox and IE
+Install Apple Safari,it rules!! It&#039;s much faster than Firefox.
+P.S don&#039;t use Chrome,its all hype and it lacks security!!
+I&#039;m a browser expert,so you can count on me :)
+Use Safari</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0od5FmAkaa</UserId>
+            <UserNick>Bozo</UserNick>
+            <Date>2010-03-01 10:57:13</Date>
+            <Timestamp>1267469833</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:32 PDT 2010 -->

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305010527AAxMlYC" type="Answered">
+    <Subject>Firefox keep crashing?</Subject>
+    <Content>Every single time I open Firefox 3.6, it crashes instantly after loading my homepage (MSN)
+
+I run Windows 7 home and office 32-bit, brand new computer
+</Content>
+    <Date>2010-03-05 01:05:27</Date>
+    <Timestamp>1267779927</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305010527AAxMlYC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4lD1d2qbaa</UserId>
+    <UserNick>Tony W</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/10gxQdSejAAED_IFRSKBN1JoA.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Possible malware OR bad install.  Re-install Firefox.
+=
+Download, Install, &amp; Run == All-Free
+-
+AVG Antivirus Software
+http://free.avg.com
+-
+SuperAntiSpyware
+http://www.superantispyware.com
+-
+Malwarebytes Anti-Malware
+http://www.malwarebytes.org/mbam.php
+-
+CCleaner
+http://www.ccleaner.com</ChosenAnswer>
+    <ChosenAnswererId>MZ1DRSflaa</ChosenAnswererId>
+    <ChosenAnswererNick>tbshmkr</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267781101</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268299388</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There must be a virus/malware in your computer. I advise you to do a full system scan with Avast Anti-Virus. Also scan with Malwarebytes.</Content>
+            <Reference>Been using Firefox since forever. Never faced problems with it.</Reference>
+            <Best></Best>
+            <UserId>mWjYe2spaa</UserId>
+            <UserNick>casey</UserNick>
+            <Date>2010-03-05 01:14:39</Date>
+            <Timestamp>1267780479</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Possible malware OR bad install.  Re-install Firefox.
+=
+Download, Install, &amp; Run == All-Free
+-
+AVG Antivirus Software
+http://free.avg.com
+-
+SuperAntiSpyware
+http://www.superantispyware.com
+-
+Malwarebytes Anti-Malware
+http://www.malwarebytes.org/mbam.php
+-
+CCleaner
+http://www.ccleaner.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>MZ1DRSflaa</UserId>
+            <UserNick>tbshmkr</UserNick>
+            <Date>2010-03-05 01:25:01</Date>
+            <Timestamp>1267781101</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Chrome and the newly released Opera 10.5 are THE best.
+Opera 10.5 is the fastest browser along with chrome..It also sports a great number of features.
+Chrome is just soo simple and fast.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0od5FmAkaa</UserId>
+            <UserNick>Bozo</UserNick>
+            <Date>2010-03-05 10:51:30</Date>
+            <Timestamp>1267815090</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Give up on Firefox until its fixed there are currently just too many problems to rate it as a reliable piece of software. Try Orca, K-Meleon or Flock they are all free Mozilla based browsers and are all faster than Firefox. They have been produced by people who agree the Mozilla search engine is best but that firefox has gone wrong somewhere. If you go to firefox help pages or Mozillazine help pages you will see that the people there are extremely arrogant and blame everything and everybody for having problems with Firefox. Not a good sign. IE8 is OK with a shell like Avant or Maxthon or slim browser. But a browser that is not part of the OS will always be more secure. the less well known it is the less likely it will be hacked.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-05 11:13:46</Date>
+            <Timestamp>1267816426</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>A computer&#039;s registry is one big database that has numerous files, options, and settings. These settings and options keep changing with every second of you using your PC and can lead to the damage of some of these settings. This causes errors to show up and the computer to crash.  Registry cleaners http://make-a-computer-run-better.com      software scan the computer&#039;s errors and matches all files and settings with the applications that use them. If it identifies any file or setting to be damaged, missing, or corrupted, it provides you with an updated list of the same and also repairs these errors.  Therefore, if your computer keeps crashing and need to fix blue screen of death a good registry cleaner is all you need. Your computer can also cause problems because of redundant files in its registry. Reg cleaners identify all these redundant and junk files that were left over during the uninstalling process of hardware of software and delete them. This makes sure that the &quot;computer keeps crashing&quot; issue is taken care of.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QM5YPrQQaa</UserId>
+            <UserNick>Killy</UserNick>
+            <Date>2010-03-05 15:29:47</Date>
+            <Timestamp>1267831787</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:58:51 PDT 2010 -->

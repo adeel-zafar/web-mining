@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222112310AAuPncY" type="Answered">
+    <Subject>no internet pages loading?</Subject>
+    <Content>my friend has a hp laptop connected to an aol wireless router and she can get on windows live messenger, but cant view web pages in any browsers. any suggestions?
+</Content>
+    <Date>2010-02-22 11:23:10</Date>
+    <Timestamp>1266866590</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222112310AAuPncY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>r3euL9aTaa</UserId>
+    <UserNick>Sam P</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If she can get on live messenger she has a working IP connection. 
+
+Drop to dos and ping Yahoo.com.   If it says it can&#039;t resolve the address you have a DNS issue.  Make sure that your wireless adapter is set to accept DNS from the router.
+
+If DNS is ok and the web site answers then you have a browser issue.   Go to your explorer settings and make sure you are not set to use a proxy that doesn&#039;t exist.</ChosenAnswer>
+    <ChosenAnswererId>2kHHf1NYaa</ChosenAnswererId>
+    <ChosenAnswererNick>MB800800</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267066189</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267386300</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If she can get on live messenger she has a working IP connection. 
+
+Drop to dos and ping Yahoo.com.   If it says it can&#039;t resolve the address you have a DNS issue.  Make sure that your wireless adapter is set to accept DNS from the router.
+
+If DNS is ok and the web site answers then you have a browser issue.   Go to your explorer settings and make sure you are not set to use a proxy that doesn&#039;t exist.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2kHHf1NYaa</UserId>
+            <UserNick>MB800800</UserNick>
+            <Date>2010-02-24 18:49:49</Date>
+            <Timestamp>1267066189</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:27:40 PDT 2010 -->

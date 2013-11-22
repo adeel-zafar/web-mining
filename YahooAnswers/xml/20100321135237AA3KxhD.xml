@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321135237AA3KxhD" type="Answered">
+    <Subject>Is this website a legit site?</Subject>
+    <Content>http://www.cheapdealsproducts.tk/
+</Content>
+    <Date>2010-03-21 13:52:37</Date>
+    <Timestamp>1269204757</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321135237AA3KxhD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aXPjemaaaa</UserId>
+    <UserNick>Zain L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>looks fine to me</ChosenAnswer>
+    <ChosenAnswererId>HiGw5vxKaa</ChosenAnswererId>
+    <ChosenAnswererNick>dannyboy9780</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269205301</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269458182</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>looks fine to me</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>HiGw5vxKaa</UserId>
+            <UserNick>dannyboy9780</UserNick>
+            <Date>2010-03-21 14:01:41</Date>
+            <Timestamp>1269205301</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:26:39 PDT 2010 -->

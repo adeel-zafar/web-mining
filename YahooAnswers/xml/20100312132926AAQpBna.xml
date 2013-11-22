@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312132926AAQpBna" type="Answered">
+    <Subject>comcast internet works, then doesnt work, then works,then doesnt work..?</Subject>
+    <Content>it never did this before, and it is SO annoying.
+</Content>
+    <Date>2010-03-12 13:29:26</Date>
+    <Timestamp>1268429366</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312132926AAQpBna</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pA9HJU6Aaa</UserId>
+    <UserNick>Zippity Doo Dah&lt;3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1vrWJdNWRAAED-gHE5N8BDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you&#039;re for paying for comcast, phone them them, this happens a lot so they&#039;ll know what to do</ChosenAnswer>
+    <ChosenAnswererId>5991586b22046a25e6c14b30424b53c6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jim W</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268429731</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268602845</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ask Comcast</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AyOdiQ9Iaa</UserId>
+            <UserNick>hello</UserNick>
+            <Date>2010-03-12 13:31:34</Date>
+            <Timestamp>1268429494</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you&#039;re for paying for comcast, phone them them, this happens a lot so they&#039;ll know what to do</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5991586b22046a25e6c14b30424b53c6aa</UserId>
+            <UserNick>Jim W</UserNick>
+            <Date>2010-03-12 13:35:31</Date>
+            <Timestamp>1268429731</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:08:28 PDT 2010 -->

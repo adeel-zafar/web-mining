@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316221541AAuF2tu" type="Answered">
+    <Subject>Paypal wont let me sign in!!?? No email?</Subject>
+    <Content>hi I tried signing in to paypal but everytime I get the error message &quot;You must enter both your email address and password. Please try again.&quot; I dont understand I put BOTH in. I keep retyping my email address then putting in my password, but it still wont work.
+</Content>
+    <Date>2010-03-16 22:15:41</Date>
+    <Timestamp>1268802941</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316221541AAuF2tu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pA0xDVn1aa</UserId>
+    <UserNick>Erik</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This is probably a result of your security settings within the browser.
+
+Try and turn down the security level and see what you get...</ChosenAnswer>
+    <ChosenAnswererId>Mj5UY43Oaa</ChosenAnswererId>
+    <ChosenAnswererNick>Lukas Wolfe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268803878</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269322529</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This is probably a result of your security settings within the browser.
+
+Try and turn down the security level and see what you get...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Mj5UY43Oaa</UserId>
+            <UserNick>Lukas Wolfe</UserNick>
+            <Date>2010-03-16 22:31:18</Date>
+            <Timestamp>1268803878</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;d call or message them, I had a similar problem, they change your password for a temporary one and you change it afterwards to what you want, I used the phone, really easy, idk about the messaging route.
+all sites get some security glitch or you might be putting the wrong password, either ways, contact them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>h2KkiKK3aa</UserId>
+            <UserNick>stormgale89</UserNick>
+            <Date>2010-03-16 23:16:55</Date>
+            <Timestamp>1268806615</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You may have been &#039;phished&#039; or your account otherwise hijacked .. 
+
+Contact PayPal IMMEDIATELY (before some crook empties your bank account / maxes out your linked credit card)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>86e0fcff22774bed26d5e5f6773ca754aa</UserId>
+            <UserNick>Steve B</UserNick>
+            <Date>2010-03-17 04:48:18</Date>
+            <Timestamp>1268826498</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:46:12 PDT 2010 -->

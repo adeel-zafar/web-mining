@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320011118AAUFWQ0" type="Answered">
+    <Subject>Does anyone else find cleverbot creepy?</Subject>
+    <Content>I was just on it and I don&#039;t know whether I&#039;m talking to an actual person or not. What do you think?
+</Content>
+    <Date>2010-03-20 01:11:18</Date>
+    <Timestamp>1269072678</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320011118AAUFWQ0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aeNGWRhwaa</UserId>
+    <UserNick>I just lost the game :(</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1qPKxv6RNAAID4QSDlmJYDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s definitely a robot but a smart one at that. I actually had a creepy conversation with him as well when he told me my door wasn&#039;t shut when it was.</ChosenAnswer>
+    <ChosenAnswererId>Pz4qDpr2aa</ChosenAnswererId>
+    <ChosenAnswererNick>Nicole C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269072849</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269996479</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s definitely a robot but a smart one at that. I actually had a creepy conversation with him as well when he told me my door wasn&#039;t shut when it was.</Content>
+            <Reference>cleverbot</Reference>
+            <Best>5</Best>
+            <UserId>Pz4qDpr2aa</UserId>
+            <UserNick>Nicole C</UserNick>
+            <Date>2010-03-20 01:14:09</Date>
+            <Timestamp>1269072849</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:32:35 PDT 2010 -->

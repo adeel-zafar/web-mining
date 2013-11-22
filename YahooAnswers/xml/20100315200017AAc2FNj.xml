@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315200017AAc2FNj" type="Answered">
+    <Subject>What is www. and http:// for?</Subject>
+    <Content>You can still visit a website with or without it. Right?
+What is its use?
+</Content>
+    <Date>2010-03-15 20:00:17</Date>
+    <Timestamp>1268708417</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315200017AAc2FNj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hcKoFZ3Daa</UserId>
+    <UserNick>.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www stands for world wide web.
+Its currently used to tell the web server to use its primary domain
+
+http stands for hypertext transfer protocol, it is the protocol used to send these web pages from the web server to your computer. 
+
+There are other protocols also such as https (encrypted version of http), ftp (transferring files), and much more.</ChosenAnswer>
+    <ChosenAnswererId>YESUhp8gaa</ChosenAnswererId>
+    <ChosenAnswererNick>Aaron</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268708744</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268779515</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>world wide web and HyperText Transfer Protocol i think</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0wXtoL8Qaa</UserId>
+            <UserNick>Brittany</UserNick>
+            <Date>2010-03-15 20:01:28</Date>
+            <Timestamp>1268708488</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http = hyper text transfer protocol. It tells the server you are connecting to that you are requesting a document.
+
+www = world wide web.
+
+You need them. Although most browsers will automatically add them for you when you try to connect if you dont type it in.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BgwTxzEFaa</UserId>
+            <UserNick>korgrue</UserNick>
+            <Date>2010-03-15 20:02:17</Date>
+            <Timestamp>1268708537</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>www-World Wide Web
+Http-hypertext transfer protocol</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RLs5KIhQaa</UserId>
+            <UserNick>God&#039;s child</UserNick>
+            <Date>2010-03-15 20:02:36</Date>
+            <Timestamp>1268708556</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>www stands for world wide web.
+Its currently used to tell the web server to use its primary domain
+
+http stands for hypertext transfer protocol, it is the protocol used to send these web pages from the web server to your computer. 
+
+There are other protocols also such as https (encrypted version of http), ftp (transferring files), and much more.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>YESUhp8gaa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-15 20:05:44</Date>
+            <Timestamp>1268708744</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:39 PDT 2010 -->

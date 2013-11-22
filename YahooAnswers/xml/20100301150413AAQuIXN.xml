@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301150413AAQuIXN" type="Answered">
+    <Subject>I cant do my online work because internet explorer 8 is too new !!?</Subject>
+    <Content>.. and i have vista so its not compatible with 7..What can i do
+</Content>
+    <Date>2010-03-01 15:04:13</Date>
+    <Timestamp>1267484653</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301150413AAQuIXN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gyhH9wu8aa</UserId>
+    <UserNick>lasandra</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1MH4cPEpYAAED-OFTUIuwEcoMMA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It depends what online service you&#039;re using, try using Firefox, it should be compatible with it:
+http://www.mozilla.com/en-US/
+
+Not to mention it&#039;s more secure and safe than IE.</ChosenAnswer>
+    <ChosenAnswererId>3ptXUDJiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Racer Of All</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267484787</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268338450</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.mozilla.com/en-US/firefox/upgrade.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BGY1TX64aa</UserId>
+            <UserNick>windowman</UserNick>
+            <Date>2010-03-01 15:05:16</Date>
+            <Timestamp>1267484716</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You should call your internet supplier or something, but be warned they don&#039;t like to really help you when you call. You could be on the phone for like 6 hours before you actually get any valuable help.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eatjPMBEaa</UserId>
+            <UserNick>ABCDEFGHIJKLMNOPQRSTUVWXYZ</UserNick>
+            <Date>2010-03-01 15:06:02</Date>
+            <Timestamp>1267484762</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Window is right
+or ask your teacher for a printed version or stay after school and do it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TkiF8ywraa</UserId>
+            <UserNick>Rusty Shackleford</UserNick>
+            <Date>2010-03-01 15:06:04</Date>
+            <Timestamp>1267484764</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It depends what online service you&#039;re using, try using Firefox, it should be compatible with it:
+http://www.mozilla.com/en-US/
+
+Not to mention it&#039;s more secure and safe than IE.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3ptXUDJiaa</UserId>
+            <UserNick>Racer Of All</UserNick>
+            <Date>2010-03-01 15:06:27</Date>
+            <Timestamp>1267484787</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>All IE&#039;s are crap.
+Use Firefox much faster and more secure
+http://www.mozilla.com/en-US/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>obRODVoGaa</UserId>
+            <UserNick>reed c</UserNick>
+            <Date>2010-03-01 15:07:10</Date>
+            <Timestamp>1267484830</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:30:20 PDT 2010 -->

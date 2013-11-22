@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316130656AA0MVY3" type="Answered">
+    <Subject>Why won&#039;t my internet work?</Subject>
+    <Content>I have a Dell Inspiron 9 Mini Netbook with the Ubuntu Linux operating system. I work off of a WIFI network for Shasta College. I try to click on my browser icon and it says that my internet is loading but then stops and disappears. Its getting very frustrating and I need to figure out why it is doing that.
+</Content>
+    <Date>2010-03-16 13:06:56</Date>
+    <Timestamp>1268770016</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316130656AA0MVY3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0z53jJ4paa</UserId>
+    <UserNick>Jessica</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UlkxVjI1AAQD-AF07A7BA5mMLA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It could be a myriad of issues. 
+
+Assuming it has worked before, I will rule out incompatible drivers and anything having to do with the actual hardware (but you never know).
+
+I&#039;m also assuming that you&#039;re receiving a full signal on the wifi.
+
+Software settings are probably the issue. 
+
+Check your connection settings. Are you TCP/IP settings set to dynamic or static? Are you running any firewall/antivirus that is blocking certain ports?
+
+Most College campuses require that you install some additional software before being allowed to connect to their wifi network. You might be missing that software (again, you never know). I would give Shasta IT department a quick call to see if they have any recommendations for you.</ChosenAnswer>
+    <ChosenAnswererId>AA11106694</ChosenAnswererId>
+    <ChosenAnswererNick>VictorHK</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268770534</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269289624</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It could be a myriad of issues. 
+
+Assuming it has worked before, I will rule out incompatible drivers and anything having to do with the actual hardware (but you never know).
+
+I&#039;m also assuming that you&#039;re receiving a full signal on the wifi.
+
+Software settings are probably the issue. 
+
+Check your connection settings. Are you TCP/IP settings set to dynamic or static? Are you running any firewall/antivirus that is blocking certain ports?
+
+Most College campuses require that you install some additional software before being allowed to connect to their wifi network. You might be missing that software (again, you never know). I would give Shasta IT department a quick call to see if they have any recommendations for you.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11106694</UserId>
+            <UserNick>VictorHK</UserNick>
+            <Date>2010-03-16 13:15:34</Date>
+            <Timestamp>1268770534</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Install Mozilla  Firefox  and an other browsing software.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5hwUjuNVaa</UserId>
+            <UserNick>Hunts</UserNick>
+            <Date>2010-03-16 13:18:03</Date>
+            <Timestamp>1268770683</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Click on the network icon (upper-right hand corner) and make sure you are indeed connected to your college&#039;s wireless network.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KTz3qpCvaa</UserId>
+            <UserNick>† Oh yeah</UserNick>
+            <Date>2010-03-16 13:34:16</Date>
+            <Timestamp>1268771656</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:01 PDT 2010 -->

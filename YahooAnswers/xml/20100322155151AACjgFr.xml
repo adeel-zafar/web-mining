@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322155151AACjgFr" type="Answered">
+    <Subject>How can I make Firefox stop alerting me when I open a new tab?</Subject>
+    <Content>I just updated to the latest version of Firefox. Now, whenever I open up a new tab, I get a box titled &quot;Alert&quot; that says &quot;Firefox doesn&#039;t know how to open this address, because the protocol (mhtb) isn&#039;t associated with any program.&quot; How do I stop it from alerting me about this? It&#039;s annoying!
+</Content>
+    <Date>2010-03-22 15:51:51</Date>
+    <Timestamp>1269298311</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322155151AACjgFr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WRfYZ95Kaa</UserId>
+    <UserNick>WorryWart:P</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>switch to google chrome
+that will make firefox shut up</ChosenAnswer>
+    <ChosenAnswererId>A3972JViaa</ChosenAnswererId>
+    <ChosenAnswererNick>lilmanbhb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269299249</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270129384</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>switch to google chrome
+that will make firefox shut up</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>A3972JViaa</UserId>
+            <UserNick>Little</UserNick>
+            <Date>2010-03-22 16:07:29</Date>
+            <Timestamp>1269299249</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:21:52 PDT 2010 -->

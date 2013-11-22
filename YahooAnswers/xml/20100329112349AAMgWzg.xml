@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329112349AAMgWzg" type="Answered">
+    <Subject>what is password to twitter?</Subject>
+    <Content>i try to get on but can not access email address. anybody know what answer to secret question is? or have hack to get on to twitters?
+</Content>
+    <Date>2010-03-29 11:23:49</Date>
+    <Timestamp>1269887029</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329112349AAMgWzg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yx530Fjcaa</UserId>
+    <UserNick>Antonius</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb0ecfei1396zws101ac4/qAwFhrk0d68e3KSyNoUuQ8ff.XPl0g--/1/tn48.jpeg?ciAAToMBk3OglpwH</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you are joking right?</ChosenAnswer>
+    <ChosenAnswererId>0J9jsaCxaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mono12</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269888786</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269909755</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you are joking right?</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>0J9jsaCxaa</UserId>
+            <UserNick>Mono12</UserNick>
+            <Date>2010-03-29 11:53:06</Date>
+            <Timestamp>1269888786</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:15:58 PDT 2010 -->

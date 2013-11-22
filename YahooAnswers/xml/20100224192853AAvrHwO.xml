@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224192853AAvrHwO" type="Answered">
+    <Subject>What is Safari 4??????????</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-24 19:28:53</Date>
+    <Timestamp>1267068533</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224192853AAvrHwO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ugSzywaHaa</UserId>
+    <UserNick>nellybelly56</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Internet Browser, Like Internet Explorer or Google Chrome</ChosenAnswer>
+    <ChosenAnswererId>zkKFwPVAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jared R</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267068584</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268040752</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Internet Browser, Like Internet Explorer or Google Chrome</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>zkKFwPVAaa</UserId>
+            <UserNick>Jared R</UserNick>
+            <Date>2010-02-24 19:29:44</Date>
+            <Timestamp>1267068584</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>IS THE SAFARI AFTER SAFARI 3</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ohQKINs2aa</UserId>
+            <UserNick>MASTERUDY</UserNick>
+            <Date>2010-02-24 19:35:13</Date>
+            <Timestamp>1267068913</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it&#039;s Apple&#039;s internet browser.  Anyone with an iPhone or iPod touch uses it to browse the internet, whether they know it or not.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1jONKrbAaa</UserId>
+            <UserNick>Mr. G</UserNick>
+            <Date>2010-02-24 20:29:49</Date>
+            <Timestamp>1267072189</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:11:44 PDT 2010 -->

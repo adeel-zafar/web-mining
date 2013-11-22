@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328142320AA5I0Rl" type="Answered">
+    <Subject>Itouch problem! Wifi suddenly stopped working!?</Subject>
+    <Content>i&#039;ve been using this itouch for several years!
+today when i was on it, using the internet, it suddenly STOPPED.
+i checked the settings and it said that my itouch was still connected to my network!
+WHY DID IT STOP!?!?
+I DIDN&#039;T DO ANYTHING!
+</Content>
+    <Date>2010-03-28 14:23:20</Date>
+    <Timestamp>1269811400</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328142320AA5I0Rl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UniAYs1Qaa</UserId>
+    <UserNick>luv♥anime</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try rebooting your itouch hold hold until you see the apple (about30 secs) then it should work</ChosenAnswer>
+    <ChosenAnswererId>A2hJlmGZaa</ChosenAnswererId>
+    <ChosenAnswererNick>Daniel D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269811584</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269829964</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try rebooting your itouch hold hold until you see the apple (about30 secs) then it should work</Content>
+            <Reference>itouch owner and have had this same problem</Reference>
+            <Best>5</Best>
+            <UserId>A2hJlmGZaa</UserId>
+            <UserNick>Daniel D</UserNick>
+            <Date>2010-03-28 14:26:24</Date>
+            <Timestamp>1269811584</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:59 PDT 2010 -->

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308174350AA3vDxd" type="Answered">
+    <Subject>how to i clear my browsing history on the drop down menu!!!?</Subject>
+    <Content>i know how to clear the history on cookies and what not but no matter what i do it wont clear under the drop down url box.
+
+look here
+
+http://imgur.com/WtRQL.jpg
+
+any ideas
+i know the basic thing like that. it doesnt work
+</Content>
+    <Date>2010-03-08 17:43:50</Date>
+    <Timestamp>1268099030</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308174350AA3vDxd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VGXOh02Paa</UserId>
+    <UserNick>Eric</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go Tools&gt;Deleting Brownsing History&gt; Then you have five options&gt; choose the one you wanna delete!</ChosenAnswer>
+    <ChosenAnswererId>1hxwjZAkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Happy*-*</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268099368</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268615008</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to tools in your explorer. After then internet options. After then clear history, cookies etc.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>j20YzjLIaa</UserId>
+            <UserNick>Jasson S</UserNick>
+            <Date>2010-03-08 17:45:35</Date>
+            <Timestamp>1268099135</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go Tools&gt;Deleting Brownsing History&gt; Then you have five options&gt; choose the one you wanna delete!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>1hxwjZAkaa</UserId>
+            <UserNick>Happy*-*</UserNick>
+            <Date>2010-03-08 17:49:28</Date>
+            <Timestamp>1268099368</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:28:39 PDT 2010 -->

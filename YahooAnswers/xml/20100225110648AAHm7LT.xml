@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225110648AAHm7LT" type="Answered">
+    <Subject>which choice is better for $60.00 a month, Virgin Mobile broadband 5GB or Wildblue Satellite 1.0 Mbps ?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-25 11:06:48</Date>
+    <Timestamp>1267124808</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225110648AAHm7LT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>b0bZuQyjaa</UserId>
+    <UserNick>Fred</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1C_eS6QThAAIC_IEf_UQ=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Avoid Wildblue all you can. It severely limits you and is slower than they say. If you go over your limit ( which can happen on average use just checking emails and your Anti-Virus updating ) you will be shut off to slow-than-dial-up speeds for a week or so. Contract is expensive to get out of, too!</ChosenAnswer>
+    <ChosenAnswererId>FTjcprBaaa</ChosenAnswererId>
+    <ChosenAnswererNick>oO-Claire Nicole-Oo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267419937</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268277790</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I would go with the Virgin Mobile. Satellite service tends to be sluggish and frequently has limits and throttles.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BhNP2P8Xaa</UserId>
+            <UserNick>joe.attaboy</UserNick>
+            <Date>2010-02-25 11:09:43</Date>
+            <Timestamp>1267124983</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Avoid Wildblue all you can. It severely limits you and is slower than they say. If you go over your limit ( which can happen on average use just checking emails and your Anti-Virus updating ) you will be shut off to slow-than-dial-up speeds for a week or so. Contract is expensive to get out of, too!</Content>
+            <Reference>WB customer, looking forward to getting out of contract.</Reference>
+            <Best>5</Best>
+            <UserId>FTjcprBaaa</UserId>
+            <UserNick>oO-Claire Nicole-Oo</UserNick>
+            <Date>2010-02-28 21:05:37</Date>
+            <Timestamp>1267419937</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:57:20 PDT 2010 -->

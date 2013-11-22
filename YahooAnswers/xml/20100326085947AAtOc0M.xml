@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326085947AAtOc0M" type="Answered">
+    <Subject>Am I stealing internet?</Subject>
+    <Content>when i connect to the internet on my laptop, it is called belkin54g public network.
+i dont know where the signal comes from.
+also if im not stealing is, how can i increase the signal strength because it isnt very strong
+</Content>
+    <Date>2010-03-26 08:59:47</Date>
+    <Timestamp>1269619187</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326085947AAtOc0M</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xHRlQjgyaa</UserId>
+    <UserNick>That one guy</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1SDLM7dyhAAEC_oFUII1w2YkB.medium.png</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If it is a public network, then you are not stealing it.  The only way to get a better signal on a laptop is to either hook up a really big antenna to it, or more reasonably move yourself closer to the wireless source.  You can find it by walking around and seeing when it gets weaker or stronger.</ChosenAnswer>
+    <ChosenAnswererId>btEpZn71aa</ChosenAnswererId>
+    <ChosenAnswererNick>_brian</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269619530</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269873524</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ha ha ha!  If it&#039;s not yours then you are stealing.  Der.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-26 09:02:41</Date>
+            <Timestamp>1269619361</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You&#039;re most likely getting the signal from a router of a neighbor of yours. It&#039;s not illegal from my understanding, but it may slightly decrease their internet speed what with another user. The reason you&#039;re able to access it is because they didn&#039;t set a password, which I highly suggest to do when getting a router.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XCn1vcLyaa</UserId>
+            <UserNick>Ethan</UserNick>
+            <Date>2010-03-26 09:03:37</Date>
+            <Timestamp>1269619417</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If it is a public network, then you are not stealing it.  The only way to get a better signal on a laptop is to either hook up a really big antenna to it, or more reasonably move yourself closer to the wireless source.  You can find it by walking around and seeing when it gets weaker or stronger.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>btEpZn71aa</UserId>
+            <UserNick>_brian</UserNick>
+            <Date>2010-03-26 09:05:30</Date>
+            <Timestamp>1269619530</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s theft of service, since you&#039;re getting service you&#039;re not paying for.  (It&#039;s like finding a car with keys in it, so you take it for a drive.  *Can* doesn&#039;t equal *may*.)  If you&#039;re caught, you can be forced to pay the monthly charge since the person whose signal you&#039;re stealing first got internet service (which, at $100/month for 10 years, would be $12,000.  And I&#039;ve been with my current provider for more than 10 years.  Your neighbor may have been with his for more than 10 years too.)  Your neighbor may lose his internet service (providers have been known to do that) so he&#039;d sue you for his trouble and loss.
+
+It&#039;s just not worth the risk.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7bf62358ee706efffb78c25a9c7d5a00aa</UserId>
+            <UserNick>Colanth</UserNick>
+            <Date>2010-03-26 09:08:24</Date>
+            <Timestamp>1269619704</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If it really is a public network, then you are not stealing anything. However, if it&#039;s your neighbour&#039;s, then you are. As for signal strength, you either have to be closer to where the signal comes from, or get an external antenna.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EaUtyMCDaa</UserId>
+            <UserNick>Asphodel B.</UserNick>
+            <Date>2010-03-26 09:33:04</Date>
+            <Timestamp>1269621184</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:27:08 PDT 2010 -->

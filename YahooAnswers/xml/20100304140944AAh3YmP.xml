@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304140944AAh3YmP" type="Answered">
+    <Subject>internet explorer isn&#039;t working but mozilla firefox is?</Subject>
+    <Content>It&#039;s been like this for a while, I&#039;m guessing, I don&#039;t usually use internet explorer but I decided to randomly and it&#039;s not working.  And other symptoms include, itunes not being able to connect to the itunes store and firefox is crashing really easily/all the time.  I&#039;m guessing these are all related.  I tried to &quot;diagnose connection problems&quot; on explorer but what they&#039;re telling me is &quot;probably&quot; the issue, is not the issue because I checked.  (which is firewall settings)
+I&#039;m upset.  I want to get my free songs from the itunes store (gift card yo) and I&#039;m sick of all this crashing.  Please please help.
+Wow, next time I ask a question on yahoo answers I feel I should probably say &quot;I&#039;ve already tried everything you&#039;re about to suggest so don&#039;t even bother.&quot;  Because this is the millionth time I asked this question here and no matter what I say, people only suggest things I&#039;ve tried that haven&#039;t worked.
+UPSET.
+</Content>
+    <Date>2010-03-04 14:09:44</Date>
+    <Timestamp>1267740584</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304140944AAh3YmP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3XyRkvW2aa</UserId>
+    <UserNick>aud</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If your computer is that unstable, you might be infected with a virus or something of the like. Make sure you have an up-to-date antivirus program installed on your computer (Avast works well and is free, www.avast.com). Also, make sure you have some sort of antispyware installed (Spybot works great and is free, www.safer-networking.org). Make sure you have the latest Windows updates installed.</ChosenAnswer>
+    <ChosenAnswererId>BSoXI5hzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ben</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267745443</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268267549</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>How did you check the firewall?
+and what kind of firewall is it (Windows, ZoneAlarm, Symantec)?
+
+Also, try reinstalling both iTunes and IE.
+
+And, if it&#039;s a recent problem, try restoring your system to an earlier time with a restoration point.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Q0U1iBb5aa</UserId>
+            <UserNick>Sagi</UserNick>
+            <Date>2010-03-04 14:41:51</Date>
+            <Timestamp>1267742511</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your computer is that unstable, you might be infected with a virus or something of the like. Make sure you have an up-to-date antivirus program installed on your computer (Avast works well and is free, www.avast.com). Also, make sure you have some sort of antispyware installed (Spybot works great and is free, www.safer-networking.org). Make sure you have the latest Windows updates installed.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BSoXI5hzaa</UserId>
+            <UserNick>Ben</UserNick>
+            <Date>2010-03-04 15:30:43</Date>
+            <Timestamp>1267745443</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:09:47 PDT 2010 -->

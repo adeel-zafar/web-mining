@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322184157AA9incM" type="Answered">
+    <Subject>why do my web searched fail to load the first time; &quot;server not found&quot;, but load the second time?</Subject>
+    <Content>use win xp, firefox all updated avg antivirus. this issue usually happens to websites i haven&#039;t been too. ill click the site, takes awhile to load then the server not found message comes up
+</Content>
+    <Date>2010-03-22 18:41:57</Date>
+    <Timestamp>1269308517</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322184157AA9incM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9NbqhxUOaa</UserId>
+    <UserNick>clint v</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try uninstalling and reinstalling Firefox again. get the latest version of Firefox from the website. lternatives.Does it only happen with firefox? IE 8 is good. And google chrome is also fast. for alternatives.</ChosenAnswer>
+    <ChosenAnswererId>EJWu1Rr7aa</ChosenAnswererId>
+    <ChosenAnswererNick>i_need_answers</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269315089</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269827871</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try uninstalling and reinstalling Firefox again. get the latest version of Firefox from the website. lternatives.Does it only happen with firefox? IE 8 is good. And google chrome is also fast. for alternatives.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EJWu1Rr7aa</UserId>
+            <UserNick>i_need_answers</UserNick>
+            <Date>2010-03-22 20:31:29</Date>
+            <Timestamp>1269315089</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:52 PDT 2010 -->

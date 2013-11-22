@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328095230AAhycCR" type="Answered">
+    <Subject>what ever happen to luvchat.com?</Subject>
+    <Content>luvchat.com with poorman does anyone even no what im talking about?
+</Content>
+    <Date>2010-03-28 09:52:30</Date>
+    <Timestamp>1269795150</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328095230AAhycCR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SkeADYL7aa</UserId>
+    <UserNick>Erin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>He was having a little trouble with Skype so that may be the reason but I&#039;m not totally sure.  I have his number so I think I&#039;ll give him a call and see what&#039;s up.</ChosenAnswer>
+    <ChosenAnswererId>BsLFM2xMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Former guest</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270014058</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270314829</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>He was having a little trouble with Skype so that may be the reason but I&#039;m not totally sure.  I have his number so I think I&#039;ll give him a call and see what&#039;s up.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BsLFM2xMaa</UserId>
+            <UserNick>Former guest</UserNick>
+            <Date>2010-03-30 22:40:58</Date>
+            <Timestamp>1270014058</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:19:30 PDT 2010 -->

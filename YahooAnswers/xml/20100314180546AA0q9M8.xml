@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314180546AA0q9M8" type="Answered">
+    <Subject>Accidentally checked the &quot;No&quot; box on Limewire, now music won&#039;t download at all :(?</Subject>
+    <Content>My first time using Limewire Friday night I had selected about a hundred songs to download. But this box kept popping up asking if I wanted to download &quot;unlicensed&quot; songs or something like that. After hitting &quot;No&quot; over a dozen times I finally clicked the box making &quot;No&quot; the default answer. Well, I guess ALL the music on Limewire is unlicensed because now NOTHING will download. On top of that there is no option to be found to undo what I&#039;ve done.
+
+HELP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+</Content>
+    <Date>2010-03-14 18:05:46</Date>
+    <Timestamp>1268615146</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314180546AA0q9M8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hqFsrUxqaa</UserId>
+    <UserNick>an answerer</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1BezE_ozGAAEDXaFp1A5oQrfMGQYF.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Limewire? Don&#039;t use that stuff! See the risks of file-sharing technology at http://www.us-cert.gov/cas/tips/ST05-007.html
+Instead, look at http://searchformusic.eu.pn/
+It searches more than 80 free, safe, legal downloading-music sites (for whole albums, add the word &quot;rapidshare&quot;). This way you can forget about viruses.
+
+Hope this helps. Regards!</ChosenAnswer>
+    <ChosenAnswererId>IxTjdnPwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dolores</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268806824</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269159175</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Uninstall the program &amp; then reinstall it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7nAe7oDpaa</UserId>
+            <UserNick>Capri</UserNick>
+            <Date>2010-03-14 18:14:14</Date>
+            <Timestamp>1268615654</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>do a restore and it should bring it back 
+or if that don&#039;t work re-download !
+good luck !</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kXPHGwEhaa</UserId>
+            <UserNick>farm girl</UserNick>
+            <Date>2010-03-15 08:40:59</Date>
+            <Timestamp>1268667659</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Limewire? Don&#039;t use that stuff! See the risks of file-sharing technology at http://www.us-cert.gov/cas/tips/ST05-007.html
+Instead, look at http://searchformusic.eu.pn/
+It searches more than 80 free, safe, legal downloading-music sites (for whole albums, add the word &quot;rapidshare&quot;). This way you can forget about viruses.
+
+Hope this helps. Regards!</Content>
+            <Reference>Knowledge, Experience.</Reference>
+            <Best>5</Best>
+            <UserId>IxTjdnPwaa</UserId>
+            <UserNick>Dolores</UserNick>
+            <Date>2010-03-16 23:20:24</Date>
+            <Timestamp>1268806824</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:22 PDT 2010 -->

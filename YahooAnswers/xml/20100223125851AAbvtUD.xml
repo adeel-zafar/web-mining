@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223125851AAbvtUD" type="Answered">
+    <Subject>can anyone load this page?</Subject>
+    <Content>https://blrscr3.egs-seg.gc.ca/forces/recruiting-recrutement/public/include/404.aspx?aspxerrorpath=/forces/recruiting-recrutement/public/bc-cn-eng.aspx
+</Content>
+    <Date>2010-02-23 12:58:51</Date>
+    <Timestamp>1266958731</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223125851AAbvtUD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZllkWRIOaa</UserId>
+    <UserNick>Mr. HotShot</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1xJCO9anuAAACQWEo8IhsAg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Gives an 404 error message from Canadian defense authority</ChosenAnswer>
+    <ChosenAnswererId>ziZcyz4waa</ChosenAnswererId>
+    <ChosenAnswererNick>cheker</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266958851</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267066386</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Gives an 404 error message from Canadian defense authority</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>ziZcyz4waa</UserId>
+            <UserNick>cheker</UserNick>
+            <Date>2010-02-23 13:00:51</Date>
+            <Timestamp>1266958851</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have an outdated link
+
+go to the home page and try to find what ure looking for</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vIa37bSCaa</UserId>
+            <UserNick>CompGeek</UserNick>
+            <Date>2010-02-23 13:21:10</Date>
+            <Timestamp>1266960070</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:19:41 PDT 2010 -->

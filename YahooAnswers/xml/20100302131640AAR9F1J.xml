@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302131640AAR9F1J" type="Answered">
+    <Subject>Chat Roulette won&#039;t let me click on the little agreement box because of Adobe Flash Player?</Subject>
+    <Content>I tried to go on the chatroulette website, but when I click &#039;start&#039;, there&#039;s a little agreement box that asks you to click accept / deny, but it won&#039;t let me click either.
+I downloaded the latest version of Adobe Flash Player, but it didn&#039;t do anything.
+What can I do to make this work?
+Thanks in advance.
+OK THANKS, 
+it appears on other websites, too.
+</Content>
+    <Date>2010-03-02 13:16:40</Date>
+    <Timestamp>1267564600</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302131640AAR9F1J</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3WjNS1eDaa</UserId>
+    <UserNick>Samantha</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it&#039;s probably better that way. i tried chatroulette and it&#039;s like 90% random penises...not very appealing to me.</ChosenAnswer>
+    <ChosenAnswererId>Q8W08aHhaa</ChosenAnswererId>
+    <ChosenAnswererNick>the man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267564692</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268953965</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it&#039;s probably better that way. i tried chatroulette and it&#039;s like 90% random penises...not very appealing to me.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Q8W08aHhaa</UserId>
+            <UserNick>the man</UserNick>
+            <Date>2010-03-02 13:18:12</Date>
+            <Timestamp>1267564692</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:25:29 PDT 2010 -->

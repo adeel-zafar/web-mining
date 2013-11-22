@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312041707AAfFxRv" type="Answered">
+    <Subject>@What is the best Questions@Answers website ?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-12 04:17:07</Date>
+    <Timestamp>1268396227</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312041707AAfFxRv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>APZKUG7Aaa</UserId>
+    <UserNick>cliclic</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I like Yahoo, but answerbank is also good.</ChosenAnswer>
+    <ChosenAnswererId>C9TJYLoVaa</ChosenAnswererId>
+    <ChosenAnswererNick>Trish</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268398000</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268912048</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>answers.yahoo.com is the best</Content>
+            <Reference>lol :]</Reference>
+            <Best></Best>
+            <UserId>AA12348071</UserId>
+            <UserNick>Whatsup</UserNick>
+            <Date>2010-03-12 04:19:10</Date>
+            <Timestamp>1268396350</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Of course Yahoo! answers.
+
+But if you have a specific question, like related linux operating systems, you can also use their forums site.</Content>
+            <Reference>http://www.google.com/</Reference>
+            <Best></Best>
+            <UserId>TiLlei6qaa</UserId>
+            <UserNick>SankeT.</UserNick>
+            <Date>2010-03-12 04:26:06</Date>
+            <Timestamp>1268396766</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I like Yahoo, but answerbank is also good.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>C9TJYLoVaa</UserId>
+            <UserNick>Trish</UserNick>
+            <Date>2010-03-12 04:46:40</Date>
+            <Timestamp>1268398000</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:10:31 PDT 2010 -->

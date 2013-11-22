@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312123336AAhjIMs" type="Answered">
+    <Subject>I need a complete list of browsers compatible with Meez.?</Subject>
+    <Content>The title is pretty self-explanatory.
+</Content>
+    <Date>2010-03-12 12:33:36</Date>
+    <Timestamp>1268426016</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312123336AAhjIMs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jjth7cSlaa</UserId>
+    <UserNick>sav-an-nuh</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b9ac991i23dczws124sp2/mlQCNCg2erSG3iDDpA.6JS.Ud8epZXPw/1/tn48.jpeg?ciAAToMBrhemHh65</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>FireFox is the best and you can download from here:
+http://www.mozilla.org</ChosenAnswer>
+    <ChosenAnswererId>oNfGX8uzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Greenshadom</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268426645</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268637471</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>FireFox is the best and you can download from here:
+http://www.mozilla.org</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>oNfGX8uzaa</UserId>
+            <UserNick>Greenshadom</UserNick>
+            <Date>2010-03-12 12:44:05</Date>
+            <Timestamp>1268426645</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:08:50 PDT 2010 -->

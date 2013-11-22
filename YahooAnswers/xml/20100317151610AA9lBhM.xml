@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317151610AA9lBhM" type="Answered">
+    <Subject>my computer got hacked, i need help!?</Subject>
+    <Content>ok, so my computer got hacked by someone who claimed to be working for microsoft, i already asked a question about this so if u want more detail about what happened then please look at the question in my profile, i dont want to retype the whole thing, sorry, so anyway, i was wondering, if he hacked it, and if i create another administrative account, can i use it without being disturbed by the hacker? cuz if i go to my old acount and connect to the internet then the hack gonna comeback and say i have to pay him some &quot;fee&quot;, please help me!
+</Content>
+    <Date>2010-03-17 15:16:10</Date>
+    <Timestamp>1268864170</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317151610AA9lBhM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>j5rj9pizaa</UserId>
+    <UserNick>Linkin Park #1 Fan</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b2afe46i5c1zul8re4/1iQIn8I9RLBkyDF6vJPVIw--/5/tn48.jpg?ciAAToMBhECUNa7j</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>From your previous question it sounds like someone is attempting to scam you, pure and simple.
+
+Don&#039;t under any circumstances give them any personal details and definitely don&#039;t give them any money or payment details. 
+
+This is most likely the result of some kind of malware infection. So the standard advice to run anti virus and anti malware programs applies.</ChosenAnswer>
+    <ChosenAnswererId>YJCWXOe3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Mr S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268864472</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268943283</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just reinstall your old OS. Or install a Linux-based OS.</Content>
+            <Reference>http://www.ubuntu.com/
+http://www.kubuntu.com/</Reference>
+            <Best></Best>
+            <UserId>CEo8Sgqyaa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-17 15:18:36</Date>
+            <Timestamp>1268864316</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>From your previous question it sounds like someone is attempting to scam you, pure and simple.
+
+Don&#039;t under any circumstances give them any personal details and definitely don&#039;t give them any money or payment details. 
+
+This is most likely the result of some kind of malware infection. So the standard advice to run anti virus and anti malware programs applies.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>YJCWXOe3aa</UserId>
+            <UserNick>Mr S</UserNick>
+            <Date>2010-03-17 15:21:12</Date>
+            <Timestamp>1268864472</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I would reinstall your operating system to remove his malware he has on your computer. I would also save all of your files to a back up hard drive or flash drive to help prevent any data loss.
+Hope this helps!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Bj7V90zAaa</UserId>
+            <UserNick>Nathan</UserNick>
+            <Date>2010-03-17 15:23:24</Date>
+            <Timestamp>1268864604</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:43:22 PDT 2010 -->

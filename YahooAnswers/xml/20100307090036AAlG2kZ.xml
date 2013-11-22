@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307090036AAlG2kZ" type="Answered">
+    <Subject>internet explorer 8 please help.?</Subject>
+    <Content>im running firefox browser at the moment but i need to run internet explorer 8 to do a on line course. ive don loaded exploer 8 onto my xp lap top. but i cant get it to work. please help. thanks. ive clicked the work of line tab but it still wont work.. help
+</Content>
+    <Date>2010-03-07 09:00:36</Date>
+    <Timestamp>1267981236</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307090036AAlG2kZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zebodSAUaa</UserId>
+    <UserNick>kenneth w</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1v2nuPDi-AAIC_IFHyBV-CQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you have not really explained the problem your having very well to start with the work offline option in file menu should not have a tick beside it when you installed IE8 have you been able to load any web pages at all ? if your running firefox has IE8 asked you if you want it to be the default browser if so try saying yes try uninstalling IE8 and reinstalling it if firefox works then it should not be your internet connection that is the problem sorry i could not help more here without more information. good luck.</ChosenAnswer>
+    <ChosenAnswererId>Ukt43pYLaa</ChosenAnswererId>
+    <ChosenAnswererNick>here to help</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268006769</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268500508</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Have you tried rebooting since you installed it?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8435de50625eb250d1055897a4668cf3aa</UserId>
+            <UserNick>Josh</UserNick>
+            <Date>2010-03-07 09:04:37</Date>
+            <Timestamp>1267981477</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you have not really explained the problem your having very well to start with the work offline option in file menu should not have a tick beside it when you installed IE8 have you been able to load any web pages at all ? if your running firefox has IE8 asked you if you want it to be the default browser if so try saying yes try uninstalling IE8 and reinstalling it if firefox works then it should not be your internet connection that is the problem sorry i could not help more here without more information. good luck.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Ukt43pYLaa</UserId>
+            <UserNick>parks</UserNick>
+            <Date>2010-03-07 16:06:09</Date>
+            <Timestamp>1268006769</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:40:19 PDT 2010 -->

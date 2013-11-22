@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328061550AAmerO0" type="Answered">
+    <Subject>Unpaid item strike on ebay?</Subject>
+    <Content>I had an unpaid item strike back around dec.  i cant remember if i had one before that or not. Where can i look to see how many i have. Also do they eventually expire after u have had them so long? What happens if u get more than 2? i am guessing your account gets suspended... for how long?
+</Content>
+    <Date>2010-03-28 06:15:50</Date>
+    <Timestamp>1269782150</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328061550AAmerO0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>93f7bf45ff50a082632b91581b2d83d9aa</UserId>
+    <UserNick>cutelildancer268</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1tkEHD7MUAAEDXQNxgJPk84EA.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Three and you&#039;re out.</ChosenAnswer>
+    <ChosenAnswererId>RHu8zV20aa</ChosenAnswererId>
+    <ChosenAnswererNick>JenGen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269788933</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270301609</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Three and you&#039;re out.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RHu8zV20aa</UserId>
+            <UserNick>JenGen</UserNick>
+            <Date>2010-03-28 08:08:53</Date>
+            <Timestamp>1269788933</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:19:57 PDT 2010 -->

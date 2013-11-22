@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321131824AA4ch41" type="Answered">
+    <Subject>whats the change of winning on cokezone?</Subject>
+    <Content>????????????/
+</Content>
+    <Date>2010-03-21 13:18:24</Date>
+    <Timestamp>1269202704</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321131824AA4ch41</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RbTo3wNhaa</UserId>
+    <UserNick>Tom</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>About much chance as winning the Euro Lottery and that is only 73,000,000 to 1.</ChosenAnswer>
+    <ChosenAnswererId>WeZcSZvKaa</ChosenAnswererId>
+    <ChosenAnswererNick>sewrobb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269203737</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269359446</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>About much chance as winning the Euro Lottery and that is only 73,000,000 to 1.</Content>
+            <Reference>Experienced1</Reference>
+            <Best>4</Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-21 13:35:37</Date>
+            <Timestamp>1269203737</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:26:52 PDT 2010 -->

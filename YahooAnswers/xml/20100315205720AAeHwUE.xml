@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315205720AAeHwUE" type="Answered">
+    <Subject>Internet Problem - Why do I need to keep refreshing?</Subject>
+    <Content>Hey, I&#039;ve noticed an odd happening with my browser recently (Firefox). Almost every time I click on a link, for example, signing in to this website - the page reloads but nothing has happened. Then, when I refresh the page it acknowledges that I am signed in and shows me the appropriate updated page. Pretty much all links have been behaving like this. Any one know what the problem could be?
+</Content>
+    <Date>2010-03-15 20:57:20</Date>
+    <Timestamp>1268711840</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315205720AAeHwUE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jV5eAqnPaa</UserId>
+    <UserNick>Nax</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you have to much things or a virus in your pc ,</ChosenAnswer>
+    <ChosenAnswererId>yOVzwIGPaa</ChosenAnswererId>
+    <ChosenAnswererNick>xGuz0xE3</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268711956</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269231395</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you have to much things or a virus in your pc ,</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>yOVzwIGPaa</UserId>
+            <UserNick>xGuz0xE3</UserNick>
+            <Date>2010-03-15 20:59:16</Date>
+            <Timestamp>1268711956</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Same thing happens me sometimes:
+
+try this
+
+
+Go to control panel.
+Then Internet Options
+Browsing History - Settings
+
+Make sure the dot is on &quot;Automatically&quot;
+
+
+Davy</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IcoiVureaa</UserId>
+            <UserNick>David M</UserNick>
+            <Date>2010-03-19 12:07:43</Date>
+            <Timestamp>1269025663</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:25 PDT 2010 -->

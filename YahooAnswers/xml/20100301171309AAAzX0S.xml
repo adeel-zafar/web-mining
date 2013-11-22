@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301171309AAAzX0S" type="Answered">
+    <Subject>which browser is faster and safer google chrome or oprea?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-01 17:13:09</Date>
+    <Timestamp>1267492389</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301171309AAAzX0S</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NjdkR2eQaa</UserId>
+    <UserNick>Matthew</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>opera</ChosenAnswer>
+    <ChosenAnswererId>DLmSUUsJaa</ChosenAnswererId>
+    <ChosenAnswererNick>ctech</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267492489</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268247151</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>opera</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DLmSUUsJaa</UserId>
+            <UserNick>ctech</UserNick>
+            <Date>2010-03-01 17:14:49</Date>
+            <Timestamp>1267492489</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The new Opera 10.5 (http://www.opera.com ) is the fastest browser, but just a little bit more than Google Chrome (http://www.google.com/chrome ). It also has a lot more features than Chrome. I think that Opera is safer too, since it doesn&#039;t have the name &#039;Google&#039; around it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cSRjCvESaa</UserId>
+            <UserNick>Arrrgh!!</UserNick>
+            <Date>2010-03-01 17:18:18</Date>
+            <Timestamp>1267492698</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Fire Fox is bloated, slow, and a memory hog.  Opera is a very safe, fast, and amazing browser.  Nothing comes close to it.  All of the other browsers copy Opera&#039;s features and push them to the users as extentions.  Opera comes with everything you need, and nothing you don&#039;t.</Content>
+            <Reference>Internet User</Reference>
+            <Best></Best>
+            <UserId>2Cq4L9qUaa</UserId>
+            <UserNick>Omair</UserNick>
+            <Date>2010-03-01 17:20:16</Date>
+            <Timestamp>1267492816</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:29:37 PDT 2010 -->

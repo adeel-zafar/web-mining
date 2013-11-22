@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302174329AABEloi" type="Answered">
+    <Subject>will bolt browser work on my itouch?</Subject>
+    <Content>i heard of this free web broswer that you can download on portible internet capable devices ..will it ork on my itouch?
+</Content>
+    <Date>2010-03-02 17:43:29</Date>
+    <Timestamp>1267580609</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302174329AABEloi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oMugEVevaa</UserId>
+    <UserNick>sean!</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No it will not but if it is in the app store it should unless they make a port for it on cydia or rock (which you need jailbreaking for) Try this if you want cydia and rock www.blackra1n.com</ChosenAnswer>
+    <ChosenAnswererId>hs01X4ksaa</ChosenAnswererId>
+    <ChosenAnswererNick>Conner S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267580825</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267665617</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No it will not but if it is in the app store it should unless they make a port for it on cydia or rock (which you need jailbreaking for) Try this if you want cydia and rock www.blackra1n.com</Content>
+            <Reference>Personal Experience</Reference>
+            <Best>5</Best>
+            <UserId>hs01X4ksaa</UserId>
+            <UserNick>Conner S</UserNick>
+            <Date>2010-03-02 17:47:05</Date>
+            <Timestamp>1267580825</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>BOLT runs on any J2ME based device. Unfortunately iTouch have no Java Support. BOLT may support other platforms in the future.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0OMZTnfPaa</UserId>
+            <UserNick>Fore-D</UserNick>
+            <Date>2010-03-03 05:49:14</Date>
+            <Timestamp>1267624154</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:11 PDT 2010 -->

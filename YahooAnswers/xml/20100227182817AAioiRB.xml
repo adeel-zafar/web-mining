@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227182817AAioiRB" type="Answered">
+    <Subject>I have a virus.I don&#039;t know what to do.?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-27 18:28:17</Date>
+    <Timestamp>1267324097</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227182817AAioiRB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZBu5B4FMaa</UserId>
+    <UserNick>bobbie</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1Z-qi8ixBAAED4eSiwKXzZ1sB.medium.png</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try norton or avg free antivirus .</ChosenAnswer>
+    <ChosenAnswererId>AA10751038</ChosenAnswererId>
+    <ChosenAnswererNick>salsanej</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267357754</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267843531</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>get avast anti virus at http://www.avast.com/free-antivirus-download
+ hope it helped!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NmpL5Cvxaa</UserId>
+            <UserNick>Davie Rivas</UserNick>
+            <Date>2010-02-27 18:30:30</Date>
+            <Timestamp>1267324230</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>restart your computer in safe mode by pressing and holding the F8 button while computer is booting up.  next go to download.com and download avira antivirus and run a scan.  also, from the download.com website download malwarebytes and let it do a full scan.  remove all the files that it recommends.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GNEhn2sPaa</UserId>
+            <UserNick>CARLA</UserNick>
+            <Date>2010-02-27 18:30:50</Date>
+            <Timestamp>1267324250</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ok, well... don&#039;t have sex with anyone. There, that should take care of your HIV problem.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>i5LMZ3ZRaa</UserId>
+            <UserNick>peppercorn</UserNick>
+            <Date>2010-02-27 18:31:13</Date>
+            <Timestamp>1267324273</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Eh, need more info please...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZRm97Ijdaa</UserId>
+            <UserNick>Insane Asylum Escapee</UserNick>
+            <Date>2010-02-27 18:31:15</Date>
+            <Timestamp>1267324275</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Drink lots of fluids and stay away from anti-biotics.  They don&#039;t help at all with a virus.
+
+If your computer has the virus, go to www.avast.com and get the free anti-virus program there.  Follow the instructions to download, install, and run it.  It&#039;s good and safe and free.  It should do you just fine.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA12042448</UserId>
+            <UserNick>thejanith</UserNick>
+            <Date>2010-02-27 18:31:49</Date>
+            <Timestamp>1267324309</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try norton or avg free antivirus .</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10751038</UserId>
+            <UserNick>salsanej</UserNick>
+            <Date>2010-02-28 03:49:14</Date>
+            <Timestamp>1267357754</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:41:29 PDT 2010 -->

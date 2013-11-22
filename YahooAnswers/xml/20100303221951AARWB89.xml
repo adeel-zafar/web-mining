@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303221951AARWB89" type="Answered">
+    <Subject>How can I leave a review on Netflix?</Subject>
+    <Content>I can&#039;t add a review in Netflix. I keep getting this error that says &quot;We&#039;re sorry an error occurred while processing your request.&quot; I don&#039;t get it, and I haven&#039;t found anything on Netflix&#039;s help site. I&#039;ve tried logging in with Chrome, Firefox, and IE8, same error. 
+
+On a related note, Dead Space: Downfall is crap. :)
+</Content>
+    <Date>2010-03-03 22:19:51</Date>
+    <Timestamp>1267683591</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303221951AARWB89</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fCJWDCD2aa</UserId>
+    <UserNick>Earendil</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1to0b7ovSAAEB_oFUUD8GOFAB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It could be that there&#039;s a problem at Netflix.  Keep trying.  Strange stuff often happens in Cyberspace.</ChosenAnswer>
+    <ChosenAnswererId>AA12152549</ChosenAnswererId>
+    <ChosenAnswererNick>Richard B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267683704</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268202817</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It could be that there&#039;s a problem at Netflix.  Keep trying.  Strange stuff often happens in Cyberspace.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA12152549</UserId>
+            <UserNick>Richard B</UserNick>
+            <Date>2010-03-03 22:21:44</Date>
+            <Timestamp>1267683704</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:13:10 PDT 2010 -->

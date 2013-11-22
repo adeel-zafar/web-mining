@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226105324AAMVBpP" type="Answered">
+    <Subject>Why is 4od (internet video streaming service) so jumpy?</Subject>
+    <Content>I am trying to watch a programme on Channel 4&#039;s catch up system on their website, 4od. Every 5 seconds or so the video and audio stop for a few seconds then start again, making the programme unwatchable. Why is this and what can I do to stop it?
+</Content>
+    <Date>2010-02-26 10:53:24</Date>
+    <Timestamp>1267210404</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226105324AAMVBpP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yB2oMPkxaa</UserId>
+    <UserNick>Me.xo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/19D71HoVAAAECXSOcpJZQZlsB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think it&#039;s something to do with it being really slow at loading, cos it happens to me loads too. I just pause it at the very beginning, and go make a cup of tea or something, and then come back and watch it in about 10 minutes, it usually works.
+Hope this helps! :)</ChosenAnswer>
+    <ChosenAnswererId>oU89Zbuiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Becky</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267210495</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267464491</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think it&#039;s something to do with it being really slow at loading, cos it happens to me loads too. I just pause it at the very beginning, and go make a cup of tea or something, and then come back and watch it in about 10 minutes, it usually works.
+Hope this helps! :)</Content>
+            <Reference>personal experience</Reference>
+            <Best>5</Best>
+            <UserId>oU89Zbuiaa</UserId>
+            <UserNick>Becky</UserNick>
+            <Date>2010-02-26 10:54:55</Date>
+            <Timestamp>1267210495</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:50:50 PDT 2010 -->

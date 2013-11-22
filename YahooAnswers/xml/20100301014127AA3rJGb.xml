@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301014127AA3rJGb" type="Answered">
+    <Subject>Why are antivirus and repair programs useless when you need them  ? I cannot upload pics to the internet?</Subject>
+    <Content>For 3 weeks now I have been trying everything possible to solve the &quot;unable to upload pictures / media onto the internet&quot; problem to no avail.
+
+The situation is, anytime I try to upload a picture, the internet window freezes.
+
+I have scanned with AVG 9, avast, and threatfire. I have run Ccleaner. I have defragmented 5 times. I have run system restore twice. I have deleted cookies, temp files, favourites and two of the antivirus programs.
+
+No result.
+</Content>
+    <Date>2010-03-01 01:41:27</Date>
+    <Timestamp>1267436487</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301014127AA3rJGb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>db4b4aa8deeae52ad9947eec755b5f73aa</UserId>
+    <UserNick>Jerry</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1iYTnEJP-AAEEP4E_sIqZhPEA.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Its obviously a browser based problem, Jerry. Click this link:
+http://www.mozilla.com/products/download.html?product=firefox-3.6&amp;os=win&amp;lang=en-US
+And download the latest version of Mozilla Firefox, the most powerful web browser yet. Then head over to http://photobucket.com/ (for photos) or http://www.filebox.com/ (for any other types of files) and use the web based up-loaders to upload your files and share the links around. 
+
+Just a heads up, don&#039;t download free registry cleaners, or free anti virus software. In most cases, they plant bugs in your system which systematically IMPLODE on your computer in a certain time and destroy it without you even knowing it until the last second. Use Norton, or Kaspersky Anti Virus for all those other problems. Purchased virus detectors are the ones which work properly and save your PC rather than ruining them.</ChosenAnswer>
+    <ChosenAnswererId>EhnKRh2faa</ChosenAnswererId>
+    <ChosenAnswererNick>/\DE/\/</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267437181</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267664867</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Problem exists between keyboard and chair.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nsiN6E3zaa</UserId>
+            <UserNick>Misc Tech Advice</UserNick>
+            <Date>2010-03-01 01:48:43</Date>
+            <Timestamp>1267436923</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Its obviously a browser based problem, Jerry. Click this link:
+http://www.mozilla.com/products/download.html?product=firefox-3.6&amp;os=win&amp;lang=en-US
+And download the latest version of Mozilla Firefox, the most powerful web browser yet. Then head over to http://photobucket.com/ (for photos) or http://www.filebox.com/ (for any other types of files) and use the web based up-loaders to upload your files and share the links around. 
+
+Just a heads up, don&#039;t download free registry cleaners, or free anti virus software. In most cases, they plant bugs in your system which systematically IMPLODE on your computer in a certain time and destroy it without you even knowing it until the last second. Use Norton, or Kaspersky Anti Virus for all those other problems. Purchased virus detectors are the ones which work properly and save your PC rather than ruining them.</Content>
+            <Reference>http://www.filebox.com/ (upload)
+http://www.mozilla.com/products/download.html?product=firefox-3.6&amp;os=win&amp;lang=en-US (download Mozilla)
+http://photobucket.com/ (upload photos)
+www.kaspersky.com.au/ (anti virus)
+www.norton.com (anti virus)</Reference>
+            <Best>5</Best>
+            <UserId>EhnKRh2faa</UserId>
+            <UserNick>/\DE/\/</UserNick>
+            <Date>2010-03-01 01:53:01</Date>
+            <Timestamp>1267437181</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:33:31 PDT 2010 -->

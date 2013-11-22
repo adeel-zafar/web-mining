@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314183545AAQhLRX" type="Answered">
+    <Subject>Need help, management implementing email monitoring system!?</Subject>
+    <Content>I work at a gaming centre, and some of the employees use their email for personal use.
+Management is now looking at implementing a email monitoring system.
+May i please have some suggestions as to how this issue should be handled in terms of privacy,
+the rights of the employer and the rights of the employee.
+</Content>
+    <Date>2010-03-14 18:35:45</Date>
+    <Timestamp>1268616945</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314183545AAQhLRX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8ZEaz7djaa</UserId>
+    <UserNick>Aaron</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>employees should not expect any privacy at work time and they should not involve any personal usage of the computer. so it is ok to apply montoring system in your workplace. we had EAM in our office and it works fine.
+http://www.monitoring-softwares.com/</ChosenAnswer>
+    <ChosenAnswererId>7UiaH08saa</ChosenAnswererId>
+    <ChosenAnswererNick>Zhao</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268661137</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268912055</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>employees should not expect any privacy at work time and they should not involve any personal usage of the computer. so it is ok to apply montoring system in your workplace. we had EAM in our office and it works fine.
+http://www.monitoring-softwares.com/</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>7UiaH08saa</UserId>
+            <UserNick>Zhao</UserNick>
+            <Date>2010-03-15 06:52:17</Date>
+            <Timestamp>1268661137</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:08 PDT 2010 -->

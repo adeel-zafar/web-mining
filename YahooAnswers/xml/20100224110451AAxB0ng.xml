@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224110451AAxB0ng" type="Answered">
+    <Subject>What happens when you have automatic fees payments on ebay but they will be unable to charge you??</Subject>
+    <Content>Like when you will not have enough $ or unvalid card.
+</Content>
+    <Date>2010-02-24 11:04:51</Date>
+    <Timestamp>1267038291</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224110451AAxB0ng</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DlH0f7Jsaa</UserId>
+    <UserNick>Valentin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>They might restrict your account until you pay them</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267237567</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267274620</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They might restrict your account until you pay them</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-02-26 18:26:07</Date>
+            <Timestamp>1267237567</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:14:34 PDT 2010 -->

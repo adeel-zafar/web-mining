@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330033504AAvHSbI" type="Answered">
+    <Subject>I bought a new domain recently but i have since found out it was dropped domain.?</Subject>
+    <Content>I recently bought a domain http://www.twurlit.com for a URL shortening site thinking this was a totally new one but i have since found out that it was infact a dropped domain from last year,the site has been setup and has been running for just about a week but on checking it appears that i am not properly appearing in Google search so could this mean that the site has the domain blacklisted or is it just the case of leaving it too be pick up by the spiders ???
+
+Some advice on this one please.
+</Content>
+    <Date>2010-03-30 03:35:04</Date>
+    <Timestamp>1269945304</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330033504AAvHSbI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>x4vqU0iHaa</UserId>
+    <UserNick>Rick</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>2</NumComments>
+    <ChosenAnswer>Assuming you have coded the site properly to be picked by Google then it&#039;s just a matter of time before it should appear in their listings.</ChosenAnswer>
+    <ChosenAnswererId>jOljnsulaa</ChosenAnswererId>
+    <ChosenAnswererNick>DMsView</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269946622</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270119496</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Assuming you have coded the site properly to be picked by Google then it&#039;s just a matter of time before it should appear in their listings.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>jOljnsulaa</UserId>
+            <UserNick>DMsView</UserNick>
+            <Date>2010-03-30 03:57:02</Date>
+            <Timestamp>1269946622</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>x4vqU0iHaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-04-03 19:19:55</Date>
+            <Timestamp>1269946622</Timestamp>
+        </Comment>
+        <Comment>
+            <Content></Content>
+            <UserId>x4vqU0iHaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-04-05 06:04:26</Date>
+            <Timestamp>1269946622</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:44 PDT 2010 -->

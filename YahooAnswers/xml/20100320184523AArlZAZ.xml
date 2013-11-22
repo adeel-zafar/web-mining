@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320184523AArlZAZ" type="Answered">
+    <Subject>Why does my internet keeps on saying &quot;Aw snap&quot; on this site?</Subject>
+    <Content>I have Google Chrome and on this website it keeps saying aw snap, annoying, can you tell me how to stop this?
+It keep on saying it on Y!A when I click something
+</Content>
+    <Date>2010-03-20 18:45:23</Date>
+    <Timestamp>1269135923</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320184523AArlZAZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4jSwGXUpaa</UserId>
+    <UserNick>ThisGirl:P</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1gUEhV62dAAED-MHebVB1C70B.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Stay off the porn.</ChosenAnswer>
+    <ChosenAnswererId>D8mADqnLaa</ChosenAnswererId>
+    <ChosenAnswererNick>The Troll</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269135973</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269655432</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Stay off the porn.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>D8mADqnLaa</UserId>
+            <UserNick>Lanny</UserNick>
+            <Date>2010-03-20 18:46:13</Date>
+            <Timestamp>1269135973</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Stop going on that website</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YJCWXOe3aa</UserId>
+            <UserNick>Mr S</UserNick>
+            <Date>2010-03-20 18:46:17</Date>
+            <Timestamp>1269135977</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.google.com/support/chrome/bin/answer.py?hl=en&amp;answer=95669</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jm2e2TXlaa</UserId>
+            <UserNick>Dragontattoo</UserNick>
+            <Date>2010-03-20 18:47:39</Date>
+            <Timestamp>1269136059</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try deleting your cookies. Click the wrench --&gt;Under the hood --&gt; then clear browsing data --&gt; delete cookies and other site data -- &gt; clear browsing data.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4frkjHG4aa</UserId>
+            <UserNick>Anthony</UserNick>
+            <Date>2010-03-20 18:47:45</Date>
+            <Timestamp>1269136065</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:42 PDT 2010 -->

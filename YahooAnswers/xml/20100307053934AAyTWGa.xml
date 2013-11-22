@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307053934AAyTWGa" type="Answered">
+    <Subject>can i delete my chat history in Skype?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-07 05:39:34</Date>
+    <Timestamp>1267969174</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307053934AAyTWGa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WNKx2Bp7aa</UserId>
+    <UserNick>princess_kitty</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1wXl75tEkAAIB-oF6hLKdiTgxKA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Open up skype and go to Tools &gt; Options, go to the Privacy tab and hit the ‘Clear History’ button. A dialog box will pop up asking you for confirmation regarding deleting all previous text chats, voice mail, calls, file transfers and SMS messages. Hit Delete and you’re done. The Skype call and chat history has been deleted.</ChosenAnswer>
+    <ChosenAnswererId>sXxQoTuTaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jeremy S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267969472</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268194335</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yeah.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LXDgTvLxaa</UserId>
+            <UserNick>Dinderin</UserNick>
+            <Date>2010-03-07 05:41:24</Date>
+            <Timestamp>1267969284</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Open up skype and go to Tools &gt; Options, go to the Privacy tab and hit the ‘Clear History’ button. A dialog box will pop up asking you for confirmation regarding deleting all previous text chats, voice mail, calls, file transfers and SMS messages. Hit Delete and you’re done. The Skype call and chat history has been deleted.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>sXxQoTuTaa</UserId>
+            <UserNick>Jeremy S</UserNick>
+            <Date>2010-03-07 05:44:32</Date>
+            <Timestamp>1267969472</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:41:25 PDT 2010 -->

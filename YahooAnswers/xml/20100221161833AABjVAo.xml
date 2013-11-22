@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221161833AABjVAo" type="Answered">
+    <Subject>Need simple internet help--Cannot display webpage?</Subject>
+    <Content>Okay, I have an HP Pavilion Entertainment Laptop, 2009 bought..2007 Vista Home Premium 64 bit, and I upgraded from Internet Explorer 6 to 8. 
+
+Since today, I have not been able to get on a few sites:
+www.walmart.com
+www.ebay.com
+
+I can get on:
+Facebook
+barnesandnoble.com
+Google
+Yahoo
+
+Phishing filter is off, firewall down, medium security. Connected thru spliter for phone line/Broadband, can use phone at the same time on internet.
+
+when I type in the brower the websites, it will say, &quot;this page cannot be displayed&quot; tryed reloading, tried restarting, updates, intercnnection is fine.
+
+What is wrong, and how can i fix it&gt;&gt;???
+</Content>
+    <Date>2010-02-21 16:18:33</Date>
+    <Timestamp>1266797913</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221161833AABjVAo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>e8Rvwbs9aa</UserId>
+    <UserNick>Mrs. Kelley (ARMY WIFE Hooah!)</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1kbZbjGSRAAEBnMJweBPp0sewmRnkmqvT1wI=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There are compatibility filters you can use in IE8, that may help
+I tend to switch all the new &#039;features&#039; off myself when installing it (for my daughter)
+
+Try a different browser, it doesn&#039;t hurt to have several installed - just be careful of the new browser making itself the default when you first install it, there should be a ticked box you can untick.
+
+Firefox, Opera and Chrome all have their good points. I prefer Firefox with adblockplus myself</ChosenAnswer>
+    <ChosenAnswererId>u63ya9Leaa</ChosenAnswererId>
+    <ChosenAnswererNick>Michael</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266798571</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266835982</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There are compatibility filters you can use in IE8, that may help
+I tend to switch all the new &#039;features&#039; off myself when installing it (for my daughter)
+
+Try a different browser, it doesn&#039;t hurt to have several installed - just be careful of the new browser making itself the default when you first install it, there should be a ticked box you can untick.
+
+Firefox, Opera and Chrome all have their good points. I prefer Firefox with adblockplus myself</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>u63ya9Leaa</UserId>
+            <UserNick>Michael</UserNick>
+            <Date>2010-02-21 16:29:31</Date>
+            <Timestamp>1266798571</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i used to get this problem all the time with INTERNET EXPLORER so i just use GOOGLE CHROME now,it does everything the other one does but quicker and i never have that problem now</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ufccCilHaa</UserId>
+            <UserNick>bigbear</UserNick>
+            <Date>2010-02-21 16:46:14</Date>
+            <Timestamp>1266799574</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:33:01 PDT 2010 -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307114856AACWv8b" type="Answered">
+    <Subject>Which is the best brower?;Mozilla Firefox, IE-8, Safari,Chrome or any others?</Subject>
+    <Content>I use IE and Firefox, I like Firefox more than IE because its faster and safer. But Firefox always crashes. Which do you prefer?
+I meant *browser .
+</Content>
+    <Date>2010-03-07 11:48:56</Date>
+    <Timestamp>1267991336</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307114856AACWv8b</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AzxyncP7aa</UserId>
+    <UserNick>▐▀▀▼▀▀▌  Janessa  ▐▄▄▲▄▄▌</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1G73jPcY4AAID-MGObVBRfLwB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I don&#039;t know about others but I use Opera. It&#039;s a best thing for downloading streaming videos cause it gives you resume facility. But, you can&#039;t add any toolbars or add-ons in that. It doesn&#039;t support it. But, it&#039;s faster and most of the time it doesn&#039;t hang.</ChosenAnswer>
+    <ChosenAnswererId>64a582e999957e5b09ad9eba2cf0c22faa</ChosenAnswererId>
+    <ChosenAnswererNick>Willie Black</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267992455</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268510854</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I don&#039;t know about others but I use Opera. It&#039;s a best thing for downloading streaming videos cause it gives you resume facility. But, you can&#039;t add any toolbars or add-ons in that. It doesn&#039;t support it. But, it&#039;s faster and most of the time it doesn&#039;t hang.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>64a582e999957e5b09ad9eba2cf0c22faa</UserId>
+            <UserNick>Willie</UserNick>
+            <Date>2010-03-07 12:07:35</Date>
+            <Timestamp>1267992455</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I like and settled on SRWare Iron, which is like Chrome, but does not send your surfing info back to Mother Google...I gave up on Firefox months ago, because of being so buggy...</Content>
+            <Reference>http://www.srware.net/en/software_srware_iron.php</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-07 12:24:44</Date>
+            <Timestamp>1267993484</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:39:01 PDT 2010 -->

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223105510AADTssF" type="Answered">
+    <Subject>cant connect to internet explorer but im able to connect with maxthon.?</Subject>
+    <Content>i got maxthon internet fall of &#039;08 because i saw on the news that internet explorer wasn&#039;t safe to log on to at that moment. ive been trying to log on to internet explorer and it says &quot;internet explorer can not display the web page&quot; and when i click on the &quot;diagnose the connection problem&quot; it then says &quot;windows couldn&#039;t find anything wrong with my network connection&quot; ive tried to install new internet explorer and couldnt. Arrrg...why? and how do i fix it?
+</Content>
+    <Date>2010-02-23 10:55:10</Date>
+    <Timestamp>1266951310</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223105510AADTssF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qZrzgoT9aa</UserId>
+    <UserNick>liz69dixon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Probably add-ons
+
+Try this:
+
+Start&gt;All Programs&gt;Accessories&gt;System Tools&gt; Internet Explorer (No Add-ons)
+
+If it boots up and works, its an add-on in the regular IE that&#039;s causing a fuss.  Open up a regular IE window.  Right click on the toolbar and uncheck all the crap-o-la that isn&#039;t needed.  Most people just use Command Bar and Status Bar.</ChosenAnswer>
+    <ChosenAnswererId>s48tId4paa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266951519</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268329979</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Probably add-ons
+
+Try this:
+
+Start&gt;All Programs&gt;Accessories&gt;System Tools&gt; Internet Explorer (No Add-ons)
+
+If it boots up and works, its an add-on in the regular IE that&#039;s causing a fuss.  Open up a regular IE window.  Right click on the toolbar and uncheck all the crap-o-la that isn&#039;t needed.  Most people just use Command Bar and Status Bar.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>s48tId4paa</UserId>
+            <UserNick>Legion</UserNick>
+            <Date>2010-02-23 10:58:39</Date>
+            <Timestamp>1266951519</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:20:34 PDT 2010 -->

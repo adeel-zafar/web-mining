@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324000859AAJPF35" type="Answered">
+    <Subject>mozilla won&#039;t let me go to craigslist?</Subject>
+    <Content>The browser simply won&#039;t let me to to the craigslist website.  I don&#039;t have this problem with any other website.
+</Content>
+    <Date>2010-03-24 00:08:59</Date>
+    <Timestamp>1269414539</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324000859AAJPF35</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SxFujyzsaa</UserId>
+    <UserNick>Joe</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The are down until 2am Central time for site maintenence :)</ChosenAnswer>
+    <ChosenAnswererId>xv6KReYkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nicklen ツ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269414827</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269933799</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The are down until 2am Central time for site maintenence :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xv6KReYkaa</UserId>
+            <UserNick>Nicklen ツ</UserNick>
+            <Date>2010-03-24 00:13:47</Date>
+            <Timestamp>1269414827</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:36:17 PDT 2010 -->

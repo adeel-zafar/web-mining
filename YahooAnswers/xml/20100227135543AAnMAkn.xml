@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227135543AAnMAkn" type="Answered">
+    <Subject>Why won&#039;t my AIM allow me to send text anymore?</Subject>
+    <Content>I was texting everyone from AIM, then all of a sudden I I sign back on &amp; is shows half of the buddies I was texting as Not Available. Why is that ?
+</Content>
+    <Date>2010-02-27 13:55:43</Date>
+    <Timestamp>1267307743</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227135543AAnMAkn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11175912</UserId>
+    <UserNick>Delilah.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1GvFomdsBAAEEBgOahJPUkmPK4-qsww==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Oh. Some phones do that. It&#039;s called conversations. Conversations is when you talked to a friend for example for a day then you logged out. Then for example when your in the car and your on the phone it will say your friend is on from yesterday and she or he really isn&#039;t. That&#039;s what conversation is. It looks like their on, but they really aren&#039;t. So yeah. I did it once and I thought my friend was on I&#039;m like oh the conversation was still there. Just click end conversation then it will be gone. Hope this helps!</ChosenAnswer>
+    <ChosenAnswererId>3rZsq27Qaa</ChosenAnswererId>
+    <ChosenAnswererNick>Brandyn</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267307865</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267827274</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe because you&#039;re connection is weak.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>U2phyqq1aa</UserId>
+            <UserNick>Michelle</UserNick>
+            <Date>2010-02-27 13:57:35</Date>
+            <Timestamp>1267307855</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Oh. Some phones do that. It&#039;s called conversations. Conversations is when you talked to a friend for example for a day then you logged out. Then for example when your in the car and your on the phone it will say your friend is on from yesterday and she or he really isn&#039;t. That&#039;s what conversation is. It looks like their on, but they really aren&#039;t. So yeah. I did it once and I thought my friend was on I&#039;m like oh the conversation was still there. Just click end conversation then it will be gone. Hope this helps!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3rZsq27Qaa</UserId>
+            <UserNick>Brandyn</UserNick>
+            <Date>2010-02-27 13:57:45</Date>
+            <Timestamp>1267307865</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:42:56 PDT 2010 -->

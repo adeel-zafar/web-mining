@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329044520AAMvdhI" type="Answered">
+    <Subject>question about deviantart?</Subject>
+    <Content>eurgh you&#039;re probably going to think im so dumb but i just joined deviant art, and i noticed that after people have commented they are putting something underneath.. which i don&#039;t quite understand.
+
+this is one i&#039;ve just copied as an example
+
+&quot;adorable &lt;3
+
+--
+Sleep, dream of a beautiful death. I&#039;ll make a promise. Everyting you love...I will destroy.&quot;
+
+why do they put that bit at the end? is it like a &quot;motto&quot; or something? lol
+
+easy 10 points&lt;3
+</Content>
+    <Date>2010-03-29 04:45:20</Date>
+    <Timestamp>1269863120</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329044520AAMvdhI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GgZv22t2aa</UserId>
+    <UserNick>gem</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1X0e2Rt7pAAQBQgFTPJNwosr0Ig==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>&quot;adorable &lt;3&quot;
+
+(This is the actual comment the &#039;&lt;3&#039; is the symbol for a heart or love. Below the two dotted lines is the users signature)
+--
+Sleep, dream of a beautiful death. I&#039;ll make a promise. Everyting you love...I will destroy.&quot;</ChosenAnswer>
+    <ChosenAnswererId>qE4ZoqzBaa</ChosenAnswererId>
+    <ChosenAnswererNick>Syxx</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269865411</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269881773</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>That is their signature, which can be anything that you want.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uh1jUsXRaa</UserId>
+            <UserNick>Undeadaircrew</UserNick>
+            <Date>2010-03-29 05:14:18</Date>
+            <Timestamp>1269864858</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>&quot;adorable &lt;3&quot;
+
+(This is the actual comment the &#039;&lt;3&#039; is the symbol for a heart or love. Below the two dotted lines is the users signature)
+--
+Sleep, dream of a beautiful death. I&#039;ll make a promise. Everyting you love...I will destroy.&quot;</Content>
+            <Reference>Devart member since 2004</Reference>
+            <Best>3</Best>
+            <UserId>qE4ZoqzBaa</UserId>
+            <UserNick>Syxx</UserNick>
+            <Date>2010-03-29 05:23:31</Date>
+            <Timestamp>1269865411</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:16:31 PDT 2010 -->

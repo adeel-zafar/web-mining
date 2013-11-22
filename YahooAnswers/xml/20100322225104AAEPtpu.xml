@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322225104AAEPtpu" type="Answered">
+    <Subject>can my internet surfing be tracked?</Subject>
+    <Content>i use like this secured network that i pay for every month and i wondered if my browsing can be tracked  and what i can do to prevent it...
+Thanks! =)
+PS i have cookies disabled
+</Content>
+    <Date>2010-03-22 22:51:04</Date>
+    <Timestamp>1269323464</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322225104AAEPtpu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZJ7ry2Qcaa</UserId>
+    <UserNick>Jay</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>9</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your ISP can, anyone intercepting your packets can, and if someone installed spy software on your computer, or connection they can.</ChosenAnswer>
+    <ChosenAnswererId>TRLMIgrEaa</ChosenAnswererId>
+    <ChosenAnswererNick>kinamyen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269323568</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269842694</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Delete the history, No one will see your porn.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0oHJDXd1aa</UserId>
+            <UserNick>Azzy</UserNick>
+            <Date>2010-03-22 22:52:21</Date>
+            <Timestamp>1269323541</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your ISP can, anyone intercepting your packets can, and if someone installed spy software on your computer, or connection they can.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TRLMIgrEaa</UserId>
+            <UserNick>kinamyen</UserNick>
+            <Date>2010-03-22 22:52:48</Date>
+            <Timestamp>1269323568</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if someone else is connected to your connection 
+then yes it can
+
+if you have a certian type of virus
+
+Yes it can</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>t2uUm6pWaa</UserId>
+            <UserNick>cdtwo2002</UserNick>
+            <Date>2010-03-22 22:52:51</Date>
+            <Timestamp>1269323571</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>YES IT CAN IF SOMEONE HACK TROW YOUR FIREWALL OR IF SOMEONE INSTALL A SOME KIND OF SOFWARE TO MONITER YOU.THOSE THE SOFWARE TOU HAVE SCAN FOR SPYWARE</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zp46Txipaa</UserId>
+            <UserNick>joelrivera6</UserNick>
+            <Date>2010-03-22 22:55:28</Date>
+            <Timestamp>1269323728</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ok YES
+Alot of sights can track ip addresses and stuff and yes viruses can log where you go. also your Internet provider can and sometimes it logs where you go on your router. Your browser also logs stuff but you can easily delete your history.
+Use AVG antivirus free edition to combat spyware and just surf on sites that are good :) you shouldnt worry about this.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>mIrGJSA3aa</UserId>
+            <UserNick>Darkest(Adam Carlson)</UserNick>
+            <Date>2010-03-22 22:57:47</Date>
+            <Timestamp>1269323867</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>On the computer itself the simple deletion of cookies and erasing of history as well as doing a search on your computer for any random files pertaining to the unwanted content should remove all traces. As far as the actual web goes its a minefield. Someone may be tapped into your network or your file may be intercepted and read before delivery or a hacker may have gotten spyware onto your computer all of these are pretty unlikely but they are still possible. The best way to prevent information from being viewed is to look for sites that have a lock in the subject bar that indicates that they are encrypting your files at your computer and then unencrypting them upon arrival at their servers. While this is still not necessarily 100% protected its a lot better then just sending your sheep (information) into the wolf pack (internet)</Content>
+            <Reference>An assortment of facts achieved through google and computer tech classes</Reference>
+            <Best></Best>
+            <UserId>vFT90oMeaa</UserId>
+            <UserNick>Skyler M</UserNick>
+            <Date>2010-03-22 23:00:27</Date>
+            <Timestamp>1269324027</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Any spyware/parental control software can. If someone is intercepting your packets, they can. If you don&#039;t delete your history, cookies and cache someone can. The ISP can. The admins of the secured network can. The FBI can.
+
+There is no way to be 100% safe.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pVGY9myOaa</UserId>
+            <UserNick>Firzen</UserNick>
+            <Date>2010-03-22 23:07:57</Date>
+            <Timestamp>1269324477</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes everything you do can be tracked!! your computer is assigned an IP address everyones has a differant one to find out what yours is go to ipchicken.com to avoid &quot;tracing&quot; you should use a proxy such as kproxy even though they are slower it makes you less tracible</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hQTda2aYaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-22 23:19:27</Date>
+            <Timestamp>1269325167</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, you can be tracked even though you&#039;ve got cookies disabled.  However to secure erase what&#039;s on your hard drive download a program called CCleaner and then select the Gutmann Pass method; this will overwrite your history 35 times with 1s and 0s so no one can see what you&#039;ve been upto apart from your internet service provider.  If you connect via another computer in your house then the administrator of that computer can see what you&#039;ve been upto!
+
+When getting rid of your computer replace the hard drive with a brand new one and then destory the old one by drilling several holes in it so the data can not be recoverable.  Apparently according to urban legend the US Security Service shoots the disused hard drives in order for the data to be made unrecoverable.  As even with an erase program such as CCleaner; all it takes is time and forensic computer programs to recover what you&#039;ve been upto.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rY0885ylaa</UserId>
+            <UserNick>Carter_k1</UserNick>
+            <Date>2010-03-23 09:03:07</Date>
+            <Timestamp>1269360187</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:02 PDT 2010 -->

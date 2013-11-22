@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321122458AA4gHZu" type="Answered">
+    <Subject>How to get the internet domain name (internet address) that I need for my company?</Subject>
+    <Content>I am trying to get the internet domain name/address for my company.  I looked up the .com name and it is registered to someone else.  They have not used it for their website.  I have been tracking this for over a year now and I haven&#039;t seen them do anything with the internet domain name.  Is there a way for me to get the .com that I want from them?
+</Content>
+    <Date>2010-03-21 12:24:58</Date>
+    <Timestamp>1269199498</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321122458AA4gHZu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8fkfT2ycaa</UserId>
+    <UserNick>mickey_bigdaddy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1kj9rNTskAAEDgkMn3UJkuB4B.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You would have to contact them yourself, http://whois.domaintools.com/ might help you find their details.</ChosenAnswer>
+    <ChosenAnswererId>DGdz8UKtaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jake</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269199804</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269381824</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you can plead your case to ICANN, then yes, you can get the domain for the standard rate; however, this is unlikely, so you should try to buy it from him. You can use a WHOIS to find him, such as www.who.is</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>48530b07235001b77643fff7f564ee25aa</UserId>
+            <UserNick>Codster</UserNick>
+            <Date>2010-03-21 12:29:07</Date>
+            <Timestamp>1269199747</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You would have to contact them yourself, http://whois.domaintools.com/ might help you find their details.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>DGdz8UKtaa</UserId>
+            <UserNick>Jake</UserNick>
+            <Date>2010-03-21 12:30:04</Date>
+            <Timestamp>1269199804</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>see that website www.godaddy.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oVZ2hQLmaa</UserId>
+            <UserNick>john</UserNick>
+            <Date>2010-03-21 13:14:15</Date>
+            <Timestamp>1269202455</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>As you may know a domain name is just a name, not a real website. If you are going to create your website: 1- Buy a domain name. A domain name is a name you want to call your website (ex: www.yahoo.com). To get a domain name, you have to pay an annual fee to a registrar for the right to use that name. 2- Buy a web hosting service to provide your online space and enable you to get your website online at your purchased domain name.
+
+If you want to start your website I recommend purchase your domain and hosting together. In this way it is possible to get your domain for free. Some hosting services offer this gift today.
+
+As an experienced webmaster I recommend BH web hosting which I’m sure it would work for you and fulfill all your requirements. They have a really great offer for hosting &amp; I have used them for over 3 yrs now, and have never had a single problem with them. 
+
+You can reach reviews about this web hosting provider and its latest DISCOUNT COUPONS at:
+
+
+http://www.threehosts.com/reviews/1st
+
+Only $3.95 /month (with discount coupon).
+
+
+******IMPORTANT********
+* This service was awarded the “Best Web Hosting OF The Year”.
+* If you sign up for this service you will have $75 credits to advertise your website with the google &amp; yahoo search engines for free!
+* You Can Register A Free Domain or Use Your Existing Domains. They Support All Domain Names.
+****************************
+
+Another useful link:
+http://www.threehosts.com/build
+There you can find a step-by-step guide to start your website.
+
+Hope this helps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YsXKcAgbaa</UserId>
+            <UserNick>David M</UserNick>
+            <Date>2010-03-21 14:10:26</Date>
+            <Timestamp>1269205826</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:06 PDT 2010 -->

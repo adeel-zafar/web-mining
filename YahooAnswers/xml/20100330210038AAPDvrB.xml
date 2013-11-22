@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330210038AAPDvrB" type="Answered">
+    <Subject>ebay feedback question?</Subject>
+    <Content>dont know if this questions been asked before but for those of you that know, why is it that I have 73 feedback recieved but then next to my name where the star is it only says 64? thanks... :)
+</Content>
+    <Date>2010-03-30 21:00:38</Date>
+    <Timestamp>1270008038</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330210038AAPDvrB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CXZzoxURaa</UserId>
+    <UserNick>♥</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1xy0N01iPAAEC4USV4US3eB5rJyEH.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your feedback score will increase by one per seller (even if you buy 2 or more items from the one seller)  If for example you purchased 1 item one week, paid &amp; received it then purchased another item from the same seller in the next week. Your feedback score will increase by 2 as they are 2 separate transactions. (provided they leave you feedback that is)</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270023061</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270077738</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>if you buy multiple items from one seller, the seller could choose not to leave feed back on everything.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EpiWJftMaa</UserId>
+            <UserNick>Shanon</UserNick>
+            <Date>2010-03-30 21:03:48</Date>
+            <Timestamp>1270008228</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your feedback score will increase by one per seller (even if you buy 2 or more items from the one seller)  If for example you purchased 1 item one week, paid &amp; received it then purchased another item from the same seller in the next week. Your feedback score will increase by 2 as they are 2 separate transactions. (provided they leave you feedback that is)</Content>
+            <Reference>ebay buyer &amp; seller</Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-31 01:11:01</Date>
+            <Timestamp>1270023061</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:26 PDT 2010 -->

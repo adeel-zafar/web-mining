@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314101609AAIgMDN" type="Answered">
+    <Subject>What does the &quot;meh&quot; mean on MLIA?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-14 10:16:09</Date>
+    <Timestamp>1268586969</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314101609AAIgMDN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>COkDY2wAaa</UserId>
+    <UserNick>GeorgiaSue</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba56e73i4e1zws109mud/GuY64iM9crLbTcZh5k.Tr4QJF4B75eY8VA--/6/tn48.jpeg?ciAAToMBoGcOjbjy</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>&quot;Meh&quot; is an expression showing that something is mediocre. In this case, &quot;meh&quot; is used to show that you didn&#039;t think the post was very good.
+
+An example of a meh-worthy post: &quot;Today, I woke up and got out of bed. MLIA&quot;
+
+An example of an average-worthy post: &quot;Today, I woke up and got out of bed, only to find my friends in my room with two giant cakes. I don&#039;t know what the occasion is, but I don&#039;t care. MLIA&quot;</ChosenAnswer>
+    <ChosenAnswererId>2pD233szaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jacob M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268587318</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268695010</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Me or Eh...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7JQeBZfVaa</UserId>
+            <UserNick>Leslieee™</UserNick>
+            <Date>2010-03-14 10:17:56</Date>
+            <Timestamp>1268587076</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>&quot;Meh&quot; is an expression showing that something is mediocre. In this case, &quot;meh&quot; is used to show that you didn&#039;t think the post was very good.
+
+An example of a meh-worthy post: &quot;Today, I woke up and got out of bed. MLIA&quot;
+
+An example of an average-worthy post: &quot;Today, I woke up and got out of bed, only to find my friends in my room with two giant cakes. I don&#039;t know what the occasion is, but I don&#039;t care. MLIA&quot;</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2pD233szaa</UserId>
+            <UserNick>Jacob M</UserNick>
+            <Date>2010-03-14 10:21:58</Date>
+            <Timestamp>1268587318</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:59:29 PDT 2010 -->

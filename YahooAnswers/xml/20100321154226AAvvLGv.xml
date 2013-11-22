@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321154226AAvvLGv" type="Answered">
+    <Subject>What internet is better fire fox or internet explorer?</Subject>
+    <Content>my computer is slow in the internet and i want to know which internet is better Fire fox or internet explorer.
+</Content>
+    <Date>2010-03-21 15:42:26</Date>
+    <Timestamp>1269211346</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321154226AAvvLGv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Z8RRVPPhaa</UserId>
+    <UserNick>nancy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Firefox, it has about 2,000 less security holes.</ChosenAnswer>
+    <ChosenAnswererId>6VXQnqxyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Danf2</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269211408</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269990886</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox is better on every possible front.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UDCRxagzaa</UserId>
+            <UserNick>Chris H</UserNick>
+            <Date>2010-03-21 15:43:16</Date>
+            <Timestamp>1269211396</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox, it has about 2,000 less security holes.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6VXQnqxyaa</UserId>
+            <UserNick>Danf2</UserNick>
+            <Date>2010-03-21 15:43:28</Date>
+            <Timestamp>1269211408</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox is faster, safer, and more customizable</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7tn3MHxkaa</UserId>
+            <UserNick>Shoopit</UserNick>
+            <Date>2010-03-21 15:44:55</Date>
+            <Timestamp>1269211495</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here are the pros and cons of the two:
+
+Firefox pros:
+* Infinitely more customizable, akin to the apple adage &quot;there&#039;s an app for that&quot;, for anything you want to do in Firefox, &quot;there&#039;s an addon for that&quot;.
+* The gecko rendering engine obeys internet standards far more accurately and renders pages far more quickly than internet explorer. For immediately visible results, you&#039;ll see almost all the pages you browse to look better and load faster.
+* Far more security than internet explorer, and a pop up block that actually works most of the time.
+
+Firefox cons:
+* Depending on how many addons you get, it could get a little bulky, and start taking up a lot of RAM.
+* Takes longer to boot up than internet explorer, but once you start it up, it is a lot faster. (On slower machines, I generally just open it up and keep it open, unless I am forced to close it).
+
+Internet Explorer pros:
+* Takes slightly less time to boot up than Firefox.
+
+Internet Explorer cons:
+* Is the spawn of Satan.</Content>
+            <Reference>ƒ☻Ü├</Reference>
+            <Best></Best>
+            <UserId>AQXfE8HLaa</UserId>
+            <UserNick>Jason J</UserNick>
+            <Date>2010-03-21 15:47:42</Date>
+            <Timestamp>1269211662</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;d give Jason J three thumbs up if Yahoo would allow me, simply because &quot;Spawn of Satan&quot; is three words!
+
+However, for the record - Internet Explorer 8 supports ARIA (Accessible Rich Internet Applications) tags better than Firefox.
+
+Hey, IE has to win SOMETHING!</Content>
+            <Reference>http://www.w3.org/TR/wai-aria/</Reference>
+            <Best></Best>
+            <UserId>5zq8H01naa</UserId>
+            <UserNick>c0nfuted</UserNick>
+            <Date>2010-03-21 16:00:21</Date>
+            <Timestamp>1269212421</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:26:11 PDT 2010 -->

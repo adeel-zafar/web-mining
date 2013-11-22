@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323212111AA273Mr" type="Answered">
+    <Subject>Chatroulette troubleshooting help?</Subject>
+    <Content>it says that i need to allow peer to peer connections. I allowed this on my regular firewall, and it still doesnt work. I&#039;m guessing its the windows firewall. Anyone know where exactly i can change this? 
+
+thank you
+</Content>
+    <Date>2010-03-23 21:21:11</Date>
+    <Timestamp>1269404471</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323212111AA273Mr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oy4TLPzCaa</UserId>
+    <UserNick>the cedar</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>have you tried putting your penis up to the webcam? that seems to work well</ChosenAnswer>
+    <ChosenAnswererId>oVtpu55vaa</ChosenAnswererId>
+    <ChosenAnswererNick>Aaron</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269404538</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269551568</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Why in the hell would you want to go on Chatroulette?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>D30tksW3aa</UserId>
+            <UserNick>Ray S</UserNick>
+            <Date>2010-03-23 21:22:16</Date>
+            <Timestamp>1269404536</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>have you tried putting your penis up to the webcam? that seems to work well</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>oVtpu55vaa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-23 21:22:18</Date>
+            <Timestamp>1269404538</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:16:42 PDT 2010 -->

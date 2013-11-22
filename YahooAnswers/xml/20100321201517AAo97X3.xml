@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321201517AAo97X3" type="Answered">
+    <Subject>What is &quot;internet&quot; short for?</Subject>
+    <Content>It has to come from some bigger, more complicated word, right...?
+</Content>
+    <Date>2010-03-21 20:15:17</Date>
+    <Timestamp>1269227717</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321201517AAo97X3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>a2o85Aw0aa</UserId>
+    <UserNick>Killer Kueen</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1S9MJnoPJAAECRIOcRBdLyAl1IQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>interconnected computer networks</ChosenAnswer>
+    <ChosenAnswererId>QNj7EPuFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Liquid Emeralds</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269228400</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269809582</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10785282</UserId>
+            <UserNick>Ryan</UserNick>
+            <Date>2010-03-21 20:18:47</Date>
+            <Timestamp>1269227927</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>inter-network
+
+which makes sense as the internet is comprised of several networks connected together.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YESUhp8gaa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-21 20:20:26</Date>
+            <Timestamp>1269228026</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>not really. It&#039;s sort of loosely based off the prefix inter- meaning &quot;between&quot; and network.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SuyAG7MCaa</UserId>
+            <UserNick>Ben</UserNick>
+            <Date>2010-03-21 20:21:18</Date>
+            <Timestamp>1269228078</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>interconnected computer networks</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>QNj7EPuFaa</UserId>
+            <UserNick>Liquid Emeralds</UserNick>
+            <Date>2010-03-21 20:26:40</Date>
+            <Timestamp>1269228400</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Modern defintion: &quot;Interconnected Network&quot;
+
+Original definition: &quot;Interoperable Network&quot; from its grassroots government and military days.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Mj5UY43Oaa</UserId>
+            <UserNick>Lukas Wolfe</UserNick>
+            <Date>2010-03-21 20:29:33</Date>
+            <Timestamp>1269228573</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:25:26 PDT 2010 -->

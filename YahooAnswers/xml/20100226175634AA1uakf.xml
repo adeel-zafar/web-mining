@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226175634AA1uakf" type="Answered">
+    <Subject>Youtube won&#039;t load on safari OR firefox!?</Subject>
+    <Content>Anyone got any tips on how to make youtube load?
+Please be detailed.
+how can you check the operating system &amp; if the thing is installed?
+</Content>
+    <Date>2010-02-26 17:56:34</Date>
+    <Timestamp>1267235794</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226175634AA1uakf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>caf5fdc7227dbc59531e2d89ea42edd6aa</UserId>
+    <UserNick>Bob</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b3bf9c9i1e27zul5re4/LQ_yDxszbqTko9G7YucrV96HJa0_DM7y/3/tn48.png?ciAAToMBnuGSzMkJ</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What is your operating system 32/86 bit or 64 bit? If 64 bit that&#039;s the problem . Also make sure you have flash player installed.</ChosenAnswer>
+    <ChosenAnswererId>H5bp64owaa</ChosenAnswererId>
+    <ChosenAnswererNick>bluedragon</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267236115</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267765381</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What is your operating system 32/86 bit or 64 bit? If 64 bit that&#039;s the problem . Also make sure you have flash player installed.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>H5bp64owaa</UserId>
+            <UserNick>bluedragon</UserNick>
+            <Date>2010-02-26 18:01:55</Date>
+            <Timestamp>1267236115</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What won&#039;t load? If you get to a video, and it says &quot;Hello, either you don&#039;t have javascript enabled, or you need the flash player, then you need to click the link and download the latest version of the flash player.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AnhXolR9aa</UserId>
+            <UserNick>Matthew</UserNick>
+            <Date>2010-02-26 18:20:28</Date>
+            <Timestamp>1267237228</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:47:54 PDT 2010 -->

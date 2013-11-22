@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316001017AAgLKkg" type="Answered">
+    <Subject>what is the meaning of http//   and www?</Subject>
+    <Content>i saw it when browsing.
+</Content>
+    <Date>2010-03-16 00:10:17</Date>
+    <Timestamp>1268723417</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316001017AAgLKkg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vMDh3NIgaa</UserId>
+    <UserNick>bangi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>9</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http=Hypertext Transfer Protocol -  is definition of protocol your browser has to use for specyfic site ( it&#039;s kinda obvious that you use web browser to browse web pages, but they can contain links to skype or MSN username - different protocol in links tells browser to open different applications to handle that adress - in this example skype and msn )
+www= World Wide Web - it&#039;s remainder of old times when computers had low specs and you had to use different machine for different tasks - for example one server to web pages ( www.domain.com), one for e-mail communication (mail.domain.com) and one for transferring files (ftp.domain.com). Currently even one server is more than capable to handle all that tasks, so you don&#039;t have to type which specific service you want to connect to ( www, mail or ftp...) - still, many webmasters use them in adresses, out of custom.</ChosenAnswer>
+    <ChosenAnswererId>XhCVSPaPaa</ChosenAnswererId>
+    <ChosenAnswererNick>Agata</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268724141</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269342755</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>hyper text transfer protocol
+world wide web</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ftB26YKdaa</UserId>
+            <UserNick>Edwin</UserNick>
+            <Date>2010-03-16 00:11:33</Date>
+            <Timestamp>1268723493</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hypertext Transfer Protocol.  World Wide Web.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Gg7GYTbAaa</UserId>
+            <UserNick>andrew</UserNick>
+            <Date>2010-03-16 00:11:34</Date>
+            <Timestamp>1268723494</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http:// notifies your computer that the address that it is heading for is a website address and not located anywhere on your computer (like= &quot;c:/&quot; would tell your computer that it is on hard disk C.), so the &#039;http&#039; part is basically telling your computer that it must access the internet to find the address, and not any driver on your computer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>phWxUvzLaa</UserId>
+            <UserNick>josh8550</UserNick>
+            <Date>2010-03-16 00:13:05</Date>
+            <Timestamp>1268723585</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http=Hypertext Transfer Protocol -  is definition of protocol your browser has to use for specyfic site ( it&#039;s kinda obvious that you use web browser to browse web pages, but they can contain links to skype or MSN username - different protocol in links tells browser to open different applications to handle that adress - in this example skype and msn )
+www= World Wide Web - it&#039;s remainder of old times when computers had low specs and you had to use different machine for different tasks - for example one server to web pages ( www.domain.com), one for e-mail communication (mail.domain.com) and one for transferring files (ftp.domain.com). Currently even one server is more than capable to handle all that tasks, so you don&#039;t have to type which specific service you want to connect to ( www, mail or ftp...) - still, many webmasters use them in adresses, out of custom.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XhCVSPaPaa</UserId>
+            <UserNick>Agata</UserNick>
+            <Date>2010-03-16 00:22:21</Date>
+            <Timestamp>1268724141</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>HyperTextTransferProtocol - this is protocol for transferring web pages through internet
+2.WorldWideWeb</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>f7x7tbepaa</UserId>
+            <UserNick>Fire</UserNick>
+            <Date>2010-03-16 00:24:39</Date>
+            <Timestamp>1268724279</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>HTTP : Hyper text transfer protocol
+that means &quot;The Hypertext Transfer Protocol (HTTP) is an Application Layer protocol for distributed, collaborative, hypermedia information systems.&quot;
+
+www; world wide web;The World Wide Web, abbreviated as WWW and commonly known as The Web, is a system of interlinked hypertext documents contained on the Internet. With a web browser, one can view web pages that may contain text, images, videos, and other multimedia and navigate between them by using hyperlinks. Using concepts from earlier hypertext systems,</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Rl2NIUhoaa</UserId>
+            <UserNick>Adarsh</UserNick>
+            <Date>2010-03-16 00:30:57</Date>
+            <Timestamp>1268724657</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>HTTP stands for the hypertext transfer protocol 
+now hypertext include all the type of data like simple text to multimedia data like songs video
+it is stateless protocol means it does not keep the track of which request is given to him priviously
+
+and the WWW which we write in the start of all the web sites stand for world wide web that means every web site which we are going to open or want to see belongs to the domain world wide web</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fyq2Ox0aaa</UserId>
+            <UserNick>vijay Rathi</UserNick>
+            <Date>2010-03-16 13:31:13</Date>
+            <Timestamp>1268771473</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http means Hyper Text Transport protocol, 
+www World Wide Web</Content>
+            <Reference>windows help</Reference>
+            <Best></Best>
+            <UserId>9f9tOjAHaa</UserId>
+            <UserNick>b.mitkari</UserNick>
+            <Date>2010-03-17 01:41:59</Date>
+            <Timestamp>1268815319</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>HTTP - Hyper Text Transfer Protocol (It Is Such A Word That If U Don&#039;t Type While Typing Any URl Address Then Also It Automatically Gets Added While Redirecting U To The Site. Such An Important Word)
+
+WWW - World Wide Web ( It Too Has Some Importance But Not More Than HTTP)</Content>
+            <Reference>My Mind :)</Reference>
+            <Best></Best>
+            <UserId>DxjymCdvaa</UserId>
+            <UserNick>Mayank</UserNick>
+            <Date>2010-03-18 02:32:05</Date>
+            <Timestamp>1268904725</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:50:44 PDT 2010 -->

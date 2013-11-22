@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312082852AAPqF2p" type="Answered">
+    <Subject>I got spam mail from my own email account on AOL?</Subject>
+    <Content>How, why? Is my account hacked? What do I do now?
+</Content>
+    <Date>2010-03-12 08:28:52</Date>
+    <Timestamp>1268411332</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312082852AAPqF2p</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>afkygHMgaa</UserId>
+    <UserNick>thatartistwin</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b222f98if05zul8re4/ADjRLlklc6dt3BxxifrD_Tm6NxqG/1/tn48.jpg?ciAAToMB0zSHlfb1</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>your computer has a virus
+run your virus scan</ChosenAnswer>
+    <ChosenAnswererId>3L5ucj1Raa</ChosenAnswererId>
+    <ChosenAnswererNick>Tony</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268411430</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268927069</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>its called spoofed email.  add it to your spam list, and update/upgrade your filter.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JUgDG5HIaa</UserId>
+            <UserNick>James</UserNick>
+            <Date>2010-03-12 08:30:27</Date>
+            <Timestamp>1268411427</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>your computer has a virus
+run your virus scan</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-12 08:30:30</Date>
+            <Timestamp>1268411430</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, your account has been hacked by a worm and has sent a spam email to everyone in your contacts. You need to change your account password so it doesn&#039;t happen again. Also, make sure you have good virus, spyware and other malware protection.</Content>
+            <Reference>http://askbobrankin.com/spyware_or_virus.html</Reference>
+            <Best></Best>
+            <UserId>jCwM5V4Xaa</UserId>
+            <UserNick>Lion64</UserNick>
+            <Date>2010-03-12 08:33:03</Date>
+            <Timestamp>1268411583</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your address has been spoofed!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-12 08:33:05</Date>
+            <Timestamp>1268411585</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>OMG you invented a new word....ispam.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HJfjG9fRaa</UserId>
+            <UserNick>Danny Dix</UserNick>
+            <Date>2010-03-14 03:56:25</Date>
+            <Timestamp>1268564185</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:09:54 PDT 2010 -->

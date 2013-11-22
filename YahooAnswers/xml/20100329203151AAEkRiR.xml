@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329203151AAEkRiR" type="Answered">
+    <Subject>How do I fix my Mozilla Firefox screen?</Subject>
+    <Content>I was on this website and my arm was on the keyboard and it hit some buttons so now when I go on that website the screen is small.How do I fix this?
+</Content>
+    <Date>2010-03-29 20:31:51</Date>
+    <Timestamp>1269919911</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329203151AAEkRiR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gOLkT3H0aa</UserId>
+    <UserNick>I hate Tyler</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>hold ctrl plus the  + sign to zoom back in or right click desktop and click properties then settings then slide bar at or above 1024x768.</ChosenAnswer>
+    <ChosenAnswererId>mWHKIyIOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Goerge</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269920040</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269941471</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>hold ctrl plus the  + sign to zoom back in or right click desktop and click properties then settings then slide bar at or above 1024x768.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mWHKIyIOaa</UserId>
+            <UserNick>Goerge</UserNick>
+            <Date>2010-03-29 20:34:00</Date>
+            <Timestamp>1269920040</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>View &gt; Zoom &gt; Reset.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10758468</UserId>
+            <UserNick>I8AShroom</UserNick>
+            <Date>2010-03-29 20:34:40</Date>
+            <Timestamp>1269920080</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Click on &quot;View&quot;. Slide down to Zoom and over to Zoom In.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>F3ITpTcwaa</UserId>
+            <UserNick>Arther</UserNick>
+            <Date>2010-03-29 20:35:14</Date>
+            <Timestamp>1269920114</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>[CTRL] [0]</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>M0hNdRETaa</UserId>
+            <UserNick>iq911506</UserNick>
+            <Date>2010-03-29 20:35:42</Date>
+            <Timestamp>1269920142</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:56 PDT 2010 -->

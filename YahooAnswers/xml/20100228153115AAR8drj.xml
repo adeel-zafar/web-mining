@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228153115AAR8drj" type="Answered">
+    <Subject>Will our internet provider notify us if I use isohunt torrents?</Subject>
+    <Content>About half a year ago, I had been using utorrent to download music and whatnot. Our isp sent us an email asking us to cease using it. I have been told that using isohunt is different because it pulls from many different places, as opposed to utorrent. Thanks!
+</Content>
+    <Date>2010-02-28 15:31:15</Date>
+    <Timestamp>1267399875</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228153115AAR8drj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SRFEMLShaa</UserId>
+    <UserNick>think girl think</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/15E6VcpGiAAEC3wQYHkau2UHzLA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>all torrents work the same way. if your ISP saw you using it before, changing clients wont make it any less visible.</ChosenAnswer>
+    <ChosenAnswererId>ZjUCZcZmaa</ChosenAnswererId>
+    <ChosenAnswererNick>__A_YAHOO_USER__</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267400214</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267940027</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>that has nothing to do with it. Some torrents are watched by large companies such as warner brothers or universal music or whatever. So if it is being tracked and your IP adress is flagged downloading it the organization sends a notification to your ISP and your ISP emails you with the confirmation that you were infringing upon a copyright agreement blah blah</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HvgOUQJxaa</UserId>
+            <UserNick>Mackenzie</UserNick>
+            <Date>2010-02-28 15:36:48</Date>
+            <Timestamp>1267400208</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>all torrents work the same way. if your ISP saw you using it before, changing clients wont make it any less visible.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ZjUCZcZmaa</UserId>
+            <UserNick>Sean</UserNick>
+            <Date>2010-02-28 15:36:54</Date>
+            <Timestamp>1267400214</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>From what i know utorrent also pulls from many different places. the isp comes to know about it from the constant uniform traffic going on. There are some settings in utorrent that can mask this by encrypting the data or what ever. Also usually it is written on torrent sites that using a torrent isn&#039;t illegal. its the content that may be copyrighted thus making it illegal. But if the isp doen&#039;t know what you have downloaded so he shouldn&#039;t ask you to stop using it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Uc6qj4pbaa</UserId>
+            <UserNick>singen</UserNick>
+            <Date>2010-02-28 15:45:25</Date>
+            <Timestamp>1267400725</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>uTorrent is just the program that downloads your torrents. Isohunt is a website for downloading them. It would not make a difference in using a different site or program. Your ISP knows you have used it and if they notice a huge bandwidth spike, they will find out again and probably shut down your account. There are ways to help prevent that, but I can&#039;t talk about it publicly.</Content>
+            <Reference>http://www.techslip.net/forum</Reference>
+            <Best></Best>
+            <UserId>NuUhZTNKaa</UserId>
+            <UserNick>TechSlip</UserNick>
+            <Date>2010-02-28 15:52:39</Date>
+            <Timestamp>1267401159</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:36:38 PDT 2010 -->

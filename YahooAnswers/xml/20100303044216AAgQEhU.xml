@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303044216AAgQEhU" type="Answered">
+    <Subject>i can&#039;t play any video or audio online?</Subject>
+    <Content>i can&#039;t play any video file (youtube) online, neither can i play audio files (embedded files that play using windows media player). not sure why, because i could a few days ago.
+</Content>
+    <Date>2010-03-03 04:42:16</Date>
+    <Timestamp>1267620136</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303044216AAgQEhU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bIvQLkGMaa</UserId>
+    <UserNick>elysium...</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1o8LSuE-aAAMBD-JlhBPYEl161lr0lc8b.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s possible that the flash plugins have un-installed themselves.  try windows update, re-installing sound card drivers, installing a different web browser such as firefox or google chrome or try windows system restore</ChosenAnswer>
+    <ChosenAnswererId>RGojRInzaa</ChosenAnswererId>
+    <ChosenAnswererNick>cs.c0sa</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267620348</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268139824</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s possible that the flash plugins have un-installed themselves.  try windows update, re-installing sound card drivers, installing a different web browser such as firefox or google chrome or try windows system restore</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RGojRInzaa</UserId>
+            <UserNick>cs.c0sa</UserNick>
+            <Date>2010-03-03 04:45:48</Date>
+            <Timestamp>1267620348</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:19:49 PDT 2010 -->

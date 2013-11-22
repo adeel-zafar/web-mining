@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314081357AAPuR43" type="Answered">
+    <Subject>My firefox downloadhelper isn&#039;t working anymore?</Subject>
+    <Content>im usually able to download music for playlist.com easily, but now my downloadhelper isn&#039;t letting me do it any more. please help
+</Content>
+    <Date>2010-03-14 08:13:57</Date>
+    <Timestamp>1268579637</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314081357AAPuR43</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>teREvUB1aa</UserId>
+    <UserNick>Charles G</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you don&#039;t need a downloader helper in firefox but if you have automatic update enabled it probably has updated and your helper no longer works with the new version, but Give up on Firefox until its fixed there are currently just too many problems to rate it as a reliable piece of software. Try Orca, K-Meleon or Flock they are all free Mozilla based browsers and are all faster than Firefox. They have been produced by people who agree the Mozilla search engine is best but that firefox has gone wrong somewhere. If you go to firefox help pages or Mozillazine help pages you will see that the people there are extremely arrogant and blame everything and everybody for having problems with Firefox. Not a good sign. IE8 is OK with a shell like Avant or Maxthon or slim browser. But a browser that is not part of the OS will always be more secure. the less well known it is the less likely it will be hacked.</ChosenAnswer>
+    <ChosenAnswererId>2Bxy8GO6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Harley Drive</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268593746</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268666716</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you don&#039;t need a downloader helper in firefox but if you have automatic update enabled it probably has updated and your helper no longer works with the new version, but Give up on Firefox until its fixed there are currently just too many problems to rate it as a reliable piece of software. Try Orca, K-Meleon or Flock they are all free Mozilla based browsers and are all faster than Firefox. They have been produced by people who agree the Mozilla search engine is best but that firefox has gone wrong somewhere. If you go to firefox help pages or Mozillazine help pages you will see that the people there are extremely arrogant and blame everything and everybody for having problems with Firefox. Not a good sign. IE8 is OK with a shell like Avant or Maxthon or slim browser. But a browser that is not part of the OS will always be more secure. the less well known it is the less likely it will be hacked.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-14 12:09:06</Date>
+            <Timestamp>1268593746</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:59:45 PDT 2010 -->

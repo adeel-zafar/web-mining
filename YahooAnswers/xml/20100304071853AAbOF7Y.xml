@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304071853AAbOF7Y" type="Answered">
+    <Subject>u prefer the new or old y!a?</Subject>
+    <Content>old cuz i dun like the navigation.
+</Content>
+    <Date>2010-03-04 07:18:53</Date>
+    <Timestamp>1267715933</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304071853AAbOF7Y</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4B2ZqxEYaa</UserId>
+    <UserNick>BB</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I have got used to it.</ChosenAnswer>
+    <ChosenAnswererId>LmB3pskxaa</ChosenAnswererId>
+    <ChosenAnswererNick>the usual suspect</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267716102</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267807641</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I have got used to it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>LmB3pskxaa</UserId>
+            <UserNick>the usual suspect</UserNick>
+            <Date>2010-03-04 07:21:42</Date>
+            <Timestamp>1267716102</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:11:55 PDT 2010 -->

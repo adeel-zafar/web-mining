@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315154919AAzJwpe" type="Answered">
+    <Subject>IE is faster than Firefox on my new windows 7 for videos?</Subject>
+    <Content>i played the same video on Firefox and on IE then timed it. IE was faster. i liked it better when Firefox was. please tell me why.
+</Content>
+    <Date>2010-03-15 15:49:19</Date>
+    <Timestamp>1268693359</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315154919AAzJwpe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zjp0Vkruaa</UserId>
+    <UserNick>liliana</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There are two possibilities:
+
+Caching. When you viewed the file in Firefox, the computer downloaded parts of it to the computer. When you viewed it in I.E., it was able to use those already downloaded parts so it didn&#039;t need to redownload everything.
+
+Luck: a lot of it depends on what your Internet speed is at the time you download the video. This has absolutely nothing to do with the browser. In fact, you&#039;re probably viewing the video in Flash Player which is its own separate program that gets embedded inside the browser.</ChosenAnswer>
+    <ChosenAnswererId>SuyAG7MCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ben</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268693552</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268756472</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There are two possibilities:
+
+Caching. When you viewed the file in Firefox, the computer downloaded parts of it to the computer. When you viewed it in I.E., it was able to use those already downloaded parts so it didn&#039;t need to redownload everything.
+
+Luck: a lot of it depends on what your Internet speed is at the time you download the video. This has absolutely nothing to do with the browser. In fact, you&#039;re probably viewing the video in Flash Player which is its own separate program that gets embedded inside the browser.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>SuyAG7MCaa</UserId>
+            <UserNick>Ben</UserNick>
+            <Date>2010-03-15 15:52:32</Date>
+            <Timestamp>1268693552</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>firefox is the best and is faster because it isnt looking for errors constantly maybe you need to intall a new version :D</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wIqAXTxEaa</UserId>
+            <UserNick>jessejayd@yahoo.com</UserNick>
+            <Date>2010-03-15 15:58:06</Date>
+            <Timestamp>1268693886</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What does it mean &quot;faster&quot; ?
+Faster video download? I would bet that it is related to a luck or some addons that you have installed to your firefox.
+Faster playback and working overall? Probably related to addons.
+When it comes to video then in the core there is usually Macromedia Flash (a terrible thing by the way) and it is the part that needs to be fast. And it is more-or-less the same on every browser - but might be affected by the addons.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WyPAHQzEaa</UserId>
+            <UserNick>adderek</UserNick>
+            <Date>2010-03-15 16:14:04</Date>
+            <Timestamp>1268694844</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:49 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308194149AAd8Rav" type="Answered">
+    <Subject>When I open a case on eBay, how does eBay contact the seller?</Subject>
+    <Content>I opened a case with a seller on eBay because I haven&#039;t received the item yet and he won&#039;t respond to my messages. I was just wondering how eBay contacts them. Do they call the person or what?
+</Content>
+    <Date>2010-03-08 19:41:49</Date>
+    <Timestamp>1268106109</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308194149AAd8Rav</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>87Zwu80kaa</UserId>
+    <UserNick>It&#039;s just human nature ;)</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb6814ai5d2zws107mud/sNsrOeMidqn2aU5KlIhxy1mvJ2PjwQ7gSOE-/3/tn48.jpeg?ciAAToMBU6i5eWFj</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>They send them a message.(actually its more like an alert) 
+If you paid with paypal open a item not received dispute with them, wait a couple of days for a response &amp; if the seller doesnt reply or refuses to help escalate to a claim.</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268222041</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268621804</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Probably email...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TBVInNt5aa</UserId>
+            <UserNick>Annie</UserNick>
+            <Date>2010-03-08 19:44:25</Date>
+            <Timestamp>1268106265</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>They send them a message.(actually its more like an alert) 
+If you paid with paypal open a item not received dispute with them, wait a couple of days for a response &amp; if the seller doesnt reply or refuses to help escalate to a claim.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-10 03:54:01</Date>
+            <Timestamp>1268222041</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:28:19 PDT 2010 -->

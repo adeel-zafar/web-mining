@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224234016AA8Xe5e" type="Answered">
+    <Subject>watch videos at NDTV.com?</Subject>
+    <Content>Why am I not able to watch videos at NDTV.com? I am able to navigate the site well, without any problems but the video does not play.
+</Content>
+    <Date>2010-02-24 23:40:16</Date>
+    <Timestamp>1267083616</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224234016AA8Xe5e</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BX5jwXn2aa</UserId>
+    <UserNick>good_man_101</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Is it the problem with only this site?... can you watch video on youtube?... if yes.. then the problem is most probably on that particular site... Else.. you need to upgrade the codecs/drivers required to watch videos online...like direct x, flash etc..</ChosenAnswer>
+    <ChosenAnswererId>ql5xuka6aa</ChosenAnswererId>
+    <ChosenAnswererNick>G</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267087652</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267225206</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Is it the problem with only this site?... can you watch video on youtube?... if yes.. then the problem is most probably on that particular site... Else.. you need to upgrade the codecs/drivers required to watch videos online...like direct x, flash etc..</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>ql5xuka6aa</UserId>
+            <UserNick>G</UserNick>
+            <Date>2010-02-25 00:47:32</Date>
+            <Timestamp>1267087652</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr 21 01:10:47 PDT 2010 -->

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316153552AAdZMew" type="Answered">
+    <Subject>I HAVE A VIRUS!!!! HELP!!!?</Subject>
+    <Content>I don&#039;t know how i got it! All i know is my antvirus software didn&#039;t catch it. I had porn site popping up and all that good stuff :) I had a guy work on my computer and he said it&#039;s fine now...but now i can&#039;t get on the internet. It shows that i am connected and everything adds up but i can&#039;t get on. Any idea what it could be?
+</Content>
+    <Date>2010-03-16 15:35:52</Date>
+    <Timestamp>1268778952</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316153552AAdZMew</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>y0YQZYDbaa</UserId>
+    <UserNick>Sacramento</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268831948</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268832843</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>reinstall + reboot (your browser)
+
+If that doesn&#039;t work then idk</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dAlGx3izaa</UserId>
+            <UserNick>Logan</UserNick>
+            <Date>2010-03-16 15:37:48</Date>
+            <Timestamp>1268779068</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Reinstall your browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>q4Efz3cGaa</UserId>
+            <UserNick>clapper900</UserNick>
+            <Date>2010-03-16 15:38:54</Date>
+            <Timestamp>1268779134</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try going into the control panel and disabling then enabling your LAN or Wireless adapter for your machine.  If that doesn&#039;t work, try downloading (from another computer) a program called Spybot S&amp;D.  It will let you know if you have something other than a virus inhibiting your internet connection like spyware.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GIYi3x9xaa</UserId>
+            <UserNick>Kirie</UserNick>
+            <Date>2010-03-16 15:40:03</Date>
+            <Timestamp>1268779203</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Drink some tea and you&#039;ll feel much better</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qyX3qY0Jaa</UserId>
+            <UserNick>Christian R</UserNick>
+            <Date>2010-03-16 15:40:14</Date>
+            <Timestamp>1268779214</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can use SpywareNoMore. 
+As we all know Computer hackers seeking financial gain rather than thrills or notoriety are increasingly flooding the Internet with malicious software code (spyware, adware, key loggers, trojans). They are infecting computers with highly sophisticated programs that record surfing habits, bank passwords and other key financial data and send them to crooks over the Internet. These programs can be hard to spot, disguised in downloads such as toolbars, search engines, browser accessories, screen savers and other seemingly helpful utilities.
+
+SpyNoMore anti-spyware safeguards your identity and restores system performance through fast, smart and powerful spyware protection.
+http://www.dvd-rip-software.com/Other-Software/Other_Tools/SpyNoMore.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ALbLOYeYaa</UserId>
+            <UserNick>Mark</UserNick>
+            <Date>2010-03-16 18:38:21</Date>
+            <Timestamp>1268789901</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-17 06:19:08</Date>
+            <Timestamp>1268831948</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:48:01 PDT 2010 -->

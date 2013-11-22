@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318123525AAhJ8m0" type="Answered">
+    <Subject>Milhouse? In my meme?</Subject>
+    <Content>If &quot;Milhouse&quot; is not a meme and &quot;Milhouse is not a meme&quot; is a meme and &quot;Milhouse is not a meme is a meme&quot; is not a meme, then is &quot;Milhouse is not a meme is a meme is not a meme&quot; a meme?
+</Content>
+    <Date>2010-03-18 12:35:25</Date>
+    <Timestamp>1268940925</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318123525AAhJ8m0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>E1VkFOqraa</UserId>
+    <UserNick>Miku</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Milhouse, in your meme? it&#039;s more likely than you think!</ChosenAnswer>
+    <ChosenAnswererId>vThPmcNcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Daniel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268941918</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269460479</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Milhouse, in your meme? it&#039;s more likely than you think!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>vThPmcNcaa</UserId>
+            <UserNick>Daniel</UserNick>
+            <Date>2010-03-18 12:51:58</Date>
+            <Timestamp>1268941918</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>&quot;Millhouse is not a meme is a meme is not a meme&quot; IS a meme.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>M3IszvKbaa</UserId>
+            <UserNick>cheryleene &lt;3</UserNick>
+            <Date>2010-03-18 12:53:25</Date>
+            <Timestamp>1268942005</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:39:29 PDT 2010 -->

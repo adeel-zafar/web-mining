@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303100213AALqn3i" type="Answered">
+    <Subject>How do create a reserve for buying stuff on ebay so if someone outbids you then you outbid them?</Subject>
+    <Content>i was on ebay and i bid for something and straight away i was outbid so then i bid again but again i was out bid so they must have some kind a system where they set some kind of a reserve
+</Content>
+    <Date>2010-03-03 10:02:13</Date>
+    <Timestamp>1267639333</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303100213AALqn3i</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RdVq0lYYaa</UserId>
+    <UserNick>Edward Monster</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>They put in a higher initial bid.  Simple as that.
+
+Example: your first bid is $5.  Theirs is $100, but it only outbids you up to $6.  So you bid $10 - their bid automatically goes to $11.  You bid $20,  their bid jumps to $21, etc.  So just put the absolute maximum you&#039;re willing to pay, and it&#039;ll automatically top any lower bid submitted.</ChosenAnswer>
+    <ChosenAnswererId>d0nv49tHaa</ChosenAnswererId>
+    <ChosenAnswererNick>kl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267639373</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268159039</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They put in a higher initial bid.  Simple as that.
+
+Example: your first bid is $5.  Theirs is $100, but it only outbids you up to $6.  So you bid $10 - their bid automatically goes to $11.  You bid $20,  their bid jumps to $21, etc.  So just put the absolute maximum you&#039;re willing to pay, and it&#039;ll automatically top any lower bid submitted.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>d0nv49tHaa</UserId>
+            <UserNick>kl</UserNick>
+            <Date>2010-03-03 10:02:53</Date>
+            <Timestamp>1267639373</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You were outbid because the person before you bid a high amount on that particular item, for that exact reason.  So he/ she ensure (or hope) that with their bid they win that item.  Reserve prices can only be set by the seller.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ukMqGAkdaa</UserId>
+            <UserNick>MUFFIN LOVES MR VALO</UserNick>
+            <Date>2010-03-03 10:06:24</Date>
+            <Timestamp>1267639584</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:18:25 PDT 2010 -->

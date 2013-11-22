@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324182115AAjcCxG" type="Answered">
+    <Subject>Does anyone know the name of this website where everything costs 5 dollars?</Subject>
+    <Content>It was on the yahoo front page not too long ago and basically its a website where people will see or do something for you and it all costs only five bucks. I can&#039;t seem to find it anymore :(
+</Content>
+    <Date>2010-03-24 18:21:15</Date>
+    <Timestamp>1269480075</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324182115AAjcCxG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mCvIMRavaa</UserId>
+    <UserNick>tgrs_anarchy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1yohAcHkCAAIDKUEnsSZvqYcB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.fiverr.com</ChosenAnswer>
+    <ChosenAnswererId>bRLWDEgraa</ChosenAnswererId>
+    <ChosenAnswererNick>Christina</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269480182</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269665852</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.fiverr.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bRLWDEgraa</UserId>
+            <UserNick>Christina</UserNick>
+            <Date>2010-03-24 18:23:02</Date>
+            <Timestamp>1269480182</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:33:21 PDT 2010 -->

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312185127AAtvFES" type="Answered">
+    <Subject>My firefox browser isnt working properly and I&quot;m not sure what to do?</Subject>
+    <Content>When I log on to the web, my browser only allows certain pages to load such as facebook. However If I try to log on to myspace or person or youtube my browser takes forever and then it never loads the page. What could be the problem?
+Oh I also just  updated my firefox about an hour ago. And I have to parental restrictions on my computer, also it was working fine this afternoon.
+</Content>
+    <Date>2010-03-12 18:51:27</Date>
+    <Timestamp>1268448687</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312185127AAtvFES</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mmtiPCCcaa</UserId>
+    <UserNick>KP</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1-Iq0HmAMAAEEvKOacKa_KGgB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i would remove it through add/remove, run a malware scan, then reboot, get latest firefox and save it to your desk top, install it from there.  but sounds like you may have a bug.</ChosenAnswer>
+    <ChosenAnswererId>47117270d222bc03bb11a9b57fb4e4cfaa</ChosenAnswererId>
+    <ChosenAnswererNick>globeweasel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268449039</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268632383</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>your internet connection or there is a pop op or like a virus problem maybe you should run some tests an just refresh the page. It cud also be possible those sites on your computer are blocked or wait also you need to have the LATEST firefox software the new one just came out</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hfkvpD6Qaa</UserId>
+            <UserNick>Sanjida H</UserNick>
+            <Date>2010-03-12 18:53:35</Date>
+            <Timestamp>1268448815</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>did you or someone block certain sites are the parental restrictions in use?  If so you need to ask the person who installs things.
+
+maybe you need to uninstall the old version. use a clean up utility like COMODO  
+then install a new version</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kvxmDGYRaa</UserId>
+            <UserNick>Annie</UserNick>
+            <Date>2010-03-12 18:55:24</Date>
+            <Timestamp>1268448924</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i would remove it through add/remove, run a malware scan, then reboot, get latest firefox and save it to your desk top, install it from there.  but sounds like you may have a bug.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>47117270d222bc03bb11a9b57fb4e4cfaa</UserId>
+            <UserNick>globeweasel</UserNick>
+            <Date>2010-03-12 18:57:19</Date>
+            <Timestamp>1268449039</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:02 PDT 2010 -->

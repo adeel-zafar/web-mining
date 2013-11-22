@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322142724AASTPv3" type="Answered">
+    <Subject>What was the first internet explorer called and how fast was it?</Subject>
+    <Content>who developed it. please show proof so i can choose a good answer
+</Content>
+    <Date>2010-03-22 14:27:24</Date>
+    <Timestamp>1269293244</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322142724AASTPv3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bEg9jdthaa</UserId>
+    <UserNick>Fly</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>See this Microsoft Web site for the Complete History of the Internet Explorer Program
+
+http://www.microsoft.com/windows/WinHistoryIE.mspx</ChosenAnswer>
+    <ChosenAnswererId>d5ff2901a10bb8c0d5e2b76c8023ba6daa</ChosenAnswererId>
+    <ChosenAnswererNick>Jerry</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269294690</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269324787</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>See this Microsoft Web site for the Complete History of the Internet Explorer Program
+
+http://www.microsoft.com/windows/WinHistoryIE.mspx</Content>
+            <Reference>http://www.microsoft.com/windows/WinHistoryIE.mspx</Reference>
+            <Best>5</Best>
+            <UserId>d5ff2901a10bb8c0d5e2b76c8023ba6daa</UserId>
+            <UserNick>Jerry</UserNick>
+            <Date>2010-03-22 14:51:30</Date>
+            <Timestamp>1269294690</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:10 PDT 2010 -->

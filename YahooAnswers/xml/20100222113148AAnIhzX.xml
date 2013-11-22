@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222113148AAnIhzX" type="Answered">
+    <Subject>How to block audio on  commercial on a webpage ?</Subject>
+    <Content>For instance while watching a streaming online movie, there&#039;s this audio commercials that you can hear an it usually louder than the movie.
+</Content>
+    <Date>2010-02-22 11:31:48</Date>
+    <Timestamp>1266867108</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222113148AAnIhzX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>e5340b8faf69d0607e271bfeee4d143eaa</UserId>
+    <UserNick>jerry j</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1AtiYWSVDAAEE_MF2DLBUhtgA.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Use Firefox and you can completely block the ads.
+It even removes them at the start of youtube videos etc.
+
+http://lmgtfy.com/?q=adblock+plus</ChosenAnswer>
+    <ChosenAnswererId>Qj4zN2C4aa</ChosenAnswererId>
+    <ChosenAnswererNick>i_heart_sloth</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266868393</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267649650</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you&#039;re using Firefox download the Adblock Plus extension.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gHDcV5fNaa</UserId>
+            <UserNick>Frank</UserNick>
+            <Date>2010-02-22 11:33:24</Date>
+            <Timestamp>1266867204</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Use Firefox and you can completely block the ads.
+It even removes them at the start of youtube videos etc.
+
+http://lmgtfy.com/?q=adblock+plus</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Qj4zN2C4aa</UserId>
+            <UserNick>i_heart_sloth</UserNick>
+            <Date>2010-02-22 11:53:13</Date>
+            <Timestamp>1266868393</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:27:33 PDT 2010 -->

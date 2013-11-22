@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226095336AAo5qDK" type="Answered">
+    <Subject>Can I connect my laptop to the interent via someone else`s home router ?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-26 09:53:36</Date>
+    <Timestamp>1267206816</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226095336AAo5qDK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>U7ERdg2Laa</UserId>
+    <UserNick>Tam O`Simpson</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can do that as long as you are in range of their Wifi and you know their password (assuming they have one set up on their router)</ChosenAnswer>
+    <ChosenAnswererId>HA2v6Sesaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kevin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267208095</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268063682</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can do that as long as you are in range of their Wifi and you know their password (assuming they have one set up on their router)</Content>
+            <Reference>Experience in the subject</Reference>
+            <Best>5</Best>
+            <UserId>HA2v6Sesaa</UserId>
+            <UserNick>Kevin</UserNick>
+            <Date>2010-02-26 10:14:55</Date>
+            <Timestamp>1267208095</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:51:08 PDT 2010 -->

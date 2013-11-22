@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302143307AAu5frJ" type="Answered">
+    <Subject>Is there a keyboard shortcut to have Firefox launch pop-ups in the background?</Subject>
+    <Content>normally they immediately jump in front of whatever you&#039;re doing, which disrupts the browsing process. I&#039;d like them to launch, just underneath my current tab.
+@Steven - They popup as a result of clicking on a link. I need the information from the popups, I just want them to open behind the tab i&#039;m working in, so I can open 10-12 popups in the background quickly, without having to minimise each tab after clicking each link.
+</Content>
+    <Date>2010-03-02 14:33:07</Date>
+    <Timestamp>1267569187</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302143307AAu5frJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UuScjuebaa</UserId>
+    <UserNick>sigreer83</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If pop-ups were avoidable like that and not disrupt your browsing they wouldn&#039;t really be popups. You could get a ad blocker, that will stop a lot from even happening, or chrome there is google chrome browser, that puts the popup in a tab.</ChosenAnswer>
+    <ChosenAnswererId>qLbKf98baa</ChosenAnswererId>
+    <ChosenAnswererNick>Steven</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267577139</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268327021</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If pop-ups were avoidable like that and not disrupt your browsing they wouldn&#039;t really be popups. You could get a ad blocker, that will stop a lot from even happening, or chrome there is google chrome browser, that puts the popup in a tab.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qLbKf98baa</UserId>
+            <UserNick>Steven</UserNick>
+            <Date>2010-03-02 16:45:39</Date>
+            <Timestamp>1267577139</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:25:07 PDT 2010 -->

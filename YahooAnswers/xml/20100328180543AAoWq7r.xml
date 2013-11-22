@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328180543AAoWq7r" type="Answered">
+    <Subject>Firefox and CPU spike.?</Subject>
+    <Content>Firefox is a decent browser to use but I&#039;ve come to the point where I can&#039;t really use it anymore because it spikes my CPU up to 100% and stays there for quite a while. When it&#039;s not at 100% it&#039;s around like 80% or so. It&#039;s really annoying especially when I am just browsing sites or trying to watch a video and everything just locks up. Once I close Firefox my CPU will come right back down. Anyone have any insight? And please don&#039;t tell me to download another browser. Been there, done that.
+</Content>
+    <Date>2010-03-28 18:05:43</Date>
+    <Timestamp>1269824743</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328180543AAoWq7r</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BADJ6Tigaa</UserId>
+    <UserNick>TillLindemann_Baby</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb4e674i163dzws138ac4/lW6Lq9Mlcqp3nhRXKvDAGhhtqWtGu3kBL8k-/4/tn48.jpeg?ciAAToMBe9wkabCD</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Perhaps maybe your internet router is slow.</ChosenAnswer>
+    <ChosenAnswererId>QZr2m8EZaa</ChosenAnswererId>
+    <ChosenAnswererNick>VG Master</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269825163</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270074688</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Perhaps maybe your internet router is slow.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>QZr2m8EZaa</UserId>
+            <UserNick>VG Master</UserNick>
+            <Date>2010-03-28 18:12:43</Date>
+            <Timestamp>1269825163</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:25 PDT 2010 -->

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325193409AASrrwp" type="Answered">
+    <Subject>Why cant some of my programs connect to the interent?</Subject>
+    <Content>a few weeks ago my norton 360 subscription thing expired, and i thought no worries, i was only using it cos i got it free with my computer (bought it just over 12 months ago). so after uninstalling everything symantec related, i downloaded avg 9 free. When i downloaded it it was not the actual program installation thing but one of the install clients that your run to download/install the actual program, but that could not connect to the internet. so i instead found a link on the website to download the full install and installed it no problems.
+But. now whenever i try to click the update button, it shows the download for like half a second (the green progress bar fills like one fifth of the way) before it says i could not connect to the internet.
+
+Also about a week ago itunes also stopped being able to connect to the internet, and after running a diagnostic, it says that the connection is there, but it could not make a secure connection.
+And finally yesterday firefox updated itself, as it does every few weeks, but when it was finished and opened up, it just shows the &#039;cannot connect to web page&#039; or whatever, no matter the page i&#039;m searching.
+
+All the help/support articles ive read say that its a firewall problem, but everything is allowed in the windows firewall (which im relying on until i get a new anti virus/firewall program, also no popup appears to tell me that the program im using is blocked).
+
+so yeah, anyone got any ideas? thx.
+also im using Windows XP 2.0 (or whatever the newest one is :P)
+you did not add a link?
+nevrmind, i got it
+</Content>
+    <Date>2010-03-25 19:34:09</Date>
+    <Timestamp>1269570849</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325193409AASrrwp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>04E9KZ1baa</UserId>
+    <UserNick>Jonnald</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What has probably happened is that Norton 360 did not completely uninstall and still has a firewall hook.
+Use the link below to download Symantec&#039;s products uninstall tool and run it. The tool will uninstall all Symantec products that are installed. This should solve your problem</ChosenAnswer>
+    <ChosenAnswererId>phJHDJgiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Et Tu Brute</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269571575</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269913640</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What has probably happened is that Norton 360 did not completely uninstall and still has a firewall hook.
+Use the link below to download Symantec&#039;s products uninstall tool and run it. The tool will uninstall all Symantec products that are installed. This should solve your problem</Content>
+            <Reference>http://service1.symantec.com/Support/tsgeninfo.nsf/docid/2005033108162039?Open&amp;docid=2006032009205413&amp;nsf=sharedtech.nsf&amp;view=docid&amp;pid=2006032009205413&amp;pkb=sharedtech</Reference>
+            <Best>5</Best>
+            <UserId>phJHDJgiaa</UserId>
+            <UserNick>Et Tu Brute</UserNick>
+            <Date>2010-03-25 19:46:15</Date>
+            <Timestamp>1269571575</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:29:24 PDT 2010 -->

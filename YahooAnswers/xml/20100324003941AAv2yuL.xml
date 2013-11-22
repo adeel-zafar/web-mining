@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324003941AAv2yuL" type="Answered">
+    <Subject>If you delete a response on formspring does that delete the question?</Subject>
+    <Content>I wanna kno cuz i wanna add a lil more detail. Please no stupid remarks lyke oh formspring is gay or lame n stuff cuz i already know :) haha just wondering! Thank you! :)
+</Content>
+    <Date>2010-03-24 00:39:41</Date>
+    <Timestamp>1269416381</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324003941AAv2yuL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>H6H3JIkDaa</UserId>
+    <UserNick>Mercy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1kdrgRdrkAAEEn4JlFI1uEsooKA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yep, it does.</ChosenAnswer>
+    <ChosenAnswererId>BXmWcKOoaa</ChosenAnswererId>
+    <ChosenAnswererNick>MWAH.♥</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269469635</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269483022</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yep, it does.</Content>
+            <Reference>formspring user.</Reference>
+            <Best>5</Best>
+            <UserId>BXmWcKOoaa</UserId>
+            <UserNick>MWAH.♥</UserNick>
+            <Date>2010-03-24 15:27:15</Date>
+            <Timestamp>1269469635</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:36:12 PDT 2010 -->

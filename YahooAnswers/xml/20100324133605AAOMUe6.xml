@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324133605AAOMUe6" type="Answered">
+    <Subject>Can i take a webcam pic on twitter?</Subject>
+    <Content>
+But how do I take it?
+</Content>
+    <Date>2010-03-24 13:36:05</Date>
+    <Timestamp>1269462965</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324133605AAOMUe6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>p7QaUxiHaa</UserId>
+    <UserNick>I&#039;m Rick James *&amp;^%$!</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/18y_u8sUiAAIB3cTg3UrfCQ==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes you can.</ChosenAnswer>
+    <ChosenAnswererId>aec8fc43693d05607ccff83bc66858cbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bubbl3s09</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269463778</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269725755</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes you can.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>aec8fc43693d05607ccff83bc66858cbaa</UserId>
+            <UserNick>Bubbl3s09</UserNick>
+            <Date>2010-03-24 13:49:38</Date>
+            <Timestamp>1269463778</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yeah</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0FyND1wuaa</UserId>
+            <UserNick>hell tycoon</UserNick>
+            <Date>2010-03-24 13:49:40</Date>
+            <Timestamp>1269463780</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:35 PDT 2010 -->

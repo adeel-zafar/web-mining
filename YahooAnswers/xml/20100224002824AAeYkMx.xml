@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224002824AAeYkMx" type="Answered">
+    <Subject>What is a good website to sell stuff online?</Subject>
+    <Content>Besides Amazon and Ebay
+Besides craigslist also
+</Content>
+    <Date>2010-02-24 00:28:24</Date>
+    <Timestamp>1267000104</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224002824AAeYkMx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>u6usT2CJaa</UserId>
+    <UserNick>Steven</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>craigslist</ChosenAnswer>
+    <ChosenAnswererId>wxsB4w0daa</ChosenAnswererId>
+    <ChosenAnswererNick>Lucy Girl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267000252</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267519425</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>craigslist</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wxsB4w0daa</UserId>
+            <UserNick>Lucy Girl</UserNick>
+            <Date>2010-02-24 00:30:52</Date>
+            <Timestamp>1267000252</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>....or e-Bay</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NrPAG2IBaa</UserId>
+            <UserNick>Geff B</UserNick>
+            <Date>2010-02-24 00:35:56</Date>
+            <Timestamp>1267000556</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>amazon is the best i sell 7000.00 per month on amazon</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rs6Euqisaa</UserId>
+            <UserNick>ronaldmbaldwin</UserNick>
+            <Date>2010-02-24 00:39:49</Date>
+            <Timestamp>1267000789</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:15:33 PDT 2010 -->

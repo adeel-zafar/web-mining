@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225153016AASpKvR" type="Answered">
+    <Subject>My firefox wont open?</Subject>
+    <Content>I turned it off last night, turn it on today and it wont open at all. It did it yesterday and i just restarted the comp(3 times) but that didn&#039;t work. I do not wish to have to remove and replace firefox if i an help it. help?
+</Content>
+    <Date>2010-02-25 15:30:16</Date>
+    <Timestamp>1267140616</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225153016AASpKvR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RwdPq9mTaa</UserId>
+    <UserNick>Sarah</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b12a0c8i23fdzul5re4/AD5lAIY4dqkUzfhqB6uO/2/tn48.png?ciAAToMBPodgyBYX</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What error message do you get? If there is no error message, then uninstall it and reinstall it.
+
+Otherwise deleting your profile can sometimes force Firefox to rebuild a corrupt profile and work properly again. http://support.mozilla.com/en-us/kb/Profiles</ChosenAnswer>
+    <ChosenAnswererId>mLs3rMnKaa</ChosenAnswererId>
+    <ChosenAnswererNick>David N</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267141052</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267398467</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What error message do you get? If there is no error message, then uninstall it and reinstall it.
+
+Otherwise deleting your profile can sometimes force Firefox to rebuild a corrupt profile and work properly again. http://support.mozilla.com/en-us/kb/Profiles</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>mLs3rMnKaa</UserId>
+            <UserNick>David N</UserNick>
+            <Date>2010-02-25 15:37:32</Date>
+            <Timestamp>1267141052</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:22 PDT 2010 -->

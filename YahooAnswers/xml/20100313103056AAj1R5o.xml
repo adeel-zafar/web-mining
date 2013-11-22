@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313103056AAj1R5o" type="Answered">
+    <Subject>Whats up with babblesex.com?</Subject>
+    <Content>Every time I try to go to babblesex.com, it directs me to godaddy.com.... why? I was on the website a few days ago.
+</Content>
+    <Date>2010-03-13 10:30:56</Date>
+    <Timestamp>1268505056</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313103056AAj1R5o</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>trOHQXi0aa</UserId>
+    <UserNick>Jack</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>8</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>Add these three lines temporarily to your &#039;hosts&#039; file under C:\WINDOWS\system32\drivers\etc\
+
+174.37.22.18 www.babblesex.com
+174.36.228.186 babblesex.com
+174.36.228.186 livehubs.com
+
+Reboot to have this take effect.
+
+Edit: If you&#039;re having trouble saving the file (in Vista), you should be able to &quot;Run as Administrator&quot;
+
+*Start | All Programs | Accessories
+*right-click (NOT left-click) on &quot;Notepad&quot;
+*select &quot;Run as Administrator&quot;
+
+... and make the changes shown above.
+
+Some &quot;security&quot; programs will set the &#039;hosts&#039; file to read-only. Before editing the file, you should be able to right-click on it in the File | Open dialog, select Properties, and clear the &quot;Read-Only&quot; checkbox. &quot;Apply&quot; the change; click &quot;OK&quot; to close the Properties page. You should be back at the File | Open dialog. Select the &#039;hosts&#039; file as normal and add the lines.</ChosenAnswer>
+    <ChosenAnswererId>pZ2LfM6Baa</ChosenAnswererId>
+    <ChosenAnswererNick>Satyr</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268531463</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268618717</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>maybe the domain name expired.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6JBg4AkEaa</UserId>
+            <UserNick>J B</UserNick>
+            <Date>2010-03-13 10:39:42</Date>
+            <Timestamp>1268505582</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yea i know it totaly sucks this happened last year it lasted for like a whole week i hope it comes back soon!!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fWY9CpyYaa</UserId>
+            <UserNick>LOST AND HORNY</UserNick>
+            <Date>2010-03-13 17:04:23</Date>
+            <Timestamp>1268528663</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Add these three lines temporarily to your &#039;hosts&#039; file under C:\WINDOWS\system32\drivers\etc\
+
+174.37.22.18 www.babblesex.com
+174.36.228.186 babblesex.com
+174.36.228.186 livehubs.com
+
+Reboot to have this take effect.
+
+Edit: If you&#039;re having trouble saving the file (in Vista), you should be able to &quot;Run as Administrator&quot;
+
+*Start | All Programs | Accessories
+*right-click (NOT left-click) on &quot;Notepad&quot;
+*select &quot;Run as Administrator&quot;
+
+... and make the changes shown above.
+
+Some &quot;security&quot; programs will set the &#039;hosts&#039; file to read-only. Before editing the file, you should be able to right-click on it in the File | Open dialog, select Properties, and clear the &quot;Read-Only&quot; checkbox. &quot;Apply&quot; the change; click &quot;OK&quot; to close the Properties page. You should be back at the File | Open dialog. Select the &#039;hosts&#039; file as normal and add the lines.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>pZ2LfM6Baa</UserId>
+            <UserNick>Satyr</UserNick>
+            <Date>2010-03-13 17:51:03</Date>
+            <Timestamp>1268531463</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sat, unfortunately my dear, that doesn&#039;t work for those of us using Vista. It won&#039;t allow us to Save the file. :(</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZfbOBeaJaa</UserId>
+            <UserNick>Emma G</UserNick>
+            <Date>2010-03-14 01:18:25</Date>
+            <Timestamp>1268558305</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Thanks Satyr.... it works... i m now connected</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NpELdW5Aaa</UserId>
+            <UserNick>Peter</UserNick>
+            <Date>2010-03-14 01:59:11</Date>
+            <Timestamp>1268560751</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Satyr, with what program should I open the &quot;hosts&quot; file?
+I do not want to screw up system files and the whole computer, so I want to know exactly what I am doing.
+
+Thanks;
+
+Derek.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PZF1hl27aa</UserId>
+            <UserNick>Horatio Hornblower</UserNick>
+            <Date>2010-03-14 15:55:04</Date>
+            <Timestamp>1268607304</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>the page is down, and dont get up again.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rjTax0Paaa</UserId>
+            <UserNick>Nik18</UserNick>
+            <Date>2010-03-14 17:58:58</Date>
+            <Timestamp>1268614738</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>the site will be up and running again soon enough, sides if it stopped working for any length of time all the poor cam girls would be in trouble</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>csA6uVUTaa</UserId>
+            <UserNick>Jesse</UserNick>
+            <Date>2010-03-14 18:08:54</Date>
+            <Timestamp>1268615334</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>pZ2LfM6Baa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-15 05:51:22</Date>
+            <Timestamp>1268615334</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:10 PDT 2010 -->

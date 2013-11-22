@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322113904AAcIJ3k" type="Answered">
+    <Subject>Can You Help Me With Microsoft OfficeLive &amp; Adobe Dreamweaver?</Subject>
+    <Content>I have been trying for three days...
+To figure out how to add another page to my website ( http://bradleyhowington.com )
+Okay...
+
+So I am using a Website Template (already created for me.)
+I am using Adobe Dreamweaver as my site design software.
+And Microsoft OfficeLive is my hosting site. 
+
+My Question is:
+When you have the Template opened in Dreamweaver, how do you link your pages/create them to work with OfficeLive? Your &quot;Contact, Blog, Photos, ...etc&quot; pages.
+
+How do you upload another web page?
+Say you have your homepage...
+How would you upload the &quot;Contact&quot; page to OfficeLive?
+
+I am so sorry if I have confused you with this crap.
+:/
+</Content>
+    <Date>2010-03-22 11:39:04</Date>
+    <Timestamp>1269283144</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322113904AAcIJ3k</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2Y7iQitiaa</UserId>
+    <UserNick>Bradley Howington</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a681985i858zul4re4/G_K5S2o5dLJ5HSPlFxvGjb41wUI-/2/tn48.jpg?ciAAToMBbOy_hiRQ</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well to start - get rid of Microsoft Office Live Hosting. 
+
+It is extremely restricted and especially if you are using Dreamweaver because they don&#039;t work together well.  
+
+There are so many easier ways to setup exactly what you need.  I would start by buying a hosting server (for great choices http://thehostjudge.com/fullcomparison.html ), then using Dreamweaver alone without Microsoft to create your site. Then work from there with wordpress as your blog.  I hope this helps..let me know if you have any other questions I&#039;d be happy to answer them.</ChosenAnswer>
+    <ChosenAnswererId>Y42uJYtOaa</ChosenAnswererId>
+    <ChosenAnswererNick>drexelglobal</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269297846</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269802657</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>To setup your blog you must install wordpress to your web hosting plan. Does your web host support wordpress?
+
+http://www.threehosts.com/video-tutorial/wordpress.html
+A video tutorial to learn how to install wordpress to your web hosting account.
+
+
+http://www.threehosts.com/publish/iweb.html
+A video tutorial to learn how to publish your website created with iWeb.
+
+
+Another useful link:
+http://www.threehosts.com/publish
+There you can find a step-by-step guide to start your website.
+
+
+Hope this helps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YsXKcAgbaa</UserId>
+            <UserNick>David M</UserNick>
+            <Date>2010-03-22 12:15:53</Date>
+            <Timestamp>1269285353</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well to start - get rid of Microsoft Office Live Hosting. 
+
+It is extremely restricted and especially if you are using Dreamweaver because they don&#039;t work together well.  
+
+There are so many easier ways to setup exactly what you need.  I would start by buying a hosting server (for great choices http://thehostjudge.com/fullcomparison.html ), then using Dreamweaver alone without Microsoft to create your site. Then work from there with wordpress as your blog.  I hope this helps..let me know if you have any other questions I&#039;d be happy to answer them.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Y42uJYtOaa</UserId>
+            <UserNick>drexelglobal</UserNick>
+            <Date>2010-03-22 15:44:06</Date>
+            <Timestamp>1269297846</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:04 PDT 2010 -->

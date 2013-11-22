@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221121155AAK58fc" type="Answered">
+    <Subject>Why does firefox run slow and crash sometimes?</Subject>
+    <Content>
+This is a brand new computer. Doubt it.
+</Content>
+    <Date>2010-02-21 12:11:55</Date>
+    <Timestamp>1266783115</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221121155AAK58fc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GuSe477Daa</UserId>
+    <UserNick>Oceana</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1tFDBzDpGAAEC-MFDUBJTDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>8</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Most people ask the firefox slow.
+You can have a check below
+1. internet speed. ping www.yahoo.com if less 300ms, it is ok.
+2. spyware.
+Perhaps, your pc infected spyware/virus/trojan, you can try another software to remove it.
+http://toptenantispyware.com
+3. Registry.
+Lots of things get saved on your PC that you don&#039;t need. Some are benign. Some slow you down. And some let prying eyes track what you do on your PC.
+install Registry cleaner and run daily
+http://toptenantispyware.com/Clean_Up_Center.htm</ChosenAnswer>
+    <ChosenAnswererId>SDyVDx8laa</ChosenAnswererId>
+    <ChosenAnswererNick>Pc</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266841799</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267580045</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>maybe its your computer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5xQVjEhVaa</UserId>
+            <UserNick>scheklek</UserNick>
+            <Date>2010-02-21 12:13:07</Date>
+            <Timestamp>1266783187</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I had this issue; just try reinstalling it and it works fine. Also, it may be your computer.
+
+As a last resort, try a different browser. 
+
+Safari or Internet Explorer.</Content>
+            <Reference>http://support.apple.com/downloads/Safari_3_2_2_for_Windows
+
+http://www.microsoft.com/windows/internet-explorer/ie7/</Reference>
+            <Best></Best>
+            <UserId>T3WPwC05aa</UserId>
+            <UserNick>MisterUrdd</UserNick>
+            <Date>2010-02-21 12:15:32</Date>
+            <Timestamp>1266783332</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>in firefox click on tools then click on clear recent history. clean cookies and internet cache files there. also you could download Ccleaner(its free) and clean your registry and all internet files. should speed it up unless there is another problem.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cPmvvOszaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-02-21 12:15:57</Date>
+            <Timestamp>1266783357</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>because you have a virus on your computer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>w26AqjUGaa</UserId>
+            <UserNick>Bla bla bla</UserNick>
+            <Date>2010-02-21 12:24:02</Date>
+            <Timestamp>1266783842</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Most computers actually run slow because of a hidden part of your system, which is constantly being used by Windows. This part of your PC is called the &quot;registry&quot; and is the central database for Windows, which stores everything from your latest emails to your desktop wallpaper. It&#039;s one of the most important parts of Windows and can easily make your PC run slow.The more corrupt registry files your computer has, the more it struggles to read them.The files which makes it run slower and slower. To fix this, you simply need to use a registry cleaner http://computer-e-book-money.com/     . These are small software tools which actually work by scanning through the registry and fixing any bad files that are in there. This then allows Windows to read as many files as it wants, when it wants to.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4UR1130Naa</UserId>
+            <UserNick>Hfmfm</UserNick>
+            <Date>2010-02-21 16:27:27</Date>
+            <Timestamp>1266798447</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Most people ask the firefox slow.
+You can have a check below
+1. internet speed. ping www.yahoo.com if less 300ms, it is ok.
+2. spyware.
+Perhaps, your pc infected spyware/virus/trojan, you can try another software to remove it.
+http://toptenantispyware.com
+3. Registry.
+Lots of things get saved on your PC that you don&#039;t need. Some are benign. Some slow you down. And some let prying eyes track what you do on your PC.
+install Registry cleaner and run daily
+http://toptenantispyware.com/Clean_Up_Center.htm</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>SDyVDx8laa</UserId>
+            <UserNick>Pc</UserNick>
+            <Date>2010-02-22 04:29:59</Date>
+            <Timestamp>1266841799</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Pc registry Errors cause pc slow down or pc errors.
+Clean your Registry can make your computer faster
+ 
+http://registry-computer-cleaner.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>sD67dhCQaa</UserId>
+            <UserNick>Awardshows</UserNick>
+            <Date>2010-02-23 04:16:36</Date>
+            <Timestamp>1266927396</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://registry-checking.com/Slow_PC</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>werAQUIGaa</UserId>
+            <UserNick>LEGODuploStore</UserNick>
+            <Date>2010-02-23 04:19:05</Date>
+            <Timestamp>1266927545</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:34:18 PDT 2010 -->

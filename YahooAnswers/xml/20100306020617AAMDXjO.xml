@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306020617AAMDXjO" type="Answered">
+    <Subject>If I buy something with PayPal, how will the purchase appear on my credit card statement?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-06 02:06:17</Date>
+    <Timestamp>1267869977</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306020617AAMDXjO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iYo19OmTaa</UserId>
+    <UserNick>Needtoknow</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you bought it from a store that uses PayPal for payment, then the name of the company that you bought stuff from will show up on your credit card statement.</ChosenAnswer>
+    <ChosenAnswererId>urGhZkxjaa</ChosenAnswererId>
+    <ChosenAnswererNick>the_unluckiest</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267870475</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268389446</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you bought it from a store that uses PayPal for payment, then the name of the company that you bought stuff from will show up on your credit card statement.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>urGhZkxjaa</UserId>
+            <UserNick>the_unluckiest</UserNick>
+            <Date>2010-03-06 02:14:35</Date>
+            <Timestamp>1267870475</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have Wachovia, and it just comes up as PayPal when I use it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Is6oBdoKaa</UserId>
+            <UserNick>Imabur</UserNick>
+            <Date>2010-03-06 02:22:12</Date>
+            <Timestamp>1267870932</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:50:51 PDT 2010 -->

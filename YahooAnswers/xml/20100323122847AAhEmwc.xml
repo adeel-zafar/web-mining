@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323122847AAhEmwc" type="Answered">
+    <Subject>Is 7chan down I can&#039;t access the site?</Subject>
+    <Content>When I Diagnose Connection Problems all I get &quot;www.7chan.org&quot; is not set up to establish a connection on port &quot;https&quot; with this computer the site was working fine on Saturday so can someone please help.
+</Content>
+    <Date>2010-03-23 12:28:47</Date>
+    <Timestamp>1269372527</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323122847AAhEmwc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mFno3AtSaa</UserId>
+    <UserNick>Nathalia Ruiz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/11kc8A272AAEDGQJaFI1qosqiHQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, they have been for days.</ChosenAnswer>
+    <ChosenAnswererId>XNOSMHCqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mizzitch</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269382848</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269951789</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, they have been for days.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XNOSMHCqaa</UserId>
+            <UserNick>Mizzitch</UserNick>
+            <Date>2010-03-23 15:20:48</Date>
+            <Timestamp>1269382848</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:18:11 PDT 2010 -->

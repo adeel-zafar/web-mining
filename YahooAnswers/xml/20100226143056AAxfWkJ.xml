@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226143056AAxfWkJ" type="Answered">
+    <Subject>Can you respond to someones response to your question on this?&quot;?</Subject>
+    <Content>When I say this, I mean Yahoo Answers
+</Content>
+    <Date>2010-02-26 14:30:56</Date>
+    <Timestamp>1267223456</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226143056AAxfWkJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vemq23yQaa</UserId>
+    <UserNick>Gidzzzzzzz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well, after the question has been answered, you can add comments to the post, but you have to pull down the &quot;Comments&quot; dropdown and it&#039;s not very easy to find, so there is no way to respond in a way that people will easily notice, unless you send them an email.</ChosenAnswer>
+    <ChosenAnswererId>0vaKshHXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kenny (happy to help)</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267224028</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267351421</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well, after the question has been answered, you can add comments to the post, but you have to pull down the &quot;Comments&quot; dropdown and it&#039;s not very easy to find, so there is no way to respond in a way that people will easily notice, unless you send them an email.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0vaKshHXaa</UserId>
+            <UserNick>mister answerer</UserNick>
+            <Date>2010-02-26 14:40:28</Date>
+            <Timestamp>1267224028</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:49:48 PDT 2010 -->

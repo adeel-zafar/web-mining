@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315171815AADRLfi" type="Answered">
+    <Subject>internet explorer or mozilla firefox?</Subject>
+    <Content>I had internet explorer and then people told me that mozilla if better because internet explorer has alot of cookies..not i have both :/ which one should i uninstall?
+so it wont make it run slower if i have both?
+</Content>
+    <Date>2010-03-15 17:18:15</Date>
+    <Timestamp>1268698695</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315171815AADRLfi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LOKljmmIaa</UserId>
+    <UserNick>K3llyJ3an</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1W-L6zcNsAAED0MJrmA3AcU1CmQAG.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Uninstall Internet Explorer</ChosenAnswer>
+    <ChosenAnswererId>bOppWyqbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Maria</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268698939</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270055544</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Uninstall Internet Explorer</Content>
+            <Reference>Firefox is so much faster (for me) and safer too</Reference>
+            <Best>5</Best>
+            <UserId>bOppWyqbaa</UserId>
+            <UserNick>xevilxfrogsx</UserNick>
+            <Date>2010-03-15 17:22:19</Date>
+            <Timestamp>1268698939</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>keep firefox. IE is known for having security issues.  frefox also has a ton of add-ons that add features or allow more customization.  Google Chrome is a fast light weight browser, it might be worth checking out if you have some time to kill.
+
+-Chuck N.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TZHduIiSaa</UserId>
+            <UserNick>Chuck N</UserNick>
+            <Date>2010-03-15 17:29:30</Date>
+            <Timestamp>1268699370</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Don&#039;t uninstall either one, but use Firefox for your regular web surfing activities. Cookies are downloaded no matter what browser you use, and you can always change how cookies are stored on every browser out there.
+
+You&#039;ll need to keep Internet Explorer sometimes because some programs require it and use it to connect to the Internet (Steam for example). Uninstalling could cause problems with some programs.
+
+Use Firefox for day-to-day usage unless a website specifically says it only works with IE (some older sites will say that). Firefox is known to be safer than Internet Explorer, and statistically works faster due to a better Javascript engine.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EhJrgPqPaa</UserId>
+            <UserNick>Yectep</UserNick>
+            <Date>2010-03-15 17:49:12</Date>
+            <Timestamp>1268700552</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:21 PDT 2010 -->

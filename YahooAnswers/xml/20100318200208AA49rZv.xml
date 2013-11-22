@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318200208AA49rZv" type="Answered">
+    <Subject>Why does Skype not work to Brazil?</Subject>
+    <Content>Does Brazil block international skype usage? I&#039;m in the US and I use skype all the time.  My friend in Brazil installed it and we talked one time, now it will not connect. It will not even show to each other that we are online at all.  This is really annoying!
+</Content>
+    <Date>2010-03-18 20:02:08</Date>
+    <Timestamp>1268967728</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318200208AA49rZv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>srZm4jSZaa</UserId>
+    <UserNick>Knowlege Seeker</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It works in Brasil.</ChosenAnswer>
+    <ChosenAnswererId>4EwSSzkgaa</ChosenAnswererId>
+    <ChosenAnswererNick>JoJo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269024755</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269119529</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It works in Brasil.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>4EwSSzkgaa</UserId>
+            <UserNick>JoJo</UserNick>
+            <Date>2010-03-19 11:52:35</Date>
+            <Timestamp>1269024755</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:37:36 PDT 2010 -->

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322190044AAZd8C3" type="Answered">
+    <Subject>What does the http:// stand for?</Subject>
+    <Content>Just out of curiosity, what does the http:// mean in the beginning of a URL?
+</Content>
+    <Date>2010-03-22 19:00:44</Date>
+    <Timestamp>1269309644</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322190044AAZd8C3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>t2px533naa</UserId>
+    <UserNick>Farm G</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/18uyAiov6AAEB4ySDBl4=.medium.png</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>hypertext transfer protocol: a protocol (utilizing TCP) to transfer hypertext requests and information between servers and browsers 
+wordnetweb.princeton.edu/perl/webwn
+
+HTTP(P2P) is a protocol based on HTTP. It is intended to improve page and object retrieval performance when web servers suffer server side ...
+en.wikipedia.org/wiki/HTTP(P2P)
+
+HTTPD - A web server is a computer program that delivers (serves) content, such as this web page, using the Hypertext Transfer Protocol. ...
+en.wikipedia.org/wiki/HTTPD
+
+HTTPS - Hypertext Transfer Protocol Secure, (HTTP Secure) an encrypted form of information transfer on the internet
+en.wiktionary.org/wiki/https
+
+HTTPd - Hyper Text Transfer Protocol daemon, commonly refers to a Unix web server that is able to handle HTTP and https requests
+en.wiktionary.org/wiki/HTTPd
+
+The Hypertext Transfer Protocol (HTTP) is the set of rules for exchanging files (text, graphic images, sound, video, and other multimedia files) on the World Wide Web.
+www.strath.ac.uk/its/helpdesk/glossary/
+
+The standard transmission protocol used on the World Wide Web. Apache implements version 1.1 of the protocol, refered to as HTTP/1.1 and defined by RFC 2616.
+213.11.80.10/manual/glossary.html
+
+An acronym for Hyper Text Transfer Protocol. HTTP is a formal communication method that transmits requests and data between user agents or web ...
+www.bigbaer.com/reference/glossary.internet.html
+
+The set of rules and standards that govern how information is transmitted on the World Wide Web.
+web.worldbank.org/WBSITE/EXTERNAL/WBI/0,,contentMDK:20169611~menuPK:654498~pagePK:209023~piPK:207535~theSitePK:213799~isCURL:Y,00.html
+
+Hypertext Transfer Protocol, a language used by web servers and clients (mostly web browsers) to communicate.
+www.beonet.rs/
+
+The HyperText Transfer Protocol (HTTP)is a fixed set of commands used during a hypertext link between a client and server.
+blink.ucsd.edu/technology/help-desk/queries/warehouse/terms.html
+
+Hypertext Transfer Protocol. It is a standard method of transferring data between a Web server and a Web browser.
+sharepoint.agriculture.purdue.edu/agit/webtrends_glossary.aspx
+
+Hypertext Transfer Protocol. A protocol for transferring files, especially HTML files and associated images, from one computer to another. ...
+www.cybox.com/~lou/glossary.htm
+
+The protocol that tells the server what to send to the client, so the client can view Web pages, FTP sites, or other areas of the net.
+www.cs.usask.ca/content/resources/csconcepts/2000_3/tutorial/glossary/glossarytext.html
+
+The protocol that Web clients and servers use to communicate with each other.
+www3.sympatico.ca/bkeevil/tapuser/gloss.html
+
+
+if u found this useful, please dont forget to vote best answer :):) happy reserching!</ChosenAnswer>
+    <ChosenAnswererId>jU8MyuBVaa</ChosenAnswererId>
+    <ChosenAnswererNick>just me</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269309702</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269359832</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>hypertext transfer protocol: a protocol (utilizing TCP) to transfer hypertext requests and information between servers and browsers 
+wordnetweb.princeton.edu/perl/webwn
+
+HTTP(P2P) is a protocol based on HTTP. It is intended to improve page and object retrieval performance when web servers suffer server side ...
+en.wikipedia.org/wiki/HTTP(P2P)
+
+HTTPD - A web server is a computer program that delivers (serves) content, such as this web page, using the Hypertext Transfer Protocol. ...
+en.wikipedia.org/wiki/HTTPD
+
+HTTPS - Hypertext Transfer Protocol Secure, (HTTP Secure) an encrypted form of information transfer on the internet
+en.wiktionary.org/wiki/https
+
+HTTPd - Hyper Text Transfer Protocol daemon, commonly refers to a Unix web server that is able to handle HTTP and https requests
+en.wiktionary.org/wiki/HTTPd
+
+The Hypertext Transfer Protocol (HTTP) is the set of rules for exchanging files (text, graphic images, sound, video, and other multimedia files) on the World Wide Web.
+www.strath.ac.uk/its/helpdesk/glossary/
+
+The standard transmission protocol used on the World Wide Web. Apache implements version 1.1 of the protocol, refered to as HTTP/1.1 and defined by RFC 2616.
+213.11.80.10/manual/glossary.html
+
+An acronym for Hyper Text Transfer Protocol. HTTP is a formal communication method that transmits requests and data between user agents or web ...
+www.bigbaer.com/reference/glossary.internet.html
+
+The set of rules and standards that govern how information is transmitted on the World Wide Web.
+web.worldbank.org/WBSITE/EXTERNAL/WBI/0,,contentMDK:20169611~menuPK:654498~pagePK:209023~piPK:207535~theSitePK:213799~isCURL:Y,00.html
+
+Hypertext Transfer Protocol, a language used by web servers and clients (mostly web browsers) to communicate.
+www.beonet.rs/
+
+The HyperText Transfer Protocol (HTTP)is a fixed set of commands used during a hypertext link between a client and server.
+blink.ucsd.edu/technology/help-desk/queries/warehouse/terms.html
+
+Hypertext Transfer Protocol. It is a standard method of transferring data between a Web server and a Web browser.
+sharepoint.agriculture.purdue.edu/agit/webtrends_glossary.aspx
+
+Hypertext Transfer Protocol. A protocol for transferring files, especially HTML files and associated images, from one computer to another. ...
+www.cybox.com/~lou/glossary.htm
+
+The protocol that tells the server what to send to the client, so the client can view Web pages, FTP sites, or other areas of the net.
+www.cs.usask.ca/content/resources/csconcepts/2000_3/tutorial/glossary/glossarytext.html
+
+The protocol that Web clients and servers use to communicate with each other.
+www3.sympatico.ca/bkeevil/tapuser/gloss.html
+
+
+if u found this useful, please dont forget to vote best answer :):) happy reserching!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>jU8MyuBVaa</UserId>
+            <UserNick>♥Mï§ë®ÿ§ Äñgël♥™</UserNick>
+            <Date>2010-03-22 19:01:42</Date>
+            <Timestamp>1269309702</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hypertext Transfer Protocol.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ianJuZw3aa</UserId>
+            <UserNick>Blob</UserNick>
+            <Date>2010-03-22 19:01:47</Date>
+            <Timestamp>1269309707</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hypertext transfer protocol=http
+the : and backslashes are just things that seperate the web address and the http</Content>
+            <Reference>http://www.helpwithpcs.com/jargon/http.htm</Reference>
+            <Best></Best>
+            <UserId>5QZ2EGynaa</UserId>
+            <UserNick>lucky_number_4000</UserNick>
+            <Date>2010-03-22 19:01:58</Date>
+            <Timestamp>1269309718</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>hypertext transfer protocol</Content>
+            <Reference>http://www.w3.org/Protocols/</Reference>
+            <Best></Best>
+            <UserId>POiVeHnNaa</UserId>
+            <UserNick>christine</UserNick>
+            <Date>2010-03-22 19:02:09</Date>
+            <Timestamp>1269309729</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>hypertext transfer protocol</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>s48tId4paa</UserId>
+            <UserNick>Legion</UserNick>
+            <Date>2010-03-22 19:02:30</Date>
+            <Timestamp>1269309750</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:45 PDT 2010 -->

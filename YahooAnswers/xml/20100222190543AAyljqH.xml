@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222190543AAyljqH" type="Answered">
+    <Subject>Is there somewhere on the internet that is like a &#039;reverse ebay&#039;?</Subject>
+    <Content>I know that&#039;s a dumb way to ask it but I&#039;m really not sure how else to... ebay is people selling things looking for people to buy them, is there anywhere out there where people can ask for what they want and others browsing the site might decide to sell it to them? Craigslist doesn&#039;t work for me as I&#039;m looking for something that isn&#039;t sold in my country.
+I hope that was clear enough... sorry if it wasn&#039;t. Thank you for checking this out.
+</Content>
+    <Date>2010-02-22 19:05:43</Date>
+    <Timestamp>1266894343</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222190543AAyljqH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ia41hZyHaa</UserId>
+    <UserNick>Harley Q</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ebay do have a area called Want it now where you can post a description of what it is that you want, others look at it &amp; if applicable will send you a link to their item. Try searching the site map.</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266902357</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266928496</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Not sure if it would be available in your country, but you can try www.kijiji.ca or possibly just google something up?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8SnIlqtraa</UserId>
+            <UserNick>Christine</UserNick>
+            <Date>2010-02-22 19:07:57</Date>
+            <Timestamp>1266894477</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ebay do have a area called Want it now where you can post a description of what it is that you want, others look at it &amp; if applicable will send you a link to their item. Try searching the site map.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-02-22 21:19:17</Date>
+            <Timestamp>1266902357</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:09 PDT 2010 -->

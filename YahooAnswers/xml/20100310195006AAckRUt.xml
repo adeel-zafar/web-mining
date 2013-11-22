@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310195006AAckRUt" type="Answered">
+    <Subject>how does the internet works?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-10 19:50:06</Date>
+    <Timestamp>1268279406</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310195006AAckRUt</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uc0pumSYaa</UserId>
+    <UserNick>glizzalene</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1HvpD1Jn8AAIC-IFTGAu0iH8HMA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>the internet is the whole of Information that people send to servers. from there the serves connect to each other allowing the transfer of Information between them therefore resulting in &quot;the internet&quot;.</ChosenAnswer>
+    <ChosenAnswererId>dwVZJCGPaa</ChosenAnswererId>
+    <ChosenAnswererNick>naacnud</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268279771</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268294915</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>the internet is the whole of Information that people send to servers. from there the serves connect to each other allowing the transfer of Information between them therefore resulting in &quot;the internet&quot;.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dwVZJCGPaa</UserId>
+            <UserNick>naacnud</UserNick>
+            <Date>2010-03-10 19:56:11</Date>
+            <Timestamp>1268279771</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi, I just find this article for you. You can check it and hope it helps.
+http://www.theshulers.com/whitepapers/internet_whitepaper/index.html</Content>
+            <Reference>Joyhong Software</Reference>
+            <Best></Best>
+            <UserId>KUxWoxFiaa</UserId>
+            <UserNick>Jessica</UserNick>
+            <Date>2010-03-10 22:17:57</Date>
+            <Timestamp>1268288277</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:15:26 PDT 2010 -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312114455AArLfSY" type="Answered">
+    <Subject>Is ordering an item from ebay over the phone safe and following ebay rules? 10 points?</Subject>
+    <Content>I have purchased an item over ebay, I now have to ring a number to buy my item via phone and give card details this way. The seller is a top rated seller and it seems like an actual company with open times and days. (9-5 and on a mon- tue) 
+Thanks
+</Content>
+    <Date>2010-03-12 11:44:55</Date>
+    <Timestamp>1268423095</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312114455AArLfSY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JSeRWbHzaa</UserId>
+    <UserNick>Beth J</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1rRjMPw-MAAECOsE-cIi7Bw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Not sure why seller is asking to finish transaction over the phone.  Usually, most(80%) sellers do their transaction through PayPal. Is he based in UK?  I never had to do that.  Don&#039;t you not have an option for PayPal?  Or you don&#039;t have a PayPal account?  I always use PayPal for my own safety.</ChosenAnswer>
+    <ChosenAnswererId>AA12024755</ChosenAnswererId>
+    <ChosenAnswererNick>vern</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268426611</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268596435</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You shouldn&#039;t have to do that to complete a transaction! That sounds very fishy to me!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-12 11:46:26</Date>
+            <Timestamp>1268423186</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Not sure why seller is asking to finish transaction over the phone.  Usually, most(80%) sellers do their transaction through PayPal. Is he based in UK?  I never had to do that.  Don&#039;t you not have an option for PayPal?  Or you don&#039;t have a PayPal account?  I always use PayPal for my own safety.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA12024755</UserId>
+            <UserNick>vern</UserNick>
+            <Date>2010-03-12 12:43:31</Date>
+            <Timestamp>1268426611</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:09:06 PDT 2010 -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320212126AA9Cv9P" type="Answered">
+    <Subject>How do I enable my webcam for Chatroulette?</Subject>
+    <Content>Everything seems to be working on it and I can webcam over msn but when I click &quot;New Game&quot; on chat roulette it says my cam needs to be enabled. How do I do that?
+</Content>
+    <Date>2010-03-20 21:21:26</Date>
+    <Timestamp>1269145286</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320212126AA9Cv9P</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jFPZbqGwaa</UserId>
+    <UserNick>Jordan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If it works everywhere else, then it is not compatible with flash. 
+
+You can use virtual webcam software. It allows to put a video or an image instead of your real web-cam</ChosenAnswer>
+    <ChosenAnswererId>OsgZmgqmaa</ChosenAnswererId>
+    <ChosenAnswererNick>Stream Recorder</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269253750</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269850935</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If it works everywhere else, then it is not compatible with flash. 
+
+You can use virtual webcam software. It allows to put a video or an image instead of your real web-cam</Content>
+            <Reference>http://stream-recorder.com/forum/enable-webcam-chat-roulette-and-other-flash-t6138.html</Reference>
+            <Best>5</Best>
+            <UserId>OsgZmgqmaa</UserId>
+            <UserNick>Stream Recorder</UserNick>
+            <Date>2010-03-22 03:29:10</Date>
+            <Timestamp>1269253750</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:06 PDT 2010 -->

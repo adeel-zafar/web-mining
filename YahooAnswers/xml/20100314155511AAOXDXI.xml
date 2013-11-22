@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314155511AAOXDXI" type="Answered">
+    <Subject>My Internet Connection suddenly got slower?</Subject>
+    <Content>Yup. All of a sudden. I haven&#039;t downloaded anything but music and short little videos for a long time. And its making my iTouch go slower. 
+I took a speed test and i got a 3024 kbps..and my connection is..well..i don&#039;t really know. Its Quest ._.&#039; Thats really all i know. And i think its connected with the phone..but we can still use the phone while on the computer..soo...
+
+But anyway. I need it to be faster so i don&#039;t throw my iTouch to the wall when it takes 5 minutes to open a web page. Free plz. Hopfully no uploading any software.
+The slowness is making youtube reject my videos..I keep getting &quot;error&quot; even though they are the same file type as the rest of my videos..and it says like i hour remaining on a 2 minute video.
+I tried uploading on Firefox..but it was just as slow and still said &quot;error&quot; so i went back to IE.
+Please help :(
+</Content>
+    <Date>2010-03-14 15:55:11</Date>
+    <Timestamp>1268607311</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314155511AAOXDXI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DZ69ObZJaa</UserId>
+    <UserNick>Kiba L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You should check the download and upload speed in speed test. It should say some value. With that you should check what plan you have and why it&#039;s slowing down your speed. Talk to your ISP about the speed. 
+
+If the speed test matches your ISP speed then you should see if some back groud process is eating internet speed in your task manger.</ChosenAnswer>
+    <ChosenAnswererId>WwzFFtc5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Best performer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268607696</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269126843</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You should check the download and upload speed in speed test. It should say some value. With that you should check what plan you have and why it&#039;s slowing down your speed. Talk to your ISP about the speed. 
+
+If the speed test matches your ISP speed then you should see if some back groud process is eating internet speed in your task manger.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>WwzFFtc5aa</UserId>
+            <UserNick>Best performer</UserNick>
+            <Date>2010-03-14 16:01:36</Date>
+            <Timestamp>1268607696</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Do you have a download limit?
+
+if so then you may have used up all of your bandwidth and thus your isp restrict usage hugely. I went over my 10gb limit and they restricted my usage from 1mb/s to less than 50kb/s download speed
+
+If all else fails then ring your isp and tell them what has happened and they may have a solution
+
+It might even be down to problems/maintenance on your isps behalf</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>shAUHYS2aa</UserId>
+            <UserNick>Roughton</UserNick>
+            <Date>2010-03-14 16:02:29</Date>
+            <Timestamp>1268607749</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Using a registry cleaner can clean up your computer and then make your computer faster,Why?the reason is that there may be some registry errors and remnant,corrupt files and temp files in your computer to cause &quot;computer slow&quot;.
+Every time you install and uninstall software on your computer and surfing online you create junk in the computer registry.over time, the registry can grow to enormous proportions, especially if the various programs you&#039;ve installed do not do a good job of deleting and/or updating it&#039;s Registry entries.You need to scan and clean your computer with registry cleaner to make it fast.Good Registry Cleaner will improve your computer and Internet performance dramatically!
+There are some comparison and review of TOP 5 registry cleaners.
+http://www.make-computer-faster.com
+You can download and scan your computer for free.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Gch0QyhNaa</UserId>
+            <UserNick>amanda</UserNick>
+            <Date>2010-03-15 23:13:01</Date>
+            <Timestamp>1268719981</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>For running slow there are many causes:
+Microsoft Registry Problems
+RAM
+De-Fragmenting
+Etc. 
+
+Clean windows registry can speed up the computer.
+Registry Cleaner can fix your pc errors.
+Over time, you install new programs, uninstalled unimportant programs, update software&#039;s, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://clean-computer-registry.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GBozZejTaa</UserId>
+            <UserNick>downasClipscoach</UserNick>
+            <Date>2010-03-17 04:43:28</Date>
+            <Timestamp>1268826208</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:46 PDT 2010 -->

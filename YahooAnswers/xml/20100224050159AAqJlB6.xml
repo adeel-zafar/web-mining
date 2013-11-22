@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224050159AAqJlB6" type="Answered">
+    <Subject>How do we put a pop up word meaning feature (on mouse hovering difficult words) in my website?</Subject>
+    <Content>I have a site in which there are a lot of difficult words in the content. Is it possible to add a feature which will let people read meanings of words upon hovering over a word / double clicking it? If yes, how?
+</Content>
+    <Date>2010-02-24 05:01:59</Date>
+    <Timestamp>1267016519</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224050159AAqJlB6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gijSvRRXaa</UserId>
+    <UserNick>BrainBUGG</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The feature your looking for is called a &quot;tooltip&quot;,examples in
+HTML (title element) - http://www.w3schools.com/tags/att_standard_title.asp
+or
+Javascript - http://www.dyn-web.com/code/tooltips/
+or
+CSS - http://shurie.com/coder/code_details.asp?codeid=4
+
+When learning to develop web pages I spent an awful lot of time at www.w3schools.com, it&#039;s well worth book-marking</ChosenAnswer>
+    <ChosenAnswererId>Lmf5kgu8aa</ChosenAnswererId>
+    <ChosenAnswererNick>CheesenBranston</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267017287</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267114198</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The feature your looking for is called a &quot;tooltip&quot;,examples in
+HTML (title element) - http://www.w3schools.com/tags/att_standard_title.asp
+or
+Javascript - http://www.dyn-web.com/code/tooltips/
+or
+CSS - http://shurie.com/coder/code_details.asp?codeid=4
+
+When learning to develop web pages I spent an awful lot of time at www.w3schools.com, it&#039;s well worth book-marking</Content>
+            <Reference>http://www.w3schools.com
+http://www.dyn-web.com
+http://shurie.com/</Reference>
+            <Best>4</Best>
+            <UserId>Lmf5kgu8aa</UserId>
+            <UserNick>CheesenBranston</UserNick>
+            <Date>2010-02-24 05:14:47</Date>
+            <Timestamp>1267017287</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:15:12 PDT 2010 -->

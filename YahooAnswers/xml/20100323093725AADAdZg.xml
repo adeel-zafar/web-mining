@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323093725AADAdZg" type="Answered">
+    <Subject>how do I link a MyName@domain.net to another email address such as gmail?</Subject>
+    <Content>I need to be able to have things automatically forwarded to another email such as gmail, and be able to send from gmail as the @domain if that makes any sense..
+</Content>
+    <Date>2010-03-23 09:37:25</Date>
+    <Timestamp>1269362245</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323093725AADAdZg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1agU3R0Oaa</UserId>
+    <UserNick>Lee</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can have your gmail account login to your other account and PICK UP the mail and put it in your gmail inbox, but that is as far as you can go. Spammers try to do exactly what you want to do, make one account act like another to fool you and your spam filter. Oh, I get it now, you&#039;re a spammer wannabe and want to know how the other spammers do it!</ChosenAnswer>
+    <ChosenAnswererId>5586ad15a09ab2f36457c1e8042071f2aa</ChosenAnswererId>
+    <ChosenAnswererNick>rowlfe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269363259</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269881727</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can have your gmail account login to your other account and PICK UP the mail and put it in your gmail inbox, but that is as far as you can go. Spammers try to do exactly what you want to do, make one account act like another to fool you and your spam filter. Oh, I get it now, you&#039;re a spammer wannabe and want to know how the other spammers do it!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5586ad15a09ab2f36457c1e8042071f2aa</UserId>
+            <UserNick>rowlfe</UserNick>
+            <Date>2010-03-23 09:54:19</Date>
+            <Timestamp>1269363259</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:18:47 PDT 2010 -->

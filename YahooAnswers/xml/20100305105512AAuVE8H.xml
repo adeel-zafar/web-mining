@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305105512AAuVE8H" type="Answered">
+    <Subject>How do I get money from ebay to my paypal?</Subject>
+    <Content>I sold a few things on ebay. The day after I sold them, I received messages saying &quot;payment pending.&quot; When I clicked on it, the messages were telling me how much money I would be receiving and have a button that said &quot;receive payment.&quot; I clicked on it, and it said &quot;your money has been transferred to your paypal account.&quot; When I went to my paypal account it said I had a balance of zero, and no transactions...how do I get my payments?!?!
+</Content>
+    <Date>2010-03-05 10:55:12</Date>
+    <Timestamp>1267815312</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305105512AAuVE8H</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Pt5PjFf5aa</UserId>
+    <UserNick>Jessica</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1udfiwZq9AAID-OFwIBYMSmgB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if you have a payment pending, it means that your buyer has had to have their account verified. They may have recently added a new credit card to their file, or they may have reached their limit on buying &amp; have to follow paypal&#039;s guidelines to verify themselves, which takes time in payment clearing to your account. It does happen from time to time and is very frustraiting to have to wait. Do not send out the items until payment has cleared into your paypal account which could be up to 10 days.
+It may be worth emailing your buyer to say that payment is pending because often the buyer can be unaware that this is happening.</ChosenAnswer>
+    <ChosenAnswererId>2hNfXDwTaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ahmeds Babe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267974702</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268334852</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It takes about 5 days to show up on paypal</Content>
+            <Reference>I use paypal to buy on line</Reference>
+            <Best></Best>
+            <UserId>lf3OcG5Eaa</UserId>
+            <UserNick>Susan U</UserNick>
+            <Date>2010-03-05 11:02:01</Date>
+            <Timestamp>1267815721</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if you have a payment pending, it means that your buyer has had to have their account verified. They may have recently added a new credit card to their file, or they may have reached their limit on buying &amp; have to follow paypal&#039;s guidelines to verify themselves, which takes time in payment clearing to your account. It does happen from time to time and is very frustraiting to have to wait. Do not send out the items until payment has cleared into your paypal account which could be up to 10 days.
+It may be worth emailing your buyer to say that payment is pending because often the buyer can be unaware that this is happening.</Content>
+            <Reference>experienced seller on ebay usin paypal for years</Reference>
+            <Best>5</Best>
+            <UserId>2hNfXDwTaa</UserId>
+            <UserNick>Ahmeds Babe</UserNick>
+            <Date>2010-03-07 07:11:42</Date>
+            <Timestamp>1267974702</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:56:52 PDT 2010 -->

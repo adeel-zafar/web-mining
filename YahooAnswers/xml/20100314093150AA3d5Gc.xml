@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314093150AA3d5Gc" type="Answered">
+    <Subject>On play.com, if a seller refunds you for an item brought does the money go back into your bank account?</Subject>
+    <Content>brought an item, and decided didn&#039;t actually need it so the seller said she will refund me
+
+will the money go back into my bank account or in my play.com account?
+
+thanks
+</Content>
+    <Date>2010-03-14 09:31:50</Date>
+    <Timestamp>1268584310</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314093150AA3d5Gc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>u8hRANujaa</UserId>
+    <UserNick>Welsh Star</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/11Vm4incMAAIC_CH-zB9kWD4B.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>When you get a refund, it is almost always returned to you in the exact same manner as you paid for it.
+
+So, in this case, if you paid using your play.com account, then you probably will see your refund on your play.com account. If you paid using a credit card, you will see the refund on your credit card statement.
+
+If you paid using a debit card, the refund will go into your bank account.
+
+Hope that helps!</ChosenAnswer>
+    <ChosenAnswererId>AA11036706</ChosenAnswererId>
+    <ChosenAnswererNick>Janet712inEngland</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268584840</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269792758</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>When you get a refund, it is almost always returned to you in the exact same manner as you paid for it.
+
+So, in this case, if you paid using your play.com account, then you probably will see your refund on your play.com account. If you paid using a credit card, you will see the refund on your credit card statement.
+
+If you paid using a debit card, the refund will go into your bank account.
+
+Hope that helps!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11036706</UserId>
+            <UserNick>Janet712inEngland</UserNick>
+            <Date>2010-03-14 09:40:40</Date>
+            <Timestamp>1268584840</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:59:36 PDT 2010 -->

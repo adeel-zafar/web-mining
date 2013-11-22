@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304100354AAM9Lo5" type="Answered">
+    <Subject>How do you get the Inbox Dollars toolbar?</Subject>
+    <Content>I just started to notice that in the current earnings page it shows a new thing called Toolbar Earnings. Do you get that at the beginning of your Gold Membership? Where can I download it? I need answers from people who use the Gold Membership at InboxDollars.
+</Content>
+    <Date>2010-03-04 10:03:54</Date>
+    <Timestamp>1267725834</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304100354AAM9Lo5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2lFqa0wkaa</UserId>
+    <UserNick>kmoney2008</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>2</NumComments>
+    <ChosenAnswer>Go to link and follow instructions:</ChosenAnswer>
+    <ChosenAnswererId>ql4iLae9aa</ChosenAnswererId>
+    <ChosenAnswererNick>somo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267726894</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267824365</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to link and follow instructions:</Content>
+            <Reference>http://www.inboxdollars.com/toolbar/install</Reference>
+            <Best>5</Best>
+            <UserId>ql4iLae9aa</UserId>
+            <UserNick>Rab Nawaz</UserNick>
+            <Date>2010-03-04 10:21:34</Date>
+            <Timestamp>1267726894</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>cyFNdSHDaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-07 15:09:22</Date>
+            <Timestamp>1267726894</Timestamp>
+        </Comment>
+        <Comment>
+            <Content></Content>
+            <UserId>fwXtE2X8aa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-22 10:59:32</Date>
+            <Timestamp>1267726894</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:11:00 PDT 2010 -->

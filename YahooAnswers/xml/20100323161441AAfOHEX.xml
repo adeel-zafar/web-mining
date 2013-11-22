@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323161441AAfOHEX" type="Answered">
+    <Subject>Windows Firewall easily disabled by virus?</Subject>
+    <Content>This has been bothering me for the past few days. Twice, my Windows Firewall suddenly turned off, then almost instantly I get infected with some rogue software. I have removed the rogue software, including all the keys, but this happened with my firewall three times this year, so I&#039;d like a recommendation for another firewall. The XP one really seems to suck.
+</Content>
+    <Date>2010-03-23 16:14:41</Date>
+    <Timestamp>1269386081</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323161441AAfOHEX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ItlWTJudaa</UserId>
+    <UserNick>Virginia</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269437032</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269437825</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m afraid you learned the lesson the hard way: Windows Firewall sucks, not matter what version we&#039;re talking bout.
+
+Personally I like Comodo&#039;s firewall. It&#039;s free and it&#039;s very powerful, even though it&#039;s annoying at first while it&#039;s learning the system. 
+
+You can get it from download.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>e3e9170314039ee1b1bce8b333b27dfdaa</UserId>
+            <UserNick>the.chip</UserNick>
+            <Date>2010-03-23 16:21:08</Date>
+            <Timestamp>1269386468</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-24 06:23:52</Date>
+            <Timestamp>1269437032</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:26 PDT 2010 -->

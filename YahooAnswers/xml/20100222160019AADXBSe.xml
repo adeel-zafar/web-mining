@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222160019AADXBSe" type="Answered">
+    <Subject>how to make free calls to nepal?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-22 16:00:19</Date>
+    <Timestamp>1266883219</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222160019AADXBSe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>w7a7hQQhaa</UserId>
+    <UserNick>ssd</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You could try
+http://voipsms.blogspot.com</ChosenAnswer>
+    <ChosenAnswererId>SnA7x8D3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Vic</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267133525</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267402687</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Skype. All you need.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KKDFYSi2aa</UserId>
+            <UserNick>Rob</UserNick>
+            <Date>2010-02-22 16:02:17</Date>
+            <Timestamp>1266883337</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You could try
+http://voipsms.blogspot.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>SnA7x8D3aa</UserId>
+            <UserNick>Vic</UserNick>
+            <Date>2010-02-25 13:32:05</Date>
+            <Timestamp>1267133525</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:52 PDT 2010 -->

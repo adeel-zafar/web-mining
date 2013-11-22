@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312100939AAq5ZBe" type="Answered">
+    <Subject>interested in the website &quot;gamevance&quot;.  is it virus free?</Subject>
+    <Content>thanks!
+</Content>
+    <Date>2010-03-12 10:09:39</Date>
+    <Timestamp>1268417379</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312100939AAq5ZBe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cWnEia5haa</UserId>
+    <UserNick>Drum Dude</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1qzUSEs1yAAECWeE_kIpjp04JKg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It adware.    Look at here http://www.mywot.com/en/scorecard/gamevance.com  It will give you a good lot of information about the site</ChosenAnswer>
+    <ChosenAnswererId>EN2KT2YRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Corb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268430431</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268933132</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It adware.    Look at here http://www.mywot.com/en/scorecard/gamevance.com  It will give you a good lot of information about the site</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EN2KT2YRaa</UserId>
+            <UserNick>Corb</UserNick>
+            <Date>2010-03-12 13:47:11</Date>
+            <Timestamp>1268430431</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:09:31 PDT 2010 -->

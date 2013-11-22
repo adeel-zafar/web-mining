@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303010735AATaw9t" type="Answered">
+    <Subject>How do you geo-tag a photo?</Subject>
+    <Content>I have a photo from the top of the empire state building, NY and would like it to appear on google maps. How do i do this?
+</Content>
+    <Date>2010-03-03 01:07:35</Date>
+    <Timestamp>1267607255</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303010735AATaw9t</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tw2Xi3ivaa</UserId>
+    <UserNick>McLovin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1PHq3we99AAEB_KGJgdf72mUB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You need a device like Sony&#039;s GPS attachment when you take the photograph.</ChosenAnswer>
+    <ChosenAnswererId>k37FP8Ltaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sterling</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267607550</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267780478</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You need a device like Sony&#039;s GPS attachment when you take the photograph.</Content>
+            <Reference>GPS-CS3KA | GPS Image Tracker | Sony | Sony Style USA
+Map your memories with the ingenious GPS-CS3KA GPS image tracker, compatible with most Cyber-shot® digital still cameras and Handycam® camcorders. Record the time, date and location to each shot you take and enjoy them with the included Picture Motion ... Find related product support and help in Sony eSupport...
+173k - 25 sec @ 56k
+www.sonystyle.com/webapp/wcs/stores/servlet/ProductDisp..</Reference>
+            <Best>4</Best>
+            <UserId>k37FP8Ltaa</UserId>
+            <UserNick>Sterling</UserNick>
+            <Date>2010-03-03 01:12:30</Date>
+            <Timestamp>1267607550</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:20:20 PDT 2010 -->

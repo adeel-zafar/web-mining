@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308113239AApwfQS" type="Answered">
+    <Subject>How much is shipping from the online MCR merch store to the UK?</Subject>
+    <Content>I&#039;m 15 and so can&#039;t enter any bank details, but I would like to know the shipping before I order (I haven&#039;t bought anything from the site before). Does anyone know how much the shipping charges are? I would like to order some fingerless gloves for myself and a drapery zip up hoodie for my sister&#039;s birthday. I have to set up an account with credit card details before I can view the order+shipping, so I&#039;m kind of stuck.
+I need to know soon because I have been saving up since Christmas and have about £15 and her birthday is in a few weeks, so if the shipping is too much I won&#039;t bother my mum with getting bank details and get my sister something else.
+As the hoodie is $19.99, would that be around £13?
+</Content>
+    <Date>2010-03-08 11:32:39</Date>
+    <Timestamp>1268076759</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308113239AApwfQS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xyQMAYHnaa</UserId>
+    <UserNick>Charlie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>2</NumComments>
+    <ChosenAnswer>You could go to the page where you have to enter your credit card details (just put random info on the Billing Address page), and it will show you the total amount that will be charged, including shipping costs.
+
+This is a good currency converter, if you need it: http://uk.finance.yahoo.com/currencies/converter/#from=GBP;to=USD;amt=1</ChosenAnswer>
+    <ChosenAnswererId>1MLIYilNaa</ChosenAnswererId>
+    <ChosenAnswererNick>mcr {zombie}</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268287476</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268288257</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>$10 which is about £6 pounds.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>byEbBVbLaa</UserId>
+            <UserNick>I ♥ My Chem :)</UserNick>
+            <Date>2010-03-10 15:21:51</Date>
+            <Timestamp>1268263311</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You could go to the page where you have to enter your credit card details (just put random info on the Billing Address page), and it will show you the total amount that will be charged, including shipping costs.
+
+This is a good currency converter, if you need it: http://uk.finance.yahoo.com/currencies/converter/#from=GBP;to=USD;amt=1</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>1MLIYilNaa</UserId>
+            <UserNick>mcr {zombie}</UserNick>
+            <Date>2010-03-10 22:04:36</Date>
+            <Timestamp>1268287476</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>1MLIYilNaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-11 00:38:40</Date>
+            <Timestamp>1268287476</Timestamp>
+        </Comment>
+        <Comment>
+            <Content></Content>
+            <UserId>1MLIYilNaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-11 00:39:42</Date>
+            <Timestamp>1268287476</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:31:43 PDT 2010 -->

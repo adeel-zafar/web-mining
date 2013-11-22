@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309221729AA6N4di" type="Answered">
+    <Subject>Computer shows that internet is working but get DNS failure on every website I try?</Subject>
+    <Content>I can get my internet icon to indicate that I have an internet signal. It even says that I am online when I go into network properties, but if I try to open a web page it tells me that there was a DNS failure indicating that it could not find the DNS server. How do I fix this? Thank you.
+</Content>
+    <Date>2010-03-09 22:17:29</Date>
+    <Timestamp>1268201849</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309221729AA6N4di</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nVCf8EC5aa</UserId>
+    <UserNick>I accept Chaos</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49b930afi11d8z/XTx5d6shc6.PUPSD6vsPR7orAUY9/100/tn48.jpg?ciAAToMBJNdudPUe</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1. Try power cycling your modem (and router), or use the reset button.
+
+2. Call your ISP to see if there is a service disruption.
+
+3. Check for viruses. The newer ones can disrupt your Internet settings.</ChosenAnswer>
+    <ChosenAnswererId>bR3Wa5t5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Nahum</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268203353</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268717674</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you have Norton - try to turn it on or uninstall it. In another case - contact you Internet Service Provider.</Content>
+            <Reference>http://www.askdrtech.com/</Reference>
+            <Best></Best>
+            <UserId>9Jkc34m8aa</UserId>
+            <UserNick>Randall</UserNick>
+            <Date>2010-03-09 22:21:24</Date>
+            <Timestamp>1268202084</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>sounds like everything is working but your not contacting your service provider, try running your internet cd again, they could just be down too, someone near me took out a phone pole i had no internet a few days</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>212eqWXnaa</UserId>
+            <UserNick>liquidsilicon</UserNick>
+            <Date>2010-03-09 22:26:04</Date>
+            <Timestamp>1268202364</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1. Try power cycling your modem (and router), or use the reset button.
+
+2. Call your ISP to see if there is a service disruption.
+
+3. Check for viruses. The newer ones can disrupt your Internet settings.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bR3Wa5t5aa</UserId>
+            <UserNick>Nahum</UserNick>
+            <Date>2010-03-09 22:42:33</Date>
+            <Timestamp>1268203353</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:21:19 PDT 2010 -->

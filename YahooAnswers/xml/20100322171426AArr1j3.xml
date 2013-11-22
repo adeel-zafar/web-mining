@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322171426AArr1j3" type="Answered">
+    <Subject>Firefox Memory Usage a little bit high?</Subject>
+    <Content>this just started about 10 minutes ago. my firefox just got slower. alot slower. I go on chatroulette just for shits and giggles but it uses at least 100% of my computer usage via Taskbar manager and use as much RAM as it could, i have 2gb of ram and it got to about 1,500,000 K&#039;s! Then i just had to end process.
+
+its just when i go on chatroulette it just takes up THIS MUCH MEMORY
+
+is it firefox? or is it chatroulette itself, or is it my ISP?
+</Content>
+    <Date>2010-03-22 17:14:26</Date>
+    <Timestamp>1269303266</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322171426AArr1j3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IIIPuyM1aa</UserId>
+    <UserNick>Jorda B</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi, and sorry for my bad english (I&#039;m French).
+No, it&#039;s not because of firefox... Chatroulette is running slow for everyone on earth today : they are upgrading the website. As you might have noticed, if you were connected today, it&#039;s glitchy too.
+
+bye bye.</ChosenAnswer>
+    <ChosenAnswererId>2gPo71ckaa</ChosenAnswererId>
+    <ChosenAnswererNick>Christelle B.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269304287</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270161232</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hi, and sorry for my bad english (I&#039;m French).
+No, it&#039;s not because of firefox... Chatroulette is running slow for everyone on earth today : they are upgrading the website. As you might have noticed, if you were connected today, it&#039;s glitchy too.
+
+bye bye.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2gPo71ckaa</UserId>
+            <UserNick>Christelle B.</UserNick>
+            <Date>2010-03-22 17:31:27</Date>
+            <Timestamp>1269304287</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:21:22 PDT 2010 -->

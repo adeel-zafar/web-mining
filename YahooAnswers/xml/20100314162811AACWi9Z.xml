@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314162811AACWi9Z" type="Answered">
+    <Subject>My computer got a trojan virus! what should I do?</Subject>
+    <Content>it was an old windows 95 (I have xp now) and I havnt put any cc info/passwords or important info on it! it was manly for a backup computer! I went to a tech repair place and they said it had the trojan virus on it! should I even put the money into getting rid of it or just leave it?
+</Content>
+    <Date>2010-03-14 16:28:11</Date>
+    <Timestamp>1268609291</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314162811AACWi9Z</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eZgA8xKvaa</UserId>
+    <UserNick>El Pollo Loco</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268690768</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268692290</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try to reinstall xp</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cVvuDL0Oaa</UserId>
+            <UserNick>Paul Allen</UserNick>
+            <Date>2010-03-14 16:31:56</Date>
+            <Timestamp>1268609516</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-15 15:06:08</Date>
+            <Timestamp>1268690768</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:29 PDT 2010 -->

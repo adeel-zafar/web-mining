@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303104250AALiwYf" type="Answered">
+    <Subject>Question about megavideo. Please help.?</Subject>
+    <Content>Megavideo&#039;s limit is supposed to be 72 mins but sometimes after just about 10 mins the video stops and it tells me that I&#039;ve reached te 72 mins limit.  Does this happen to someone else? And is there a way that I can avoid the limit?
+</Content>
+    <Date>2010-03-03 10:42:50</Date>
+    <Timestamp>1267641770</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303104250AALiwYf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KTbdZx8Taa</UserId>
+    <UserNick>Angele G</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>the limit applies to all computers on your network, so if you have a family member in the house also watching megavideo that day or someone stealing your wifi, it will take away from your time limit.</ChosenAnswer>
+    <ChosenAnswererId>Vy4SjoLRaa</ChosenAnswererId>
+    <ChosenAnswererNick>thereisalight</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267642061</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268161382</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>the limit applies to all computers on your network, so if you have a family member in the house also watching megavideo that day or someone stealing your wifi, it will take away from your time limit.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Vy4SjoLRaa</UserId>
+            <UserNick>thereisalight</UserNick>
+            <Date>2010-03-03 10:47:41</Date>
+            <Timestamp>1267642061</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think it&#039;s intentional, so you will want to pay to watch a movie all the way through...The only way around this is to pay for the service.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-03 11:15:27</Date>
+            <Timestamp>1267643727</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:18:00 PDT 2010 -->

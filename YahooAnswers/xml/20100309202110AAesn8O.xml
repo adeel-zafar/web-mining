@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309202110AAesn8O" type="Answered">
+    <Subject>Quick help plz, whats the internet adress for?</Subject>
+    <Content>that page that displays your router info etc. etc. I think it was something like 192.61. something something! ????
+Linsys Cisco Wireless G wrt5
+</Content>
+    <Date>2010-03-09 20:21:10</Date>
+    <Timestamp>1268194870</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309202110AAesn8O</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SkXnVyUjaa</UserId>
+    <UserNick>The Chair</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bab078bifa8zws135sp2/kmWt_hMyc6e6ea5QnVxLhww-/3/tn48.jpeg?ciAAToMBhgLEu_ca</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It is 192.168.?.?. If you put additional details on what brand router you have I could give you the oter two numbers.</ChosenAnswer>
+    <ChosenAnswererId>HycRMXvsaa</ChosenAnswererId>
+    <ChosenAnswererNick>BAWB</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268195006</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268247422</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it&#039;s usually your internal ip address. if your router was provided by your isp then you can call them for help.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10503899</UserId>
+            <UserNick>neil</UserNick>
+            <Date>2010-03-09 20:23:12</Date>
+            <Timestamp>1268194992</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It is 192.168.?.?. If you put additional details on what brand router you have I could give you the oter two numbers.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>HycRMXvsaa</UserId>
+            <UserNick>BAWB</UserNick>
+            <Date>2010-03-09 20:23:26</Date>
+            <Timestamp>1268195006</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>192.168.1.1</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>S0P2ql3Qaa</UserId>
+            <UserNick>kmaster1989</UserNick>
+            <Date>2010-03-09 20:23:30</Date>
+            <Timestamp>1268195010</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>192.168.1.1</Content>
+            <Reference>http://en.kioskea.net/forum/affich-87540-can-t-view-linksys-router-web-page-wrt54g</Reference>
+            <Best></Best>
+            <UserId>0Xe7nX51aa</UserId>
+            <UserNick>Big E</UserNick>
+            <Date>2010-03-09 20:23:59</Date>
+            <Timestamp>1268195039</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>AThis is a code made up of numbers separated by three dots that identifies a particular computer on the Internet. Every computer, whether it be a Web server or the computer you&#039;re using right now, requires an IP address to connect to the Internet. IP addresses consist of four sets of numbers from 0 to 255, separated by three dots. For example &quot;66.72.98.236&quot; or &quot;216.239.115.148&quot;. Your Internet Service Provider (ISP), will assign you either a static IP address (which is always the same) or a dynamic IP address, (which changes everytime you log on). ISPs typically assign dial-up users a dynamic IP address each time they sign on because it reduces the number of IP addresses they must register. However, if you connect to the Internet through a network or broadband connection, it is more likely that you have a static IP address.
+
+Simply put, its your computer&#039;s ID.</Content>
+            <Reference>techterms.com</Reference>
+            <Best></Best>
+            <UserId>xt5NciJKaa</UserId>
+            <UserNick>Tim G</UserNick>
+            <Date>2010-03-09 20:25:06</Date>
+            <Timestamp>1268195106</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Default entrance info page: http://www.routerpasswords.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>14d0ad3dfdb4dd36a9f896b96a702e69aa</UserId>
+            <UserNick>Dunbar Pappy ϟϟ</UserNick>
+            <Date>2010-03-10 07:02:21</Date>
+            <Timestamp>1268233341</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:21:45 PDT 2010 -->

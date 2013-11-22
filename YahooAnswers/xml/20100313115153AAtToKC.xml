@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313115153AAtToKC" type="Answered">
+    <Subject>What is wrong with Firefox?</Subject>
+    <Content>When I try to open it it says 
+
+&quot;The Procedure entry point js_NextActiveContext could not be located in the dynamic link library js3250.dll&quot;
+</Content>
+    <Date>2010-03-13 11:51:53</Date>
+    <Timestamp>1268509913</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313115153AAtToKC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lbAftZFmaa</UserId>
+    <UserNick>jo P</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>uninstall, delete Firefox folder in the Program files, reinstall u should be ok</ChosenAnswer>
+    <ChosenAnswererId>oXXc2LmNaa</ChosenAnswererId>
+    <ChosenAnswererNick>John S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268510472</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268705300</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Something probably got corrupted, so what you&#039;ll have to do is uninstall it, and then install it again.
+
+Go to your Control Panels -&gt; Add/Remove Programs (XP)  or  Programs (Vista/7)
+Find Firefox, and remove it.
+Open Internet Explorer, go to www.getfirefox.com  and download it again, then install Firefox.  All your favorites and sites will still be there once its finished.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gQGpQPt4aa</UserId>
+            <UserNick>QuentinW</UserNick>
+            <Date>2010-03-13 11:55:14</Date>
+            <Timestamp>1268510114</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>uninstall, delete Firefox folder in the Program files, reinstall u should be ok</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>oXXc2LmNaa</UserId>
+            <UserNick>John S</UserNick>
+            <Date>2010-03-13 12:01:12</Date>
+            <Timestamp>1268510472</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:03:50 PDT 2010 -->

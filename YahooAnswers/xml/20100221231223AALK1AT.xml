@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221231223AALK1AT" type="Answered">
+    <Subject>What Country Is This Email From?</Subject>
+    <Content>.....@gmx.at
+</Content>
+    <Date>2010-02-21 23:12:23</Date>
+    <Timestamp>1266822743</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221231223AALK1AT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bQppcJgBaa</UserId>
+    <UserNick>Claire de Lune</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/11nm0SJk4AAEBXkOcoKvNDQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Austria.</ChosenAnswer>
+    <ChosenAnswererId>dRGEfB4naa</ChosenAnswererId>
+    <ChosenAnswererNick>Poot</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266822941</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266875523</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Austria.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dRGEfB4naa</UserId>
+            <UserNick>Poot</UserNick>
+            <Date>2010-02-21 23:15:41</Date>
+            <Timestamp>1266822941</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here you go. This is the owner information and it is located in Germany.
+
+GMX GmbH, Germany, Hanauer Str. 58, D-80993 Muenchen</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>440b5eeaa808017d23fb3beb1ec4fa73aa</UserId>
+            <UserNick>JSalakar</UserNick>
+            <Date>2010-02-21 23:16:24</Date>
+            <Timestamp>1266822984</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think it&#039;s from Germany.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>J8oQSkCBaa</UserId>
+            <UserNick>HotPink0912</UserNick>
+            <Date>2010-02-21 23:23:27</Date>
+            <Timestamp>1266823407</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>OF course it&#039;s from Germany</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MHAFoctMaa</UserId>
+            <UserNick>wisdom</UserNick>
+            <Date>2010-02-21 23:30:13</Date>
+            <Timestamp>1266823813</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It is from Austria ( top level domain code : .at)
+Germany&#039;s top level domain is : .de
+
+Look this to know others :
+
+http://www.iana.org/domains/root/db/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OoAO3lxraa</UserId>
+            <UserNick>luxorgy</UserNick>
+            <Date>2010-02-22 02:32:18</Date>
+            <Timestamp>1266834738</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:30:35 PDT 2010 -->

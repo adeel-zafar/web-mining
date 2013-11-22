@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318065348AADK0wK" type="Answered">
+    <Subject>How do some webmasters embed Yahoo answers of their websites?</Subject>
+    <Content>I&#039;ve noticed a number of websites that have embedded Yahoo Answers on their pages - obviously an easy way to add content - but I see nothing in the Yahoo site that offers embedded links such as the ones on YouTube - is html available?.
+</Content>
+    <Date>2010-03-18 06:53:48</Date>
+    <Timestamp>1268920428</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318065348AADK0wK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uDq9EHXQaa</UserId>
+    <UserNick>Boomer</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>They add a Yahoo badge to their website.  Follow these instructions to get to Yahoo&#039;s advice on how to create a badge:
+
+1. Click &quot;My Activity&quot; at the top of the page.
+2. In the &quot;Share my knowledge&quot; section at the bottom right of the page click &quot;badge page&quot;.
+
+The page offers different badges to display. You should find what you are looking for.</ChosenAnswer>
+    <ChosenAnswererId>cATcJpuSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Stewart</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268921919</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269439986</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They add a Yahoo badge to their website.  Follow these instructions to get to Yahoo&#039;s advice on how to create a badge:
+
+1. Click &quot;My Activity&quot; at the top of the page.
+2. In the &quot;Share my knowledge&quot; section at the bottom right of the page click &quot;badge page&quot;.
+
+The page offers different badges to display. You should find what you are looking for.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cATcJpuSaa</UserId>
+            <UserNick>Stewart</UserNick>
+            <Date>2010-03-18 07:18:39</Date>
+            <Timestamp>1268921919</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:32 PDT 2010 -->

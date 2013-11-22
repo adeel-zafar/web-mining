@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227063228AAtBiod" type="Answered">
+    <Subject>what else you use to buy on the internet?</Subject>
+    <Content>other then a credit card or debit card
+</Content>
+    <Date>2010-02-27 06:32:28</Date>
+    <Timestamp>1267281148</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227063228AAtBiod</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>b55a44fa372faae730c68b8b4a6e6e88aa</UserId>
+    <UserNick>samson</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ZRkog5hgAAEDLQE_-I7o4oFC2erEoA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Paypal</ChosenAnswer>
+    <ChosenAnswererId>Gvw2w3Vzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ed</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267281264</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267968766</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Paypal</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Gvw2w3Vzaa</UserId>
+            <UserNick>Ed</UserNick>
+            <Date>2010-02-27 06:34:24</Date>
+            <Timestamp>1267281264</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I don&#039;t use debit card only use credit card cos it&#039;s insured that way</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>omLA9Meqaa</UserId>
+            <UserNick>pure301</UserNick>
+            <Date>2010-02-27 06:34:26</Date>
+            <Timestamp>1267281266</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Paypal and I also use  a &#039;Click and Buy &#039; account  ( for my Itune Purchases)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ylyDSpb7aa</UserId>
+            <UserNick>Sexy Scottish Kool Aid Man</UserNick>
+            <Date>2010-02-27 06:36:34</Date>
+            <Timestamp>1267281394</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:45:29 PDT 2010 -->

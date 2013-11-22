@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226214228AAfrp1F" type="Answered">
+    <Subject>My Firefox Add-Ons disappeared and some websites won&#039;t work either after laptop shutdown failure!?</Subject>
+    <Content>After my stupid laptop battery fell off my laptop, I insert it back in and turned back on. All of a sudden, when Firefox appeared on start-up, All of my Add-ons disappeared and websites like last.fm won&#039;t work when I click the &quot;Add To My Library Button&quot;. Does anybody know the solution to this issue? My computer is a Windows Vista 7 and I also tried finding files:extensions.ini, extensions.cache and extensions.rdf, but they are nowhere in my Firefox directory. Especially with Hidden Files and Folders enabled. I am also too lazy to reinstall my add-ons and extensions.
+</Content>
+    <Date>2010-02-26 21:42:28</Date>
+    <Timestamp>1267249348</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226214228AAfrp1F</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Y5bCYdeyaa</UserId>
+    <UserNick>Anonymous</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if your still not sure on what to do
+then go to your local computer store and get them to look at it and fix it for you</ChosenAnswer>
+    <ChosenAnswererId>JuJTnZSDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dennis PC Repairs</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267253619</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267768963</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>if your still not sure on what to do
+then go to your local computer store and get them to look at it and fix it for you</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JuJTnZSDaa</UserId>
+            <UserNick>Dennis PC Repairs</UserNick>
+            <Date>2010-02-26 22:53:39</Date>
+            <Timestamp>1267253619</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:47:07 PDT 2010 -->

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306025212AAOc5Fh" type="Answered">
+    <Subject>WPA2-PSK to WEP??? help please!!?</Subject>
+    <Content>so i bought a d-link router and recently found out that the key type it is using is WPA2-PSK... which my nds cannot read... (my nds reads WEP keys only...) so i cant use the wifi... does anyone know how to convert WPA2-PSK to WEP? please help :D
+</Content>
+    <Date>2010-03-06 02:52:12</Date>
+    <Timestamp>1267872732</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306025212AAOc5Fh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iV5Yehs9aa</UserId>
+    <UserNick>piplup cutie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There is nothing wrong with your router and you can change security settings from WPA to WEP. 
+I think ( Wi-Fi Protected Access) WPA2-PSK is default security setting in your d-link router,check through the SET UP configuration in your router and change security from WPA2 to WEP.
+
+have a nice time.</ChosenAnswer>
+    <ChosenAnswererId>s3Peq5Kdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gizmoz Optimizer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267874146</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268048333</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There is nothing wrong with your router and you can change security settings from WPA to WEP. 
+I think ( Wi-Fi Protected Access) WPA2-PSK is default security setting in your d-link router,check through the SET UP configuration in your router and change security from WPA2 to WEP.
+
+have a nice time.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>s3Peq5Kdaa</UserId>
+            <UserNick>Gizmoz Optimizer</UserNick>
+            <Date>2010-03-06 03:15:46</Date>
+            <Timestamp>1267874146</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:50:31 PDT 2010 -->

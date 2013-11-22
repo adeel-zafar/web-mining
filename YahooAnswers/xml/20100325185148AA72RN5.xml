@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325185148AA72RN5" type="Answered">
+    <Subject>Is amazon&#039;s estimation of package arrival usually correct?</Subject>
+    <Content>I recently bought something from amazon. Underneath the check my orders section, you can track you package and see when it will arrive. Is this estimate usually pretty accurate?
+</Content>
+    <Date>2010-03-25 18:51:48</Date>
+    <Timestamp>1269568308</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325185148AA72RN5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jACVJsG3aa</UserId>
+    <UserNick>youknowwho</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes I believe Amazon is 3 to 5 working business days.
+
+By that, they mean that does not include weekends or Bank Holidays.</ChosenAnswer>
+    <ChosenAnswererId>WeZcSZvKaa</ChosenAnswererId>
+    <ChosenAnswererNick>sewrobb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269569468</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270087679</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes I believe Amazon is 3 to 5 working business days.
+
+By that, they mean that does not include weekends or Bank Holidays.</Content>
+            <Reference>Experienced1</Reference>
+            <Best>5</Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-25 19:11:08</Date>
+            <Timestamp>1269569468</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes normally I have had things delivered this way and I have found that they are Pretty accurate I hope this helps you</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>9qWybnESaa</UserId>
+            <UserNick>BRIAN M</UserNick>
+            <Date>2010-03-25 19:11:13</Date>
+            <Timestamp>1269569473</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes, i have had good experence with amazon. excluding weekends and bank holidays</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Q1VnBRDHaa</UserId>
+            <UserNick>Tom</UserNick>
+            <Date>2010-03-26 03:02:14</Date>
+            <Timestamp>1269597734</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:29:36 PDT 2010 -->

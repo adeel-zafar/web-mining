@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320175730AAEqMIn" type="Answered">
+    <Subject>Internet keeps cutting out?</Subject>
+    <Content>I got a new modem from Optus (I&#039;m in Australia).
+It works fine until the computer goes onto standby i.e. when you don&#039;t use it for a while and the screen goes black.
+When I go back to computer, I have to restart to re-establish internet connection.
+Any ideas?
+</Content>
+    <Date>2010-03-20 17:57:30</Date>
+    <Timestamp>1269133050</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320175730AAEqMIn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BN56MFskaa</UserId>
+    <UserNick>luditess</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a1548fdi667zul7sp1/GJ7kLHQ8fqoN.n227Vc-/1/tn48.jpg?ciAAToMBM.M7iiPK</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you have Windows Vista/7 You should do an internet diagnostic test next time it happens that should help you solve the problem. If you don&#039;t have Windows Vista/7. Call Optus and tell them to send IT out to help you. Hope this helps</ChosenAnswer>
+    <ChosenAnswererId>FaS4dzJWaa</ChosenAnswererId>
+    <ChosenAnswererNick>answerking</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269133295</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270234989</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you have Windows Vista/7 You should do an internet diagnostic test next time it happens that should help you solve the problem. If you don&#039;t have Windows Vista/7. Call Optus and tell them to send IT out to help you. Hope this helps</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FaS4dzJWaa</UserId>
+            <UserNick>answerking</UserNick>
+            <Date>2010-03-20 18:01:35</Date>
+            <Timestamp>1269133295</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi Luditess,
+
+If you are using Windows 7 you may want to try check the network card properties in Device Manager. Navigate to power management and make sure any fields relating to &quot;allow the computer to turn off this device to save power&quot; are unchecked. 
+
+If this is still happening after you have tried the above, send through your details via http://bit.ly/OPTUS and we can look into it for you.
+
+Cheers,
+
+David Cacchione
+Optus Social Media Response Team</Content>
+            <Reference>http://bit.ly/OPTUS</Reference>
+            <Best></Best>
+            <UserId>47K8ylMjaa</UserId>
+            <UserNick>SingtelOptus</UserNick>
+            <Date>2010-03-21 18:54:43</Date>
+            <Timestamp>1269222883</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:49 PDT 2010 -->

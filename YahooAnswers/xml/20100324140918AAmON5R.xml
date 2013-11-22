@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324140918AAmON5R" type="Answered">
+    <Subject>Why does my laptops Firefox browser keep saying Problem Loading Page &amp; Server Not Found?</Subject>
+    <Content>Odd times, one minute its fine, next it isn&#039;t. I go on my internet connection settings, and it says that i&#039;am connected. Four bars out of five. And it seems fine, yet when I want to go on the site, it says Problem Loading Page and Server Not Found. Please help, it has happened when I want to ask these quesitions as well. Thanks : )
+</Content>
+    <Date>2010-03-24 14:09:18</Date>
+    <Timestamp>1269464958</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324140918AAmON5R</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1rE82bHMaa</UserId>
+    <UserNick>twentynine6</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1XGMOT7vbAAEC_IFHeE8Je7cB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Have you tried uninstalling Firefox then install the latest version from their web site?</ChosenAnswer>
+    <ChosenAnswererId>gexWOF5kaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tepee</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269465270</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269984514</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I have no clue. I had Firefox. I hated it, it ran slowly. So I went to Google.com and downloaded Google chrome. It works really fast. Just don&#039;t be all freaked out cause&#039; it looks different. It works really well.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OTtsOUa3aa</UserId>
+            <UserNick>Gabby</UserNick>
+            <Date>2010-03-24 14:12:00</Date>
+            <Timestamp>1269465120</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Have you tried uninstalling Firefox then install the latest version from their web site?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gexWOF5kaa</UserId>
+            <UserNick>Ted P</UserNick>
+            <Date>2010-03-24 14:14:30</Date>
+            <Timestamp>1269465270</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:25 PDT 2010 -->

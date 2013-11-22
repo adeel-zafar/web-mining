@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224144246AAJvIjS" type="Answered">
+    <Subject>This is about avast anti virus....in virus chest, i need to restore files or delete them.?</Subject>
+    <Content>all chest files seem no virus after i scan them,and on virus description,its say no virus..so,i need restore them or delete them..im worried becoz they are system files.if i trying to delete them,it&#039;s has any effect to my computer..please i really need ur help.. restore or delete..in avast antivirus,it&#039;s better to repair or delete files??till now,,i just trying to delete them becoz my friend already told me,if i tried to repair them,maybe virus still in my computer...
+</Content>
+    <Date>2010-02-24 14:42:46</Date>
+    <Timestamp>1267051366</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224144246AAJvIjS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6w5yfeA2aa</UserId>
+    <UserNick>Bubble</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com/anti-virus-avira-avg-computer-tips.html</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267112406</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267113155</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>well i am an avast user and i scan them often if they are ok i restore them i have not had a problem and my computer used to get infected all the time before i intstall avast</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qYG9vDNDaa</UserId>
+            <UserNick>Andres</UserNick>
+            <Date>2010-02-24 15:09:44</Date>
+            <Timestamp>1267052984</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com/anti-virus-avira-avg-computer-tips.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>?</UserNick>
+            <Date>2010-02-25 07:40:06</Date>
+            <Timestamp>1267112406</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:13:18 PDT 2010 -->

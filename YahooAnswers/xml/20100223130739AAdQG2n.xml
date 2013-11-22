@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223130739AAdQG2n" type="Answered">
+    <Subject>Is there anyway to limit searches (trending topics,etc.) to just followers instead of ALL of Twitter users?</Subject>
+    <Content>Every time I type something into the search box on Twitter, ALL of Twitter users come up talking about that something where I just want to see what my friends (followers) think. It gets annoying really. 
+
+Is it possible?
+</Content>
+    <Date>2010-02-23 13:07:39</Date>
+    <Timestamp>1266959259</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223130739AAdQG2n</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SSPfAJxTaa</UserId>
+    <UserNick>Cassandra♥</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1fORF-pnGAAEEQqFphBMMKmCnbNJVug==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hello
+On this page you&#039;ll get
+the requested information.
+
+http://www.webdesignerdepot.com/2009/03/the-ultimate-guide-for-everything-twitter/</ChosenAnswer>
+    <ChosenAnswererId>dSaDG765aa</ChosenAnswererId>
+    <ChosenAnswererNick>ԃДɳїƐԼ ԃüֆƐɳՇЯїƐβ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267295533</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267478743</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hello
+On this page you&#039;ll get
+the requested information.
+
+http://www.webdesignerdepot.com/2009/03/the-ultimate-guide-for-everything-twitter/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dSaDG765aa</UserId>
+            <UserNick>ԃДɳїƐԼ ԃüֆƐɳՇЯїƐβ</UserNick>
+            <Date>2010-02-27 10:32:13</Date>
+            <Timestamp>1267295533</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:19:28 PDT 2010 -->

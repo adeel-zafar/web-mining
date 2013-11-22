@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223154538AAtI3fD" type="Answered">
+    <Subject>I seem to have a problem with the website Lockerz?</Subject>
+    <Content>I wanna watch the videos but when I click on it, its black. Nothing shows up. I watched a video like 2 days ago and it was working fine but today I dont know what happened.
+</Content>
+    <Date>2010-02-23 15:45:38</Date>
+    <Timestamp>1266968738</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223154538AAtI3fD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dbnCqxmtaa</UserId>
+    <UserNick>Red Hart</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b81892bi70azul5re4/8V4ULTY6bLXuRGqSfHZjMWhTupyj/1/tn48.jpg?ciAAToMBSBkUMmtf</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The site uses Macromedia to stream video. Port 1935. Make sure your firewall allows that port open.
+I watched the intro video with no lag or problems. Maybe the site&#039;s server was just busy when you tried it.</ChosenAnswer>
+    <ChosenAnswererId>mLs3rMnKaa</ChosenAnswererId>
+    <ChosenAnswererNick>David N</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266969398</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267814699</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The site uses Macromedia to stream video. Port 1935. Make sure your firewall allows that port open.
+I watched the intro video with no lag or problems. Maybe the site&#039;s server was just busy when you tried it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mLs3rMnKaa</UserId>
+            <UserNick>David N</UserNick>
+            <Date>2010-02-23 15:56:38</Date>
+            <Timestamp>1266969398</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:18:15 PDT 2010 -->

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305150931AAHzae4" type="Answered">
+    <Subject>My computer had a virus, now a lot of files won&#039;t open.?</Subject>
+    <Content>I had a virus on my computer. When I finally got rid of the virus, the computer wouldn&#039;t open a lot of my .exe files. I have to look each one up and &quot;open with.&quot; I&#039;ve tried to go to a few places in control panel to fix it, but some things in control panel won&#039;t open. It&#039;ll say rundll32 error or couldn&#039;t find association with file. My computer is a Dell laptop and it&#039;s Windows Vista. Please help, this is very frustrating.
+</Content>
+    <Date>2010-03-05 15:09:31</Date>
+    <Timestamp>1267830571</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305150931AAHzae4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NwkyCjBKaa</UserId>
+    <UserNick>Charlotte</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>That sounds like one effect of the Vista Antispyware 2010 malware (among other aliases) that&#039;s rampant right now. Two points about it:
+
+First, this procedure might fix the problem with not being able to run programs:
+
+1.Click the Start-&gt;Run menu item.
+2.In the text box, enter 
+
+cmd
+
+and press Enter.
+
+3.In the “Black Box”, enter
+
+ASSOC  .exe=exefile
+
+and press Enter.
+
+
+Second, look at these two links (Warning:  they&#039;re rather techie):
+
+http://www.myantispyware.com/2010/01/28/how-to-remove-vista-antispyware-2010-vista-antivirus-2010-vista-guardian/
+
+http://deletemalware.blogspot.com/2010/01/how-to-remove-vista-antispyware-2010.html
+
+Good luck.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267831275</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268350069</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try a registry cleaner... sounds like a reg problem (CCleaner is good/free)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>i8rf5lbjaa</UserId>
+            <UserNick>Sam B</UserNick>
+            <Date>2010-03-05 15:15:44</Date>
+            <Timestamp>1267830944</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That sounds like one effect of the Vista Antispyware 2010 malware (among other aliases) that&#039;s rampant right now. Two points about it:
+
+First, this procedure might fix the problem with not being able to run programs:
+
+1.Click the Start-&gt;Run menu item.
+2.In the text box, enter 
+
+cmd
+
+and press Enter.
+
+3.In the “Black Box”, enter
+
+ASSOC  .exe=exefile
+
+and press Enter.
+
+
+Second, look at these two links (Warning:  they&#039;re rather techie):
+
+http://www.myantispyware.com/2010/01/28/how-to-remove-vista-antispyware-2010-vista-antivirus-2010-vista-guardian/
+
+http://deletemalware.blogspot.com/2010/01/how-to-remove-vista-antispyware-2010.html
+
+Good luck.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-05 15:21:15</Date>
+            <Timestamp>1267831275</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:55:15 PDT 2010 -->

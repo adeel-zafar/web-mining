@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319144817AAFmkbq" type="Answered">
+    <Subject>Is there a website where you can write down what you think about someone?</Subject>
+    <Content>Anonymous of course, you won&#039;t say their name. Or if you are really mad. A place to release your anger and just get everything off your chest.
+</Content>
+    <Date>2010-03-19 14:48:17</Date>
+    <Timestamp>1269035297</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319144817AAFmkbq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vuoYegqnaa</UserId>
+    <UserNick>Blah Blah Blah™</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b9fbab3i89czws122ac4/0LRrnTUmcqqah56CgdrBDG_Eew--/4/tn48.jpeg?ciAAToMBv65kd7lR</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://mashable.com/2008/03/09/vent-your-anger/ &lt;&lt; It has a list of all the sites that you can vent your feelings and get everything off your chest. Just make sure you follow the rules.</ChosenAnswer>
+    <ChosenAnswererId>OzTw6ow0aa</ChosenAnswererId>
+    <ChosenAnswererNick>jomags</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269035928</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269071567</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://omegle.com/
+
+It connects you with a random stranger and you can chat.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IsO2GrUpaa</UserId>
+            <UserNick>Poof! It&#039;s gone</UserNick>
+            <Date>2010-03-19 14:49:09</Date>
+            <Timestamp>1269035349</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://mashable.com/2008/03/09/vent-your-anger/ &lt;&lt; It has a list of all the sites that you can vent your feelings and get everything off your chest. Just make sure you follow the rules.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OzTw6ow0aa</UserId>
+            <UserNick>jomags</UserNick>
+            <Date>2010-03-19 14:58:48</Date>
+            <Timestamp>1269035928</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:52 PDT 2010 -->

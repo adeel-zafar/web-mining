@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307191617AArKaoX" type="Answered">
+    <Subject>Anyone else having trouble getting surfthechannel.com to open up in Internet Explorer?</Subject>
+    <Content>I&#039;ve tried several times to open the web page. After typing surfthechannel.com into address bar all I get is a blank webpage and the address bar just displays the words about: blank. Any idea what is going on.....has the website shut down?
+</Content>
+    <Date>2010-03-07 19:16:17</Date>
+    <Timestamp>1268018177</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307191617AArKaoX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA12394844</UserId>
+    <UserNick>Lisa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1yj76EZoBAAECVMJTjBPuA8UA.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hello,
+
+It&#039;s working for me, it might have been temporarily down at the time that you attempted to access it; you should probably check your Internet Explorer&#039;s settings to make sure that they are not interfearing with the website.
+
+Regards,
+New York City Police Department
+NYPD@Hargray.com</ChosenAnswer>
+    <ChosenAnswererId>Bm6DBay9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Gregory Miller</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268092157</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268192777</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hello,
+
+It&#039;s working for me, it might have been temporarily down at the time that you attempted to access it; you should probably check your Internet Explorer&#039;s settings to make sure that they are not interfearing with the website.
+
+Regards,
+New York City Police Department
+NYPD@Hargray.com</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>Bm6DBay9aa</UserId>
+            <UserNick>New York City Police Department</UserNick>
+            <Date>2010-03-08 15:49:17</Date>
+            <Timestamp>1268092157</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:36:04 PDT 2010 -->

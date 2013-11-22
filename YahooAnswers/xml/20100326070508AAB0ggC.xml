@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326070508AAB0ggC" type="Answered">
+    <Subject>Mobile broadband any good?</Subject>
+    <Content>Hello , could someone tell me whether mobile broadband is any good? 
+I mean that you connect something like a USB/dongle into your laptop, how is the speed and service? 
+Thanks
+</Content>
+    <Date>2010-03-26 07:05:08</Date>
+    <Timestamp>1269612308</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326070508AAB0ggC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XwOvcWNhaa</UserId>
+    <UserNick>Pixie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>See man, there are two types of USB modems.
+One, which works with edge network. It will provide you download speeds varying between 10 to 25 kbps. 
+The second one works with cdma 3g network, it will provide you a download speed varying between 50 to 200 kbps.
+
+The speed varies according to the time of the day you use it in.
+They provide you instant connectivity anywhere, where mobile network is available.</ChosenAnswer>
+    <ChosenAnswererId>znM4RCw2aa</ChosenAnswererId>
+    <ChosenAnswererNick>singhnsk</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269612786</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269630150</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Reliance NetConnect
+Tata Photon
+Tata Photon+</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>a1dbccd39e8c32d3b8bc2e5021ce4b6baa</UserId>
+            <UserNick>Dinesh Peter</UserNick>
+            <Date>2010-03-26 07:07:30</Date>
+            <Timestamp>1269612450</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>click on this link for some good advice
+
+
+http://www.bestmobilebroadband.co.uk/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bPOIGkpKaa</UserId>
+            <UserNick>Alex</UserNick>
+            <Date>2010-03-26 07:10:12</Date>
+            <Timestamp>1269612612</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>See man, there are two types of USB modems.
+One, which works with edge network. It will provide you download speeds varying between 10 to 25 kbps. 
+The second one works with cdma 3g network, it will provide you a download speed varying between 50 to 200 kbps.
+
+The speed varies according to the time of the day you use it in.
+They provide you instant connectivity anywhere, where mobile network is available.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>znM4RCw2aa</UserId>
+            <UserNick>singhnsk</UserNick>
+            <Date>2010-03-26 07:13:06</Date>
+            <Timestamp>1269612786</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:27:28 PDT 2010 -->

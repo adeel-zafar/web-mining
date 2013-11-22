@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224191717AAdpXci" type="Answered">
+    <Subject>Blocking on Formspring.me?</Subject>
+    <Content>I learned that by clicking the &quot;Spam&quot; button on a question on Formspring, it apparently will block the person (or so the site says).  I was wondering if anyone knew if this holds true even if the user is anonymous?  Will it block their IP address or something?
+
+Thanks!
+</Content>
+    <Date>2010-02-24 19:17:17</Date>
+    <Timestamp>1267067837</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224191717AAdpXci</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Xkd1MEvhaa</UserId>
+    <UserNick>SpiffyMuffin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>It will block the IP address. When they try to ask another question, it wills say invalid request - to make it look like it&#039;s just an error and they are not blocked.
+They can unblock themselves by resetting their internet or going on another computer.
+
+When they ask non-anonymous then it blocks their username.
+
+When they ask anonymous, it blocks their IP because other than that their is no way to identify them.</ChosenAnswer>
+    <ChosenAnswererId>w1J2kECdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Billy Rowe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267068012</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267250988</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It will block the IP address. When they try to ask another question, it wills say invalid request - to make it look like it&#039;s just an error and they are not blocked.
+They can unblock themselves by resetting their internet or going on another computer.
+
+When they ask non-anonymous then it blocks their username.
+
+When they ask anonymous, it blocks their IP because other than that their is no way to identify them.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>w1J2kECdaa</UserId>
+            <UserNick>Billy Rowe</UserNick>
+            <Date>2010-02-24 19:20:12</Date>
+            <Timestamp>1267068012</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>w1J2kECdaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-02-26 22:22:08</Date>
+            <Timestamp>1267068012</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:11:51 PDT 2010 -->

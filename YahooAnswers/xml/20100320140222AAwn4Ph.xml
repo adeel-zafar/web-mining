@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320140222AAwn4Ph" type="Answered">
+    <Subject>Does anyone know of a free web hosting service that lets me use python?</Subject>
+    <Content>I don&#039;t need Django (it might be nice, but it&#039;s not necessary) but I don&#039;t want the provider to put ads on my page. I&#039;d like to be able to use Google Adsense and have my python scripts maintain the site (using mysql) but apart from that, I don&#039;t have any other requirements. Thanks for the help!
+EDIT:  Also, I own several top level domains that I would like to use. I&#039;ve tried HelioHost, but it&#039;s terrible in terms of customer service and I don&#039;t plan on going back to them again. Thanks!
+</Content>
+    <Date>2010-03-20 14:02:22</Date>
+    <Timestamp>1269118942</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320140222AAwn4Ph</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>t6qQ44braa</UserId>
+    <UserNick>Python</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i dont know that many site but you should look around like yahoo search i know is pain to search sometimes</ChosenAnswer>
+    <ChosenAnswererId>fsnMkDGuaa</ChosenAnswererId>
+    <ChosenAnswererNick>peg_sey</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269119076</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269394525</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i dont know that many site but you should look around like yahoo search i know is pain to search sometimes</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>fsnMkDGuaa</UserId>
+            <UserNick>peg_sey</UserNick>
+            <Date>2010-03-20 14:04:36</Date>
+            <Timestamp>1269119076</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:34 PDT 2010 -->

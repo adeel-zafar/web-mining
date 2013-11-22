@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401160702AAcD2cc" type="Answered">
+    <Subject>please help big (well little) problem with IE!?</Subject>
+    <Content>I have no idea what I pressed, the entire webpage of tab i was in just got extremely microsized! the only reason I can even type this is because a had other tabs already open. any other tab i open now, I cant even see what im writing. can some please help quick??!
+</Content>
+    <Date>2010-04-01 16:07:02</Date>
+    <Timestamp>1270163222</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401160702AAcD2cc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LQFmrNF8aa</UserId>
+    <UserNick>Bmore</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1me6-O4mwAAEE_OFV7JYplMomozoF.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>[Ctrl] + [+]</ChosenAnswer>
+    <ChosenAnswererId>JTkhk3zSaa</ChosenAnswererId>
+    <ChosenAnswererNick>sαoяi oɀαωα™</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270163458</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270185769</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>get firefox or something else IE sucks</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>b9KaHUUkaa</UserId>
+            <UserNick>BallBreaker</UserNick>
+            <Date>2010-04-01 16:10:39</Date>
+            <Timestamp>1270163439</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>[Ctrl] + [+]</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JTkhk3zSaa</UserId>
+            <UserNick>sαoяi oɀαωα™</UserNick>
+            <Date>2010-04-01 16:10:58</Date>
+            <Timestamp>1270163458</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:17 PDT 2010 -->

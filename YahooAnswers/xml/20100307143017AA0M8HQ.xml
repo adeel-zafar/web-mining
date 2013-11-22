@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307143017AA0M8HQ" type="Answered">
+    <Subject>What&#039;s the point of FormSpring and why is it getting so popular?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-07 14:30:17</Date>
+    <Timestamp>1268001017</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307143017AA0M8HQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Vr6IthZlaa</UserId>
+    <UserNick>Elizabeth</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1X49mmBQuAAEB92Ha_cX2iUEB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I don&#039;t know but I think its for you to get to know your friends better.</ChosenAnswer>
+    <ChosenAnswererId>nQ6hyZzQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gabi XD</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268001114</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269307434</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can ask people questions you always wanted to ask anonymously. =]</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wuUNBkxmaa</UserId>
+            <UserNick>Amor</UserNick>
+            <Date>2010-03-07 14:31:24</Date>
+            <Timestamp>1268001084</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Its like the website where people call other people whores and skanks. Its RETARTED. Don&#039;t bother getting one, trust me.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BUXDOjPhaa</UserId>
+            <UserNick>gimpsterrrx</UserNick>
+            <Date>2010-03-07 14:31:28</Date>
+            <Timestamp>1268001088</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I don&#039;t know but I think its for you to get to know your friends better.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nQ6hyZzQaa</UserId>
+            <UserNick>Gabi XD</UserNick>
+            <Date>2010-03-07 14:31:54</Date>
+            <Timestamp>1268001114</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:38:12 PDT 2010 -->

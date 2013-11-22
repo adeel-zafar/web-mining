@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308094903AAFX7vn" type="Answered">
+    <Subject>How to join LookBook?</Subject>
+    <Content>I&#039;m a big fan of lookbook and I would love to submit some of my own ideas but I heard you need some special code?
+How do you join?
+</Content>
+    <Date>2010-03-08 09:49:03</Date>
+    <Timestamp>1268070543</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308094903AAFX7vn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9eu2Tsv4aa</UserId>
+    <UserNick>SwissCheese</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can always get working LOOKBOOK invite codes here:
+
+http://cgi.ebay.com.au/LOOKBOOK-INVITATION-CODE-LOOKBOOK-NU-FASHION-MEMBERSHIP_W0QQitemZ220570169028QQcmdZViewItemQQptZLH_DefaultDomain_15?hash=item335b01aec4#ht_761wt_1165</ChosenAnswer>
+    <ChosenAnswererId>uEohK4d3aa</ChosenAnswererId>
+    <ChosenAnswererNick>lookbookfan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268359866</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268586359</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>lookbook.nu/apply
+
+if you don&#039;t have a special code you can simply apply ^^</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FEW71obgaa</UserId>
+            <UserNick>all that jazz</UserNick>
+            <Date>2010-03-08 18:49:09</Date>
+            <Timestamp>1268102949</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can always get working LOOKBOOK invite codes here:
+
+http://cgi.ebay.com.au/LOOKBOOK-INVITATION-CODE-LOOKBOOK-NU-FASHION-MEMBERSHIP_W0QQitemZ220570169028QQcmdZViewItemQQptZLH_DefaultDomain_15?hash=item335b01aec4#ht_761wt_1165</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>uEohK4d3aa</UserId>
+            <UserNick>lookbookfan</UserNick>
+            <Date>2010-03-11 18:11:06</Date>
+            <Timestamp>1268359866</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:32:18 PDT 2010 -->

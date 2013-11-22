@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313125352AAlExJy" type="Answered">
+    <Subject>Do you prefer tabbed conversations in messenger plus or not?</Subject>
+    <Content>Why?
+</Content>
+    <Date>2010-03-13 12:53:52</Date>
+    <Timestamp>1268513632</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313125352AAlExJy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2ejWxoyXaa</UserId>
+    <UserNick>=]</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a82b621i64fzul5re4/JCLNR683d68i7ZvoDIQcbt8-/1/tn48.jpg?ciAAToMBnqpfi0.r</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>they&#039;re ok once you get used to them</ChosenAnswer>
+    <ChosenAnswererId>ER2mqItNaa</ChosenAnswererId>
+    <ChosenAnswererNick>:P</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269094563</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269094660</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>they&#039;re ok once you get used to them</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>ER2mqItNaa</UserId>
+            <UserNick>:P</UserNick>
+            <Date>2010-03-20 07:16:03</Date>
+            <Timestamp>1269094563</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:03:35 PDT 2010 -->

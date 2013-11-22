@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324132724AAAqPgF" type="Answered">
+    <Subject>Has Richard Dawkins.net forums gone down again? (forum members and those with experience on it, please)?</Subject>
+    <Content>Hi, I am trying to get onto the richard dawkins.net forums, it&#039;s fine until I click on the link on Google and then the page goes blank, it doesn&#039;t load anything, yesterday it didn&#039;t let me post or quote anything. So has the forums gone down again?
+</Content>
+    <Date>2010-03-24 13:27:24</Date>
+    <Timestamp>1269462444</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324132724AAAqPgF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GLIaS8DNaa</UserId>
+    <UserNick>Michael</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb0bee7i286dzws130ac4/06.zv5g8cqUuL0oOPl9usnWninPz73a__Sl460h_Mj.7x2Sy/2/tn48.jpeg?ciAAToMBcrwDIehY</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>I&#039;m having the same trouble! The admin need to at least get a notice up on the front page to let people know.</ChosenAnswer>
+    <ChosenAnswererId>s1SVTtWbaa</ChosenAnswererId>
+    <ChosenAnswererNick>The Cranky Hominid</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269481897</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269596816</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m having the same trouble! The admin need to at least get a notice up on the front page to let people know.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>s1SVTtWbaa</UserId>
+            <UserNick>The Cranky Hominid</UserNick>
+            <Date>2010-03-24 18:51:37</Date>
+            <Timestamp>1269481897</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>GLIaS8DNaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-30 05:44:25</Date>
+            <Timestamp>1269481897</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:37 PDT 2010 -->

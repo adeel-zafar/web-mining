@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303232010AASBq5v" type="Answered">
+    <Subject>some of my sites can&#039;t open !!?</Subject>
+    <Content>i suffer from a problem that some sites i try to look for can&#039;t open but on the same laptop with other network it opens normally such as www.arabbank.ps
+</Content>
+    <Date>2010-03-03 23:20:10</Date>
+    <Timestamp>1267687210</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303232010AASBq5v</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>228dd48cf64b44a0a3b5e5febc2fd11baa</UserId>
+    <UserNick>Anas.R.H</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well this is because your computer have a Protected Mode On, on the right bottom where it says Protected Mode click twice it will show you a window, you have to put the level on medium high to let you see the website.</ChosenAnswer>
+    <ChosenAnswererId>5pC59eqFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Adrian</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267687936</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268206384</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well this is because your computer have a Protected Mode On, on the right bottom where it says Protected Mode click twice it will show you a window, you have to put the level on medium high to let you see the website.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5pC59eqFaa</UserId>
+            <UserNick>Adrian</UserNick>
+            <Date>2010-03-03 23:32:16</Date>
+            <Timestamp>1267687936</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:13:00 PDT 2010 -->

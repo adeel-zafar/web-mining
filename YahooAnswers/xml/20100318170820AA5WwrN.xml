@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318170820AA5WwrN" type="Answered">
+    <Subject>I lost a taskbar (History, View, File, Bookmarks, Tools, etc.) all on the same bar.?</Subject>
+    <Content>Since losing the bar, I can&#039;t click on to bring it back, like I now can&#039;t get into options and all my bookmarks. Please help. Thank you. If you can help, explane it slow and easy read directions. Again thanks. Robert
+</Content>
+    <Date>2010-03-18 17:08:20</Date>
+    <Timestamp>1268957300</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318170820AA5WwrN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5bb5026e6cdc99b298bdd0094f292679aa</UserId>
+    <UserNick>robert f</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You may have gone into full-screen mode.  Try pressing the F11 key to get out of it.
+
+Hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268957929</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269476841</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You may have gone into full-screen mode.  Try pressing the F11 key to get out of it.
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-18 17:18:49</Date>
+            <Timestamp>1268957929</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:37:59 PDT 2010 -->

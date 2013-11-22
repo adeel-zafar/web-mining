@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329031238AAXJhqE" type="Answered">
+    <Subject>I am having an irritating problem with my Internet.  (Please see below).?</Subject>
+    <Content>It doesn&#039;t matter which search engine I use (yahoo, google, msn etc) when I click on something for example Barclays Bank, the page always redirects to something different, I then have to click &quot;back&quot; to the search engine and click on Barclays for a second time, then it goes to the correct page. I have defragged the laptop, ccleaned it, virus and malware scanned it (no problems are reported) and nothing seems to work. Any suggestions? Thanks!
+</Content>
+    <Date>2010-03-29 03:12:38</Date>
+    <Timestamp>1269857558</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329031238AAXJhqE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1771f0f24b90f964eee831c96eb1a6f6aa</UserId>
+    <UserNick>plank</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sounds like a browser hijack</ChosenAnswer>
+    <ChosenAnswererId>oE3PGohzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jamie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269857643</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270049337</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sounds like a browser hijack</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>oE3PGohzaa</UserId>
+            <UserNick>Jamie</UserNick>
+            <Date>2010-03-29 03:14:03</Date>
+            <Timestamp>1269857643</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Do them as saved cookies / favourites instead when you have got to the correct page</Content>
+            <Reference>dukebawkes</Reference>
+            <Best></Best>
+            <UserId>MVH91rF7aa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-29 03:15:24</Date>
+            <Timestamp>1269857724</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Look in your installed programmes there may be a browser add on appeared that is interfering with your browser</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Nxa7zI67aa</UserId>
+            <UserNick>Alan!!!</UserNick>
+            <Date>2010-03-29 03:19:29</Date>
+            <Timestamp>1269857969</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>check for a pop-up blocker</Content>
+            <Reference>ww3.leadhoster.com</Reference>
+            <Best></Best>
+            <UserId>DLEcV2Wbaa</UserId>
+            <UserNick>Lufias</UserNick>
+            <Date>2010-03-29 05:05:28</Date>
+            <Timestamp>1269864328</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:16:37 PDT 2010 -->

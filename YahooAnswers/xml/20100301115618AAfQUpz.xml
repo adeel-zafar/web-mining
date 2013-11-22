@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301115618AAfQUpz" type="Answered">
+    <Subject>how to i view historical content of a website?</Subject>
+    <Content>ive lost the site that lets you see a website in the past (how is was present and content at the time) , i supposed like getting back issues, so for example i could visit www.abc.com on 1st jan 2010 1st jan 2009 1st jan 2008 etc. if anyone can help that would be great, its kind of annoying me that i cant remember, thanks
+</Content>
+    <Date>2010-03-01 11:56:18</Date>
+    <Timestamp>1267473378</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301115618AAfQUpz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11076543</UserId>
+    <UserNick>ironfever</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Browse through over 150 billion web pages archived from 1996 to a few months ago. To start surfing the Wayback, type in the web address of a site or page where you would like to start, and press enter. Then select from the archived dates available. The resulting pages point to other archived pages at as close a date as possible. Keyword searching is not currently supported.
+
+http://www.archive.org/web/web.php
+
+The Web&#039;s archive</ChosenAnswer>
+    <ChosenAnswererId>4RwBbfs0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jim C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267473867</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267491282</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Browse through over 150 billion web pages archived from 1996 to a few months ago. To start surfing the Wayback, type in the web address of a site or page where you would like to start, and press enter. Then select from the archived dates available. The resulting pages point to other archived pages at as close a date as possible. Keyword searching is not currently supported.
+
+http://www.archive.org/web/web.php
+
+The Web&#039;s archive</Content>
+            <Reference>http://www.archive.org/web/web.php</Reference>
+            <Best>5</Best>
+            <UserId>4RwBbfs0aa</UserId>
+            <UserNick>Jim C</UserNick>
+            <Date>2010-03-01 12:04:27</Date>
+            <Timestamp>1267473867</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:31:42 PDT 2010 -->

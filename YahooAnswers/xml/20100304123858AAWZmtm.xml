@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304123858AAWZmtm" type="Answered">
+    <Subject>How can I stop woome.com from emailing all my friends?!?</Subject>
+    <Content>How can I stop woome.com from emailing everyone in my gmail address book even after I have deleted my woome account and changed my gmail password?
+</Content>
+    <Date>2010-03-04 12:38:58</Date>
+    <Timestamp>1267735138</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304123858AAWZmtm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JHGedTRBaa</UserId>
+    <UserNick>grahambeale</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49d4fb03ib24z/d6bszGU2aacIyfLQr744n0CRNw--/101/tn48.jpg?ciAAToMBXhoorVQr</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi there, we can definitely help you out. Please login to your WooMe account and create a help ticket in our support forum. We can help you remove all contact information that you entered into the site. 
+
+http://support.woome.com
+
+
+best, 
+Veronica 
+WooMe Community Manager</ChosenAnswer>
+    <ChosenAnswererId>DcsQtBKRaa</ChosenAnswererId>
+    <ChosenAnswererNick>vlectronica</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267822367</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268254634</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>uh its happening even after you deleted your account?
+when you first make an account with anything it says find friends
+and it will go through your address book you may have hit accept
+so now its job is it e-mail your friends and have them also join woome
+id go to the website and get a contact number they might be using your contacts
+to get more hits on their site just give them a call or send an e-mail</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>POY3V1Geaa</UserId>
+            <UserNick>Sammi</UserNick>
+            <Date>2010-03-04 12:51:47</Date>
+            <Timestamp>1267735907</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Is it using the old info or getting the info new from you each time?  If it is using the old info, there isn&#039;t much you can do.  They have the addresses now and will use them as they wish.  
+
+Try adding a new address to your address book.  See if that person gets the woome emails.  If not, they are most likely using the old addresses they got from you when you signed up.  If the new person does get woome emails, you may need to close out thet GMail account and open a new one.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA12042448</UserId>
+            <UserNick>thejanith</UserNick>
+            <Date>2010-03-04 13:38:30</Date>
+            <Timestamp>1267738710</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi there, we can definitely help you out. Please login to your WooMe account and create a help ticket in our support forum. We can help you remove all contact information that you entered into the site. 
+
+http://support.woome.com
+
+
+best, 
+Veronica 
+WooMe Community Manager</Content>
+            <Reference>http://support.woome.com</Reference>
+            <Best>5</Best>
+            <UserId>DcsQtBKRaa</UserId>
+            <UserNick>vlectronica</UserNick>
+            <Date>2010-03-05 12:52:47</Date>
+            <Timestamp>1267822367</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:10:32 PDT 2010 -->

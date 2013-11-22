@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316213714AAfwd3c" type="Answered">
+    <Subject>I have a question about Tumblr/Tumblogs?</Subject>
+    <Content>I have 2 tumblogs.
+I don&#039;t use the 1st one like, at all. My second one, however is pretty popular, and I keep up with it well. I know I can&#039;t delete my 1st one without loosing my 2nd one, so I&#039;m trying to get around this.
+Could I change the name of my first one to the second one, and then delete the second one?
+like Change blog A&#039;s name to blog B, then delete blog B.
+What would be the cons of this?
+</Content>
+    <Date>2010-03-16 21:37:14</Date>
+    <Timestamp>1268800634</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316213714AAfwd3c</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5282c46d37ed4261baa201fca221a8e5aa</UserId>
+    <UserNick>Spongeluv11</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1g9Hv6WT8AAABn2KcNB079hcB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>don&#039;t do it. my friend had the same problem and she did exactly what your trying to do and she lost hundreds of followers!!!! just leave things as they are now!
+
+follow me, reblog me
+http://smokingfish.tumblr.com/</ChosenAnswer>
+    <ChosenAnswererId>XtshWw4Kaa</ChosenAnswererId>
+    <ChosenAnswererNick>Geneinde T</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268832466</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268862050</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No you cannot at this time.
+
+(From the Tumblr FAQ page):
+Can I change which blog is the default blog for my account? Can I transfer a default blog to another account? Can I delete my default blog?
+Changing the default blog or moving a default blog to another account are not possible at this time. And, you cannot delete the default blog without deleting your entire Tumblr account.</Content>
+            <Reference>http://www.tumblr.com/docs/en/faqs
+http://ohsix2twice.tumblr.com/</Reference>
+            <Best></Best>
+            <UserId>X9nZYJBlaa</UserId>
+            <UserNick>Oh!+6+(2x2)=?</UserNick>
+            <Date>2010-03-16 22:33:57</Date>
+            <Timestamp>1268804037</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>don&#039;t do it. my friend had the same problem and she did exactly what your trying to do and she lost hundreds of followers!!!! just leave things as they are now!
+
+follow me, reblog me
+http://smokingfish.tumblr.com/</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>XtshWw4Kaa</UserId>
+            <UserNick>Geneinde T</UserNick>
+            <Date>2010-03-17 06:27:46</Date>
+            <Timestamp>1268832466</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:46:15 PDT 2010 -->

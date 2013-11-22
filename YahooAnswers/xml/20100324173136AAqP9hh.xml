@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324173136AAqP9hh" type="Answered">
+    <Subject>MY QUESTIONS ARE MISSING ON FORMSPRING.ME?</Subject>
+    <Content>I answered some questions recently and they wont show up on my profile. Does anyone know why?
+</Content>
+    <Date>2010-03-24 17:31:36</Date>
+    <Timestamp>1269477096</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324173136AAqP9hh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CfZyd4aLaa</UserId>
+    <UserNick>snickel</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1WOLZQgiIAAECQCGcuBQOum0B.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>there already answered but formspring is being a bit slow so they will take a while to show up, just wait.</ChosenAnswer>
+    <ChosenAnswererId>hXNk8Q4Qaa</ChosenAnswererId>
+    <ChosenAnswererNick>missmaydusa</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269484387</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269996476</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>SAME
+i dont understand why!
+formspring is so ANNOYING. &gt;:[]</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DHdMZAI8aa</UserId>
+            <UserNick>i need answers !</UserNick>
+            <Date>2010-03-24 18:18:45</Date>
+            <Timestamp>1269479925</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>there already answered but formspring is being a bit slow so they will take a while to show up, just wait.</Content>
+            <Reference>i have the same problem</Reference>
+            <Best>5</Best>
+            <UserId>hXNk8Q4Qaa</UserId>
+            <UserNick>missmaydusa</UserNick>
+            <Date>2010-03-24 19:33:07</Date>
+            <Timestamp>1269484387</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:33:30 PDT 2010 -->

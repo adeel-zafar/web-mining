@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318165422AAll3eM" type="Answered">
+    <Subject>If I protect my Tweets, does that mean that users who I &#039;reply&#039; to who aren&#039;t following me can&#039;t reply to me?</Subject>
+    <Content>..and if this is the case, how do I sort it out? I like writing on famous people&#039;s tweets but there&#039;s no point if they can&#039;t reply.
+</Content>
+    <Date>2010-03-18 16:54:22</Date>
+    <Timestamp>1268956462</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318165422AAll3eM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nBiG3d3Maa</UserId>
+    <UserNick>Starstruck</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>because your tweets are protected, anything you write won&#039;t be published in the trending topics and people who don&#039;t follow you can&#039;t see what you&#039;re written. so yeah, they won&#039;t see what you replied to them unless they follow you.
+the only way, and the most obvious way, is to unprotect them (your tweets).
+if your tweets are protected because you don&#039;t want a specific person on twitter to see them, just block that person. i don&#039;t think they&#039;ll be able to see them then.
+
+good luck :)</ChosenAnswer>
+    <ChosenAnswererId>hziDFYifaa</ChosenAnswererId>
+    <ChosenAnswererNick>0.0.7.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268957913</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268989547</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>because your tweets are protected, anything you write won&#039;t be published in the trending topics and people who don&#039;t follow you can&#039;t see what you&#039;re written. so yeah, they won&#039;t see what you replied to them unless they follow you.
+the only way, and the most obvious way, is to unprotect them (your tweets).
+if your tweets are protected because you don&#039;t want a specific person on twitter to see them, just block that person. i don&#039;t think they&#039;ll be able to see them then.
+
+good luck :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>hziDFYifaa</UserId>
+            <UserNick>0.0.7.</UserNick>
+            <Date>2010-03-18 17:18:33</Date>
+            <Timestamp>1268957913</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:38:06 PDT 2010 -->

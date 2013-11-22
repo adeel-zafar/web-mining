@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305214641AAj7JUr" type="Answered">
+    <Subject>Wireless internet signal?</Subject>
+    <Content>Usually, the internet signal from my computer allows my laptop to get the internet. Its not doing that today. Other than waiting or contacting someone over the phone, how do I resolve this? I have a few people living here so Im not satisfied with just one computer..
+To the first answer, I have no idea what youre talking about. Please be more visual and descriptive.
+</Content>
+    <Date>2010-03-05 21:46:41</Date>
+    <Timestamp>1267854401</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305214641AAj7JUr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gWsXdKEZaa</UserId>
+    <UserNick>nothingness</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>find the router, look at the back of it and you&#039;ll see a little reset button, most likely you&#039;ll have to use a pen or toothpick to push it. push the reset button and hold it in for about 10-20 seconds until the router lights change color, then give it about 2-3 minutes and try connecting through your laptop then.</ChosenAnswer>
+    <ChosenAnswererId>sKfPCkJkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark G</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267854592</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268373821</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>find the router, look at the back of it and you&#039;ll see a little reset button, most likely you&#039;ll have to use a pen or toothpick to push it. push the reset button and hold it in for about 10-20 seconds until the router lights change color, then give it about 2-3 minutes and try connecting through your laptop then.</Content>
+            <Reference>Me</Reference>
+            <Best>5</Best>
+            <UserId>sKfPCkJkaa</UserId>
+            <UserNick>Mark G</UserNick>
+            <Date>2010-03-05 21:49:52</Date>
+            <Timestamp>1267854592</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:52:17 PDT 2010 -->

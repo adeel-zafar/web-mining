@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302202848AAgFRkw" type="Answered">
+    <Subject>Prove of resell right?</Subject>
+    <Content>There are many sites which offer ebooks with resell right,how can I know it is legitimate so that I can resell them?What&#039;s the prove to show that I have resell right for a book?
+</Content>
+    <Date>2010-03-02 20:28:48</Date>
+    <Timestamp>1267590528</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302202848AAgFRkw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ANpZhDIGaa</UserId>
+    <UserNick>Beck</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>eBooks with resell rights usually come with a license that tells you what you can do and can&#039;t do with the ebooks. If you doubt about the license, you may contact the author to confirm.</ChosenAnswer>
+    <ChosenAnswererId>qW4C9AfLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jeffrey</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267670797</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268110001</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>eBooks with resell rights usually come with a license that tells you what you can do and can&#039;t do with the ebooks. If you doubt about the license, you may contact the author to confirm.</Content>
+            <Reference>www.mrrcentral.com</Reference>
+            <Best>5</Best>
+            <UserId>qW4C9AfLaa</UserId>
+            <UserNick>Jeffrey</UserNick>
+            <Date>2010-03-03 18:46:37</Date>
+            <Timestamp>1267670797</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:22:00 PDT 2010 -->

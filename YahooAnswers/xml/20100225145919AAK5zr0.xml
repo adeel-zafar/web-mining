@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225145919AAK5zr0" type="Answered">
+    <Subject>How to protect pendrive from virus?</Subject>
+    <Content>hai,
+i need to know how to install anti-virus in flash pendrive to protect from the virus and how to make disable auto-play or auto-run in our pc?
+</Content>
+    <Date>2010-02-25 14:59:19</Date>
+    <Timestamp>1267138759</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225145919AAK5zr0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>edCfYHDvaa</UserId>
+    <UserNick>Delicious</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com/anti-virus-avira-avg-computer-tips.html</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267197555</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267198062</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>well. there are things like clamav portable but you can&#039;t have real time protection installed on your jump drive. 
+you just will have to scan in manually from your computer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KOyvuKhOaa</UserId>
+            <UserNick>ItachisXeyes</UserNick>
+            <Date>2010-02-25 15:01:29</Date>
+            <Timestamp>1267138889</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>for the best answer visit http://www.nationwideweb.co.uk</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>mIZeKXByaa</UserId>
+            <UserNick>David</UserNick>
+            <Date>2010-02-25 15:16:16</Date>
+            <Timestamp>1267139776</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I, myself manage this kind of problems by using the antivirus that I have previously installed in my pc.
+When I know that my pen drive may be potentially infected, I&#039;d format it so as to make sure that there are no files within it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>d934d67d9ce421d68babc21f62e1de52aa</UserId>
+            <UserNick>Emmanuel Andres V</UserNick>
+            <Date>2010-02-25 15:24:56</Date>
+            <Timestamp>1267140296</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com/anti-virus-avira-avg-computer-tips.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-02-26 07:19:15</Date>
+            <Timestamp>1267197555</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:35 PDT 2010 -->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223125411AAqffvw" type="Answered">
+    <Subject>how to bring back text you typed?</Subject>
+    <Content>i typed a huge resume and then i accidentally refreshed the page, i was on google chrome and the resume was deleted. the website was boyersfood.com. Is there any program or way to bring back that text i typed about 1 hour ago??
+</Content>
+    <Date>2010-02-23 12:54:11</Date>
+    <Timestamp>1266958451</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223125411AAqffvw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mrHEVDnzaa</UserId>
+    <UserNick>yahoo answers king</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1PgortdyWAAEC_CF8EuB7DA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You cannot bring it back, it&#039;s gone forever. 
+
+In the future, compose your large text files in Word or NotePad or other word processor, then use copy &amp; paste to insert it
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267272155</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267478014</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No.  If information is not saved then the data is lost forever.
+
+The information was stored in your computers RAM.
+
+RAM = Random Access Memory.
+It is volatile memory that holds temporary data.
+It allows your computer to run.
+
+Dane</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>maI66F3Faa</UserId>
+            <UserNick>TaKe.Me.DoWn?_Try.iT!</UserNick>
+            <Date>2010-02-23 12:57:53</Date>
+            <Timestamp>1266958673</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You cannot bring it back, it&#039;s gone forever. 
+
+In the future, compose your large text files in Word or NotePad or other word processor, then use copy &amp; paste to insert it
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-02-27 04:02:35</Date>
+            <Timestamp>1267272155</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:19:42 PDT 2010 -->

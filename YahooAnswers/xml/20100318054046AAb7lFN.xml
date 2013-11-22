@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318054046AAb7lFN" type="Answered">
+    <Subject>Help with Firefox downloads?</Subject>
+    <Content>Usually on my desktop computer (my main one), every time I save a picture or download something the downloads window comes up and it shows you how much time the download it gonna take to complete. After that, it shows a box of what you just downloaded, and your previous downloads. On my laptop, it doesn&#039;t save a history of my downloads like my desktop computer does, and I don&#039;t know how to fix it. Please help!
+</Content>
+    <Date>2010-03-18 05:40:46</Date>
+    <Timestamp>1268916046</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318054046AAb7lFN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>EomvOh1Gaa</UserId>
+    <UserNick>♥Sυηѕнιηє♥</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b79a45eib08zul4re4/uMJrkH0wcaIOPm2YYS7mRCUvlw--/4/tn48.jpg?ciAAToMBgxYNzNdd</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I use firefox too and have my downloads set to be saved, this is what you do.
+
+1. Select &quot;Tools&quot;
+
+2. Scroll down and select &quot;Options&quot;
+
+3. From the various tabs select the &quot;Privacy&quot; tab.
+
+4. Your page should say Firefox will: Remember History. If not change it so that it does show this.
+
+5. Now press the &quot;Ok&quot; button at the bottom to save this change and make it permanent.</ChosenAnswer>
+    <ChosenAnswererId>u7vrul2Faa</ChosenAnswererId>
+    <ChosenAnswererNick>Lynzeigh</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268935184</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269435327</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Simple to fix it up...
+In Firefox browser, goto Tools-&gt;Options.
+
+Click the Main Tab and check the box &quot;Show the Downloads window while downloading a file&quot;
+
+Now you can see the list of downloads u have done and the also the download interval.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>t7V7yKA9aa</UserId>
+            <UserNick>Maddy</UserNick>
+            <Date>2010-03-18 05:47:29</Date>
+            <Timestamp>1268916449</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Do what Maddy said but also go to Privacy and choose the &quot;Remember History&quot; option.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QudgKIWkaa</UserId>
+            <UserNick>Moi</UserNick>
+            <Date>2010-03-18 05:51:30</Date>
+            <Timestamp>1268916690</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox browser, go to Tools Options click the main tab and just check the box that says show the downloads widow while its downloading and save it and you good to do. Good luck</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>89wk1FVwaa</UserId>
+            <UserNick>Straight</UserNick>
+            <Date>2010-03-18 06:05:13</Date>
+            <Timestamp>1268917513</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I use firefox too and have my downloads set to be saved, this is what you do.
+
+1. Select &quot;Tools&quot;
+
+2. Scroll down and select &quot;Options&quot;
+
+3. From the various tabs select the &quot;Privacy&quot; tab.
+
+4. Your page should say Firefox will: Remember History. If not change it so that it does show this.
+
+5. Now press the &quot;Ok&quot; button at the bottom to save this change and make it permanent.</Content>
+            <Reference>Lynz.</Reference>
+            <Best>5</Best>
+            <UserId>u7vrul2Faa</UserId>
+            <UserNick>Lynzeigh</UserNick>
+            <Date>2010-03-18 10:59:44</Date>
+            <Timestamp>1268935184</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:44 PDT 2010 -->

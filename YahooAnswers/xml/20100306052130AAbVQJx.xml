@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306052130AAbVQJx" type="Answered">
+    <Subject>can i turn off the sound in just firefox?</Subject>
+    <Content>im playing a game and want to listen to music. I know this has been asked before (http://answers.yahoo.com/question/index;_ylt=AudYVpgBpUawU9PzGdwN8cUAAAAA;_ylv=3?qid=20070921144910AA3QzZD), but the answer doesn&#039;t really help.
+</Content>
+    <Date>2010-03-06 05:21:30</Date>
+    <Timestamp>1267881690</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306052130AAbVQJx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tEW8TSthaa</UserId>
+    <UserNick>NunedQ</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>At the bottom right corner of your explorer bar (you know, with the start menu on it) there shuld be a little Speaker icon for volume control.
+
+Right click and hit &quot;Open Volume Mixer&quot;.  Here you can control individual volumes.
+
+This works on Vista and Windows 7, and it&#039;s been too long since I used XP to promise results there.</ChosenAnswer>
+    <ChosenAnswererId>iPTApoUsaa</ChosenAnswererId>
+    <ChosenAnswererNick>Worried 16</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267881795</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267916719</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>At the bottom right corner of your explorer bar (you know, with the start menu on it) there shuld be a little Speaker icon for volume control.
+
+Right click and hit &quot;Open Volume Mixer&quot;.  Here you can control individual volumes.
+
+This works on Vista and Windows 7, and it&#039;s been too long since I used XP to promise results there.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>iPTApoUsaa</UserId>
+            <UserNick>Worried 16</UserNick>
+            <Date>2010-03-06 05:23:15</Date>
+            <Timestamp>1267881795</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Just go to the taskbar. look at the bottom right corner for the little volume icon. Click it. 
+Increase or decrease the volume according to ur requirement.
+Uncheck mute.
+
+If this thing doesn&#039;t work for you. Check the settings in the game.
+Hope that helps...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0nKSUhsoaa</UserId>
+            <UserNick>Raman882</UserNick>
+            <Date>2010-03-06 06:10:10</Date>
+            <Timestamp>1267884610</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:49:50 PDT 2010 -->

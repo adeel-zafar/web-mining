@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319223504AADbxyn" type="Answered">
+    <Subject>Whats the fastest internet you can get?</Subject>
+    <Content>i have time warner cable and its to slow for me, is there internet that downloads faster than 236 kilobytes a second im hoping to get something that has around 4 or 5 mb a second or anything faster than what i have for under 200 dollars a month
+</Content>
+    <Date>2010-03-19 22:35:04</Date>
+    <Timestamp>1269063304</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319223504AADbxyn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DEMlTSjTaa</UserId>
+    <UserNick>Cabell</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Cable gets up to 10mbs. You measure speed in bits, not bytes. If your download speed is 236 kilobytes, it&#039;s close to 2mbs.
+ Verizon Fios is the only thing faster if it&#039;s available. Up to 50mbs.</ChosenAnswer>
+    <ChosenAnswererId>3be70dec6db5e574a7f07a63a50ebe41aa</ChosenAnswererId>
+    <ChosenAnswererNick>Nomadd</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269063568</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269297631</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yes, at&amp;t uverse is 6mb</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7q7N8IlIaa</UserId>
+            <UserNick>♥perfect_wife♥</UserNick>
+            <Date>2010-03-19 22:37:11</Date>
+            <Timestamp>1269063431</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Cable gets up to 10mbs. You measure speed in bits, not bytes. If your download speed is 236 kilobytes, it&#039;s close to 2mbs.
+ Verizon Fios is the only thing faster if it&#039;s available. Up to 50mbs.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3be70dec6db5e574a7f07a63a50ebe41aa</UserId>
+            <UserNick>Nomadd</UserNick>
+            <Date>2010-03-19 22:39:28</Date>
+            <Timestamp>1269063568</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:33:09 PDT 2010 -->

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305132603AAs5UeD" type="Answered">
+    <Subject>Firefox Browser how to empty?</Subject>
+    <Content>Can someone please tell me how to empty the firefox browser cache
+</Content>
+    <Date>2010-03-05 13:26:03</Date>
+    <Timestamp>1267824363</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305132603AAs5UeD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>06d48adae9cf96e237f5929fccfff4bdaa</UserId>
+    <UserNick>Koala</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4aa09655i416zul7sp1/JJfUoPY2bKFMh2EDZP5b.5Zb/101/tn48.jpg?ciAAToMBbcG.ZGoi</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>on your browser bar, click on Tools... its pretty self explanatory from there, I think</ChosenAnswer>
+    <ChosenAnswererId>rQdV7UiZaa</ChosenAnswererId>
+    <ChosenAnswererNick>T.C.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267824447</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267998658</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>on your browser bar, click on Tools... its pretty self explanatory from there, I think</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rQdV7UiZaa</UserId>
+            <UserNick>T.C.</UserNick>
+            <Date>2010-03-05 13:27:27</Date>
+            <Timestamp>1267824447</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Click on Tools, then Clear Recent History.  Set the time range to &quot;everything&quot;, then uncheck every box except for Cache (if there are other things that you want cleared, check those boxes also), and hit Clear Now.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eg868iJeaa</UserId>
+            <UserNick>Michael K</UserNick>
+            <Date>2010-03-05 13:27:50</Date>
+            <Timestamp>1267824470</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to Tools, then to Options.
+In the menu, select &quot;Advanced&quot; then in the tabs click &quot;Network&quot;.
+You&#039;ll see under &quot;Offline Storage&quot; you&#039;ll be able to clear your current cache as well as change the settings for how much it stores, if anything.</Content>
+            <Reference>Firefox user.</Reference>
+            <Best></Best>
+            <UserId>ULkuGZ5xaa</UserId>
+            <UserNick>NervXT</UserNick>
+            <Date>2010-03-05 13:31:00</Date>
+            <Timestamp>1267824660</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you have Firefox version 3.4 or below
+1st click on Tools
+2nd click on Options
+when the window opens
+3rd click on Privacy
+4th click on Private Data
+5th at the bottom click on Clear now
+when window opens
+6th clear or place check marks on type of info you want deleted and 
+7th click on Clear Private Data Now.
+For Firefox version 3.5 and higher 
+Just click on Tools and go to Clear Recent History. You can then choose how much info you want cleared i.e 1 hour, 2 hours, 4 hours, Today, or Everything. You can also choose what type of info you want deleted, then just click on Clear Now.
+
+The link below will give you more info if you need it.</Content>
+            <Reference>http://support.mozilla.com/en-US/kb/Clear+Recent+History?bl=n</Reference>
+            <Best></Best>
+            <UserId>b9xSfMKWaa</UserId>
+            <UserNick>Jhun</UserNick>
+            <Date>2010-03-05 13:51:56</Date>
+            <Timestamp>1267825916</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:55:57 PDT 2010 -->

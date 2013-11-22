@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314153441AA7GEh4" type="Answered">
+    <Subject>Firefox internet browser keeps freezing on me?</Subject>
+    <Content>Even before I downloaded firefox 3.6 firefox has been freezing up on me frequently. Has then been happening to anyone else?
+</Content>
+    <Date>2010-03-14 15:34:41</Date>
+    <Timestamp>1268606081</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314153441AA7GEh4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xbISxnmfaa</UserId>
+    <UserNick>™FuturePastryChef</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb74982i295fzws128ac4/Eg8AczUhaa.GZpEqKYeYiHFILSM./103/tn48.jpeg?ciAAToMBWwcgMPp6</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This is because of the computer’s registry. The registry is a very complex and often misunderstood component of Windows. It’s vital to your computer’s operation. Think of the registry as your computer’s brain. And everything you do on the computer, everything you install or remove, is stored in the brain. When you remove things, very often certain registry entries are left behind, like memories. But these memories are good for absolutely nothing.
+The registry hangs on to them, though, and eventually it gets so full that it’s hard to find things that are important now.  The registry is probably the culprit if your computer freezes randomly.Consequently, one of the best solutions in managing the situation is to use registry cleaning tools  http://make-computer-run-smoothly.com                  with great power and capacity to completely flush out all junk files and fix all errors found.</ChosenAnswer>
+    <ChosenAnswererId>ChjKL8nlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Buyts</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268662829</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268702564</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to about:config by typing it into your address bar, press enter. Read the notice and click &quot;I&#039;ll be careful, I promise!&quot;.
+Find browser.sessionstore.interval by typing it into the text box that appears next to &quot;Filter&quot; at the top. Double-click what comes up, and change the value to 100000 (one hundred thousand).
+Close Firefox afterwards then reopen it.
+
+or check the below link
+http://kb.mozillazine.org/Firefox_hangs</Content>
+            <Reference>http://kb.mozillazine.org/Firefox_hangs</Reference>
+            <Best></Best>
+            <UserId>WwzFFtc5aa</UserId>
+            <UserNick>Best performer</UserNick>
+            <Date>2010-03-14 15:37:40</Date>
+            <Timestamp>1268606260</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>mine is doing it too and i&#039;m getting tired of it, this is worse than IE used to be</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OtQE8n8caa</UserId>
+            <UserNick>Mike M (number 3)</UserNick>
+            <Date>2010-03-14 17:14:18</Date>
+            <Timestamp>1268612058</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This is because of the computer’s registry. The registry is a very complex and often misunderstood component of Windows. It’s vital to your computer’s operation. Think of the registry as your computer’s brain. And everything you do on the computer, everything you install or remove, is stored in the brain. When you remove things, very often certain registry entries are left behind, like memories. But these memories are good for absolutely nothing.
+The registry hangs on to them, though, and eventually it gets so full that it’s hard to find things that are important now.  The registry is probably the culprit if your computer freezes randomly.Consequently, one of the best solutions in managing the situation is to use registry cleaning tools  http://make-computer-run-smoothly.com                  with great power and capacity to completely flush out all junk files and fix all errors found.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>ChjKL8nlaa</UserId>
+            <UserNick>Buyts</UserNick>
+            <Date>2010-03-15 07:20:29</Date>
+            <Timestamp>1268662829</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:59 PDT 2010 -->

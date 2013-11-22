@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325022418AAHTxTe" type="Answered">
+    <Subject>I have a question about the yelp website ?</Subject>
+    <Content>Should a person be able to write a yelp review for a company they work for or own and can the persons review be trusted ?
+</Content>
+    <Date>2010-03-25 02:24:18</Date>
+    <Timestamp>1269509058</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325022418AAHTxTe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7905e349c671d7f4f09a0d8d1fd2f3c8aa</UserId>
+    <UserNick>Mr Harper</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Take Care</ChosenAnswer>
+    <ChosenAnswererId>WHCPVzvDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rahul</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269511462</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270028572</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Take Care</Content>
+            <Reference>oh  computer</Reference>
+            <Best>5</Best>
+            <UserId>WHCPVzvDaa</UserId>
+            <UserNick>Rahul</UserNick>
+            <Date>2010-03-25 03:04:22</Date>
+            <Timestamp>1269511462</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:31:49 PDT 2010 -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313133505AAUWKbk" type="Answered">
+    <Subject>twitter or face book?</Subject>
+    <Content>my sister wants to know which is better
+i also forgot to mention what about myspace
+</Content>
+    <Date>2010-03-13 13:35:05</Date>
+    <Timestamp>1268516105</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313133505AAUWKbk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5UkxeTKMaa</UserId>
+    <UserNick>kawaii love</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba0f8dei18cczws125mud/lcdFmfg1cqdRHF.PEY7ajgwCkPzsRA--/2/tn48.jpeg?ciAAToMBMDnVfvOB</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>facebook. i have both and i think twitter is a bit silly unless you NEED to know what a celebrity is doing every second of the day. otherwise you can just text your friends instead of tweet.</ChosenAnswer>
+    <ChosenAnswererId>kRtaDigLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Netsirk</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268516254</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268626209</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>facebook. i have both and i think twitter is a bit silly unless you NEED to know what a celebrity is doing every second of the day. otherwise you can just text your friends instead of tweet.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>kRtaDigLaa</UserId>
+            <UserNick>Netsirk</UserNick>
+            <Date>2010-03-13 13:37:34</Date>
+            <Timestamp>1268516254</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Facebook because it has the status updates of twitter+the groups, apps, etc.  Facebook is also better because a lot more people use it.  One thing that makes twitter better is that you can get mobile text message updates from your friends.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GGSfZ7qKaa</UserId>
+            <UserNick>Bobeus</UserNick>
+            <Date>2010-03-13 13:38:30</Date>
+            <Timestamp>1268516310</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:03:17 PDT 2010 -->

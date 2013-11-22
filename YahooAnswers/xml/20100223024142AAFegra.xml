@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223024142AAFegra" type="Answered">
+    <Subject>How do you change account name / administrater name on BT Broadband Outlook Express Email?</Subject>
+    <Content>Recently we had somebody leave our work place but he had set up all the email accounts (we use BT Connect) on Outlook Express. In the main account section I altered the passwords and account names when he left, however in the actual Outlook Express Email section his name is still next to the main folder and is somehow going out on all emails. I just cant figure out how to alter it. Somebody told me I need to change administrator settings etc but I just have no idea how! Please help - step by step instructions needed please! Thanks
+</Content>
+    <Date>2010-02-23 02:41:42</Date>
+    <Timestamp>1266921702</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223024142AAFegra</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8f3f5fa85bd8f59272d4bcbac5e60c2baa</UserId>
+    <UserNick>Kiwi Angel</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/131FSQislAAEB-EGVPTNrls0wKA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.vista4beginners.com/Windows-Mail.</ChosenAnswer>
+    <ChosenAnswererId>zVu19UBCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Topi jerami</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267264603</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267440830</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try this to see if it helps.
+
+http://www.vista4beginners.com/Windows-Mail</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NkenKT7yaa</UserId>
+            <UserNick>meriva</UserNick>
+            <Date>2010-02-23 05:30:39</Date>
+            <Timestamp>1266931839</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.vista4beginners.com/Windows-Mail.</Content>
+            <Reference>.....</Reference>
+            <Best>5</Best>
+            <UserId>zVu19UBCaa</UserId>
+            <UserNick>Topi jerami</UserNick>
+            <Date>2010-02-27 01:56:43</Date>
+            <Timestamp>1267264603</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:23:15 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302083046AAQPgzk" type="Answered">
+    <Subject>what does it mean if you&#039;re &#039;bought&#039; on tagged?</Subject>
+    <Content>i got an email telling me i&#039;d been &#039;bought as a pet&#039;?
+</Content>
+    <Date>2010-03-02 08:30:46</Date>
+    <Timestamp>1267547446</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302083046AAQPgzk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>F35zGSSIaa</UserId>
+    <UserNick>-fallen-angel-</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1N4A-PiNjAAED94F3QJcVc_cE31oE.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Human slavery is illegal. Report this person to the proper authorities.</ChosenAnswer>
+    <ChosenAnswererId>vAJocLqvaa</ChosenAnswererId>
+    <ChosenAnswererNick>star123compy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267547508</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267656610</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Human slavery is illegal. Report this person to the proper authorities.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-02 08:31:48</Date>
+            <Timestamp>1267547508</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:26:37 PDT 2010 -->

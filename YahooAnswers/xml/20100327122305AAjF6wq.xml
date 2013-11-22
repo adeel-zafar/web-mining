@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327122305AAjF6wq" type="Answered">
+    <Subject>Help Help Help ...Windows XP Mozilla Firefox...When i start up the P.C. I can&#039;t do a thing until the Firefox?</Subject>
+    <Content>pop up&#039;s actually come up then once i click on them i can venture onto the net no probs BUT...Sometimes it takes like 3 restarts before the pop up&#039;s actually come up!! PLEASE what the hell does a simpleton like me do here ???
+</Content>
+    <Date>2010-03-27 12:23:05</Date>
+    <Timestamp>1269717785</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327122305AAjF6wq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8DlR7hmpaa</UserId>
+    <UserNick>Bonzo</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49f1f606i6a8z/R6XaJH0zdKgt41Ku8BGAslg-/3/tn48.jpg?ciAAToMB6KFJREOH</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>do you mean you have to wait until its loaded b4 you can go on the net? if so just go to start click on the run button,enter this, msconfig then select start up,and uncheck your programme.don&#039;t worry you won&#039;t lose it,it just won&#039;t hamper you on the start up of your machine.</ChosenAnswer>
+    <ChosenAnswererId>98NzI6G0aa</ChosenAnswererId>
+    <ChosenAnswererNick>RIGGS®</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269719158</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270138852</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>please rephrase your question.
+
+if i understood this right, maybe your pc has a virus or a worm.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BISXsCI1aa</UserId>
+            <UserNick>Nobody</UserNick>
+            <Date>2010-03-27 12:26:35</Date>
+            <Timestamp>1269717995</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>do you mean you have to wait until its loaded b4 you can go on the net? if so just go to start click on the run button,enter this, msconfig then select start up,and uncheck your programme.don&#039;t worry you won&#039;t lose it,it just won&#039;t hamper you on the start up of your machine.</Content>
+            <Reference>RIGGS.</Reference>
+            <Best>5</Best>
+            <UserId>98NzI6G0aa</UserId>
+            <UserNick>RIGGS®</UserNick>
+            <Date>2010-03-27 12:45:58</Date>
+            <Timestamp>1269719158</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:22:29 PDT 2010 -->

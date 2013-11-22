@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309233138AA3dgfc" type="Answered">
+    <Subject>Is it safe to do internet banking on an unsecured wi/fi network?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-09 23:31:38</Date>
+    <Timestamp>1268206298</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309233138AA3dgfc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QsaFDLPyaa</UserId>
+    <UserNick>martin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>9</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Very simply NO!</ChosenAnswer>
+    <ChosenAnswererId>AA11501913</ChosenAnswererId>
+    <ChosenAnswererNick>doctorbob1958</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268206370</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268339176</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Very simply NO!</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>AA11501913</UserId>
+            <UserNick>doctorbob1958</UserNick>
+            <Date>2010-03-09 23:32:50</Date>
+            <Timestamp>1268206370</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I wouldn&#039;t ever trust entering passwords or doing anything financially related over public wi-fi</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yQC4HuH1aa</UserId>
+            <UserNick>Kinch</UserNick>
+            <Date>2010-03-09 23:32:59</Date>
+            <Timestamp>1268206379</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Probably not the safest thing in the world to be doing, but i do it and i&#039;ve never had any problems. I do have security on my computer though.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4Q1eI2aJaa</UserId>
+            <UserNick>Gypsy</UserNick>
+            <Date>2010-03-09 23:33:05</Date>
+            <Timestamp>1268206385</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Perfectly fine. Unsecured wi/fi network just means you don&#039;t need a password to sign into the wi/fi, not that people can more easily access your stuff.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Lq9CuoFHaa</UserId>
+            <UserNick>Anthony</UserNick>
+            <Date>2010-03-09 23:33:11</Date>
+            <Timestamp>1268206391</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>firstly, if its not your connection...stop stealin other peoples internet! secondly, if it is yours simply password protect it. it will be in your modem settings.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>u2p3BYNQaa</UserId>
+            <UserNick>sdrawkcab</UserNick>
+            <Date>2010-03-09 23:33:53</Date>
+            <Timestamp>1268206433</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No, you need to access secured internet as once you open a page to your account on an unsecured one anyone logged on would be able to see it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11104572</UserId>
+            <UserNick>raw</UserNick>
+            <Date>2010-03-09 23:35:26</Date>
+            <Timestamp>1268206526</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No.  I have access to every file and folder on all my stupid neighbors who do not secure their network.  Want to see a video of the people across the hall from me having sex?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>43CGPw7Maa</UserId>
+            <UserNick>alamyst</UserNick>
+            <Date>2010-03-10 00:01:38</Date>
+            <Timestamp>1268208098</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Of course it&#039;s not! Any WiFi is wide open no matter what you do. It&#039;s a wireless signal.
+
+This was proved on one of the computer/electronic/gadget shows some time ago that WiFi security is absolutely zilch, nada, zero.
+
+They got someone with a laptop with all the normal security etc to go to a WiFi area and work for an hour doing all the normal things you would do.
+
+Unbeknown to them there was a computer security expert on another laptop sitting about a 100 feet away.
+
+After the session they gave the person a complete print out of his activity. 
+
+Every site visited with log in details and passwords, credit and debit card details, what he bought and sold, they even told him how much he had in his bank and what bills he paid.
+
+The only true secure connection to the internet for anything is a hard wired Ethernet connection between your computer/laptop and your modem.
+
+I would never have any wireless connection in my house let alone use it anywhere else.</Content>
+            <Reference>Experienced1</Reference>
+            <Best></Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-10 00:02:45</Date>
+            <Timestamp>1268208165</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I wouldn&#039;t do any Internet banking period.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vFVL2Ai8aa</UserId>
+            <UserNick>eric</UserNick>
+            <Date>2010-03-10 00:28:39</Date>
+            <Timestamp>1268209719</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:20:53 PDT 2010 -->

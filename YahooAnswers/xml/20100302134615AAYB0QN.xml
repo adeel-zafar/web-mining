@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302134615AAYB0QN" type="Answered">
+    <Subject>What is the best free email service for my young children?</Subject>
+    <Content>I am looking for a free email service for kids of 8 and 10 years old, which is above all reliable, easy to use, and also fun for youngsters to use on a regular basis.
+</Content>
+    <Date>2010-03-02 13:46:15</Date>
+    <Timestamp>1267566375</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302134615AAYB0QN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HFTkzDV0aa</UserId>
+    <UserNick>nico</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Gmail or Yahoo Mail should be sufficient.
+if you want to go EXTREMLY safe you use http://Gaggle.net</ChosenAnswer>
+    <ChosenAnswererId>0GCDDUjDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Thecomputernerd1</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267566649</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268646730</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Gmail or Yahoo Mail should be sufficient.
+if you want to go EXTREMLY safe you use http://Gaggle.net</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0GCDDUjDaa</UserId>
+            <UserNick>Thecomputernerd1</UserNick>
+            <Date>2010-03-02 13:50:49</Date>
+            <Timestamp>1267566649</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well, as a frequent user, all I can do is recommend Google Mail, I wouldn&#039;t really say it&#039;s fun, but it sure is good! You get built in G-Talk, Google&#039;s Chat Program. You also get a Twitter-like application called &#039;Buzz&#039;. I would say it is reasonably safe. Like you require, it is free and easy to use.
+
+I suppose that really it could be fun, as they allow you to customize your Inbox with backgrounds and themes.
+
+If you&#039;re interested, go ahead and try it: http://mail.google.com/</Content>
+            <Reference>My Brain</Reference>
+            <Best></Best>
+            <UserId>45zTzCA0aa</UserId>
+            <UserNick>Joel</UserNick>
+            <Date>2010-03-03 10:00:47</Date>
+            <Timestamp>1267639247</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:25:23 PDT 2010 -->

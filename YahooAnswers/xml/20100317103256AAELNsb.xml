@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317103256AAELNsb" type="Answered">
+    <Subject>In firefox how do i open a blank page in a new tab?</Subject>
+    <Content>Right now when I open a new tab it opens yahoo search page. I want it to open a blank page but I can&#039;t find anywere to change it. Can Simone tell me how to change it.
+</Content>
+    <Date>2010-03-17 10:32:56</Date>
+    <Timestamp>1268847176</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317103256AAELNsb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1SJUXoraaa</UserId>
+    <UserNick>?</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>hold Alt then press t</ChosenAnswer>
+    <ChosenAnswererId>jwnwYHPBaa</ChosenAnswererId>
+    <ChosenAnswererNick>KatyPerry329</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268847351</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269485651</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>hold Alt then press t</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>jwnwYHPBaa</UserId>
+            <UserNick>KatyPerry329</UserNick>
+            <Date>2010-03-17 10:35:51</Date>
+            <Timestamp>1268847351</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:26 PDT 2010 -->

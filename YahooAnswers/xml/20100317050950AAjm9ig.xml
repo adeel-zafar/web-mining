@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317050950AAjm9ig" type="Answered">
+    <Subject>Is there a way to watch QVC live on the internet?</Subject>
+    <Content>My moms freaking out because she&#039;s missing the irish specials.
+</Content>
+    <Date>2010-03-17 05:09:50</Date>
+    <Timestamp>1268827790</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317050950AAjm9ig</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oGKucG80aa</UserId>
+    <UserNick>Ashleigh</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/16iiOnsWIAAAB0OKZjJPoko6wWbA7jvjXMQM=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>http://www.qvc.com/#
+
+click on &quot;watch live tv&quot; fron the menu on the left</ChosenAnswer>
+    <ChosenAnswererId>c59aa0746b771ce4755726e1da6772d1aa</ChosenAnswererId>
+    <ChosenAnswererNick>zoomjet</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268828176</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268985725</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.qvc.com/#
+
+click on &quot;watch live tv&quot; fron the menu on the left</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>c59aa0746b771ce4755726e1da6772d1aa</UserId>
+            <UserNick>zoomjet</UserNick>
+            <Date>2010-03-17 05:16:16</Date>
+            <Timestamp>1268828176</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>c59aa0746b771ce4755726e1da6772d1aa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-19 06:35:39</Date>
+            <Timestamp>1268828176</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:45:24 PDT 2010 -->

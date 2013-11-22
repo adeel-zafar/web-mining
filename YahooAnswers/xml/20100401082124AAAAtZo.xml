@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401082124AAAAtZo" type="Answered">
+    <Subject>Help with my WordPress.com Blog?</Subject>
+    <Content>I have the Freshy theme and I want to know how to change the tagline under my header.
+For example, it says &quot;Just another WordPress blog&quot;. &lt;- That is what I want to change.
+</Content>
+    <Date>2010-04-01 08:21:24</Date>
+    <Timestamp>1270135284</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401082124AAAAtZo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>c1WIEwMMaa</UserId>
+    <UserNick>★ⓐ©ⓔ★  [Go Cubs]</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49fa06f8i173bzul1sp1/e5S8X7k4aKqLlOj4io9CR5LEJEo-/5/tn48.png?ciAAToMBAbe5OaSE</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>From the Dashboard, go to Settings/General.  There&#039;s a place to type in a new tagline.</ChosenAnswer>
+    <ChosenAnswererId>dztKGMAQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Windowphobe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270170864</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270221852</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>From the Dashboard, go to Settings/General.  There&#039;s a place to type in a new tagline.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dztKGMAQaa</UserId>
+            <UserNick>Windowphobe</UserNick>
+            <Date>2010-04-01 18:14:24</Date>
+            <Timestamp>1270170864</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:34 PDT 2010 -->

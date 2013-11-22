@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228063942AAmJU7z" type="Answered">
+    <Subject>hulu is not working at all?</Subject>
+    <Content>why is that ?
+and is not my flash player, beacuse veoh.com, fancast and others are working well
+</Content>
+    <Date>2010-02-28 06:39:42</Date>
+    <Timestamp>1267367982</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228063942AAmJU7z</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11325676</UserId>
+    <UserNick>fartboy_x</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1_Uos2AvJAAED_AETMa25BQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Prehaps you need to update your adobe flash player.</ChosenAnswer>
+    <ChosenAnswererId>901930fc8f0cb1ce4a9483207715497baa</ChosenAnswererId>
+    <ChosenAnswererNick>Linds</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267368290</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267539938</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Prehaps you need to update your adobe flash player.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>901930fc8f0cb1ce4a9483207715497baa</UserId>
+            <UserNick>Linds</UserNick>
+            <Date>2010-02-28 06:44:50</Date>
+            <Timestamp>1267368290</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:39:06 PDT 2010 -->

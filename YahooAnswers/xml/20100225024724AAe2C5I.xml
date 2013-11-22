@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225024724AAe2C5I" type="Answered">
+    <Subject>who can help me with this?</Subject>
+    <Content>Okay i have a yahoo e-mail address but i have been getting a lot of spams and things that i don&#039;t really want to look at how can i cancel my e-mail address to sign up for another one? i don&#039;t want to continue using this address but i also don&#039;t want to keep it open how can i cancel it close it and never use it again.
+</Content>
+    <Date>2010-02-25 02:47:24</Date>
+    <Timestamp>1267094844</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225024724AAe2C5I</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iVYP6U8Baa</UserId>
+    <UserNick>chaparranj86</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can create a new account, configure your email software for that account, then remove the old one from your account options.
+
+You may be better off not deleting the old one (not sure how to!), as inevitably there&#039;s always a site somewhere that you signed up to using that address, and will need to change it before you get rid of it.</ChosenAnswer>
+    <ChosenAnswererId>sP1G6Qeiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Colin L</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267097899</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267614173</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can create a new account, configure your email software for that account, then remove the old one from your account options.
+
+You may be better off not deleting the old one (not sure how to!), as inevitably there&#039;s always a site somewhere that you signed up to using that address, and will need to change it before you get rid of it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>sP1G6Qeiaa</UserId>
+            <UserNick>Colin L</UserNick>
+            <Date>2010-02-25 03:38:19</Date>
+            <Timestamp>1267097899</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:59:49 PDT 2010 -->

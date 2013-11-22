@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321215032AAWKAlI" type="Answered">
+    <Subject>How can u solve this ??????</Subject>
+    <Content>I am using bsnl broadband at home on my laptop.If my laptop is off how can i make use of broadband through wifi on my E63 mobile ??????
+</Content>
+    <Date>2010-03-21 21:50:32</Date>
+    <Timestamp>1269233432</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321215032AAWKAlI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d5a1aac500ce3c542d55f0deca57cb86aa</UserId>
+    <UserNick>Rajchem</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Jane Fonda.</ChosenAnswer>
+    <ChosenAnswererId>TRLMIgrEaa</ChosenAnswererId>
+    <ChosenAnswererNick>kinamyen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269250261</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269752829</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Jane Fonda.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TRLMIgrEaa</UserId>
+            <UserNick>kinamyen</UserNick>
+            <Date>2010-03-22 02:31:01</Date>
+            <Timestamp>1269250261</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:53 PDT 2010 -->

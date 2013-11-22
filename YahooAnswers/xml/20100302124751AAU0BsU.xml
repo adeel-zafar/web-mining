@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302124751AAU0BsU" type="Answered">
+    <Subject>blizzard authenticator problems????</Subject>
+    <Content>i am using the blizzard mobie authenticator and am trying to add an authenticator in account managment but i can&#039;t log in because it asks for the authenticator code which is what im thying to get.
+and i can&#039;t buy an authenticator because it&#039;s asks for an authenticator code to log in on the store.
+</Content>
+    <Date>2010-03-02 12:47:51</Date>
+    <Timestamp>1267562871</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302124751AAU0BsU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5TX4AOxsaa</UserId>
+    <UserNick>Charlie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Contact Blizzard Technical support at http://us.blizzard.com/en-gb/company/about/contact.html</ChosenAnswer>
+    <ChosenAnswererId>7coLxVAXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ant I</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267761136</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268082432</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Contact Blizzard Technical support at http://us.blizzard.com/en-gb/company/about/contact.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7coLxVAXaa</UserId>
+            <UserNick>Ant I</UserNick>
+            <Date>2010-03-04 19:52:16</Date>
+            <Timestamp>1267761136</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:25:45 PDT 2010 -->

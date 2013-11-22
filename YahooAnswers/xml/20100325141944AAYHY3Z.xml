@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325141944AAYHY3Z" type="Answered">
+    <Subject>If I download FireFox, will InternetExplorer go away?</Subject>
+    <Content>and Will all my favorites and tabs go away?
+</Content>
+    <Date>2010-03-25 14:19:44</Date>
+    <Timestamp>1269551984</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325141944AAYHY3Z</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vIj5SW52aa</UserId>
+    <UserNick>irishangelx321</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No. IE will remain exactly as it is.
+
+You may want to make Firefox the default browser, though, so opening .htm and .html files will automatically use it.  Here&#039;s the easy way to do that:
+
+1. Open Firefox.
+2. Click the Tools-&gt;Options menu item.
+3. Click the Advanced Page.
+4. Check the &quot;Always check to see if Firefox is the default browser on startup&quot; checkbox.
+5. Click the Check Now button.
+6. Click OK.
+
+Hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269552395</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269613638</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no, Firefox will ask if you want to import that information. it will also ask if you want to make Firefox the default browser, but internet explorer will always still be there.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lOL2Rn9eaa</UserId>
+            <UserNick>ss2</UserNick>
+            <Date>2010-03-25 14:21:55</Date>
+            <Timestamp>1269552115</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No, IE will still be there and you can copy your bookmarks to FF as well...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aCj2o5Wraa</UserId>
+            <UserNick>Anza Power</UserNick>
+            <Date>2010-03-25 14:25:54</Date>
+            <Timestamp>1269552354</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No. IE will remain exactly as it is.
+
+You may want to make Firefox the default browser, though, so opening .htm and .html files will automatically use it.  Here&#039;s the easy way to do that:
+
+1. Open Firefox.
+2. Click the Tools-&gt;Options menu item.
+3. Click the Advanced Page.
+4. Check the &quot;Always check to see if Firefox is the default browser on startup&quot; checkbox.
+5. Click the Check Now button.
+6. Click OK.
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-25 14:26:35</Date>
+            <Timestamp>1269552395</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:30:32 PDT 2010 -->

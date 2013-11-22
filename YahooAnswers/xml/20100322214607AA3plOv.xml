@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322214607AA3plOv" type="Answered">
+    <Subject>How do I delete my browsing history on Firefox on a mac?</Subject>
+    <Content>I&#039;ve looked at other answers to this question and honestly, they&#039;re too vague. Maybe I&#039;m just dumb, but I need step by step instructions, and a lot of explaining apparently. I&#039;m terrible with computers. Some people told me to go to tools: First of all I don&#039;t know what they&#039;re talking about, and I don&#039;t have it at the top on the bar. Other told me to just go to history and clear it: tried that, and it didn&#039;t work either. Any help would be appreciated!
+</Content>
+    <Date>2010-03-22 21:46:07</Date>
+    <Timestamp>1269319567</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322214607AA3plOv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LpH1YJtaaa</UserId>
+    <UserNick>Katie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b4a8f86i267bzul6re4/XGKKUFQ6erLi3nBn.UfonrEx/1/tn48.jpg?ciAAToMBzgz1mj8R</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Step 1
+
+Open your browser and click &quot;Tools&quot; at the top of the screen.
+
+Step 2
+
+From the sub-menu, choose &quot;Clear Private Data.&quot; Put a check mark next to &quot;Browsing History&quot; in the pop-up menu. Select any other items that you&#039;d like to clear, such as your download history or saved form history.
+
+Step 3
+
+Deselect any check marks next to any items that you do not wish to clear. Click &quot;Clear.&quot;</ChosenAnswer>
+    <ChosenAnswererId>D0QPKjOxaa</ChosenAnswererId>
+    <ChosenAnswererNick>MoneyMan510</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269321468</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269567801</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Delete Your Web History in Firefox
+
+
+
+Step 1
+
+Re-open the Options (Windows) or Preferences (Mac) box and click on the Privacy icon.
+
+Step 2
+
+Hit the &#039;Clear Now&#039; button located in the Private Data section. A new box will open with multiple options for clearing your history.
+
+Step 3
+
+Check any or all of the boxes that will delete your Web history. You can choose to delete cookies, cache and browsing history.
+
+Step 4
+
+Press the &#039;Clear Private Data Now&#039; button to delete all of your Web history.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TYP72weuaa</UserId>
+            <UserNick>Alexa</UserNick>
+            <Date>2010-03-22 21:48:32</Date>
+            <Timestamp>1269319712</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Whatcha been lookin&#039; at? ;)
+
+lol I was gonna answer this question quickly and simply, but then I got to the  end of the question. &quot;On a Mac&quot;. Umm..., Idk. Haven&#039;t used one in years, personally prefer PCs. It&#039;s probably not that hard. Firefox should have it on the bar up top, but if you say it&#039;s not there... did you try looking under all the tabs at the options? It&#039;s bound to say something about history somewhere.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fAujnPDXaa</UserId>
+            <UserNick>Down with the dcTalk</UserNick>
+            <Date>2010-03-22 21:53:31</Date>
+            <Timestamp>1269320011</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Step 1
+
+Open your browser and click &quot;Tools&quot; at the top of the screen.
+
+Step 2
+
+From the sub-menu, choose &quot;Clear Private Data.&quot; Put a check mark next to &quot;Browsing History&quot; in the pop-up menu. Select any other items that you&#039;d like to clear, such as your download history or saved form history.
+
+Step 3
+
+Deselect any check marks next to any items that you do not wish to clear. Click &quot;Clear.&quot;</Content>
+            <Reference>I have a Mac.</Reference>
+            <Best>3</Best>
+            <UserId>D0QPKjOxaa</UserId>
+            <UserNick>MoneyMan510</UserNick>
+            <Date>2010-03-22 22:17:48</Date>
+            <Timestamp>1269321468</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:19 PDT 2010 -->

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310173108AA6dgWk" type="Answered">
+    <Subject>How to delete browsing history in internet explorer?</Subject>
+    <Content>Ok, so I my friend decided to look up porn on my computer and I don&#039;t want my wife to freak out. I deleted all the history, changed the settings, etc etc. However, when I click the down arrow in the address bar, some porn sites show up and won&#039;t go away. i&#039;ve also clicked the X next to them and they disappear only to reappear the next time i start IE. What&#039;s up with that and how do i get rid of it?
+
+Also, it doesn&#039;t show up anywhere in my history or anything, just right there in that &#039;auto-complete&#039; box. For now I have auto complete turned off, so it won&#039;t show up, but that only temporarily covers up the problem. Some help please? And don&#039;t direct me to a site to buy/download software.
+The thing is, I deleted everything. Ctrl+Shift+delete and deleted temps, cookies, etc...deleted auto-complete files, cleared all history and everything. I know my way around most of this stuff, but I&#039;m stumped as to why this will not go away. Any clue as to why?
+I even reset ie settings to default because it was supposed to restore all original crap, and guess what? it&#039;s still there. this is too weird. help
+</Content>
+    <Date>2010-03-10 17:31:08</Date>
+    <Timestamp>1268271068</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310173108AA6dgWk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tduTjXIMaa</UserId>
+    <UserNick>Charles</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here is a link that has a couple of tricks you might not have tried:
+http://www.deletehistory.com/internet-explorer-8-delete-history
+
+Good luck!
+Kyler
+IE8 Outreach Team</ChosenAnswer>
+    <ChosenAnswererId>0BzipcAfaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kyler_IE8_Team</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268441569</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268786835</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to tools see the drop down menu click it  then  check delete browsing history.
+That&#039;s it at least on i.e. 7.0
+
+Otherwise there is a way to go into control panel and there is a spot to delete history delete cookies .
+Depends on your operating system.</Content>
+            <Reference>It;s really not that hard.</Reference>
+            <Best></Best>
+            <UserId>AA10282618</UserId>
+            <UserNick>Live Green</UserNick>
+            <Date>2010-03-10 17:40:53</Date>
+            <Timestamp>1268271653</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here is a link that has a couple of tricks you might not have tried:
+http://www.deletehistory.com/internet-explorer-8-delete-history
+
+Good luck!
+Kyler
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0BzipcAfaa</UserId>
+            <UserNick>Kyler_IE8_Team</UserNick>
+            <Date>2010-03-12 16:52:49</Date>
+            <Timestamp>1268441569</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:16:28 PDT 2010 -->

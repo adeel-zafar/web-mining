@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321141058AAH2Ifp" type="Answered">
+    <Subject>How can I unblock Port 25?</Subject>
+    <Content>Comcast recently did an area wide blocking of the outgoing mail port 25 due usage of this port by spammers. I have a mail client that does not allow configuration of outgoing mail ports. I do not need to know how to change Outlook&#039;s settings, just how to unblock it manually or contact Comcast with my request (and if they will grant it).
+
+Thank you
+I will repeat: I do not need to know how to change Outlook&#039;s settings
+</Content>
+    <Date>2010-03-21 14:10:58</Date>
+    <Timestamp>1269205858</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321141058AAH2Ifp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ELHKrCKnaa</UserId>
+    <UserNick>redheadedsweetness46</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You will need to use a private SMTP service to bypass the port 25 block and not your email server that doesn&#039;t support anything beyond port 25. There is no way around this.</ChosenAnswer>
+    <ChosenAnswererId>QHdEwZEBaa</ChosenAnswererId>
+    <ChosenAnswererNick>ds</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269285889</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269725255</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>comcast will not grant your request to open up port 25 unless you are running a MX server (mail exchange server) more than likely you are using another configuration for an email account other than comcasts. you can try using SSL 443 and not 25.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LsVItOzvaa</UserId>
+            <UserNick>jesse</UserNick>
+            <Date>2010-03-21 14:13:11</Date>
+            <Timestamp>1269205991</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Comcast provides you with their SMTP server on port 25 to use. Set your client&#039;s smtp server to smtp.comcast.net and tell it to use your Comcast username and password to log onto the smtp server.</Content>
+            <Reference>http://customer.comcast.com/Pages/FAQViewer.aspx?Guid=89dc6315-97fe-41a8-a295-1b3467ceb935</Reference>
+            <Best></Best>
+            <UserId>qiUrtMdqaa</UserId>
+            <UserNick>Toby</UserNick>
+            <Date>2010-03-21 14:15:50</Date>
+            <Timestamp>1269206150</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You will need to use a private SMTP service to bypass the port 25 block and not your email server that doesn&#039;t support anything beyond port 25. There is no way around this.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>QHdEwZEBaa</UserId>
+            <UserNick>ds</UserNick>
+            <Date>2010-03-22 12:24:49</Date>
+            <Timestamp>1269285889</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:26:27 PDT 2010 -->

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227190357AA1emB5" type="Answered">
+    <Subject>Makeing a Simple bot?</Subject>
+    <Content>like a chat bot that says the same thing every time some one says something, or a program to make a bot (p.s I&#039;m using mibbit so i really what to put it on there)
+</Content>
+    <Date>2010-02-27 19:03:57</Date>
+    <Timestamp>1267326237</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227190357AA1emB5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9w6KEGNvaa</UserId>
+    <UserNick>Ashley</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>uhh i use garryshood auto talker
+
+you can get it by googling &quot;auto talker&quot; should be the first one.
+
+it&#039;s a simple program.</ChosenAnswer>
+    <ChosenAnswererId>Q9F93Q6Jaa</ChosenAnswererId>
+    <ChosenAnswererNick>Eric</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267326716</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267516970</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Like there aren&#039;t enough bots in chat already? give me a break...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>e262266a38b4e810f6e6fc934ecb3c23aa</UserId>
+            <UserNick>owlbeback</UserNick>
+            <Date>2010-02-27 19:11:04</Date>
+            <Timestamp>1267326664</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>uhh i use garryshood auto talker
+
+you can get it by googling &quot;auto talker&quot; should be the first one.
+
+it&#039;s a simple program.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Q9F93Q6Jaa</UserId>
+            <UserNick>Eric</UserNick>
+            <Date>2010-02-27 19:11:56</Date>
+            <Timestamp>1267326716</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:41:15 PDT 2010 -->

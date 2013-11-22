@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326231335AAtj3We" type="Answered">
+    <Subject>How do I send video files over 30MB via email?</Subject>
+    <Content>Is there a website that allows you to host them for free other than youtube, something more exclusive and personal that you don&#039;t have to be a member of to view the videos? Or is there a program that will make the files smaller so I don&#039;t have to split the video up? I tried converting it to something else but it&#039;s still too big to send through email and it&#039;s only 7 minutes long.
+</Content>
+    <Date>2010-03-26 23:13:35</Date>
+    <Timestamp>1269670415</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326231335AAtj3We</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>a09d3ce6e8b31771be678c5c0ab43f70aa</UserId>
+    <UserNick>Jenny Dana Alice Shane Tina Kit</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/19YIzI6AiAAEDoaOBkJN0NOyOHw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Upload your file to Rapishare. Send the link that Rapidshare gives you to your friends. Now they can easily download the file. You do not need to be a premium user to upload files onto or download from Radipshare.</ChosenAnswer>
+    <ChosenAnswererId>HjEEKVdmaa</ChosenAnswererId>
+    <ChosenAnswererNick>Net Expert</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269672243</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269976167</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Here&#039;s a way to share your large (video) files with your friends:
+
+It&#039;s easy, use this simple to use program called  HJSplit.
+
+Split your video file into easily managed chunks,  
+for example, split it into chunks of about 10MB each or 20MB each,  then you may
+email these smaller chunks in separate emails to your friend.
+
+Invite your friend to download HJSplit to recombine them together.
+
+The download link for HJSplit:
+http://www.freebyte.com/hjsplit/
+OR:
+http://hjsplit.en.softonic.com/download
+
+As an alternate option, you may install the ZumoDrive software, 
+ZumoDrive allows you to upload and share (the links) your files with others.
+
+( The recipient does not need to have ZumoDrive installed to receive your files.)
+
+http://www.zumodrive.com/
+
+As an alternative, you may use Rapidshare instead, 
+but, Rapidshare is not free in the premium version.
+http://rapidshare.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10993616</UserId>
+            <UserNick>virtpdox</UserNick>
+            <Date>2010-03-26 23:33:52</Date>
+            <Timestamp>1269671632</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Upload your file to Rapishare. Send the link that Rapidshare gives you to your friends. Now they can easily download the file. You do not need to be a premium user to upload files onto or download from Radipshare.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>HjEEKVdmaa</UserId>
+            <UserNick>Net Expert</UserNick>
+            <Date>2010-03-26 23:44:03</Date>
+            <Timestamp>1269672243</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I recommend you use this software ：E.M. Total Video Converter.
+It’s a piece of extremely powerful and full-featured converter software that supports almost all video and audio  formats. The software is designed to convert video for your mobile video player as 3gp, mp4, PSP, PS3, iPod, iPhone etc and also VCD or DVD player, XBOX360
+http://www.google.com/search?q=Total+Video+Converter+&amp;rls=com.microsoft:*:IE-SearchBox&amp;ie=UTF-8&amp;oe=UTF-8&amp;sourceid=ie7&amp;rlz=1I7GGLL_zh-CN
+http://www.effectmatrix.com/total-video-converter/index.htm</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2588jLuFaa</UserId>
+            <UserNick>windhello</UserNick>
+            <Date>2010-03-27 01:20:01</Date>
+            <Timestamp>1269678001</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi, to reduce your video size, you can try a video converter program to help you do this, i share Total Video Converter 
+Download here:
+http://www.macsoftreviews.com/aiseesoft-total-video-converter.html
+
+Step 1: Install and Run the Converter
+Step 2: Click &quot;Add File&quot; to add your video files.
+Step 3: you can find one format that meets your requirement from the &quot;Profile&quot; drop-down list 
+Step 4: Click the &quot;Setting&quot; button at the right of the &quot;profile&quot; drop-down list to set the important parameters: Video Bitrate, Audio Bitrate, Frame Rate and Video Size.
+For a high image/sound quality you can increase the value of Video/Audio Bitirate and for a compressed file you can decrease the value.
+After doing the steps above, you can click &quot;start&quot; button to start conversion.
+hope this helps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wxa79XxNaa</UserId>
+            <UserNick>Warren</UserNick>
+            <Date>2010-03-27 18:27:15</Date>
+            <Timestamp>1269739635</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:24:23 PDT 2010 -->

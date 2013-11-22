@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223222543AAAsuKa" type="Answered">
+    <Subject>How to get wireless Internet to work?</Subject>
+    <Content>My cousin has a laptop computer with a wireless card in it.  She has tried to connect to the Internet at a couple of public places with Wi-Fi (like McDonald&#039;s).  She can see that she has an excellenct signal, but when she clicks on the Internet, it says that the webpage cannot be displayed.  Her husband has about the same laptop and he can get on in a wink of an eye, but he&#039;s not sure how he did it.  She thinks it may have something to do with a setting here or there but not sure what to check.  She has asked me to help her, but I&#039;m not sure what to do either.  What is she doing wrong?
+</Content>
+    <Date>2010-02-23 22:25:43</Date>
+    <Timestamp>1266992743</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223222543AAAsuKa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tFMrQpPwaa</UserId>
+    <UserNick>Faith P</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/141tnlw2KAAIBNmE_dArRaYYB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>down in the bottom right there should be an icon with 2 computers click it and make sure that the network is selected and that you have wireless turned on on the computer</ChosenAnswer>
+    <ChosenAnswererId>kyhbVjaLaa</ChosenAnswererId>
+    <ChosenAnswererNick>GeorgeIsIn</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266992869</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267950737</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Make sure your IP assignment options are set to DHCP (Dynamic).</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nsiN6E3zaa</UserId>
+            <UserNick>Misc Tech Advice</UserNick>
+            <Date>2010-02-23 22:27:23</Date>
+            <Timestamp>1266992843</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>down in the bottom right there should be an icon with 2 computers click it and make sure that the network is selected and that you have wireless turned on on the computer</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kyhbVjaLaa</UserId>
+            <UserNick>GeorgeIsIn</UserNick>
+            <Date>2010-02-23 22:27:49</Date>
+            <Timestamp>1266992869</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:16:02 PDT 2010 -->

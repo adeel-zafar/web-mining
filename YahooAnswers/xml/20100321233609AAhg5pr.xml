@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321233609AAhg5pr" type="Answered">
+    <Subject>on formspring i cant?</Subject>
+    <Content>read the rest of the answers even when i click more or refresh how can i fix that?
+</Content>
+    <Date>2010-03-21 23:36:09</Date>
+    <Timestamp>1269239769</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321233609AAhg5pr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JHTaFo5Iaa</UserId>
+    <UserNick>saoki</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>formspring is overgoing a few technical difficulties. i&#039;m sure that&#039;s a part of it. just wait it out, i bet it will go back to normal later.
+
+but maybe not.. just a guess</ChosenAnswer>
+    <ChosenAnswererId>9kvFuuh2aa</ChosenAnswererId>
+    <ChosenAnswererNick>braaat</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269239867</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269811941</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>formspring is overgoing a few technical difficulties. i&#039;m sure that&#039;s a part of it. just wait it out, i bet it will go back to normal later.
+
+but maybe not.. just a guess</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>9kvFuuh2aa</UserId>
+            <UserNick>braaat</UserNick>
+            <Date>2010-03-21 23:37:47</Date>
+            <Timestamp>1269239867</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:30 PDT 2010 -->

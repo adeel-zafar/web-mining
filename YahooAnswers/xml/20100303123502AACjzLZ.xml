@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303123502AACjzLZ" type="Answered">
+    <Subject>Have you ever been on the website (UK)?</Subject>
+    <Content>SWAPZ? Have you ever swapped anything or wanting anything
+</Content>
+    <Date>2010-03-03 12:35:02</Date>
+    <Timestamp>1267648502</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303123502AACjzLZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>w8hyZICeaa</UserId>
+    <UserNick>LCFC</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b895b78i1e47zws118ac4/CCJi35I8erROcnfaJ_D3n1HCelU-/3/tn48.jpeg?ciAAToMBeAOY12Rk</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No, never been there.</ChosenAnswer>
+    <ChosenAnswererId>23b6749a7088443a1a545bf4e3bff54caa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267966288</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268168090</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, never been there.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>23b6749a7088443a1a545bf4e3bff54caa</UserId>
+            <UserNick>Mark D</UserNick>
+            <Date>2010-03-07 04:51:28</Date>
+            <Timestamp>1267966288</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:58 PDT 2010 -->

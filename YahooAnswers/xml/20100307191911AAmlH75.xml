@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307191911AAmlH75" type="Answered">
+    <Subject>My internet explorer #8 says not responding way too much.?</Subject>
+    <Content>so i switch to firefox but it is doing the same thing.also with explore 8 or firefox my computer Response is too slow (i have 5 gb of ram) 
+my main concern is i have a virus but i ran both window defender and my mcafee and both say no virus.
+Now im thinking it could be my dsl ?Does anybody have an idea what can be causing it ?
+thank you
+</Content>
+    <Date>2010-03-07 19:19:11</Date>
+    <Timestamp>1268018351</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307191911AAmlH75</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>a2738d857d2a134e0609dd258c28e864aa</UserId>
+    <UserNick>c.lane</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/19OBCTRa9AAIC_OFgvKOZpJs4KQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Doenload, update, run Malwarebytes, Hitman Pro, ccleaner, Reset IE8 to Defaults in Options, Advanced and restart PC...You can also reset router or unplug it for 10 sec and plug it back in, if the other does not help...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268020674</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268267364</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I was going to suggest F/fox but you&#039;re using it.  Have you &#039;defragged&#039; yr hard drive lately?
+
+Do a clean up of all unnecessary temp files, downloaded files &amp; history.   5Gb Ram is heaps I&#039;m only using 1 GB Ram with my old XP D/T &amp; 2 Gb Ram with Win 7 &amp; not having any probs.  Are you sure Mcafee isn&#039;t taking up too many resources?
+
+Change some of yr start up programs too (not everything needs to boot on start up).  If you&#039;ve tried all of that then perhaps check with yr ISP.  Sometimes mine (wireless dongle) runs a little slow (due to weather conditions in Aust.)  
+
+Have you tried ccleaner, or malwarebytes or spybot search &amp; destroy (all free fr filehippo.com) - might be worth downloading just to check once &amp; if you don&#039;t find anything remove. 
+
+ I use a full internet security suite not just anti-virus, hope I&#039;ve given you a couple of ideas.    Good luck</Content>
+            <Reference>Have used several different AV&#039;s  over the yrs &amp; some a real &#039;resource&#039; hogs.</Reference>
+            <Best></Best>
+            <UserId>oEYrC1Wsaa</UserId>
+            <UserNick>Min</UserNick>
+            <Date>2010-03-07 19:44:39</Date>
+            <Timestamp>1268019879</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Doenload, update, run Malwarebytes, Hitman Pro, ccleaner, Reset IE8 to Defaults in Options, Advanced and restart PC...You can also reset router or unplug it for 10 sec and plug it back in, if the other does not help...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://www.surfright.nl/en/hitmanpro
+http://download.cnet.com/ccleaner/?tag=mncol</Reference>
+            <Best>4</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-07 19:57:54</Date>
+            <Timestamp>1268020674</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:36:01 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228132329AAq1YEQ" type="Answered">
+    <Subject>NEED HELP OF SOMEONE WHO KNOWS THE INTERNET WELL!?</Subject>
+    <Content>Is swavi.org really bad... It seems kinda good to me? But loads of people say it hacks your accounts, is this possible? I am so clueless when it comes to technology! :(
+</Content>
+    <Date>2010-02-28 13:23:29</Date>
+    <Timestamp>1267392209</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228132329AAq1YEQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jMmBh3kWaa</UserId>
+    <UserNick>Sssss</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Site has really poor reputation on Web of Trust.  Do not use.</ChosenAnswer>
+    <ChosenAnswererId>AA11122593</ChosenAnswererId>
+    <ChosenAnswererNick>Jay Palsgaard</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267392637</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267911876</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;ve never been to tht website. But, if it asks u 2 sign in using an aim, facebook, or whatever, it will hack your account</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>czZlY3Baaa</UserId>
+            <UserNick>Chippy</UserNick>
+            <Date>2010-02-28 13:25:45</Date>
+            <Timestamp>1267392345</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Site has really poor reputation on Web of Trust.  Do not use.</Content>
+            <Reference>http://www.mywot.com/en/scorecard/swavi.org</Reference>
+            <Best>5</Best>
+            <UserId>AA11122593</UserId>
+            <UserNick>Jay Palsgaard</UserNick>
+            <Date>2010-02-28 13:30:37</Date>
+            <Timestamp>1267392637</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:05 PDT 2010 -->

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326185256AAi5dcK" type="Answered">
+    <Subject>Blocked web page help?</Subject>
+    <Content>my parents installed blue coat k9 protection on my computer and i am wondering how to get passed it. it keeps blocking things that dont need to be blocked and i am having trouble doing anything. i have tried vtunnel and other sites like that but they are blocked as proxy avoidance i am tired of this
+</Content>
+    <Date>2010-03-26 18:52:56</Date>
+    <Timestamp>1269654776</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326185256AAi5dcK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FNmDUVkDaa</UserId>
+    <UserNick>Connor</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Web filters get more sophisticated every day. They can scan and detect proxies as soon as you try to use them. The most advanced systems can block you within seconds. Others send a report to the admin and the block is done manually.
+
+The name of the proxy, how new it is, whether it’s https or not does not matter. The proxy will be detected and blocked because it’s a proxy.
+
+There is also considerable risk in using free proxies from unknown sources. Many of these free proxies are what are called hacker pots. They are there waiting for you to fall into their trap so they can steal your information and plant bots on your computer. Once a bot is planted the hacker has control of your machine and can steal credit cards, attack web sites and send out tons of spam all from your IP address.
+
+Some of the free proxies/vpn&#039;s are run by people out to make money. There is nothing wrong with that in principle. However the best case here is that you will get a proxy loaded with advertisements with no real speed to it. The amount of money the owner can make with advertising clicks is really only pennies. Many of these owners supplement their income by key logging everything you do and selling your personal information to advertising companies. Since you have no way to know what the owner is actually doing you need to assume the worst case is true.
+
+Read some more about free proxy servers below:
+
+http://www.personalvpn.org/danger_proxy_servers.htm</ChosenAnswer>
+    <ChosenAnswererId>dfldrUPEaa</ChosenAnswererId>
+    <ChosenAnswererNick>ds</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269733340</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269763781</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sample url...    http://answers.yahoo.com/question/answer?qid=20100326185256AAi5dcK
+Change the &quot;http://&quot; to &quot;https://&quot;
+Sample url...   https://answers.yahoo.com/question/answer?qid=20100326185256AAi5dcK</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uV6qX048aa</UserId>
+            <UserNick>Jonathan</UserNick>
+            <Date>2010-03-26 19:03:10</Date>
+            <Timestamp>1269655390</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Web filters get more sophisticated every day. They can scan and detect proxies as soon as you try to use them. The most advanced systems can block you within seconds. Others send a report to the admin and the block is done manually.
+
+The name of the proxy, how new it is, whether it’s https or not does not matter. The proxy will be detected and blocked because it’s a proxy.
+
+There is also considerable risk in using free proxies from unknown sources. Many of these free proxies are what are called hacker pots. They are there waiting for you to fall into their trap so they can steal your information and plant bots on your computer. Once a bot is planted the hacker has control of your machine and can steal credit cards, attack web sites and send out tons of spam all from your IP address.
+
+Some of the free proxies/vpn&#039;s are run by people out to make money. There is nothing wrong with that in principle. However the best case here is that you will get a proxy loaded with advertisements with no real speed to it. The amount of money the owner can make with advertising clicks is really only pennies. Many of these owners supplement their income by key logging everything you do and selling your personal information to advertising companies. Since you have no way to know what the owner is actually doing you need to assume the worst case is true.
+
+Read some more about free proxy servers below:
+
+http://www.personalvpn.org/danger_proxy_servers.htm</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dfldrUPEaa</UserId>
+            <UserNick>ds</UserNick>
+            <Date>2010-03-27 16:42:20</Date>
+            <Timestamp>1269733340</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here&#039;s a free proxy created today:
+http://mcancer1.info/1
+-Unblock ANY Website
+-watch youtube videos
+-download up to 50 MB
+-hide you IP and stay anonymous
+-Fast and hosted on a dedicated server
+
+I get new proxies here everyday:
+http://tech.groups.yahoo.com/group/NewFastWorkingProxies/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oZydD2rsaa</UserId>
+            <UserNick>Mike D</UserNick>
+            <Date>2010-03-27 21:11:24</Date>
+            <Timestamp>1269749484</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:07 PDT 2010 -->

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319191417AA5BMz3" type="Answered">
+    <Subject>No internet access on laptop?</Subject>
+    <Content>So i bought a laptop today and a wireless router. I installed the wireless router successfully but I still cannot connect to internet explorer. I have already read the directions and tried everything. Please help!
+</Content>
+    <Date>2010-03-19 19:14:17</Date>
+    <Timestamp>1269051257</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319191417AA5BMz3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hc4wZw9Raa</UserId>
+    <UserNick>Princess</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1azOJB_mYAAEC8mLF5JjjGLwB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>make and model of your laptop and router will help.
+
+anyway lets make it generic:
+1. assuming you&#039;ve configured you router properly then you router status should say you internet connection is active or you may see it from lights of your router (internet or WAN)
+
+2. On your laptop&#039;s wireless manager you must see your newly created SID or the name of your wifi.
+
+3. Connect to it and provide your security details if there is any.
+
+step one is very important. 
+good luck</ChosenAnswer>
+    <ChosenAnswererId>tq2PcI4Raa</ChosenAnswererId>
+    <ChosenAnswererNick>Jaydee</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269054695</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269098407</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>make and model of your laptop and router will help.
+
+anyway lets make it generic:
+1. assuming you&#039;ve configured you router properly then you router status should say you internet connection is active or you may see it from lights of your router (internet or WAN)
+
+2. On your laptop&#039;s wireless manager you must see your newly created SID or the name of your wifi.
+
+3. Connect to it and provide your security details if there is any.
+
+step one is very important. 
+good luck</Content>
+            <Reference>experiences
+http://xpdrivers.com/</Reference>
+            <Best>4</Best>
+            <UserId>tq2PcI4Raa</UserId>
+            <UserNick>Jaydee</UserNick>
+            <Date>2010-03-19 20:11:35</Date>
+            <Timestamp>1269054695</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:33:47 PDT 2010 -->

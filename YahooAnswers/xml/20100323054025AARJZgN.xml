@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323054025AARJZgN" type="Answered">
+    <Subject>Is this website illegal?</Subject>
+    <Content>http://www.hidemyass.com/
+Is it illegal to use this website?  Or am I just being paranoid?
+</Content>
+    <Date>2010-03-23 05:40:25</Date>
+    <Timestamp>1269348025</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323054025AARJZgN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bOQVkyyraa</UserId>
+    <UserNick>Blue Water</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You are being paranoid.</ChosenAnswer>
+    <ChosenAnswererId>ULw1777caa</ChosenAnswererId>
+    <ChosenAnswererNick>jasonicus</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269348106</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269867229</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You are being paranoid.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-23 05:41:46</Date>
+            <Timestamp>1269348106</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>paranoid proxys are completely legal they just hide your privacy from people that get on your computer not your internet provider</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>86593af7f9b716c0ec1fd8d6b4551a52aa</UserId>
+            <UserNick>Codey S</UserNick>
+            <Date>2010-03-23 05:42:25</Date>
+            <Timestamp>1269348145</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:19:13 PDT 2010 -->

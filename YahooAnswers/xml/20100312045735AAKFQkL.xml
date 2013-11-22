@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312045735AAKFQkL" type="Answered">
+    <Subject>Where are these re:tweets comming from?</Subject>
+    <Content>Some times when I tweet on Twitter, my tweets are retweeted by users who are not following me.
+
+How do they find my tweets lol?
+</Content>
+    <Date>2010-03-12 04:57:35</Date>
+    <Timestamp>1268398655</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312045735AAKFQkL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9Ur1VL9Paa</UserId>
+    <UserNick>Keithzworld</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb14282i12fdzws140ac4/0hun8YI6fq9jOYv5jenUB2mX/108/tn48.jpeg?ciAAToMB_IFeNo4A</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Everybody&#039;s Tweets are show on the public timeline so the people retweeting may be searching that for, say, &quot;bananas&quot; and you&#039;ve tweeted something about bananas that they think is worth repeating.
+
+See http://twitter.com/public_timeline</ChosenAnswer>
+    <ChosenAnswererId>XV3xa6ahaa</ChosenAnswererId>
+    <ChosenAnswererNick>Simonise</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268398943</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268570165</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Everybody&#039;s Tweets are show on the public timeline so the people retweeting may be searching that for, say, &quot;bananas&quot; and you&#039;ve tweeted something about bananas that they think is worth repeating.
+
+See http://twitter.com/public_timeline</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XV3xa6ahaa</UserId>
+            <UserNick>Simonise</UserNick>
+            <Date>2010-03-12 05:02:23</Date>
+            <Timestamp>1268398943</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Anyone can see your tweets (unless you&#039;ve protected them). They might have been retweeted by one of your followers, and then one of THEIR followers retweeted... and so on.
+
+The thing to remember with Twitter is that it&#039;s a bit like having a private conversation in a crowded bar. You might only be talking to your friends, but anyone can listen in!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11554265</UserId>
+            <UserNick>britwriterbabe</UserNick>
+            <Date>2010-03-12 05:03:24</Date>
+            <Timestamp>1268399004</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://trendsmap.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4b1d4f5e03e6cc91edc4af382f86a98faa</UserId>
+            <UserNick>Dan</UserNick>
+            <Date>2010-03-12 05:04:10</Date>
+            <Timestamp>1268399050</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>by Searching the same keyword they will get all the recent updates on twitter ..</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wVYery1Zaa</UserId>
+            <UserNick>ray</UserNick>
+            <Date>2010-03-12 05:09:28</Date>
+            <Timestamp>1268399368</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:10:29 PDT 2010 -->

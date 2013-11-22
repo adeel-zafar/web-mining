@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304043449AAPFlyz" type="Answered">
+    <Subject>Trying to add Feedburner or other widget to my WordPress blog so people can sign up for update notifications?</Subject>
+    <Content>A friend of mine has a WordPress blog and I get updates from it via Feedburner whenever he posts new content, but I&#039;m having trouble figuring out how to add a widget or other function to my blog to allow Feedburner to send out notifications to people who want to know when I post new content. Could someone help me figure out the best way to go about this? Thanks!
+</Content>
+    <Date>2010-03-04 04:34:49</Date>
+    <Timestamp>1267706089</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304043449AAPFlyz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11794764</UserId>
+    <UserNick>Pastor Chad from JesusFreak.com</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bb6918i764z/4aqF2Wc3aaPw0PXlHgcc6dId04b2qRM57tcYTw--/102/tn48.jpg?ciAAToMBkoeJ_HwC</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.killerstartups.com/killersearch/wordpress-rss-widget/</ChosenAnswer>
+    <ChosenAnswererId>DeiuAuwyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Brenda</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267714275</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268225596</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.killerstartups.com/killersearch/wordpress-rss-widget/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DeiuAuwyaa</UserId>
+            <UserNick>Brenda</UserNick>
+            <Date>2010-03-04 06:51:15</Date>
+            <Timestamp>1267714275</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:12:17 PDT 2010 -->

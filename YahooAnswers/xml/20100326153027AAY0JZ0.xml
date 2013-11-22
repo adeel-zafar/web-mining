@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326153027AAY0JZ0" type="Answered">
+    <Subject>Free virus scan and anti virus program? I need a really good virus scan and protector on my laptop thats free!?</Subject>
+    <Content>Free virus scan and anti virus program?
+I need a really good virus scan and protector on my laptop thats free!
+</Content>
+    <Date>2010-03-26 15:30:27</Date>
+    <Timestamp>1269642627</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326153027AAY0JZ0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NMrhTBGCaa</UserId>
+    <UserNick>Sunday</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>wsZtB0xhaa</ChosenAnswererId>
+    <ChosenAnswererNick>google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269728307</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269728682</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try AVG
+
+http://www.avg.com/us-en/homepage</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>01473c90c2cab4a9469d7b1a179f9108aa</UserId>
+            <UserNick>chancey</UserNick>
+            <Date>2010-03-26 15:33:28</Date>
+            <Timestamp>1269642808</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Use Avast or Avira. PC World released a comparison of the Best Free Anti-Virus packages and these two came in at the top of the list. Currently I am using Avast and so far I have had no problems at all.</Content>
+            <Reference>http://download.cnet.com/Avast-Free-Antivirus/3000-2239_4-10019223.html?tag=mncol
+http://download.cnet.com/Avira-AntiVir-Personal-Free-Antivirus/3000-2239_4-10322935.html?tag=mncol
+http://www.pcworld.com/article/170587-2/can_you_trust_free_antivirus_software.html</Reference>
+            <Best></Best>
+            <UserId>HsoYmtaDaa</UserId>
+            <UserNick>Stephen</UserNick>
+            <Date>2010-03-26 15:40:04</Date>
+            <Timestamp>1269643204</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ClamWin is great, it&#039;s free and opensource and it&#039;s not a dumbed-down version of a good program; this is the full package. Get it at http://sourceforge.net/projects/clamwin/</Content>
+            <Reference>http://sourceforge.net/projects/clamwin/</Reference>
+            <Best></Best>
+            <UserId>8WyyAfLBaa</UserId>
+            <UserNick>lcdrovers</UserNick>
+            <Date>2010-03-26 15:45:18</Date>
+            <Timestamp>1269643518</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wsZtB0xhaa</UserId>
+            <UserNick>google</UserNick>
+            <Date>2010-03-27 15:18:27</Date>
+            <Timestamp>1269728307</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:53 PDT 2010 -->

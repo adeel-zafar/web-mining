@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301174504AAebr2W" type="Answered">
+    <Subject>I have a friend whose internet is not working well?</Subject>
+    <Content>He says the only thing he has is skype, but when he enters to internet explorer, none of the pages open. Can someone help him?
+</Content>
+    <Date>2010-03-01 17:45:04</Date>
+    <Timestamp>1267494304</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301174504AAebr2W</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>OYBncdUAaa</UserId>
+    <UserNick>juan.7655</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b8c7dbci24ddzws115mud/TR7po3A7bqfhZHe9Ht2l8Cg-/1/tn48.jpeg?ciAAToMBqu6L1li4</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>call ur internet provider</ChosenAnswer>
+    <ChosenAnswererId>VgCO5xAeaa</ChosenAnswererId>
+    <ChosenAnswererNick>candy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267494352</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267663066</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>call ur internet provider</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>VgCO5xAeaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-01 17:45:52</Date>
+            <Timestamp>1267494352</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Maybe he&#039;s entering the wrong addresses.  It&#039;s not the internet; it&#039;s the browser.  It might just be his computer though.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Gka6vkACaa</UserId>
+            <UserNick>Carmen</UserNick>
+            <Date>2010-03-01 17:46:08</Date>
+            <Timestamp>1267494368</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:29:30 PDT 2010 -->

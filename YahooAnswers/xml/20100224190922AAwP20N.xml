@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224190922AAwP20N" type="Answered">
+    <Subject>I&#039;m a longstanding Firefox user. How do I stop IE interfering?</Subject>
+    <Content>While I cannot remove IE form my computer, how can I &#039;tame&#039; it as it seems to compete with Firefox which I prefer as my browser.
+
+Any suggestions?
+
+Thanks
+Gemhak
+</Content>
+    <Date>2010-02-24 19:09:22</Date>
+    <Timestamp>1267067362</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224190922AAwP20N</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11139356</UserId>
+    <UserNick>gemhak</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Not sure what you mean by &quot;interfering,&quot; but if you mean IE gets invoked when you double-click a link in, say, an email, you should be able to fix that by setting FF as your default browser.  Here&#039;s how:
+
+In XP:
+
+1. Click the Start-&gt;Control Panel menu item.
+2. Click Add or Remove Programs (trust me!).
+3. In the left pane, click the Set Program Access and Defaults item.
+4. Click the listbox arrow on the Custom row.
+5. Under Web Browser, select Mozilla Firefox.
+6. Click OK.
+
+In Vista:
+
+1. Click the Start-&gt;Default Programs menu item.
+2. Click the &quot;Set your default programs link&quot;.
+3. Click Firefox.
+4. Click &quot;Set this program as default&quot;.
+5. Click OK.
+
+Hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267068436</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267586734</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can set Firefox as your default program to open all internet/web page related files and such.
+
+To do this go to Start/Default Programs
+
+Click the link that says Set your Default Programs
+
+Then select Firefox, and click where it says Set this program as default
+
+NOTE: That&#039;s how to do it on Windows 7. To find that menu on XP or Vista you might have to go into the Control Panel and look around a bit.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gN3iLLeWaa</UserId>
+            <UserNick>kol</UserNick>
+            <Date>2010-02-24 19:13:01</Date>
+            <Timestamp>1267067581</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Not sure what you mean by &quot;interfering,&quot; but if you mean IE gets invoked when you double-click a link in, say, an email, you should be able to fix that by setting FF as your default browser.  Here&#039;s how:
+
+In XP:
+
+1. Click the Start-&gt;Control Panel menu item.
+2. Click Add or Remove Programs (trust me!).
+3. In the left pane, click the Set Program Access and Defaults item.
+4. Click the listbox arrow on the Custom row.
+5. Under Web Browser, select Mozilla Firefox.
+6. Click OK.
+
+In Vista:
+
+1. Click the Start-&gt;Default Programs menu item.
+2. Click the &quot;Set your default programs link&quot;.
+3. Click Firefox.
+4. Click &quot;Set this program as default&quot;.
+5. Click OK.
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-02-24 19:27:16</Date>
+            <Timestamp>1267068436</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Check the link...</Content>
+            <Reference>http://www.techsupportalert.com/how_to_disable_internet_explorer.htm</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-24 19:44:15</Date>
+            <Timestamp>1267069455</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:12:01 PDT 2010 -->

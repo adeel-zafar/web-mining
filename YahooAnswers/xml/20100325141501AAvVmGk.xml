@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325141501AAvVmGk" type="Answered">
+    <Subject>Multiple-Package order on Ebay?</Subject>
+    <Content>If I sell a snowboard and bindings they will need to go in different boxes (but will still be a together type; thing... the board comes with bindings). Do I put the same label on each of the two boxes?
+</Content>
+    <Date>2010-03-25 14:15:01</Date>
+    <Timestamp>1269551701</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325141501AAvVmGk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>COVwNYGVaa</UserId>
+    <UserNick>Justin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No, you will need to ship each box separately.
+
+Weigh each box, print the labels accordingly. 
+
+You will pay for and print two labels.</ChosenAnswer>
+    <ChosenAnswererId>AaXzazhcaa</ChosenAnswererId>
+    <ChosenAnswererNick>deco</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269571375</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270071373</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, you will need to ship each box separately.
+
+Weigh each box, print the labels accordingly. 
+
+You will pay for and print two labels.</Content>
+            <Reference>Ebay Trust and Safety Board Poster</Reference>
+            <Best>5</Best>
+            <UserId>AaXzazhcaa</UserId>
+            <UserNick>deco</UserNick>
+            <Date>2010-03-25 19:42:55</Date>
+            <Timestamp>1269571375</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:30:34 PDT 2010 -->

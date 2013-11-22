@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305212622AATOOnN" type="Answered">
+    <Subject>why don&#039;t my tweets show up on the public timeline?</Subject>
+    <Content>On Twitter, when I post things, I can&#039;t ever see them on the public timeline. For example, if I use a tag like #iloveyou then search that tag, my tweet is never there. And I don&#039;t think my @replies go on there either. My twitter isn&#039;t locked so only people I follow can see, so I don&#039;t understand why it wouldn&#039;t show up. Any ideas?
+#iloveyou was just an example. I make up my own hash tags, and then they&#039;re not in the timeline.
+</Content>
+    <Date>2010-03-05 21:26:22</Date>
+    <Timestamp>1267853182</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305212622AATOOnN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WGrDXAhcaa</UserId>
+    <UserNick>christzmyangel</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1kuhOfRaMAAEC-oFTqNsBnIlDMQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The most probable reason is you are looking for your tweets in a busy hashtag (like #iloveyou) where several messages may have been posted while you posted a message and looked for it.
+
+Try to search for #hashtag and your nickname and see if Twitter can locate the tweet for you.</ChosenAnswer>
+    <ChosenAnswererId>c75u2IYKaa</ChosenAnswererId>
+    <ChosenAnswererNick>Arun Agrawal - Ebizindia</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267853401</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268372623</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The most probable reason is you are looking for your tweets in a busy hashtag (like #iloveyou) where several messages may have been posted while you posted a message and looked for it.
+
+Try to search for #hashtag and your nickname and see if Twitter can locate the tweet for you.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>c75u2IYKaa</UserId>
+            <UserNick>Arun Agrawal - Ebizindia</UserNick>
+            <Date>2010-03-05 21:30:01</Date>
+            <Timestamp>1267853401</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:52:31 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306114702AAhj4tv" type="Answered">
+    <Subject>why am I having problems watching videos and listening to music on the internet?</Subject>
+    <Content>It started all of a sudden like 3 days ago and I;m sick of it, the videos on youtube take long as hell to buffer and so does the music, they start playing and stop every 15 minutes, what do I do? what&#039;s the problem?
+</Content>
+    <Date>2010-03-06 11:47:02</Date>
+    <Timestamp>1267904822</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306114702AAhj4tv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kQBBW5Zbaa</UserId>
+    <UserNick>KennyAMV</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Download CC Cleaner. It&#039;s a Registry Cleaner Software. There are a lot but try this fisrt and still it doesn&#039;t help, try Registry Cleaner Excert. 99% it works, sure.</ChosenAnswer>
+    <ChosenAnswererId>64a582e999957e5b09ad9eba2cf0c22faa</ChosenAnswererId>
+    <ChosenAnswererNick>Willie Black</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267905369</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268424453</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Download CC Cleaner. It&#039;s a Registry Cleaner Software. There are a lot but try this fisrt and still it doesn&#039;t help, try Registry Cleaner Excert. 99% it works, sure.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>64a582e999957e5b09ad9eba2cf0c22faa</UserId>
+            <UserNick>Willie</UserNick>
+            <Date>2010-03-06 11:56:09</Date>
+            <Timestamp>1267905369</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:47:42 PDT 2010 -->

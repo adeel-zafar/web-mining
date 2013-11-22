@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322173443AAA6zbT" type="Answered">
+    <Subject>Help I can&#039;t connect to 7chan?</Subject>
+    <Content>When I Diagnose Connection Problems all I get &quot;www.7chan.org&quot; is not set up to establish a connection on port &quot;https&quot; with this computer the site was working fine on Saturday so can someone please help.
+
+Thanks in advance.
+</Content>
+    <Date>2010-03-22 17:34:43</Date>
+    <Timestamp>1269304483</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322173443AAA6zbT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mFno3AtSaa</UserId>
+    <UserNick>Nathalia Ruiz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/11kc8A272AAEDGQJaFI1qosqiHQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>7chan is down right now.. Go to 4chan?</ChosenAnswer>
+    <ChosenAnswererId>KIaMCXmfaa</ChosenAnswererId>
+    <ChosenAnswererNick>DjDom</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269304672</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269372394</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>7chan is down right now.. Go to 4chan?</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>KIaMCXmfaa</UserId>
+            <UserNick>DjDom</UserNick>
+            <Date>2010-03-22 17:37:52</Date>
+            <Timestamp>1269304672</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:21:08 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301232025AAOKOBJ" type="Answered">
+    <Subject>Is there any Desktop Software to find out the number of RSS Subscribers ?</Subject>
+    <Content>Is there any Desktop Software to find out the number of RSS Subscribers of any website (With feed burner and Google Analytics I can only see the feed statistics of my ID but I want a desktop application with which I can see the details of any website I want to .
+</Content>
+    <Date>2010-03-01 23:20:25</Date>
+    <Timestamp>1267514425</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301232025AAOKOBJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Qxqtrqd2aa</UserId>
+    <UserNick>Peril Causing Devil</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1sfT6lPq0AAED_IFHjI5BBw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, u can and the name of the software is FEEDCOUNT. Here is the link http://www.bytechip.com/2010/02/feed-2/ .</ChosenAnswer>
+    <ChosenAnswererId>6pAKpnAgaa</ChosenAnswererId>
+    <ChosenAnswererNick>A_Sidk</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267518830</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267579790</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, u can and the name of the software is FEEDCOUNT. Here is the link http://www.bytechip.com/2010/02/feed-2/ .</Content>
+            <Reference>www.Bytechip.com</Reference>
+            <Best>5</Best>
+            <UserId>6pAKpnAgaa</UserId>
+            <UserNick>A_Sidk</UserNick>
+            <Date>2010-03-02 00:33:50</Date>
+            <Timestamp>1267518830</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:28:08 PDT 2010 -->

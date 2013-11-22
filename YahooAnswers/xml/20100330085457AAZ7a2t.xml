@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330085457AAZ7a2t" type="Answered">
+    <Subject>when selling on ebay, how do you know when the winning bidder has payed through paypal?</Subject>
+    <Content>when selling on ebay, how do you know when the winning bidder has payed through paypal?
+do you get an email?
+</Content>
+    <Date>2010-03-30 08:54:57</Date>
+    <Timestamp>1269964497</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330085457AAZ7a2t</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lRSk75tdaa</UserId>
+    <UserNick>Philip Augustus</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1IBSTKo-tAAECAqJEtLLtCV8B.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You will get an email from PayPal.  You can also log in to your PayPal account and see the transaction in your history.  It should also show up on eBay as paid or payment in process or something along those lines.</ChosenAnswer>
+    <ChosenAnswererId>JFjYkdIOaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269967250</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270346036</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes.  You will get an email through PayPal</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KCqdcea4aa</UserId>
+            <UserNick>vectorassassin</UserNick>
+            <Date>2010-03-30 08:56:51</Date>
+            <Timestamp>1269964611</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, you get an e-mail along with one of the icons being lit next to your sold item in the selling section.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rY0885ylaa</UserId>
+            <UserNick>Carter_k1</UserNick>
+            <Date>2010-03-30 08:57:14</Date>
+            <Timestamp>1269964634</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You will get an email from PayPal.  You can also log in to your PayPal account and see the transaction in your history.  It should also show up on eBay as paid or payment in process or something along those lines.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JFjYkdIOaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-30 09:40:50</Date>
+            <Timestamp>1269967250</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:17 PDT 2010 -->

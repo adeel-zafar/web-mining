@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314161406AAs1IPg" type="Answered">
+    <Subject>How can i get Apple to stop sending me automatic receipts?</Subject>
+    <Content>Every single time I download a new app (always free, never a cost) from the store on my iphone, it sends an automatic receipt eventually to my e-mail. It is so annoying. I don&#039;t remember ever confirming it to do this. How can I stop this! Please
+</Content>
+    <Date>2010-03-14 16:14:06</Date>
+    <Timestamp>1268608446</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314161406AAs1IPg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MfSeNwCWaa</UserId>
+    <UserNick>nizzo dizzo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1R6gE97PwAAEDXKFrGI7DEU4A.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>there must be an unsubscribe button somewhere, or if an animated service, it won&#039;t know any better so just grin and bare it and delete the unopened mail?</ChosenAnswer>
+    <ChosenAnswererId>iSj8L9IKaa</ChosenAnswererId>
+    <ChosenAnswererNick>t12_incomplete</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268608654</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268793881</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Set up a new email account, log into your iTunes account and change the email address. You wont get any more notifications on your regular email.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BgwTxzEFaa</UserId>
+            <UserNick>korgrue</UserNick>
+            <Date>2010-03-14 16:15:59</Date>
+            <Timestamp>1268608559</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>there must be an unsubscribe button somewhere, or if an animated service, it won&#039;t know any better so just grin and bare it and delete the unopened mail?</Content>
+            <Reference>IT Cert. 3</Reference>
+            <Best>3</Best>
+            <UserId>iSj8L9IKaa</UserId>
+            <UserNick>t12_incomplete</UserNick>
+            <Date>2010-03-14 16:17:34</Date>
+            <Timestamp>1268608654</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:38 PDT 2010 -->

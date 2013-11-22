@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222234959AAcQNbx" type="Answered">
+    <Subject>Everytime I open My Internet  Explorer or Firefox It keeps on  &quot;not responding.&quot;?</Subject>
+    <Content>It doesnt happen to Google Chrome, and I personally use Google Chrome on this laptop and now my parents are starting to use it cuz internet explorer and firefox wont work, and now their closing tabs that I need to kept open!
+Does anyone know whats happening to my Internet Explorer or Firefox?
+</Content>
+    <Date>2010-02-22 23:49:59</Date>
+    <Timestamp>1266911399</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222234959AAcQNbx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nS0l8c9iaa</UserId>
+    <UserNick>Vinci P</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This might help. Go the website below, Download Ccleaner. (Make sure you click &quot;Download Latest Version&quot;)
+
+http://www.filehippo.com/download_ccleaner
+
+Once it&#039;s finished downloading, open it up and once Ccleaner has opened. Click &quot;Analyze&quot; and when it&#039;s analyzed everything click &quot;Run Cleaner&quot;. This should only take a second to scan since it only erases your internet cache etc.
+
+Next, click on &quot;Registry&quot;. Then click &quot;Scan for Issues&quot;. Once scan has finished, click &quot;Fix seleted Issues&quot; (don&#039;t back files up) and then click &quot;Fix all&quot;
+
+Now, try opening firefox or internet explorer. It should help start it. Before opening Ccleaner make sure you exit your current web browse so it can scan that.
+
+I hope this work.
+
+If you&#039;re still having issues, Msg me. I&#039;ll try help.</ChosenAnswer>
+    <ChosenAnswererId>9YRH9LXpaa</ChosenAnswererId>
+    <ChosenAnswererNick>UnholyVixen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266919200</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266998901</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>IE or Firefox may not work with your internet. What kind of service do you have? Dail-up, DSL, etc?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>j0V589KWaa</UserId>
+            <UserNick>Cody</UserNick>
+            <Date>2010-02-23 00:19:30</Date>
+            <Timestamp>1266913170</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This might help. Go the website below, Download Ccleaner. (Make sure you click &quot;Download Latest Version&quot;)
+
+http://www.filehippo.com/download_ccleaner
+
+Once it&#039;s finished downloading, open it up and once Ccleaner has opened. Click &quot;Analyze&quot; and when it&#039;s analyzed everything click &quot;Run Cleaner&quot;. This should only take a second to scan since it only erases your internet cache etc.
+
+Next, click on &quot;Registry&quot;. Then click &quot;Scan for Issues&quot;. Once scan has finished, click &quot;Fix seleted Issues&quot; (don&#039;t back files up) and then click &quot;Fix all&quot;
+
+Now, try opening firefox or internet explorer. It should help start it. Before opening Ccleaner make sure you exit your current web browse so it can scan that.
+
+I hope this work.
+
+If you&#039;re still having issues, Msg me. I&#039;ll try help.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>9YRH9LXpaa</UserId>
+            <UserNick>^__^</UserNick>
+            <Date>2010-02-23 02:00:00</Date>
+            <Timestamp>1266919200</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:23:54 PDT 2010 -->

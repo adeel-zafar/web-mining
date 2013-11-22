@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223164955AADzVTe" type="Answered">
+    <Subject>Can i get my bookmarks back from the firefox from the old mozilla foler from the previous os?</Subject>
+    <Content>I manage to get mozilla firefox folder completely(from program files) but i dont know if I can get my bookmarks from there...
+</Content>
+    <Date>2010-02-23 16:49:55</Date>
+    <Timestamp>1266972595</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223164955AADzVTe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ShVlK5Q7aa</UserId>
+    <UserNick>Nightmare</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1DJGkdA6uAAECQWEo8AceAQ==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I believe by default that Firefox stores your bookmarks in a different folder, but if you can search that folder you can look for files with the extension .json</ChosenAnswer>
+    <ChosenAnswererId>T8E4D2T0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Kevin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266973950</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267642934</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I believe by default that Firefox stores your bookmarks in a different folder, but if you can search that folder you can look for files with the extension .json</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>T8E4D2T0aa</UserId>
+            <UserNick>Kevin</UserNick>
+            <Date>2010-02-23 17:12:30</Date>
+            <Timestamp>1266973950</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:44 PDT 2010 -->

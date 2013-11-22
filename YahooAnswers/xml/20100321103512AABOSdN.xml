@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321103512AABOSdN" type="Answered">
+    <Subject>yourfilehost viewing problem?</Subject>
+    <Content>I have tried to watch some video on yourfilehost.com for the past 2 days, but it seems that I just can&#039;t see any, and there is no pop-up reason. Anyone know why ?
+</Content>
+    <Date>2010-03-21 10:35:12</Date>
+    <Timestamp>1269192912</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321103512AABOSdN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>a56b81a6fff1cdddf44470581a5ae39daa</UserId>
+    <UserNick>Huang s</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Because the bypassing of the inertial dampeners took place slower than expected.</ChosenAnswer>
+    <ChosenAnswererId>AA10024451</ChosenAnswererId>
+    <ChosenAnswererNick>Defender of Truth</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269883888</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270058103</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Because the bypassing of the inertial dampeners took place slower than expected.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10024451</UserId>
+            <UserNick>Defender of Truth</UserNick>
+            <Date>2010-03-29 10:31:28</Date>
+            <Timestamp>1269883888</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:33 PDT 2010 -->

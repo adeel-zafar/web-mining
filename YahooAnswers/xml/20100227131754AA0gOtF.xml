@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227131754AA0gOtF" type="Answered">
+    <Subject>How can I get more followers on Twitter?</Subject>
+    <Content>Im kind of new to twitter and I want more followers
+</Content>
+    <Date>2010-02-27 13:17:54</Date>
+    <Timestamp>1267305474</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227131754AA0gOtF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2GYlQAEuaa</UserId>
+    <UserNick>Joe</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try a Twitter train.  You follow people, and then get added to the train and other people follow you.  Try this one:  http://targetfollowers.com</ChosenAnswer>
+    <ChosenAnswererId>OJyts4ptaa</ChosenAnswererId>
+    <ChosenAnswererNick>stevendbrady</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267318328</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267487249</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>find something people want to hear about.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Hn1BoiZ1aa</UserId>
+            <UserNick>Tommy</UserNick>
+            <Date>2010-02-27 13:19:54</Date>
+            <Timestamp>1267305594</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try a Twitter train.  You follow people, and then get added to the train and other people follow you.  Try this one:  http://targetfollowers.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OJyts4ptaa</UserId>
+            <UserNick>stevendbrady</UserNick>
+            <Date>2010-02-27 16:52:08</Date>
+            <Timestamp>1267318328</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:43:13 PDT 2010 -->

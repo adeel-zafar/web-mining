@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310191918AAymR9n" type="Answered">
+    <Subject>Am I the only one who like to use the same ID for everything online?</Subject>
+    <Content>I&#039;ve got the habit of using the same net ID for everything I do online - forums, Ebay, AIM, etc...
+
+Unless I have a real reason to use a different ID, each time I sign up for something I just use the same ID without thinking about it. Is that normal?
+</Content>
+    <Date>2010-03-10 19:19:18</Date>
+    <Timestamp>1268277558</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310191918AAymR9n</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BOlM38mbaa</UserId>
+    <UserNick>jeremy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Theres nothing wrong with doing that! At least you wont forget what it is..</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268296649</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268793299</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Theres nothing wrong with doing that! At least you wont forget what it is..</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-11 00:37:29</Date>
+            <Timestamp>1268296649</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:15:39 PDT 2010 -->

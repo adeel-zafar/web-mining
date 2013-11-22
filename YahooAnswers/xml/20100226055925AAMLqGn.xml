@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226055925AAMLqGn" type="Answered">
+    <Subject>I cant log on to the internet with firefox anymore but I can with internet Explorer?</Subject>
+    <Content>I had to use internet explorer to ask this question. I try to log on to Mozilla Firefox and I get a message that says &quot; The operation has been cancelled due to restrictions in effect on this computer. Contact your system administrator &quot;. This problem just started. I have to re download Firefox every time I want to use it. THanks
+</Content>
+    <Date>2010-02-26 05:59:25</Date>
+    <Timestamp>1267192765</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226055925AAMLqGn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4OOpyFSFaa</UserId>
+    <UserNick>Sgt.Morgan1</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1yIc5s06EAAEB_gElhc8iCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try 
+Start &gt; Default Programs &gt; Set Your Default Programs
+and make sure Firefox is set as your default browser.
+
+EDIT
+
+Bit of reading for you if the above doesn&#039;t work.
+
+http://www.google.co.uk/search?q=The+operation+has+been+cancelled+due+to+restrictions+in+effect+on+this+computer.+Contact+your+system+administrator&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-GB:official&amp;client=firefox-a</ChosenAnswer>
+    <ChosenAnswererId>xQSairBOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Blas</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267194344</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267276524</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe there is a firewall not allowing Mozilla Firefox to work. And if there is no firewall, then your internet connection got problems. Try to call the computer technician.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jq7TYcebaa</UserId>
+            <UserNick>Happy Penguin</UserNick>
+            <Date>2010-02-26 06:02:18</Date>
+            <Timestamp>1267192938</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well if you are at a shared computer its possible that the owner of the computer could&#039;ve setted restrictions on that particular computer in that case you are going to have to talk to the adminstrator</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HiGw5vxKaa</UserId>
+            <UserNick>dannyboy9780</UserNick>
+            <Date>2010-02-26 06:16:56</Date>
+            <Timestamp>1267193816</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try 
+Start &gt; Default Programs &gt; Set Your Default Programs
+and make sure Firefox is set as your default browser.
+
+EDIT
+
+Bit of reading for you if the above doesn&#039;t work.
+
+http://www.google.co.uk/search?q=The+operation+has+been+cancelled+due+to+restrictions+in+effect+on+this+computer.+Contact+your+system+administrator&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-GB:official&amp;client=firefox-a</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xQSairBOaa</UserId>
+            <UserNick>Blas</UserNick>
+            <Date>2010-02-26 06:25:44</Date>
+            <Timestamp>1267194344</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Check the firewall settings</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Htvpn8Tpaa</UserId>
+            <UserNick>Rick</UserNick>
+            <Date>2010-02-26 09:35:13</Date>
+            <Timestamp>1267205713</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:52:10 PDT 2010 -->

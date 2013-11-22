@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223190816AA3A1e4" type="Answered">
+    <Subject>Firefox addon for saving an image with a click?</Subject>
+    <Content>I&#039;m looking for a firefox addon that will let me save an image I click on with some form of modified click (like shift+click, or middle click, or something like that). It should then save to some pre-specified image directory automatically.
+
+Is there an addon that does anything like this? I really hope I don&#039;t have to make this addon myself... but it sure would save me time.
+
+Also, addons I&#039;m NOT interested in is ripping all the images from a site. I&#039;m looking to save only specific images just much much faster than rightclick-&gt;save image as...
+</Content>
+    <Date>2010-02-23 19:08:16</Date>
+    <Timestamp>1266980896</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223190816AA3A1e4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VeLdDMbgaa</UserId>
+    <UserNick>Zero</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1NJP4bsScAAEC5UQpTsvwWXgB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This is the closest I could find, you still have to right click and save image as, but this way you can put it directly in the folder you want.
+
+https://addons.mozilla.org/en-US/firefox/addon/614</ChosenAnswer>
+    <ChosenAnswererId>E3rz01sIaa</ChosenAnswererId>
+    <ChosenAnswererNick>Wykked</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266987951</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267079575</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This is the closest I could find, you still have to right click and save image as, but this way you can put it directly in the folder you want.
+
+https://addons.mozilla.org/en-US/firefox/addon/614</Content>
+            <Reference>http://www.jeetblog.com/six-best-firefox-3-add-on-stock-images/</Reference>
+            <Best>3</Best>
+            <UserId>E3rz01sIaa</UserId>
+            <UserNick>Wykked</UserNick>
+            <Date>2010-02-23 21:05:51</Date>
+            <Timestamp>1266987951</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:03 PDT 2010 -->

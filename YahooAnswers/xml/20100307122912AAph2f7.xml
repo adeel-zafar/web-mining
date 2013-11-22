@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307122912AAph2f7" type="Answered">
+    <Subject>Enable cookies on iPod touch?</Subject>
+    <Content>Yes, I have gone on settings and enabled them under &quot;always&quot;. But even then, it still does the same thing and shows &quot;Your browser either does not support cookies,
+or you are not accessing this site via its
+fully qualified domain name. Please enable
+cookies for this domain and try again.&quot;
+</Content>
+    <Date>2010-03-07 12:29:12</Date>
+    <Timestamp>1267993752</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307122912AAph2f7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>j4pXPhEsaa</UserId>
+    <UserNick>Blaze</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Settings&gt;Safari&gt;accept cookies</ChosenAnswer>
+    <ChosenAnswererId>Vp4xu5Mxaa</ChosenAnswererId>
+    <ChosenAnswererNick>Edgar</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267993838</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268513239</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s in the Preferences app.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-07 12:30:25</Date>
+            <Timestamp>1267993825</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Settings&gt;Safari&gt;accept cookies</Content>
+            <Reference>mah ipod touch :)]
+
+or if you could reset ipod settings and then turn them on</Reference>
+            <Best>5</Best>
+            <UserId>Vp4xu5Mxaa</UserId>
+            <UserNick>Edgar</UserNick>
+            <Date>2010-03-07 12:30:38</Date>
+            <Timestamp>1267993838</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:38:41 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326154423AAEqSwY" type="Answered">
+    <Subject>My saynow account isn&#039;t working. Please help.?</Subject>
+    <Content>When I click on live it wont save. when i use my phone to call in and press one to turn myself live. that doesn&#039;t work either. D:
+</Content>
+    <Date>2010-03-26 15:44:23</Date>
+    <Timestamp>1269643463</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326154423AAEqSwY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>M8rXHiyIaa</UserId>
+    <UserNick>Courtney :D</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1oFdDoky2AAEBvGOcvCTZGVcB.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Courtney - make them aware via their support forum (http://getsatisfaction.com/saynow) There&#039;s an area designated for problems, and I have it on good authority that they&#039;re pretty quick to respond :-)</ChosenAnswer>
+    <ChosenAnswererId>N1kvrHXwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jonathan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269662719</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269721634</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Courtney - make them aware via their support forum (http://getsatisfaction.com/saynow) There&#039;s an area designated for problems, and I have it on good authority that they&#039;re pretty quick to respond :-)</Content>
+            <Reference>http://getsatisfaction.com/saynow</Reference>
+            <Best>3</Best>
+            <UserId>N1kvrHXwaa</UserId>
+            <UserNick>Jonathan</UserNick>
+            <Date>2010-03-26 21:05:19</Date>
+            <Timestamp>1269662719</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:48 PDT 2010 -->

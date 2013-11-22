@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308142629AA74R9c" type="Answered">
+    <Subject>have reset router allll the time WHY?</Subject>
+    <Content>About every hour I have to reset my belkin router and when I reset I loose all my security settings so I have to set those several times a day. We have a Modem and my wirless router is connected to that any suggestions? I am so sick of this
+Its a Belkin Wireless N router Model # f5d8230-4 router
+</Content>
+    <Date>2010-03-08 14:26:29</Date>
+    <Timestamp>1268087189</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308142629AA74R9c</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>p0Yh9R3Uaa</UserId>
+    <UserNick>Talya&#039;s Mommy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Make and model number of the router would have helped...
+
+Go to the manufacturer&#039;s web site and see if there is a firmware update for your router.
+
+Instead of resetting it, next time try just pulling the power plug for a moment and then plugging it back in.</ChosenAnswer>
+    <ChosenAnswererId>AA11666968</ChosenAnswererId>
+    <ChosenAnswererNick>Annorax</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268087335</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268603152</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Make and model number of the router would have helped...
+
+Go to the manufacturer&#039;s web site and see if there is a firmware update for your router.
+
+Instead of resetting it, next time try just pulling the power plug for a moment and then plugging it back in.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11666968</UserId>
+            <UserNick>Annorax</UserNick>
+            <Date>2010-03-08 14:28:55</Date>
+            <Timestamp>1268087335</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:30:11 PDT 2010 -->

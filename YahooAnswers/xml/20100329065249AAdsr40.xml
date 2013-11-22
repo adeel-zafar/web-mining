@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329065249AAdsr40" type="Answered">
+    <Subject>wikiHow problem, please help?!?</Subject>
+    <Content>I got a message from wikihow saying that I made several edits recently that were not in line with wikihow&#039;s standards (like spamming and stuff.) but i didnt do it. it said that several people could be using the same network / ip address. did someone hack my computer??! or is it just someone whos on the same ip network as me?!! plz answer!
+</Content>
+    <Date>2010-03-29 06:52:49</Date>
+    <Timestamp>1269870769</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329065249AAdsr40</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Jqz03LVmaa</UserId>
+    <UserNick>beautiful girl ツ</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1DIcjADa8AAEC-MForBhfCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Someone who happened to have the same IP address as you did did the edits. It could be someone from the same network or perhaps you have a dynamic IP (most likely you do) and your IP changed and some other computer got associated with your old IP address (which happens all the time). It is possible that someone hacked your computer, but it&#039;s extremely unlikely.</ChosenAnswer>
+    <ChosenAnswererId>DB4EIa2eaa</ChosenAnswererId>
+    <ChosenAnswererNick></ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269870905</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270053774</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Someone who happened to have the same IP address as you did did the edits. It could be someone from the same network or perhaps you have a dynamic IP (most likely you do) and your IP changed and some other computer got associated with your old IP address (which happens all the time). It is possible that someone hacked your computer, but it&#039;s extremely unlikely.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>DB4EIa2eaa</UserId>
+            <UserNick>✔</UserNick>
+            <Date>2010-03-29 06:55:05</Date>
+            <Timestamp>1269870905</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:16:21 PDT 2010 -->

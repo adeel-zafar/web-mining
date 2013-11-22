@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223080555AA2acfD" type="Answered">
+    <Subject>Work offline is always checked when I open firefox. How do I have it so it isn&#039;t checked when I open firefox?</Subject>
+    <Content>
+Used to be, when  I opened up firefox my connection thingy would pop up so I could try to connect. 
+
+This work offline being checked thing happened right after I installed the &#039;bloody red&#039; theme. 
+
+I finally got sick of it and changed my theme last night, but work offline is still checked at startup. 
+
+I tried looking in about:config, but there isn&#039;t an toolkit.networkmanager.disable option.
+</Content>
+    <Date>2010-02-23 08:05:55</Date>
+    <Timestamp>1266941155</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223080555AA2acfD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AbinK6Smaa</UserId>
+    <UserNick>Hello</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/17bzM-4gbAAEDOQGcWCZdiCUzLA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://support.mozilla.com/tiki-view_forum_thread.php?locale=sq&amp;comments_parentId=60433&amp;forumId=1</ChosenAnswer>
+    <ChosenAnswererId>AHbcspd3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Ben</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266941401</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267062171</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://support.mozilla.com/tiki-view_forum_thread.php?locale=sq&amp;comments_parentId=60433&amp;forumId=1</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>AHbcspd3aa</UserId>
+            <UserNick>Ben</UserNick>
+            <Date>2010-02-23 08:10:01</Date>
+            <Timestamp>1266941401</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>do you connect to internet after opening firefox? if yes then first connect and open ff.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HpMFiu7Saa</UserId>
+            <UserNick>Maverick</UserNick>
+            <Date>2010-02-23 08:10:35</Date>
+            <Timestamp>1266941435</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:21:59 PDT 2010 -->

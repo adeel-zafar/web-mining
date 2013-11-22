@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228025432AAWpihQ" type="Answered">
+    <Subject>Firefox Windows Won&#039;t Resize. Any Answers, Please?</Subject>
+    <Content>
+Problem is that it is impossible to minimise Firefox window.
+Stays maximised all the time.
+</Content>
+    <Date>2010-02-28 02:54:32</Date>
+    <Timestamp>1267354472</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228025432AAWpihQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA12249870</UserId>
+    <UserNick>emeraldisle2222</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ZRuPF5CJAAEC_IFHyBU=.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ok Try to reinstall it and it will work!</ChosenAnswer>
+    <ChosenAnswererId>0yzW0zswaa</ChosenAnswererId>
+    <ChosenAnswererNick>MAGICIAN</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267354598</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267580182</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>resize it harder.
+
+hope that helps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uRk4MrpIaa</UserId>
+            <UserNick>Idgas</UserNick>
+            <Date>2010-02-28 02:56:28</Date>
+            <Timestamp>1267354588</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ok Try to reinstall it and it will work!</Content>
+            <Reference>m e</Reference>
+            <Best>5</Best>
+            <UserId>0yzW0zswaa</UserId>
+            <UserNick>MAGICIAN</UserNick>
+            <Date>2010-02-28 02:56:38</Date>
+            <Timestamp>1267354598</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Put it through the washing machine at 90 degrees and it should shrink a bit. Alternatively provide a bit more background to to your question and you may find you get more helpful answers.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ddZLOgWWaa</UserId>
+            <UserNick>matt</UserNick>
+            <Date>2010-02-28 03:17:29</Date>
+            <Timestamp>1267355849</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Can you be a little more specific?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tkI6pmE7aa</UserId>
+            <UserNick>Nathanael</UserNick>
+            <Date>2010-02-28 04:16:11</Date>
+            <Timestamp>1267359371</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:40:04 PDT 2010 -->

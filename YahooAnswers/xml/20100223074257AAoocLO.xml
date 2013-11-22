@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223074257AAoocLO" type="Answered">
+    <Subject>On Gmail, how can I get emails I receive to go into a specific folder?</Subject>
+    <Content>I am trying to get it so that all my emails I receive from Freegle go into my Freegle Label however I have no idea how to, does anyone know?
+
+
+ Thank you.
+</Content>
+    <Date>2010-02-23 07:42:57</Date>
+    <Timestamp>1266939777</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223074257AAoocLO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fc99d55c22d3cc935e2ea666b2830c64aa</UserId>
+    <UserNick>markman</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Look for the &quot;Move to&quot; tab at the top of the page.  It will give you a drop down list of whatever folders you have created.</ChosenAnswer>
+    <ChosenAnswererId>IZE6QaSnaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chauncey Q. Buttercup</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266940287</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267459385</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Look for the &quot;Move to&quot; tab at the top of the page.  It will give you a drop down list of whatever folders you have created.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>IZE6QaSnaa</UserId>
+            <UserNick>Chauncey Q. Buttercup</UserNick>
+            <Date>2010-02-23 07:51:27</Date>
+            <Timestamp>1266940287</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>&quot;Move to&quot; tab at the top of the page. It will give you a drop down list of whatever folders you have created.......</Content>
+            <Reference>..............</Reference>
+            <Best></Best>
+            <UserId>zVu19UBCaa</UserId>
+            <UserNick>Topi jerami</UserNick>
+            <Date>2010-02-27 02:08:29</Date>
+            <Timestamp>1267265309</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:22:08 PDT 2010 -->

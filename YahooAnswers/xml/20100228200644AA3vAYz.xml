@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228200644AA3vAYz" type="Answered">
+    <Subject>Need help with flash player?!?</Subject>
+    <Content>I recently installed adobe flash player but something is wrong because sometimes I can view videos or play games then other times when I will try to I get an error saying I need to download adobe to be able to view! I have unistalled then installed again but that didn&#039;t work.Has anyone else had this problem?or know how to fix this?
+</Content>
+    <Date>2010-02-28 20:06:44</Date>
+    <Timestamp>1267416404</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228200644AA3vAYz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nVnwflskaa</UserId>
+    <UserNick>lisaz_hot</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1F2hyCXwHAAEC-IFKUBSyAg==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Reset IE8 to Default in Options, Advanced, use the Adobe Flash Uninstall Tool, ccleaner, Restart PC and reinstall Adobe Flash Player...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267416615</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267557871</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Reset IE8 to Default in Options, Advanced, use the Adobe Flash Uninstall Tool, ccleaner, Restart PC and reinstall Adobe Flash Player...</Content>
+            <Reference>http://kb2.adobe.com/cps/141/tn_14157.html
+http://download.cnet.com/ccleaner/</Reference>
+            <Best>1</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-28 20:10:15</Date>
+            <Timestamp>1267416615</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you should have given detail about your windows os version. If it is vista or 7, you can repair this with windows manager 7 within trial period for free.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>17ea91da3ecc96021322eef63daae79baa</UserId>
+            <UserNick>dpkdrj</UserNick>
+            <Date>2010-02-28 20:13:59</Date>
+            <Timestamp>1267416839</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:34:39 PDT 2010 -->

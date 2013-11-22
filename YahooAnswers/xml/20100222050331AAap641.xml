@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222050331AAap641" type="Answered">
+    <Subject>got a question about internet explorer?</Subject>
+    <Content>i had am having a issue with this darn thing that keeps popping up its a error my windows internet explorer i just recentaly downloaded 8 and since i did its doing that error thing  i have windows xp i am trying to go back to ie7 back i cant figure it out    can anyone help me?
+i am only looking to stop the error that keeps popping up when i click on the internet
+</Content>
+    <Date>2010-02-22 05:03:31</Date>
+    <Timestamp>1266843811</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222050331AAap641</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Bej2XnvKaa</UserId>
+    <UserNick>mother of 3</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4af5bb9fi21f3zul6re4/3BYnBrk9dLCrqjbAcneibV7_3z3N5vSx2pib3QI35w--/5/tn48.jpg?ciAAToMBKqQ7KDhh</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There are instructions on the Microsoft support site and via a google search on how to deal with this issue and to downgrade to IE 7.  Try using a different browser.  I use Google Chrome which is quick, simple to use and of course free.</ChosenAnswer>
+    <ChosenAnswererId>MECQFTzhaa</ChosenAnswererId>
+    <ChosenAnswererNick>happylondonerder</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266844040</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267406038</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Internet Explorer is a mess.Try Mozilla Firefox.Its the best.It is available in many languages.download the latest from the net but i prefer the Mozilla Firefox 3.5
+good luck!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6IsUyeVzaa</UserId>
+            <UserNick>Nayan</UserNick>
+            <Date>2010-02-22 05:06:37</Date>
+            <Timestamp>1266843997</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There are instructions on the Microsoft support site and via a google search on how to deal with this issue and to downgrade to IE 7.  Try using a different browser.  I use Google Chrome which is quick, simple to use and of course free.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>MECQFTzhaa</UserId>
+            <UserNick>happylondonerder</UserNick>
+            <Date>2010-02-22 05:07:20</Date>
+            <Timestamp>1266844040</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here you can find the instructions to uninstall Internet Explorer 8 and roll-back to Internet Explorer 7
+
+http://www.ehow.com/how_5955221_do-back-internet-explorer-7_.html</Content>
+            <Reference>http://www.ehow.com/how_5955221_do-back-internet-explorer-7_.html</Reference>
+            <Best></Best>
+            <UserId>fx1ypcR0aa</UserId>
+            <UserNick>Brane</UserNick>
+            <Date>2010-02-22 05:09:49</Date>
+            <Timestamp>1266844189</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:29:37 PDT 2010 -->

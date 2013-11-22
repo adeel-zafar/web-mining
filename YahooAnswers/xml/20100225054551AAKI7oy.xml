@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225054551AAKI7oy" type="Answered">
+    <Subject>my firefox browser does not play videos?</Subject>
+    <Content>my java script is enabled and i have adobe flash player installed but firefox does not install it .pls help me
+</Content>
+    <Date>2010-02-25 05:45:51</Date>
+    <Timestamp>1267105551</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225054551AAKI7oy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qGeuZEsIaa</UserId>
+    <UserNick>Vishrut</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1DbKJr8L4AAEB_IHQSb44DA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi 
+
+Try by installing the flash player manual  it will works....</ChosenAnswer>
+    <ChosenAnswererId>tnzf1dRUaa</ChosenAnswererId>
+    <ChosenAnswererNick>enjoy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267106105</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267625064</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hi 
+
+Try by installing the flash player manual  it will works....</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tnzf1dRUaa</UserId>
+            <UserNick>enjoy</UserNick>
+            <Date>2010-02-25 05:55:05</Date>
+            <Timestamp>1267106105</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i think mozilla corrupt,sp just download and install latest mozilla firefox,software</Content>
+            <Reference>www.mozilla.com</Reference>
+            <Best></Best>
+            <UserId>25929f5e579befd3c85f5fea839468a7aa</UserId>
+            <UserNick>FIRDAUS</UserNick>
+            <Date>2010-02-25 06:13:09</Date>
+            <Timestamp>1267107189</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ur anti-virus is blocking it.Try changing ur settings it will work or else change ur anti-virus.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XvBD3pQpaa</UserId>
+            <UserNick>Hiten</UserNick>
+            <Date>2010-02-25 07:09:54</Date>
+            <Timestamp>1267110594</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>hi
+
+not only a browser is enough to play a video.u need to play a video are 1. flash player, 2. plug in(suitable for that video)3. shock way installer, 4. java runtime ( some videos run under java environment) etc 
+so just download the above and install then try.
+mostly if a video wants to play just download the require plugin that shows by the browsers in the page.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PWEhy31eaa</UserId>
+            <UserNick>pradeep yadav</UserNick>
+            <Date>2010-02-25 18:24:28</Date>
+            <Timestamp>1267151068</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:59:17 PDT 2010 -->

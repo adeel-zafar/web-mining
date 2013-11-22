@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306100206AA3pG8V" type="Answered">
+    <Subject>Wheres the settings button on bebo......?</Subject>
+    <Content>i forget where it is , i need to change something on it.
+</Content>
+    <Date>2010-03-06 10:02:06</Date>
+    <Timestamp>1267898526</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306100206AA3pG8V</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ocpYENXraa</UserId>
+    <UserNick>Freeeeeeezing!</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1vXytH4NAAAAD46QmFs4NCg==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>there at the bottom</ChosenAnswer>
+    <ChosenAnswererId>fuzpUjgZaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jordan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267912556</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268157965</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>there at the bottom</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>fuzpUjgZaa</UserId>
+            <UserNick>Jordan</UserNick>
+            <Date>2010-03-06 13:55:56</Date>
+            <Timestamp>1267912556</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:48:18 PDT 2010 -->

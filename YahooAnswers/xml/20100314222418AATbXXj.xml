@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314222418AATbXXj" type="Answered">
+    <Subject>How do i connect Itunes to firefox?</Subject>
+    <Content>My internet explorer doesnt work but my firefox does. Itunes is connected to internet explorer so it doesnt recieve internet connection . Is there anyway to establish a connection between itunes and firefox instead of itunes and internet explorer?
+</Content>
+    <Date>2010-03-14 22:24:18</Date>
+    <Timestamp>1268630658</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314222418AATbXXj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>s0FuKPtlaa</UserId>
+    <UserNick>Hugo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Internet explorer sucks. Any way, set FX ( Fire fox) as your default browser...
+
+All hail firefox!
+
+~maplestoria</ChosenAnswer>
+    <ChosenAnswererId>6iPr1BKSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Maplestoria</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268631790</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269150176</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Set Firefox as the default Browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>F3ITpTcwaa</UserId>
+            <UserNick>Arther</UserNick>
+            <Date>2010-03-14 22:25:44</Date>
+            <Timestamp>1268630744</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Internet explorer sucks. Any way, set FX ( Fire fox) as your default browser...
+
+All hail firefox!
+
+~maplestoria</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6iPr1BKSaa</UserId>
+            <UserNick>Maplestoria</UserNick>
+            <Date>2010-03-14 22:43:10</Date>
+            <Timestamp>1268631790</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:55:54 PDT 2010 -->

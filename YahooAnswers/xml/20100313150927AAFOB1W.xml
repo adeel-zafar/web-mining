@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313150927AAFOB1W" type="Answered">
+    <Subject>Erg. D: Youtube stopping working with IE6!?</Subject>
+    <Content>And I need to download IE8, but when I downloaded it last time it gave me error messages everytime I closed out of the internet. D:  How can I fix this problem.
+And I&#039;m not allowed to download anything OTHER than IE8.
+</Content>
+    <Date>2010-03-13 15:09:27</Date>
+    <Timestamp>1268521767</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313150927AAFOB1W</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1ARZEto1aa</UserId>
+    <UserNick>Kay D</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Youtube will no longer be supporting IE6, you will need to update to the latest version of IE8, here:
+http://www.microsoft.com/Windows/internet-explorer/
+
+Cheers,
+Kyler
+IE8 Outreach Team</ChosenAnswer>
+    <ChosenAnswererId>0BzipcAfaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kyler_IE8_Team</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268852424</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269037495</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Youtube will no longer be supporting IE6, you will need to update to the latest version of IE8, here:
+http://www.microsoft.com/Windows/internet-explorer/
+
+Cheers,
+Kyler
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0BzipcAfaa</UserId>
+            <UserNick>Kyler_IE8_Team</UserNick>
+            <Date>2010-03-17 12:00:24</Date>
+            <Timestamp>1268852424</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:47 PDT 2010 -->

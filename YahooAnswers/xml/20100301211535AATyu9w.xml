@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301211535AATyu9w" type="Answered">
+    <Subject>Does anyone else like the new AOL homepage?</Subject>
+    <Content>AOL changed their homepage a few months ago, and I&#039;ve just started using it and I love it.  It&#039;s not cluttery like MSN and has more than Google (its search uses Google I think).  It also has some pretty interesting designs. 
+
+I always hated their internet access, but their homepage is pretty good.
+</Content>
+    <Date>2010-03-01 21:15:35</Date>
+    <Timestamp>1267506935</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301211535AATyu9w</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cOd0kDxaaa</UserId>
+    <UserNick>Christopher J</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1nT2pCTozAAEC_IGG9lk=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Tell you the truth, I think the new Yahoo page is the best, although AOL&#039;s mail system isn&#039;t too bad.</ChosenAnswer>
+    <ChosenAnswererId>21GcWSkGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nickolas</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267507096</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268623349</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Tell you the truth, I think the new Yahoo page is the best, although AOL&#039;s mail system isn&#039;t too bad.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>21GcWSkGaa</UserId>
+            <UserNick>Nickolas</UserNick>
+            <Date>2010-03-01 21:18:16</Date>
+            <Timestamp>1267507096</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You mean AOL is still around?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-01 21:20:23</Date>
+            <Timestamp>1267507223</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:28:26 PDT 2010 -->

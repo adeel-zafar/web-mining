@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308103754AAQLyqW" type="Answered">
+    <Subject>What are the risks of opening an email attachment?</Subject>
+    <Content>Other than a virus
+</Content>
+    <Date>2010-03-08 10:37:54</Date>
+    <Timestamp>1268073474</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308103754AAQLyqW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>82L9AJw8aa</UserId>
+    <UserNick>Shan♥MJ</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b925feai2ad7zws134ac4/MLZ1W20paK7ib3Ua5JwM4KMz/23/tn48.png?ciAAToMBTTTwuRWl</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>People can send you stupid crap like things broadcast loud obnoxious messages or make you cd tray open or take over your mouse.</ChosenAnswer>
+    <ChosenAnswererId>RCU8qmx0aa</ChosenAnswererId>
+    <ChosenAnswererNick>ValerieB</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268073788</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268260273</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe a pornographic image?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uvYBO6jwaa</UserId>
+            <UserNick>Stephen</UserNick>
+            <Date>2010-03-08 10:41:03</Date>
+            <Timestamp>1268073663</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>People can send you stupid crap like things broadcast loud obnoxious messages or make you cd tray open or take over your mouse.</Content>
+            <Reference>Confesses to nothing..</Reference>
+            <Best>5</Best>
+            <UserId>RCU8qmx0aa</UserId>
+            <UserNick>ValerieB</UserNick>
+            <Date>2010-03-08 10:43:08</Date>
+            <Timestamp>1268073788</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:32:10 PDT 2010 -->

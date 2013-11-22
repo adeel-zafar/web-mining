@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313165213AAMTVOx" type="Answered">
+    <Subject>Why isn&#039;t the dulce cosmetics site working?</Subject>
+    <Content>I just saw the makeup on juicystars07&#039;s youtube and I want it sooo bad! I get to where it says proceed with payment and I click it and it says &quot;secure connection failed&quot; or something. Help? 
+
+
+I have firefox.
+this is exactly what it is.
+
+Secure Connection Failed
+
+      
+
+      
+      
+      
+
+      
+        
+        
+
+          
+
+An error occurred during a connection to www.dulcecosmetics.com.
+
+SSL received a record that exceeded the maximum permissible length.
+
+(Error code: ssl_error_rx_record_too_long)
+
+      
+         *   The page you are trying to view can not be shown because the authenticity of the received data could not be verified.
+
+    *   Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.
+</Content>
+    <Date>2010-03-13 16:52:13</Date>
+    <Timestamp>1268527933</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313165213AAMTVOx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>flK7QV1Zaa</UserId>
+    <UserNick>cupcake(:</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1eSrF41fsAAID9AFXwCUMCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The site is under maintenance.
+The site probably wasn&#039;t equipped to handle all of the traffic.
+I want to buy stuff from there too!
+Love Juicystar07!
+Just be patient, hopefully it&#039;ll be up soon!</ChosenAnswer>
+    <ChosenAnswererId>6REPk3QRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Julia P</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268585998</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268673876</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The &quot;or something&quot; makes your question hard to answer.  You need to be specific when asking a question in order to get an accurate answer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-13 16:53:27</Date>
+            <Timestamp>1268528007</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The site is under maintenance.
+The site probably wasn&#039;t equipped to handle all of the traffic.
+I want to buy stuff from there too!
+Love Juicystar07!
+Just be patient, hopefully it&#039;ll be up soon!</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>6REPk3QRaa</UserId>
+            <UserNick>Julia P</UserNick>
+            <Date>2010-03-14 09:59:58</Date>
+            <Timestamp>1268585998</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:28 PDT 2010 -->

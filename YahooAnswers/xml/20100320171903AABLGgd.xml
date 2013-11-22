@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320171903AABLGgd" type="Answered">
+    <Subject>how are websites made these days?</Subject>
+    <Content>are they still based on html??
+</Content>
+    <Date>2010-03-20 17:19:03</Date>
+    <Timestamp>1269130743</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320171903AABLGgd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SEQY4k4Aaa</UserId>
+    <UserNick>Johny</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes sites usually contain html, xhtml, and/or css. PHP is popular as well.</ChosenAnswer>
+    <ChosenAnswererId>lMrqFtbTaa</ChosenAnswererId>
+    <ChosenAnswererNick>Phillip</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269133837</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269650163</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Not all I suppose... I&#039;m not even sure how to make one. com.com?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0oEOpkg8aa</UserId>
+            <UserNick>Dana</UserNick>
+            <Date>2010-03-20 17:19:50</Date>
+            <Timestamp>1269130790</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes.
+
+But people hardly code in raw HTML any more.  They use applications like &quot;Dreamweaver&quot;.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Y2LoZQlMaa</UserId>
+            <UserNick>Andrew Clements</UserNick>
+            <Date>2010-03-20 17:21:26</Date>
+            <Timestamp>1269130886</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yesthey are html, you can use a program called easyhtml, microsoft frontpage, wix - www.wix.com</Content>
+            <Reference>wix.com</Reference>
+            <Best></Best>
+            <UserId>AA11767225</UserId>
+            <UserNick>bert_beer</UserNick>
+            <Date>2010-03-20 17:31:08</Date>
+            <Timestamp>1269131468</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes sites usually contain html, xhtml, and/or css. PHP is popular as well.</Content>
+            <Reference>Check out http://w3schools.com/</Reference>
+            <Best>5</Best>
+            <UserId>lMrqFtbTaa</UserId>
+            <UserNick>Phillip</UserNick>
+            <Date>2010-03-20 18:10:37</Date>
+            <Timestamp>1269133837</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:58 PDT 2010 -->

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310104605AAn4Bi5" type="Answered">
+    <Subject>Do people see what you write about them on twitter?</Subject>
+    <Content>you know how you can direct a message at someone but using @username? I was just wondering how people see that. Like if someone directed a message towards me how would I see that they did?
+</Content>
+    <Date>2010-03-10 10:46:05</Date>
+    <Timestamp>1268246765</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310104605AAn4Bi5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uvsUXpoOaa</UserId>
+    <UserNick>Bieber&#039;sGirl</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1WSPoLS5IAAIC9yEy9VhDDg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hey Biebers,
+
+It&#039;ll look like this:
+
+NameOfPersonWhoSentYouTheMessage @bieber&#039;s How&#039;s it goin&#039; girl?</ChosenAnswer>
+    <ChosenAnswererId>a10d3Kpoaa</ChosenAnswererId>
+    <ChosenAnswererNick>bakersfieldbob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268247579</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268886744</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hey Biebers,
+
+It&#039;ll look like this:
+
+NameOfPersonWhoSentYouTheMessage @bieber&#039;s How&#039;s it goin&#039; girl?</Content>
+            <Reference>http://www.twitter.com</Reference>
+            <Best>5</Best>
+            <UserId>a10d3Kpoaa</UserId>
+            <UserNick>bakersfieldbob</UserNick>
+            <Date>2010-03-10 10:59:39</Date>
+            <Timestamp>1268247579</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:18:47 PDT 2010 -->

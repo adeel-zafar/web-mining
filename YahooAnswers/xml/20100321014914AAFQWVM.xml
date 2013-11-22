@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321014914AAFQWVM" type="Answered">
+    <Subject>when i download a program it doesnt kno what to open it as, can you help?</Subject>
+    <Content>i downloaded a game, it doesnt kno what to open it as... when i try to open it, it says the application failed to initialize properly (0xc00000135) click on ok to terminate the application
+it is a pokemon program, its a game from pokemon universe... i downloaded it then clicked on it and that messaged poped up...
+</Content>
+    <Date>2010-03-21 01:49:14</Date>
+    <Timestamp>1269161354</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321014914AAFQWVM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Sk0p248faa</UserId>
+    <UserNick>Jamie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b37b4a7i258czul4re4/NYRvTBQ7RKSOWlFgGFWIqnCbzQ--/1/tn48.jpg?ciAAToMBTbGLn0c5</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>If soulds as if the game is compressed.  Windows XP SP2 should be able to uncompress it, if it is a .zip extention.  If any other extention you might need. 7-zip to uncompress it. http://download.cnet.com/7-Zip/3000-2250_4-10045185.html?tag=mncol it is a free download.
+
+If that does not work then try a web search on the extention to find what program is needed to run it.</ChosenAnswer>
+    <ChosenAnswererId>AA10142246</ChosenAnswererId>
+    <ChosenAnswererNick>Mojo Jojo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269161647</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269360939</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If soulds as if the game is compressed.  Windows XP SP2 should be able to uncompress it, if it is a .zip extention.  If any other extention you might need. 7-zip to uncompress it. http://download.cnet.com/7-Zip/3000-2250_4-10045185.html?tag=mncol it is a free download.
+
+If that does not work then try a web search on the extention to find what program is needed to run it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10142246</UserId>
+            <UserNick>Mojo Jojo</UserNick>
+            <Date>2010-03-21 01:54:07</Date>
+            <Timestamp>1269161647</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>hmmm... Firstly, you didn&#039;t told exactly what extension is at the end of the program/ what type of file it is... From where did you downloaded it? What game? You should have elaborated it buddy... :) All I think is that you didn&#039;t complete the download or some file is missing...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qi3NgQ7Xaa</UserId>
+            <UserNick>Sushant</UserNick>
+            <Date>2010-03-21 01:57:50</Date>
+            <Timestamp>1269161870</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>AA10142246</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-23 09:59:03</Date>
+            <Timestamp>1269161870</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:33 PDT 2010 -->

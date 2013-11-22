@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322022540AAOm2zV" type="Answered">
+    <Subject>in Hotmail, when I click &quot;back to message&quot; why does it take me to inbox?</Subject>
+    <Content>When I reply to a mail and hit send, it takes me to a screen that lets me add the email address or go &quot;back to message&quot;. When I click back to message, it always takes me back to the inbox!
+
+Is this a setting? I thought back to message meant back to message...
+</Content>
+    <Date>2010-03-22 02:25:40</Date>
+    <Timestamp>1269249940</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322022540AAOm2zV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6682321ff39643c202285b68aa3374ccaa</UserId>
+    <UserNick>gamegirl</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1NDz_EwIXAAEB9qFTdApowTt2JQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can change the settings in the options it is very simple all you have to do is open your eyes OK is it very simple ah ?</ChosenAnswer>
+    <ChosenAnswererId>0d0ccbc4db954d57c5ebdd0265823967aa</ChosenAnswererId>
+    <ChosenAnswererNick>Olive</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269250035</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270114987</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can change the settings in the options it is very simple all you have to do is open your eyes OK is it very simple ah ?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0d0ccbc4db954d57c5ebdd0265823967aa</UserId>
+            <UserNick>Olive</UserNick>
+            <Date>2010-03-22 02:27:15</Date>
+            <Timestamp>1269250035</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:19 PDT 2010 -->

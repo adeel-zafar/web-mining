@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327184500AAkhtHo" type="Answered">
+    <Subject>Is GoMerch a good site?</Subject>
+    <Content>my mom doesnt trust things she doesnt know. have you used it and is it safe?
+</Content>
+    <Date>2010-03-27 18:45:00</Date>
+    <Timestamp>1269740700</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327184500AAkhtHo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>POVLVMRuaa</UserId>
+    <UserNick>Lizzi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Mw364cHrAAEC9yFbBCQ=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>GoMerch is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.</ChosenAnswer>
+    <ChosenAnswererId>9AImxcmZaa</ChosenAnswererId>
+    <ChosenAnswererNick>gopi</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269741916</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269780250</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>GoMerch is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>9AImxcmZaa</UserId>
+            <UserNick>gopi</UserNick>
+            <Date>2010-03-27 19:05:16</Date>
+            <Timestamp>1269741916</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:30 PDT 2010 -->

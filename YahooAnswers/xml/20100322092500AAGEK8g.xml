@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322092500AAGEK8g" type="Answered">
+    <Subject>On Twitter, is there a way to check ...?</Subject>
+    <Content>Is there a way to check which of the people I am following are following me back? I am currently following about 500 people and only 250 are following me. I want to check which ones aren&#039;t following me so that I can either encourage them to follow me, or just unfollow them.
+Writing a list would take forever. I want to continue doing this as I gain more followers as well. I need some program or something that can do it for me
+</Content>
+    <Date>2010-03-22 09:25:00</Date>
+    <Timestamp>1269275100</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322092500AAGEK8g</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3TwMJlbRaa</UserId>
+    <UserNick>Random</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1X4yfE4PrAAEC2IKcNT44WB4B.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Write a list....?</ChosenAnswer>
+    <ChosenAnswererId>W7AhIpz2aa</ChosenAnswererId>
+    <ChosenAnswererNick>Danny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269275290</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269360960</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Write a list....?</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>W7AhIpz2aa</UserId>
+            <UserNick>Danny</UserNick>
+            <Date>2010-03-22 09:28:10</Date>
+            <Timestamp>1269275290</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:31 PDT 2010 -->

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223094624AAHapJF" type="Answered">
+    <Subject>If i uninstalled mozilla firefox?  10 pts best answer???? HELP?</Subject>
+    <Content>If i uninstalled mozilla firefox, will the pages i was on before i uninstalled it be saved?  (When ever you open mozilla up the page you were on before ex:Facebook will it be on again when i install it?)  Thanks!
+
+If you don&#039;t know what i mean here:
+
+If i installed mozilla and i want to install it again, will the web page that i was on before i uninstalled it be on mozilla firefox when i re-install it?  
+
+(I uninstalled it because there was a page i could not close down, it was inappropriate!  Please help!
+@DJK, it was very gross and i could not close it.  every time i pressed X it would pop little questions/things up! :(
+</Content>
+    <Date>2010-02-23 09:46:24</Date>
+    <Timestamp>1266947184</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223094624AAHapJF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9CLRMnhSaa</UserId>
+    <UserNick>Matt the gamer man!</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1zyxESYPuAAAClSSbDJ5oWB-Ta8SNw88Z.medium.png</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No, I don&#039;t think so. Why are you uninstalling because of a page you can&#039;t close? there might be other ways of solving this.
+try this:
+when you close mozilla firefox, it will ask you wether to save the pages you were on so that you can get them next time when you run mozilla. So, when it asks you that click on &#039;no&#039; or &#039;don&#039;t save&#039;
+
+next time you run it it will start from your homepage.
+
+But, to answer your question, I don&#039;t think you can get them again after reinstalling. I&#039;m 90% sure.
+
+Hope it helps.
+
+Good luck.</ChosenAnswer>
+    <ChosenAnswererId>kqklKzXGaa</ChosenAnswererId>
+    <ChosenAnswererNick>DJK</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266947628</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266980957</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This answer is actually up to you. Within the uninstallation of Mozilla, they have a part during this process where they ask you if you want to save all of your data; you then have the option to archive it then in case you install Mozilla later. 
+
+However, one thing to keep in mind, it is this type of archived data that hackers and trojans go after, its easy targets. So if your going to do this, make sure your security is up to date.</Content>
+            <Reference>http://www.sbccrew.com</Reference>
+            <Best></Best>
+            <UserId>NYhx3kvlaa</UserId>
+            <UserNick>Jackal</UserNick>
+            <Date>2010-02-23 09:50:04</Date>
+            <Timestamp>1266947404</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have in the past done this and it has saved all of my web pages but sometimes it simply doesn&#039;t. I don&#039;t know the reason for this. What you can do is import all your settings to another web-browser ensuring that you won&#039;t have lost any of your history.
+
+Or if you go onto the Mozilla site you should be able to just upgrade your version w/o having to manually uninstall the previous one.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>soFbQssVaa</UserId>
+            <UserNick>Jamin</UserNick>
+            <Date>2010-02-23 09:50:26</Date>
+            <Timestamp>1266947426</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think I am confused. I think the answer to your question is, probably not.</Content>
+            <Reference>Computer Tech</Reference>
+            <Best></Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-02-23 09:52:11</Date>
+            <Timestamp>1266947531</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No, I don&#039;t think so. Why are you uninstalling because of a page you can&#039;t close? there might be other ways of solving this.
+try this:
+when you close mozilla firefox, it will ask you wether to save the pages you were on so that you can get them next time when you run mozilla. So, when it asks you that click on &#039;no&#039; or &#039;don&#039;t save&#039;
+
+next time you run it it will start from your homepage.
+
+But, to answer your question, I don&#039;t think you can get them again after reinstalling. I&#039;m 90% sure.
+
+Hope it helps.
+
+Good luck.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kqklKzXGaa</UserId>
+            <UserNick>DJK</UserNick>
+            <Date>2010-02-23 09:53:48</Date>
+            <Timestamp>1266947628</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Uninstall and history/session goes with it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11836755</UserId>
+            <UserNick>bizboy13</UserNick>
+            <Date>2010-02-23 09:54:20</Date>
+            <Timestamp>1266947660</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It won&#039;t come up with the same page because its memory has been removed from you hard drive. When you do install it you will have to redo all the customized settings. All you history and bookmarks from it will also be gone.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MdylwQ12aa</UserId>
+            <UserNick>squidgo</UserNick>
+            <Date>2010-02-23 09:56:40</Date>
+            <Timestamp>1266947800</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:21:10 PDT 2010 -->

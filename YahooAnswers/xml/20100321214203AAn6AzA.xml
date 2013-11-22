@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321214203AAn6AzA" type="Answered">
+    <Subject>Which internet browser do you use and would you consider switching to another browser,if so which one?</Subject>
+    <Content>I use Firefox and I wouldn&#039;t switch to another b/c I&#039;ve already tried IE and Google Chrome and the 1 I have now works smoothly 4 me:)
+</Content>
+    <Date>2010-03-21 21:42:03</Date>
+    <Timestamp>1269232923</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321214203AAn6AzA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NSqF5NEDaa</UserId>
+    <UserNick>I love lipbalm!</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>opera web browser works fine too.. you can try portable opera and see for your self =)</ChosenAnswer>
+    <ChosenAnswererId>UIAdqslBaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kana</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269233127</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269580946</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I use IE8.  I don&#039;t mind Firefox.  Chrome is alright, but my preference is for IE8</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XlyLakYAaa</UserId>
+            <UserNick>Mercuri</UserNick>
+            <Date>2010-03-21 21:44:01</Date>
+            <Timestamp>1269233041</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>opera web browser works fine too.. you can try portable opera and see for your self =)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UIAdqslBaa</UserId>
+            <UserNick>Kana</UserNick>
+            <Date>2010-03-21 21:45:27</Date>
+            <Timestamp>1269233127</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I use Firefox too. I hate IE, there is so many security flaws with it, I don&#039;t know why people still use it. I have Chrome installed too, but it&#039;s very glitchy for me. I think once they get a lot of things fixed with it, I may switch over to that one. Firefox is definetley the best right now, if you ask me.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Y2hoaOJlaa</UserId>
+            <UserNick>Kat</UserNick>
+            <Date>2010-03-21 23:17:55</Date>
+            <Timestamp>1269238675</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:54 PDT 2010 -->

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224112142AABnWvo" type="Answered">
+    <Subject>What would be the best way to keep my new computers power supply and systems running good?</Subject>
+    <Content>In my home we currently have about 3 brand new computers which is 2 are desktops and 1 laptop. The newest one is the HP desktop which my parents bought on the black friday sales of 2009 which came as a bundle with the monitor and has 320 GB hard drive and 3 GBs of DDR 2 or DDR 3 memory and it is very fast. The other one is my old desktop computer which has been modernized by a great friend of mine, my friend changed the whole computer system and what he did was put in a new board and a new power supply but used the same old hard drive which is an Western Digital 160 GB Hard Drive. He also used the same dvd drives that i put in back in 2005. The board and the power supply was from his 2008 HP Desktop Computer with Windows Vista which he bought back in January 2008. The other computer is my Toshiba Satelite Laptop which i used for college and it has 2 GBS of DDR 2 memory and a 120 GB Hard Drive with Windows Vista. What would be the best way to keep all of these new computers that i have working good ?? What would the best way to take good care of these new computers ?? Can anyone please help me out ?
+</Content>
+    <Date>2010-02-24 11:21:42</Date>
+    <Timestamp>1267039302</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224112142AABnWvo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>i7xfUC9baa</UserId>
+    <UserNick>Timothy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1qqZOtZ8nAAECPyGbEJaZhD4B.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Make sure you have a battery backup, a power surge, a good fan to cool your power supply, then a good antivirus like Norton 360, with a program like TuneUp Utilities - Version 2010 to keep your computer running at top speed and make sure everything is running right, then every month using TuneUp Utilities or just the built in one on your computer, do a disk defragment (do it before you go to bed considering it takes awhile for this process to work). Then make sure you scan for viruses once a week, and make your computer up to date with windows update. Also i recommend either upgrading to  windows 7 or downgrading to Windows XP, Windows Vista was a mistake and tends to slow down your computer quite a bit. Dont throw around your laptop, dont move your computer while its on, install more ram in your desktop, and thats about it</ChosenAnswer>
+    <ChosenAnswererId>sKfPCkJkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark G</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267039821</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267558582</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Keep &#039;em plugged into a high-quality battery backup. I recommend APC. Make sure they are running at their proper temperatures by using SpeedFan (google it) Run good antivirus software such as AVG. Clean your PCs with CCleaner every so often and defrag them with JkDefrag.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>us3dBYpeaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-02-24 11:25:29</Date>
+            <Timestamp>1267039529</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Make sure you have a battery backup, a power surge, a good fan to cool your power supply, then a good antivirus like Norton 360, with a program like TuneUp Utilities - Version 2010 to keep your computer running at top speed and make sure everything is running right, then every month using TuneUp Utilities or just the built in one on your computer, do a disk defragment (do it before you go to bed considering it takes awhile for this process to work). Then make sure you scan for viruses once a week, and make your computer up to date with windows update. Also i recommend either upgrading to  windows 7 or downgrading to Windows XP, Windows Vista was a mistake and tends to slow down your computer quite a bit. Dont throw around your laptop, dont move your computer while its on, install more ram in your desktop, and thats about it</Content>
+            <Reference>Me</Reference>
+            <Best>5</Best>
+            <UserId>sKfPCkJkaa</UserId>
+            <UserNick>Mark G</UserNick>
+            <Date>2010-02-24 11:30:21</Date>
+            <Timestamp>1267039821</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>well mostly computers that end up messing up are from people downloading things off the internet and then get a virus.but mostly if you use it for a long time take a break from it for an hour to cool down and make sure that with laptops u dnt let them drop too low with the battery hope this helps you</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>w6VkLAElaa</UserId>
+            <UserNick>JESSER</UserNick>
+            <Date>2010-02-24 11:35:06</Date>
+            <Timestamp>1267040106</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Find a quality anti virus or security suit you like and keep it updated. Use security scanners like, Malwarebytes, Hitman Pro, ccleaner and Defrag once a month. Buy a can of compressed-air for computers and blow fans and vents out each month. Dust and malware are the enemies to Windows and computers and loading system down with too many security software, more is not better...
+Use a free product called sandboxie if you really want to help keep malware off the Windows System.</Content>
+            <Reference>http://www.wilderssecurity.com/showthread.php?t=262648
+http://www.wilderssecurity.com/showthread.php?t=256212
+http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://www.surfright.nl/en/hitmanpro
+http://download.cnet.com/ccleaner/?tag=mncol
+http://www.sandboxie.com/</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-24 12:18:00</Date>
+            <Timestamp>1267042680</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:14:28 PDT 2010 -->

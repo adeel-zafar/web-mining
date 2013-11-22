@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320160954AABgv54" type="Answered">
+    <Subject>problem signing into ebay can any give me some advice?</Subject>
+    <Content>I&#039;m trying to list an item on ebay. It&#039;s telling me to sign in so i put in my username and password but the sign in page just keeps coming up. can anyone tell me whats going on
+</Content>
+    <Date>2010-03-20 16:09:54</Date>
+    <Timestamp>1269126594</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320160954AABgv54</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7uFGLKvYaa</UserId>
+    <UserNick>Vesh Photo Student</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Clear your cache and cookies via the tools tab on your browser.
+
+Internet explorer = Tools &gt; internet options &gt; clear cookies.
+
+Firefox = Tools &gt; clear recent history &gt; select everything.
+
+You can do this regularly by using a tool like Ccleaner, a free clean out tool 
+http://www.filehippo.com/download_ccleaner/</ChosenAnswer>
+    <ChosenAnswererId>rugZxDXbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Devastation Assistant</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269126826</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269218533</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Clear your cache and cookies via the tools tab on your browser.
+
+Internet explorer = Tools &gt; internet options &gt; clear cookies.
+
+Firefox = Tools &gt; clear recent history &gt; select everything.
+
+You can do this regularly by using a tool like Ccleaner, a free clean out tool 
+http://www.filehippo.com/download_ccleaner/</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>rugZxDXbaa</UserId>
+            <UserNick>Devastation Assistant</UserNick>
+            <Date>2010-03-20 16:13:46</Date>
+            <Timestamp>1269126826</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You are typing something wrong, did you misspell something or put a _ when it should be a -  for example?  If you forgot your password just click on the link underneath. 
+
+Try clearing your bookmarks and log onto the Ebay page from the start. See if that helps? Other than that you will have to just contact them and ask for a reset of you log in details.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6JYnwZCwaa</UserId>
+            <UserNick>Trust Me I&#039;m a Doctor ♥</UserNick>
+            <Date>2010-03-20 16:14:22</Date>
+            <Timestamp>1269126862</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you need to have ebay in your &#039;safe&#039; list in tools/ internet options/security tab/click on trusted sites then click sites and add ebay to the allowed list</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dmoX1HKjaa</UserId>
+            <UserNick>Wendy</UserNick>
+            <Date>2010-03-20 16:14:34</Date>
+            <Timestamp>1269126874</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Just click on the forgot my password and it will ask your email address and email you a temp password then log in to activate it and then change your password.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fSOMG9Q9aa</UserId>
+            <UserNick>Az</UserNick>
+            <Date>2010-03-20 16:18:08</Date>
+            <Timestamp>1269127088</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:10 PDT 2010 -->

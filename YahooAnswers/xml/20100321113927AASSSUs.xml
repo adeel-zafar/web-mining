@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321113927AASSSUs" type="Answered">
+    <Subject>I plan to move to Westport Co Mayo next month.Could someone please tell me the best and most reliable B BAND?</Subject>
+    <Content>I plan to use a broadband dongle starter pack . Which provider has the best most reliable coverage there . Thanks
+</Content>
+    <Date>2010-03-21 11:39:27</Date>
+    <Timestamp>1269196767</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321113927AASSSUs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rwlp6joSaa</UserId>
+    <UserNick>JOSEPH</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Why don&#039;t you try Eircom 
+http://www.eircom.com/</ChosenAnswer>
+    <ChosenAnswererId>mFno3AtSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nathalia Ruiz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269212548</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269737716</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Why don&#039;t you try Eircom 
+http://www.eircom.com/</Content>
+            <Reference>Have used Eircom for years.</Reference>
+            <Best>5</Best>
+            <UserId>mFno3AtSaa</UserId>
+            <UserNick>Michael Weston</UserNick>
+            <Date>2010-03-21 16:02:28</Date>
+            <Timestamp>1269212548</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I use westnet, its very reliable and reasonably priced
+http://westnet.ie/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qP5k6wYvaa</UserId>
+            <UserNick>STEPHEN C</UserNick>
+            <Date>2010-03-24 16:27:15</Date>
+            <Timestamp>1269473235</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:15 PDT 2010 -->

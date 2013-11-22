@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327160945AAEV5kT" type="Answered">
+    <Subject>My avira anti virus wont remove after sytsem restore?</Subject>
+    <Content>ok so messed upmy computer i fixed it but my anti virus in add or remvoe programs wont be removed caouse setup could not determine the feature controll file or was unable to read it corretley same thing with my frostwire i can remove that thow but when i download it agian it wont star up and pops up with a error i also tryed to manuly delete the avira by deleting its files in prgram and files but it would not let me so how do i remove this avira and redownload it agian i already tryed to download it agian with haveing it to stop it from poping up with the error evry time i try to run it but it does not work
+</Content>
+    <Date>2010-03-27 16:09:45</Date>
+    <Timestamp>1269731385</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327160945AAEV5kT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iN7I44qdaa</UserId>
+    <UserNick>Anatolia</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>wsZtB0xhaa</ChosenAnswererId>
+    <ChosenAnswererNick>google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269817287</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269817671</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wsZtB0xhaa</UserId>
+            <UserNick>google</UserNick>
+            <Date>2010-03-28 16:01:27</Date>
+            <Timestamp>1269817287</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:51 PDT 2010 -->

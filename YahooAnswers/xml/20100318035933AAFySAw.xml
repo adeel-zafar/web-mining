@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318035933AAFySAw" type="Answered">
+    <Subject>Need help with paypal :(?</Subject>
+    <Content>Ive bought something via paypal and it was out of stock but i paid for it anyway and i emailed them and i got a refund but the money is in my paypal account because when i go to my bank the money isnt in my bank. Do you know how i could transfer it? 
+Thanks
+</Content>
+    <Date>2010-03-18 03:59:33</Date>
+    <Timestamp>1268909973</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318035933AAFySAw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>N3QjwQHAaa</UserId>
+    <UserNick>Helali</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If your PayPal Account isn&#039;t attached to your bank, you need to attach it first. To do this go to My Account-&gt;Profile&gt;Bank Accounts-&gt;Add a Bank Account-&gt;Enter Details and follow confirming instructions
+
+Once you have attached your bank account go to My Account-&gt;Withdraw-&gt;Bank account in {Country}-&gt;Choose amount-&gt;Click ok-&gt;Click confirm</ChosenAnswer>
+    <ChosenAnswererId>pVGY9myOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Firzen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268910504</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269429222</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>just click on &quot;Withdraw&quot; and follow the instructions</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qo6IDutdaa</UserId>
+            <UserNick>Martini</UserNick>
+            <Date>2010-03-18 04:05:15</Date>
+            <Timestamp>1268910315</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There is a facility to do this on the PayPal site. Just look carefully</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10368738</UserId>
+            <UserNick>thinpinblue</UserNick>
+            <Date>2010-03-18 04:06:38</Date>
+            <Timestamp>1268910398</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your PayPal Account isn&#039;t attached to your bank, you need to attach it first. To do this go to My Account-&gt;Profile&gt;Bank Accounts-&gt;Add a Bank Account-&gt;Enter Details and follow confirming instructions
+
+Once you have attached your bank account go to My Account-&gt;Withdraw-&gt;Bank account in {Country}-&gt;Choose amount-&gt;Click ok-&gt;Click confirm</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>pVGY9myOaa</UserId>
+            <UserNick>Firzen</UserNick>
+            <Date>2010-03-18 04:08:24</Date>
+            <Timestamp>1268910504</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>leave it there and buy something else.  it cost money to withdraw it, if its a small amount.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pDxFOekIaa</UserId>
+            <UserNick>chezzrob</UserNick>
+            <Date>2010-03-18 04:09:38</Date>
+            <Timestamp>1268910578</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:56 PDT 2010 -->

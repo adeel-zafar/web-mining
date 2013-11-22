@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224055331AAFY2ON" type="Answered">
+    <Subject>How do I delete my word prompting that appears every time I search?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-24 05:53:31</Date>
+    <Timestamp>1267019611</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224055331AAFY2ON</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JSmU5CKQaa</UserId>
+    <UserNick>simmo</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b8521a6ie5czul7sp1/H.wih2EicqtF7K5gqW1JjxeQ/1/tn48.jpg?ciAAToMB5I_w8oDC</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Cleanup your browser of cookies and turn the autocomplete off</ChosenAnswer>
+    <ChosenAnswererId>EFOlWLqXaa</ChosenAnswererId>
+    <ChosenAnswererNick>alex</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267019894</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267100001</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Cleanup your browser of cookies and turn the autocomplete off</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>EFOlWLqXaa</UserId>
+            <UserNick>alex</UserNick>
+            <Date>2010-02-24 05:58:14</Date>
+            <Timestamp>1267019894</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;m guessing you&#039;re using google - if so, just head here 
+
+http://www.google.com/preferences?hl=en 
+
+and then under &quot;Query Suggestions&quot; select &quot;Do not provide query suggestions in the search box&quot;.
+
+That should do it.</Content>
+            <Reference>http://www.google.com</Reference>
+            <Best></Best>
+            <UserId>sP1G6Qeiaa</UserId>
+            <UserNick>Colin L</UserNick>
+            <Date>2010-02-24 07:51:41</Date>
+            <Timestamp>1267026701</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:15:07 PDT 2010 -->

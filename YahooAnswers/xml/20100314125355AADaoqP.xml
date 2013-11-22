@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314125355AADaoqP" type="Answered">
+    <Subject>when using some1 else&#039;s internet connection does your history show on theirs?</Subject>
+    <Content>w/ a laptop or ipod touch when u use neighbors connection by wifi does your history show on their computer?
+</Content>
+    <Date>2010-03-14 12:53:55</Date>
+    <Timestamp>1268596435</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314125355AADaoqP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kz1Xw7sEaa</UserId>
+    <UserNick>Jesse M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No, but they can easily see that you are on via IP addresses. What you&#039;re doing is illegal, anyway.</ChosenAnswer>
+    <ChosenAnswererId>vAJocLqvaa</ChosenAnswererId>
+    <ChosenAnswererNick>star123compy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268596477</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269116011</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, but they can easily see that you are on via IP addresses. What you&#039;re doing is illegal, anyway.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-14 12:54:37</Date>
+            <Timestamp>1268596477</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I don&#039;t believe so.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>f07ba15ab1b788061b86d3d3d03b740aaa</UserId>
+            <UserNick>btrue2u04</UserNick>
+            <Date>2010-03-14 12:55:37</Date>
+            <Timestamp>1268596537</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i dont think so. and its not illegal to use your neighbors wifi. if they cared they would put a password on it.it would be illegal if there was a password and you hacked it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iAJiZ5SRaa</UserId>
+            <UserNick>Tate</UserNick>
+            <Date>2010-03-14 12:56:17</Date>
+            <Timestamp>1268596577</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The history itself won&#039;t show but they can tell what you&#039;ve been doing.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RCU8qmx0aa</UserId>
+            <UserNick>ValerieB</UserNick>
+            <Date>2010-03-14 12:56:38</Date>
+            <Timestamp>1268596598</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well depending if they have that feature on there router. It is possible to save a log of webpages viewerd but not many people do so. Also if you don&#039;t have your neighbors permission you should ask them first. 
+It is possible to get arrested for this but it&#039;s rare.
+
+Heres a possible circumstance: http://news.bbc.co.uk/2/hi/uk_news/england/london/6958429.stm
+
+Hope this helps!
+good Luck!</Content>
+            <Reference>Knowledge</Reference>
+            <Best></Best>
+            <UserId>ab3UFwYKaa</UserId>
+            <UserNick>WinLinOSX</UserNick>
+            <Date>2010-03-14 12:58:59</Date>
+            <Timestamp>1268596739</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you&#039;re not smart enough to put a password on your connection, you&#039;re probably not smart enough to realize someone is stealing it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bEMpyw2baa</UserId>
+            <UserNick>Alighieri</UserNick>
+            <Date>2010-03-16 08:20:03</Date>
+            <Timestamp>1268752803</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:58:50 PDT 2010 -->

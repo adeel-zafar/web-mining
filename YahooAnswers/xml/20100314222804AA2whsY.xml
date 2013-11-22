@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314222804AA2whsY" type="Answered">
+    <Subject>what is wap services in mobile ?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-14 22:28:04</Date>
+    <Timestamp>1268630884</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314222804AA2whsY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zeBnEWiGaa</UserId>
+    <UserNick>Sanjeev</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b9b7d31ib86zws102sp2/bjXTIzkieqhtFRle1bdneJzkQYxVBw--/2/tn48.jpeg?ciAAToMBZF.G3uK4</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>WAP stands for Wireless Application Protocol. It&#039;s what your phone or PDA uses to access the web.</ChosenAnswer>
+    <ChosenAnswererId>XY62OGscaa</ChosenAnswererId>
+    <ChosenAnswererNick>PurpleFish</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268631021</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269150197</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>WAP stands for Wireless Application Protocol. It&#039;s what your phone or PDA uses to access the web.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XY62OGscaa</UserId>
+            <UserNick>PurpleFish</UserNick>
+            <Date>2010-03-14 22:30:21</Date>
+            <Timestamp>1268631021</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Wireless Access Protocol (WAP) is an open international standard[1] for application-layer network communications in a wireless-communication environment. Most use of WAP involves accessing the mobile web from a mobile phone or from a PDA.
+
+A WAP browser provides all of the basic services of a computer-based web browser but simplified to operate within the restrictions of a mobile phone, such as its smaller view screen. Users can connect to WAP sites: websites written in, or dynamically converted to, WML (Wireless Markup Language) and accessed via the WAP browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fL6jANDXaa</UserId>
+            <UserNick>kash2730</UserNick>
+            <Date>2010-03-14 22:31:18</Date>
+            <Timestamp>1268631078</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You might try  www.openmobilealliance.org</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>99c37f598c1c82c68de17784567bf5edaa</UserId>
+            <UserNick>Thankyou4givengmeaheadache</UserNick>
+            <Date>2010-03-14 22:37:21</Date>
+            <Timestamp>1268631441</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Wireless Access Protocol (WAP) is used for network communications in a wireless-communication environment.
+
+WAP is basically useful for the small screen devices such as mobile. it uses WML (Wireless Markup Language)  
+
+its nearly about same as HTML that we uses for computers..</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>q1NMbbmdaa</UserId>
+            <UserNick>Ruchir</UserNick>
+            <Date>2010-03-14 22:42:42</Date>
+            <Timestamp>1268631762</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>A Wireless Application Protocol (WAP) phone is a mobile phone capable of Internet connectivity. A WAP phone can be used to do things like check email, send messages, track stocks, access news and sports headlines, or download music. While a WAP phone cannot deliver the same visually pleasing Internet experience as a desktop or laptop computer, it opens the door to mobile Internet access and on-the-go productivity.
+
+WAP is an international Internet standard specifically developed for mobile devices, including WAP phones, personal digital assistants (PDAs) and other hand-helds. Nokia, Sony Ericsson, the Unwired Planet and Motorola initially developed the WAP standard. The challenge was in bringing the Internet to mechanisms that, by necessary design, included many inherent constraints. 
+Hope this can help u!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MHAFoctMaa</UserId>
+            <UserNick>wisdom</UserNick>
+            <Date>2010-03-14 22:42:58</Date>
+            <Timestamp>1268631778</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Today most of the phones are built with this WAP feature for accessing wap sites through mobile browser. To access internet through wap you need to activate wap service from operator&#039;s side and then you will be able to access wap sites into your phone. There are two basic services by which you can assess internet services, these are gprs and wap..............
+For more information to the related topic you can move to : http://forums.techarena.in/portable-devices/1315899.htm</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kkiacpSyaa</UserId>
+            <UserNick>mark</UserNick>
+            <Date>2010-03-16 21:31:02</Date>
+            <Timestamp>1268800262</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:55:53 PDT 2010 -->

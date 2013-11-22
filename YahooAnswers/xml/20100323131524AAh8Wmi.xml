@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323131524AAh8Wmi" type="Answered">
+    <Subject>i have a playlist.com question?</Subject>
+    <Content>how do you delete a question on this website? i don&#039;t need one anymore and i don&#039;t want it, so how do i delete it?
+i meant how do you delete a playlist??
+</Content>
+    <Date>2010-03-23 13:15:24</Date>
+    <Timestamp>1269375324</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323131524AAh8Wmi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0jANL2V0aa</UserId>
+    <UserNick>Katie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1aS11b-SrAAEDOQE_UImuEV34S7UD.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>im confused...
+delete a question on playlist.com?
+not a clue! 
+don&#039;t worry about a question on playlist, it will probably be ignored anyways
+
+to delete a question on answer.yahoo.com go hover your mouse over the &quot;save&quot; button right under the question you posted and a list of things will appear, one says &quot;delete question&quot;, click on it
+note: this only works for questions you deleted</ChosenAnswer>
+    <ChosenAnswererId>CNjnVYEEaa</ChosenAnswererId>
+    <ChosenAnswererNick>mid_blu_roze</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269376899</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269469835</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>im confused...
+delete a question on playlist.com?
+not a clue! 
+don&#039;t worry about a question on playlist, it will probably be ignored anyways
+
+to delete a question on answer.yahoo.com go hover your mouse over the &quot;save&quot; button right under the question you posted and a list of things will appear, one says &quot;delete question&quot;, click on it
+note: this only works for questions you deleted</Content>
+            <Reference>experience</Reference>
+            <Best>1</Best>
+            <UserId>CNjnVYEEaa</UserId>
+            <UserNick>mid_blu_roze</UserNick>
+            <Date>2010-03-23 13:41:39</Date>
+            <Timestamp>1269376899</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:18:05 PDT 2010 -->

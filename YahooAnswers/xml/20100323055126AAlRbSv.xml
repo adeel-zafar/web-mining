@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323055126AAlRbSv" type="Answered">
+    <Subject>Is there anyway you can look at history/cache e.t.c on firefox?</Subject>
+    <Content>I know you can run crap cleaner e.t.c but I dont think that will pick anything up.
+sorry should have said if you have private browsed!
+</Content>
+    <Date>2010-03-23 05:51:26</Date>
+    <Timestamp>1269348686</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323055126AAlRbSv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hhScuqFjaa</UserId>
+    <UserNick>AC</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes.
+History:
+Open firefox. Click history | show all history | the day you want to see the history for. Then it will show you that history. If you want to remove anything click the entry to delete and press the delete key on your keyboard.
+
+Cache:
+This is trickier. You can view cookies but not cache (As far as I am aware). To view cookies, open firefox. Click  tools | options | Privacy | remove individual cookies. It show you the cookies then to delete any you click them then press delete on your keyboard.</ChosenAnswer>
+    <ChosenAnswererId>B5R2OVaOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sh sh shane</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269349373</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269867873</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Click on the Menu item History and select Show all History.</Content>
+            <Reference>http://www.on-site-computer-repair-service.com/index.html</Reference>
+            <Best></Best>
+            <UserId>QYqE96X4aa</UserId>
+            <UserNick>Bayne (infoworks-llc.com)</UserNick>
+            <Date>2010-03-23 05:57:36</Date>
+            <Timestamp>1269349056</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes.
+History:
+Open firefox. Click history | show all history | the day you want to see the history for. Then it will show you that history. If you want to remove anything click the entry to delete and press the delete key on your keyboard.
+
+Cache:
+This is trickier. You can view cookies but not cache (As far as I am aware). To view cookies, open firefox. Click  tools | options | Privacy | remove individual cookies. It show you the cookies then to delete any you click them then press delete on your keyboard.</Content>
+            <Reference>Firefox user.</Reference>
+            <Best>5</Best>
+            <UserId>B5R2OVaOaa</UserId>
+            <UserNick>Sh sh shane</UserNick>
+            <Date>2010-03-23 06:02:53</Date>
+            <Timestamp>1269349373</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ctrl + H</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>96KQsOYDaa</UserId>
+            <UserNick>Akshit Soota</UserNick>
+            <Date>2010-03-23 06:09:34</Date>
+            <Timestamp>1269349774</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:19:05 PDT 2010 -->

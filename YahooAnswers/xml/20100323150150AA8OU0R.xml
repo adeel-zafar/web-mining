@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323150150AA8OU0R" type="Answered">
+    <Subject>i would like to get internet on my tv i have wireless in my house but no wifi on the tv but i do have usb port?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-23 15:01:50</Date>
+    <Timestamp>1269381710</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323150150AA8OU0R</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3bf5d151ae805aec0c350a8f86de0bb6aa</UserId>
+    <UserNick>wirekeithyork</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1nkM2qkRyAAEC26SzyCw=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Does your TV support networking? If it doesn&#039;t have a built-in Ethernet port or wireless capabilities, that&#039;s a definite no. That USB port is not like a computer&#039;s USB port. It is used with a special tool only to service the TV. If you have one of those brand new TVs that supports internet services (which isn&#039;t web browsing), it will have some way of establishing a network connection.
+
+Plus, do you expect special browsing software to magically appear on your TV? You can&#039;t somehow plug in a networking adapter to a television and expect it to &quot;get internet.&quot;</ChosenAnswer>
+    <ChosenAnswererId>4ef505315e6714cd6a174d1beb0546f0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Swibs</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269382309</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269901139</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You cant really get wifi in your tv, do you mean hooking up your laptop so you can see it on your tv?</Content>
+            <Reference>Expert</Reference>
+            <Best></Best>
+            <UserId>Po3kpa5daa</UserId>
+            <UserNick>Calum</UserNick>
+            <Date>2010-03-23 15:09:27</Date>
+            <Timestamp>1269382167</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Does your TV support networking? If it doesn&#039;t have a built-in Ethernet port or wireless capabilities, that&#039;s a definite no. That USB port is not like a computer&#039;s USB port. It is used with a special tool only to service the TV. If you have one of those brand new TVs that supports internet services (which isn&#039;t web browsing), it will have some way of establishing a network connection.
+
+Plus, do you expect special browsing software to magically appear on your TV? You can&#039;t somehow plug in a networking adapter to a television and expect it to &quot;get internet.&quot;</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>4ef505315e6714cd6a174d1beb0546f0aa</UserId>
+            <UserNick>Swibs</UserNick>
+            <Date>2010-03-23 15:11:49</Date>
+            <Timestamp>1269382309</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:49 PDT 2010 -->

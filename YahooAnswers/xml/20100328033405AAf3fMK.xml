@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328033405AAf3fMK" type="Answered">
+    <Subject>A few questions about Coke Zone?</Subject>
+    <Content>It said at one point on coke zone &#039;skull candy head phones - coming soon.&#039; now its vanished completely.
+Also how often and when do they update what you can get.
+</Content>
+    <Date>2010-03-28 03:34:05</Date>
+    <Timestamp>1269772445</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328033405AAf3fMK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CLhJ6HLXaa</UserId>
+    <UserNick>12emma34</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1bmv-LesXAAEC2cJgPBNycisRLw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.cokezone.co.uk/home/catalogue/reward/eptxhp53h2pr858/Music/Skullcandy+Headphones+</ChosenAnswer>
+    <ChosenAnswererId>AA11120128</ChosenAnswererId>
+    <ChosenAnswererNick>fuquehead</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269772568</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269879311</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.cokezone.co.uk/home/catalogue/reward/eptxhp53h2pr858/Music/Skullcandy+Headphones+</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>AA11120128</UserId>
+            <UserNick>fuquehead</UserNick>
+            <Date>2010-03-28 03:36:08</Date>
+            <Timestamp>1269772568</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:03 PDT 2010 -->

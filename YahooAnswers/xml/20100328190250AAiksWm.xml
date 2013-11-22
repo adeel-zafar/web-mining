@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328190250AAiksWm" type="Answered">
+    <Subject>Are there any sites where you can ask a question anonymously?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-28 19:02:50</Date>
+    <Timestamp>1269828170</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328190250AAiksWm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XFnHshOMaa</UserId>
+    <UserNick>that guy.</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1mw_OO0CbAAABJoE_IIvrJBH7Lg==.medium.png</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>LOLZ! You just DID ask a question anonymously! ;-) Very clever, my friend... very clever...</ChosenAnswer>
+    <ChosenAnswererId>aiLeZKRQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dean B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269828583</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269913897</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>4chan</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jHCwitdfaa</UserId>
+            <UserNick>xalspaero</UserNick>
+            <Date>2010-03-28 19:03:16</Date>
+            <Timestamp>1269828196</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yahoo Answers
+Answerbag</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>S8c6wUcDaa</UserId>
+            <UserNick>SgtXcom</UserNick>
+            <Date>2010-03-28 19:04:00</Date>
+            <Timestamp>1269828240</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This one</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1aOX8Vzqaa</UserId>
+            <UserNick>Jesse</UserNick>
+            <Date>2010-03-28 19:04:03</Date>
+            <Timestamp>1269828243</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well you could ask questions here anonymously. All you have to do is get rid of the icon picture and put your user name as &quot;Anonymous&quot;. You can also make your questions and answers private. Simple enough.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>86E3Ktqmaa</UserId>
+            <UserNick>sparkyemz</UserNick>
+            <Date>2010-03-28 19:05:15</Date>
+            <Timestamp>1269828315</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Formspring.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tcZFpqUkaa</UserId>
+            <UserNick>mmmdiamondz</UserNick>
+            <Date>2010-03-28 19:05:28</Date>
+            <Timestamp>1269828328</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>LOLZ! You just DID ask a question anonymously! ;-) Very clever, my friend... very clever...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>aiLeZKRQaa</UserId>
+            <UserNick>Dean B</UserNick>
+            <Date>2010-03-28 19:09:43</Date>
+            <Timestamp>1269828583</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:20 PDT 2010 -->

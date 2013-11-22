@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324174101AA0Vb74" type="Answered">
+    <Subject>Where does it say &quot; Authorize Computer&quot; on the i-tunes store.?</Subject>
+    <Content>I wanted to rent a movie and it said i first need to Authorize my Computer and it said it was on the front page of the itunes store. but i cant find it. help!!
+</Content>
+    <Date>2010-03-24 17:41:01</Date>
+    <Timestamp>1269477661</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324174101AA0Vb74</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FZIOB1yGaa</UserId>
+    <UserNick>Kristy L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/13u4ACntZAAICnKKbrMX825gB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go to your screen and look at the top left handside. You&#039;ll see File Edit etc.....go to store, click and run down to where it states Authorise Computer.....hope this helps</ChosenAnswer>
+    <ChosenAnswererId>z4QYDbv5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Trevor</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269478938</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269639530</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s under the &quot;advanced&quot; option on the top bar.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XvfNzqEgaa</UserId>
+            <UserNick>Lemon</UserNick>
+            <Date>2010-03-24 18:02:12</Date>
+            <Timestamp>1269478932</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go to your screen and look at the top left handside. You&#039;ll see File Edit etc.....go to store, click and run down to where it states Authorise Computer.....hope this helps</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>z4QYDbv5aa</UserId>
+            <UserNick>leu</UserNick>
+            <Date>2010-03-24 18:02:18</Date>
+            <Timestamp>1269478938</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:33:29 PDT 2010 -->

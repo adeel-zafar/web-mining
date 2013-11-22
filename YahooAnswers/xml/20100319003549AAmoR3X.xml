@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319003549AAmoR3X" type="Answered">
+    <Subject>Is it possible to uninstall internet explorer? How?</Subject>
+    <Content>I went to control panel and then to the list of programs installed but internet explorer wasn&#039;t there. I recently downloaded mozilla firefox and i love it. My internet explorer had been having issues. I don&#039;t see the point of having internet explorer installed anymore. It just takes up space. Does anyone know how to uninstall it? Is it located in some other place or something? If I want it again I can just download it from download.com so there is no point of having it installed right now.
+</Content>
+    <Date>2010-03-19 00:35:49</Date>
+    <Timestamp>1268984149</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319003549AAmoR3X</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>YrTb9vzwaa</UserId>
+    <UserNick>ⓒⓗⓔⓨ</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b81211fi1b0fzul7re4/Z7_8Uqoyc6O8meo_QJoEG5BxVQ--/10/tn48.jpg?ciAAToMBjb9178Iv</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>IE is tightly integrated into your Windows. It would be very hard, if not impossible to remove all components.
+In addition, some programs you may have might use the IE infrastructure to connect to the web internally, and if you were to remove it, other programs may stop functioning.
+
+Just let it be and don&#039;t use it.</ChosenAnswer>
+    <ChosenAnswererId>iUTY2LR1aa</ChosenAnswererId>
+    <ChosenAnswererNick>DУϨL∃ҲIC bunny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268984572</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269135438</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You&#039;re supposed to go to Control Panel and then &quot;Add or Remove Programs&quot;. I have XP so it might be different.
+Maybe you can search for it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iCP0RPRZaa</UserId>
+            <UserNick>L.</UserNick>
+            <Date>2010-03-19 00:37:57</Date>
+            <Timestamp>1268984277</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>IE is tightly integrated into your Windows. It would be very hard, if not impossible to remove all components.
+In addition, some programs you may have might use the IE infrastructure to connect to the web internally, and if you were to remove it, other programs may stop functioning.
+
+Just let it be and don&#039;t use it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>iUTY2LR1aa</UserId>
+            <UserNick>DУϨL∃ҲIC bunny</UserNick>
+            <Date>2010-03-19 00:42:52</Date>
+            <Timestamp>1268984572</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Internet Explorer is part of Windows.
+You can not remove it.
+
+Don&#039;t even try.
+You will only end up with a non-working Windows.
+
+Simply set Firefox as your default browser.</Content>
+            <Reference>Proof that Windows and Internet Explorer are one:
+Open your C: Drive.
+Up in the Address Bar, it will say &quot;C:\&quot;.
+Delete the &quot;C:\&quot; text and type in &quot;www.yahoo.com&quot;.
+Press Enter.
+
+Windows will change into Internet Explorer.</Reference>
+            <Best></Best>
+            <UserId>IZDz7El2aa</UserId>
+            <UserNick>lantere</UserNick>
+            <Date>2010-03-19 00:45:31</Date>
+            <Timestamp>1268984731</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No, you can&#039;t. I just went to check in the Internet Explorer folder. There&#039;s no uninstall option. So, I guess you just can&#039;t uninstall it.</Content>
+            <Reference>I just checked it out.</Reference>
+            <Best></Best>
+            <UserId>KJ7LTe05aa</UserId>
+            <UserNick>Saptashwa</UserNick>
+            <Date>2010-03-19 00:47:06</Date>
+            <Timestamp>1268984826</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Don&#039;t delete it. Some parts of windows are actually dependent upon it.  Use your firefox, just delete the shortcuts on your desktop, quicklaunch, and the start menu shortcut. Just make sure it is set as your default browser and to check that it is the defualt browser (under Options&gt;Advanced at the bottom) and you&#039;ll be just fine.
+
+Personal IE hater here too :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Okw6zwqtaa</UserId>
+            <UserNick>Justme1971</UserNick>
+            <Date>2010-03-19 00:47:39</Date>
+            <Timestamp>1268984859</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>no, cause if u have uninstalled IE, you cannot use the internet anymore even use firefox, chrome</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xM1eXdneaa</UserId>
+            <UserNick>William</UserNick>
+            <Date>2010-03-19 01:42:04</Date>
+            <Timestamp>1268988124</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It is not possible.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>H9RLpgjUaa</UserId>
+            <UserNick>Great</UserNick>
+            <Date>2010-03-19 03:43:17</Date>
+            <Timestamp>1268995397</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:53 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227205708AAIW6sV" type="Answered">
+    <Subject>Why was my sporedum.net account suspended for no apparent reason?</Subject>
+    <Content>I made an account only a week ago, making only 2 posts about saying something random and a comment on a mod saying that it wasn&#039;t working. I go to check if someone answered the comment, but it showed a page saying &quot;Account Suspended; This Account Has Been Suspended.&quot; Why did this happen? This makes no sense.
+</Content>
+    <Date>2010-02-27 20:57:08</Date>
+    <Timestamp>1267333028</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227205708AAIW6sV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9c8QdPyIaa</UserId>
+    <UserNick>quaker101010</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UWvKi6M8AAEBQcE_KBO8OVBBMQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The actual website itself was suspended from the service used to create it. That&#039;s all that&#039;s known at this time.</ChosenAnswer>
+    <ChosenAnswererId>qmin8Z0Vaa</ChosenAnswererId>
+    <ChosenAnswererNick>j m</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267341330</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267491429</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The actual website itself was suspended from the service used to create it. That&#039;s all that&#039;s known at this time.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qmin8Z0Vaa</UserId>
+            <UserNick>j m</UserNick>
+            <Date>2010-02-27 23:15:30</Date>
+            <Timestamp>1267341330</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:40:59 PDT 2010 -->

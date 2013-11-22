@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228212553AAQmgnb" type="Answered">
+    <Subject>My firefox is using up to ~750mb of memory, am I doing something wrong? How can I reduce the usage?</Subject>
+    <Content>I&#039;ve only noticed this lately because my laptop fan is making a loud noise and my firefox browser seems to be having weird pauses (example: when you start typing nothing shows i[ at first but all of a sudden all the characters you inputted show up at the same time) 
+
+I usually just use it to surf the internet, youtube, and read manga, I just don&#039;t see how it&#039;s lagging.
+</Content>
+    <Date>2010-02-28 21:25:53</Date>
+    <Timestamp>1267421153</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228212553AAQmgnb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11950941</UserId>
+    <UserNick>Ken Z</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go to tools&gt; option.. &gt; advance &gt; network &gt;
+
+look offline storage,
+now if you want to clear all then click on clear
+and now adjust the size of offline data. in default it is 50 mb</ChosenAnswer>
+    <ChosenAnswererId>3Yluz4Yiaa</ChosenAnswererId>
+    <ChosenAnswererNick>RAryan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267421871</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268463133</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go to tools&gt; option.. &gt; advance &gt; network &gt;
+
+look offline storage,
+now if you want to clear all then click on clear
+and now adjust the size of offline data. in default it is 50 mb</Content>
+            <Reference>Aryan</Reference>
+            <Best>5</Best>
+            <UserId>3Yluz4Yiaa</UserId>
+            <UserNick>RAryan</UserNick>
+            <Date>2010-02-28 21:37:51</Date>
+            <Timestamp>1267421871</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine &quot;experts&quot; say is impossible, if you know about &quot;about:config&quot; disable prefetch this stupid firefox feature pre-opens every link on every page you visit &quot;for faster surfing&quot; and takes up all your memory</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-02-28 22:48:04</Date>
+            <Timestamp>1267426084</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>stop using Firefox
+Install Apple Safari,it rules!! It&#039;s much faster than Firefox.
+P.S don&#039;t use Chrome,its all hype and it lacks security!!
+I&#039;m a browser expert,so you can count on me :)
+Use Safari</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0od5FmAkaa</UserId>
+            <UserNick>Bozo</UserNick>
+            <Date>2010-03-01 10:54:07</Date>
+            <Timestamp>1267469647</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:34:34 PDT 2010 -->

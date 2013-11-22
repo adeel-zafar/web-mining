@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223184613AAQTHlF" type="Answered">
+    <Subject>Why wont the questions i answer show up on formspring?</Subject>
+    <Content>i keep getting questions in my inbox on formspring, and i answer them but once i reload the page the questions just show up in my inbox again and arnt on my profile page. help?
+</Content>
+    <Date>2010-02-23 18:46:13</Date>
+    <Timestamp>1266979573</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223184613AAQTHlF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6AdzYcH3aa</UserId>
+    <UserNick>Taylor W</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i have no idea why this is happening. its happening to me too, and im getting really annoyed with it. someone told me to try making a new formspring but i really dont want to cause it has all of my other questions in it. i was trying to find other stuff about it but i couldnt find anything =\</ChosenAnswer>
+    <ChosenAnswererId>qc7Pffofaa</ChosenAnswererId>
+    <ChosenAnswererNick>Laura</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267055461</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267499117</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i have no idea why this is happening. its happening to me too, and im getting really annoyed with it. someone told me to try making a new formspring but i really dont want to cause it has all of my other questions in it. i was trying to find other stuff about it but i couldnt find anything =\</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qc7Pffofaa</UserId>
+            <UserNick>Laura</UserNick>
+            <Date>2010-02-24 15:51:01</Date>
+            <Timestamp>1267055461</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>OMG SAME :| How do we fix thissss. someone helppp.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1moRpXMGaa</UserId>
+            <UserNick>Justice</UserNick>
+            <Date>2010-02-25 00:09:55</Date>
+            <Timestamp>1267085395</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:10 PDT 2010 -->

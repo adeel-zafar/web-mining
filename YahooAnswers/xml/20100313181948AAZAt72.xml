@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313181948AAZAt72" type="Answered">
+    <Subject>What is a good internet service for my laptop that&#039;s not cable or phone service? Also pretty cheap?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-13 18:19:48</Date>
+    <Timestamp>1268533188</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313181948AAZAt72</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CEPmPW9Aaa</UserId>
+    <UserNick>Keia</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b932870i23f7zws112ac4/sgKXilE9eqJM9472g4CBFaXfOzx5Dw--/40/tn48.png?ciAAToMBVKh7XDNg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to a hotel, library, or even your naval base so you can access government files</ChosenAnswer>
+    <ChosenAnswererId>IKMpYW5Naa</ChosenAnswererId>
+    <ChosenAnswererNick>GOLLUM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268538872</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268593577</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try Google Voice.  It&#039;s free.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>X53ImohMaa</UserId>
+            <UserNick>centaurzodiac</UserNick>
+            <Date>2010-03-13 18:22:51</Date>
+            <Timestamp>1268533371</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to a hotel, library, or even your naval base so you can access government files</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>IKMpYW5Naa</UserId>
+            <UserNick>Preciousmine</UserNick>
+            <Date>2010-03-13 19:54:32</Date>
+            <Timestamp>1268538872</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:09 PDT 2010 -->

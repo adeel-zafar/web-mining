@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303204742AAmP1yL" type="Answered">
+    <Subject>why do pictures have a red x instead of the picture on windows 7?</Subject>
+    <Content>i have installed windows 7 on the computer with norton 360 and on some web pages i get a red x on some of the pictures. on some pages with, for example, 8 pictures, 5 might be with the red x and the rest ok. some pages with all the pictures (on the same site) and some without.??????????
+
+ i have tried looking in the internet options and doing the things that the &quot;web&quot; says but im having no luck. 
+i don&#039;t know alot about the settings but from what i read and do from the web i cant figure it out.
+please help me.
+Glacial, i would do all of those things but i dont know how. im a novice on this part of computers
+</Content>
+    <Date>2010-03-03 20:47:42</Date>
+    <Timestamp>1267678062</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303204742AAmP1yL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lkEm90FUaa</UserId>
+    <UserNick>Michael</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1J3h7nPPfAAEC_IFUNJJWBg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Okay this can be caused by many things , Maybe the norton firewall is blocking some pictures , and maybe also your windows 7 security is too high , so its blocking some pictures as well. make sure you check both , usually this is caused because of a firewall , either the windows itself , or the antivirus software or the router firewall. So check them and if they are too high , set them moderate and try again to view pictures.</ChosenAnswer>
+    <ChosenAnswererId>XAoF3VX8aa</ChosenAnswererId>
+    <ChosenAnswererNick>Glacial</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267678591</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268543029</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Okay this can be caused by many things , Maybe the norton firewall is blocking some pictures , and maybe also your windows 7 security is too high , so its blocking some pictures as well. make sure you check both , usually this is caused because of a firewall , either the windows itself , or the antivirus software or the router firewall. So check them and if they are too high , set them moderate and try again to view pictures.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XAoF3VX8aa</UserId>
+            <UserNick>Glacial</UserNick>
+            <Date>2010-03-03 20:56:31</Date>
+            <Timestamp>1267678591</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:14:00 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326213407AAQWE8C" type="Answered">
+    <Subject>Quicktime plays in Firefox, but not in Internet Exploder - HELP!?</Subject>
+    <Content>I have some links to guitar midis in my website.  If one clicks on the link in Firefox the little Quicktime bar appears and the tune plays very well.  If one clicks on the link in Internet Exploder :-) the tune plays for about 5-10 seconds and then stops.  The little button on the player doesn&#039;t move across the bar in IE.  If I hover the curser over the player, then the button advances and the music resumes playing.  Is there some kind of configuration I&#039;m missing here?
+</Content>
+    <Date>2010-03-26 21:34:07</Date>
+    <Timestamp>1269664447</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326213407AAQWE8C</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>neC8DGTiaa</UserId>
+    <UserNick>wwginchww</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb3b663iefbzws129ac4/otBG92QmbKFg7Y9d2XBLGqQ-/101/tn48.jpeg?ciAAToMBeAyyR1Wu</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Just use FF,,, it is better anyways.. Use IE just for getting your updates.. ~</ChosenAnswer>
+    <ChosenAnswererId>ssue3clzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasper M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269664575</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270184019</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just use FF,,, it is better anyways.. Use IE just for getting your updates.. ~</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper M</UserNick>
+            <Date>2010-03-26 21:36:15</Date>
+            <Timestamp>1269664575</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go get quicktime for internet explorer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7tihwl39aa</UserId>
+            <UserNick>Tim H</UserNick>
+            <Date>2010-03-26 21:42:16</Date>
+            <Timestamp>1269664936</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:24:37 PDT 2010 -->

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224134042AAagkew" type="Answered">
+    <Subject>How do you actually follow somebody on twitter?</Subject>
+    <Content>I have just set up an account and I don&#039;t know whether i am missing some massive search box, but how do i find and follow a specific person like a celeb without have to follow somebody on the suggestions page?
+</Content>
+    <Date>2010-02-24 13:40:42</Date>
+    <Timestamp>1267047642</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224134042AAagkew</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iDxikaPXaa</UserId>
+    <UserNick>Megan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1lLkLHIb7AAEC3YQzqbLGZyUB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>To follow somebody on twitter you have to visit someone&#039;s twitter profile and to click link &#039;follow&#039; in top left part of his profile (and in order to do this you must be logged into your twitter account with your username and password).
+
+For getting Twitter followers you can also use some of automated Twitter tools for getting hundreds or thousands of Twitter Followers and Customers like this one
+http://bit.ly/cBaBph</ChosenAnswer>
+    <ChosenAnswererId>XzjlL7Wtaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sasha</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267133178</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267304685</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://twitter.com/search</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4LHBVe5Haa</UserId>
+            <UserNick>The Jazz Computer Guy</UserNick>
+            <Date>2010-02-24 13:45:07</Date>
+            <Timestamp>1267047907</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you click on there name (or profile button) on the side there is a small raised box with their username and picture and an even smaller button near the bottom that looks like this....
+
++follow
+
+You click on it and it will say at the top of your screen &quot;you are now following this user&quot;
+
+hope it helps</Content>
+            <Reference>my own expeirience</Reference>
+            <Best></Best>
+            <UserId>rcGrgsZraa</UserId>
+            <UserNick>Brinnie</UserNick>
+            <Date>2010-02-24 13:50:43</Date>
+            <Timestamp>1267048243</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>To follow somebody on twitter you have to visit someone&#039;s twitter profile and to click link &#039;follow&#039; in top left part of his profile (and in order to do this you must be logged into your twitter account with your username and password).
+
+For getting Twitter followers you can also use some of automated Twitter tools for getting hundreds or thousands of Twitter Followers and Customers like this one
+http://bit.ly/cBaBph</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>XzjlL7Wtaa</UserId>
+            <UserNick>Sasha</UserNick>
+            <Date>2010-02-25 13:26:18</Date>
+            <Timestamp>1267133178</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:13:41 PDT 2010 -->

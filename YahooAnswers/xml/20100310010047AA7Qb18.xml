@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310010047AA7Qb18" type="Answered">
+    <Subject>How do you get an E-MAIL like this  example@example.com?</Subject>
+    <Content>please someone tell me how to get one like this free :)  example@whatever.com
+EDIT: i have a friend that has one like that but he doesn&#039;t want to tell me :( and yes.. i did tie him up upside down then roasted him on an open fire... BUT HE WONT TELL ME!!!!!
+</Content>
+    <Date>2010-03-10 01:00:47</Date>
+    <Timestamp>1268211647</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310010047AA7Qb18</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SQiSxcTPaa</UserId>
+    <UserNick>ME!!!</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/16NDxUKBjAAQDK4E_7I5eN2bNLA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try here for surprisingly more options https://signup.mail.com/UserInformation.aspx</ChosenAnswer>
+    <ChosenAnswererId>NA3WlA4saa</ChosenAnswererId>
+    <ChosenAnswererNick>Mr Vellore</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268212541</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268394964</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>after the @ symbol is the domain name. The only way i know how to do this would be to own your own domain.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZPJvNViraa</UserId>
+            <UserNick>Cola</UserNick>
+            <Date>2010-03-10 01:02:32</Date>
+            <Timestamp>1268211752</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Cola is right. There is no other answer than that :) and i do not think it will be free. 
+
+Register a domain: Once that is done, you can create an email address like domain@domain.com.
+
+If you do find something like this for free then do let us know :). Good Luck!!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>u0JEl2Sjaa</UserId>
+            <UserNick>sd</UserNick>
+            <Date>2010-03-10 01:05:11</Date>
+            <Timestamp>1268211911</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have to get a domain name.  You can get one through godaddy.com or many many others for about 9 dollars a year.  godaddy.com offers email services, or you can use something like google apps that is free.
+
+once you buy a domain name, they can help you set it up to work with email, but basically you have to add a name and c name records to get email working.
+
+I suggest google apps.  I use it, and love it.  its free, only costs me 9 bucks a year for the domain name through godaddy.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZMYq07iwaa</UserId>
+            <UserNick>smikk</UserNick>
+            <Date>2010-03-10 01:05:40</Date>
+            <Timestamp>1268211940</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i dunno but someone told me that there is an app for that</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8YYI0wvQaa</UserId>
+            <UserNick>JEONATHAN J</UserNick>
+            <Date>2010-03-10 01:08:44</Date>
+            <Timestamp>1268212124</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try here for surprisingly more options https://signup.mail.com/UserInformation.aspx</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>NA3WlA4saa</UserId>
+            <UserNick>Robot™</UserNick>
+            <Date>2010-03-10 01:15:41</Date>
+            <Timestamp>1268212541</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You must have a domain on which a page will be created and a script will run on one of the page of that site. This could be done using php.</Content>
+            <Reference>www.elixirwebsolutions.com</Reference>
+            <Best></Best>
+            <UserId>tKQZjYxJaa</UserId>
+            <UserNick>Andrew</UserNick>
+            <Date>2010-03-10 01:20:08</Date>
+            <Timestamp>1268212808</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:20:44 PDT 2010 -->

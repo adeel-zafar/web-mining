@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226130651AAIhZHV" type="Answered">
+    <Subject>What is streaming? Help?</Subject>
+    <Content>Im interested in a wifi radio and I read that: &quot;Before purchasing, it&#039;s best to become familiar with how streaming audio works on their website. You will need to purchase Internet streaming ability from Sirius in addition to your radio account. Be sure this is all working first.&quot;
+What does it mean?
+</Content>
+    <Date>2010-02-26 13:06:51</Date>
+    <Timestamp>1267218411</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226130651AAIhZHV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PkrDUcbCaa</UserId>
+    <UserNick>Kike</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think it&#039;s just a way of leaking information or other media onto websites, such as streaming a video onto YouTube.</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267218617</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267910015</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You need a Sirius account. Basically, by streaming its saying that youll be hearing live radio on your computer, its streaming live. But there are many many places to listen to live radio for free. Google it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>9rfwF9leaa</UserId>
+            <UserNick>juj</UserNick>
+            <Date>2010-02-26 13:10:09</Date>
+            <Timestamp>1267218609</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think it&#039;s just a way of leaking information or other media onto websites, such as streaming a video onto YouTube.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>AC/JC</UserNick>
+            <Date>2010-02-26 13:10:17</Date>
+            <Timestamp>1267218617</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:50:18 PDT 2010 -->

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331205850AAtYXhG" type="Answered">
+    <Subject>in firefox i cant change my profile pic in orkut?</Subject>
+    <Content>i am using the lastest version of firefox browser. i can change profile wid much difficulty in IE 6.
+i am not using genuine windows.
+can this b the problem?
+i tried all sorts of tricks googling my way but i fail.
+what is the solution?
+wy orkut suks so much like its users??
+grrrrrrrrrrrrrrrrrrrrrrrrrrrr.......... 
+:(
+firefox 3.6.2
+</Content>
+    <Date>2010-03-31 20:58:50</Date>
+    <Timestamp>1270094330</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331205850AAtYXhG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8tCAE29Vaa</UserId>
+    <UserNick>QA</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>first it is not due to fake windows.
+try google chrome, it can fix problem. 
+but i  use firefox and i can change my pic easily through that. 
+are you using firefox 3.5 or 3.6? these have no problem.</ChosenAnswer>
+    <ChosenAnswererId>WdpWzToIaa</ChosenAnswererId>
+    <ChosenAnswererNick>TIRANGA211</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270098724</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270253659</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use google chrome</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2YmnHCXxaa</UserId>
+            <UserNick>Vishal</UserNick>
+            <Date>2010-03-31 21:04:00</Date>
+            <Timestamp>1270094640</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>first it is not due to fake windows.
+try google chrome, it can fix problem. 
+but i  use firefox and i can change my pic easily through that. 
+are you using firefox 3.5 or 3.6? these have no problem.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>WdpWzToIaa</UserId>
+            <UserNick>TIRANGA211</UserNick>
+            <Date>2010-03-31 22:12:04</Date>
+            <Timestamp>1270098724</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:03 PDT 2010 -->

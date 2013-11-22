@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305235219AAg4iGm" type="Answered">
+    <Subject>how do i save and import bookmarks from firefox?</Subject>
+    <Content>I&#039;m formatting my pc and don&#039;t want to lose my bookmarks
+</Content>
+    <Date>2010-03-05 23:52:19</Date>
+    <Timestamp>1267861939</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305235219AAg4iGm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1f65b02dee1448923347e64e1aa92817aa</UserId>
+    <UserNick>pascal</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1OX1d79Y5AAECQ4E_8AjXAg==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>register account in xmarks and install xmarks addon  and sync all your bookmarks..finish.
+you can get your bookmarks in any system.
+
+to know more go to  http://www.xmarks.com/</ChosenAnswer>
+    <ChosenAnswererId>9ce3a4dd7a7e4966c971f1e7d851163aaa</ChosenAnswererId>
+    <ChosenAnswererNick>anand</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267863447</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268381576</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>register account in xmarks and install xmarks addon  and sync all your bookmarks..finish.
+you can get your bookmarks in any system.
+
+to know more go to  http://www.xmarks.com/</Content>
+            <Reference>http://sites2all.blogspot.com/</Reference>
+            <Best>5</Best>
+            <UserId>9ce3a4dd7a7e4966c971f1e7d851163aaa</UserId>
+            <UserNick>anand</UserNick>
+            <Date>2010-03-06 00:17:27</Date>
+            <Timestamp>1267863447</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:51:35 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222080431AAVoXAT" type="Answered">
+    <Subject>How do you view the regular  DeviantArt site on an iPhone?</Subject>
+    <Content>It&#039;s bothering me.
+</Content>
+    <Date>2010-02-22 08:04:31</Date>
+    <Timestamp>1266854671</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222080431AAVoXAT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tSQ5GOq6aa</UserId>
+    <UserNick>James</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1pv89cXXqAAED_OFUmDg-DA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You don&#039;t. Some of it runs on flash so it won&#039;t play, and also it it is just to big of a page to view properly. Use it on a computer like it was intended to be viewed on.</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267191380</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267374348</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You don&#039;t. Some of it runs on flash so it won&#039;t play, and also it it is just to big of a page to view properly. Use it on a computer like it was intended to be viewed on.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>AC/JC</UserNick>
+            <Date>2010-02-26 05:36:20</Date>
+            <Timestamp>1267191380</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:28:59 PDT 2010 -->

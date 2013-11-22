@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324133152AAlpzuW" type="Answered">
+    <Subject>Why won&#039;t firefox save my history?</Subject>
+    <Content>I have my web browser history set to be kept for the past 120 days, but recently my history library hasn&#039;t contained anything but my history for the last week.  I went to Tools --&gt; Options --&gt; Privacy and checked that my preferences were still the same, but nothing I do has had any effect.  Any ideas on how to fix this?
+</Content>
+    <Date>2010-03-24 13:31:52</Date>
+    <Timestamp>1269462712</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324133152AAlpzuW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>exHwKPhIaa</UserId>
+    <UserNick>Bailey</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Have you tried reinstalling Firefox?</ChosenAnswer>
+    <ChosenAnswererId>23b6749a7088443a1a545bf4e3bff54caa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269793791</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269989220</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Have you tried reinstalling Firefox?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>23b6749a7088443a1a545bf4e3bff54caa</UserId>
+            <UserNick>Mark D</UserNick>
+            <Date>2010-03-28 09:29:51</Date>
+            <Timestamp>1269793791</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:36 PDT 2010 -->

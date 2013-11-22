@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319162204AAFxamL" type="Answered">
+    <Subject>Can i update my nod32 anti virus? NOD32 Anti virus system Version of signature: 3020 (20080411)?</Subject>
+    <Content>Can i update my nod32 anti virus?
+NOD32 Anti virus system Version of signature: 3020 (20080411)
+</Content>
+    <Date>2010-03-19 16:22:04</Date>
+    <Timestamp>1269040924</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319162204AAFxamL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ynpWNCJFaa</UserId>
+    <UserNick>Hexagon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269096607</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269097299</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>That&#039;s almost two years old.  If your license has expired, Eset won&#039;t let you download an update unless you renew.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dztKGMAQaa</UserId>
+            <UserNick>Windowphobe</UserNick>
+            <Date>2010-03-19 17:49:43</Date>
+            <Timestamp>1269046183</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-20 07:50:07</Date>
+            <Timestamp>1269096607</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:20 PDT 2010 -->

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322093828AA8LH77" type="Answered">
+    <Subject>how to get on the internet outside?</Subject>
+    <Content>hi
+
+i want to go on the internet outside but i dont know how.
+
+i have a laptop and i once took it outside and it didnt work the internet.
+
+does anyone know maybe a download to make a internet connection anywhere?
+</Content>
+    <Date>2010-03-22 09:38:28</Date>
+    <Timestamp>1269275908</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322093828AA8LH77</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>D7LtUlwraa</UserId>
+    <UserNick>Ben</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What you will need is a broadband access card.  Usually owned by mobile telephone companies and is a monthly charge.  Last I checked, it ran about $60 a month. You get internet basically everywhere you get cellphone signal since these cards run off the same towers.
+
+If you don&#039;t want to pay, you&#039;ll have to find hotspots to piggyback off of, but sometimes there aren&#039;t any around</ChosenAnswer>
+    <ChosenAnswererId>s48tId4paa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269276075</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269795402</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What you will need is a broadband access card.  Usually owned by mobile telephone companies and is a monthly charge.  Last I checked, it ran about $60 a month. You get internet basically everywhere you get cellphone signal since these cards run off the same towers.
+
+If you don&#039;t want to pay, you&#039;ll have to find hotspots to piggyback off of, but sometimes there aren&#039;t any around</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>s48tId4paa</UserId>
+            <UserNick>Legion</UserNick>
+            <Date>2010-03-22 09:41:15</Date>
+            <Timestamp>1269276075</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you need a wireless router to transmit the signal. If you connect your laptop to the internet with an Ethernet cord and do not have the a wireless router, you will lose your connection as soon as you unplug the Ethernet cord. and If you are implying that you can download the internet in your last sentence, then no you cannot download something to make it connect anywhere. Make sure your wireless card on your laptop is on and also maybe you can steal someone else&#039;s connection if you have neighbors with a wireless router</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WTnqbgThaa</UserId>
+            <UserNick>William</UserNick>
+            <Date>2010-03-22 09:48:23</Date>
+            <Timestamp>1269276503</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:30 PDT 2010 -->

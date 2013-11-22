@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324033300AADqn3A" type="Answered">
+    <Subject>plz tell  me how to control download speed in internet explorer//...?</Subject>
+    <Content>i want to control my download speed
+</Content>
+    <Date>2010-03-24 03:33:00</Date>
+    <Timestamp>1269426780</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324033300AADqn3A</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wgYOSBrsaa</UserId>
+    <UserNick>sravan b</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If your Downloading Speed varies, then try TCP Optimizer otherwise Net Limiter</ChosenAnswer>
+    <ChosenAnswererId>64a582e999957e5b09ad9eba2cf0c22faa</ChosenAnswererId>
+    <ChosenAnswererNick>Willie Black</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269435997</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269946413</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You cant control the download speed unless you are using a torrent or some download manager. AFAIK download speed of Internet Explorer cant be controlled</Content>
+            <Reference>myself</Reference>
+            <Best></Best>
+            <UserId>FJMA09Yjaa</UserId>
+            <UserNick>Stuart</UserNick>
+            <Date>2010-03-24 03:35:18</Date>
+            <Timestamp>1269426918</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>netlimited is wonderful application.
+its not free but then u can try it.</Content>
+            <Reference>http://www.netlimiter.com/</Reference>
+            <Best></Best>
+            <UserId>NnPn4MCHaa</UserId>
+            <UserNick>Sandeep Bajaj</UserNick>
+            <Date>2010-03-24 03:35:53</Date>
+            <Timestamp>1269426953</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Stuart is most probably right, but I can&#039;t help wondering why.  Never seen such a question before</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-24 03:36:20</Date>
+            <Timestamp>1269426980</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your download speed is determined by the speed of your ISP. Cable internet, dial up, broadband etc.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3Ophdo9raa</UserId>
+            <UserNick>chebrew2000</UserNick>
+            <Date>2010-03-24 03:38:22</Date>
+            <Timestamp>1269427102</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your Downloading Speed varies, then try TCP Optimizer otherwise Net Limiter</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>64a582e999957e5b09ad9eba2cf0c22faa</UserId>
+            <UserNick>Willie Black</UserNick>
+            <Date>2010-03-24 06:06:37</Date>
+            <Timestamp>1269435997</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:35:55 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227054052AAT6O7s" type="Answered">
+    <Subject>Any good free blog sites?</Subject>
+    <Content>I&#039;m looking to start writing my own blog and wondering whats the best website to start off with and got alotta viewers?
+
+(I plan to do reviews so if theirs a website that focus&#039;s on that purely then I would prefer that)
+</Content>
+    <Date>2010-02-27 05:40:52</Date>
+    <Timestamp>1267278052</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227054052AAT6O7s</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0h3S42tTaa</UserId>
+    <UserNick>__A_YAHOO_USER__</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Wordpress.com, it&#039;s free, it&#039;s simple, and has many themes to choose from. Also, during Christmas, you can make snow float down your blog!</ChosenAnswer>
+    <ChosenAnswererId>g71WfIlcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nicole</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267443045</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268677417</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>wordpress maybe</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>z0P3lJZUaa</UserId>
+            <UserNick>Tom W</UserNick>
+            <Date>2010-02-27 05:43:53</Date>
+            <Timestamp>1267278233</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Wordpress.com, it&#039;s free, it&#039;s simple, and has many themes to choose from. Also, during Christmas, you can make snow float down your blog!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>g71WfIlcaa</UserId>
+            <UserNick>Nicole</UserNick>
+            <Date>2010-03-01 03:30:45</Date>
+            <Timestamp>1267443045</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:45:45 PDT 2010 -->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312104606AAvbHCp" type="Answered">
+    <Subject>What can I do about my slow interwebs?</Subject>
+    <Content>I have 10mbps on Virgin Media and this is more than enough, when it works.
+Every so often at around 5pm and 8pm my internet goes incredible slow. I can&#039;t watch any videos on youtube and online gaming is out of the question.
+
+So, I basically want to know what I can do to stop this? I havent done anything about it yet because I thought that it would be something that they are trying to fix. However, this has been going on for months if not years now.
+
+Thanks for any help or guidance as to what I should do and why this happens.
+Thanks for your answer. I don&#039;t think it is excessive usage as the slow internet restores itself after an hour or so. Sometimes more.
+</Content>
+    <Date>2010-03-12 10:46:06</Date>
+    <Timestamp>1268419566</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312104606AAvbHCp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lYX3WOMoaa</UserId>
+    <UserNick>Daniel S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1sNc6oRC6AAEC_IFHXAmb6D4B.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The local network infrastructure is overloaded during peak usage periods. I personally would try and use anther completely different Internet Provider...A bit slow from other users on the local line is one thing, but what you are experiencing is Not OK, and I really doubt calling and complaining to them will fix this anytime soon...JMO</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268421552</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268607152</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you might need to check your usage, if you go over a pre-specified limit then Virgin will reduce your speed during peak times,  see the fair usage policy (address below) to see more details.
+
+If you are a heavy user during daytime, try to set  your PC to download overnight as this does not affect the policy.
+
+On top of this ensure your router is as close to the phone socket as possible (dont attach it via an extension cable)
+
+try testing your bandwith at speedtest as this can give you an idea of what your average speeds are.</Content>
+            <Reference>Virgin Acceptable use policy
+
+http://allyours.virginmedia.com/html/legal/oncable/acceptableuse.html
+
+Speedtest:
+http://www.speedtest.net</Reference>
+            <Best></Best>
+            <UserId>Dn0XkBtyaa</UserId>
+            <UserNick>James C</UserNick>
+            <Date>2010-03-12 10:58:04</Date>
+            <Timestamp>1268420284</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The local network infrastructure is overloaded during peak usage periods. I personally would try and use anther completely different Internet Provider...A bit slow from other users on the local line is one thing, but what you are experiencing is Not OK, and I really doubt calling and complaining to them will fix this anytime soon...JMO</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-12 11:19:12</Date>
+            <Timestamp>1268421552</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:09:23 PDT 2010 -->

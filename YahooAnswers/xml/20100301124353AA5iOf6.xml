@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301124353AA5iOf6" type="Answered">
+    <Subject>Which is better Verizon&#039;s or AT&amp;T&#039;s internet overall?</Subject>
+    <Content>In speed and overall quality.
+</Content>
+    <Date>2010-03-01 12:43:53</Date>
+    <Timestamp>1267476233</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301124353AA5iOf6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CK45Qeulaa</UserId>
+    <UserNick>Steve</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1PpWfRwAQAAIDAIIZRaPXBg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sprint</ChosenAnswer>
+    <ChosenAnswererId>lct5ksN5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Towlie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267476282</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267648617</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sprint</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>lct5ksN5aa</UserId>
+            <UserNick>Towlie</UserNick>
+            <Date>2010-03-01 12:44:42</Date>
+            <Timestamp>1267476282</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Verizon</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gRg0f8nNaa</UserId>
+            <UserNick>TopgunNanotech</UserNick>
+            <Date>2010-03-01 12:46:01</Date>
+            <Timestamp>1267476361</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Verizon FIOS is the best if you cant afford then stay away from dsl and get broadband!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11491649</UserId>
+            <UserNick>raptor071</UserNick>
+            <Date>2010-03-01 12:55:01</Date>
+            <Timestamp>1267476901</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:31:33 PDT 2010 -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308105312AAxme8c" type="Answered">
+    <Subject>Which photo sharing websites have no banner or pop up ads even for free membership?</Subject>
+    <Content>I&#039;m looking for a photo sharing sites which I can share with my nephews but there should be no pop up ads.
+Actually, I&#039;m using photobucket ads right now but the pop up ads are too sexy for minors.
+</Content>
+    <Date>2010-03-08 10:53:12</Date>
+    <Timestamp>1268074392</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308105312AAxme8c</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA12231178</UserId>
+    <UserNick>gapdreambabe</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1MpZDICr1AAIB-OFnEA7eQVEA.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>photobucket.com</ChosenAnswer>
+    <ChosenAnswererId>PcCHXh96aa</ChosenAnswererId>
+    <ChosenAnswererNick>Derrick</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268074484</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268590415</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>photobucket.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>PcCHXh96aa</UserId>
+            <UserNick>Derrick</UserNick>
+            <Date>2010-03-08 10:54:44</Date>
+            <Timestamp>1268074484</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:32:04 PDT 2010 -->

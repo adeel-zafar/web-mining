@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225124808AAHibzd" type="Answered">
+    <Subject>Help with Internet explorer?</Subject>
+    <Content>Hey guys, I was typing something in with alt + number pad then all of a sudden the window changed, now there is nothing on the screen unless I move my  mouse to the top of the screen then the bar will come down. Any way to fix that?
+</Content>
+    <Date>2010-02-25 12:48:08</Date>
+    <Timestamp>1267130888</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225124808AAHibzd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZBNqDXeqaa</UserId>
+    <UserNick>Alex W</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It Might be that u have pressed ALT+Minus sign (-) ...This combination of keys toggle windows console or can edit the display settings...
+Just relax and find solution by calling 559-933-0007 for tech. experts
+or visit website</ChosenAnswer>
+    <ChosenAnswererId>xTLqJhKtaa</ChosenAnswererId>
+    <ChosenAnswererNick>Icranium</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267131469</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267150738</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It Might be that u have pressed ALT+Minus sign (-) ...This combination of keys toggle windows console or can edit the display settings...
+Just relax and find solution by calling 559-933-0007 for tech. experts
+or visit website</Content>
+            <Reference>http://www.icranium.net</Reference>
+            <Best>4</Best>
+            <UserId>xTLqJhKtaa</UserId>
+            <UserNick>Icranium</UserNick>
+            <Date>2010-02-25 12:57:49</Date>
+            <Timestamp>1267131469</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You activated the full screen mode. Either try right clicking on the bar and pressing exit full screen mode or press F11 or something.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>U1E60X8Zaa</UserId>
+            <UserNick>Roman</UserNick>
+            <Date>2010-02-25 13:00:07</Date>
+            <Timestamp>1267131607</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:56:31 PDT 2010 -->

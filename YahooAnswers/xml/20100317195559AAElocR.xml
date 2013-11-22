@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317195559AAElocR" type="Answered">
+    <Subject>Has 4chan been down today?</Subject>
+    <Content>I can&#039;t post on /b/.
+Is it down?
+</Content>
+    <Date>2010-03-17 19:55:59</Date>
+    <Timestamp>1268880959</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317195559AAElocR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>B578d34faa</UserId>
+    <UserNick>The Queen of Freaking England</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bba37cai2506zws134mud/4HrJcpw_frQjOvRpjFw3mspTxcnr/5/tn48.jpeg?ciAAToMBdSx.fTkv</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>WHAT THE FUCK RULES 1 AND 2</ChosenAnswer>
+    <ChosenAnswererId>cWvQnAhuaa</ChosenAnswererId>
+    <ChosenAnswererNick>Colonel Awesomesauce</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268883900</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268971595</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>4chan status page says that posting service, is currently down.</Content>
+            <Reference>http://status.4chan.org/</Reference>
+            <Best></Best>
+            <UserId>YESUhp8gaa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-17 19:59:06</Date>
+            <Timestamp>1268881146</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>WHAT THE FUCK RULES 1 AND 2</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cWvQnAhuaa</UserId>
+            <UserNick>Colonel Awesomesauce</UserNick>
+            <Date>2010-03-17 20:45:00</Date>
+            <Timestamp>1268883900</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:42:17 PDT 2010 -->

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222123533AA5wHoC" type="Answered">
+    <Subject>Internet Explorer Problem?</Subject>
+    <Content>Every time I start my PC, right at start up, an internet explorer error message is displayed. It  says &quot;script error, do you wish to continue to view the page&quot;( I m sorry for not being able to quote the exact message). I am at a loss to understand what the hell went wrong.May I emphasize that it happens only at startup,.
+Please help me out guyz.
+</Content>
+    <Date>2010-02-22 12:35:33</Date>
+    <Timestamp>1266870933</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222123533AA5wHoC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7nJA57p6aa</UserId>
+    <UserNick>Chirag</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b5c4bb5i1760zul7re4/NaIMP2cyc6.oTY8uH2iqBB30BA--/1/tn48.jpg?ciAAToMBA2dEpWL0</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sorry But I couldn&#039;t stop myself in writing this
+&quot;Chirag Tale Andhera&quot;</ChosenAnswer>
+    <ChosenAnswererId>qwuKlivUaa</ChosenAnswererId>
+    <ChosenAnswererNick>spyrd</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266871343</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267390528</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Restart PC in safe mode by tapping F-8 key, choosing &quot;Last Known Good Configuration&quot; from menu. Next download, update, run Malwarebytes, ccleaner, Reset IE8 to Default in Options, Advanced and Restart PC...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/ccleaner/?tag=mncol</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-22 12:40:37</Date>
+            <Timestamp>1266871237</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It could be malware I would just reinstall IE this usually fixes all script errors</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>soFbQssVaa</UserId>
+            <UserNick>Jamin</UserNick>
+            <Date>2010-02-22 12:41:49</Date>
+            <Timestamp>1266871309</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sorry But I couldn&#039;t stop myself in writing this
+&quot;Chirag Tale Andhera&quot;</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qwuKlivUaa</UserId>
+            <UserNick>spyrd</UserNick>
+            <Date>2010-02-22 12:42:23</Date>
+            <Timestamp>1266871343</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:27:13 PDT 2010 -->

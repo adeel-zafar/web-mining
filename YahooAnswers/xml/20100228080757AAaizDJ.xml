@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228080757AAaizDJ" type="Answered">
+    <Subject>Does heavy traffic on the Internet slow your computer down?</Subject>
+    <Content>For example, we&#039;ve got AT&amp;T high speed internet service, which they told me is DSL service. Does it slow down your computer more if a million nearby people are using it at a given time, rather than just one guy down the street, or isn&#039;t there any impact on computer speed?
+</Content>
+    <Date>2010-02-28 08:07:57</Date>
+    <Timestamp>1267373277</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228080757AAaizDJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10363855</UserId>
+    <UserNick>doofuss</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You will be sharing your connection with 10 or 20 others, it&#039;s called the contention ratio and yes if they are all using it to capacity at the same time, anything you do on the internet will be slower than normal.</ChosenAnswer>
+    <ChosenAnswererId>ZIPd99xtaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mike C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267373504</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267551341</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Especially on rush hour when all the 9 to 5&#039;s get out from work, the highway is all clogged up.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6s84YLZxaa</UserId>
+            <UserNick>Bob S</UserNick>
+            <Date>2010-02-28 08:08:51</Date>
+            <Timestamp>1267373331</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It will slow down your internet, but not your computer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>f8f06ff9fca48b1a62ebc8b7833b7976aa</UserId>
+            <UserNick>Steven שמואל</UserNick>
+            <Date>2010-02-28 08:10:03</Date>
+            <Timestamp>1267373403</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Not DSL. Cable, though, is shared between households, so that would be slowed.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-02-28 08:10:07</Date>
+            <Timestamp>1267373407</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You will be sharing your connection with 10 or 20 others, it&#039;s called the contention ratio and yes if they are all using it to capacity at the same time, anything you do on the internet will be slower than normal.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ZIPd99xtaa</UserId>
+            <UserNick>Mike C</UserNick>
+            <Date>2010-02-28 08:11:44</Date>
+            <Timestamp>1267373504</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Internet has no relation with your computer speed, slow internet speed slow up browsing, downloading and uploading over internet. If you are a internet user then you dont care about your pc speed all you care is your internet speed.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VNUpDmSMaa</UserId>
+            <UserNick>Majestics</UserNick>
+            <Date>2010-02-28 08:14:06</Date>
+            <Timestamp>1267373646</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:38:34 PDT 2010 -->

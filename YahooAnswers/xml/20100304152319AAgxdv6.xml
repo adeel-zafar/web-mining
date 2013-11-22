@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304152319AAgxdv6" type="Answered">
+    <Subject>Av.exe virus wont let me do ANYTHING!!?</Subject>
+    <Content>This virus is everywhere i mean everywhere. i wanna make a list of things that the virus wont let me do.
+1. Wont let me System Recover (at the start up)
+2. Wont let me use Windows Registry
+3. Wont let me use Web Browsing software (IE, Fire Fox, Safari ETC.)
+4. Safe Mode is the same as Normal Mode
+5. I can&#039;t use USB Flash drives to transfer over malware, spyware, anti virus programs
+6. Task Manager is down
+7. It wont let me use any back up or system restore because i need permission from Admin (I am the admin)
+
+Please help out here!
+</Content>
+    <Date>2010-03-04 15:23:19</Date>
+    <Timestamp>1267744999</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304152319AAgxdv6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VyxNjCyIaa</UserId>
+    <UserNick>Richeese</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267800292</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267800545</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>to do system restore turn off or un plug your computer turn it back on holding down the R key until you hear clicking it will come on system restore, do full system restore with no back up, it will make your computer like new</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DeiuAuwyaa</UserId>
+            <UserNick>Brenda</UserNick>
+            <Date>2010-03-04 15:48:12</Date>
+            <Timestamp>1267746492</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-05 06:44:52</Date>
+            <Timestamp>1267800292</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:09:16 PDT 2010 -->

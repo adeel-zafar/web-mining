@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301190850AADFfAO" type="Answered">
+    <Subject>What can I do if my DNS isn&#039;t working?</Subject>
+    <Content>I have a problem, i am in another computer, but in my computer my interner explorer doesn&#039;t work. My skype works, but is the only thing that works. And it appears that the DNS isn&#039;t working. So, what can I do?
+please tell me step by step what I have to do, because I don&#039;t know veru much about computers. Thanks
+</Content>
+    <Date>2010-03-01 19:08:50</Date>
+    <Timestamp>1267499330</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301190850AADFfAO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>OYBncdUAaa</UserId>
+    <UserNick>juan.7655</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b8c7dbci24ddzws115mud/TR7po3A7bqfhZHe9Ht2l8Cg-/1/tn48.jpeg?ciAAToMBqu6L1li4</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can check under tools options connections lan settings in Internet explorer.  Make sure automatic settings is check on and everything else should be off, unless you are behind a proxy server.
+
+You can also press the windows key and r and then type cmd and hit enter. you will get a command prompt and type ping yahoo.com and hit enter.  if you get a reply your dns is working correctly.</ChosenAnswer>
+    <ChosenAnswererId>idv8P026aa</ChosenAnswererId>
+    <ChosenAnswererNick>David Lee</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267500057</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267663116</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can check under tools options connections lan settings in Internet explorer.  Make sure automatic settings is check on and everything else should be off, unless you are behind a proxy server.
+
+You can also press the windows key and r and then type cmd and hit enter. you will get a command prompt and type ping yahoo.com and hit enter.  if you get a reply your dns is working correctly.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>idv8P026aa</UserId>
+            <UserNick>David Lee</UserNick>
+            <Date>2010-03-01 19:20:57</Date>
+            <Timestamp>1267500057</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:29:07 PDT 2010 -->

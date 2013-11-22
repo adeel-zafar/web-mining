@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303055052AAGxVoK" type="Answered">
+    <Subject>Why would someone need a download manager such as DownThemAll or FlashGot as a Firefox add on?</Subject>
+    <Content>Why would someone need to download a ton of information from a webpage?  What are they doing with it?  Same with FlashGot... why would someone need to download all the links and video ect from a particular webpage?  It sounds really neat, but I can&#039;t imagine what I would need to do that for?  Please explain what I might use that for... :)
+</Content>
+    <Date>2010-03-03 05:50:52</Date>
+    <Timestamp>1267624252</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303055052AAGxVoK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Y2tvKAuuaa</UserId>
+    <UserNick>thechick</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Oh for example: You are part of a group which posts event pictures on their site and for some reason you want to download them to view them offline. FlashGot is way faster than [r-click -&gt; save picture] repeat. Same applies with any other kind of files - maybe you are into modding games and want to download a load of texture files.
+
+Simple answer: It saves time.</ChosenAnswer>
+    <ChosenAnswererId>46k4kHTpaa</ChosenAnswererId>
+    <ChosenAnswererNick>AllmightyBanjo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267624570</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267729265</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>IDM or internet download manager.
+
+Its what i use and ive never had any problems with it. 
+
+Its a seperate app but it has a firefox plugin.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kV4zxkYPaa</UserId>
+            <UserNick>Bean</UserNick>
+            <Date>2010-03-03 05:53:02</Date>
+            <Timestamp>1267624382</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Oh for example: You are part of a group which posts event pictures on their site and for some reason you want to download them to view them offline. FlashGot is way faster than [r-click -&gt; save picture] repeat. Same applies with any other kind of files - maybe you are into modding games and want to download a load of texture files.
+
+Simple answer: It saves time.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>46k4kHTpaa</UserId>
+            <UserNick>AllmightyBanjo</UserNick>
+            <Date>2010-03-03 05:56:10</Date>
+            <Timestamp>1267624570</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:19:32 PDT 2010 -->

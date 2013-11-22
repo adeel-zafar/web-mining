@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326113400AAuLmGB" type="Answered">
+    <Subject>Has anyone been on www.crackle.com ?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-26 11:34:00</Date>
+    <Timestamp>1269628440</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326113400AAuLmGB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9bnd3GdPaa</UserId>
+    <UserNick>who is adam west?</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1RJhafhs7AAEDOik9OmQ=.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i have now!!!!!</ChosenAnswer>
+    <ChosenAnswererId>e5jS1qOkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Caboose</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269628511</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269873936</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Nope.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ay2opdbwaa</UserId>
+            <UserNick>NerdTV</UserNick>
+            <Date>2010-03-26 11:34:54</Date>
+            <Timestamp>1269628494</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i have now!!!!!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>e5jS1qOkaa</UserId>
+            <UserNick>Caboose</UserNick>
+            <Date>2010-03-26 11:35:11</Date>
+            <Timestamp>1269628511</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No. Should I be?  Now I have to go look.  Thanks.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YrzrlBfSaa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-26 11:35:44</Date>
+            <Timestamp>1269628544</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I just did a few seconds ago, does that count?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>p9J1rtodaa</UserId>
+            <UserNick>linseygk</UserNick>
+            <Date>2010-03-27 18:30:37</Date>
+            <Timestamp>1269739837</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:33 PDT 2010 -->

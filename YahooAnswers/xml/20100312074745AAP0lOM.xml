@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312074745AAP0lOM" type="Answered">
+    <Subject>How do you put a picture onto a website through the comments?</Subject>
+    <Content>I would like to make a comment using a picture in a certain site. how do you do that?
+</Content>
+    <Date>2010-03-12 07:47:45</Date>
+    <Timestamp>1268408865</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312074745AAP0lOM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RH7unvhZaa</UserId>
+    <UserNick>Aoixgp</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ok well You have to find the piture&#039;s HTML code and you paste that in the comment box and then once you hit publish or whatever, the image should show up as a comment.</ChosenAnswer>
+    <ChosenAnswererId>xE2jisHdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Track Starr</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268409007</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270007634</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ok well You have to find the piture&#039;s HTML code and you paste that in the comment box and then once you hit publish or whatever, the image should show up as a comment.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xE2jisHdaa</UserId>
+            <UserNick>Track Starr</UserNick>
+            <Date>2010-03-12 07:50:07</Date>
+            <Timestamp>1268409007</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If the site allows HTML the code is:
+&lt;img src=&quot;http://www.insertimageurl.jpg&quot;&gt; 
+
+You would have to have the picture online and then would need the address of that picture.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TagFSVbHaa</UserId>
+            <UserNick>blueheeler18</UserNick>
+            <Date>2010-03-12 07:50:09</Date>
+            <Timestamp>1268409009</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:09:57 PDT 2010 -->

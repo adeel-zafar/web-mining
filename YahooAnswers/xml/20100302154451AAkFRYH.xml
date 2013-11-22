@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302154451AAkFRYH" type="Answered">
+    <Subject>Why can&#039;t I right click on anything in firefox?</Subject>
+    <Content>Okay, so I can right click just fine on my desktop, (like to open the internet of change my settings) but i can&#039;t on fire fox. I&#039;ve already downloaded the new version of it and checked everything I know to check to figure out my problem but nothing works. It&#039;s not just pictures but text too! When I try to right click the little menu that shows copy, paste, save, etc. doesn&#039;t even appear. Absolutely nothing happens. I&#039;ve tried just about every combination of keys I know to bypass this, even tried to copy the whole page. but still nothing happens. It&#039;s not just one web page either, It&#039;s every single page... is anyone out there able to help? please?
+</Content>
+    <Date>2010-03-02 15:44:51</Date>
+    <Timestamp>1267573491</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302154451AAkFRYH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>z2vLVekTaa</UserId>
+    <UserNick>kristy</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1xcGTNrl7AAEDBMKbgKBLBg==.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i was getting the &quot;not responding&quot; message...
+the browser would open and that&#039;s all...
+
+i un-installed, then reinstalled and still had the problem... 
+i just opened it again 10 minutes ago and everything is back to normal... ;-p</ChosenAnswer>
+    <ChosenAnswererId>xA0ATVBIaa</ChosenAnswererId>
+    <ChosenAnswererNick>livewire9</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267574209</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268093146</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox is a stuck-up bitch, don&#039;t worry though, Google Chrome is a great guy and loves to party, so ditch Firefox, Chrome is your new best friend!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>f7OLeVI0aa</UserId>
+            <UserNick>King Bob</UserNick>
+            <Date>2010-03-02 15:46:49</Date>
+            <Timestamp>1267573609</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try clearing your history and cookies. Also with the new version of firefox it has been reported that yahoo toolbar may cause this so if you have it i would try uninstalling yahoo toolbar. After doing this restart firefox and see if it worked. If it doesn&#039;t im not sure.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZPJvNViraa</UserId>
+            <UserNick>Cola</UserNick>
+            <Date>2010-03-02 15:49:26</Date>
+            <Timestamp>1267573766</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1) Chrome isn&#039;t that great.
+2) Close firefox (don&#039;t save your tabs) and make sure that it&#039;s not in your processes (ALT+CTRL+DELETE) 
+3) Reopen firefox and if the problem is still there then you must reinstall firefox. 
+4) Start - Control Panel - Add/Remove Programs - Mozilla Firefox - Remove
+5) Using IE reinstall it and if that STILL doesn&#039;t fix your problem then....
+6) Use crappy ol&#039; IE or lame ol&#039; Goggle Chrome 
+
+If you enjoy all the features Firefox gives you then Chrome will not make you a happy customer. Just contact mozilla about your problem. You also may be able to find a someone that had this problem and fixed it in Mozilla&#039;s forums... Check that out too.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2mskfdHaaa</UserId>
+            <UserNick>MikeB214</UserNick>
+            <Date>2010-03-02 15:53:16</Date>
+            <Timestamp>1267573996</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i was getting the &quot;not responding&quot; message...
+the browser would open and that&#039;s all...
+
+i un-installed, then reinstalled and still had the problem... 
+i just opened it again 10 minutes ago and everything is back to normal... ;-p</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xA0ATVBIaa</UserId>
+            <UserNick>livewire9</UserNick>
+            <Date>2010-03-02 15:56:49</Date>
+            <Timestamp>1267574209</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:24:18 PDT 2010 -->

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302214826AA2p38a" type="Answered">
+    <Subject>How do I reenable Internet Explorer?</Subject>
+    <Content>I got a virus a while back that required me to disable the internet explorer proxy server so that the virus couldn&#039;t actually access the internet. Now I need to turn the internet explorer proxy server back on so I can access the internet again. How do I do this?
+
+I know to go to tools
+click internet options
+click connections
+and click LAN settings
+
+but then it asks for me to type the address of the proxy server - I don&#039;t know what to type here
+and then, I don&#039;t know what to type for the port number
+</Content>
+    <Date>2010-03-02 21:48:26</Date>
+    <Timestamp>1267595306</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302214826AA2p38a</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jfMPT7jvaa</UserId>
+    <UserNick>Kelsey</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you can connect to the internet without a proxy server then you don&#039;t need anything in there.
+
+You only need to have a proxy set if your local network requires you to go through a specific machine before being able to get out to the internet.
+
+Proxies can also used to disguise your ip address when you want to do something less than legal online and want to make it harder for authorities to track you down. But finding a proxy for this is a little more complicated and will severely slow down your browsing.
+
+If you DO have to go through a proxy to get out of your local network and onto the internet then you will have to find out what ip address the proxy machine is and what port it&#039;s setup on. No one on the internet will know this information, ask someone who is more familiar with your local network such as your network admin (if you&#039;re at work) or dad (if you&#039;re a kid and at home) or whoever setup your local network for you.
+
+Also stop using Internet Explorer if you&#039;re worried about things like viruses, Firefox or Google Chrome are much more secure browsers.</ChosenAnswer>
+    <ChosenAnswererId>UAjXa6nfaa</ChosenAnswererId>
+    <ChosenAnswererNick>Guy Incognito</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267596091</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268114708</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you don&#039;t have to use a proxy server to access the internet but if you wish to just google proxy servers and it should come up with thousands of results, here is a website as an example http://www.hidemyass.com/proxy-list/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HdwLS8ezaa</UserId>
+            <UserNick>justin</UserNick>
+            <Date>2010-03-02 21:58:12</Date>
+            <Timestamp>1267595892</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you can connect to the internet without a proxy server then you don&#039;t need anything in there.
+
+You only need to have a proxy set if your local network requires you to go through a specific machine before being able to get out to the internet.
+
+Proxies can also used to disguise your ip address when you want to do something less than legal online and want to make it harder for authorities to track you down. But finding a proxy for this is a little more complicated and will severely slow down your browsing.
+
+If you DO have to go through a proxy to get out of your local network and onto the internet then you will have to find out what ip address the proxy machine is and what port it&#039;s setup on. No one on the internet will know this information, ask someone who is more familiar with your local network such as your network admin (if you&#039;re at work) or dad (if you&#039;re a kid and at home) or whoever setup your local network for you.
+
+Also stop using Internet Explorer if you&#039;re worried about things like viruses, Firefox or Google Chrome are much more secure browsers.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UAjXa6nfaa</UserId>
+            <UserNick>Guy Incognito</UserNick>
+            <Date>2010-03-02 22:01:31</Date>
+            <Timestamp>1267596091</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>most internet connections don&#039;t use a proxy server.  call up your ISP and find out what your proxy server setting are (if any).
+
+also, if you are not using PPOE or dialup and you have some connections listed, remove them.  that alone may be blocking you from using the internet.
+
+If all else fails, you might try:
+start, control panel, add/remove programs, add/remove windows components
+uncheck Internet Explorer, click next, etc. until it uninstalls IE.
+recheck Internet Explorer, click next, etc. until it installs IE again.  
+you will lose any plugins that were added on and it will reset to default settings.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Xrpse3Iaaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-02 22:02:54</Date>
+            <Timestamp>1267596174</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Network connections&gt;Enable. dun.
+
+Did you forget to plug it in?</Content>
+            <Reference>Setup internet connection wizard.</Reference>
+            <Best></Best>
+            <UserId>T3xEcy1Zaa</UserId>
+            <UserNick>chris</UserNick>
+            <Date>2010-03-02 23:30:39</Date>
+            <Timestamp>1267601439</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:21:15 PDT 2010 -->

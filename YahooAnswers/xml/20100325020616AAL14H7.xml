@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325020616AAL14H7" type="Answered">
+    <Subject>How to sent Mail to friend with out sending own mail id ?</Subject>
+    <Content>i want to send mail to my friend from any  other mail id with out logging that mail id ...............
+</Content>
+    <Date>2010-03-25 02:06:16</Date>
+    <Timestamp>1269507976</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325020616AAL14H7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dz1NEQb8aa</UserId>
+    <UserNick>kk</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Dear, you can usu the annonymizer for doing this, you can search it on google</ChosenAnswer>
+    <ChosenAnswererId>ljNaeSq0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jerry Asishn</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269511715</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270027422</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can send like that. But you need to create your own mail server for that. There you can send emails without sending your name. This is not possible in yahoo or gmail.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oxfMNWyTaa</UserId>
+            <UserNick>anand s</UserNick>
+            <Date>2010-03-25 02:20:03</Date>
+            <Timestamp>1269508803</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you can search at www.hackingmobilephones.com
+It is site of Ankit Fadia</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xT1n3LOvaa</UserId>
+            <UserNick>Kanika</UserNick>
+            <Date>2010-03-25 02:30:30</Date>
+            <Timestamp>1269509430</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.viprasys.org/vb/f75/send-mail-your-friends-using-any-mail-id-their-own-mail-id-272477/</Content>
+            <Reference>www.indiastudychannel.com/vishaaal</Reference>
+            <Best></Best>
+            <UserId>ssBS2wOXaa</UserId>
+            <UserNick>Vishaaal</UserNick>
+            <Date>2010-03-25 02:31:58</Date>
+            <Timestamp>1269509518</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Dear, you can usu the annonymizer for doing this, you can search it on google</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ljNaeSq0aa</UserId>
+            <UserNick>Jerry Asishn</UserNick>
+            <Date>2010-03-25 03:08:35</Date>
+            <Timestamp>1269511715</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:31:54 PDT 2010 -->

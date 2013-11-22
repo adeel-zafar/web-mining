@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224143914AA7JEQf" type="Answered">
+    <Subject>Slow Internet connection????</Subject>
+    <Content>Well when im downloading on utorrent its been hanging in the 10 kb/s range when like a month before was higher than 300 kb/s any tips on maximizing my connection to get a higher download rate?
+</Content>
+    <Date>2010-02-24 14:39:14</Date>
+    <Timestamp>1267051154</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224143914AA7JEQf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qitdCCkWaa</UserId>
+    <UserNick>Robert</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>My guess is, that your Internet Provider is slowing it down a bit intentionally...You can Restart PC in safe mode by tapping F-8 key, choosing &quot;Last Known Good Configuration&quot; from menu. Next use Malwarebytes, SuperAntiSpyware, Hitman Pro, ccleaner and Restart PC...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267051464</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267129861</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>My guess is, that your Internet Provider is slowing it down a bit intentionally...You can Restart PC in safe mode by tapping F-8 key, choosing &quot;Last Known Good Configuration&quot; from menu. Next use Malwarebytes, SuperAntiSpyware, Hitman Pro, ccleaner and Restart PC...</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-24 14:44:24</Date>
+            <Timestamp>1267051464</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:13:20 PDT 2010 -->

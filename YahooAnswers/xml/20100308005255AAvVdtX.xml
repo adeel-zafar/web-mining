@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308005255AAvVdtX" type="Answered">
+    <Subject>Is it bad to run multiple anti-virus programs at once?</Subject>
+    <Content>i&#039;ve heard different opinions on this topic, even from professionals.
+i run two (Avast and Malwarebytes) and never had a problem between the two.
+and i was wondering if it is okay to have them both installed.
+i&#039;d like facts not opinions.
+</Content>
+    <Date>2010-03-08 00:52:55</Date>
+    <Timestamp>1268038375</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308005255AAvVdtX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tHJpv2qcaa</UserId>
+    <UserNick>Reese Witherspoon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268087369</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268087616</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Running both at once will not harm your computer or cause it to &quot;miss&quot; searching files for a virus. Just make sure your computer is fast enough to run both programs :) That is a fact.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8sWqcUOQaa</UserId>
+            <UserNick>bob s</UserNick>
+            <Date>2010-03-08 00:55:49</Date>
+            <Timestamp>1268038549</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You &#039;d better have only one antivirus active to do the real-time scan (free ones are Avast, AVG Free or Antivir),but you can use more than one for the occasional full scan.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MHAFoctMaa</UserId>
+            <UserNick>wisdom</UserNick>
+            <Date>2010-03-08 01:06:41</Date>
+            <Timestamp>1268039201</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>As long as the two anti virus programs don&#039;t interfere with each other,you&#039;re good to go.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AMhnM2Teaa</UserId>
+            <UserNick>Vlad</UserNick>
+            <Date>2010-03-08 02:00:47</Date>
+            <Timestamp>1268042447</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Malwarebytes (just like SUPERAntispyware) is not an antivirus but an antispyware program. It doesn&#039;t conflict with any antivirus programs.</Content>
+            <Reference>I&#039;m running KIS 2010 + MBAM (full version) + SAS (free version) -------- no conflict or slowdown whatsoever.</Reference>
+            <Best></Best>
+            <UserId>TJDklEwtaa</UserId>
+            <UserNick>Bill M.</UserNick>
+            <Date>2010-03-08 02:31:07</Date>
+            <Timestamp>1268044267</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-08 14:29:29</Date>
+            <Timestamp>1268087369</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:35:05 PDT 2010 -->

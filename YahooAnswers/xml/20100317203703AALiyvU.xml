@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317203703AALiyvU" type="Answered">
+    <Subject>Do you think that the world is a better place with Internet?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-17 20:37:03</Date>
+    <Timestamp>1268883423</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317203703AALiyvU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7982e56b45af684f2c57a5d2fa899f87aa</UserId>
+    <UserNick>HRH: CGS</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think it is a faster place.... internet is not glory, it&#039;s just a tool to accelerate social phenomena that otherwise would take years to develop.</ChosenAnswer>
+    <ChosenAnswererId>E5ZFvSq5aa</ChosenAnswererId>
+    <ChosenAnswererNick>SuN_SpOt</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268883536</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268992195</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think it is a faster place.... internet is not glory, it&#039;s just a tool to accelerate social phenomena that otherwise would take years to develop.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>E5ZFvSq5aa</UserId>
+            <UserNick>SuN_SpOt</UserNick>
+            <Date>2010-03-17 20:38:56</Date>
+            <Timestamp>1268883536</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XlyLakYAaa</UserId>
+            <UserNick>Mercuri</UserNick>
+            <Date>2010-03-17 20:38:56</Date>
+            <Timestamp>1268883536</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Absolutely . Ever live without it ?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>u2w40ptEaa</UserId>
+            <UserNick>marcus</UserNick>
+            <Date>2010-03-17 20:45:15</Date>
+            <Timestamp>1268883915</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:47 PDT 2010 -->

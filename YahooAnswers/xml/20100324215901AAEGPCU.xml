@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324215901AAEGPCU" type="Answered">
+    <Subject>how do i delete my twitter?</Subject>
+    <Content>i need to delete my twitter pleas ehelp!!
+</Content>
+    <Date>2010-03-24 21:59:01</Date>
+    <Timestamp>1269493141</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324215901AAEGPCU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>OM69aR4Kaa</UserId>
+    <UserNick>twitter= foreverFAM0US</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Just stop using it.</ChosenAnswer>
+    <ChosenAnswererId>4M9r1wNoaa</ChosenAnswererId>
+    <ChosenAnswererNick>jrd_t</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269493249</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270012498</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just stop using it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>4M9r1wNoaa</UserId>
+            <UserNick>jrd_t</UserNick>
+            <Date>2010-03-24 22:00:49</Date>
+            <Timestamp>1269493249</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:25 PDT 2010 -->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222191849AA3lCOG" type="Answered">
+    <Subject>eBay selling question?</Subject>
+    <Content>Tomorrow, eBay is having a 50% off all auction style listing fees. My question is this: If I write my auction listings, complete the listing transaction, but pay the 10 cents ( I think its 10 cents) to have it start later in the week- do I still get 50% off? Or will I not because the auction is starting later in the week and not on the 50% discount days. Thanks!
+</Content>
+    <Date>2010-02-22 19:18:49</Date>
+    <Timestamp>1266895129</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222191849AA3lCOG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zSP9dhCiaa</UserId>
+    <UserNick>panag3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1-E6Xt5zBAAEDiAudhc9TDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>I think so, because it&#039;s basically getting listed now, but it&#039;s scheduled to be live another day. BUT, I an be wrong and probably but not sure.
+
+eBay has chat!
+Google &#039;ebay chat&#039; 
+or use link below
+https://cschatlb-na.corp.ebay.com/chat.asp?profile=15</ChosenAnswer>
+    <ChosenAnswererId>w1J2kECdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Billy Rowe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266895232</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267072007</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think so, because it&#039;s basically getting listed now, but it&#039;s scheduled to be live another day. BUT, I an be wrong and probably but not sure.
+
+eBay has chat!
+Google &#039;ebay chat&#039; 
+or use link below
+https://cschatlb-na.corp.ebay.com/chat.asp?profile=15</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>w1J2kECdaa</UserId>
+            <UserNick>Billy Rowe</UserNick>
+            <Date>2010-02-22 19:20:32</Date>
+            <Timestamp>1266895232</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No! You have to do the listing while the offer is active!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MeBGXA0Daa</UserId>
+            <UserNick>Increase Traffic</UserNick>
+            <Date>2010-02-22 19:42:12</Date>
+            <Timestamp>1266896532</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>w1J2kECdaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-02-24 20:31:13</Date>
+            <Timestamp>1266896532</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:24:54 PDT 2010 -->

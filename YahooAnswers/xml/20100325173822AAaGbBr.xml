@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325173822AAaGbBr" type="Answered">
+    <Subject>Why do Cell phone providers have a 5gb cap on laptop data?</Subject>
+    <Content>Ok, this is a serious question about wireless internet service. I want to know why almost all companies put a 5gb cap on laptop data. &quot;Because they&#039;re greedy&quot; and &quot;They&#039;re dumb&quot; won&#039;t cut it. I want to know if it ACTUALLY costs them more money to provide service if a customer uses more data. Other than a nominal server energy cost, does it really cost THEM more, or is it just a clever money-making tactic? I know putting up the physical tower-network is anything but cheap, but really? My example question is &quot;Does it cost them more money to supply 10mb of data than 1mb?&quot; If so, how much more? I want to have a deeper understanding of how things work. Any real help will be appreciated.&quot;
+</Content>
+    <Date>2010-03-25 17:38:22</Date>
+    <Timestamp>1269563902</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325173822AAaGbBr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Y1v5HZRcaa</UserId>
+    <UserNick>Patrick</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;m not sure exactly how much, but of course it costs more to send out more. Hence why things like video messages are more than picture messages if you don&#039;t have a plan. This is also why some ISP&#039;s have a bandwidth cap.</ChosenAnswer>
+    <ChosenAnswererId>X4UTxedVaa</ChosenAnswererId>
+    <ChosenAnswererNick>clanorman</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269564141</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270083412</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m not sure exactly how much, but of course it costs more to send out more. Hence why things like video messages are more than picture messages if you don&#039;t have a plan. This is also why some ISP&#039;s have a bandwidth cap.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>X4UTxedVaa</UserId>
+            <UserNick>clanorman</UserNick>
+            <Date>2010-03-25 17:42:21</Date>
+            <Timestamp>1269564141</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:29:53 PDT 2010 -->

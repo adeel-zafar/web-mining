@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319161236AApfs3B" type="Answered">
+    <Subject>How do I update my Symatec anti-virus?</Subject>
+    <Content>Windows XP
+
+It shows the red shield symbol with the X on the task-bar. I click on Windows Security Center and it says the anti-virus is installed but its status is unknown. I open the Symatec anti-virus program and click on Live Update but its still says that its outdated.
+</Content>
+    <Date>2010-03-19 16:12:36</Date>
+    <Timestamp>1269040356</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319161236AApfs3B</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d4NjfrG0aa</UserId>
+    <UserNick>Elephant</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269096589</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269096991</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You don&#039;t. Go to you control panel then add or remove programs and delete Norton. Probably one of the crappiest Anti-Viruses out there.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>04pollTSaa</UserId>
+            <UserNick>teamshortbus</UserNick>
+            <Date>2010-03-19 16:15:08</Date>
+            <Timestamp>1269040508</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>000</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>L6THTOhfaa</UserId>
+            <UserNick>R. Reagan had class &amp; integrity</UserNick>
+            <Date>2010-03-19 16:22:45</Date>
+            <Timestamp>1269040965</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-20 07:49:49</Date>
+            <Timestamp>1269096589</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:24 PDT 2010 -->

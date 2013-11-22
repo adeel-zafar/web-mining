@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225150158AAEInzm" type="Answered">
+    <Subject>Lockerz invited wanted ?</Subject>
+    <Content>If you can please invtie me to lockerz the website
+jamescelment@googlemail.com
+</Content>
+    <Date>2010-02-25 15:01:58</Date>
+    <Timestamp>1267138918</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225150158AAEInzm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5upkIbdxaa</UserId>
+    <UserNick>__A_YAHOO_USER__</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I have</ChosenAnswer>
+    <ChosenAnswererId>e2DXwWTiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Johnter59</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267212685</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267233533</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I have</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>e2DXwWTiaa</UserId>
+            <UserNick>Alex</UserNick>
+            <Date>2010-02-26 11:31:25</Date>
+            <Timestamp>1267212685</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:34 PDT 2010 -->

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228175531AA718Ed" type="Answered">
+    <Subject>need help deleting lala account?</Subject>
+    <Content>i need to delete a lala account, but i dont know how! can somebody tell me how! thanxs
+</Content>
+    <Date>2010-02-28 17:55:31</Date>
+    <Timestamp>1267408531</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228175531AA718Ed</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ViKdNyrHaa</UserId>
+    <UserNick>tich</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1yyY86xAZAAEC-IFnJL8NCg==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.lala.com/#help
+
+very last section of the page called How do I cancel my Account?
+
+Follow the instructions on screen and you&#039;ll delete it</ChosenAnswer>
+    <ChosenAnswererId>QNJQlnI2aa</ChosenAnswererId>
+    <ChosenAnswererNick>skalragg</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267408912</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267641467</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.lala.com/#help
+
+very last section of the page called How do I cancel my Account?
+
+Follow the instructions on screen and you&#039;ll delete it</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>QNJQlnI2aa</UserId>
+            <UserNick>Cian</UserNick>
+            <Date>2010-02-28 18:01:52</Date>
+            <Timestamp>1267408912</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:35:46 PDT 2010 -->

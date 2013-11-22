@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326094816AA742Zk" type="Answered">
+    <Subject>How to I get rid of a virus?</Subject>
+    <Content>Computer has a virus and can&#039;t get safe mode to work. I tap F8 and it goes to the screen and when I click on run safe mode it loads halfway down the screen and then stops loading. Either safe mode isnt working or this virus wont let me load anything. When I log onto the computer I cannot run anything because of the virus. How do I get rid of the virus? Would i need to re-download windows? I have a dell mini 10 that runs windows XP
+cant download antivirus if i cant log on to computer then go online....
+do they sell the reformat disc anywhere?
+like i said i have a dell mini which is a netbook so no cd drive. how do i reinstall windows then?
+</Content>
+    <Date>2010-03-26 09:48:16</Date>
+    <Timestamp>1269622096</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326094816AA742Zk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Cp5Sw3YYaa</UserId>
+    <UserNick>Brett B</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try comodo:
+They have a great firewall
+antimalware
+memory firewall
+AV
+
+http://www.comodo.com/products/free_prod…</ChosenAnswer>
+    <ChosenAnswererId>dZnaUfqsaa</ChosenAnswererId>
+    <ChosenAnswererNick>shanj_shai n</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269623365</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269792105</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>install antivirus - scan .it will get rid of all viruses</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RFjfqckNaa</UserId>
+            <UserNick>kat2009</UserNick>
+            <Date>2010-03-26 09:52:32</Date>
+            <Timestamp>1269622352</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you first will need the installation disc you got with your computer...
+if you dont have that,youre screwed,and you laptop will most likely die,BUT if you do,you will need to format the computer...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rLUVCbn8aa</UserId>
+            <UserNick>Ann</UserNick>
+            <Date>2010-03-26 09:54:02</Date>
+            <Timestamp>1269622442</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try comodo:
+They have a great firewall
+antimalware
+memory firewall
+AV
+
+http://www.comodo.com/products/free_prod…</Content>
+            <Reference>http://frupis.com/</Reference>
+            <Best>3</Best>
+            <UserId>dZnaUfqsaa</UserId>
+            <UserNick>shanj_shai n</UserNick>
+            <Date>2010-03-26 10:09:25</Date>
+            <Timestamp>1269623365</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:57 PDT 2010 -->

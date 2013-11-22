@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318135004AAwq4wf" type="Answered">
+    <Subject>Internet Issues Local Area Connection 2...?</Subject>
+    <Content>Yeah, i&#039;ve had some issues with my internet since the other day, lik I saw something on the bottom right that said Local Area Connection 2, Payed no mind to it, then it would go back to The Regular Local Area Connection, Now it seems that LAC2 Is my main connection and my computer internet has been going real slow lately, How can i deleted LAC2, and go back to the regular LAC?
+thing is i dont see the other local area connection anymore
+</Content>
+    <Date>2010-03-18 13:50:04</Date>
+    <Timestamp>1268945404</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318135004AAwq4wf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tZ4sc4Tcaa</UserId>
+    <UserNick>Tedi_p</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/126tr0Q9pAAICPQEr8AceAQ==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>without more information on your system and the components in it, would be hard to accurately say, but it sounds like you either have 2 lan cards or a lan card and a wifi on that computer.
+Right click on &quot;My Network Places&quot; select properties
+Right click local area connection 2, and select disable
+that will prevent the local area connection 2 and keep the other one as the main.</ChosenAnswer>
+    <ChosenAnswererId>Okw6zwqtaa</ChosenAnswererId>
+    <ChosenAnswererNick>Justme1971</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268945684</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269464757</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>without more information on your system and the components in it, would be hard to accurately say, but it sounds like you either have 2 lan cards or a lan card and a wifi on that computer.
+Right click on &quot;My Network Places&quot; select properties
+Right click local area connection 2, and select disable
+that will prevent the local area connection 2 and keep the other one as the main.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Okw6zwqtaa</UserId>
+            <UserNick>Justme1971</UserNick>
+            <Date>2010-03-18 13:54:44</Date>
+            <Timestamp>1268945684</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:39:10 PDT 2010 -->

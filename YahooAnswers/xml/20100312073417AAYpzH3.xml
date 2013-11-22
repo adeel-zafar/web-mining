@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312073417AAYpzH3" type="Answered">
+    <Subject>Lost you on chatroulette! Is there a way to find someone you’ve lost?</Subject>
+    <Content>It happened quite often to me that I lost a person due to a network connection failure or a screen freeze. Is there any possibilty to find someone? Please help me,  just missed the love of my life...
+</Content>
+    <Date>2010-03-12 07:34:17</Date>
+    <Timestamp>1268408057</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312073417AAYpzH3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WNOK3XFRaa</UserId>
+    <UserNick>umma</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>2</NumComments>
+    <ChosenAnswer>sure, just go to lostyouonchatroulette.com its for chatrouletters who missed connection. You can&#039;t be sure to reconnect but it&#039;s at least a second chance.</ChosenAnswer>
+    <ChosenAnswererId>9oFJd9oMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Philib R</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268483289</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268924067</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://chatroulette.missedconnections.com/
+
+i feel the same way....goodluck!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qQMCVT7maa</UserId>
+            <UserNick>iTSMEE01</UserNick>
+            <Date>2010-03-12 19:28:41</Date>
+            <Timestamp>1268450921</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>sure, just go to lostyouonchatroulette.com its for chatrouletters who missed connection. You can&#039;t be sure to reconnect but it&#039;s at least a second chance.</Content>
+            <Reference>lostyouonchatroulette.com</Reference>
+            <Best>5</Best>
+            <UserId>9oFJd9oMaa</UserId>
+            <UserNick>Philib R</UserNick>
+            <Date>2010-03-13 04:28:09</Date>
+            <Timestamp>1268483289</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This site has a place for your post,
+http://www.missedchat.com/chatroulette/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>36dY9rBmaa</UserId>
+            <UserNick>tom t</UserNick>
+            <Date>2010-03-13 07:07:56</Date>
+            <Timestamp>1268492876</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>s4EFlRkfaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-25 13:53:48</Date>
+            <Timestamp>1268492876</Timestamp>
+        </Comment>
+        <Comment>
+            <Content></Content>
+            <UserId>I0DRWJcKaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-04-06 05:32:17</Date>
+            <Timestamp>1268492876</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:10:00 PDT 2010 -->

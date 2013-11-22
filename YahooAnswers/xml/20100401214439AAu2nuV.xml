@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401214439AAu2nuV" type="Answered">
+    <Subject>Want to know about INTERNET?</Subject>
+    <Content>I am living in malegaon. Is there any way to know who is using internet in my area and any information about them.
+</Content>
+    <Date>2010-04-01 21:44:39</Date>
+    <Timestamp>1270183479</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401214439AAu2nuV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yTIY9Oloaa</UserId>
+    <UserNick>Umar Farooque</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yeah you can easily trace people who are logged into your pc
+
+goto start - run - cmd - type netstat -a
+
+this will show list of ip address and ports who are connect with your pc... so if you find some illegal actions just report to cyber crime or watever...
+
+If you wanna learn more abt these stuffs like hacking and Breaking firewalls and so on check
+
+http://go-hacking.com</ChosenAnswer>
+    <ChosenAnswererId>wrc6VGEYaa</ChosenAnswererId>
+    <ChosenAnswererNick>Hacker</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270184045</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270361011</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yeah you can easily trace people who are logged into your pc
+
+goto start - run - cmd - type netstat -a
+
+this will show list of ip address and ports who are connect with your pc... so if you find some illegal actions just report to cyber crime or watever...
+
+If you wanna learn more abt these stuffs like hacking and Breaking firewalls and so on check
+
+http://go-hacking.com</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>wrc6VGEYaa</UserId>
+            <UserNick>andrew</UserNick>
+            <Date>2010-04-01 21:54:05</Date>
+            <Timestamp>1270184045</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:41 PDT 2010 -->

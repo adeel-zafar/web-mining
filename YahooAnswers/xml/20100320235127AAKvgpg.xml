@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320235127AAKvgpg" type="Answered">
+    <Subject>Has anyone installed Internet Explorer 9?</Subject>
+    <Content>I haven&#039;t installed internet explorer 8 yet, already IE 9 is available (test drive)
+
+http://ie.microsoft.com/testdrive/
+
+What do you think of IE 9? Will you install it?
+</Content>
+    <Date>2010-03-20 23:51:27</Date>
+    <Timestamp>1269154287</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320235127AAKvgpg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LEv2DBivaa</UserId>
+    <UserNick>Ben V</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i just did the flyingimages test on firefox, ie 8, and ie 8 64 bit, 64 bit got 7 fps, ie8 got 3 fps, firefox got around 45, im just downloaded ie9, good news, it got 60 fps and beat firefox on every other test, can&#039;t wait for the actual thing now :D</ChosenAnswer>
+    <ChosenAnswererId>cuCcMONiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Fred</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269154882</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269540872</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>nope, i use google chrome. it looks nice, very easy to use, and is reallyyy fast</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dCsZl1ARaa</UserId>
+            <UserNick>k0kizzle</UserNick>
+            <Date>2010-03-20 23:53:36</Date>
+            <Timestamp>1269154416</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i&#039;m still using 7 and waiting for them to get the bugs worked out of ie8 still ! I hate to see how bad ie9 will be? :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AikDtjZ8aa</UserId>
+            <UserNick>Just_Me_in_Cyberspace</UserNick>
+            <Date>2010-03-20 23:54:49</Date>
+            <Timestamp>1269154489</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i just did the flyingimages test on firefox, ie 8, and ie 8 64 bit, 64 bit got 7 fps, ie8 got 3 fps, firefox got around 45, im just downloaded ie9, good news, it got 60 fps and beat firefox on every other test, can&#039;t wait for the actual thing now :D</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cuCcMONiaa</UserId>
+            <UserNick>Fred</UserNick>
+            <Date>2010-03-21 00:01:22</Date>
+            <Timestamp>1269154882</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>nope,,,,,,,,,</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1ctLmZUUaa</UserId>
+            <UserNick>Harris</UserNick>
+            <Date>2010-03-21 00:02:49</Date>
+            <Timestamp>1269154969</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:42 PDT 2010 -->

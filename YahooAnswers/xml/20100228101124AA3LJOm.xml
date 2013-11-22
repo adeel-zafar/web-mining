@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228101124AA3LJOm" type="Answered">
+    <Subject>does anybody now why just-dubs.net isnt working  ??  my connection is fine and i can get any other site but th?</Subject>
+    <Content>
+but this one sorry for the mistake
+justdubs.net
+</Content>
+    <Date>2010-02-28 10:11:24</Date>
+    <Timestamp>1267380684</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228101124AA3LJOm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MtPx2fyUaa</UserId>
+    <UserNick>Victoria</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Surely you mean justdubs.net ?
+(without the hyphen)
+
+just-dubs.net (with the hyphen) is only a search-indexing site / linklist by an online advert-spamming company who seeks to sell websites after abusing them.</ChosenAnswer>
+    <ChosenAnswererId>qeH4rOH9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Daryl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267380908</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267900018</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Surely you mean justdubs.net ?
+(without the hyphen)
+
+just-dubs.net (with the hyphen) is only a search-indexing site / linklist by an online advert-spamming company who seeks to sell websites after abusing them.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qeH4rOH9aa</UserId>
+            <UserNick>Daryl</UserNick>
+            <Date>2010-02-28 10:15:08</Date>
+            <Timestamp>1267380908</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:53 PDT 2010 -->

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304165539AAXxZvc" type="Answered">
+    <Subject>How do I add CNN Money RSS to Internet Explorer 8?</Subject>
+    <Content>I am able to add some other feeds, and i have no problem with firefox, but it doesn&#039;t seem obvious on how to add rss feeds in Internet Explorer 8.
+
+Thank you.
+</Content>
+    <Date>2010-03-04 16:55:39</Date>
+    <Timestamp>1267750539</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304165539AAXxZvc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MHf92VnBaa</UserId>
+    <UserNick>JDoramaKing</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here is a guide of how to add an RSS feed: http://www.microsoft.com/windows/IE/ie7/tour/rss/
+
+You should also check out the CNN Toolbar: http://www.ieaddons.com/en/details/news/CNN_Toolbar/
+
+I hope this helps!
+
+Cheers,
+Bryn
+IE8 Outreach Team</ChosenAnswer>
+    <ChosenAnswererId>5A9mfbA3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Bryn</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267822478</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270207435</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Here is a guide of how to add an RSS feed: http://www.microsoft.com/windows/IE/ie7/tour/rss/
+
+You should also check out the CNN Toolbar: http://www.ieaddons.com/en/details/news/CNN_Toolbar/
+
+I hope this helps!
+
+Cheers,
+Bryn
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5A9mfbA3aa</UserId>
+            <UserNick>Bryn</UserNick>
+            <Date>2010-03-05 12:54:38</Date>
+            <Timestamp>1267822478</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:08:35 PDT 2010 -->

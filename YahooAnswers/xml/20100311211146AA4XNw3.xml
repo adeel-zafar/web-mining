@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311211146AA4XNw3" type="Answered">
+    <Subject>I bought an audiobook from Emusic. After 2 days, it says it&#039;s expired.?</Subject>
+    <Content>It had not even finished downloading, Emusic has a very slow download time by the way.  I can&#039;t find anything about it on the site.  Does anyone know ANYTHING about this?
+</Content>
+    <Date>2010-03-11 21:11:46</Date>
+    <Timestamp>1268370706</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311211146AA4XNw3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10185329</UserId>
+    <UserNick>blackkat298</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1DZlyqnKWAAEB2uM6kbNhdxgB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I suspect this to be the works of DRM (digital rights management).  DRM is a way that greedy record companies can sell music and audiobooks without giving the consumer any rights.  If the DRM file is put on multiple computers and devices, then the file doesn&#039;t belong to you any more, and it will not allow you to play it without paying for it again.  
+The file may have been a demo as well.
+
+Alternatively, 
+If the browser said it expired, it means that the server (the computer running the website) took too long to send the file to your computer or may have been disconnected.  Unfortunately there isn&#039;t much you can do besides complain to the help area on the website.</ChosenAnswer>
+    <ChosenAnswererId>63CJ0yBoaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268371224</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268886393</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I suspect this to be the works of DRM (digital rights management).  DRM is a way that greedy record companies can sell music and audiobooks without giving the consumer any rights.  If the DRM file is put on multiple computers and devices, then the file doesn&#039;t belong to you any more, and it will not allow you to play it without paying for it again.  
+The file may have been a demo as well.
+
+Alternatively, 
+If the browser said it expired, it means that the server (the computer running the website) took too long to send the file to your computer or may have been disconnected.  Unfortunately there isn&#039;t much you can do besides complain to the help area on the website.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>63CJ0yBoaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-11 21:20:24</Date>
+            <Timestamp>1268371224</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:11:40 PDT 2010 -->

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227181456AA1Q5IG" type="Answered">
+    <Subject>firefox if i private browse can my neighbor see my history if im connected to her internet?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-27 18:14:56</Date>
+    <Timestamp>1267323296</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227181456AA1Q5IG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uGFaVVlxaa</UserId>
+    <UserNick>Christian</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if it is going through her firewall or router, obviously she can monitor if she want to.</ChosenAnswer>
+    <ChosenAnswererId>AA10751038</ChosenAnswererId>
+    <ChosenAnswererNick>salsanej</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267357876</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267842862</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes they can, and probably do.  Don&#039;t be surprised if you get arrested for stealing internet!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-02-27 18:19:21</Date>
+            <Timestamp>1267323561</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>History is stored on your computer. So unless she hacks your PC or runs a network monitor while your online, you should be safe.
+
+She can easily see that you are using her internet however, just not what your using it for
+
+(Don&#039;t be afraid of the term &quot;network monitor&quot; it is an advanced program that deals with ip addresses and packets. Super advanced stuff)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VuvU1iLSaa</UserId>
+            <UserNick>justnukeit5000</UserNick>
+            <Date>2010-02-27 18:21:28</Date>
+            <Timestamp>1267323688</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if it is going through her firewall or router, obviously she can monitor if she want to.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10751038</UserId>
+            <UserNick>salsanej</UserNick>
+            <Date>2010-02-28 03:51:16</Date>
+            <Timestamp>1267357876</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:41:32 PDT 2010 -->

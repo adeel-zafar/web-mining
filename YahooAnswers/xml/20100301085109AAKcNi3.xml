@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301085109AAKcNi3" type="Answered">
+    <Subject>Internet question help please ?</Subject>
+    <Content>i hit a button and now when I am on the internet the bars at the bottom and top disappear until you hover over where they should be, how do I get them back ?
+</Content>
+    <Date>2010-03-01 08:51:09</Date>
+    <Timestamp>1267462269</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301085109AAKcNi3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6UFymFn1aa</UserId>
+    <UserNick>blerghhh</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>F11</ChosenAnswer>
+    <ChosenAnswererId>H3Va1OKqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Spilt F</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267462367</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267651664</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>F11</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>H3Va1OKqaa</UserId>
+            <UserNick>Spilt F</UserNick>
+            <Date>2010-03-01 08:52:47</Date>
+            <Timestamp>1267462367</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>f11 you accidentally pressed that an it went on full-screen if yo press it again the bars will come back</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ip6itweRaa</UserId>
+            <UserNick>eoin</UserNick>
+            <Date>2010-03-01 08:54:02</Date>
+            <Timestamp>1267462442</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:17 PDT 2010 -->

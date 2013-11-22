@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322123650AAK8UlA" type="Answered">
+    <Subject>Ebay question about buying...?</Subject>
+    <Content>Just want to know if you can buy in ebay with the paypal money or do i have to transfer the paypal money to my bank account?
+</Content>
+    <Date>2010-03-22 12:36:50</Date>
+    <Timestamp>1269286610</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322123650AAK8UlA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>v0GCnHlkaa</UserId>
+    <UserNick>Jolie ★★★</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b4fccdfi56bzul5re4/Ett4w4c8crUAZP1QJjESAr7RmDM66AQQ/103/tn48.jpg?ciAAToMB8frDB2yN</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can use money from your paypal account. When you win an auction, choose paypal as your payment. When you log into paypal, make sure the funds say they are coming from your paypal balance and not your bank funding. Very simple and easy process!</ChosenAnswer>
+    <ChosenAnswererId>IsmjY3tDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jennifer H</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269286741</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269388891</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can use money from your paypal account. When you win an auction, choose paypal as your payment. When you log into paypal, make sure the funds say they are coming from your paypal balance and not your bank funding. Very simple and easy process!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>IsmjY3tDaa</UserId>
+            <UserNick>Jennifer H</UserNick>
+            <Date>2010-03-22 12:39:01</Date>
+            <Timestamp>1269286741</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>They are separate you can transfer back and forth from each other</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>izmH5JRhaa</UserId>
+            <UserNick>TIMOTHY</UserNick>
+            <Date>2010-03-22 12:39:24</Date>
+            <Timestamp>1269286764</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you are purchasing something on eBay for $50 and you have a PayPal balance of $100 and you pay with PayPal then $50 will be deducted from your PayPal account leaving you with $50.
+
+If the same purchase is done and you only have $10 in your PayPal account then $40 will be deducted from your Checking.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>b97f8adc2e6f120367f66a06fabb2b13aa</UserId>
+            <UserNick>guyofcable</UserNick>
+            <Date>2010-03-22 12:41:03</Date>
+            <Timestamp>1269286863</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:31 PDT 2010 -->

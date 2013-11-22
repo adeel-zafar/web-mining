@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305183804AAuDxWe" type="Answered">
+    <Subject>which firefox theme is better naver or camifox?</Subject>
+    <Content>i don&#039;t know which to choose, they both look good and clean
+</Content>
+    <Date>2010-03-05 18:38:04</Date>
+    <Timestamp>1267843084</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305183804AAuDxWe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>c2FkjoLMaa</UserId>
+    <UserNick>Ivan</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1w29Nbv5VAAEC5MJ2GL7PlxELMw==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Naver dude it just looks better in my opinion.</ChosenAnswer>
+    <ChosenAnswererId>sEJoIVG9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jacoby</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267843945</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267898176</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Naver dude it just looks better in my opinion.</Content>
+            <Reference>My personal taste.</Reference>
+            <Best>4</Best>
+            <UserId>sEJoIVG9aa</UserId>
+            <UserNick>Jacoby</UserNick>
+            <Date>2010-03-05 18:52:25</Date>
+            <Timestamp>1267843945</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:53:19 PDT 2010 -->

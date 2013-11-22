@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316201037AApqlJ3" type="Answered">
+    <Subject>I can&#039;t read asian font on my internet explorer! I&#039;ve tried several solutions but didn&#039;t work.. help?</Subject>
+    <Content>So my encoding is on unicode (UTF-8) and I also went to tools under internet options to add the languages, but I still can&#039;t read korean, chinese, or japanese. They show up as boxes on the internet:(
+Thanks for any help!!
+</Content>
+    <Date>2010-03-16 20:10:37</Date>
+    <Timestamp>1268795437</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316201037AApqlJ3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>YHuchiicaa</UserId>
+    <UserNick>Wanderer</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba048a9icb2zws102sp2/IF9Z.sY9eqLbzq_pCRNyOvNTVikeb30XVzShztJDmg--/1/tn48.jpeg?ciAAToMBYDAdVAqS</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well, I&#039;m guessing you don&#039;t have windows Vista/Win7 because those come with it by default. So I think you have XP or lower. That said you&#039;ll need to install them or activate them if they have not yet been turned on.
+
+I had the same problem, on XP it would just show or something very simular. So I found a site(one I can&#039;t recall, google &quot;Language installation packages&quot;) and I installed my asian language (Japanese). Though I do recall XP may not recognize it at first, so try using the links below.
+
+Hope I helped. :D</ChosenAnswer>
+    <ChosenAnswererId>hW0QY4w1aa</ChosenAnswererId>
+    <ChosenAnswererNick>Ni Metroid</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268806259</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269314704</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can try installing korean, chinese, or japanese fonts
+
+http://www.clearchinese.com/resources/fonts.htm for chinese fonts</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gFXaqn1Qaa</UserId>
+            <UserNick>William</UserNick>
+            <Date>2010-03-16 20:48:21</Date>
+            <Timestamp>1268797701</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you can download a free brower namede mozilla Firefox,it can show asian characters easily.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AzGraPoMaa</UserId>
+            <UserNick>Lin</UserNick>
+            <Date>2010-03-16 22:37:32</Date>
+            <Timestamp>1268804252</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well, I&#039;m guessing you don&#039;t have windows Vista/Win7 because those come with it by default. So I think you have XP or lower. That said you&#039;ll need to install them or activate them if they have not yet been turned on.
+
+I had the same problem, on XP it would just show or something very simular. So I found a site(one I can&#039;t recall, google &quot;Language installation packages&quot;) and I installed my asian language (Japanese). Though I do recall XP may not recognize it at first, so try using the links below.
+
+Hope I helped. :D</Content>
+            <Reference>http://newton.uor.edu/Departments&amp;Programs/AsianStudiesDept/Language/asianlanguageinstallation_XP.html
+
+http://www.jakeludington.com/ask_jake/20060712_windows_install_language_pack.html</Reference>
+            <Best>5</Best>
+            <UserId>hW0QY4w1aa</UserId>
+            <UserNick>Ni Metroid</UserNick>
+            <Date>2010-03-16 23:10:59</Date>
+            <Timestamp>1268806259</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:46:36 PDT 2010 -->

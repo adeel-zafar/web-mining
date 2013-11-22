@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221182707AAmqIKt" type="Answered">
+    <Subject>How to get FireFox or any browser up first on reboot?</Subject>
+    <Content>I want to know how to make my browser load fast on reboot. Most of the time, I only need the web browser but it takes ages because of other programs loading.
+
+I hope to find a way to boot up and get web browser straight up. I have IE, and FireFox and I am running windows xp media edition.
+
+Any suggestions?
+
+Thanks.
+</Content>
+    <Date>2010-02-21 18:27:07</Date>
+    <Timestamp>1266805627</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221182707AAmqIKt</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rHOuFpMlaa</UserId>
+    <UserNick>John</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Right click on start -&gt; Click on open. Put the ie or/and firefox shortcut in startup programs.</ChosenAnswer>
+    <ChosenAnswererId>mTkn27ufaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sam</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266805909</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268116965</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Switch to Linux. It will boot faster and will surf the web quite well. You can make a dual boot system and still have windows when you need it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>h9WTV2WGaa</UserId>
+            <UserNick>ghoster</UserNick>
+            <Date>2010-02-21 18:30:42</Date>
+            <Timestamp>1266805842</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you want the browser to launch on boot, make a shortcut to it and drop it in the startup folder in your start menu</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11414206</UserId>
+            <UserNick>elpasi2</UserNick>
+            <Date>2010-02-21 18:30:55</Date>
+            <Timestamp>1266805855</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Right click on start -&gt; Click on open. Put the ie or/and firefox shortcut in startup programs.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mTkn27ufaa</UserId>
+            <UserNick>Sam</UserNick>
+            <Date>2010-02-21 18:31:49</Date>
+            <Timestamp>1266805909</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your best bet is with Linux. Windows boots unbelievably slow compared to other OS&#039;s.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VZpzzedyaa</UserId>
+            <UserNick>Karl</UserNick>
+            <Date>2010-02-21 18:33:14</Date>
+            <Timestamp>1266805994</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you use your pc mainly to go on the net, i suggest installing an open source free operating system as a seperate partion on your drive like linux. Sounds dangerous and hard? No! Email me i will give you instructions. adamdevey@live.co.uk The OS is mega fast.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ywkuMCivaa</UserId>
+            <UserNick>FREEWEBS.COM/adamdevey/</UserNick>
+            <Date>2010-02-21 18:36:18</Date>
+            <Timestamp>1266806178</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can get your system to boot faster if you look for programs and services that can be removed from startup.
+
+Go to: C:\Documents and Settings\All Users\Start Menu\Programs\Startup and remove program links you don&#039;t want.
+Go to: C:\Documents and Settings\[your username]\Start Menu\Programs\Startup and remove program links you don&#039;t want.
+You can also try going to Control Panel | Administrative Tools | Services and looking for services you don&#039;t need.  Change their startup from Automatic to Manual to prevent them from starting at bootup.
+
+You can also check to see if your antivirus is doing things like updating signature databases on startup and cancel those operations until you are done browsing then restart them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0ScWwslTaa</UserId>
+            <UserNick>kris</UserNick>
+            <Date>2010-02-21 18:50:52</Date>
+            <Timestamp>1266807052</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:32:15 PDT 2010 -->

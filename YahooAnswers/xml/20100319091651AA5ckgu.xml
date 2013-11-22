@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319091651AA5ckgu" type="Answered">
+    <Subject>Have connection but can&#039;t pull a page.?</Subject>
+    <Content>I would like some help if any one can. I&#039;m in Iraq and my wife is having problems with her computer. She can talk to me on MSN messenger so she is obviously connected to the internet. but when she tries to pull a page on Firefox or IE she gets a no connectivity error. please help. Thanks in advance.
+</Content>
+    <Date>2010-03-19 09:16:51</Date>
+    <Timestamp>1269015411</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319091651AA5ckgu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>b61005e223ac145d43eb6ec01b0c4fd4aa</UserId>
+    <UserNick>DJ</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi ;) I just had the same problem myself ;) I don&#039;t know what win she&#039;s running on soo:
+Go under Control Panel -&gt; Network and Internet -&gt; Change advanced Settings -&gt; press Alt -&gt; Advenced Settings -&gt; and move your Connection to the top of the Connections list. If its Wireless she should do Wireless Network Conenction. 
+I hope that helps ;P</ChosenAnswer>
+    <ChosenAnswererId>dhwy4MDoaa</ChosenAnswererId>
+    <ChosenAnswererNick>axa</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269015786</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269534889</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it&#039;s possible that the DNS info has been lost.. she can retrieve this info and instructions from her internet service provider. If she is connected to a router have her reset the router by unplugging it and holding down the tiny reset button with the sharp end of a pencil for 20 seconds. Also reset the modem by unplugging for 1 minute and plugging  back in... disconnect the lan cables between these items while doing so, so that they don&#039;t see eachother before they are ready.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iH4HMQEkaa</UserId>
+            <UserNick>Joshua D</UserNick>
+            <Date>2010-03-19 09:21:27</Date>
+            <Timestamp>1269015687</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi ;) I just had the same problem myself ;) I don&#039;t know what win she&#039;s running on soo:
+Go under Control Panel -&gt; Network and Internet -&gt; Change advanced Settings -&gt; press Alt -&gt; Advenced Settings -&gt; and move your Connection to the top of the Connections list. If its Wireless she should do Wireless Network Conenction. 
+I hope that helps ;P</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dhwy4MDoaa</UserId>
+            <UserNick>go6ko01</UserNick>
+            <Date>2010-03-19 09:23:06</Date>
+            <Timestamp>1269015786</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:05 PDT 2010 -->

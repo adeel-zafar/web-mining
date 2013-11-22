@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304030203AAjMSDY" type="Answered">
+    <Subject>&#039;Watch This Item&#039; link on eBay is not working?</Subject>
+    <Content>I click on it and it does nothing. Absolutely nothing. It&#039;s only been like this for a few hours and I&#039;ve tried signing out and signing back it but that didn&#039;t change it. WTF?
+It&#039;s been a few days now and still nothing. I can&#039;t leave feedback either. This has never happened before.
+</Content>
+    <Date>2010-03-04 03:02:03</Date>
+    <Timestamp>1267700523</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304030203AAjMSDY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Vm8bGYhOaa</UserId>
+    <UserNick>XXXX</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yeah its a ebay glitch,  sometimes it works, other times well you know the answer.
+
+Edit - Have you tried deleting cookies, temp int files, clearing the cache all that sort of stuff.? I have seen problems identical to yours on ebays community forums.  Maybe you could try ebays live chat if the above doesnt help.</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267929511</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268562163</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yeah its a ebay glitch,  sometimes it works, other times well you know the answer.
+
+Edit - Have you tried deleting cookies, temp int files, clearing the cache all that sort of stuff.? I have seen problems identical to yours on ebays community forums.  Maybe you could try ebays live chat if the above doesnt help.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-06 18:38:31</Date>
+            <Timestamp>1267929511</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:12:32 PDT 2010 -->

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320225731AAzICEY" type="Answered">
+    <Subject>Windows 7 HELP! - Taskbar browser shows tabs, not windows (pic)?</Subject>
+    <Content>This is what I&#039;m talking about:
+http://farm3.static.flickr.com/2787/4449262969_8fd4fa3320_o.png
+
+Those site previews are tabs... not separate windows. How do I make it so only new windows appear in the hover-over? That&#039;s how it used to be, but it seems to have magically changed itself now to preview all tabs.
+There seems to be confusion; I like the small icons new to window 7 that represent programs. I&#039;m saying, specific to opera and IE (firefox doesn&#039;t do this), when I have multiple tabs open it shows them all on this preview.
+
+Before (and now only firefox), it would only show multiple WINDOWS; *TABS* wouldn&#039;t be previewed on the taskbar, but windows would be if I had, say, 2 opera windows open.
+This is what firefox does differently; multiple tabs ARE NOT previewed on the taskbar: http://farm5.static.flickr.com/4041/4450063424_c140299f3d_o.png
+Firefox only does this for multiple Firefox WINDOWS.
+</Content>
+    <Date>2010-03-20 22:57:31</Date>
+    <Timestamp>1269151051</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320225731AAzICEY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vlBNm25taa</UserId>
+    <UserNick>Delta</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a78c8f5i18abzul7sp1/K.u7FPkhaakGKF_FGqmaL4XnXlFG/1/tn48.jpg?ciAAToMBcN98hapx</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s a new feature with Windows 7.
+
+To disable it (it will group nothing, neither the tabs nor windows will be grouped), right click the taskbar, click properties, change the field &#039;taskbar buttons&#039; to read &#039;Never combine&#039;.</ChosenAnswer>
+    <ChosenAnswererId>pVGY9myOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Firzen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269151595</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269670444</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>customise your desktop, you got a hell of a lot open which will drag your resources down to a crawl?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0GtonJONaa</UserId>
+            <UserNick>pisces19522000</UserNick>
+            <Date>2010-03-20 23:01:55</Date>
+            <Timestamp>1269151315</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>when you have more than one of the same program or window open it will do that thats always done that on mine. it is grouping the tabs try unchecking the option to group new windows.right click task bar choose properties its the option named taskbar buttons.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5e1efad3a2b51d67075c834ed0976557aa</UserId>
+            <UserNick>pc_tech_66</UserNick>
+            <Date>2010-03-20 23:03:40</Date>
+            <Timestamp>1269151420</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s a new feature with Windows 7.
+
+To disable it (it will group nothing, neither the tabs nor windows will be grouped), right click the taskbar, click properties, change the field &#039;taskbar buttons&#039; to read &#039;Never combine&#039;.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>pVGY9myOaa</UserId>
+            <UserNick>Firzen</UserNick>
+            <Date>2010-03-20 23:06:35</Date>
+            <Timestamp>1269151595</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:51 PDT 2010 -->

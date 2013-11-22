@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224204530AAYuwBG" type="Answered">
+    <Subject>Has anybody been able to acsess 66stage lately.  I haven&#039;t been able to for about 2 or 3 months now.?</Subject>
+    <Content>
+And does anybody know why it isnt working.
+</Content>
+    <Date>2010-02-24 20:45:30</Date>
+    <Timestamp>1267073130</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224204530AAYuwBG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yxHS6wrfaa</UserId>
+    <UserNick>dsecroetkt</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it&#039;s stage66.com, not 66stage.
+
+&quot;66Stage was solely created to fill the gap when stage6, unfortunately, went offline&quot;</ChosenAnswer>
+    <ChosenAnswererId>EO3Efx4Daa</ChosenAnswererId>
+    <ChosenAnswererNick>Kenny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267079214</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268768632</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it&#039;s stage66.com, not 66stage.
+
+&quot;66Stage was solely created to fill the gap when stage6, unfortunately, went offline&quot;</Content>
+            <Reference>http://www.kingrosales.com/video-sharing/what-happened-to-66stagecom/
+
+http://www.stage66.com/stage-66.htm</Reference>
+            <Best>5</Best>
+            <UserId>EO3Efx4Daa</UserId>
+            <UserNick>Kenny</UserNick>
+            <Date>2010-02-24 22:26:54</Date>
+            <Timestamp>1267079214</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:08:44 PDT 2010 -->

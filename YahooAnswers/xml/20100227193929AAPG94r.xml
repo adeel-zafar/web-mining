@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227193929AAPG94r" type="Answered">
+    <Subject>Why won&#039;t Hulu work on my laptop?</Subject>
+    <Content>When I try to watch videos, the page loads, but all that pops up is a black box(where the video should be playing).
+</Content>
+    <Date>2010-02-27 19:39:29</Date>
+    <Timestamp>1267328369</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227193929AAPG94r</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ie6gJ0hwaa</UserId>
+    <UserNick>H</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>install flash player and its only for USA so it wont work for other countries</ChosenAnswer>
+    <ChosenAnswererId>AA11622054</ChosenAnswererId>
+    <ChosenAnswererNick>ddpatel90</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267328877</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268615025</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Do you have the latest version of Flash Player installed?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gQnsT9cRaa</UserId>
+            <UserNick>Bruce</UserNick>
+            <Date>2010-02-27 19:43:56</Date>
+            <Timestamp>1267328636</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Maybe you don&#039;t have Adobe Flash or your version is too old.  Get the latest version for your computer here:
+http://get.adobe.com/flashplayer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7ab34e94ddfb9fc2595f5300203984bcaa</UserId>
+            <UserNick>cory2107</UserNick>
+            <Date>2010-02-27 19:45:54</Date>
+            <Timestamp>1267328754</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>install flash player and its only for USA so it wont work for other countries</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11622054</UserId>
+            <UserNick>ddpatel90</UserNick>
+            <Date>2010-02-27 19:47:57</Date>
+            <Timestamp>1267328877</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:41:09 PDT 2010 -->

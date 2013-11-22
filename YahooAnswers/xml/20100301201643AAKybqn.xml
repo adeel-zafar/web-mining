@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301201643AAKybqn" type="Answered">
+    <Subject>Is there another way to turn on my wireless?</Subject>
+    <Content>I have an HP Pavilion dv6000 running Windows Vista Premium with the HP Wireless Assistant. I broke my wireless switch and I can&#039;t afford to fix it right now. Is there any other way to turn it on?
+</Content>
+    <Date>2010-03-01 20:16:43</Date>
+    <Timestamp>1267503403</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301201643AAKybqn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ECL6Gq82aa</UserId>
+    <UserNick>Stuck.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UagwRBN-AAMBoYScTCZLhvwA.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i would try to find the manual first thing. but otherwise if there is a physical switch on the laptop, then that is what gives direct power to your wifi reciever. but like i said, if there is a software interface that can turn it on, i would look it up in the manual.</ChosenAnswer>
+    <ChosenAnswererId>Au5gXaamaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bobo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267503896</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267573263</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>not without a new switch</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-01 20:18:32</Date>
+            <Timestamp>1267503512</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No unless you want to try to rip it apart and maybe rig something up yourself and try to replace the old switch with something else for temporary =(</Content>
+            <Reference>http://www.techslip.net</Reference>
+            <Best></Best>
+            <UserId>NuUhZTNKaa</UserId>
+            <UserNick>TechSlip</UserNick>
+            <Date>2010-03-01 20:23:33</Date>
+            <Timestamp>1267503813</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i would try to find the manual first thing. but otherwise if there is a physical switch on the laptop, then that is what gives direct power to your wifi reciever. but like i said, if there is a software interface that can turn it on, i would look it up in the manual.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>Au5gXaamaa</UserId>
+            <UserNick>Bobo</UserNick>
+            <Date>2010-03-01 20:24:56</Date>
+            <Timestamp>1267503896</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:28:40 PDT 2010 -->

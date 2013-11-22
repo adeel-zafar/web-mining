@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301231330AAEaVTm" type="Answered">
+    <Subject>What is a 4channer? (Adding 20 characters...)?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-01 23:13:30</Date>
+    <Timestamp>1267514010</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301231330AAEaVTm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oHnyyWwQaa</UserId>
+    <UserNick>VoodooGirl95</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b8a08b4i614zws107ac4/6TbIvYMndKnRbypcQjwPs5kkzWI-/1/tn48.jpeg?ciAAToMB12XLcmwr</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>someone who hangs out on 4chan.</ChosenAnswer>
+    <ChosenAnswererId>9xpxFraOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Digital_Utopia</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267514193</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267647309</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>someone who hangs out on 4chan.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>9xpxFraOaa</UserId>
+            <UserNick>Digital_Utopia</UserNick>
+            <Date>2010-03-01 23:16:33</Date>
+            <Timestamp>1267514193</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:28:10 PDT 2010 -->

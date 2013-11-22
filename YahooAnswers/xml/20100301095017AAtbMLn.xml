@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301095017AAtbMLn" type="Answered">
+    <Subject>Is it possible to change the email of the Skype account?</Subject>
+    <Content>Or do I have to create a new Skype account?
+</Content>
+    <Date>2010-03-01 09:50:17</Date>
+    <Timestamp>1267465817</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301095017AAtbMLn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lMR9rCqPaa</UserId>
+    <UserNick>Giuseppe</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1T6tIrgIcAAEEQWEoZBPfiT4B.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here&#039;s what you need to do:
+1) Log on Skype
+2) Go to Skype - Account
+3) You get a pop-up page. In the bottom left corner you see your registered email. 
+4) Click on email settings, proceed as instructed.
+
+NB: if you do not know your password and have no access to your registered email address and have no purchase history you will have to create a new account, as customer support will have no means to verify your identity. But if you know your password, you can change your email address fairly easily.</ChosenAnswer>
+    <ChosenAnswererId>8h71bPjBaa</ChosenAnswererId>
+    <ChosenAnswererNick>Judit</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267701697</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267985226</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You have to create a new account!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-01 09:52:25</Date>
+            <Timestamp>1267465945</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here&#039;s what you need to do:
+1) Log on Skype
+2) Go to Skype - Account
+3) You get a pop-up page. In the bottom left corner you see your registered email. 
+4) Click on email settings, proceed as instructed.
+
+NB: if you do not know your password and have no access to your registered email address and have no purchase history you will have to create a new account, as customer support will have no means to verify your identity. But if you know your password, you can change your email address fairly easily.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>8h71bPjBaa</UserId>
+            <UserNick>Judit</UserNick>
+            <Date>2010-03-04 03:21:37</Date>
+            <Timestamp>1267701697</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:06 PDT 2010 -->

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315153936AAdyVWd" type="Answered">
+    <Subject>TOP 5 thing you do while OnLine?</Subject>
+    <Content>What are TOP 5 things you do online?
+</Content>
+    <Date>2010-03-15 15:39:36</Date>
+    <Timestamp>1268692776</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315153936AAdyVWd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mM6ao8BIaa</UserId>
+    <UserNick>Artem</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a0060d9i1e19zul6re4/IsE_kA0wabIyooExZ8r4aA--/1/tn48.jpg?ciAAToMB8BthGEVA</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>-chat on gchat
+-read tvtropes.org
+-update my livejournal
+-check facebook
+-explore lostpedia</ChosenAnswer>
+    <ChosenAnswererId>BMri9tITaa</ChosenAnswererId>
+    <ChosenAnswererNick>ksilver</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268773505</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268843225</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Mostly check e-mails and randomly searching on Google.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>d2QzzWdkaa</UserId>
+            <UserNick>Krystal L</UserNick>
+            <Date>2010-03-15 17:06:40</Date>
+            <Timestamp>1268698000</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>-chat on gchat
+-read tvtropes.org
+-update my livejournal
+-check facebook
+-explore lostpedia</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>BMri9tITaa</UserId>
+            <UserNick>ksilver</UserNick>
+            <Date>2010-03-16 14:05:05</Date>
+            <Timestamp>1268773505</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:55 PDT 2010 -->

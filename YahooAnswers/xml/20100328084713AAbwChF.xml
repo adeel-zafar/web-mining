@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328084713AAbwChF" type="Answered">
+    <Subject>is speedtest.net provide accurate results for internet sped?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-28 08:47:13</Date>
+    <Timestamp>1269791233</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328084713AAbwChF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Cbvzjfmjaa</UserId>
+    <UserNick>Eric</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>speedtest.net cannot really give accurate results. they can only give you an idea how fast your internet connection is. your speed also depends on where&#039;s the location of the server you&#039;re connecting with.</ChosenAnswer>
+    <ChosenAnswererId>a1VnXp1xaa</ChosenAnswererId>
+    <ChosenAnswererNick>David</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269791516</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269825539</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Depends on the server you are connecting to, it gives you a good ballpark in most cases.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10757408</UserId>
+            <UserNick>firemandan900</UserNick>
+            <Date>2010-03-28 08:48:59</Date>
+            <Timestamp>1269791339</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>speedtest.net cannot really give accurate results. they can only give you an idea how fast your internet connection is. your speed also depends on where&#039;s the location of the server you&#039;re connecting with.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>a1VnXp1xaa</UserId>
+            <UserNick>David</UserNick>
+            <Date>2010-03-28 08:51:56</Date>
+            <Timestamp>1269791516</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:19:41 PDT 2010 -->

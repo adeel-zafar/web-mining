@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331210023AAxoIpR" type="Answered">
+    <Subject>the combination of a search engine and directory is sometimes called  a_____?</Subject>
+    <Content>a. category search engine
+b. web search directory
+c. combo search directory
+d. hybrid search engine directory
+</Content>
+    <Date>2010-03-31 21:00:23</Date>
+    <Timestamp>1270094423</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331210023AAxoIpR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ghr7FPIeaa</UserId>
+    <UserNick>jfs1988</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>web search directory</ChosenAnswer>
+    <ChosenAnswererId>I0iuLIEoaa</ChosenAnswererId>
+    <ChosenAnswererNick>Uday Teja</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270161503</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270185882</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>web search directory</Content>
+            <Reference>http://websearch.about.com/od/enginesanddirectories/a/subdirectory.htm</Reference>
+            <Best>5</Best>
+            <UserId>I0iuLIEoaa</UserId>
+            <UserNick>Uday Teja</UserNick>
+            <Date>2010-04-01 15:38:23</Date>
+            <Timestamp>1270161503</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:02 PDT 2010 -->

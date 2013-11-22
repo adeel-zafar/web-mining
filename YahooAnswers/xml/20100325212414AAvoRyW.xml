@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325212414AAvoRyW" type="Answered">
+    <Subject>why was my Twitter account deleted? any ideas?</Subject>
+    <Content>i do spout out my fair share of rude opinions, but it&#039;s not like i was a porn bot or anything ... i just tried to log on today and it was gone ... no explanation, no email, no nothing ... i&#039;ve been on for a long time with over 3500 tweets ... will they respond to my emails to even tell me why they did that?
+</Content>
+    <Date>2010-03-25 21:24:14</Date>
+    <Timestamp>1269577454</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325212414AAvoRyW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zqWKHbcmaa</UserId>
+    <UserNick>Analog_Ana</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/12rMTVAnYAAED7GJnstQM22XVLQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you violated the rules, your account is gone, period!</ChosenAnswer>
+    <ChosenAnswererId>kxsvjGmTaa</ChosenAnswererId>
+    <ChosenAnswererNick>John C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269577775</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269894936</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They&#039;re deleting all accounts of people who say &quot;I&#039;m cooking food in the microwave.&quot; *tweet* &quot;There are three seconds left.&quot; *tweet* &quot;Now one...&quot; *tweet* &quot;I am taking my first bite.&quot; *tweet* etc.</Content>
+            <Reference>Facebook statuses = Twitter. Twitter = Obsolete.</Reference>
+            <Best></Best>
+            <UserId>Tt5Pm9ljaa</UserId>
+            <UserNick>Bottles</UserNick>
+            <Date>2010-03-25 21:25:39</Date>
+            <Timestamp>1269577539</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you violated the rules, your account is gone, period!</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-25 21:29:35</Date>
+            <Timestamp>1269577775</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:53 PDT 2010 -->

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310170211AAYZaQO" type="Answered">
+    <Subject>Is there a way to go to desktop from full screen view of firefox?</Subject>
+    <Content>Like an addon by which by clicking twice or thrice any key we would go to desktop as there is no minimize key in fullscreen
+</Content>
+    <Date>2010-03-10 17:02:11</Date>
+    <Timestamp>1268269331</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310170211AAYZaQO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Gg4IQ5Hjaa</UserId>
+    <UserNick>polo</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a53f8b0i1c66zul6sp1/Ti9DTiEibquK8XGBU43zbnOb/1/tn48.jpg?ciAAToMBII1cHdLn</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you&#039;re on windows hold the windows key and hit M. This will minimize all windows and show the desktop.</ChosenAnswer>
+    <ChosenAnswererId>XOgtPpo1aa</ChosenAnswererId>
+    <ChosenAnswererNick>Freddy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268269784</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268433635</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>49e6ec40b0a977433d9564754e2d4b21aa</UserId>
+            <UserNick>james51515151</UserNick>
+            <Date>2010-03-10 17:02:46</Date>
+            <Timestamp>1268269366</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Just move your cursor up to the top of the screen in full screen mode and the minimize button appears</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ylyDSpb7aa</UserId>
+            <UserNick>Sexy Scottish Kool Aid Man</UserNick>
+            <Date>2010-03-10 17:04:18</Date>
+            <Timestamp>1268269458</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, there is.  Press and hold &quot;Alt+tab&quot;.  Continue to press tab until &quot;Desktop&quot; is selected.</Content>
+            <Reference>Not that other guy that said &quot;no&quot;.</Reference>
+            <Best></Best>
+            <UserId>Y0eZN4vtaa</UserId>
+            <UserNick>YoStreetRacr</UserNick>
+            <Date>2010-03-10 17:05:42</Date>
+            <Timestamp>1268269542</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you&#039;re on windows hold the windows key and hit M. This will minimize all windows and show the desktop.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XOgtPpo1aa</UserId>
+            <UserNick>Freddy</UserNick>
+            <Date>2010-03-10 17:09:44</Date>
+            <Timestamp>1268269784</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:16:54 PDT 2010 -->

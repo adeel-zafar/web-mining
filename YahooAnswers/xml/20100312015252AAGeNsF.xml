@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312015252AAGeNsF" type="Answered">
+    <Subject>How can I get a thebox.bz invite?</Subject>
+    <Content>
+my email is jerwantsthebox@gmail.com
+</Content>
+    <Date>2010-03-12 01:52:52</Date>
+    <Timestamp>1268387572</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312015252AAGeNsF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>098RHCYPaa</UserId>
+    <UserNick>Samuari</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1r7h5KxAzAAED_CF28KxCBwfRJg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>What&#039;s your e-mail?
+
+I&#039;ll invite you.</ChosenAnswer>
+    <ChosenAnswererId>Sa75JPBraa</ChosenAnswererId>
+    <ChosenAnswererNick>raguv2000</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268613226</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268724096</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What&#039;s your e-mail?
+
+I&#039;ll invite you.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Sa75JPBraa</UserId>
+            <UserNick>raguv2000</UserNick>
+            <Date>2010-03-14 17:33:46</Date>
+            <Timestamp>1268613226</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>2WpRC0rIaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-22 02:27:55</Date>
+            <Timestamp>1268613226</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:10:57 PDT 2010 -->

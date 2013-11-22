@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321164037AApZd8l" type="Answered">
+    <Subject>How do I convert my audacity podcast to an mp3 format?</Subject>
+    <Content>I&#039;m specifically wondering how to do this using the &quot;Lame Encoder,&quot; but if you know of another way, I&#039;d appreciate that too! :) Thank you!
+</Content>
+    <Date>2010-03-21 16:40:37</Date>
+    <Timestamp>1269214837</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321164037AApZd8l</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oYKRzYJXaa</UserId>
+    <UserNick>Isabella</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1fyHJH880AAEDcYycYVA=.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>At audacity.sourceforge.net/, on the &#039;Downloads&#039; page and in the left menu under &#039;Plug-ins and Libraries&#039; -- you find the &#039;Lame faq&#039; link, that (finally, WHEW) leads you to the &#039;Lame Download page&#039;.
+
+Anyway, once you have that saved to your computer, run the program. You only need to do this once, so that Audacity &#039;knows&#039; where to find the Lame Encoder. 
+
+When saving your entire compilation, be sure export the entire length as mp3-- in comparison to the export selection as mp3 option, in which you click on the exact selection you wish to export (making it a deeper gray color than the other imports). 
+
+Also: When saving the song, and choosing folder options and such, be sure to choose the &#039;Mp3 File&#039; as the output.</ChosenAnswer>
+    <ChosenAnswererId>viis5Cujaa</ChosenAnswererId>
+    <ChosenAnswererNick>Roddy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269228340</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269530452</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>lame is not a audio converter, it only lets you export your work as mp3 with audio editing programs that your using</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FcaDJlHYaa</UserId>
+            <UserNick>Michael</UserNick>
+            <Date>2010-03-21 16:46:36</Date>
+            <Timestamp>1269215196</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>At audacity.sourceforge.net/, on the &#039;Downloads&#039; page and in the left menu under &#039;Plug-ins and Libraries&#039; -- you find the &#039;Lame faq&#039; link, that (finally, WHEW) leads you to the &#039;Lame Download page&#039;.
+
+Anyway, once you have that saved to your computer, run the program. You only need to do this once, so that Audacity &#039;knows&#039; where to find the Lame Encoder. 
+
+When saving your entire compilation, be sure export the entire length as mp3-- in comparison to the export selection as mp3 option, in which you click on the exact selection you wish to export (making it a deeper gray color than the other imports). 
+
+Also: When saving the song, and choosing folder options and such, be sure to choose the &#039;Mp3 File&#039; as the output.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>viis5Cujaa</UserId>
+            <UserNick>Roddy</UserNick>
+            <Date>2010-03-21 20:25:40</Date>
+            <Timestamp>1269228340</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:25:51 PDT 2010 -->

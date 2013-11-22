@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308021943AAHcT8P" type="Answered">
+    <Subject>what kind of internet connection should i get?</Subject>
+    <Content>should i get wired DSL that is up to 384 kbps, or wireless that is up to 768 kbps?
+
+i heard that wired is a lot faster than wireless.
+i am more on surfing and downloading movies, by the way..^^
+correction: wireless that is up to 512kbps!! sorry..
+</Content>
+    <Date>2010-03-08 02:19:43</Date>
+    <Timestamp>1268043583</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308021943AAHcT8P</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PtWYYnCAaa</UserId>
+    <UserNick>scarshin09</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>In networks, wired is faster than wireless. However, if you are comparing the wired DSL subscription which will give you 384kbps versus the wireless DSL subscription which will give you 768kbps then the 768kbps is faster even if it&#039;s wireless.</ChosenAnswer>
+    <ChosenAnswererId>TJDklEwtaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bill M.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268043807</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268191141</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The higher the connection speed the faster the internet, so in your example the wireless is faster and best for downloading.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZIPd99xtaa</UserId>
+            <UserNick>Mike C</UserNick>
+            <Date>2010-03-08 02:22:45</Date>
+            <Timestamp>1268043765</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Wireless has the possibility to cut out periodically, but for your uses, it would be the better choice.
+
+If you play online multiplayer games, the cutting out (IF you even get any, some people don&#039;t), would be painful.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QvzqF5ljaa</UserId>
+            <UserNick>Jason G</UserNick>
+            <Date>2010-03-08 02:23:19</Date>
+            <Timestamp>1268043799</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In networks, wired is faster than wireless. However, if you are comparing the wired DSL subscription which will give you 384kbps versus the wireless DSL subscription which will give you 768kbps then the 768kbps is faster even if it&#039;s wireless.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TJDklEwtaa</UserId>
+            <UserNick>Bill M.</UserNick>
+            <Date>2010-03-08 02:23:27</Date>
+            <Timestamp>1268043807</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The data transmission rate for the wired is slower than the wireless option, but wireless by its very nature is unstable, has higher latency, and a higher chance of disconnecting, and its very rare that you get the advertised speed on a wireless connection.
+
+The wireless is probably fine for downloading and surfing, but if you&#039;re after stability, DSL is a much better option.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cW6Xjhz8aa</UserId>
+            <UserNick>shadowfoxza</UserNick>
+            <Date>2010-03-08 02:28:07</Date>
+            <Timestamp>1268044087</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:34:56 PDT 2010 -->

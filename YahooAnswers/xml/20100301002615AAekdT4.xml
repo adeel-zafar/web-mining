@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301002615AAekdT4" type="Answered">
+    <Subject>TUMBLR question! Reblogging / code query?</Subject>
+    <Content>When someone reblogs my post, nothing happens on my own tumblr to show this. Something does show on other people&#039;s tumblrs, though. How can I change this on mine? Sorry if this was a bit confusing :P
+
+Is it a code of some sort?
+Thank you VERY much for any help :)
+oh wow, you&#039;re right! it took like, 24 hours but it shows up. thanks so much!! :D
+</Content>
+    <Date>2010-03-01 00:26:15</Date>
+    <Timestamp>1267431975</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301002615AAekdT4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>72PtUuNgaa</UserId>
+    <UserNick>hello</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Maybe your tumblr is running a little bit slow. Try refreshing. If you&#039;re a long time tumblr user then you&#039;ll know tumblr ALWAYS has problems :)</ChosenAnswer>
+    <ChosenAnswererId>zdmEBm5Qaa</ChosenAnswererId>
+    <ChosenAnswererNick>oh hi :)</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267432118</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267509521</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe your tumblr is running a little bit slow. Try refreshing. If you&#039;re a long time tumblr user then you&#039;ll know tumblr ALWAYS has problems :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>zdmEBm5Qaa</UserId>
+            <UserNick>oh hi :)</UserNick>
+            <Date>2010-03-01 00:28:38</Date>
+            <Timestamp>1267432118</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:33:45 PDT 2010 -->

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223045927AA9p1qr" type="Answered">
+    <Subject>why is firefox so slow?</Subject>
+    <Content>very annoying, i double click the icon and wait 2 minutes...nothing, then i double click and.. wait it remembered the 1st time so now i have 2 browsers loading up in slow motion. I go to x out one of the browsers but it doesnt budge so i x again and guess what! it remembered the first time so now both browsers are slowly going away before my eyes and i find myself in the same scenario i was in at the beginning... what causes this to be so slow and how can i fix it?
+can i save my bookmarks?
+</Content>
+    <Date>2010-02-23 04:59:27</Date>
+    <Timestamp>1266929967</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223045927AA9p1qr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1992aa32d23899c6514d1ff2a2d22cdfaa</UserId>
+    <UserNick>X-Cali</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ae958c5iad9zul6re4/U_eiI44yaaNB.gMfFcDT/104/tn48.jpg?ciAAToMBCRaWJaoB</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>To save your bookmarks, open Firefox, go to Bookmarks &gt; Organize Bookmarks, click Import &amp; Backup &gt; Export HTML, navigate to location to save it, click Save. Once you&#039;ve re-installed Firefox, do the same process except select Import HTML
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267255481</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267449294</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>that is the virus in your pc.
+scan the pc and heal the virus and restart your computer. you can see more faster than before.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PbMY62eRaa</UserId>
+            <UserNick>Abhishek</UserNick>
+            <Date>2010-02-23 05:03:01</Date>
+            <Timestamp>1266930181</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Completely remove firefox, delete your firefox profile and start anew.
+
+To find your Firefox profile folder, press the Windows + R shortcut keys to bring up the RUN dialog box. You can also type the command directly into the Start search menu (for Vista and Win 7 users only)
+
+Type in this command:
+
+%appdata%
+
+and then hit enter.
+
+In the folders that appear, find one that is labelled &quot;Mozilla&quot;, and delete all it&#039;s contents. (This forces Firefox to generate a new profile when it&#039;s installed again)
+
+Once you&#039;ve done that, re-download Firefox (the latest version) and install it again.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kAi14kKxaa</UserId>
+            <UserNick>Masked Musketeer</UserNick>
+            <Date>2010-02-23 05:03:05</Date>
+            <Timestamp>1266930185</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>To save your bookmarks, open Firefox, go to Bookmarks &gt; Organize Bookmarks, click Import &amp; Backup &gt; Export HTML, navigate to location to save it, click Save. Once you&#039;ve re-installed Firefox, do the same process except select Import HTML
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-02-26 23:24:41</Date>
+            <Timestamp>1267255481</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:22:52 PDT 2010 -->

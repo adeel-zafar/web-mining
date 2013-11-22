@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327235615AA1m52y" type="Answered">
+    <Subject>How do I set an image/gif for my web cam at chatroulette.com?</Subject>
+    <Content>I don&#039;t want to set up a webcam. I want to use a file from my computer.
+</Content>
+    <Date>2010-03-27 23:56:15</Date>
+    <Timestamp>1269759375</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327235615AA1m52y</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xD1LDzYJaa</UserId>
+    <UserNick>Cheyenne</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>download ManyCam</ChosenAnswer>
+    <ChosenAnswererId>6cOSNIDSaa</ChosenAnswererId>
+    <ChosenAnswererNick>kat</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269759440</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269904534</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>download ManyCam</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6cOSNIDSaa</UserId>
+            <UserNick>kit</UserNick>
+            <Date>2010-03-27 23:57:20</Date>
+            <Timestamp>1269759440</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Check out ManyCam you can set images/desktop/video as a webcam</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hVkTEUjmaa</UserId>
+            <UserNick>BRR!!</UserNick>
+            <Date>2010-03-27 23:57:52</Date>
+            <Timestamp>1269759472</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:17 PDT 2010 -->

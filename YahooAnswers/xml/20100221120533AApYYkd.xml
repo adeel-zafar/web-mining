@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221120533AApYYkd" type="Answered">
+    <Subject>Neither Firefox nor Internet Explorer will let me log into anything!!?</Subject>
+    <Content>My computer within the past couple of days has stopped letting me log into anything including Facebook, Yahoo, my satellite radio, Ebay, etc.. Every time you try and log into something both web browsers will lock up and force you to go to the task manager and end the application.  Im good with computers but i have no idea what is causing this problem.
+</Content>
+    <Date>2010-02-21 12:05:33</Date>
+    <Timestamp>1266782733</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221120533AApYYkd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>otQ4oQ90aa</UserId>
+    <UserNick>Chase</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1SbG0fpX6AAECJyEolAptIhYB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>When you try to log into websites such as Yahoo, Gmail,Facebook and almost every other secure sites, they use https rather than http in their address (URL). Sometimes your ISP and internet connection has problem with https. you can try to remove &quot;s&quot; at the end of &quot;https&quot; and re-login to your favorite sites.
+
+I suggest you to try this method on Facebook first.
+
+or you can use an antifilter or proxy program , like Ultrasurf (www.ultrareach.com). If your problem is due to a proxy problem, it will more likely be solved.
+
+Good Luck</ChosenAnswer>
+    <ChosenAnswererId>JLr3UcEHaa</ChosenAnswererId>
+    <ChosenAnswererNick>MS</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266823489</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268065370</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sounds like you have a virus. Run your anti virus program if you have one.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GuSe477Daa</UserId>
+            <UserNick>Oceana</UserNick>
+            <Date>2010-02-21 12:13:04</Date>
+            <Timestamp>1266783184</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think they&#039;re just having issues, because a lot of peoples internet explorer isn&#039;t even working, including mine.
+Firefox is working for me though.
+So idk.
+This is stupid, i&#039;m really mad about this.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IhRihZDcaa</UserId>
+            <UserNick>shamwownow. :)</UserNick>
+            <Date>2010-02-21 12:21:26</Date>
+            <Timestamp>1266783686</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>When you try to log into websites such as Yahoo, Gmail,Facebook and almost every other secure sites, they use https rather than http in their address (URL). Sometimes your ISP and internet connection has problem with https. you can try to remove &quot;s&quot; at the end of &quot;https&quot; and re-login to your favorite sites.
+
+I suggest you to try this method on Facebook first.
+
+or you can use an antifilter or proxy program , like Ultrasurf (www.ultrareach.com). If your problem is due to a proxy problem, it will more likely be solved.
+
+Good Luck</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JLr3UcEHaa</UserId>
+            <UserNick>MS</UserNick>
+            <Date>2010-02-21 23:24:49</Date>
+            <Timestamp>1266823489</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:34:19 PDT 2010 -->

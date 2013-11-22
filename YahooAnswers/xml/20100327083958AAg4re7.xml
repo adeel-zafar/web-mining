@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327083958AAg4re7" type="Answered">
+    <Subject>Anybody know any good/popular chat sites?</Subject>
+    <Content>Anybody know any?
+Thanks.
+Not social networking sites.
+</Content>
+    <Date>2010-03-27 08:39:58</Date>
+    <Timestamp>1269704398</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327083958AAg4re7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RkRtTu3oaa</UserId>
+    <UserNick>Here To Help</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>paltalk has lots of different chatrooms on a variety of subjects</ChosenAnswer>
+    <ChosenAnswererId>sa1xZeN3aa</ChosenAnswererId>
+    <ChosenAnswererNick>The One</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269734713</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269861943</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Facebook</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>khJBfboRaa</UserId>
+            <UserNick>Cherrypicker</UserNick>
+            <Date>2010-03-27 08:42:41</Date>
+            <Timestamp>1269704561</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>paltalk has lots of different chatrooms on a variety of subjects</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>sa1xZeN3aa</UserId>
+            <UserNick>The One</UserNick>
+            <Date>2010-03-27 17:05:13</Date>
+            <Timestamp>1269734713</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:12 PDT 2010 -->

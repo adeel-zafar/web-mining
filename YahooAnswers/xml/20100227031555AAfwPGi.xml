@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227031555AAfwPGi" type="Answered">
+    <Subject>Internet users please help me with this issue?</Subject>
+    <Content>What does mbps mean and what does it actually do? I just purchased a mobile modem and it says 6 mbps limit. Does it also mean if I&#039;m on the internet too long then I&#039;ll be overcharged?
+Sorry, it is Mbps
+</Content>
+    <Date>2010-02-27 03:15:55</Date>
+    <Timestamp>1267269355</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227031555AAfwPGi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wmraWeHWaa</UserId>
+    <UserNick>Introvert</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/15T6T990qAAEB_GFV8LNrDg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>That is a measure of speed 6 megabits per second.  if the M is CAPITALIZED it means megabytes per second.  Sounds like a DOCSIS I modem; DOCSIS II is pretty standard now and DOCSIS III is coming soon.  Each faster, all backward compatible.
+
+You may have consumption limits, too; you&#039;ll need to check that with your carrier.
+-------------------------
+I stand corrected.  Mb is megabit; MB is megabyte, but it is a theoretical max capacity, not an actual rate.  Bigger is better, but you only pay for what you use.</ChosenAnswer>
+    <ChosenAnswererId>FH9vSX60aa</ChosenAnswererId>
+    <ChosenAnswererNick>Eric A</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267269515</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268134421</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>That is a measure of speed 6 megabits per second.  if the M is CAPITALIZED it means megabytes per second.  Sounds like a DOCSIS I modem; DOCSIS II is pretty standard now and DOCSIS III is coming soon.  Each faster, all backward compatible.
+
+You may have consumption limits, too; you&#039;ll need to check that with your carrier.
+-------------------------
+I stand corrected.  Mb is megabit; MB is megabyte, but it is a theoretical max capacity, not an actual rate.  Bigger is better, but you only pay for what you use.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FH9vSX60aa</UserId>
+            <UserNick>Eric A</UserNick>
+            <Date>2010-02-27 03:18:35</Date>
+            <Timestamp>1267269515</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No, you won&#039;t be overcharge or charged at all for just using your modem to transfer data. When it says 6mbps, it means that is the fastest speed it can transfer data (the data transfer speed limit of the modem). Don&#039;t get confused because Mbps= Megabits per second, NOT Megabytes per second. What I mean is that you only get charged for your use of the internet and it depends on what plans you are on.
+
+About your internet, you might get charged more if you are on a plan that you have to pay extra after you use up your bandwidth. 
+For example, say you have a 5gb Bandwidth Limit, and you use up 5gb, then you will have to pay more to use more data (bandwidth) or in other cases, your internet slows down but you don&#039;t get charged.</Content>
+            <Reference>Brains</Reference>
+            <Best></Best>
+            <UserId>WICA4p2laa</UserId>
+            <UserNick>CrazyAsian</UserNick>
+            <Date>2010-02-27 03:23:41</Date>
+            <Timestamp>1267269821</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:46:10 PDT 2010 -->

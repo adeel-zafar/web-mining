@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303111938AATSRLk" type="Answered">
+    <Subject>Favorites folder/sub folder missing in IE?</Subject>
+    <Content>I&#039;m not sure how and what happened but when I pull up the favorites I&#039;m missing an entire folder and sub folder with many saved sites/bookmarks. This is in Internet Explorer. Some of the favorites not in a separate folder still appear but everything else is gone especially the folders I need. I checked the recycle bin which was empty and then attempted a system restore which didn&#039;t help. I really need to locate these files. Any suggestions would be greatly appreciated. Thanks
+I tried doing a system restore a few times each time going back further on the date. Still the folder doesn&#039;t appear. I also tried going into the c/documnet/favorite folder. It&#039;s almost like my folder was either deleted from the system or didn&#039;t exist. Anything else I can try?
+</Content>
+    <Date>2010-03-03 11:19:38</Date>
+    <Timestamp>1267643978</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303111938AATSRLk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>60c566cabf5727c4684b99e275ffc67daa</UserId>
+    <UserNick>suzie3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try doing a system restore. On the bottom toolbar, click &quot;Start&quot;, &quot;All Programs&quot;, &quot;Accessories&quot;, &quot;System Tools&quot;, &quot;System Restore&quot;. In the pop-up window, select &quot;Restore My System To An Earlier Time&quot; then click &quot;Next&quot;. Hopefully there will be an available (bold text) date highlighted, pick one when you know the favorites folder was still on your computer, then hit &quot;Next&quot; then &quot;Next&quot; again. Should restore the folder, If not, try an earlier restore date.</ChosenAnswer>
+    <ChosenAnswererId>VzSpV4Xoaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dave L</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267646264</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268163429</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try this:
+C:\Documents and Settings\&lt;your login account&gt;\Favorites\
+This is where IE bookmarks are kept.
+If you can&#039;t find them there, you will have to go through your Internet history to restore your favorites</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vmF0roqhaa</UserId>
+            <UserNick>AN-DY</UserNick>
+            <Date>2010-03-03 11:55:48</Date>
+            <Timestamp>1267646148</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try doing a system restore. On the bottom toolbar, click &quot;Start&quot;, &quot;All Programs&quot;, &quot;Accessories&quot;, &quot;System Tools&quot;, &quot;System Restore&quot;. In the pop-up window, select &quot;Restore My System To An Earlier Time&quot; then click &quot;Next&quot;. Hopefully there will be an available (bold text) date highlighted, pick one when you know the favorites folder was still on your computer, then hit &quot;Next&quot; then &quot;Next&quot; again. Should restore the folder, If not, try an earlier restore date.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>VzSpV4Xoaa</UserId>
+            <UserNick>Dave L</UserNick>
+            <Date>2010-03-03 11:57:44</Date>
+            <Timestamp>1267646264</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:17:24 PDT 2010 -->

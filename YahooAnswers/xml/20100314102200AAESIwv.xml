@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314102200AAESIwv" type="Answered">
+    <Subject>I&#039;m Looking for a code, can anyone help?</Subject>
+    <Content>I&#039;m looking for a code on IMVU so i can make my layout into boxes below is a link with a example of what i&#039;d like. 
+
+http://avatars.imvu.com/Court
+
+Can anyone help?
+</Content>
+    <Date>2010-03-14 10:22:00</Date>
+    <Timestamp>1268587320</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314102200AAESIwv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZMytP42Paa</UserId>
+    <UserNick>You Got The Love</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b932ffei1574zws102ac4/bQkKKacodLPOSYMIj_CeZSQFU.V2oKslWm9XTX0Kzg--/1/tn48.jpeg?ciAAToMBDNOlNh.2</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;ve been looking everywhere for the DIV boxes also but I found a way to do them thanks to imvu forums! ;] Here&#039;s how mine look if that&#039;s also what you desire: http://avatars.imvu.com/17keyana If so, continue on reading on how to do it.
+
+Okay, here&#039;s a website that have good DIV layouts.(your box layouts) http://jkb123.net/RoxieRockette/ When your browsing, make sure the layout you choose is a DIV LAYOUT and not and IFRAME LAYOUT(unless you know what to do. iframes are more complicated than an div.) If you find one you like, click on more at the bottom of the layout you want. The directions to edit the things you want to say on your layout should be there. I reccommend you read them.
+
+After you chose which one you like, I suggest you paste the code in the &quot;MY ROOM&quot; panel. You then should see the DIV layout in your MY ROOM panel. Once you do that you can go to &quot;My Account&quot; and scroll down until you see About Me Panel, Special Someone Panel, My Updates, etc. listed. Change all the view to Nobody except for the MY ROOM PANEL and MY STICKERS(change the my stickers panel view to nobody if you dont have any stickers or not planning on using/buying stickers to decorate your page later on.)
+
+Go back to your homepage and on your MY ROOM PANEL, copy and paste this code in there to hide the room picture if you want to: &lt;style type=&quot;text/css&quot;&gt;
+#room_panel_colRow a img {display:none !important;}
+&lt;/style&gt;
+
+Now with that done, you can edit the information on the layout if you haven&#039;t already. If you did, you can use the stickers to make some finishing touch ups! 
+
+Hope that answers your question!</ChosenAnswer>
+    <ChosenAnswererId>JoII87YMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Teamgir</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268777436</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269106639</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;ve been looking everywhere for the DIV boxes also but I found a way to do them thanks to imvu forums! ;] Here&#039;s how mine look if that&#039;s also what you desire: http://avatars.imvu.com/17keyana If so, continue on reading on how to do it.
+
+Okay, here&#039;s a website that have good DIV layouts.(your box layouts) http://jkb123.net/RoxieRockette/ When your browsing, make sure the layout you choose is a DIV LAYOUT and not and IFRAME LAYOUT(unless you know what to do. iframes are more complicated than an div.) If you find one you like, click on more at the bottom of the layout you want. The directions to edit the things you want to say on your layout should be there. I reccommend you read them.
+
+After you chose which one you like, I suggest you paste the code in the &quot;MY ROOM&quot; panel. You then should see the DIV layout in your MY ROOM panel. Once you do that you can go to &quot;My Account&quot; and scroll down until you see About Me Panel, Special Someone Panel, My Updates, etc. listed. Change all the view to Nobody except for the MY ROOM PANEL and MY STICKERS(change the my stickers panel view to nobody if you dont have any stickers or not planning on using/buying stickers to decorate your page later on.)
+
+Go back to your homepage and on your MY ROOM PANEL, copy and paste this code in there to hide the room picture if you want to: &lt;style type=&quot;text/css&quot;&gt;
+#room_panel_colRow a img {display:none !important;}
+&lt;/style&gt;
+
+Now with that done, you can edit the information on the layout if you haven&#039;t already. If you did, you can use the stickers to make some finishing touch ups! 
+
+Hope that answers your question!</Content>
+            <Reference>Imvu User: 17keyana</Reference>
+            <Best>5</Best>
+            <UserId>JoII87YMaa</UserId>
+            <UserNick>Dnt Accept Lemons Frm Life</UserNick>
+            <Date>2010-03-16 15:10:36</Date>
+            <Timestamp>1268777436</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:59:24 PDT 2010 -->

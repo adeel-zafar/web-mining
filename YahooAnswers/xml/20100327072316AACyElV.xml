@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327072316AACyElV" type="Answered">
+    <Subject>If discovered that broardband speeds in excess of 24Mbps could be obtained, briefly, using a copper network?</Subject>
+    <Content>Would you ask for a refund?
+</Content>
+    <Date>2010-03-27 07:23:16</Date>
+    <Timestamp>1269699796</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327072316AACyElV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eLedl03Naa</UserId>
+    <UserNick>Future OFCOM Equity</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1gHPxMlVNAAEC_OGgOLqj2C8B.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No, because the network operator would blame network utilisation (how many people using the network at any one time) on the slower speeds.</ChosenAnswer>
+    <ChosenAnswererId>DeRASti6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Fork UK</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269699998</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269944797</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, because the network operator would blame network utilisation (how many people using the network at any one time) on the slower speeds.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DeRASti6aa</UserId>
+            <UserNick>Fork UK</UserNick>
+            <Date>2010-03-27 07:26:38</Date>
+            <Timestamp>1269699998</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>the ISP always says up to ??? Mbps</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fFVYZkYQaa</UserId>
+            <UserNick>Jonsul</UserNick>
+            <Date>2010-03-27 07:29:36</Date>
+            <Timestamp>1269700176</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>With your user name I smell SPAMMING.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AHAafN2saa</UserId>
+            <UserNick>who_is_jack_shit</UserNick>
+            <Date>2010-03-27 07:54:06</Date>
+            <Timestamp>1269701646</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:18 PDT 2010 -->

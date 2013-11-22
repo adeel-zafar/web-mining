@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306091922AAJbvz0" type="Answered">
+    <Subject>Message board suggestion?</Subject>
+    <Content>Hi all, 
+I&#039;m trying to find a decent place to start a message board....
+I&#039;ve checked out a bunch of sites, most of which are overly complicated and have poor features. 
+
+I&#039;m wondering if anyone can recommend a forum/messageboard host which has the ability to edit a post without &quot;edited by&quot; appearing in the post somewhere...
+And also post approval features, so you can check what added to your board before it becomes public viewing. 
+
+I&#039;ve tried proboards, yuku, phpbb, forum motion and some others too but didn&#039;t find much joy. 
+If anyone can help point me in the right direction I would be very grateful. 
+Thanks all!
+</Content>
+    <Date>2010-03-06 09:19:22</Date>
+    <Timestamp>1267895962</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306091922AAJbvz0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5ZwVTWXBaa</UserId>
+    <UserNick>Miss</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I have used a few but I like http://www.forumotion.com the best its simple and easy to use
+
+The best thing about Forumotion is that there is nothing to download and nothing to setup. You just have to choose a forum name and they&#039;ll do the rest. You can have a fully functioning forum up and running in less than 30 seconds.</ChosenAnswer>
+    <ChosenAnswererId>2RClY19jaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kefala</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268045670</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268415455</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What I have used (though not been admin of) is google groups.  You may want to give that a try, or maybe yahoo groups.  I would recommend that the most if you are planning to use a message board with people that you know personally.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GmZEBfU6aa</UserId>
+            <UserNick>Micah</UserNick>
+            <Date>2010-03-06 09:25:47</Date>
+            <Timestamp>1267896347</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>As you may know a domain name is just a name, not a real website. If you are going to create your forum website: 1- Buy a domain name. To get a domain name, you have to pay an annual fee to a registrar for the right to use that name. 2- Buy a web hosting service to provide your online space and enable you to get your website online at your purchased domain name.
+
+If you’re going to create a forum site at your own domain without any forced ads, you need a web host providing forum tools (phpbb or vbulletin).
+
+Take a look at:
+http://www.threehosts.com/forum
+There you can reach the three reputable companies that are leaders in the forum website hosting industry.
+
+There you can find a video tutorial to learn how do it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YsXKcAgbaa</UserId>
+            <UserNick>David M</UserNick>
+            <Date>2010-03-06 23:46:54</Date>
+            <Timestamp>1267948014</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have used a few but I like http://www.forumotion.com the best its simple and easy to use
+
+The best thing about Forumotion is that there is nothing to download and nothing to setup. You just have to choose a forum name and they&#039;ll do the rest. You can have a fully functioning forum up and running in less than 30 seconds.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2RClY19jaa</UserId>
+            <UserNick>Kefala</UserNick>
+            <Date>2010-03-08 02:54:30</Date>
+            <Timestamp>1268045670</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:49:01 PDT 2010 -->

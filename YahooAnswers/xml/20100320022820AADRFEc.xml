@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320022820AADRFEc" type="Answered">
+    <Subject>how to delete from adress bar?</Subject>
+    <Content>ok im buying my girlfriend a pressie and i deleted the history but when i try and put in a adress say www.yahoo.com  as the website also started in y it still comes up and shes going to see it?
+</Content>
+    <Date>2010-03-20 02:28:20</Date>
+    <Timestamp>1269077300</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320022820AADRFEc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vvXm1BBxaa</UserId>
+    <UserNick>Alex M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Just clear all your browsing data (i.e. Cookies, History, Cache, etc). If that does not work, open another web browser that you did not use to visit the &quot;website&quot; when she comes home. So if she goes on the internet, she is already in that web browser and might not bother to open another.</ChosenAnswer>
+    <ChosenAnswererId>Onj6VHnTaa</ChosenAnswererId>
+    <ChosenAnswererNick>GrandUser1000</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269077893</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269596581</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>deleting history should do it. Try deleting cookies and temporary files.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>T1ev4Bhxaa</UserId>
+            <UserNick>drumming_panda</UserNick>
+            <Date>2010-03-20 02:33:44</Date>
+            <Timestamp>1269077624</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Just clear all your browsing data (i.e. Cookies, History, Cache, etc). If that does not work, open another web browser that you did not use to visit the &quot;website&quot; when she comes home. So if she goes on the internet, she is already in that web browser and might not bother to open another.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Onj6VHnTaa</UserId>
+            <UserNick>GrandUser1000</UserNick>
+            <Date>2010-03-20 02:38:13</Date>
+            <Timestamp>1269077893</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:32:30 PDT 2010 -->

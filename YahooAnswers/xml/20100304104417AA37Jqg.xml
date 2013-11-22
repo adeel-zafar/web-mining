@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304104417AA37Jqg" type="Answered">
+    <Subject>How to recover outlook express e-mails?</Subject>
+    <Content>I had an Inbox with 2 gb worth of space and they said I should compact it. After it, all my e-mails got rearreanged in new folders and some dissappeared entirely (especially the latest ones). How can I get them back (There was an error during the last portion of the compacting)
+</Content>
+    <Date>2010-03-04 10:44:17</Date>
+    <Timestamp>1267728257</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304104417AA37Jqg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NE3OcDsoaa</UserId>
+    <UserNick>Rodrigo T</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can try to find and recover your emails with Easy Mail Recovery software:
+
+http://www.munsoft.com/EasyMailRecovery/
+
+The program uses original algorithms that assist in the recovery of a maximum number of messages even if the mail client cannot open the message database.</ChosenAnswer>
+    <ChosenAnswererId>IEyJo1L8aa</ChosenAnswererId>
+    <ChosenAnswererNick>Irina K</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267735794</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268247832</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can try to find and recover your emails with Easy Mail Recovery software:
+
+http://www.munsoft.com/EasyMailRecovery/
+
+The program uses original algorithms that assist in the recovery of a maximum number of messages even if the mail client cannot open the message database.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>IEyJo1L8aa</UserId>
+            <UserNick>Irina K</UserNick>
+            <Date>2010-03-04 12:49:54</Date>
+            <Timestamp>1267735794</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:10:46 PDT 2010 -->

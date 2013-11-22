@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326062002AAvM6PR" type="Answered">
+    <Subject>Why can&#039;t I log into lockerz?</Subject>
+    <Content>I went to go login today and it said wrong email so after trying many times I changed my password and it&#039;s obviously in the system and I put the right password in. What&#039;s wrong?
+</Content>
+    <Date>2010-03-26 06:20:02</Date>
+    <Timestamp>1269609602</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326062002AAvM6PR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nkwHqnb4aa</UserId>
+    <UserNick>KISSARMY</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s a glorified pyramid scheme so it&#039;s bound to end in disaster. Most likely your user name and password has been removed off the server somehow, you will need to contact Lockerz directly.</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269954677</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270128832</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>why dont you ask them 
+we dont know why a website didnt let you log in</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JCvkptnjaa</UserId>
+            <UserNick>Alex</UserNick>
+            <Date>2010-03-26 06:26:33</Date>
+            <Timestamp>1269609993</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s a glorified pyramid scheme so it&#039;s bound to end in disaster. Most likely your user name and password has been removed off the server somehow, you will need to contact Lockerz directly.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>Legion</UserNick>
+            <Date>2010-03-30 06:11:17</Date>
+            <Timestamp>1269954677</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:27:40 PDT 2010 -->

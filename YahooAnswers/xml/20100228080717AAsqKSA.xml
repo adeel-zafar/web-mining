@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228080717AAsqKSA" type="Answered">
+    <Subject>How long does amazon shipping take?</Subject>
+    <Content>My friends birthday party is on saturday and i want to order her the second gossip girl book, ive ordered from amazon before and it varies in how long it takes, should i order it or just go out and buy it??
+</Content>
+    <Date>2010-02-28 08:07:17</Date>
+    <Timestamp>1267373237</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228080717AAsqKSA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>W9bG2Ef9aa</UserId>
+    <UserNick>simluver</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1nKIEi2AcAAEC9IFDFCepBQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can get it delivered the next day ..If you are planning on using the Super Saver I wouldn&#039;t risk it</ChosenAnswer>
+    <ChosenAnswererId>ylyDSpb7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Sexy Scottish Kool Aid Man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267373323</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268619774</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>very fast and reliable service</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>N2NFIa4faa</UserId>
+            <UserNick>iFinbarr x</UserNick>
+            <Date>2010-02-28 08:08:30</Date>
+            <Timestamp>1267373310</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can get it delivered the next day ..If you are planning on using the Super Saver I wouldn&#039;t risk it</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ylyDSpb7aa</UserId>
+            <UserNick>Sexy Scottish Kool Aid Man</UserNick>
+            <Date>2010-02-28 08:08:43</Date>
+            <Timestamp>1267373323</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:38:36 PDT 2010 -->

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326141931AAk16ac" type="Answered">
+    <Subject>need to remove viruses?</Subject>
+    <Content>cant get on internet virus warning will not let me finish anything.
+</Content>
+    <Date>2010-03-26 14:19:31</Date>
+    <Timestamp>1269638371</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326141931AAk16ac</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AwFByIhyaa</UserId>
+    <UserNick>Dayna</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>My recommendation will be the following
+
+1st you will need to remove all the temporary files from your system I recommend you download ccleaner.com once you run that program disable the system restore it varies by what type of windows you have for windows XP go there http://support.microsoft.com/kb/310405 and for windows vista and 7 go here http://www.howtogeek.com/howto/windows-vista/disable-system-restore-in-windows-vista/ they will show you how to disable it while we do the cleaning reason is that viruses sometimes tend to hide in the restore points so by disabling and removing all the previous restore points viruses wont be hidden in the restore of windows you will need to download couple of programs one is called Malwarebytes download it and install it and update the software dont run it yet second you need to download another software called Super Antispyware download it and install it and update it dont run it yet second download trojan remover and install it and update it now once you do all that restart your computer, press F8 continually while booting up when a screen comes up Click where it says Start in Safe Mode when you get to the welcome screen click your account now open malwarebytes and do a system scan their after in finished doing the scan make sure you remove whatever files it found to be infected and they restart your system and once again go into safe mode now this time do a full system scan with Superantispyware and remove whatever infections it finds once again restart your computer do a scan in safe mode and do a scan with Trojan Remover they are great programs just remember to do everything in safe mode well hope this helps you out...</ChosenAnswer>
+    <ChosenAnswererId>PYRfYlf4aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jesus J</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269642611</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270157681</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>turn it of then turn it on dummy</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>d32K7aHCaa</UserId>
+            <UserNick>Emily</UserNick>
+            <Date>2010-03-26 14:20:13</Date>
+            <Timestamp>1269638413</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Just run windows anit viresus and ur pretty</Content>
+            <Reference>my head</Reference>
+            <Best></Best>
+            <UserId>UVA1Vmrdaa</UserId>
+            <UserNick>Justin</UserNick>
+            <Date>2010-03-26 14:21:58</Date>
+            <Timestamp>1269638518</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>My recommendation will be the following
+
+1st you will need to remove all the temporary files from your system I recommend you download ccleaner.com once you run that program disable the system restore it varies by what type of windows you have for windows XP go there http://support.microsoft.com/kb/310405 and for windows vista and 7 go here http://www.howtogeek.com/howto/windows-vista/disable-system-restore-in-windows-vista/ they will show you how to disable it while we do the cleaning reason is that viruses sometimes tend to hide in the restore points so by disabling and removing all the previous restore points viruses wont be hidden in the restore of windows you will need to download couple of programs one is called Malwarebytes download it and install it and update the software dont run it yet second you need to download another software called Super Antispyware download it and install it and update it dont run it yet second download trojan remover and install it and update it now once you do all that restart your computer, press F8 continually while booting up when a screen comes up Click where it says Start in Safe Mode when you get to the welcome screen click your account now open malwarebytes and do a system scan their after in finished doing the scan make sure you remove whatever files it found to be infected and they restart your system and once again go into safe mode now this time do a full system scan with Superantispyware and remove whatever infections it finds once again restart your computer do a scan in safe mode and do a scan with Trojan Remover they are great programs just remember to do everything in safe mode well hope this helps you out...</Content>
+            <Reference>http://www.simplysup.com
+http://www.malwarebytes.org
+http://www.superantispyware.com/</Reference>
+            <Best>5</Best>
+            <UserId>PYRfYlf4aa</UserId>
+            <UserNick>Jesus J</UserNick>
+            <Date>2010-03-26 15:30:11</Date>
+            <Timestamp>1269642611</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:08 PDT 2010 -->

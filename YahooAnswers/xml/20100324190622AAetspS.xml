@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324190622AAetspS" type="Answered">
+    <Subject>is there anywhere online where i can listen to books being read?</Subject>
+    <Content>i have to read lord of the flies and sometimes its hard for me to focus but im im listeing to someone read i can focus better. please help
+</Content>
+    <Date>2010-03-24 19:06:22</Date>
+    <Timestamp>1269482782</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324190622AAetspS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5gUcYdLzaa</UserId>
+    <UserNick>at last my love has come along</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1MGwUV9ijAAED-qFlBD4MCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://tinyhacker.com/hacks/download-free-audio-books-from-audioowl/</ChosenAnswer>
+    <ChosenAnswererId>DeiuAuwyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Brenda</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269484343</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270098206</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://tinyhacker.com/hacks/download-free-audio-books-from-audioowl/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DeiuAuwyaa</UserId>
+            <UserNick>Brenda</UserNick>
+            <Date>2010-03-24 19:32:23</Date>
+            <Timestamp>1269484343</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:33:12 PDT 2010 -->

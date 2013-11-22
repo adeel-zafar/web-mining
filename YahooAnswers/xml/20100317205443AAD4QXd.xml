@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317205443AAD4QXd" type="Answered">
+    <Subject>Has anyone had similar problems with some webpages?</Subject>
+    <Content>For the past several days I&#039;ve had some problems with websites in general.  For example, on some websites, they will not load because it takes to long.  also, when I go to websites like facebook, myspace, hotmail email, or do a web search on yahoo, all that comes up is the text. 
+
+Everything is installed properly on my computer and my firewall is not a problem because I&#039;ve been using it for a while.  It&#039;s has been happening on both my computer (windows vista) and my grandparents computer (an XP) computer.
+
+Is anyone having similar problems and can they be fixed?
+</Content>
+    <Date>2010-03-17 20:54:43</Date>
+    <Timestamp>1268884483</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317205443AAD4QXd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>njCB1VMQaa</UserId>
+    <UserNick>Steven</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Z6IcMzzVAAEB_IFVgKDJiC0B.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It may be router lag. Reset it, and check that the connection and wiring isn&#039;t faulty or that neither the computers or the router is over heated. If you use dial-up, that may be self explanatory.
+
+Also, check that you have flash and that your browser is up to date and functional. Run a spy-ware/virus scanner too. Also, consider the amount of space you have left on your computer and the amount of RAM you are using. Close all other running programs, give your computer a few minutes to &quot;warm up&quot; or basically run through all its processes after it turns on. Then, check to make sure that your computer doesn&#039;t lag in any other area and check the amount of space left on the hard drive. Run the spy-ware/anti-virus check and ventilate all your computer equipment.</ChosenAnswer>
+    <ChosenAnswererId>5jIkWKhsaa</ChosenAnswererId>
+    <ChosenAnswererNick>Blugers</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268885048</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269027987</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It may be router lag. Reset it, and check that the connection and wiring isn&#039;t faulty or that neither the computers or the router is over heated. If you use dial-up, that may be self explanatory.
+
+Also, check that you have flash and that your browser is up to date and functional. Run a spy-ware/virus scanner too. Also, consider the amount of space you have left on your computer and the amount of RAM you are using. Close all other running programs, give your computer a few minutes to &quot;warm up&quot; or basically run through all its processes after it turns on. Then, check to make sure that your computer doesn&#039;t lag in any other area and check the amount of space left on the hard drive. Run the spy-ware/anti-virus check and ventilate all your computer equipment.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5jIkWKhsaa</UserId>
+            <UserNick>Blugers</UserNick>
+            <Date>2010-03-17 21:04:08</Date>
+            <Timestamp>1268885048</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;ve had that kind of problem before. It was a computer that was on its last legs, it ran everything slowly: Word, Excel, everything. How are the other programs running on your computer?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bBAUKNstaa</UserId>
+            <UserNick>Robert S</UserNick>
+            <Date>2010-03-17 21:44:31</Date>
+            <Timestamp>1268887471</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:41 PDT 2010 -->

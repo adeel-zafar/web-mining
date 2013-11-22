@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308162410AAc2Qes" type="Answered">
+    <Subject>Internet connection drops when phone in use..Please help!?</Subject>
+    <Content>My internet connection drops when i use the house phone or someone calls...It really gets annoying because im online most of the time. I have DSL Connection and using At&amp;t Modem...I also have a Net Gear Router...My friend says if you connect them to a Y-Cord..I have no clue what that is or how to connect..Please if someone has a solution for my connection to be Okay when someone calls Just please! Answer! Thankyou!
+</Content>
+    <Date>2010-03-08 16:24:10</Date>
+    <Timestamp>1268094250</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308162410AAc2Qes</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RS4z0aReaa</UserId>
+    <UserNick>AllenKev</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Is your phone dock anywhere near the wireless router?
+Phones with the same frequency as the router can cause disruptions and internet drops that you described.
+
+I believe Netgear routers run at around 2.4 ghz, so a phone running at near that frequency (and also stationed close to it) can cause your problem.
+
+If you have the problem described above, just put your phone or router further apart.</ChosenAnswer>
+    <ChosenAnswererId>hdt3jSCoaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mister Wilbo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268096886</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268610277</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>For DSL each phone plug needs to have a filter, even if no phone is there. These can also be damaged by voltage spikes. You may have to replace all of them just to be sure.
+As for the router. You run one &quot;ethernet&quot; wire between the modem and the WAN or internet port on the router. Then you run a second wire from one of the four LAN router ports to your several computers. The instructions are in the user guide. If you don&#039;t have that download it for your model (they are all different even from the same maker) from the NetGear website.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ca9800e875bb4c0b4dbd33a8358d5eefaa</UserId>
+            <UserNick>Greyolddave</UserNick>
+            <Date>2010-03-08 16:29:54</Date>
+            <Timestamp>1268094594</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Is your phone dock anywhere near the wireless router?
+Phones with the same frequency as the router can cause disruptions and internet drops that you described.
+
+I believe Netgear routers run at around 2.4 ghz, so a phone running at near that frequency (and also stationed close to it) can cause your problem.
+
+If you have the problem described above, just put your phone or router further apart.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>hdt3jSCoaa</UserId>
+            <UserNick>Mister Wilbo</UserNick>
+            <Date>2010-03-08 17:08:06</Date>
+            <Timestamp>1268096886</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:29:19 PDT 2010 -->

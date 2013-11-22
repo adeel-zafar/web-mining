@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311142937AA4OfGe" type="Answered">
+    <Subject>I had been using IE for years &amp; switched to Firefox after being advised by a friend?</Subject>
+    <Content>With IE the problem was after a few minutes of use it would want to shut down by giving the error message &quot;IE has encountered a problem and needs to shut down&quot;
+But with Firefox I have recently found that it is incompatible on certain sites. Even after entering the password correctly it wouldn&#039;t allow me in. But was able to do so through IE. What must I do?
+
+Could anyone help me with this please?
+</Content>
+    <Date>2010-03-11 14:29:37</Date>
+    <Timestamp>1268346577</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311142937AA4OfGe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lXH31qoMaa</UserId>
+    <UserNick>Scott</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1WbRxcX2fAAEC_IFH8EuACw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I have used firefox almost exclusively for a number of years, and gradually over time most sites became compatible to the point that I haven&#039;t found an incompatible site for about a year and a half. Because you have browsers behaving erratically, I think you may have some malware that is affecting your computer.</ChosenAnswer>
+    <ChosenAnswererId>wjRVcaEbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Joe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268347821</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268582178</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I have used firefox almost exclusively for a number of years, and gradually over time most sites became compatible to the point that I haven&#039;t found an incompatible site for about a year and a half. Because you have browsers behaving erratically, I think you may have some malware that is affecting your computer.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>wjRVcaEbaa</UserId>
+            <UserNick>Joe</UserNick>
+            <Date>2010-03-11 14:50:21</Date>
+            <Timestamp>1268347821</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There are one or two browsers that can &#039;pretend&#039; to be IE, as in the information websites get about what browser you&#039;re using can be masked so that the website thinks you&#039;re using IE.  This does not mean that IE-only websites will work in them, but some websites can be tricked into working if they just want you to be using IE and nothing else.
+
+Frankly I think it&#039;s appalling design to code functional areas of a website for just one browser, and I would do my best to avoid such websites where ever possible.  As I never use IE at home (I use Firefox 3.6) it&#039;s not a problem for me, and I never have any malware as the Mac is virtually immune.
+
+IE is a malware magnet, as is Windows and every other piece of Microsoft software.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GrpQFRPSaa</UserId>
+            <UserNick>Another Me</UserNick>
+            <Date>2010-03-11 15:09:21</Date>
+            <Timestamp>1268348961</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I use two addons for Firefox to get around sites that won&#039;t play with non-IE browsers...
+either User Agent Switcher:
+https://addons.mozilla.org/en-US/firefox/addon/59
+(Tricks the site into thinking the browser is IE, works a lot of the time, but isn&#039;t totally foolproof)
+or
+IE View:
+https://addons.mozilla.org/en-US/firefox/addon/35
+which will allow you to call the IE browser for pages that don&#039;t work, or set Firefox to automatically call IE for those pages next (and every time after) that you visit.
+
+That said, if IE is playing up, you can either reset it&#039;s settings through the internet options, or disable any addons you;ve recently installed (toolbars and so on) and test it again.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WXD0zyF0aa</UserId>
+            <UserNick>Sabraizu</UserNick>
+            <Date>2010-03-12 02:01:53</Date>
+            <Timestamp>1268388113</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Use Safari
+A whole lot faster than Firefox.And Better.
+http://www.apple.com/safari/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0od5FmAkaa</UserId>
+            <UserNick>Bozo</UserNick>
+            <Date>2010-03-12 04:57:59</Date>
+            <Timestamp>1268398679</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:12:54 PDT 2010 -->

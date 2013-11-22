@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314050014AAApPQs" type="Answered">
+    <Subject>Need some help with a web browser name?</Subject>
+    <Content>Hi,
+Can anyone tell me the name of that web browser that a polar bear as its icon? It&#039;s pretty rare it think :)
+</Content>
+    <Date>2010-03-14 05:00:14</Date>
+    <Timestamp>1268568014</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314050014AAApPQs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xtFcH0Oiaa</UserId>
+    <UserNick>Ronni</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;m pretty sure this isn&#039;t what you&#039;re looking for, but IceWeasel? It&#039;s re-branded Firefox, with a logo that might look like a polar bear if you&#039;re high or something.</ChosenAnswer>
+    <ChosenAnswererId>Qp0u9q5Naa</ChosenAnswererId>
+    <ChosenAnswererNick>Emmy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268568615</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269087238</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m pretty sure this isn&#039;t what you&#039;re looking for, but IceWeasel? It&#039;s re-branded Firefox, with a logo that might look like a polar bear if you&#039;re high or something.</Content>
+            <Reference>http://en.wikipedia.org/wiki/Iceweasel  Scroll down to see the cute polar bear. Ahem, I mean the cute weasel.</Reference>
+            <Best>5</Best>
+            <UserId>Qp0u9q5Naa</UserId>
+            <UserNick>Emmy</UserNick>
+            <Date>2010-03-14 05:10:15</Date>
+            <Timestamp>1268568615</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:00:35 PDT 2010 -->

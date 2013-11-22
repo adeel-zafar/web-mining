@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227102012AALpOE0" type="Answered">
+    <Subject>I Can&#039;t Paste Anything on the internet?</Subject>
+    <Content>I can copy something to paste it on notepad, but I cannot on the internet. I tried restarting my computer and that didn&#039;t work...help
+</Content>
+    <Date>2010-02-27 10:20:12</Date>
+    <Timestamp>1267294812</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227102012AALpOE0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZunyZQD8aa</UserId>
+    <UserNick>Sammi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What browser are you using? (Firefox, Internet Explorer, etc.) The problem isn&#039;t with the internet - it&#039;s with the program you use to access websites.
+
+[EDIT]: One common fix for major browsers is to disable any add-ons or extensions you have installed, then re-enable them until the problem comes back again. The extension that you enabled last would be the one responsible.
+
+[EDIT]: If nothing works, uninstall and reinstall your browser.</ChosenAnswer>
+    <ChosenAnswererId>H29EWcEeaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chemaqua</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267295236</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267814146</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What browser are you using? (Firefox, Internet Explorer, etc.) The problem isn&#039;t with the internet - it&#039;s with the program you use to access websites.
+
+[EDIT]: One common fix for major browsers is to disable any add-ons or extensions you have installed, then re-enable them until the problem comes back again. The extension that you enabled last would be the one responsible.
+
+[EDIT]: If nothing works, uninstall and reinstall your browser.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>H29EWcEeaa</UserId>
+            <UserNick>Chemaqua</UserNick>
+            <Date>2010-02-27 10:27:16</Date>
+            <Timestamp>1267295236</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:44:29 PDT 2010 -->

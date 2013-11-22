@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305232510AAMKQ7k" type="Answered">
+    <Subject>How do you make your wireless internet secure?</Subject>
+    <Content>I know how to add passwords and stuff like that but I want mine to be more advanced. I want mine to be a server with no passwords at the first but if you use Safari, it will automatically reload the page to a log-in site so that only members can use the internet.
+Oh and FYI, i have the wireless from the apple.
+</Content>
+    <Date>2010-03-05 23:25:10</Date>
+    <Timestamp>1267860310</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305232510AAMKQ7k</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kKn3xg8Aaa</UserId>
+    <UserNick>Arandomuser</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>In the configuration of your Wi-Fi router, you must have a table of MAC address filtering. You come back in this table, the MAC address of the Wi Fi laptop, so your mobile will only access the wireless network............................
+For more information check this link: http://forums.techarena.in/networking-security/1221745.htm</ChosenAnswer>
+    <ChosenAnswererId>fYBadomlaa</ChosenAnswererId>
+    <ChosenAnswererNick>rockstar1987</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267864166</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267928244</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>In the configuration of your Wi-Fi router, you must have a table of MAC address filtering. You come back in this table, the MAC address of the Wi Fi laptop, so your mobile will only access the wireless network............................
+For more information check this link: http://forums.techarena.in/networking-security/1221745.htm</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>fYBadomlaa</UserId>
+            <UserNick>rockstar1987</UserNick>
+            <Date>2010-03-06 00:29:26</Date>
+            <Timestamp>1267864166</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:51:36 PDT 2010 -->

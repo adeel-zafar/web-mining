@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330153537AAjN0Hs" type="Answered">
+    <Subject>Weird virus please help!? this security tool thingy came up and i never downloaded it. it won&#039;t let me open my?</Subject>
+    <Content>Weird virus please help!?
+this security tool thingy came up and i never downloaded it. it won&#039;t let me open my own anti-virus thing to scan it or anything. i have avg. but it won&#039;t work because when i click on it the security tool window comes up. what am i supposed to do? my mom will be so angry. please help how do i get rid of these viruses?
+</Content>
+    <Date>2010-03-30 15:35:37</Date>
+    <Timestamp>1269988537</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330153537AAjN0Hs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mFxxPHCYaa</UserId>
+    <UserNick>Fumiya</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>wsZtB0xhaa</ChosenAnswererId>
+    <ChosenAnswererNick>google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270073944</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270074899</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>ha the EXACT same thing happened last night, it&#039;s a scam
+1. look through files and stuff and delete anything from security tool (if you cant find any it doesn&#039;t matter really)
+2. restart your computer and try to run it in safe mode(F8) 
+3.if you got security tool pop-ups when you log back on open task manager (ctrl+shift+esc) or (ctrl+alt+delete) try holding them down and clicking &#039;end task&#039; like crazy
+4. if that worked pop-ups should be temporarily stopped and its safe to remove
+5. now you can start you stopzilla thingy, system restore, or go under control panel&#039;s add/remove thingy, find it &amp; remove it
+
+
+:P stayed up till 5am trying to figure it out
+
+this should temporarily hold it 2gether but i suggest getting an anti virus program in the near future
+if yur internet explorer doesn&#039;t work you should use google chrome instead for a while
+
+i also had this on a different computer and my mom made me leave it off for a few weeks(of course i snuck back on a million times a day since i learned it was a virus only last nite, but it eventually left, i dont think recommend that
+
+also try to avoid clicking on the popups that can make it worse, just pull up the task manager
+
+hope i helped, Viel Glück!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TCKRDkW3aa</UserId>
+            <UserNick>BabiiXanii</UserNick>
+            <Date>2010-03-31 10:45:37</Date>
+            <Timestamp>1270057537</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wsZtB0xhaa</UserId>
+            <UserNick>google</UserNick>
+            <Date>2010-03-31 15:19:04</Date>
+            <Timestamp>1270073944</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:51 PDT 2010 -->

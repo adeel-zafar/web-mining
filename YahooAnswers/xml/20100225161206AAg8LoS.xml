@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225161206AAg8LoS" type="Answered">
+    <Subject>What do I need to do to get online so I can use the internet at Starbucks?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-25 16:12:06</Date>
+    <Timestamp>1267143126</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225161206AAg8LoS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jk79bZeuaa</UserId>
+    <UserNick>Q&amp;A</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>A Starbucks card available from their stores which you then put some money onto (which you can spend on coffee later!) and register it online to get your user name and password.</ChosenAnswer>
+    <ChosenAnswererId>mGzMxAjYaa</ChosenAnswererId>
+    <ChosenAnswererNick>david.earl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267205180</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267312344</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>A Starbucks card available from their stores which you then put some money onto (which you can spend on coffee later!) and register it online to get your user name and password.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>mGzMxAjYaa</UserId>
+            <UserNick>david.earl</UserNick>
+            <Date>2010-02-26 09:26:20</Date>
+            <Timestamp>1267205180</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:11 PDT 2010 -->

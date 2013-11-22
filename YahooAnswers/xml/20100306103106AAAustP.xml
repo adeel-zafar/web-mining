@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306103106AAAustP" type="Answered">
+    <Subject>How do you get PTZ&#039;s in Lockerz.com?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-06 10:31:06</Date>
+    <Timestamp>1267900266</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306103106AAAustP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>efxpaw5faa</UserId>
+    <UserNick>(:l0llYP0P:)</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1IIKpPuoEAAABhoOcEJiRtc0waNMdxQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Click on the bottom left corner to get daily points, answer daily questions, and watch videos.</ChosenAnswer>
+    <ChosenAnswererId>NCDl2DqZaa</ChosenAnswererId>
+    <ChosenAnswererNick>I_Sushi_Love_Tofu</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267900397</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268501145</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Click on the bottom left corner to get daily points, answer daily questions, and watch videos.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NCDl2DqZaa</UserId>
+            <UserNick>I_Sushi_Love_Tofu</UserNick>
+            <Date>2010-03-06 10:33:17</Date>
+            <Timestamp>1267900397</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>its a scam!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UGIBuFChaa</UserId>
+            <UserNick>Steven</UserNick>
+            <Date>2010-03-06 10:36:30</Date>
+            <Timestamp>1267900590</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:48:09 PDT 2010 -->

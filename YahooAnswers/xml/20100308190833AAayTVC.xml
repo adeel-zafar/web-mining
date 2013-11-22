@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308190833AAayTVC" type="Answered">
+    <Subject>Easy formspring question.?</Subject>
+    <Content>When a person gets asked questions on formspring (one right after the other), can the person who owns the account see what time they were asked?
+</Content>
+    <Date>2010-03-08 19:08:33</Date>
+    <Timestamp>1268104113</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308190833AAayTVC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4zh1GJaraa</UserId>
+    <UserNick>Cinnamon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>not the time exactly.. but like how many days ago.. atleast thats what i see on mine right now.. i dont know if its different for anyone else though.</ChosenAnswer>
+    <ChosenAnswererId>Xt1PQZUmaa</ChosenAnswererId>
+    <ChosenAnswererNick>x66dme66x</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268104286</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268619924</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>not the time exactly.. but like how many days ago.. atleast thats what i see on mine right now.. i dont know if its different for anyone else though.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Xt1PQZUmaa</UserId>
+            <UserNick>x66dme66x</UserNick>
+            <Date>2010-03-08 19:11:26</Date>
+            <Timestamp>1268104286</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It tells you how many minutes/hours ago it was right under the questionn.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WUTsT6geaa</UserId>
+            <UserNick>Silly_Goose</UserNick>
+            <Date>2010-03-08 19:11:44</Date>
+            <Timestamp>1268104304</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:28:26 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223144245AAtS42Q" type="Answered">
+    <Subject>all in one messenger?</Subject>
+    <Content>Other than meebo, I&#039;m looking for a desktop messenger that handles most all services, aol, yahoo, msn...maybe even gtalk?
+</Content>
+    <Date>2010-02-23 14:42:45</Date>
+    <Timestamp>1266964965</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223144245AAtS42Q</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4BSf00OUaa</UserId>
+    <UserNick>maragret0101</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1vlKtsJ8sAAEC4wQzvazeCQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>pidgin is pretty good, digsby is also good. you can sync all your contacts with it so it can have the same theme, same contacts and it even does facebook chat. trillian is also a pretty good client too.</ChosenAnswer>
+    <ChosenAnswererId>JNQkO2Apaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sean</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266965087</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267299705</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>pidgin is pretty good, digsby is also good. you can sync all your contacts with it so it can have the same theme, same contacts and it even does facebook chat. trillian is also a pretty good client too.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JNQkO2Apaa</UserId>
+            <UserNick>Sean</UserNick>
+            <Date>2010-02-23 14:44:47</Date>
+            <Timestamp>1266965087</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:18:38 PDT 2010 -->

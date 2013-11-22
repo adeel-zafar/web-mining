@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320234045AAR3Rk7" type="Answered">
+    <Subject>Internet- Browser problems!?</Subject>
+    <Content>My internet service provider is Bell, and last week I switched from the 60GB per month to 40 GB per month, and apparently it was supposed to be faster with the 40 GB.
+I&#039;ve noticed it isnt faster, and actually slower, and to make matters worse, every time I have my P2P program running (utorrent) (it doesnt matter the download rate), every time I try to open a web browser it says, &#039;server not found: problem loading page&#039;
+Have any of you had the same problem..because if its just me, then it mught be my interenet or firewall setting or soemthing.
+Any suggestions?
+</Content>
+    <Date>2010-03-20 23:40:45</Date>
+    <Timestamp>1269153645</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320234045AAR3Rk7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>22479221292188a6607f3f3cc2c2b5a1aa</UserId>
+    <UserNick>sugar.spyce</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1FU2YtYbTAAED4SS6qCRVBuxKMQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>P2P clients like utottents choke the networks.
+Try to exit then surf on browser !</ChosenAnswer>
+    <ChosenAnswererId>2dOMhi6Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>honey</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269154196</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269672859</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>P2P clients like utottents choke the networks.
+Try to exit then surf on browser !</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2dOMhi6Gaa</UserId>
+            <UserNick>honey</UserNick>
+            <Date>2010-03-20 23:49:56</Date>
+            <Timestamp>1269154196</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>update browser</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1ctLmZUUaa</UserId>
+            <UserNick>Harris</UserNick>
+            <Date>2010-03-20 23:51:24</Date>
+            <Timestamp>1269154284</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:44 PDT 2010 -->

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228151955AAKQY7N" type="Answered">
+    <Subject>Weird russian virus on my computer?</Subject>
+    <Content>I had a virus and formatted my computer got it back and on internet explorer some really gay russian virus is there and its like everywhere on my computer when i go on interent some random pop ups come up with weird russian writing and websites under it and i can only close them the websites have really inappropriate names. Its not on firefox, only ie, i found it in my programs list and i tried to remove it but its in russian and the only option is OK and when i press it, nothing happens. I removed firefox cuz the two of them is making my computer slow so what shud i do, remove IE? isn&#039;t it bad to remove IE? shud i reformat it, wat exactly shud i do?!
+</Content>
+    <Date>2010-02-28 15:19:55</Date>
+    <Timestamp>1267399195</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228151955AAKQY7N</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>p3g0gKRaaa</UserId>
+    <UserNick>Lg Infinia</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267459262</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267460174</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>reformat. or download malware bytes. scan and fix.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HvgOUQJxaa</UserId>
+            <UserNick>Mackenzie</UserNick>
+            <Date>2010-02-28 15:22:23</Date>
+            <Timestamp>1267399343</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>download avira. run the scans. it will show the list of viruses. then delete them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cQYFfrKhaa</UserId>
+            <UserNick>Tommy</UserNick>
+            <Date>2010-02-28 15:22:54</Date>
+            <Timestamp>1267399374</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Use this program - http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+then download Firefox @ http://www.firefox.com - Firefox is more stable and more secure browser than Internet explorer</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html</Reference>
+            <Best></Best>
+            <UserId>AA11767225</UserId>
+            <UserNick>bert_beer</UserNick>
+            <Date>2010-02-28 15:28:14</Date>
+            <Timestamp>1267399694</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-01 08:01:02</Date>
+            <Timestamp>1267459262</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:36:39 PDT 2010 -->

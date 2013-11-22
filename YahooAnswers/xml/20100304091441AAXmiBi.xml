@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304091441AAXmiBi" type="Answered">
+    <Subject>Are there any free online voice chatrooms?</Subject>
+    <Content>Just like a text based chatroom, except you speak to others with a microphone?
+</Content>
+    <Date>2010-03-04 09:14:41</Date>
+    <Timestamp>1267722881</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304091441AAXmiBi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zkBJV2mdaa</UserId>
+    <UserNick>bradleycny</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yes theres msn</ChosenAnswer>
+    <ChosenAnswererId>h0OlQOAhaa</ChosenAnswererId>
+    <ChosenAnswererNick>yo!?!?!?!?!?!?!?</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267724322</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267818999</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No such site exists! Can you imagine what it would be like with hundreds of people all talking at the same time?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-04 09:17:08</Date>
+            <Timestamp>1267723028</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes theres msn</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>h0OlQOAhaa</UserId>
+            <UserNick>ur mum</UserNick>
+            <Date>2010-03-04 09:38:42</Date>
+            <Timestamp>1267724322</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:11:18 PDT 2010 -->

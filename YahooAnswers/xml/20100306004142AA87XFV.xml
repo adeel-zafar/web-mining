@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306004142AA87XFV" type="Answered">
+    <Subject>Set up proxy server so i can stream from hulu.com?</Subject>
+    <Content>I use google chrome. i want to stream from hulu.com but it says you must be in the U.S so i was wondering if a proxy would get around that
+</Content>
+    <Date>2010-03-06 00:41:42</Date>
+    <Timestamp>1267864902</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306004142AA87XFV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XxFfsZ8yaa</UserId>
+    <UserNick>Cody</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I tried hundreds of free proxies/vpn&#039;s over many months. All I got out of it was a lot of frustration as they got blocked in short order. Well I got one more thing and that was a virus from one of them that wrecked my HD. Even when they worked for a while they were slow and didn&#039;t support all the web site features. My friend in Riyadh told me about the Personal VPN http://www.surfbouncer.com. He&#039;s kind of an expert on unblocking sites because he lives in a place where pretty much everything fun is blocked.
+
+Anyway, I tried it a few months ago and it&#039;s been working all the time. I haven&#039;t been blocked since and the sites are 100% functional. With the Personal VPN everything works like it&#039;s supposed to. Once connected you don&#039;t even know it&#039;s there. It&#039;s not free but it works perfectly.</ChosenAnswer>
+    <ChosenAnswererId>d1yfbvdXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267952159</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268029930</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It should, although I have never tried. Proxies are usually slow as hell though, so don&#039;t expect it to work well.
+
+You obviously wouldn&#039;t set up your own proxy, you would just use a public one.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iFGEk412aa</UserId>
+            <UserNick>Johnny</UserNick>
+            <Date>2010-03-06 00:43:49</Date>
+            <Timestamp>1267865029</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You could set up a proxy server in the USA to access Hulu but that would be complicated and expensive. I would give that a miss just due to the cost. Take a look at Tor which is a system for routing your traffic around the world. It is often used for privacy but could be used, providing the exit node is in the United States, to access Hulu.
+
+http://www.torproject.org</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LM5GK4emaa</UserId>
+            <UserNick>Mylo</UserNick>
+            <Date>2010-03-06 00:59:54</Date>
+            <Timestamp>1267865994</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I tried hundreds of free proxies/vpn&#039;s over many months. All I got out of it was a lot of frustration as they got blocked in short order. Well I got one more thing and that was a virus from one of them that wrecked my HD. Even when they worked for a while they were slow and didn&#039;t support all the web site features. My friend in Riyadh told me about the Personal VPN http://www.surfbouncer.com. He&#039;s kind of an expert on unblocking sites because he lives in a place where pretty much everything fun is blocked.
+
+Anyway, I tried it a few months ago and it&#039;s been working all the time. I haven&#039;t been blocked since and the sites are 100% functional. With the Personal VPN everything works like it&#039;s supposed to. Once connected you don&#039;t even know it&#039;s there. It&#039;s not free but it works perfectly.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>d1yfbvdXaa</UserId>
+            <UserNick>Nan</UserNick>
+            <Date>2010-03-07 00:55:59</Date>
+            <Timestamp>1267952159</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here is a list of fresh fast proxy list I have just find today:
+
+http://hhss.co.cc/
+
+Remember to tell your friends about this proxies</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ufqQoro9aa</UserId>
+            <UserNick>amr</UserNick>
+            <Date>2010-03-07 07:42:18</Date>
+            <Timestamp>1267976538</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:51:00 PDT 2010 -->

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228145938AAju8CT" type="Answered">
+    <Subject>I got a virus and now I can&#039;t open any programs.. PLEASE HELP!?</Subject>
+    <Content>okay so i got a virus, but i have no idea where from. i just used system restore and the virus did not pop back up. i&#039;ve used this before and it usually takes care of it. but now i can&#039;t open anything. my virus protection (avg and malwarebytes) will not open. firefox won&#039;t open, aim won&#039;t open, even notepad won&#039;t open. &quot;open with&quot; pops and says &quot;chose the program you want to use to open this file&quot; also, i can&#039;t install anything to run, like virus protection. i tried installing some stuff from questions relating to similar virus issues here, but none worked. it downloads it, but when i try to run it, it still says &quot;chose a program&quot; and none work. i only have adobe 7 too, so i can&#039;t even use that, as some programs said i need 8, and again, can&#039;t install it. PLEASE HELP ME! :( i&#039;m cyber schooled and NEED to be able to use my computer. also, i&#039;m on ie8 now, but i prefer firefox, and i can&#039;t log into school on ie8, only runs with firefox. please help!!
+</Content>
+    <Date>2010-02-28 14:59:38</Date>
+    <Timestamp>1267397978</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228145938AAju8CT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7OIPmJm4aa</UserId>
+    <UserNick>Wallmart</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267459344</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267459566</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Have had this happen before to me. The virus simply messes up your file association. Please only use this site if you have win xp. It fixes file associations which sounds like it is an issue for you here. http://www.dougknox.com/xp/file_assoc.htm
+
+This link is for vista
+http://www.mydigitallife.info/2008/06/22/reset-and-fix-broken-windows-vista-file-ext-and-type-associations-include-exe-com-sys-zip-lnk-folder-drive/
+
+Both of these sites give you .reg files that restore your .exe file association so you can sucessfully open the programs again.
+
+Just make sure the registry association fix you run is compatible with your operating system. If you are not comfortable with doing this then grab your operating system disc and do a repair install.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5e5KMIy5aa</UserId>
+            <UserNick>Garet H</UserNick>
+            <Date>2010-02-28 15:04:10</Date>
+            <Timestamp>1267398250</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-01 08:02:24</Date>
+            <Timestamp>1267459344</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:36:43 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317084350AAO56rO" type="Answered">
+    <Subject>Why does Verizon DSL not offer promotional discounts to current customers?</Subject>
+    <Content>I&#039;m stuck paying 29.99 for 1Mbps and they have promotions like 14.99 for life for new customers. If i ask to get in on the deal or any others, they never allow it..Is there some trick I am missing?
+</Content>
+    <Date>2010-03-17 08:43:50</Date>
+    <Timestamp>1268840630</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317084350AAO56rO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d75cc2451fa4141485d38197df5a3f3eaa</UserId>
+    <UserNick>lfcovelli</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>that is how it is with verizon? no offense intended.to them they may not think of you as a new member anymore?</ChosenAnswer>
+    <ChosenAnswererId>GZXZl131aa</ChosenAnswererId>
+    <ChosenAnswererNick>mommy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268840898</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269019649</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>that is how it is with verizon? no offense intended.to them they may not think of you as a new member anymore?</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>GZXZl131aa</UserId>
+            <UserNick>mommy</UserNick>
+            <Date>2010-03-17 08:48:18</Date>
+            <Timestamp>1268840898</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>These promotions are for attracting new customers, hence not having Verizon DSL is a requirement.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6zxmRNiSaa</UserId>
+            <UserNick>Zee</UserNick>
+            <Date>2010-03-17 08:49:30</Date>
+            <Timestamp>1268840970</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:53 PDT 2010 -->

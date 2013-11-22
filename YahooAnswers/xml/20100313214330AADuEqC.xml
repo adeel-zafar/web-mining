@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313214330AADuEqC" type="Answered">
+    <Subject>can i use my verizon netbook to get internet on my laptop?</Subject>
+    <Content>i have a netbook from verizon and i want to know if there is a way that share the internet with my laptop
+</Content>
+    <Date>2010-03-13 21:43:30</Date>
+    <Timestamp>1268545410</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313214330AADuEqC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9450a7590560d60e3efddcdd18a8ed53aa</UserId>
+    <UserNick>the_fox2005</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1J1WAMUKQAAADQYE_MIuC0TsAC3V6ZQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Just share the computers with Bluetooth or a usb cord. I would just open your exsisting internet account on your laptop. Unless you dont have a wireless card on your laptop.</ChosenAnswer>
+    <ChosenAnswererId>d34sX3deaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mike</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268545494</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269061491</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just share the computers with Bluetooth or a usb cord. I would just open your exsisting internet account on your laptop. Unless you dont have a wireless card on your laptop.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>d34sX3deaa</UserId>
+            <UserNick>Mike</UserNick>
+            <Date>2010-03-13 21:44:54</Date>
+            <Timestamp>1268545494</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes there is, i cant remember where to find the software off hand, but it uses you netbooks verizon net, and turns on the wifi so other computers that have wifi can use it for net access</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NABddidLaa</UserId>
+            <UserNick>Jason</UserNick>
+            <Date>2010-03-13 21:57:02</Date>
+            <Timestamp>1268546222</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:27 PDT 2010 -->

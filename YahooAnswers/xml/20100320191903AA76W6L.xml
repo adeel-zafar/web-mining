@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320191903AA76W6L" type="Answered">
+    <Subject>Ustream Instantly Crashes my browser?</Subject>
+    <Content>So, I&#039;ve been trying to broadcast some game-play on Ustream for a while now, but every time I try, with any browser, Ustreams broadcaster instantly crashes it. I&#039;ve tried Google Chrome, Firefox, I think IE, but nothing&#039;s worked. Does anyone know why it does this, and if there&#039;s a way to fix it?
+
+Thanks.
+</Content>
+    <Date>2010-03-20 19:19:03</Date>
+    <Timestamp>1269137943</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320191903AA76W6L</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ULnVBoZbaa</UserId>
+    <UserNick>Kusiina</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Fix your browser And in my view, Chrome is the best available. Read how to fix chrome in this article.</ChosenAnswer>
+    <ChosenAnswererId>fakBT9YXaa</ChosenAnswererId>
+    <ChosenAnswererNick>faust 7</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269356782</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269657317</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Computers crash in most cases for registry problems. When you first buy your computer and bring it home it runs at optimum speed, but over time the registry becomes overloaded with unnecessary files and programs. Some of these files become corrupt and problems develop such as the computer crashing.You can fix these current computer crashes by running a  registry cleaners.I should like to commend Registry Easy http://computer-e-book-money.com            to you ! You can try ! Good luck!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LacOBlO8aa</UserId>
+            <UserNick>Qwdff</UserNick>
+            <Date>2010-03-21 07:43:41</Date>
+            <Timestamp>1269182621</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Fix your browser And in my view, Chrome is the best available. Read how to fix chrome in this article.</Content>
+            <Reference>http://ezinearticles.com/?Chrome-Crash---Personal-Experience-to-Fix-Google-Chrome-Crash-in-Minutes&amp;id=3747251</Reference>
+            <Best>5</Best>
+            <UserId>fakBT9YXaa</UserId>
+            <UserNick>faust 7</UserNick>
+            <Date>2010-03-23 08:06:22</Date>
+            <Timestamp>1269356782</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:35 PDT 2010 -->

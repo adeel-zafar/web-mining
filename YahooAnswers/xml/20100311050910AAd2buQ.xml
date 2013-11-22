@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311050910AAd2buQ" type="Answered">
+    <Subject>Does an eBay gift card automatically pay the seller over ebay?</Subject>
+    <Content>I have a $30 order and they have gift cards for $30 bucks, when I hit pay now, do I hit redeem code, I have paypal, like it says, will it pay the seller automatically?
+</Content>
+    <Date>2010-03-11 05:09:10</Date>
+    <Timestamp>1268312950</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311050910AAd2buQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JN3RHIDAaa</UserId>
+    <UserNick>Q Fields</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes it will pay them automatically. There may be a option to use the $30 credit , and just click on that and it pay now.</ChosenAnswer>
+    <ChosenAnswererId>GY7n0nl8aa</ChosenAnswererId>
+    <ChosenAnswererNick>ouch</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268313873</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268412255</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes it will pay them automatically. There may be a option to use the $30 credit , and just click on that and it pay now.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>GY7n0nl8aa</UserId>
+            <UserNick>ouch</UserNick>
+            <Date>2010-03-11 05:24:33</Date>
+            <Timestamp>1268313873</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You uimput code in paypal before clicking confirm payment buit after clicking pay now.Then cliock update and total will update.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IVCw8pNQaa</UserId>
+            <UserNick>Matthew</UserNick>
+            <Date>2010-03-11 05:28:05</Date>
+            <Timestamp>1268314085</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:14:07 PDT 2010 -->

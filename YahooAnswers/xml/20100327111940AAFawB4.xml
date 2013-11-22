@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327111940AAFawB4" type="Answered">
+    <Subject>does firefox stay this fast?</Subject>
+    <Content>i just downloaded firefox for the mac and it&#039;s immeasurably faster than safari, but does it stay this way? how long have you had it (for the mac), and his it continued to be as fast?
+but if i delete my cookies and history regularly, which i do, will it remain as fast?
+</Content>
+    <Date>2010-03-27 11:19:40</Date>
+    <Timestamp>1269713980</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327111940AAFawB4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5o3JMQoeaa</UserId>
+    <UserNick>Victoria</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It should stay fast unless you add a bunch of addons to it.  You might want to also set Firefox to clear your temporary internet files and cookies after browsing sessions ( http://support.mozilla.com/en-US/kb/clearing+private+data ).  Or use a program like OnyX to clean them up: http://www.versiontracker.com/dyn/moreinfo/macosx/20070</ChosenAnswer>
+    <ChosenAnswererId>7okWXCHoaa</ChosenAnswererId>
+    <ChosenAnswererNick>JS-Computing.com</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269714224</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269892474</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It will go slower, when you get more Cookies, and History.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gaNe18Wnaa</UserId>
+            <UserNick>Superharas</UserNick>
+            <Date>2010-03-27 11:20:43</Date>
+            <Timestamp>1269714043</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It should stay fast unless you add a bunch of addons to it.  You might want to also set Firefox to clear your temporary internet files and cookies after browsing sessions ( http://support.mozilla.com/en-US/kb/clearing+private+data ).  Or use a program like OnyX to clean them up: http://www.versiontracker.com/dyn/moreinfo/macosx/20070</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7okWXCHoaa</UserId>
+            <UserNick>JS-Computing.com</UserNick>
+            <Date>2010-03-27 11:23:44</Date>
+            <Timestamp>1269714224</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:22:45 PDT 2010 -->

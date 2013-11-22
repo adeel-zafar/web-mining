@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308132953AAaEDDN" type="Answered">
+    <Subject>Amazon Prime Trial? Can I sign up and not be charged?</Subject>
+    <Content>I want to sign up for the Amazon Prime Free Trial, but only for the trial, and not for the $79 annual fee. Will I have to pay if i use the offer during the trial, but choose to not upgrade the trial afterwards?
+</Content>
+    <Date>2010-03-08 13:29:53</Date>
+    <Timestamp>1268083793</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308132953AAaEDDN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FrbkrPMwaa</UserId>
+    <UserNick>Relientike</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1-k5jZwKcAAEC6MJu3dCGDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It will charge you at the end of the free trial. Just make sure you cancel it before it ends and you wont be charged.</ChosenAnswer>
+    <ChosenAnswererId>bdzgFiEqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nothgrin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268084076</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268257308</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It will charge you at the end of the free trial. Just make sure you cancel it before it ends and you wont be charged.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bdzgFiEqaa</UserId>
+            <UserNick>Nothgrin</UserNick>
+            <Date>2010-03-08 13:34:36</Date>
+            <Timestamp>1268084076</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:30:46 PDT 2010 -->

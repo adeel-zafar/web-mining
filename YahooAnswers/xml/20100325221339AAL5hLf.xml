@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325221339AAL5hLf" type="Answered">
+    <Subject>I&#039;m trying to do a complete site-rip of sites like icanhascheezburger...?</Subject>
+    <Content>I found a tool called downthemall which will download the images from the page, the problem is that there are 661 pages, is there any way I can add all pages simultaneously or do I have to go through manually...
+
+thanks!
+I meant rip all images, not in the strictest sense a site-rip, but more of just ripping all images from the site. maybe a spider program that will go through every page on the site and downloading all jpg images.
+I&#039;ve downloaded 10 page&#039;s worth already and it&#039;s 3.3 MB. so, for 661 pages it&#039;ll probably be about 218 MB, so not much at all mr. negative
+</Content>
+    <Date>2010-03-25 22:13:39</Date>
+    <Timestamp>1269580419</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325221339AAL5hLf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10278264</UserId>
+    <UserNick>atomic</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/14a-CsbmOAAEBI-E_kIrskcrqKQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>gtfo do you know how much bandwidth of theirs that will eat up?</ChosenAnswer>
+    <ChosenAnswererId>qNJMyZlKaa</ChosenAnswererId>
+    <ChosenAnswererNick>Volbia</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269580530</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270100156</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>gtfo do you know how much bandwidth of theirs that will eat up?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qNJMyZlKaa</UserId>
+            <UserNick>Volbia</UserNick>
+            <Date>2010-03-25 22:15:30</Date>
+            <Timestamp>1269580530</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:36 PDT 2010 -->

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313151950AAsN5UD" type="Answered">
+    <Subject>Toolbar help on internet explorer?</Subject>
+    <Content>I don&#039;t know how, but the address bar on the toolbar when I open up windows has dissappeared. Its been like this for a while, and when I right click and re-add the address bar, it only comes up as a grey letters &#039;Address&#039; on the right side of the toolbar. Also, idk if this is linked to it, but if someone gives me a link to a website I can&#039;t access it. How can i fix this?
+</Content>
+    <Date>2010-03-13 15:19:50</Date>
+    <Timestamp>1268522390</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313151950AAsN5UD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gXJIHqjgaa</UserId>
+    <UserNick>xLolzerpiex</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You must be using the very old Internet Explorer 6 ?
+
+First you must unlock the Toolbars then you must right-click, grab and drag the dotted &quot;Move Bar&quot; that is to the left of &#039;Address&#039;. Then extend it as desired.
+
+It is tricky and takes some practice.
+
+The full procedure is here...just click it:
+ http://www.microsoft.com/windows/ie/ie6/using/howto/customizing/custombrowser.mspx
+
+When done, just be sure and &quot;Lock the Toolbars&quot; again.</ChosenAnswer>
+    <ChosenAnswererId>2ce047bPaa</ChosenAnswererId>
+    <ChosenAnswererNick>TempoOne</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268522843</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268541876</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You must be using the very old Internet Explorer 6 ?
+
+First you must unlock the Toolbars then you must right-click, grab and drag the dotted &quot;Move Bar&quot; that is to the left of &#039;Address&#039;. Then extend it as desired.
+
+It is tricky and takes some practice.
+
+The full procedure is here...just click it:
+ http://www.microsoft.com/windows/ie/ie6/using/howto/customizing/custombrowser.mspx
+
+When done, just be sure and &quot;Lock the Toolbars&quot; again.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2ce047bPaa</UserId>
+            <UserNick>TempoOne</UserNick>
+            <Date>2010-03-13 15:27:23</Date>
+            <Timestamp>1268522843</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:37 PDT 2010 -->

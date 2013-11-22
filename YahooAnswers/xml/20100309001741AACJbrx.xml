@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309001741AACJbrx" type="Answered">
+    <Subject>Cannot connect to certain websites?</Subject>
+    <Content>I&#039;m trying to help my aunt fix her wireless internet problem, but didn&#039;t really have any luck. It&#039;s not a virus, anti-virus, blocked sites, no proxy, and I have it on open dns. It can connect to certain websites and not others. I can also go to cnet.com, but not to download.cnet.com (As an example.)It also cannot go to the microsoft website. She said the problem started when her Zune froze and stopped working (Couldn&#039;t even reset) and now she cant dl SP3 even from the updater. Says she is missing something. I&#039;ve tried to ping the websites in the cmd prompt but it either times out or says there is an error. Her internet connection says Excellent and 54mbps, but the icon will dim which confuses me. She has a Dell Inspiron and her wireless modem is from Qwest.
+</Content>
+    <Date>2010-03-09 00:17:41</Date>
+    <Timestamp>1268122661</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309001741AACJbrx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bupowtRUaa</UserId>
+    <UserNick>mthwkrft</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It sounds like it&#039;s a virus, if it is blocking security sites and corrupting security downloads. Try installing and full scanning with malwarebytes (it&#039;s free). http://www.malwarebytes.org/</ChosenAnswer>
+    <ChosenAnswererId>gtVFyfgAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Casper</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268122976</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268674360</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It sounds like it&#039;s a virus, if it is blocking security sites and corrupting security downloads. Try installing and full scanning with malwarebytes (it&#039;s free). http://www.malwarebytes.org/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gtVFyfgAaa</UserId>
+            <UserNick>Casper</UserNick>
+            <Date>2010-03-09 00:22:56</Date>
+            <Timestamp>1268122976</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it could be a virus or it could also be a site restriction by your isp try using proxy on those websites you cant connect if you could connect using proxy then its your isp if not then its the virus
+try http://bypassall.blospot.com for a list of proxy</Content>
+            <Reference>http://bypassall.blogspot.com
+http://digiknow101.blogspot.com
+http://myfaveanime.com</Reference>
+            <Best></Best>
+            <UserId>BjAEIqBuaa</UserId>
+            <UserNick>Traced</UserNick>
+            <Date>2010-03-09 00:53:42</Date>
+            <Timestamp>1268124822</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try to stop DNS client service:
+Control Panel&gt; Adminstrative Tools&gt; Services&gt; DNS client&gt;
+General: Startup Type -&gt; Disable.
+Service Status -&gt; Stop.
+Then click OK.</Content>
+            <Reference>I wasn&#039;t able to open Microsoft webistes, and that how i made it to open.
+Good luck!</Reference>
+            <Best></Best>
+            <UserId>hB2gvbkyaa</UserId>
+            <UserNick>Monie</UserNick>
+            <Date>2010-03-10 03:41:16</Date>
+            <Timestamp>1268221276</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:27:29 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323141808AADK9Nh" type="Answered">
+    <Subject>What is your favorite webcomic?</Subject>
+    <Content>why?
+</Content>
+    <Date>2010-03-23 14:18:08</Date>
+    <Timestamp>1269379088</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323141808AADK9Nh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UHrHPxZNaa</UserId>
+    <UserNick>dont call me wave</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Vkz5wg80AAED6wI51sfw2Wf_LA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Air Force Blues.  I like it because I&#039;m in the Air Force and there&#039;s a lot of inside jokes.  Also, it has a very well developed plot / storyline, and it has a long history.  Since it&#039;s online I can read it for free and look up archived strips anywhere in the world.</ChosenAnswer>
+    <ChosenAnswererId>AA11848342</ChosenAnswererId>
+    <ChosenAnswererNick>spacenomyous</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269566186</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269572521</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Air Force Blues.  I like it because I&#039;m in the Air Force and there&#039;s a lot of inside jokes.  Also, it has a very well developed plot / storyline, and it has a long history.  Since it&#039;s online I can read it for free and look up archived strips anywhere in the world.</Content>
+            <Reference>http://www.afblues.com/</Reference>
+            <Best>1</Best>
+            <UserId>AA11848342</UserId>
+            <UserNick>spacenomyous</UserNick>
+            <Date>2010-03-25 18:16:26</Date>
+            <Timestamp>1269566186</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:18:01 PDT 2010 -->

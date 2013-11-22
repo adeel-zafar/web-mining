@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319183608AALnL2F" type="Answered">
+    <Subject>Do I need a full install of Firefox?</Subject>
+    <Content>I can&#039;t &#039;see&#039; some important content of pages - many colors and items just aren&#039;t there; perhaps I did something in preferences to screw it up. 
+ If I do a full install will it save my bookmarks? Anything else I should know?
+Thank you!
+Should I save anything? Delete all pertaining Firefox files before reinstalling?
+</Content>
+    <Date>2010-03-19 18:36:08</Date>
+    <Timestamp>1269048968</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319183608AALnL2F</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA12057390</UserId>
+    <UserNick>freesumpin</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a285762i131bzul5sp1/C9UuMQY3aaMWOvELqHD_GkgQ/104/tn48.jpg?ciAAToMBhY4vO0Wl</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Dear Friend,
+
+[A] Backup your Bookmarks:
+
+To backup your current Mozilla FireFox Bookmarks, do the following:
+
+1. Open Mozilla FireFox.
+
+2. Click Bookmarks -&gt; Organise Bookmarks.
+
+3. A dialog named &quot;Library&quot; will open. Expand the available menus, and select the bookmarks you wish to backup. [To select multiple bookmarks at a time, keep the Shift key pressed; and select the bookmarks.]
+
+4. In the toolbar drop-down menu, &quot;Import and Backup&quot;, click and select &quot;Backup&quot; option.
+
+5. Type a name, select a location to save the bookmarks for backing up in order to restore after a fresh installation of FireFox.
+
+6. Click the Save button there.
+
+[B] Restore your Bookmarks:
+
+1. Open Mozilla FireFox.
+
+2. Click Bookmarks -&gt; Organise Bookmarks.
+
+3. A dialog named &quot;Library&quot; will open.
+
+4. In the toolbar drop-down menu, &quot;Import and Backup&quot;, click and select Restore -&gt; Chose File option.
+
+5. Select the backup name, location, and click the Open button there.
+
+* * * * * *
+For more information, mail at: vikas.jnpt@yahoo.in
+* * * * * *</ChosenAnswer>
+    <ChosenAnswererId>sp1QE9Pjaa</ChosenAnswererId>
+    <ChosenAnswererNick>Vikas</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269049927</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269224696</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Dear Friend,
+
+[A] Backup your Bookmarks:
+
+To backup your current Mozilla FireFox Bookmarks, do the following:
+
+1. Open Mozilla FireFox.
+
+2. Click Bookmarks -&gt; Organise Bookmarks.
+
+3. A dialog named &quot;Library&quot; will open. Expand the available menus, and select the bookmarks you wish to backup. [To select multiple bookmarks at a time, keep the Shift key pressed; and select the bookmarks.]
+
+4. In the toolbar drop-down menu, &quot;Import and Backup&quot;, click and select &quot;Backup&quot; option.
+
+5. Type a name, select a location to save the bookmarks for backing up in order to restore after a fresh installation of FireFox.
+
+6. Click the Save button there.
+
+[B] Restore your Bookmarks:
+
+1. Open Mozilla FireFox.
+
+2. Click Bookmarks -&gt; Organise Bookmarks.
+
+3. A dialog named &quot;Library&quot; will open.
+
+4. In the toolbar drop-down menu, &quot;Import and Backup&quot;, click and select Restore -&gt; Chose File option.
+
+5. Select the backup name, location, and click the Open button there.
+
+* * * * * *
+For more information, mail at: vikas.jnpt@yahoo.in
+* * * * * *</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>sp1QE9Pjaa</UserId>
+            <UserNick>Vikas</UserNick>
+            <Date>2010-03-19 18:52:07</Date>
+            <Timestamp>1269049927</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have to save your bookmarks; 
+
+1st&gt; export bookmarks 
+2nd&gt; e-mail bookmark file as a file attachment to yourself 
+3&gt; re-install firefox 
+4&gt; download bookmark file 
+5&gt; inport bookmark file 
+
+pg</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>a5d4060d41b8ba3a058e5b8de42068e2aa</UserId>
+            <UserNick>purdygoode</UserNick>
+            <Date>2010-03-19 18:54:06</Date>
+            <Timestamp>1269050046</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:33:51 PDT 2010 -->

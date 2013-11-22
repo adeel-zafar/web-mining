@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226175320AANnw3k" type="Answered">
+    <Subject>Can someone please give me a list of all the computer faces?</Subject>
+    <Content>like these - :) =D you get the point
+</Content>
+    <Date>2010-02-26 17:53:20</Date>
+    <Timestamp>1267235600</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226175320AANnw3k</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mK4bvStCaa</UserId>
+    <UserNick>Donut</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b527074i22e4zul8re4/.jWT9aA1dKgUT_Qw8_gEQxFieTFC_g--/1/tn48.jpg?ciAAToMB0FRWQyke</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.sharpened.net/glossary/emoticons.php</ChosenAnswer>
+    <ChosenAnswererId>DBqLQdVRaa</ChosenAnswererId>
+    <ChosenAnswererNick>EvilShadow 1010011010</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267235925</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267755207</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.sharpened.net/glossary/emoticons.php</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DBqLQdVRaa</UserId>
+            <UserNick>EvilShadow</UserNick>
+            <Date>2010-02-26 17:58:45</Date>
+            <Timestamp>1267235925</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:47:58 PDT 2010 -->

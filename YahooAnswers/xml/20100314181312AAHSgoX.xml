@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314181312AAHSgoX" type="Answered">
+    <Subject>On ebay, is there a fee to revise your listing?</Subject>
+    <Content>Like change the price?
+</Content>
+    <Date>2010-03-14 18:13:12</Date>
+    <Timestamp>1268615592</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314181312AAHSgoX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>j4WrgtT1aa</UserId>
+    <UserNick>Blunga</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No unless you are adding more pics or adding any additional features to your listing like border/highlight/a 2nd category but if you are just revising the descrption/title/start price/postage there are no more fees payable.</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268639680</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268709889</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Shouldn&#039;t be - check this link out - 
+Changing your listing
+http://pages.ebay.com/help/sell/edit_listing.html
+
+Good luck!</Content>
+            <Reference>eBay buyer/seller for years</Reference>
+            <Best></Best>
+            <UserId>AA11026896</UserId>
+            <UserNick>enemy62301</UserNick>
+            <Date>2010-03-14 23:43:52</Date>
+            <Timestamp>1268635432</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No unless you are adding more pics or adding any additional features to your listing like border/highlight/a 2nd category but if you are just revising the descrption/title/start price/postage there are no more fees payable.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-15 00:54:40</Date>
+            <Timestamp>1268639680</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:16 PDT 2010 -->

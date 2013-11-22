@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221162940AAQt5pW" type="Answered">
+    <Subject>I often use Firefox web browser, from time to time this browser gets extremely slow, what I can do to fix it?</Subject>
+    <Content>I use Firefox web browser and suddenly this Internet web browser gets extremely slow and finally starts to get back to normal speed when I get a message warning that a script on this web page is causing Firefox to run slower and gives me the option to stop running that script, is there an option or settings that would beforehand stop Firefox to run scripts that might slow the browser or do I have other options / settings to keep Firefox running normally at all times?
+</Content>
+    <Date>2010-02-21 16:29:40</Date>
+    <Timestamp>1266798580</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221162940AAQt5pW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4TNMcL1Naa</UserId>
+    <UserNick>Frank R</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>IE hospital tool can fix your computer IE Browser
+&lt;--http://registry-computer-cleaner.com/IEHospital/</ChosenAnswer>
+    <ChosenAnswererId>yTqJpCmOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Feetwarm</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266855593</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267663457</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try google chrome.  Works way faster than firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BUFR29WDaa</UserId>
+            <UserNick>PaulR</UserNick>
+            <Date>2010-02-21 16:31:39</Date>
+            <Timestamp>1266798699</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Did you try deleting your temporary internet files, cookies and history?  Those typically make it run slower, although all of your passwords will be deleted and you&#039;ll have to log in again.  I am personally using Google Chrome, and I like it much better than Firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ItllEMhoaa</UserId>
+            <UserNick>Meggerz</UserNick>
+            <Date>2010-02-21 16:31:51</Date>
+            <Timestamp>1266798711</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Upgrade your computer&#039;s memory.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Ld5eKuVOaa</UserId>
+            <UserNick>zoliky</UserNick>
+            <Date>2010-02-21 16:31:54</Date>
+            <Timestamp>1266798714</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I finally got tired of uninstall-reinstalling Firefox to speed it up a little again and finally ditched it for SRWare Iron and am a happy surfer again...</Content>
+            <Reference>http://www.srware.net/en/software_srware_iron.php</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-21 16:42:33</Date>
+            <Timestamp>1266799353</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>IE hospital tool can fix your computer IE Browser
+&lt;--http://registry-computer-cleaner.com/IEHospital/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>yTqJpCmOaa</UserId>
+            <UserNick>Feetwarm</UserNick>
+            <Date>2010-02-22 08:19:53</Date>
+            <Timestamp>1266855593</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I can suggest you to try the following program:
+
+&quot;CCleaner &quot; : download it free from &quot;http://download.cnet.com/ccleaner/&quot;
+
+After installing the program, run it and click on &quot;Analyze&quot; and then &quot;Run Cleaner&quot;. The default options are usually good, but you can change the default settings by clicking on every option you want.
+
+This program cleans your computer from any type of temporary and privacy data that are saved on your computer, including temporary and unnecessary files .
+
+Note that temporary files can reduce your browser speed.
+
+Good Luck</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JLr3UcEHaa</UserId>
+            <UserNick>MS</UserNick>
+            <Date>2010-02-23 01:09:16</Date>
+            <Timestamp>1266916156</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Fix web browser:
+http://registry-checking.com/WebBrowser</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>werAQUIGaa</UserId>
+            <UserNick>LEGODuploStore</UserNick>
+            <Date>2010-02-23 04:11:53</Date>
+            <Timestamp>1266927113</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:32:57 PDT 2010 -->

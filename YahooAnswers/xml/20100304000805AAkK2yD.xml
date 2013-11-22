@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304000805AAkK2yD" type="Answered">
+    <Subject>How to add another language on my blog ?</Subject>
+    <Content>I have a blog in English hosted by blogspot.com. To increase my visitors, i was looking at the possibility have dual language for my blog. I would like to post my blog in English and then another translated version ( i&#039;ll translate myself, not using any online translators ).
+
+Is it possible for me to post the main post in English and a link to the post ( of another language ). I want my visitors to visit my main page first before able to go to the translated page and yet i do not want the translated page appear on the main page but just a link for my visitors to click. Is this possible, if yes, kindly tell me how to do it. thanks a zillion
+</Content>
+    <Date>2010-03-04 00:08:05</Date>
+    <Timestamp>1267690085</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304000805AAkK2yD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KkA7g6Lcaa</UserId>
+    <UserNick>JQ</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can use the babylon for this purpose. It&#039;s the best translator/dictionary in my opinion:
+http://babylon.gnds.info/?l=us</ChosenAnswer>
+    <ChosenAnswererId>ZxYmw2ANaa</ChosenAnswererId>
+    <ChosenAnswererNick>darko</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267909105</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268209430</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can use the babylon for this purpose. It&#039;s the best translator/dictionary in my opinion:
+http://babylon.gnds.info/?l=us</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ZxYmw2ANaa</UserId>
+            <UserNick>darko</UserNick>
+            <Date>2010-03-06 12:58:25</Date>
+            <Timestamp>1267909105</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:12:53 PDT 2010 -->

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319042927AAWqok6" type="Answered">
+    <Subject>Rounded corners for resizable divs?</Subject>
+    <Content>I am new with HTML and CSS so I am looking for something that is fairly easy for a beginner. I need to have rounded corners for my div content boxes. It&#039;s important that I am able to customize both the height and width of the div boxes.
+</Content>
+    <Date>2010-03-19 04:29:27</Date>
+    <Timestamp>1268998167</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319042927AAWqok6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cORXqiRPaa</UserId>
+    <UserNick>laura j</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I did this for one of my websites. It&#039;s easy.
+
+Create a circle (10px wide by 10px high) in your favourite graphic program (I use GIMP). The background should be the same colour as the background that your div sits on top of, the circle should be the colour of your div&#039;s background. Save your image as corners.gif or something similar.
+
+In your html, you&#039;ll need code something like this:
+
+&lt;div class=&quot;rounded&quot;&gt;
+   &lt;div class=&quot;top_left&quot;&gt;&lt;/div&gt;
+   &lt;div class=&quot;top_right&quot;&gt;&lt;/div&gt;
+   &lt;div class=&quot;bottom_left&quot;&gt;&lt;/div&gt;
+   &lt;div class=&quot;bottom_right&quot;&gt;&lt;/div&gt;
+   Div content goes here...
+&lt;div&gt;
+
+Throw some CSS like this into your CSS file:
+
+.rounded
+{
+position: relative;
+background-color: #ddf4d7;
+color: #555555;
+padding: 20px;
+}
+.rounded .top_left
+{
+position: absolute;
+top: 0px;
+left: 0px;
+background-image: url(&#039;../images/corners.gif&#039;);
+background-position: 0px 0px;
+width: 5px;
+height: 5px;
+}
+.rounded .top_right
+{
+position: absolute;
+background-image: url(&#039;../images/corners.gif&#039;);
+background-position: -6px 0px;
+width: 5px;
+height: 5px;
+top: 0px;
+right: 0px;
+}
+.rounded .bottom_left
+{
+position: absolute;
+bottom: 0px;
+left: 0px;
+background-image: url(&#039;../images/corners.gif&#039;);
+background-position: 0px -6px;
+width: 5px;
+height: 5px;
+}
+.rounded .bottom_right
+{
+position: absolute;
+background-image: url(&#039;../images/corners.gif&#039;);
+background-position: -6px -6px;
+width: 5px;
+height: 5px;
+bottom: 0px;
+right: 0px;
+}
+
+
+The CSS uses a concept called css sprites which basically you means that you throw all of your little images into one image file, and use CSS to position the image as a background, and only show the portion of the image that you want. This method is great because it also means you use less image files, which means your page loads much faster.
+
+Another way to do rounded corners is using the JQuery javascript library. I believe you need the JQuery UI plugin, but you can round the corners of the div just by adding a class to it. JQuery detects the class and makes all elements with it have round corners. The only problem with this method is that I don&#039;t believe it works in Internet Explorer.
+
+In my websites, I usually use a combination. In areas where it&#039;s not essential to have rounded corners, I use the JQuery method. When I absolutely have to have rounded corners, I use the css sprite method.</ChosenAnswer>
+    <ChosenAnswererId>8963ed45af3c4bbe909ce1869e2957ddaa</ChosenAnswererId>
+    <ChosenAnswererNick>Richard D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268999799</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269517481</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I did this for one of my websites. It&#039;s easy.
+
+Create a circle (10px wide by 10px high) in your favourite graphic program (I use GIMP). The background should be the same colour as the background that your div sits on top of, the circle should be the colour of your div&#039;s background. Save your image as corners.gif or something similar.
+
+In your html, you&#039;ll need code something like this:
+
+&lt;div class=&quot;rounded&quot;&gt;
+   &lt;div class=&quot;top_left&quot;&gt;&lt;/div&gt;
+   &lt;div class=&quot;top_right&quot;&gt;&lt;/div&gt;
+   &lt;div class=&quot;bottom_left&quot;&gt;&lt;/div&gt;
+   &lt;div class=&quot;bottom_right&quot;&gt;&lt;/div&gt;
+   Div content goes here...
+&lt;div&gt;
+
+Throw some CSS like this into your CSS file:
+
+.rounded
+{
+position: relative;
+background-color: #ddf4d7;
+color: #555555;
+padding: 20px;
+}
+.rounded .top_left
+{
+position: absolute;
+top: 0px;
+left: 0px;
+background-image: url(&#039;../images/corners.gif&#039;);
+background-position: 0px 0px;
+width: 5px;
+height: 5px;
+}
+.rounded .top_right
+{
+position: absolute;
+background-image: url(&#039;../images/corners.gif&#039;);
+background-position: -6px 0px;
+width: 5px;
+height: 5px;
+top: 0px;
+right: 0px;
+}
+.rounded .bottom_left
+{
+position: absolute;
+bottom: 0px;
+left: 0px;
+background-image: url(&#039;../images/corners.gif&#039;);
+background-position: 0px -6px;
+width: 5px;
+height: 5px;
+}
+.rounded .bottom_right
+{
+position: absolute;
+background-image: url(&#039;../images/corners.gif&#039;);
+background-position: -6px -6px;
+width: 5px;
+height: 5px;
+bottom: 0px;
+right: 0px;
+}
+
+
+The CSS uses a concept called css sprites which basically you means that you throw all of your little images into one image file, and use CSS to position the image as a background, and only show the portion of the image that you want. This method is great because it also means you use less image files, which means your page loads much faster.
+
+Another way to do rounded corners is using the JQuery javascript library. I believe you need the JQuery UI plugin, but you can round the corners of the div just by adding a class to it. JQuery detects the class and makes all elements with it have round corners. The only problem with this method is that I don&#039;t believe it works in Internet Explorer.
+
+In my websites, I usually use a combination. In areas where it&#039;s not essential to have rounded corners, I use the JQuery method. When I absolutely have to have rounded corners, I use the css sprite method.</Content>
+            <Reference>http://www.music-whiz.com
+http://www.music-chart.info
+http://www.jquery.com
+http://www.jqueryui.com</Reference>
+            <Best>5</Best>
+            <UserId>8963ed45af3c4bbe909ce1869e2957ddaa</UserId>
+            <UserNick>Richard D</UserNick>
+            <Date>2010-03-19 04:56:39</Date>
+            <Timestamp>1268999799</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:40 PDT 2010 -->

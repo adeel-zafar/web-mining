@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306155743AA7IJ0Q" type="Answered">
+    <Subject>i just sold something on ebay and now im confused on what to do next?</Subject>
+    <Content>Ok so someone bought something i was selling and now it says &quot;Buyers have requested their payment total on 1item&quot; im confused??? wht does this mean
+</Content>
+    <Date>2010-03-06 15:57:43</Date>
+    <Timestamp>1267919863</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306155743AA7IJ0Q</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TjHxRyvzaa</UserId>
+    <UserNick>chris c</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Did you have the shipping in your listing? All they want is a invoice sent to them which you can generate from the item listing.</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267920683</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268439349</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Did you have the shipping in your listing? All they want is a invoice sent to them which you can generate from the item listing.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-06 16:11:23</Date>
+            <Timestamp>1267920683</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:45:30 PDT 2010 -->

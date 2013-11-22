@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301200424AAFAh1t" type="Answered">
+    <Subject>Windows 7 and IE Problems!!!?</Subject>
+    <Content>Somebody that has a working internet PLEASE HELP. I&#039;ve tried going to microsoft to a Windows 7 forum, but there is so much junk when loading that my borwser has a tough time loading it. My browser wont load pages properly like its not getting the full html codes. Sometims links will be on the opposite side of the page, and instead of being a fancy button it will just have the text. Sometime the page wont load at all and act ike it is not connected to the internet. This is my 2nd day with Windows 7 and I&#039;m ready to TAKE IT BACK. Its not my LAN line because my Vista laptop was working on it yesterday.
+Tried doing updates and it said it was unable to search for updates..thanks though
+It is a new laptop...bought it from store with Windows 7 OS already on it
+</Content>
+    <Date>2010-03-01 20:04:24</Date>
+    <Timestamp>1267502664</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301200424AAFAh1t</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>74r24sUlaa</UserId>
+    <UserNick>Hunter</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1. Try downloading and re-installing ie here: http://www.microsoft.com/nz/windows/internet-explorer/default.aspx
+
+2. Make sure java, flash, and all that other crap is installed.
+
+3. Try firefox: firefox.com
+
+4. Give up and return it.
+
+Good luck.</ChosenAnswer>
+    <ChosenAnswererId>Nb5AXK2Taa</ChosenAnswererId>
+    <ChosenAnswererNick>Art Vandelay</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267502841</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268022242</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try using windows update to get a new version of IE, or you can just switch browsers to Firefox, chrome, or one of the thousands of different internet browsers out there.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gVLMQ92paa</UserId>
+            <UserNick>fireball755</UserNick>
+            <Date>2010-03-01 20:07:13</Date>
+            <Timestamp>1267502833</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1. Try downloading and re-installing ie here: http://www.microsoft.com/nz/windows/internet-explorer/default.aspx
+
+2. Make sure java, flash, and all that other crap is installed.
+
+3. Try firefox: firefox.com
+
+4. Give up and return it.
+
+Good luck.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Nb5AXK2Taa</UserId>
+            <UserNick>Art Vandelay</UserNick>
+            <Date>2010-03-01 20:07:21</Date>
+            <Timestamp>1267502841</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Download Firefox here:
+http://www.mozilla.com/en-US/firefox/personal.html
+
+Great free alternative for IE. ;)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KFX1gwIXaa</UserId>
+            <UserNick>Emprovision</UserNick>
+            <Date>2010-03-01 20:07:48</Date>
+            <Timestamp>1267502868</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Did you try reseting internet explorer back to default settings? Also you can try using ccleaner (ccleaner.com download it) It might help If none of them work you can try emailing me and i might try to control your pc and see what i can do (it is 100% safe so don&#039;t worry i will be using team viewer for more information on the program visit teamviewer.com) Also check this site out http://support.microsoft.com/kb/923737.</Content>
+            <Reference>http://support.microsoft.com/kb/923737</Reference>
+            <Best></Best>
+            <UserId>Ow3izEueaa</UserId>
+            <UserNick>Chris aka Master860</UserNick>
+            <Date>2010-03-01 20:09:03</Date>
+            <Timestamp>1267502943</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;m not quite sure if this is a new computer, or if you loaded Windows 7 on your laptop.  
+
+If this is a new computer, there remains the possibility that you have a hardware problem such as a bad network card.
+
+If this is a PC that was working previously and was updated to Windows 7, then you might just need to update your network card drivers.  These can be found on your manufacturer&#039;s website.
+
+If you have installed any 3rd party software, check for compatibility with Windows 7.  Try disabling antivirus/anti-spyware temporarily to see if that alleviates the problem.  If so, you may want to try reinstalling it or going with another product.</Content>
+            <Reference>Me</Reference>
+            <Best></Best>
+            <UserId>o53KdCi7aa</UserId>
+            <UserNick>Admin</UserNick>
+            <Date>2010-03-01 20:10:08</Date>
+            <Timestamp>1267503008</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>google &quot;firefox&quot; or &quot;Chrome&quot; (free web browser) , download it, install it, use it.. after that, dont use IE...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OPrAoj9daa</UserId>
+            <UserNick>gotu</UserNick>
+            <Date>2010-03-01 20:10:11</Date>
+            <Timestamp>1267503011</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:28:46 PDT 2010 -->

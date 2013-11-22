@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222020533AAVCgHk" type="Answered">
+    <Subject>Saved Passwords in Google Chrome?</Subject>
+    <Content>On a certain site, my friend was using my comp. and typed in his password to a site, and then when asked clicked on &quot;Never Remember Passwords On This Site&quot;.  However I really want my password to be remembered.  Is there a way to reverse this?
+
+Thanks
+</Content>
+    <Date>2010-02-22 02:05:33</Date>
+    <Timestamp>1266833133</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222020533AAVCgHk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>w7LRvCp4aa</UserId>
+    <UserNick>JC</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to Options, Personal Stuff TAB, Clear Browsing History &amp; clear everything to start from scratch. You cannot just undo that one action your friend did.
+
+Edit:
+Contrary to another answer, you do not need to change the &quot;Save Password&quot; setting because you want to use it for the same website. Clicking the &quot;Never Remember ....&quot; disabled saving passwords for that website &amp; that cannot be reversed.</ChosenAnswer>
+    <ChosenAnswererId>TZU0I8vaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kye</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266833308</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267352633</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to Options, Personal Stuff TAB, Clear Browsing History &amp; clear everything to start from scratch. You cannot just undo that one action your friend did.
+
+Edit:
+Contrary to another answer, you do not need to change the &quot;Save Password&quot; setting because you want to use it for the same website. Clicking the &quot;Never Remember ....&quot; disabled saving passwords for that website &amp; that cannot be reversed.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TZU0I8vaaa</UserId>
+            <UserNick>Kye</UserNick>
+            <Date>2010-02-22 02:08:28</Date>
+            <Timestamp>1266833308</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you have to go to the SETTING then Choose OPTION and then select PERSONAL STUFF .
+change the default selection just like ...NEVER SAVE PASSWORD
+
+Make Change in auto fill option that NEVER SAVE TEXT FROM FORMS.
+
+i m sure you will not face your previous types of  problems..........have a nice day..
+
+
+if you satisfied please rate this answer.....thanks</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7f6eOVppaa</UserId>
+            <UserNick>Akim</UserNick>
+            <Date>2010-02-22 02:26:16</Date>
+            <Timestamp>1266834376</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Click on the &quot;Spanner&quot; icon.
+Click on &quot;Options&quot;.
+Click on the &quot;Personal Stuff&quot; tab.
+Under Passwords, click on &quot;Offer to Save Passwords&quot;.
+Click on &quot;Close&quot;.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IZDz7El2aa</UserId>
+            <UserNick>lantere</UserNick>
+            <Date>2010-02-22 03:41:36</Date>
+            <Timestamp>1266838896</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:30:20 PDT 2010 -->

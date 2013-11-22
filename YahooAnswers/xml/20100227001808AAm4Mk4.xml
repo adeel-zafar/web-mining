@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227001808AAm4Mk4" type="Answered">
+    <Subject>Why won&#039;t this Firefox theme work?</Subject>
+    <Content>I installed it, then clicked &quot;restart&quot; and the default theme appears, not the theme I downloaded, here&#039;s link to it: https://addons.mozilla.org/en-US/firefox/addon/11186
+</Content>
+    <Date>2010-02-27 00:18:08</Date>
+    <Timestamp>1267258688</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227001808AAm4Mk4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DeRiwrZLaa</UserId>
+    <UserNick>Fish Controller</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1s3pmmUOQAAEB4QRKOtkPDssB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Since Firefox has had a few updates recently some things have stopped working. I know that some people have has persona issues like this and I also know there have been issues with HP printer stuff. Just use a different theme and wait for a Firefox update that fixes the issue. That&#039;s all you can do.</ChosenAnswer>
+    <ChosenAnswererId>UOMNLJx9aa</ChosenAnswererId>
+    <ChosenAnswererNick>The Anteatr</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267258853</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267298734</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Since Firefox has had a few updates recently some things have stopped working. I know that some people have has persona issues like this and I also know there have been issues with HP printer stuff. Just use a different theme and wait for a Firefox update that fixes the issue. That&#039;s all you can do.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UOMNLJx9aa</UserId>
+            <UserNick>The Anteatr</UserNick>
+            <Date>2010-02-27 00:20:53</Date>
+            <Timestamp>1267258853</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:46:35 PDT 2010 -->

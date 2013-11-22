@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316163522AApwL8a" type="Answered">
+    <Subject>I am receiving emails for my domain but have huge problems sending emails?</Subject>
+    <Content>I am running Server 2003 R2 IIS6 with pop3 &amp; SMTP running. I can retreive my emails using Outlook set for pop3 but when sending the system does not want to know.
+Why &amp; what would cause this to happen?
+</Content>
+    <Date>2010-03-16 16:35:22</Date>
+    <Timestamp>1268782522</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316163522AApwL8a</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zXQaL39Iaa</UserId>
+    <UserNick>Wayne</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Permissions and Rights .. by default MS have &#039;send&#039; and &#039;forward&#039; disabled (because too many idiots were setting up their email servers with open &#039;forward&#039; ports that gave the SPAM merchants a field day)</ChosenAnswer>
+    <ChosenAnswererId>86e0fcff22774bed26d5e5f6773ca754aa</ChosenAnswererId>
+    <ChosenAnswererNick>Steve B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268827861</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269302105</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Permissions and Rights .. by default MS have &#039;send&#039; and &#039;forward&#039; disabled (because too many idiots were setting up their email servers with open &#039;forward&#039; ports that gave the SPAM merchants a field day)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>86e0fcff22774bed26d5e5f6773ca754aa</UserId>
+            <UserNick>Steve B</UserNick>
+            <Date>2010-03-17 05:11:01</Date>
+            <Timestamp>1268827861</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:47:44 PDT 2010 -->

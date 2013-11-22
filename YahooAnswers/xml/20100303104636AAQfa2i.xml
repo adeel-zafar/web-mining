@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303104636AAQfa2i" type="Answered">
+    <Subject>firefox doesnt play videos but IE does?</Subject>
+    <Content>i just downloaded firefox.it doesn&#039;t play any videos on youtube.
+youtube says either my javascript is didabled or i have older version of flash player.
+i checked and found my javascript is enabled.
+but the same video works perfectly well on Internet Explorer.
+pls. help i wanna use firefox.
+</Content>
+    <Date>2010-03-03 10:46:36</Date>
+    <Timestamp>1267641996</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303104636AAQfa2i</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7827ebd74ecae6496d731a801f6145feaa</UserId>
+    <UserNick>chirag j</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1pDdwMZxrAAECWIE_8IhoCQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi Chirag j
+
+
+For what I&#039;ve found it appears you need to uninstall then re-install the Adobe Flash plugin.</ChosenAnswer>
+    <ChosenAnswererId>a10d3Kpoaa</ChosenAnswererId>
+    <ChosenAnswererNick>bakersfieldbob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267642497</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268244783</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you just need to go to firefox and install https://addons.mozilla.org/en-US/firefox/browse/type:7</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tMp89d7Baa</UserId>
+            <UserNick>Dynamo Duck</UserNick>
+            <Date>2010-03-03 10:47:58</Date>
+            <Timestamp>1267642078</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You need to upgrade your Flash player - You can do this by going to this link &amp; installing the plugin:
+http://get.adobe.com/flashplayer/
+I hope this helped!
+//Relex.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dBHA05IMaa</UserId>
+            <UserNick>Relex</UserNick>
+            <Date>2010-03-03 10:48:22</Date>
+            <Timestamp>1267642102</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi Chirag j
+
+
+For what I&#039;ve found it appears you need to uninstall then re-install the Adobe Flash plugin.</Content>
+            <Reference>Here&#039;s the thread:
+http://www.worldostuff.com/fixmyfirefox-ya.html</Reference>
+            <Best>5</Best>
+            <UserId>a10d3Kpoaa</UserId>
+            <UserNick>bakersfieldbob</UserNick>
+            <Date>2010-03-03 10:54:57</Date>
+            <Timestamp>1267642497</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>flash isnt enabled/installed</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10158759</UserId>
+            <UserNick>Answersandstuff</UserNick>
+            <Date>2010-03-04 12:13:06</Date>
+            <Timestamp>1267733586</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:17:48 PDT 2010 -->

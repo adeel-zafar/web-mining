@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321113628AA7xKx4" type="Answered">
+    <Subject>Why do people answer others with @ before their name?</Subject>
+    <Content>@chris1emt -- is this a result of the popularity of Twitter?  I&#039;ve noticed this in the past several weeks but it has NEVER been popular before, I&#039;ve never even seen it before in any message board or forum anywhere.
+</Content>
+    <Date>2010-03-21 11:36:28</Date>
+    <Timestamp>1269196588</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321113628AA7xKx4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA12235727</UserId>
+    <UserNick>chris1emt</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Doing that is a sign that a person isn&#039;t very bright. Some might say it&#039;s only done by stupid people.</ChosenAnswer>
+    <ChosenAnswererId>AA10024451</ChosenAnswererId>
+    <ChosenAnswererNick>Defender of Truth</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269884608</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270061721</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yeah, some people use it to reference a person or their username on just about any online message board, forum, even facebook. I think the &#039;@&#039; character highlights that a person is referencing someone. And it&#039;s also due to the popularity of Twitter, like what you mentioned.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>a3MCebSOaa</UserId>
+            <UserNick>вє gσяgєσυѕ</UserNick>
+            <Date>2010-03-28 23:35:02</Date>
+            <Timestamp>1269844502</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Doing that is a sign that a person isn&#039;t very bright. Some might say it&#039;s only done by stupid people.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10024451</UserId>
+            <UserNick>Defender of Truth</UserNick>
+            <Date>2010-03-29 10:43:28</Date>
+            <Timestamp>1269884608</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:17 PDT 2010 -->

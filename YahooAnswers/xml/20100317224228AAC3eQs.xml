@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317224228AAC3eQs" type="Answered">
+    <Subject>what does 403 forbidden mean?</Subject>
+    <Content>What does 403 forbidden mean and why does it show up when I try to search using yahoo.com
+</Content>
+    <Date>2010-03-17 22:42:28</Date>
+    <Timestamp>1268890948</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317224228AAC3eQs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wCvMa7DKaa</UserId>
+    <UserNick>eric</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can find it on wiki but its original jargon for when they were inventing the browser for the net, and has remained to this day.</ChosenAnswer>
+    <ChosenAnswererId>pDxFOekIaa</ChosenAnswererId>
+    <ChosenAnswererNick>chezzrob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268892640</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269410633</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can find it on wiki but its original jargon for when they were inventing the browser for the net, and has remained to this day.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>pDxFOekIaa</UserId>
+            <UserNick>chezzrob</UserNick>
+            <Date>2010-03-17 23:10:40</Date>
+            <Timestamp>1268892640</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:27 PDT 2010 -->

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326184320AAi69Gi" type="Answered">
+    <Subject>How can I find who lives at an address?</Subject>
+    <Content>I need to find out who lives at a particular address such as names, phone number etc...is there an online search that can help with this?
+</Content>
+    <Date>2010-03-26 18:43:20</Date>
+    <Timestamp>1269654200</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326184320AAi69Gi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>11VUUjNwaa</UserId>
+    <UserNick>KaseyS</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can use an online records system that allows you to enter someones address in the search field to find out the details about theh occupants.
+You can read about them here
+http://www.squidoo.com/How-Can-I-Find-Who-Lives-at-an-Address</ChosenAnswer>
+    <ChosenAnswererId>ren9xZlyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Hugo Stigllitz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269654338</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270191755</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can use an online records system that allows you to enter someones address in the search field to find out the details about theh occupants.
+You can read about them here
+http://www.squidoo.com/How-Can-I-Find-Who-Lives-at-an-Address</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ren9xZlyaa</UserId>
+            <UserNick>Hugo Stigllitz</UserNick>
+            <Date>2010-03-26 18:45:38</Date>
+            <Timestamp>1269654338</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.google.com.au/search?sourceid=chrome&amp;ie=UTF-8&amp;q=reverse+address+lookup</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>9lqHIQ7Daa</UserId>
+            <UserNick>Kris</UserNick>
+            <Date>2010-03-26 18:45:46</Date>
+            <Timestamp>1269654346</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:11 PDT 2010 -->

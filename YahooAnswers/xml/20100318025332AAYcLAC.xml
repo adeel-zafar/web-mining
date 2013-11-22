@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318025332AAYcLAC" type="Answered">
+    <Subject>When I close one internet Explorer Window all the other open IE Windows get Closed !?</Subject>
+    <Content>Hi,I have IE8 ,when in Tabbed Browsing if I close one IE Tab,the whole window get Closed.I removed IE8 from My machine and installed IE6.Same problen persists,if I close one window all other get Closed.Please repond Immediately !
+</Content>
+    <Date>2010-03-18 02:53:32</Date>
+    <Timestamp>1268906012</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318025332AAYcLAC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aMdJbEIraa</UserId>
+    <UserNick>Chaitu</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1hqZnd_fpAAAC_GFZGDv5dxYB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well just try another browser like opera, google chrome, safari, mozilla firefox , netscap navigator 
+IE has always been in my black list. Have fun.
+SHAUN
+crazybrain.biz.tc</ChosenAnswer>
+    <ChosenAnswererId>yKWkYPDSaa</ChosenAnswererId>
+    <ChosenAnswererNick>shaunak c</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268908409</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269873250</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well just try another browser like opera, google chrome, safari, mozilla firefox , netscap navigator 
+IE has always been in my black list. Have fun.
+SHAUN
+crazybrain.biz.tc</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>yKWkYPDSaa</UserId>
+            <UserNick>shaunak c</UserNick>
+            <Date>2010-03-18 03:33:29</Date>
+            <Timestamp>1268908409</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.mozilla.com/en-US/products/download.html?product=firefox-3.6&amp;os=win&amp;lang=en-US
+
+If that fails.
+
+http://www.mozilla.com/en-US/firefox/personal.html
+
+Get Firefox!
+
+IE fails!!!</Content>
+            <Reference>experience</Reference>
+            <Best></Best>
+            <UserId>BoSfbNlRaa</UserId>
+            <UserNick>The Dodo1234</UserNick>
+            <Date>2010-03-18 03:49:12</Date>
+            <Timestamp>1268909352</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:35 PDT 2010 -->

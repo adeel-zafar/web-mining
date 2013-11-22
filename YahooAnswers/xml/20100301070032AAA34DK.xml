@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301070032AAA34DK" type="Answered">
+    <Subject>photobucket theme help?</Subject>
+    <Content>how can i change it back to the simple way before they made these unecassary &quot;upgrades&quot; that makes it almost impossible to navigate? (to me)
+</Content>
+    <Date>2010-03-01 07:00:32</Date>
+    <Timestamp>1267455632</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301070032AAA34DK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AO5hDwf3aa</UserId>
+    <UserNick>Alonzo L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sorry, not possible  ~</ChosenAnswer>
+    <ChosenAnswererId>ssue3clzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasper M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268106473</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268320607</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sorry, not possible  ~</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper</UserNick>
+            <Date>2010-03-08 19:47:53</Date>
+            <Timestamp>1268106473</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:44 PDT 2010 -->

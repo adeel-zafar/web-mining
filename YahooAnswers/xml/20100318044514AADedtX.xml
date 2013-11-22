@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318044514AADedtX" type="Answered">
+    <Subject>How do I permanently get rid of toolbars in my browser?</Subject>
+    <Content>Ok, well i have had this laptop for about a month now, and I have also downloaded a few programs, which also include toolbars for the internet browser. Every time i realize why my screen is smaller, i remove the toolbar by right clicking on it, and the next time, or next few times after i get rid of it, comes back!
+
+How do i stop them from coming back and consuming my screen space?
+</Content>
+    <Date>2010-03-18 04:45:14</Date>
+    <Timestamp>1268912714</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318044514AADedtX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eDLNzXOHaa</UserId>
+    <UserNick>spax</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a713f80i1b5dzul1sp1/apKux2Qia6f6pMPEvbw-/1/tn48.jpg?ciAAToMBHBoYEi9e</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Most of the toolbars comes with uninstaller. You can either go to Control Panel --&gt; Add/Remove Programs to remove the program and you can also check in manage addons and disable those addons</ChosenAnswer>
+    <ChosenAnswererId>PI1Zb95Faa</ChosenAnswererId>
+    <ChosenAnswererNick>askicode</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268913005</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269070925</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Uninstall them. You may have to go to Add/Remove programs to do this. Also check the add-ons section in your browser menus (you don&#039;t say what browser...), since there may be a way to get rid of them there.
+
+When you download programs in the future, look for the little check boxes that offer you these stupid things. They are always checked. Uncheck them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BhNP2P8Xaa</UserId>
+            <UserNick>joe.attaboy</UserNick>
+            <Date>2010-03-18 04:48:56</Date>
+            <Timestamp>1268912936</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Most of the toolbars comes with uninstaller. You can either go to Control Panel --&gt; Add/Remove Programs to remove the program and you can also check in manage addons and disable those addons</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>PI1Zb95Faa</UserId>
+            <UserNick>askicode</UserNick>
+            <Date>2010-03-18 04:50:05</Date>
+            <Timestamp>1268913005</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>(if you&#039;re using Windows)
+Go to Control Panel, Add/Remove Programs, 
+
+Find out the toolbars and uninstal them (at this step it&#039;s recomended that you have Internet Explorer(assuming this is the program) closed)!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10454414</UserId>
+            <UserNick>uterrorista</UserNick>
+            <Date>2010-03-18 04:50:48</Date>
+            <Timestamp>1268913048</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You&#039;ll catch a virus in no time.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QudgKIWkaa</UserId>
+            <UserNick>Moi</UserNick>
+            <Date>2010-03-18 04:52:14</Date>
+            <Timestamp>1268913134</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>UNINSTALLED THE TOOLBAR FROM UR BROWSER GOING TO ADD ONS IN UR BROWSER</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JWqzHf0waa</UserId>
+            <UserNick>kataz lyte</UserNick>
+            <Date>2010-03-18 18:11:25</Date>
+            <Timestamp>1268961085</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:50 PDT 2010 -->

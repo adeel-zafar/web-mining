@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311095852AApmlF5" type="Answered">
+    <Subject>What is the Firefox add on for compressing twitter URL&#039;s?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-11 09:58:52</Date>
+    <Timestamp>1268330332</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311095852AApmlF5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>a4982a9923729704180f4fb8de499cb2aa</UserId>
+    <UserNick>joice j</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1VbHe9-vDAAICPGIEoTMp622jMg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can shorten URL&#039;s at the following website:
+
+http://is.gd/    (No sign up or registration is required)
+
+If you want to use firefox addons to do this, then there are several addons available. Some of them are HootSuite, Snip-n-Tag, Tiny Url Creator, etc.</ChosenAnswer>
+    <ChosenAnswererId>LfwKNeCAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Inquisitive scholar</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268382177</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269165156</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can shorten URL&#039;s at the following website:
+
+http://is.gd/    (No sign up or registration is required)
+
+If you want to use firefox addons to do this, then there are several addons available. Some of them are HootSuite, Snip-n-Tag, Tiny Url Creator, etc.</Content>
+            <Reference>http://is.gd/
+
+https://addons.mozilla.org/en-US/firefox/addon/49899
+
+https://addons.mozilla.org/en-US/firefox/addon/11492
+
+https://addons.mozilla.org/en-US/firefox/addon/126</Reference>
+            <Best>5</Best>
+            <UserId>LfwKNeCAaa</UserId>
+            <UserNick>Inquisitive scholar</UserNick>
+            <Date>2010-03-12 00:22:57</Date>
+            <Timestamp>1268382177</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:13:28 PDT 2010 -->

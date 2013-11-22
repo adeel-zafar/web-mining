@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315160920AA7eZAC" type="Answered">
+    <Subject>how to PERMANENTLY DELETE blogger?</Subject>
+    <Content>account &amp; all.
+i want to delete EVERYTHING. 
+
+how do i do it? BEST ANSWER WILL BE GIVEN
+for all of those who don&#039;t know what blogger is: it&#039;s a free online website where you can make a blog.
+(i thought that was pretty obvious....)
+</Content>
+    <Date>2010-03-15 16:09:20</Date>
+    <Timestamp>1268694560</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315160920AA7eZAC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hziDFYifaa</UserId>
+    <UserNick>0.0.7.</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1zAaxhz6dAAIC-8E0KkisCQ==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.google.com/support/forum/p/blogger/thread?tid=42374aa0d850dc38&amp;hl=en
+And
+http://vkbhardwaj.blogspot.com/</ChosenAnswer>
+    <ChosenAnswererId>Dek8IHz0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Vikas</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268751384</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268751783</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i dont get it. what blogger</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qyY3nMNfaa</UserId>
+            <UserNick>I am cOw</UserNick>
+            <Date>2010-03-15 16:11:39</Date>
+            <Timestamp>1268694699</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.google.com/support/forum/p/blogger/thread?tid=42374aa0d850dc38&amp;hl=en
+And
+http://vkbhardwaj.blogspot.com/</Content>
+            <Reference>http://vkbhardwaj.blogspot.com/</Reference>
+            <Best>3</Best>
+            <UserId>Dek8IHz0aa</UserId>
+            <UserNick>Vikas</UserNick>
+            <Date>2010-03-16 07:56:24</Date>
+            <Timestamp>1268751384</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:42 PDT 2010 -->

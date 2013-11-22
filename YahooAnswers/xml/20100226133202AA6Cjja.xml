@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226133202AA6Cjja" type="Answered">
+    <Subject>Help internet not working for some programs.?</Subject>
+    <Content>I recently got rid of an anti virus that i had on my laptop, and after that some programs on my comp stopped working. I decided to reset my firewall settings but that doesn&#039;t seem to help I think i have tried almost every suggestion that i have go-ogled. 
+Safari works but firefox and internet explorer don&#039;t and a few other programs as well. 
+i tried to download a new anti virus but was unable to. 
+i&#039;ve tried to do the add it to firewall exceptions but nothing is working.
+Help please!!!!
+I already tried to re-install the programs that don&#039;t work as well but it doesn&#039;t help.
+Thanks
+</Content>
+    <Date>2010-02-26 13:32:02</Date>
+    <Timestamp>1267219922</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226133202AA6Cjja</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Lr9jC3XOaa</UserId>
+    <UserNick>Mish.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1CeYdVTudAAIE_AFWOA50lMq8p7YF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Anti virus soft by its nature messes with the .exe files on the computer.  Depending of how it affected them you may need to reload the programs what were damaged by the malware program.  Un install Firefox from the add remove programs in the control console, or programs if using VISTA. Use Safari to re-download Firefox and re-install it. It should now work..Do the same with IE, and your other programs that don&#039;t work.</ChosenAnswer>
+    <ChosenAnswererId>d5ff2901a10bb8c0d5e2b76c8023ba6daa</ChosenAnswererId>
+    <ChosenAnswererNick>Jerry</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267220585</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267739582</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Anti virus soft by its nature messes with the .exe files on the computer.  Depending of how it affected them you may need to reload the programs what were damaged by the malware program.  Un install Firefox from the add remove programs in the control console, or programs if using VISTA. Use Safari to re-download Firefox and re-install it. It should now work..Do the same with IE, and your other programs that don&#039;t work.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>d5ff2901a10bb8c0d5e2b76c8023ba6daa</UserId>
+            <UserNick>Jerry</UserNick>
+            <Date>2010-02-26 13:43:05</Date>
+            <Timestamp>1267220585</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:50:10 PDT 2010 -->

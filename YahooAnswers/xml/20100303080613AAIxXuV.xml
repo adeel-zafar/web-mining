@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303080613AAIxXuV" type="Answered">
+    <Subject>my computer has a virus, and now i cant even get on the internet?</Subject>
+    <Content>My dell laptop and home pc have viruses.  I now can not even get on the internet.  I has timewarner come over and check out the modem and router, and they said it was my computer.  Any advice on removing it???  Geek Squad wanted a minimum of $200.00.  I cant do that.
+</Content>
+    <Date>2010-03-03 08:06:13</Date>
+    <Timestamp>1267632373</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303080613AAIxXuV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KuQiowOAaa</UserId>
+    <UserNick>Patty</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Scan ur whole system with avast internet security 2010 for good! and u can also try in &quot;safe mode with networking&quot; and see if the problem solves or not!!!!!!! gud luck!!!!!!!</ChosenAnswer>
+    <ChosenAnswererId>kkdxcOhKaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sumit G</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267632678</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269500541</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>ok, but what does the computer is doing, does it pop up any messages,have you seen a different icon on your desktop. my advice reboot in safe mode with networking and download malwarebytes antivirus, run it and remove anything it tells you. also download rkill.exe that will stop any harmful processes in you computer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cvQJoB3Jaa</UserId>
+            <UserNick>Darnel M</UserNick>
+            <Date>2010-03-03 08:10:32</Date>
+            <Timestamp>1267632632</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Scan ur whole system with avast internet security 2010 for good! and u can also try in &quot;safe mode with networking&quot; and see if the problem solves or not!!!!!!! gud luck!!!!!!!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kkdxcOhKaa</UserId>
+            <UserNick>Sumit G</UserNick>
+            <Date>2010-03-03 08:11:18</Date>
+            <Timestamp>1267632678</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1st, try System Restore. Doesn&#039;t always get rig of viruses though.
+
+2nd, run a command prompt and type:
+NETSH WINSOCK RESET
+and Enter. Followed by rebooting the machine
+
+3rd, Just do a registry restore (rather than a system restore). You&#039;ll need to use another PC and download a tool like Viceroy&#039;s Registry Restore Wizard. If you can do that you could also download Malware Bytes Anti-Malware for good measure.
+
+4rth Create a new user account and see if all is accessible from there.
+
+5th Backup and reinstall.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8ESM7ZoPaa</UserId>
+            <UserNick>mugfuy</UserNick>
+            <Date>2010-03-03 08:20:29</Date>
+            <Timestamp>1267633229</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11767225</UserId>
+            <UserNick>bert_beer</UserNick>
+            <Date>2010-03-03 08:21:11</Date>
+            <Timestamp>1267633271</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:18:57 PDT 2010 -->

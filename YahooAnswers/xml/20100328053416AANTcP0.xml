@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328053416AANTcP0" type="Answered">
+    <Subject>What is the name of this website?</Subject>
+    <Content>Around 6 months ago I remember there was a website either featured on the TV or in a magazine where people upload clips of themselves moving from the left of the screen to the right of the screen.
+The website owner has joined all of the clips together to make a neverending video that plays on the main page of the site.
+Does anyone know which website it is?
+Many thanks.
+</Content>
+    <Date>2010-03-28 05:34:16</Date>
+    <Timestamp>1269779656</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328053416AANTcP0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sa8FoJnUaa</UserId>
+    <UserNick>orange1234</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>check in your history</ChosenAnswer>
+    <ChosenAnswererId>lXj0dwdraa</ChosenAnswererId>
+    <ChosenAnswererNick>MAK</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269780159</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270299228</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>check in your history</Content>
+            <Reference>mak_productions@hotmail.com</Reference>
+            <Best>5</Best>
+            <UserId>lXj0dwdraa</UserId>
+            <UserNick>MAK</UserNick>
+            <Date>2010-03-28 05:42:39</Date>
+            <Timestamp>1269780159</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:00 PDT 2010 -->

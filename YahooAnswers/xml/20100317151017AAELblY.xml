@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317151017AAELblY" type="Answered">
+    <Subject>Firfox browser will not open/start/launch/anything/etc.?</Subject>
+    <Content>My computer was recently been infected with one of those fake firewall things, like Personell Security,etc. I got hit by Vista Smart Security, which is a virus. So I got rid of that, and did a scan with avg, and did everything, etc. And so when I go to run firefox, it own&#039;t start. I double click it, and I get about a 1-2 second of the little blue laoding circle on vistas, an then nothing. I tried to open it in safe mode, and still nothing. I tried renaming the exe file, still nothing, and I can&#039;t creat new profiles because when I try, I get the window thing at the bottom, but nothing pops up. Im using IE right now, and I don&#039;t know why this wasn&#039;t affected and firefox is. I don/t want to uninstall and reinstall, I don&#039;t even think I can, because anything that has to do with firefox won&#039;t open. 
+If any can help, well...please help
+thanks
+</Content>
+    <Date>2010-03-17 15:10:17</Date>
+    <Timestamp>1268863817</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317151017AAELblY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iN9IrnFUaa</UserId>
+    <UserNick>Unknown</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Control Panel&gt; Add and Remove Programs and unistall Firefox.
+
+Then download a clean copy and reinstall it.
+
+http://support.mozilla.com/en-US/kb/Profiles  delete your profiles before you install the new version.
+
+A corrupt profile will prevent Firefox from launching.</ChosenAnswer>
+    <ChosenAnswererId>mLs3rMnKaa</ChosenAnswererId>
+    <ChosenAnswererNick>David N</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268864423</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269554714</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Control Panel&gt; Add and Remove Programs and unistall Firefox.
+
+Then download a clean copy and reinstall it.
+
+http://support.mozilla.com/en-US/kb/Profiles  delete your profiles before you install the new version.
+
+A corrupt profile will prevent Firefox from launching.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mLs3rMnKaa</UserId>
+            <UserNick>David N</UserNick>
+            <Date>2010-03-17 15:20:23</Date>
+            <Timestamp>1268864423</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try scanning alternatively with Spyware Doctor or other anti-spyware, because this rogue can be still hiding on your PC and blocks the Internet for you.</Content>
+            <Reference>http://www.2-viruses.com/remove-vista-smart-security-2010</Reference>
+            <Best></Best>
+            <UserId>bBU5XgcDaa</UserId>
+            <UserNick>Markus</UserNick>
+            <Date>2010-03-18 06:55:53</Date>
+            <Timestamp>1268920553</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:43:23 PDT 2010 -->

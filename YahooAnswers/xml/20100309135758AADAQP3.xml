@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309135758AADAQP3" type="Answered">
+    <Subject>Wireless Internet only working with fixed IP, DNS etc.?!?</Subject>
+    <Content>Hi everybody,
+
+I am working in a hotel on an island, so it&#039;s hard to find someone here who knows about internet, computers, etc. (neither do I).
+In the hotel we have a wireless internet router so the guests can use it in the lobby.
+Up until yesterday, everything worked fine, until it just stopped. So I checked this morning, called the provider and they told me to connect my laptop directly, and hooray, I had internet.
+After that, I reset the (Linksys) router and reconfigured it correctly.
+I can connect to the internet, ping IP&#039;s, but cannot open any webpages. It always says there is a DNS error.
+I then researched a bit and tried to put in a static (fixed) IP as well as DNS server etc, and it works fine.
+The problem is, it is not very convenient if we have to assign static IP&#039;s and all to every guest that wants to surf the net...and it did work fine before.
+Does anybody know what to do here?!
+Help would be greatly appreciated...
+</Content>
+    <Date>2010-03-09 13:57:58</Date>
+    <Timestamp>1268171878</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309135758AADAQP3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>EnCJ5G8Raa</UserId>
+    <UserNick>Robin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think I got it!
+
+Did you clear out the static settings?
+
+1. go to start
+2.go to run
+3.enter cmd (if you are on vista it has to be run as admin)
+4.enter netsh interface ip set dns &quot;Local Area Connection&quot; dhcp
+5.enter netsh interface ip set address &quot;Local Area Connection&quot; dhcp
+
+Now that that is done go to the status page of the router and check to make sure all of the settings are ok for the ip and dns on the router.
+
+(4 and 5 are all on one line)</ChosenAnswer>
+    <ChosenAnswererId>y659R5mwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ryan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268172093</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268687901</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think I got it!
+
+Did you clear out the static settings?
+
+1. go to start
+2.go to run
+3.enter cmd (if you are on vista it has to be run as admin)
+4.enter netsh interface ip set dns &quot;Local Area Connection&quot; dhcp
+5.enter netsh interface ip set address &quot;Local Area Connection&quot; dhcp
+
+Now that that is done go to the status page of the router and check to make sure all of the settings are ok for the ip and dns on the router.
+
+(4 and 5 are all on one line)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>y659R5mwaa</UserId>
+            <UserNick>Ryan</UserNick>
+            <Date>2010-03-09 14:01:33</Date>
+            <Timestamp>1268172093</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:24:05 PDT 2010 -->

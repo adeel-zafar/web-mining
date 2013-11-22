@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321090659AAbzcYb" type="Answered">
+    <Subject>Is the website http://tmytweets.com/ a scam?</Subject>
+    <Content>Does it really get you followers? Cause giving them your username and password seems kind of sketchy but maybe you&#039;ve done it before and it&#039;s worked.
+</Content>
+    <Date>2010-03-21 09:06:59</Date>
+    <Timestamp>1269187619</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321090659AAbzcYb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nTdmWbGGaa</UserId>
+    <UserNick>Georgia</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no not a scam it works :) @imdavidlamar follow me!</ChosenAnswer>
+    <ChosenAnswererId>mp25u5snaa</ChosenAnswererId>
+    <ChosenAnswererNick>David</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269298094</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270095169</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no not a scam it works :) @imdavidlamar follow me!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mp25u5snaa</UserId>
+            <UserNick>David</UserNick>
+            <Date>2010-03-22 15:48:14</Date>
+            <Timestamp>1269298094</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:45 PDT 2010 -->

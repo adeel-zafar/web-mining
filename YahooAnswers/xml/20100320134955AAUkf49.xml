@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320134955AAUkf49" type="Answered">
+    <Subject>I can&#039;t change my homepage with internet explorer 7. PLEASE HELP?</Subject>
+    <Content>Every time i click internet explorer on my desktop, it opens up to  a page that says &quot;Thanks for choosing Internet Explorer 7&quot; and then it says &quot;change your settings.&quot; ive had this ever since i made the computer account months ago, and every time i try to CHANGE the settings, it ALWAYS says that they cannot be saved correctly. someone please help? i cant change my homepage until i change my settings (in which i really dont care about, ive tryed everything on the page.)
+</Content>
+    <Date>2010-03-20 13:49:55</Date>
+    <Timestamp>1269118195</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320134955AAUkf49</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uPUE5uuraa</UserId>
+    <UserNick>Anime Freek</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b1578d6i973zul1sp1/3gn7sMglfqhqtmgBk.YEzF8A/1/tn48.png?ciAAToMBjIobHJZm</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try upgrading to IE8. That should solve your problems.</ChosenAnswer>
+    <ChosenAnswererId>eaiepWeaaa</ChosenAnswererId>
+    <ChosenAnswererNick>stepshep</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269118422</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269637690</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Google Chrome is your friend.</Content>
+            <Reference>http://chrome.google.com/</Reference>
+            <Best></Best>
+            <UserId>CEo8Sgqyaa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-20 13:52:53</Date>
+            <Timestamp>1269118373</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try upgrading to IE8. That should solve your problems.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>eaiepWeaaa</UserId>
+            <UserNick>stepshep</UserNick>
+            <Date>2010-03-20 13:53:42</Date>
+            <Timestamp>1269118422</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:36 PDT 2010 -->

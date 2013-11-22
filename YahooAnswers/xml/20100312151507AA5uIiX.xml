@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312151507AA5uIiX" type="Answered">
+    <Subject>How do I get my own URL name hosted by blogger.com?</Subject>
+    <Content>Some blogs hosted by blogger.com or blogspot.com have their own url name for example bakeralla.com.  How do I get this instead of saying bakeralla.blogspot.com?
+</Content>
+    <Date>2010-03-12 15:15:07</Date>
+    <Timestamp>1268435707</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312151507AA5uIiX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>b2487f183e506a2c5650a4b3de90eb71aa</UserId>
+    <UserNick>nobody you know</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1pv6b8t9mAAIBkMmcgeE1DA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>As you may know a domain name is just a name, not a real website/weblog. If you are going to create your blog website: 1- Buy a domain name. A domain name is a name you want to call your website (ex: www.yahoo.com).  To get a domain name, you have to pay an annual fee to a registrar for the right to use that name. 2- Buy a web hosting service to provide your online space and enable you to get your blog online at your purchased domain name.
+
+If you’re going to start your blog at your own domain with different pages, you need a web host providing wordpress.
+
+Take a look at:
+http://www.threehosts.com/blog
+There you can reach the three reputable companies that are leaders in the blog/wordpress website hosting industry.
+
+Another useful link:
+http://www.threehosts.com/build
+There you can find a step-by-step guide to start your website.
+
+Hope this helps.</ChosenAnswer>
+    <ChosenAnswererId>YsXKcAgbaa</ChosenAnswererId>
+    <ChosenAnswererNick>David M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268485685</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268659733</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You need a domain name and someone to help set it up. You have to purchase the domain you want, from somewhere like www.123-reg.co.uk, that&#039;s where I buy mine, costs me £8 a year</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wCtD0b1oaa</UserId>
+            <UserNick>noirenex</UserNick>
+            <Date>2010-03-12 15:18:53</Date>
+            <Timestamp>1268435933</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>As you may know a domain name is just a name, not a real website/weblog. If you are going to create your blog website: 1- Buy a domain name. A domain name is a name you want to call your website (ex: www.yahoo.com).  To get a domain name, you have to pay an annual fee to a registrar for the right to use that name. 2- Buy a web hosting service to provide your online space and enable you to get your blog online at your purchased domain name.
+
+If you’re going to start your blog at your own domain with different pages, you need a web host providing wordpress.
+
+Take a look at:
+http://www.threehosts.com/blog
+There you can reach the three reputable companies that are leaders in the blog/wordpress website hosting industry.
+
+Another useful link:
+http://www.threehosts.com/build
+There you can find a step-by-step guide to start your website.
+
+Hope this helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>YsXKcAgbaa</UserId>
+            <UserNick>David M</UserNick>
+            <Date>2010-03-13 05:08:05</Date>
+            <Timestamp>1268485685</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:08:01 PDT 2010 -->

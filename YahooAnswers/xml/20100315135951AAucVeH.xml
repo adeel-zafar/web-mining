@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315135951AAucVeH" type="Answered">
+    <Subject>Does the mozilla firefox &#039;private browsing&#039; setting actually leave no trace in your history?</Subject>
+    <Content>thanks
+4REEE - i don&#039;t know enough about computers so i won&#039;t try anything like that cause i&#039;ll probably end up losing everything
+:/
+</Content>
+    <Date>2010-03-15 13:59:51</Date>
+    <Timestamp>1268686791</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315135951AAucVeH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Bj75uPyTaa</UserId>
+    <UserNick>pullthetrigger</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ESuTSlPNAAEBOWGRfJPIdPzoH8AE.medium.jpg</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It will leave a trace, but only file recovery software can gain access to those files.
+
+If you want NO TRACE, then you need an erasure program that will erase the unused space:
+
+http://www.heidi.ie/node/6
+
+And do a 7 pass erasure on the external hard disk of interest. ( Oh heck, you can do 30 passes )
+
+BEWARE!!!!! Once you erase the unused space on that hard disk, nothing on the planet will help you recover those files!!!
+
+So choose what you erase WISELY!!!
+
+*
+*
+*</ChosenAnswer>
+    <ChosenAnswererId>wF7sCEM2aa</ChosenAnswererId>
+    <ChosenAnswererNick>4REEE</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268686977</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268780035</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lyDppNmzaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-15 14:01:05</Date>
+            <Timestamp>1268686865</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That&#039;s why its called &quot;private browsing&quot;, so ofc not</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>muzBf9mnaa</UserId>
+            <UserNick>fediaFedia</UserNick>
+            <Date>2010-03-15 14:01:18</Date>
+            <Timestamp>1268686878</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;ve never tried it, but you can always &quot;clear recent history&quot;.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7J7yzMLOaa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-15 14:01:44</Date>
+            <Timestamp>1268686904</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It will leave a trace, but only file recovery software can gain access to those files.
+
+If you want NO TRACE, then you need an erasure program that will erase the unused space:
+
+http://www.heidi.ie/node/6
+
+And do a 7 pass erasure on the external hard disk of interest. ( Oh heck, you can do 30 passes )
+
+BEWARE!!!!! Once you erase the unused space on that hard disk, nothing on the planet will help you recover those files!!!
+
+So choose what you erase WISELY!!!
+
+*
+*
+*</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wF7sCEM2aa</UserId>
+            <UserNick>4REEE</UserNick>
+            <Date>2010-03-15 14:02:57</Date>
+            <Timestamp>1268686977</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It will leave no trace on YOUR computer. It will still leave traces on the websites you visit since Private Browsing doesn&#039;t change your IP address</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>s1dDakrCaa</UserId>
+            <UserNick>non-existant</UserNick>
+            <Date>2010-03-15 14:06:52</Date>
+            <Timestamp>1268687212</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It should leave no trace of cookies etc on your pc. 
+However, if you are not the account holder &amp; want to keep it secret from the account holder, then you can&#039;t. All calls are logged by your ISP.
+It just depends on whether the account holder looks at the history of it from there.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yr6AEHrdaa</UserId>
+            <UserNick>froodles01</UserNick>
+            <Date>2010-03-15 14:07:17</Date>
+            <Timestamp>1268687237</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:53:30 PDT 2010 -->

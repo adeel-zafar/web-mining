@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323181156AAyObvK" type="Answered">
+    <Subject>How do you put mp3s from Amazon and Last.fm onto your iPod?</Subject>
+    <Content>Ahhh help?
+</Content>
+    <Date>2010-03-23 18:11:56</Date>
+    <Timestamp>1269393116</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323181156AAyObvK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>43AqIOROaa</UserId>
+    <UserNick>Meredith</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1, remove the restriction from the songs,
+2, convert the format that iTunes supported.
+Here got some tips for you:</ChosenAnswer>
+    <ChosenAnswererId>TPMuTcpvaa</ChosenAnswererId>
+    <ChosenAnswererNick>summer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269421158</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269572592</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>1, remove the restriction from the songs,
+2, convert the format that iTunes supported.
+Here got some tips for you:</Content>
+            <Reference>http://www.all-media-converter.com/knowledge/remove-drm-amazon-movie-video-on-demand-wmv.html#209</Reference>
+            <Best>5</Best>
+            <UserId>TPMuTcpvaa</UserId>
+            <UserNick>summer</UserNick>
+            <Date>2010-03-24 01:59:18</Date>
+            <Timestamp>1269421158</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:04 PDT 2010 -->

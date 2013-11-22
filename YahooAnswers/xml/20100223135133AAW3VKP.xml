@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223135133AAW3VKP" type="Answered">
+    <Subject>is there a website like this?</Subject>
+    <Content>you type in a name of an object and it shows you the scientific stats of that object, like weight, height, density, material type, etc...
+</Content>
+    <Date>2010-02-23 13:51:33</Date>
+    <Timestamp>1266961893</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223135133AAW3VKP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2azMlKIKaa</UserId>
+    <UserNick>40th assassin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>Wolfram Alpha is a kind of scientific knowledge engine. It will probably do that
+http://www.wolframalpha.com/
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267275682</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267284264</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Wolfram Alpha is a kind of scientific knowledge engine. It will probably do that
+http://www.wolframalpha.com/
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-02-27 05:01:22</Date>
+            <Timestamp>1267275682</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-02-27 14:11:24</Date>
+            <Timestamp>1267275682</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:19:15 PDT 2010 -->

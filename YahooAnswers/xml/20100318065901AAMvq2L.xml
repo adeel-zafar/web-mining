@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318065901AAMvq2L" type="Answered">
+    <Subject>How do websites embed Yahoo Answers?</Subject>
+    <Content>I&#039;ve noticed a number of sites that have embedded Yahoo Answers to add content, but I don&#039;t see any embed link at YA like they have on YouTube - is their html available?
+</Content>
+    <Date>2010-03-18 06:59:01</Date>
+    <Timestamp>1268920741</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318065901AAMvq2L</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uDq9EHXQaa</UserId>
+    <UserNick>Boomer</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Please give examples.  Never seen this.  There are many Answers sites, but never seen one with exact Yahoo! Answers content</ChosenAnswer>
+    <ChosenAnswererId>2LbTrlQnaa</ChosenAnswererId>
+    <ChosenAnswererNick>JIM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268921289</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269440019</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Please give examples.  Never seen this.  There are many Answers sites, but never seen one with exact Yahoo! Answers content</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-18 07:08:09</Date>
+            <Timestamp>1268921289</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:31 PDT 2010 -->

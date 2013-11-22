@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326124914AACjo6E" type="Answered">
+    <Subject>How to transfer firefox bookmarks from one laptop to another laptop?</Subject>
+    <Content>Just bought a new laptop, not sure whether there is a way to take firefox bookmarks from old laptop to new laptop.
+
+Thanks.
+</Content>
+    <Date>2010-03-26 12:49:14</Date>
+    <Timestamp>1269632954</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326124914AACjo6E</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>30197762a3575aa4729acc2f00c5511aaa</UserId>
+    <UserNick>Yahooer</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1DJGkdA6uAAECQWEo8AceAQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Follow this to transfer bookmarks
+
+http://support.mozilla.com/tiki-view_forum_thread.php?forumId=1&amp;comments_parentId=2046</ChosenAnswer>
+    <ChosenAnswererId>ylyDSpb7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Sexy Scottish Kool Aid Man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269633034</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270296806</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Follow this to transfer bookmarks
+
+http://support.mozilla.com/tiki-view_forum_thread.php?forumId=1&amp;comments_parentId=2046</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ylyDSpb7aa</UserId>
+            <UserNick>Sexy Scottish Kool Aid Man</UserNick>
+            <Date>2010-03-26 12:50:34</Date>
+            <Timestamp>1269633034</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Copy the entire profile folder from the old machine to the new one. 
+
+Here&#039;s where it&#039;s located:
+
+*nix-like operating systems: ~/.mozilla/firefox/
+
+OS X: ~/Library/Application Support/Firefox/Profiles/
+
+Windows 2000/Windows XP: C:\Documents and Settings\&lt;username&gt;\Application Data\Mozilla\Firefox\Profiles\
+
+Windows Vista/Windows 7: C:\Users\&lt;username&gt;\AppData\Roaming\Mozilla\Firefox\Profiles\
+
+This will also copy your addons, browsing history and other profile-specific settings.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IbxhRebgaa</UserId>
+            <UserNick>cen</UserNick>
+            <Date>2010-03-26 12:58:56</Date>
+            <Timestamp>1269633536</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:25 PDT 2010 -->

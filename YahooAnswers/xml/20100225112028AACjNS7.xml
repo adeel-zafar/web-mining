@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225112028AACjNS7" type="Answered">
+    <Subject>Do you have a favorite forum on the internet?</Subject>
+    <Content>What is it, how long have you been a member?
+</Content>
+    <Date>2010-02-25 11:20:28</Date>
+    <Timestamp>1267125628</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225112028AACjNS7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dKLAAOqPaa</UserId>
+    <UserNick>FourFiftySplash</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;ve been a member almost everywhere, but it&#039;s been 6 months I only visit this forum:
+www.albaniannetwork.net/warez</ChosenAnswer>
+    <ChosenAnswererId>EkUiJ3Mlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Blina</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267126693</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267644924</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.help2go.com
+
+6years.
+
+zep516</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ybfCLYp1aa</UserId>
+            <UserNick>zep516</UserNick>
+            <Date>2010-02-25 11:22:47</Date>
+            <Timestamp>1267125767</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;ve been a member almost everywhere, but it&#039;s been 6 months I only visit this forum:
+www.albaniannetwork.net/warez</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EkUiJ3Mlaa</UserId>
+            <UserNick>Blina</UserNick>
+            <Date>2010-02-25 11:38:13</Date>
+            <Timestamp>1267126693</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:57:09 PDT 2010 -->

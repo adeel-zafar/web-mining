@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224232534AAiujxe" type="Answered">
+    <Subject>What is the best site for reports of pharmacology?</Subject>
+    <Content>What is the best site for reports of pharmacology?
+i have to make a report about new drugs about rhematoid arthritis
+</Content>
+    <Date>2010-02-24 23:25:34</Date>
+    <Timestamp>1267082734</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224232534AAiujxe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CXIDUqpdaa</UserId>
+    <UserNick>Max</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi
+
+If you are studying for BSc or MSc (or something else) it&#039;s possible that your university gives you a permission (could be called &quot;Athens&quot; permission) to find articles otherwise inaccessible. If so, try Science Direct, and also Pubmed. These two sites are probably the most respected among scientists involved in pharmacology. Also, not all of the articles at these two sites are inaccessible to the non-subscribers. There are a few reports that are freely accessible (but mostly the older ones).
+
+Another choice, which I recommend, is to try &quot;Google Scholar&quot; (http://scholar.google.co.uk/). (Note this is not the common Google search-engine). If you make a search here, you will get results of articles, many of which are available freely. You can distinguish which ones are freely available because these articles have an extra link on the right of their titles. For example I searched for your subject in Google Scholar and got these results:
+
+http://scholar.google.co.uk/scholar?hl=en&amp;as_sdt=2000&amp;q=rheumatoid+arthritis+drug
+
+The first title there (dated 2000 so relatively new), has an extra link on the right of its title, if you can notice it. It sais &quot;pfizer.se [PDF]&quot;.
+
+This link means that if you click it you&#039;ll get the downloadable article for free.
+
+Another suggestion I have for you: Make a search of your subject of interest in a good Science news website, like Science Daily. Such sites are involved in reporting any new important discovery. Making your search I got the following results:
+
+http://www.sciencedaily.com/search/?keyword=rheumatoid+arthritis+drug
+
+Other such websites are Scientific American and Science News (sciencenews.org)
+
+OK good luck now.</ChosenAnswer>
+    <ChosenAnswererId>GJtzyT6faa</ChosenAnswererId>
+    <ChosenAnswererNick>very6good6person6</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267120091</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267602191</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>elsevier.com but you&#039;ll have to pay for the full article.  You can read the abstract though to decide if it is relevant to your report.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wH4ncJFOaa</UserId>
+            <UserNick>AtLarge</UserNick>
+            <Date>2010-02-24 23:28:02</Date>
+            <Timestamp>1267082882</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi
+
+If you are studying for BSc or MSc (or something else) it&#039;s possible that your university gives you a permission (could be called &quot;Athens&quot; permission) to find articles otherwise inaccessible. If so, try Science Direct, and also Pubmed. These two sites are probably the most respected among scientists involved in pharmacology. Also, not all of the articles at these two sites are inaccessible to the non-subscribers. There are a few reports that are freely accessible (but mostly the older ones).
+
+Another choice, which I recommend, is to try &quot;Google Scholar&quot; (http://scholar.google.co.uk/). (Note this is not the common Google search-engine). If you make a search here, you will get results of articles, many of which are available freely. You can distinguish which ones are freely available because these articles have an extra link on the right of their titles. For example I searched for your subject in Google Scholar and got these results:
+
+http://scholar.google.co.uk/scholar?hl=en&amp;as_sdt=2000&amp;q=rheumatoid+arthritis+drug
+
+The first title there (dated 2000 so relatively new), has an extra link on the right of its title, if you can notice it. It sais &quot;pfizer.se [PDF]&quot;.
+
+This link means that if you click it you&#039;ll get the downloadable article for free.
+
+Another suggestion I have for you: Make a search of your subject of interest in a good Science news website, like Science Daily. Such sites are involved in reporting any new important discovery. Making your search I got the following results:
+
+http://www.sciencedaily.com/search/?keyword=rheumatoid+arthritis+drug
+
+Other such websites are Scientific American and Science News (sciencenews.org)
+
+OK good luck now.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>GJtzyT6faa</UserId>
+            <UserNick>very6good6person6</UserNick>
+            <Date>2010-02-25 09:48:11</Date>
+            <Timestamp>1267120091</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr 21 01:11:21 PDT 2010 -->

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308090518AAwTIBf" type="Answered">
+    <Subject>how can we make free internet call? to a telephone?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-08 09:05:18</Date>
+    <Timestamp>1268067918</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308090518AAwTIBf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ubxluC9eaa</UserId>
+    <UserNick>mrgoofy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1HV7MG7tuAAEC_IFHpOE9Dg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Can&#039;t be done. You&#039;re not getting everything for free.</ChosenAnswer>
+    <ChosenAnswererId>vAJocLqvaa</ChosenAnswererId>
+    <ChosenAnswererNick>star123compy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268067976</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268583910</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Can&#039;t be done. You&#039;re not getting everything for free.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-08 09:06:16</Date>
+            <Timestamp>1268067976</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Using Skype....</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qmE29cONaa</UserId>
+            <UserNick>nij108</UserNick>
+            <Date>2010-03-08 09:06:22</Date>
+            <Timestamp>1268067982</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can try
+http://voipsms.blogspot.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SnA7x8D3aa</UserId>
+            <UserNick>Vic</UserNick>
+            <Date>2010-03-08 15:58:54</Date>
+            <Timestamp>1268092734</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:32:52 PDT 2010 -->

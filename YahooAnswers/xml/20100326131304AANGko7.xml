@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326131304AANGko7" type="Answered">
+    <Subject>Why can&#039;t I connect to the internet?</Subject>
+    <Content>Hey guys it always starts connecting etc and then it only gets to local internet connection and wont go any further. This has only started happening after I went onto wireless network setup wizard and setup a new wireless network to the same SSID as the one I already had, now it always says it can connect to it but then cant connect to the internet and is only local connectivity. We are running wi fi and a WEP key but I dont know what it is :P I dont know how to reconnect please help me I really need to to be able to talk to my parents :(
+</Content>
+    <Date>2010-03-26 13:13:04</Date>
+    <Timestamp>1269634384</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326131304AANGko7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Wykt8djAaa</UserId>
+    <UserNick>Aston</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>How can you not know what you own WEP key is? How are you able to Access Yahoo! Answers without internet? But in any case, try restarting both your modem and your wireless router.</ChosenAnswer>
+    <ChosenAnswererId>kdhxLmDsaa</ChosenAnswererId>
+    <ChosenAnswererNick>Topaz C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269635787</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270334140</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>How can you not know what you own WEP key is? How are you able to Access Yahoo! Answers without internet? But in any case, try restarting both your modem and your wireless router.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kdhxLmDsaa</UserId>
+            <UserNick>Topaz C</UserNick>
+            <Date>2010-03-26 13:36:27</Date>
+            <Timestamp>1269635787</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:22 PDT 2010 -->

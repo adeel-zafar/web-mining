@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320133915AAYwrMV" type="Answered">
+    <Subject>What exactly is Formspring and was it created by Facebook?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-20 13:39:15</Date>
+    <Timestamp>1269117555</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320133915AAYwrMV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Bm6DBay9aa</UserId>
+    <UserNick>Gregory Miller</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1KpQ3kYRRAAEC2WQmhc83nL4B.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>formspring is a website where people can ask the person different question, and then you can answer them</ChosenAnswer>
+    <ChosenAnswererId>279I4HIIaa</ChosenAnswererId>
+    <ChosenAnswererNick>............</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269442655</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269636927</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>formspring is a website where people can ask the person different question, and then you can answer them</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>279I4HIIaa</UserId>
+            <UserNick>............</UserNick>
+            <Date>2010-03-24 07:57:35</Date>
+            <Timestamp>1269442655</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:44 PDT 2010 -->

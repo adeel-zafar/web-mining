@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328115712AAuktTp" type="Answered">
+    <Subject>What&#039;s wrong with my Mozilla Firefox?</Subject>
+    <Content>I&#039;ve just been logging in to check my emails (Hotmail and Yahoo) and on both occasions Firefox is telling me these are untrusted sites. I also went on a well known football team&#039;s site to buy tickets and again when logging in I was told the site cannot be trusted. I have been on these sites many times before - why is it coming up as the sites being untrusted? I&#039;ve run my anti-virus/spyware software and no threats have been found.
+</Content>
+    <Date>2010-03-28 11:57:12</Date>
+    <Timestamp>1269802632</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328115712AAuktTp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0e33e812d76b8f8fe9810d0893f6e0b7aa</UserId>
+    <UserNick>psych_78</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49f1ed87i20d6z/__aXmpIzcrIMtH8HgCLrsZAhA9C_/102/tn48.jpg?ciAAToMB64FhYz1M</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Check your security setting within Firefox and you can add both sites to your trusted list. I am not sure what version of Firefox you&#039;re running but I&#039;ve heard from a few people now about some bugs in the latest version 3.6.2. You also might have plugins installed that either need to be updated or removed for compatibility issues.</ChosenAnswer>
+    <ChosenAnswererId>mLRluhO2aa</ChosenAnswererId>
+    <ChosenAnswererNick>MC9</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269802931</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270322090</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Check your security setting within Firefox and you can add both sites to your trusted list. I am not sure what version of Firefox you&#039;re running but I&#039;ve heard from a few people now about some bugs in the latest version 3.6.2. You also might have plugins installed that either need to be updated or removed for compatibility issues.</Content>
+            <Reference>MSCE</Reference>
+            <Best>5</Best>
+            <UserId>mLRluhO2aa</UserId>
+            <UserNick>MC9</UserNick>
+            <Date>2010-03-28 12:02:11</Date>
+            <Timestamp>1269802931</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:18:48 PDT 2010 -->

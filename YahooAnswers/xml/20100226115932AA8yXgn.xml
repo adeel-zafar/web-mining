@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226115932AA8yXgn" type="Answered">
+    <Subject>hi i downloded firefox 3.6 im a firefox fan but in firefox 3.6 everey think is small to small to read?</Subject>
+    <Content>i went back to firefoxe 3.5.8 alls fine wots wrong with fire 3.6  tride ajust font size/tried display settings to no avall my lappy is a toshiba satellite L350-171 18 months old
+</Content>
+    <Date>2010-02-26 11:59:32</Date>
+    <Timestamp>1267214372</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226115932AA8yXgn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10007980</UserId>
+    <UserNick>royboy55</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1bI3kGZrNAAICWIE_IA328cbeIw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try ctrl +
+That should make your fonts larger.
+ctrl - makes them smaller...</ChosenAnswer>
+    <ChosenAnswererId>P1EaauKzaa</ChosenAnswererId>
+    <ChosenAnswererNick>The Vampire Muffin Man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267214517</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267733821</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try ctrl +
+That should make your fonts larger.
+ctrl - makes them smaller...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>P1EaauKzaa</UserId>
+            <UserNick>The Vampire Muffin Man</UserNick>
+            <Date>2010-02-26 12:01:57</Date>
+            <Timestamp>1267214517</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Just click View in top bar and zoom to your preferred settings, just as before.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tfuPCVzOaa</UserId>
+            <UserNick>dancingdog777</UserNick>
+            <Date>2010-02-26 12:03:18</Date>
+            <Timestamp>1267214598</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:50:37 PDT 2010 -->

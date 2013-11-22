@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303232015AATxEv2" type="Answered">
+    <Subject>tumblr, blogger or wordpress?</Subject>
+    <Content>I&#039;m trying to decide which site to use to host my blog.  I&#039;m looking for one that has visually appealing templates which are easy to change quickly and has a blackberry application.
+</Content>
+    <Date>2010-03-03 23:20:15</Date>
+    <Timestamp>1267687215</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303232015AATxEv2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mQXJ9jzxaa</UserId>
+    <UserNick>musicloverrr</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1pRa6OxKbAAECQIEr7AeDcTgwKA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can use wordpress.It is the best and seo friendly.</ChosenAnswer>
+    <ChosenAnswererId>s0cnRMVFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Richardson</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267687393</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267820592</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Wordpress.org!
+Nothing else will do!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA12079130</UserId>
+            <UserNick>chirag</UserNick>
+            <Date>2010-03-03 23:23:13</Date>
+            <Timestamp>1267687393</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can use wordpress.It is the best and seo friendly.</Content>
+            <Reference>http://www.freethemelayouts.com/</Reference>
+            <Best>4</Best>
+            <UserId>s0cnRMVFaa</UserId>
+            <UserNick>Richardson</UserNick>
+            <Date>2010-03-03 23:23:13</Date>
+            <Timestamp>1267687393</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:12:59 PDT 2010 -->

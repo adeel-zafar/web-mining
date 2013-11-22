@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313210105AAt7Oi0" type="Answered">
+    <Subject>How do I retrieve the FireFox toolbars?</Subject>
+    <Content>I kind of clicked on view and got them out of the way as they interfered with a map I was viewing.    Now I want to get them back and can&#039;t see how to do just that.     I need the File, View, Edit stuff plus the address bar.  I am using Windows XPPro
+</Content>
+    <Date>2010-03-13 21:01:05</Date>
+    <Timestamp>1268542865</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313210105AAt7Oi0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>EmgiGg17aa</UserId>
+    <UserNick>Xavwieztsky</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1-v0-h52LAAACPEJwMKsmhs4A.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I found this link which I believe will answer your question. I hope this helps to solve your problem. Good luck!
+
+http://support.mozilla.com/en-US/forum/1/477191</ChosenAnswer>
+    <ChosenAnswererId>dna6JMaJaa</ChosenAnswererId>
+    <ChosenAnswererNick>Smokies Hiker</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268544058</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268613226</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>First, check your full screen mode. May be you accidentally pressed F11 key. Therefore press F11 and see if your problem is solved. If the problem still remains, then follow this process:
+
+1- Right Click your menu toolbar area (where you can see File, Edit, View and ..). Then select your desired toolbars. If there is a check mark next to a toolbar name, it means the toolbar is enabled.
+
+or
+
+2- Right Click your menu toolbar area. Then select Customize and click on Restore Default Set.
+
+Good Luck</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JLr3UcEHaa</UserId>
+            <UserNick>MS</UserNick>
+            <Date>2010-03-13 21:20:00</Date>
+            <Timestamp>1268544000</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I found this link which I believe will answer your question. I hope this helps to solve your problem. Good luck!
+
+http://support.mozilla.com/en-US/forum/1/477191</Content>
+            <Reference>AOL.</Reference>
+            <Best>5</Best>
+            <UserId>dna6JMaJaa</UserId>
+            <UserNick>Smokies Hiker</UserNick>
+            <Date>2010-03-13 21:20:58</Date>
+            <Timestamp>1268544058</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:34 PDT 2010 -->

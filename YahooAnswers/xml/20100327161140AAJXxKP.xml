@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327161140AAJXxKP" type="Answered">
+    <Subject>How to add a Chatroulette style webcam chat to a website?</Subject>
+    <Content>I want to kind of recreate a Chatroulette site but I don&#039;t know how to use peer to peer webcam connections. Any help?
+</Content>
+    <Date>2010-03-27 16:11:40</Date>
+    <Timestamp>1269731500</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327161140AAJXxKP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7Uo0fBr4aa</UserId>
+    <UserNick>soxrox45</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4adbd223i261czul6sp1/QNkqm0QidL4dhmb3ojQO0A--/2/tn48.jpg?ciAAToMBjweTUn6r</UserPhotoURL>
+    <NumAnswers>0</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can use a free service like OMG Chat to embed a free chat room on your website, otherwise you will have to get a flash hosting server and write your own application.
+
+You can create a room instantly by adding your room-name after &quot;http://www.omgchat.com/room/&quot;
+
+Example: http://www.OMGchat.com/room/Yahoo</ChosenAnswer>
+    <ChosenAnswererId>XbL2sVGsaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jeff Reese</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269862175</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270250734</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can use a free service like OMG Chat to embed a free chat room on your website, otherwise you will have to get a flash hosting server and write your own application.
+
+You can create a room instantly by adding your room-name after &quot;http://www.omgchat.com/room/&quot;
+
+Example: http://www.OMGchat.com/room/Yahoo</Content>
+            <Reference>http://www.omgchat.com
+http://www.rajahweb.com</Reference>
+            <Best>5</Best>
+            <UserId>XbL2sVGsaa</UserId>
+            <UserNick>Jeff Reese</UserNick>
+            <Date>2010-03-29 04:29:35</Date>
+            <Timestamp>1269862175</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:48 PDT 2010 -->

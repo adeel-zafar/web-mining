@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316040011AAQnALX" type="Answered">
+    <Subject>Internet connection is being very slow. How can I fix this?</Subject>
+    <Content>My Internet connection (which is a wireless connection) has been running slowly for a few days. I can&#039;t even access some websites like Wikipedia and a few others. However, I can perfectly download things at normal speed. I think that it&#039;s a problem with the PC, because I can access everything on my PSP. How can I fix this issue?
+Oh, my operating system is Windows Vista.
+I&#039;m currently using the latest version of Firefox, but I&#039;ve also tried using a different explorer (IE), but nothing works.
+</Content>
+    <Date>2010-03-16 04:00:11</Date>
+    <Timestamp>1268737211</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316040011AAQnALX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0rd1qddAaa</UserId>
+    <UserNick>Blade</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Ttz35JxYAAEDnEJpyI7ZEU4GT9YKZQA=.medium.jpg</UserPhotoURL>
+    <NumAnswers>11</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>swict off automatic updates.......
+u better use PC TOOLS firewall plus or any other firewall plus</ChosenAnswer>
+    <ChosenAnswererId>RX9PbUYpaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ratnayesu</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268744222</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269404529</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>RIGHT my only suggestion is , UPGRADE TO WINDOWS 7  :D</Content>
+            <Reference>i&#039;m a pc , and windows 7 was my idea</Reference>
+            <Best></Best>
+            <UserId>qOLu9TO1aa</UserId>
+            <UserNick>Roberto</UserNick>
+            <Date>2010-03-16 04:01:14</Date>
+            <Timestamp>1268737274</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In your control panel, check internet connect and reboot the modem.  That works for me.  Like a system reset.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NBuDHALSaa</UserId>
+            <UserNick>Terry</UserNick>
+            <Date>2010-03-16 04:01:49</Date>
+            <Timestamp>1268737309</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Have you done an Antivirus and Antispyware scan? If not I would suggest you do, make sure both programs are up to date.
+Regards.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aS6pFALvaa</UserId>
+            <UserNick>Dave</UserNick>
+            <Date>2010-03-16 04:03:40</Date>
+            <Timestamp>1268737420</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Check to see if you have any firewall settings restricting your computer.
+Another thing is, which browser are you using?
+My girlfriend was having the same problem afew weeks back and she was using Internet Explorer.
+But her Brothers laptop which was also wireless was working fine
+So my friend recommended we try downloading Mozilla Firefox.
+Once i did, everything worked fine. So he told me that one of the settings must of been off on my Internet Explorer, when i checked it, i tweaked around for awhile and eventually managed to get it to work fine aswell.
+Hope that&#039;s the problem and you manage to fix it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qV6eoqKqaa</UserId>
+            <UserNick>john</UserNick>
+            <Date>2010-03-16 04:04:36</Date>
+            <Timestamp>1268737476</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you aren&#039;t really literate with computers, It would be best for you to either make a friend that knows about computers(I mean actually knows and not just says they know) and have them take a look or ask a family member that knows how to tinker with computers, everyone has a person like this in their family tree, just have to ask around.  We&#039;re the ugly and boring looking ones, xD.  But did this happen prior to those few days you mentioned or much longer before?  Do you do anything that would be considered illegal on the computer? Is the computer shared? If it is shared, do they do anything illegal or would be considered illegal, such as looking at Porn, downloaded music that is copyrighted, downloading and or watching movies that you are suppose to buy or rent, but not limited to these things.  If yes to the illegal things, then you might have gotten a whole lot of spyware installed in your computer.  Normally people would call these viruses, but they technically aren&#039;t.  Anyway What antivirus software do you have?  If you don&#039;t have one, download the trial of Avast 5.0 somehow, the free home edition one, and get it installed in your computer.  Also download and install Adaware and Malwarebytes&#039; Anti-Malware and Spybot Search &amp; Destroy .  I know it sounds like a lot, but these are the 4 softwares I recommend for everyone and anyone to have installed if they have a computer that is shared with multiple people and don&#039;t know much about computers, as these scanners will usually get out every spy and adware on the system, not viruses however, that&#039;s a completely different thing which I wont go into.
+
+If you do happen to be able to get someone that knows about computers to help you, have them install Advance System Care for you as well, I wouldn&#039;t recommend installing this software by yourself if you aren&#039;t really literate with computer software as this scanner can sometimes do more harm than good if you don&#039;t know whats going on.</Content>
+            <Reference>Just my thoughts really.....</Reference>
+            <Best></Best>
+            <UserId>EKc0OzNMaa</UserId>
+            <UserNick>ANTHONY</UserNick>
+            <Date>2010-03-16 04:11:16</Date>
+            <Timestamp>1268737876</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Do this to your IE, even if you use Firefox. Although this is written for IE8, you can do most of it in IE7 and IE6. It will fix your connection hassles with windows live messenger.
+
+IE8
+If you haven’t got IE8, download it from filehippo.com.  Select the correct one to suit XP or Vista/win7. Its as fast and as presentable as Firefox..  When you install IE8 it will automatically uninstall the existing IE, so if you having problems you can try re-installing it, but first try this.
+
+Set up IE/8 so it runs efficiently. (2 minutes)
+
+1. In IE, Click Tools &gt;Internet Options &gt;Advance Tab. Click Restore advance settings defaults button. Then scroll the listings down to near the bottom and select &gt;Tick empty temp files when browser closes (this empties the cache, which if not empty, will stop you from going online and hassles msn)
+2. Ensure only one phishing filter program, and only one firewall program is used on the computer.  Disable others that may be in other software, or disable the browser phishing filter.
+Ie8  - to disable the phishing filter click Tools &gt; scroll down to SmartScreen filter and disable it.  (leave it on is preferred) SmartScreen filter will stop malicious code from being installed to your computer, specially through activex, however it may be doubling up with your internet security program so causing your browser to be a little slower.  So either disable it in the browser or disable it in your internet security program.
+3. Then in IE8 click the blue drop arrow near the search icon (top RHS corner) &gt;manage search providers &gt;make the one you want default &gt;then remove all the others listed.  These really slow IE8 so remove them.
+4  Click Tools &gt;manage add ons &gt; accelerators and disable all of them.
+5  Get rid of any toolbars on the menu line.  Place the curser near the top under the address bar and right click.  Tick Menu bar, Status Bar, and Command bar. Untick any other listed.
+6  Then Click Tools &gt;Delete Browser History, cookies, add ons,  the whole lot. Do this regularly. Close the browser to set the settings. 
+
+Reboot and then do a windows express updates until no more updates.  This seems to help IE8.
+
+After you have used IE8 and happy with it, then you can experiment with the accelerators in manage add ons, and also experiment with the selections on the menu bar (5 above)
+
+IE8 has nice coloured tabs and if you see some text you like swipe it and a blue arrow shows, click it and you can select a function. These functions will change as you add accelerators. eg you may add Wiki or a medical site etc.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pDxFOekIaa</UserId>
+            <UserNick>chezzrob</UserNick>
+            <Date>2010-03-16 04:25:08</Date>
+            <Timestamp>1268738708</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Virus ? Did you check for it?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11841801</UserId>
+            <UserNick>whizkris</UserNick>
+            <Date>2010-03-16 04:35:19</Date>
+            <Timestamp>1268739319</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Usually wireless internet is slower than internet connected by a modem.  You might want to get a modem.  The only thing is that you have to stay at the same spot to use the computer, you can&#039;t walk around with the computer.  
+So choose what&#039;s more important to you, speed or wireless.  Most people pay more money for high speed internet, not for wireless.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Ye7xL8Vraa</UserId>
+            <UserNick>lolitagirl</UserNick>
+            <Date>2010-03-16 05:44:19</Date>
+            <Timestamp>1268743459</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>swict off automatic updates.......
+u better use PC TOOLS firewall plus or any other firewall plus</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RX9PbUYpaa</UserId>
+            <UserNick>Yesuraj</UserNick>
+            <Date>2010-03-16 05:57:02</Date>
+            <Timestamp>1268744222</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>don&#039;t use proxy</Content>
+            <Reference>same thing happen to me when i use proxy</Reference>
+            <Best></Best>
+            <UserId>cAKVSOpzaa</UserId>
+            <UserNick>Idham</UserNick>
+            <Date>2010-03-19 02:34:36</Date>
+            <Timestamp>1268991276</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There are MANY reasons for computer slow downs:
+ not enough memory
+ too many programs starting up with windows at boot up time
+ too many junk files
+ too many restore points
+
+Clean windows registry can speed up the computer.
+Over time, you install new programs, uninstalled unimportant programs, update software&#039;s, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://downloadlk.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZxlZ5vnbaa</UserId>
+            <UserNick>Rwoodw</UserNick>
+            <Date>2010-03-19 03:09:32</Date>
+            <Timestamp>1268993372</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:50:26 PDT 2010 -->

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307150600AAam45l" type="Answered">
+    <Subject>My netbook browser says its needs to be updated, I have internet explorer?</Subject>
+    <Content>btw I know for a fact I have interet explorer, I needed to know a link where I can download IE 8 for windows CE version 6
+</Content>
+    <Date>2010-03-07 15:06:00</Date>
+    <Timestamp>1268003160</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307150600AAam45l</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ctWFkbV5aa</UserId>
+    <UserNick>Mark F</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I guess Microsoft skimped on the UI on CE and didn&#039;t automatically provide a link to update your software.
+
+Why do people use that crap???</ChosenAnswer>
+    <ChosenAnswererId>AA11666968</ChosenAnswererId>
+    <ChosenAnswererNick>Annorax</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268003380</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268522740</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I guess Microsoft skimped on the UI on CE and didn&#039;t automatically provide a link to update your software.
+
+Why do people use that crap???</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11666968</UserId>
+            <UserNick>Annorax</UserNick>
+            <Date>2010-03-07 15:09:40</Date>
+            <Timestamp>1268003380</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>hello you can download from this site here</Content>
+            <Reference>http://doiop.com/d092qs</Reference>
+            <Best></Best>
+            <UserId>gNiuNrc2aa</UserId>
+            <UserNick>Kelly</UserNick>
+            <Date>2010-03-09 14:08:19</Date>
+            <Timestamp>1268172499</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:37:47 PDT 2010 -->

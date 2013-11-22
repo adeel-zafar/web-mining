@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312133322AAqVRkl" type="Answered">
+    <Subject>why don&#039;t the shutdown limewire?</Subject>
+    <Content>
+they not the
+</Content>
+    <Date>2010-03-12 13:33:22</Date>
+    <Timestamp>1268429602</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312133322AAqVRkl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5xturkj8aa</UserId>
+    <UserNick>cubs0707</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>...what?</ChosenAnswer>
+    <ChosenAnswererId>769d89792a6b6782b24fa8cf12713702aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jim</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268429849</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269112416</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>...what?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>769d89792a6b6782b24fa8cf12713702aa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-12 13:37:29</Date>
+            <Timestamp>1268429849</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Simply Because they can&#039;t. It&#039;s a program that you download, which is impossible to shut down because everyone has it. If it was a program you could access online, then that would be a different story.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>K5QmwNbVaa</UserId>
+            <UserNick>Space Cheese</UserNick>
+            <Date>2010-03-12 13:41:09</Date>
+            <Timestamp>1268430069</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Are you crazy?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>9PFdWQlZaa</UserId>
+            <UserNick>Cyututy</UserNick>
+            <Date>2010-03-12 13:52:06</Date>
+            <Timestamp>1268430726</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:08:27 PDT 2010 -->

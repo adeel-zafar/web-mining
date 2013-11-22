@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401072333AA6IHTH" type="Answered">
+    <Subject>Are there any other sites like 192.com?</Subject>
+    <Content>are there any other sites like 192.com where i can get hold of my dads address etc?
+
+thanks
+</Content>
+    <Date>2010-04-01 07:23:33</Date>
+    <Timestamp>1270131813</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401072333AA6IHTH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WoYKtuxGaa</UserId>
+    <UserNick>Emzor</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1_5GPiRFjAAECCAKcwBbpUncWHw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.118.com/</ChosenAnswer>
+    <ChosenAnswererId>UCgPWnXAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ryan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270294883</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270320283</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.118.com has a people finder.
+
+This site is really good. www.123people.co.uk
+
+it trawls the web for information relating to a given name. Try it</Content>
+            <Reference>www.118.com
+www.123people.co.uk</Reference>
+            <Best></Best>
+            <UserId>td7zHGp9aa</UserId>
+            <UserNick>Zeenery</UserNick>
+            <Date>2010-04-01 07:36:33</Date>
+            <Timestamp>1270132593</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This site is just people finder.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>B8evz3Eeaa</UserId>
+            <UserNick>truth</UserNick>
+            <Date>2010-04-01 08:46:26</Date>
+            <Timestamp>1270136786</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.118.com/</Content>
+            <Reference>123 has pc threats on it</Reference>
+            <Best>5</Best>
+            <UserId>UCgPWnXAaa</UserId>
+            <UserNick>Ryan</UserNick>
+            <Date>2010-04-03 04:41:23</Date>
+            <Timestamp>1270294883</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:39 PDT 2010 -->

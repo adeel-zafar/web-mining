@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325044945AAn7EJw" type="Answered">
+    <Subject>question about twitter?</Subject>
+    <Content>ok so on twitter if i am following someone and my tweets are not private and i reply to their tweet then can they see my reply or do they have to be following me as well??
+thanks, hope that makes sense :)
+</Content>
+    <Date>2010-03-25 04:49:45</Date>
+    <Timestamp>1269517785</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325044945AAn7EJw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pZifjEbJaa</UserId>
+    <UserNick>glambeauty07</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1gamymTPXAAED4eQvyk4BCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yes they can see your tweets</ChosenAnswer>
+    <ChosenAnswererId>uDufEQvdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Andy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269521767</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270037015</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yes they can see your tweets</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>uDufEQvdaa</UserId>
+            <UserNick>Andy</UserNick>
+            <Date>2010-03-25 05:56:07</Date>
+            <Timestamp>1269521767</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:31:31 PDT 2010 -->

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307090311AAaYfHU" type="Answered">
+    <Subject>what is wrong with mozzila firefox 3.6, it is slow as molasses?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-07 09:03:11</Date>
+    <Timestamp>1267981391</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307090311AAaYfHU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9XOu6RD7aa</UserId>
+    <UserNick>scrooge BU</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4aca4cb9i1083zul2sp1/wJrEZX4weaOfh1YgiN0GHdnJ/1/tn48.jpg?ciAAToMBjsSSPSjA</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>dont know scrooge why dont you call the geek squad!</ChosenAnswer>
+    <ChosenAnswererId>HN18pqIVaa</ChosenAnswererId>
+    <ChosenAnswererNick>❀Ms.LaLa❀</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268000651</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268058581</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>lolll mine isnt but i think there might be a glitch. mines going fast though</Content>
+            <Reference>brain :)</Reference>
+            <Best></Best>
+            <UserId>AMP2y4JVaa</UserId>
+            <UserNick>Krissy</UserNick>
+            <Date>2010-03-07 09:04:21</Date>
+            <Timestamp>1267981461</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Maybe you should try Chrome. It&#039;s the fastest web browser out there: http://www.google.com/chrome</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qiUrtMdqaa</UserId>
+            <UserNick>Toby</UserNick>
+            <Date>2010-03-07 09:04:30</Date>
+            <Timestamp>1267981470</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>dont know scrooge why dont you call the geek squad!</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>HN18pqIVaa</UserId>
+            <UserNick>❀Ms.LaLa❀</UserNick>
+            <Date>2010-03-07 14:24:11</Date>
+            <Timestamp>1268000651</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have the same problem, so I switched to safari, which keeps on crashing on me</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yT44S4vgaa</UserId>
+            <UserNick>naughty angel</UserNick>
+            <Date>2010-03-07 14:24:44</Date>
+            <Timestamp>1268000684</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There could be a confllict.  1-Make sure you have no other browser open. ex. internet explorer when you run mozzilla firefox  2-Check connection (uninstall and reinstall network adapter with device manager(right click on computer/properties/manage hardware/device manager) 3-run utilities  delete temporary files and browing history from browser- (tools/delete history), run clean disk and defragment, in that order from start/programs/accessories/system tools/
+
+This assumes you have windows xp or at least a pc with some form of windows.  The paths and file names may differ but the above instructions should serve as a guide. Be sure you know which adapter you are using ex. wireless, etc. before uninstall and reinstall.  You could also try 4- unplug your modem for couple minutes and plug it back in.  If you have a wireless router unplug it also and dont plug it back in untill the modem completely reboots and has full lights. Then plug the router in also..
+
+Hope it helps
+
+Ben</Content>
+            <Reference>Installer.</Reference>
+            <Best></Best>
+            <UserId>AA11251399</UserId>
+            <UserNick>bbulk</UserNick>
+            <Date>2010-03-07 21:40:16</Date>
+            <Timestamp>1268026816</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:40:13 PDT 2010 -->

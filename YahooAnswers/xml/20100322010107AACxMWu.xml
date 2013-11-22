@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322010107AACxMWu" type="Answered">
+    <Subject>How do I access this wireless internet?</Subject>
+    <Content>How do I access my schools wifi, 
+I think they use a VPN server http://vpn-1.elthamcollege.vic.edu.au
+I have filled everything out in the VPN settings I just don&#039;t know the secret/
+
+Whats the secret?
+
+Thanks,
+
+iSlayer
+Oh and the schools network is called EW and is unsecured
+</Content>
+    <Date>2010-03-22 01:01:07</Date>
+    <Timestamp>1269244867</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322010107AACxMWu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vlbqayCcaa</UserId>
+    <UserNick>Dylan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It must be protected by a password, likely you cannot access. check with the school personnel, don&#039;t try hacking.</ChosenAnswer>
+    <ChosenAnswererId>754da81f8104795f14e3b80b2599ebcaaa</ChosenAnswererId>
+    <ChosenAnswererNick>JJ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269245129</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269764001</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It must be protected by a password, likely you cannot access. check with the school personnel, don&#039;t try hacking.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>754da81f8104795f14e3b80b2599ebcaaa</UserId>
+            <UserNick>JJ</UserNick>
+            <Date>2010-03-22 01:05:29</Date>
+            <Timestamp>1269245129</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:23 PDT 2010 -->

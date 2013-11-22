@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304143345AATynZ2" type="Answered">
+    <Subject>how much time its safe to keep my internet MODEM on ?</Subject>
+    <Content>how much time i keep my modem on ? i have 2 computers connected to it
+
+how is normal to keep a modem ?
+</Content>
+    <Date>2010-03-04 14:33:45</Date>
+    <Timestamp>1267742025</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304143345AATynZ2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FlTnBzxkaa</UserId>
+    <UserNick>Hagi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>8h</ChosenAnswer>
+    <ChosenAnswererId>XpCcSru5aa</ChosenAnswererId>
+    <ChosenAnswererNick>2Pac&#039;s Father</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267808555</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267814570</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Other than saving a small amount of electricity, there is no reason to turn off your modem.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FhWOpW4waa</UserId>
+            <UserNick>Odwin Oddball</UserNick>
+            <Date>2010-03-04 14:38:58</Date>
+            <Timestamp>1267742338</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can leave it connected all the time. Just make sure your anti virus is up to date and you have a firewall.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>59Ksz7rDaa</UserId>
+            <UserNick>Jason</UserNick>
+            <Date>2010-03-04 14:39:25</Date>
+            <Timestamp>1267742365</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>8h</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XpCcSru5aa</UserId>
+            <UserNick>2Pac&#039;s Father</UserNick>
+            <Date>2010-03-05 09:02:35</Date>
+            <Timestamp>1267808555</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:09:36 PDT 2010 -->

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221133831AA3LiHZ" type="Answered">
+    <Subject>ebay account balance ?</Subject>
+    <Content>when i look at my ebay account my balance reads a certain amount-but my paypal account is totally differant. how and what can i do to access this ebay current balance?
+i realise this, but it also says amount due=£0 so i dont owe them anything. the fees i pay as i sell them.
+</Content>
+    <Date>2010-02-21 13:38:31</Date>
+    <Timestamp>1266788311</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221133831AA3LiHZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>z2Wt55GGaa</UserId>
+    <UserNick>Rob</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your eBay balance has nothing to do with you PayPal balance</ChosenAnswer>
+    <ChosenAnswererId>gnrMKlo5aa</ChosenAnswererId>
+    <ChosenAnswererNick>The Malkin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266788370</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267500909</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your eBay balance has nothing to do with you PayPal balance</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gnrMKlo5aa</UserId>
+            <UserNick>Sniiipers!!</UserNick>
+            <Date>2010-02-21 13:39:30</Date>
+            <Timestamp>1266788370</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your eBay balance is what you owe fo selling and has nothing to do with what is in your PayPal account what-so-ever!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-02-21 13:40:29</Date>
+            <Timestamp>1266788429</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The eBay balance has to do with fees that you may have gotten for selling items, etc. These will be charged to your credit card, bank account or paypal account as you have set up. 
+The Paypal balance is like a bank account. If you have sold something the money goes into the account. If you buy something the money comes out of that account. The eBay charges might be draw from that account if you have set it up that way.
+So yes they are two entirely different accounts.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ca9800e875bb4c0b4dbd33a8358d5eefaa</UserId>
+            <UserNick>Greyolddave</UserNick>
+            <Date>2010-02-21 13:42:28</Date>
+            <Timestamp>1266788548</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:33:37 PDT 2010 -->

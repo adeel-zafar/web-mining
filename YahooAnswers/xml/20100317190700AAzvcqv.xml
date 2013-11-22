@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317190700AAzvcqv" type="Answered">
+    <Subject>Is there any way to figure out who is &quot;anonymously&quot; asking me questions on formspring?</Subject>
+    <Content>Not that I don&#039;t love the attention of being called hot, etc etc, I don&#039;t like not knowing who it is, and it is bothering me, and my boyfriend is not enjoying it either. 
+Is there a way, at all, to track it?
+Edit: I need to rephrase. I do like the attention, but I do not like it from strangers.
+Ah, still need to rephrase (I&#039;m sounding stuck up). I like the attention from my boyfriend. Not strangers. Jeesh, don&#039;t I have a way with words?
+</Content>
+    <Date>2010-03-17 19:07:00</Date>
+    <Timestamp>1268878020</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317190700AAzvcqv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Rskxm6ZDaa</UserId>
+    <UserNick>Courtney is back again</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4baa32e3i1434zws125ac4/JAqwXfo5bqQXvc7AShq26VFh_sG0lA--/1/tn48.png?ciAAToMBPTIWtXMZ</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Does this mean that we aren&#039;t meeting at the Motel 6 this afternoon? If you come, I promise I&#039;ll stop asking questions...</ChosenAnswer>
+    <ChosenAnswererId>NDxvFUORaa</ChosenAnswererId>
+    <ChosenAnswererNick>Waldorf Schmecky</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268922121</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268925928</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>nopeeeeeeeeeeeee</Content>
+            <Reference>http://www.formspring.me/Jessica920</Reference>
+            <Best></Best>
+            <UserId>i6axWlyaaa</UserId>
+            <UserNick>Jessica S</UserNick>
+            <Date>2010-03-17 19:11:26</Date>
+            <Timestamp>1268878286</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There&#039;s a lot of pervs and jerks who use that anonymity feature to ask silly questions.
+My friend Arielle using Formspring, like you, and she gets gross questions daily :(</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>y1ERToiEaa</UserId>
+            <UserNick>Samian&#039;s Nineteenth Account</UserNick>
+            <Date>2010-03-17 19:12:21</Date>
+            <Timestamp>1268878341</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i never tried formspring and seen it many times but you can get hidden trackers that MIGHT work. 
+the trackers will take down their IP so you can know the location of their place but that is all. 
+i&#039;ll play with that site and see if it works then get back to this question.
+
+//edit
+
+never mind...the codes don&#039;t work with that site.
+here is what i used.
+http://www.statcounter.com/
+http://getclicky.com/
+:(</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>9dUJSbdMaa</UserId>
+            <UserNick>xxdangerxx3</UserNick>
+            <Date>2010-03-17 19:15:54</Date>
+            <Timestamp>1268878554</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>no :(. well the police could</Content>
+            <Reference>http://www.formspring.me/screamoftw</Reference>
+            <Best></Best>
+            <UserId>KfKqdRapaa</UserId>
+            <UserNick>:)</UserNick>
+            <Date>2010-03-17 19:30:19</Date>
+            <Timestamp>1268879419</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Does this mean that we aren&#039;t meeting at the Motel 6 this afternoon? If you come, I promise I&#039;ll stop asking questions...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NDxvFUORaa</UserId>
+            <UserNick>Waldorf Schmecky</UserNick>
+            <Date>2010-03-18 07:22:01</Date>
+            <Timestamp>1268922121</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Wait... Did you just break up with me?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>um29wkUPaa</UserId>
+            <UserNick>Bozz Mozz</UserNick>
+            <Date>2010-03-18 08:14:01</Date>
+            <Timestamp>1268925241</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Host an image, stick it in a post (if you can do that.  I&#039;m not really sure what formspring is), check your server logs to see which IPs call the image.  Do this many times.  If you see one IP repeated a lot, that&#039;s probably your stalker.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zCUnjA88aa</UserId>
+            <UserNick>serf</UserNick>
+            <Date>2010-03-18 08:25:20</Date>
+            <Timestamp>1268925920</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:56 PDT 2010 -->

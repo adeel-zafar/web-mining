@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319153203AAwVNCF" type="Answered">
+    <Subject>Amazon.ca............?</Subject>
+    <Content>Well I have a couple questions about amazon.ca
+
+1) Is the Shipping free if the order is over $39?? Is it the total price of the orders or the price of every individual item.
+
+2) Can I pay off the tax with a gift certificate
+
+Try to explain as many question you can to the best of your abbility..... thanx
+</Content>
+    <Date>2010-03-19 15:32:03</Date>
+    <Timestamp>1269037923</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319153203AAwVNCF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5F8r5A49aa</UserId>
+    <UserNick>Robin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/19MNsSCe5AAEDX4FUoAvd4nMB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1) Yes, and it is the total price of the order.
+
+2) Yes</ChosenAnswer>
+    <ChosenAnswererId>pVGY9myOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Firzen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269038442</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269557591</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>1) Yes, and it is the total price of the order.
+
+2) Yes</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>pVGY9myOaa</UserId>
+            <UserNick>Firzen</UserNick>
+            <Date>2010-03-19 15:40:42</Date>
+            <Timestamp>1269038442</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:40 PDT 2010 -->

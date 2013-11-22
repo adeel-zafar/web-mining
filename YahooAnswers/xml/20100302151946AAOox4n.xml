@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302151946AAOox4n" type="Answered">
+    <Subject>Question on Using Firefox 3.6?</Subject>
+    <Content>I&#039;ve been using Firefox 3.6 for a while, as it seems to handle many tabs at once much better than Firefox 3.5 did, but there&#039;s one thing from the old Firefox that I miss and was wondering if there&#039;s a way to change. In Firefox 3.5, when I used Ctrl + Click on a link, the new tab moves to the end of my tab list, but in the new version, when I use Ctrl + Click on a link, the new tab comes directly to the right of the current tab, even if there are other tabs already open to the right of it.
+
+I know it&#039;s a small thing, but it bothers me to no end. If anyone knows how to make the new Firefox do that, or if there&#039;s any plugins that can change it, I&#039;d love you for eternity if you&#039;d let me know how to do so :)
+
+Thanks in advance!
+</Content>
+    <Date>2010-03-02 15:19:46</Date>
+    <Timestamp>1267571986</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302151946AAOox4n</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VBfiu9eJaa</UserId>
+    <UserNick>Zero</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I would recommend you get used to the new Firefox behavior. It confused me a bit at first, but after awhile, I started to really appreciate it. It is more logical. Also, you can easily move tabs around by clicking on them and dragging them where you want them (even into their own windows or into existing Firefox windows).
+
+But if you find you really don&#039;t like it and can&#039;t, or don&#039;t want to, get used to it:
+
+1) Enter about:config in the address bar
+2) Find tabs.insertRelatedAfterCurrent
+3) Right-click on it and select “Toggle”
+
+That will revert to the old behavior.</ChosenAnswer>
+    <ChosenAnswererId>ebuxHnScaa</ChosenAnswererId>
+    <ChosenAnswererNick>JoelKatz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267572232</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267587416</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I would recommend you get used to the new Firefox behavior. It confused me a bit at first, but after awhile, I started to really appreciate it. It is more logical. Also, you can easily move tabs around by clicking on them and dragging them where you want them (even into their own windows or into existing Firefox windows).
+
+But if you find you really don&#039;t like it and can&#039;t, or don&#039;t want to, get used to it:
+
+1) Enter about:config in the address bar
+2) Find tabs.insertRelatedAfterCurrent
+3) Right-click on it and select “Toggle”
+
+That will revert to the old behavior.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ebuxHnScaa</UserId>
+            <UserNick>JoelKatz</UserNick>
+            <Date>2010-03-02 15:23:52</Date>
+            <Timestamp>1267572232</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:24:31 PDT 2010 -->

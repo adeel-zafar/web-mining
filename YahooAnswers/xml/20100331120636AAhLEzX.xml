@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331120636AAhLEzX" type="Answered">
+    <Subject>When trying to video chat on skype, our avatar won&#039;t go away. How do we make it so you see us not our avatar?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-31 12:06:36</Date>
+    <Timestamp>1270062396</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331120636AAhLEzX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ARIFjCAVaa</UserId>
+    <UserNick>katie_krazy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/17YAPmIi7AAEDMwE_HI4Vc-fQHQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The avatar means that the video is not going through.
+
+Make sure you have everything activated and you&#039;ve started the video.
+
+https://support.skype.com/faq/FA3741/How-do-I-activate-video?frompage=search&amp;q=webcam
+https://support.skype.com/faq/FA3731/How-do-I-test-my-video-to-check-it-works?frompage=search&amp;q=webcam
+
+You can start a video call by clicking on someone in your Contact list and then clicking on the ‘Video call’ button or by choosing ‘Turn on video’ if you&#039;re already on a call. You can switch video on and off during the call, by clicking the ‘Turn on video’ and ‘Turn off video’ buttons.</ChosenAnswer>
+    <ChosenAnswererId>AA10076616</ChosenAnswererId>
+    <ChosenAnswererNick>laaabaseball</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270066521</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270081132</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The avatar means that the video is not going through.
+
+Make sure you have everything activated and you&#039;ve started the video.
+
+https://support.skype.com/faq/FA3741/How-do-I-activate-video?frompage=search&amp;q=webcam
+https://support.skype.com/faq/FA3731/How-do-I-test-my-video-to-check-it-works?frompage=search&amp;q=webcam
+
+You can start a video call by clicking on someone in your Contact list and then clicking on the ‘Video call’ button or by choosing ‘Turn on video’ if you&#039;re already on a call. You can switch video on and off during the call, by clicking the ‘Turn on video’ and ‘Turn off video’ buttons.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>AA10076616</UserId>
+            <UserNick>laaabaseball</UserNick>
+            <Date>2010-03-31 13:15:21</Date>
+            <Timestamp>1270066521</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:44 PDT 2010 -->

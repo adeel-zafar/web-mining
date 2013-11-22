@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314172451AA6V823" type="Answered">
+    <Subject>I just started selling on EBAY and the price is 70.00 but inder the price it has another amount. How did it?</Subject>
+    <Content>get there and what is it for? It looks like this US $70.00
+£46.12
+</Content>
+    <Date>2010-03-14 17:24:51</Date>
+    <Timestamp>1268612691</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314172451AA6V823</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4OOpyFSFaa</UserId>
+    <UserNick>Sgt.Morgan1</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1yIc5s06EAAEB_gElhc8iCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It appears to be the price in English pounds.  They don&#039;t use the dollar over there.</ChosenAnswer>
+    <ChosenAnswererId>HWoEiKPMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sattamander</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268614935</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268628886</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It appears to be the price in English pounds.  They don&#039;t use the dollar over there.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>HWoEiKPMaa</UserId>
+            <UserNick>Sattamander</UserNick>
+            <Date>2010-03-14 18:02:15</Date>
+            <Timestamp>1268614935</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:23 PDT 2010 -->

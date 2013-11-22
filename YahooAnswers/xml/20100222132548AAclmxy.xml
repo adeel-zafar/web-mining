@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222132548AAclmxy" type="Answered">
+    <Subject>Who knows where I can watch Firefly online for free?</Subject>
+    <Content>I&#039;m looking for a website that has the second episode of Firefly. I was too young to appreciate it when it was on TV, and now I&#039;m looking for it online. If someone could just give me the link to s01 e02 (&#039;The Train Job&#039;) that I could go to to watch it online without downloading it, that would be great.
+</Content>
+    <Date>2010-02-22 13:25:48</Date>
+    <Timestamp>1266873948</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222132548AAclmxy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SCUla901aa</UserId>
+    <UserNick>Frank</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1zj2syeKiAAEB_IHI0NADCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you&#039;re willing to wait, Hulu&#039;s going to have more of the series available to watch online soon.
+
+Also, there&#039;s got to be someone around you know who&#039;s got the DVDs. I know you can buy the whole 14-episode run of the show for under $20.</ChosenAnswer>
+    <ChosenAnswererId>AA12284392</ChosenAnswererId>
+    <ChosenAnswererNick>Old Fat Bald Guy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266874380</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267393664</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you&#039;re willing to wait, Hulu&#039;s going to have more of the series available to watch online soon.
+
+Also, there&#039;s got to be someone around you know who&#039;s got the DVDs. I know you can buy the whole 14-episode run of the show for under $20.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA12284392</UserId>
+            <UserNick>Old Fat Bald Guy</UserNick>
+            <Date>2010-02-22 13:33:00</Date>
+            <Timestamp>1266874380</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>movieforumonline.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MxpNAUZkaa</UserId>
+            <UserNick>Sue</UserNick>
+            <Date>2010-02-23 11:45:55</Date>
+            <Timestamp>1266954355</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:26:52 PDT 2010 -->

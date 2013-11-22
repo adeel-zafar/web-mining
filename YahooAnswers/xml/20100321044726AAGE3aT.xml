@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321044726AAGE3aT" type="Answered">
+    <Subject>firefox drop down bar too big?</Subject>
+    <Content>i just downloaded firefox 6, the drop down bar is huge...for example if it is google.com it says this:
+
+Google
+hhtp://www.google.com
+
+
+but in big probably size 16 letters.......i like the old style like internet explorer has where it will just say www.google.com in maybe size 12 letters
+
+i hate this new firefox...any idea how to change it?
+</Content>
+    <Date>2010-03-21 04:47:26</Date>
+    <Timestamp>1269172046</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321044726AAGE3aT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kj7USH2baa</UserId>
+    <UserNick>Pablo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go to tools then options go to content, in the second box down there are the font settings</ChosenAnswer>
+    <ChosenAnswererId>hLtQ3eeQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Blair</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269174983</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269691438</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I dont use firefox bar. You might look under tools opt settings. Ihave firefox and only use google. I deleted the rest</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10541559</UserId>
+            <UserNick>big bloc</UserNick>
+            <Date>2010-03-21 05:22:40</Date>
+            <Timestamp>1269174160</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go to tools then options go to content, in the second box down there are the font settings</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>hLtQ3eeQaa</UserId>
+            <UserNick>Blair</UserNick>
+            <Date>2010-03-21 05:36:23</Date>
+            <Timestamp>1269174983</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:08 PDT 2010 -->

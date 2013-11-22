@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308163355AAYmKt9" type="Answered">
+    <Subject>who has a twitter page?</Subject>
+    <Content>could you follow me? i just made a page. i promise to post interesting posts, and will reply to you alot. 
+
+www.twitter.com/wintrybear
+
+ily :)
+</Content>
+    <Date>2010-03-08 16:33:55</Date>
+    <Timestamp>1268094835</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308163355AAYmKt9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6RvjilQraa</UserId>
+    <UserNick>Bel</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Did anyone follow you?</ChosenAnswer>
+    <ChosenAnswererId>23b6749a7088443a1a545bf4e3bff54caa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268417387</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268610875</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Did anyone follow you?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>23b6749a7088443a1a545bf4e3bff54caa</UserId>
+            <UserNick>Mark D</UserNick>
+            <Date>2010-03-12 10:09:47</Date>
+            <Timestamp>1268417387</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:29:16 PDT 2010 -->

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312124913AAEQnzV" type="Answered">
+    <Subject>Mozilla Firefox won&#039;t open at all?</Subject>
+    <Content>I used mozilla firefox for a long while, and it worked fine.
+Then all of a sudden it just stopped opening.
+When I click on the icon, it does the loading hourglass thing for a few seconds then does nothing.
+No matter how long I wait. 
+It&#039;s been probably a couple months since I have used it, and Im just now getting around to asking how can I get it working again?
+Please help! Thanks :)
+</Content>
+    <Date>2010-03-12 12:49:13</Date>
+    <Timestamp>1268426953</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312124913AAEQnzV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cun0Fwkwaa</UserId>
+    <UserNick>dreamybabyblues05</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1XTKKYbUyAAEDBmOcsJjhA4LAEQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>re-install firefox and update to latest version.
+
+if you have already done that, then try downgrading to a previous version (e.g version 2.20)</ChosenAnswer>
+    <ChosenAnswererId>bHtb3dp0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jackoboy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268427138</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269591742</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>re-install firefox and update to latest version.
+
+if you have already done that, then try downgrading to a previous version (e.g version 2.20)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bHtb3dp0aa</UserId>
+            <UserNick>Jackoboy</UserNick>
+            <Date>2010-03-12 12:52:18</Date>
+            <Timestamp>1268427138</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to control panel and uninstall firefox. and then download it again. make sure to keep it updated. 
+
+or... when you are on your desktop screen, click ctrl, alt, and delete at the same time to bring up the task manager. click processes, and look for the process called &#039;firefox.exe&#039; choose to end the process and try opening firefox again.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>p8btBYC7aa</UserId>
+            <UserNick>Andrew B</UserNick>
+            <Date>2010-03-12 12:53:07</Date>
+            <Timestamp>1268427187</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It is a long time since I&#039;ve used Windows, but I can&#039;t help but wonder if your computer has some sort of malware in it. I think I would update my antivirus then scan to see if it finds anything. Then try and save your browser settings. One way to do that is to use another browser which will copy those settings. Once you have done that, download the latest version of FF, then remove the old version and install the new version. If you don&#039;t have an alternative browser, get at least one. 
+The best long term solution is to not use Windows unless you have to, use one of the free and better (and free) operating systems such as Ubuntu for your day to day computing and surfing.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3c0c8be5fca466eb221bf1bf02ddc784aa</UserId>
+            <UserNick>Bad bus driving wolf</UserNick>
+            <Date>2010-03-12 13:01:01</Date>
+            <Timestamp>1268427661</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>First, Reinstall Firefox.  If it don&#039;t work run a scan with a anti- virus if you have one on your computer you don&#039;t need to pay for some but stay away from avg also Microsoft Security Essential it free also Avast is free if you need to get one. If the anti-virus scan didn&#039;t find anything tried running Malware Bytes AntiMalware. You can get it by download.com.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EN2KT2YRaa</UserId>
+            <UserNick>Corb</UserNick>
+            <Date>2010-03-12 13:39:22</Date>
+            <Timestamp>1268429962</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you have it set to update automatically it probably has and gone wrong  but Give up on Firefox until its fixed there are currently just too many problems to rate it as a reliable piece of software. Try Orca, K-Meleon or Flock they are all free Mozilla based browsers and are all faster than Firefox. They have been produced by people who agree the Mozilla search engine is best but that firefox has gone wrong somewhere. If you go to firefox help pages or Mozillazine help pages you will see that the people there are extremely arrogant and blame everything and everybody for having problems with Firefox. Not a good sign. IE8 is OK with a shell like Avant or Maxthon or slim browser. But a browser that is not part of the OS will always be more secure. the less well known it is the less likely it will be hacked.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-12 14:26:31</Date>
+            <Timestamp>1268432791</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>reinstall and/or update</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SRTvYTMraa</UserId>
+            <UserNick>The Scarlet Spider</UserNick>
+            <Date>2010-03-14 00:50:45</Date>
+            <Timestamp>1268556645</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:08:41 PDT 2010 -->

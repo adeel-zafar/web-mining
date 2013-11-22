@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221143819AAtzdCg" type="Answered">
+    <Subject>Why is it that when you type sky news in google, the first link never works!!?</Subject>
+    <Content>The very first link to the homepage says..Content Encoding Error
+The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.
+But the second link in google to sky news works..but takes you to the UK page, not the home page.
+</Content>
+    <Date>2010-02-21 14:38:19</Date>
+    <Timestamp>1266791899</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221143819AAtzdCg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4aH6GSDtaa</UserId>
+    <UserNick>LiberatingJustice</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Not sure what you mean.  Sky is a UK company.  I just told you the first link works fine for me</ChosenAnswer>
+    <ChosenAnswererId>2LbTrlQnaa</ChosenAnswererId>
+    <ChosenAnswererNick>JIM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266792029</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266939179</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Not sure what you mean.  Sky is a UK company.  I just told you the first link works fine for me</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-02-21 14:40:29</Date>
+            <Timestamp>1266792029</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:33:28 PDT 2010 -->

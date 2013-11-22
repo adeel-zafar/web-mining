@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327022048AAew3ub" type="Answered">
+    <Subject>how to connect my e63 to my laptop to access internet via wireless LAN?</Subject>
+    <Content>my e63 has wifi and my laptop also has it. i am a new user. i don&#039;t know how to connect it. plz guide me.....
+is there any need to create a profile in the intelPROset/wireless??  i don&#039;t know how to create it either...plz help
+</Content>
+    <Date>2010-03-27 02:20:48</Date>
+    <Timestamp>1269681648</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327022048AAew3ub</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yjYUzh3baa</UserId>
+    <UserNick>Simranpreet</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>in ur laptop, goto connection properties, from there goto sharing &amp; security. share ur connection &amp; click on allow other users to connect through connection... 
+
+do same with ur Wi Fi connection..ur problem will be solved.</ChosenAnswer>
+    <ChosenAnswererId>mJJZjDLcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Shehzad</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269684767</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270200809</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you could try this: go to network and sharing center and click on set up a new connection or network and pick set up a wireless ad hoc (computer to computer) network.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ciaM9o8Naa</UserId>
+            <UserNick>gothikzoul</UserNick>
+            <Date>2010-03-27 02:25:55</Date>
+            <Timestamp>1269681955</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>in ur laptop, goto connection properties, from there goto sharing &amp; security. share ur connection &amp; click on allow other users to connect through connection... 
+
+do same with ur Wi Fi connection..ur problem will be solved.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mJJZjDLcaa</UserId>
+            <UserNick>Shehzad</UserNick>
+            <Date>2010-03-27 03:12:47</Date>
+            <Timestamp>1269684767</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:54 PDT 2010 -->

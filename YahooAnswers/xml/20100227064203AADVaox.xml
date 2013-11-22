@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227064203AADVaox" type="Answered">
+    <Subject>Internet Explorer 404 Error Pop Up. Even Opens when I dont have IE Open?</Subject>
+    <Content>I have tried everything. Ive scanned my whole system and there are no errors. I have ended the IE process and it gets rid of my desktop toolbar.
+
+I do use FireFox. But it still pops up. I think it is when I downloaded something because my Temp Internet Files keep gettin filled with all these porn/nudity pics/links I havnt even been too. But I have scanned and it comes up with nothing.
+
+And Ideas?
+</Content>
+    <Date>2010-02-27 06:42:03</Date>
+    <Timestamp>1267281723</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227064203AADVaox</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Srq93um2aa</UserId>
+    <UserNick>Stevo</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a3789bbi937zul7sp1/HyYH1XIib6PX_BhpCuSwf.Onqw--/2/tn48.jpg?ciAAToMBGpoJwEOa</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Run a complete virus scan and then complete spyware scans using HijackThis,and AdAware.  Also, in task manager look in the Processes tab and sort by CPU to see if something you don&#039;t recognize is running.
+
+There is something lurking in your computer somewhere and these measures should help you find it and get rid of it.</ChosenAnswer>
+    <ChosenAnswererId>GHTdKnn0aa</ChosenAnswererId>
+    <ChosenAnswererNick>George</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267282006</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267801388</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Run a complete virus scan and then complete spyware scans using HijackThis,and AdAware.  Also, in task manager look in the Processes tab and sort by CPU to see if something you don&#039;t recognize is running.
+
+There is something lurking in your computer somewhere and these measures should help you find it and get rid of it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>GHTdKnn0aa</UserId>
+            <UserNick>George</UserNick>
+            <Date>2010-02-27 06:46:46</Date>
+            <Timestamp>1267282006</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you do not use IE then un install it then run the scans suggested in the post before.
+By George.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>y6ERkUtiaa</UserId>
+            <UserNick>nikkai</UserNick>
+            <Date>2010-02-27 07:49:55</Date>
+            <Timestamp>1267285795</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:45:27 PDT 2010 -->

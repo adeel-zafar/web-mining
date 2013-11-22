@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304080954AA7e9io" type="Answered">
+    <Subject>how can I make a good thumbnail picture for twitter?</Subject>
+    <Content>I&#039;ve seen people with good quality photos as their default and mine always comes out all blurry :/ is there anything I can use to make a good looking thumbnail instead of letting twitter shrink my photos automaticaly?
+</Content>
+    <Date>2010-03-04 08:09:54</Date>
+    <Timestamp>1267718994</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304080954AA7e9io</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>h8LDXJKjaa</UserId>
+    <UserNick>jesus</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>XnView is a utility for viewing and converting graphic files.
+
+You can find a link to download it here:
+http://www.goinglogo.co.uk/index.html
+
+Once you have downloaded it, open up the file, then from the menu select Image|resize.
+
+Once you have it at the right size, do File|Save as
+
+Its all straightforward from there.</ChosenAnswer>
+    <ChosenAnswererId>bECHKAARaa</ChosenAnswererId>
+    <ChosenAnswererNick>Goinglogo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267901559</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268238429</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>XnView is a utility for viewing and converting graphic files.
+
+You can find a link to download it here:
+http://www.goinglogo.co.uk/index.html
+
+Once you have downloaded it, open up the file, then from the menu select Image|resize.
+
+Once you have it at the right size, do File|Save as
+
+Its all straightforward from there.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bECHKAARaa</UserId>
+            <UserNick>Goinglogo</UserNick>
+            <Date>2010-03-06 10:52:39</Date>
+            <Timestamp>1267901559</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:11:35 PDT 2010 -->

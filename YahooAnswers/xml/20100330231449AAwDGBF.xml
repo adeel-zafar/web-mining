@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330231449AAwDGBF" type="Answered">
+    <Subject>internet problems thanks?</Subject>
+    <Content>well when i go to a webpage at times i just get a blank pages. On times i get through and see the web page.
+
+For example when i go to yahoo i can access the web pages and one other occasion i cannot. All i get is a blank page.
+
+I have cleaned the cookies and i have no viruses
+
+any idea what to do?
+</Content>
+    <Date>2010-03-30 23:14:49</Date>
+    <Timestamp>1270016089</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330231449AAwDGBF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZVXKim7Naa</UserId>
+    <UserNick>Winner</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try refereshig the page first, then turn off comp. turn off modem reboot comp and then turn on modem. 
+Whilst this is happening in yahoo can you get other pages.</ChosenAnswer>
+    <ChosenAnswererId>MKWPCvupaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tony P</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270019908</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270103249</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you use vista it is called the white screen of death and the easiest fix is to reinstall your o.s</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xYYXosKYaa</UserId>
+            <UserNick>Meghan</UserNick>
+            <Date>2010-03-30 23:20:01</Date>
+            <Timestamp>1270016401</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try refereshig the page first, then turn off comp. turn off modem reboot comp and then turn on modem. 
+Whilst this is happening in yahoo can you get other pages.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>MKWPCvupaa</UserId>
+            <UserNick>Tony P</UserNick>
+            <Date>2010-03-31 00:18:28</Date>
+            <Timestamp>1270019908</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:14 PDT 2010 -->

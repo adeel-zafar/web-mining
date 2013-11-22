@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322035423AAlTqLi" type="Answered">
+    <Subject>Does anyone know of Firefox Add-on that checks Add-on compatibility?</Subject>
+    <Content>Looking for a Firefox Add-on that works for v 3.5.1 and for the latest version(8) that checks whether current Add-ons are compatible with the version certain versions of Firefox or at least the latest one.
+Colinc, I know this but I heard of such a Addon-on before and I&#039;m trying to find it again or a similar one, it&#039;s just the way I prefer but thanks, last time I update that process as I recall didn&#039;t work that way(informing me of Addon-ons that weren&#039;t compatible) and I&#039;d like to avoid that again.
+</Content>
+    <Date>2010-03-22 03:54:23</Date>
+    <Timestamp>1269255263</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322035423AAlTqLi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aa382d783c7d775e7642f723203a2199aa</UserId>
+    <UserNick>rocklover</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1bTVeiTfHAAECIYKcSJeQBw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I couldnt get your problem exactly though.  
+
+I think this add ons could help
+
+https://addons.mozilla.org/en-US/firefox/addon/66590
+
+This one checks the cmpatibility of the add on for the next version</ChosenAnswer>
+    <ChosenAnswererId>RjicX1Hcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mony</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269358879</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269400738</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox automatically checks compatibility of add-ons. It disables incompatible ones and informs you of this on startup.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hXHBm1BSaa</UserId>
+            <UserNick>Colinc</UserNick>
+            <Date>2010-03-22 03:59:25</Date>
+            <Timestamp>1269255565</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I couldnt get your problem exactly though.  
+
+I think this add ons could help
+
+https://addons.mozilla.org/en-US/firefox/addon/66590
+
+This one checks the cmpatibility of the add on for the next version</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RjicX1Hcaa</UserId>
+            <UserNick>Mony</UserNick>
+            <Date>2010-03-23 08:41:19</Date>
+            <Timestamp>1269358879</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:08 PDT 2010 -->

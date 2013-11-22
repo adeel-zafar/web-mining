@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305174613AAqgtzw" type="Answered">
+    <Subject>How do you set a page to come up when you open the internet?</Subject>
+    <Content>I have a mac, and i want to no, how can i set a certain page to comeup when i open safari
+</Content>
+    <Date>2010-03-05 17:46:13</Date>
+    <Timestamp>1267839973</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305174613AAqgtzw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ri8vspUQaa</UserId>
+    <UserNick>matiku</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Simple, if you&#039;re using Safari, you either set a page as your homepage, or add it to show up WITH the current homepage, plus that page.
+
+Safari: http://browsers.about.com/od/safar1/ss/safarihomepage_3.htm
+IE: http://browsers.about.com/od/internetexplorertutorials/ss/ie7homepage_4.htm
+Chrome: http://malektips.com/google-chrome-home-button-toolbar.html
+Firefox: http://lifehacker.com/104939/how-to-set-up-multiple-homepages-in-firefox</ChosenAnswer>
+    <ChosenAnswererId>P9MHLj30aa</ChosenAnswererId>
+    <ChosenAnswererNick>Happily Unknown Person</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267846746</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268580193</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Select General from the Preferences menu, which is now overlaying your browser window. Once General is selected, you will notice a section labeled Home Page in the main window of the Preferences dialog.
+
+Directly to the right of the &quot;Home Page&quot; label is an edit field containing your current home page URL. In the example below, Safari&#039;s current home page is http://www.apple.com. To modify this address, simply erase the contents of the edit field and replace it with the desired web address.
+
+Directly below this edit field you will see a button labeled Set to Current Page. Clicking this button will change your home page setting to whatever page you are currently viewing within the Safari browser.
+
+Once you have completed your changes, close the Safari Preferences dialog by clicking the red circle/x located in the top left hand corner of the box.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>a20AXSFWaa</UserId>
+            <UserNick>Towelie</UserNick>
+            <Date>2010-03-05 17:47:41</Date>
+            <Timestamp>1267840061</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Simple, if you&#039;re using Safari, you either set a page as your homepage, or add it to show up WITH the current homepage, plus that page.
+
+Safari: http://browsers.about.com/od/safar1/ss/safarihomepage_3.htm
+IE: http://browsers.about.com/od/internetexplorertutorials/ss/ie7homepage_4.htm
+Chrome: http://malektips.com/google-chrome-home-button-toolbar.html
+Firefox: http://lifehacker.com/104939/how-to-set-up-multiple-homepages-in-firefox</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>P9MHLj30aa</UserId>
+            <UserNick>Happily Unknown Person</UserNick>
+            <Date>2010-03-05 19:39:06</Date>
+            <Timestamp>1267846746</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:53:57 PDT 2010 -->

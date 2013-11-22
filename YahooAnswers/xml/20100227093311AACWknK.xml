@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227093311AACWknK" type="Answered">
+    <Subject>TWITTER???!!! PLZZ HELP!!!!!!?</Subject>
+    <Content>Ok so I JUST got a Twitter like 10 minutes ago. I followed someone but how do I send them messages?
+</Content>
+    <Date>2010-02-27 09:33:11</Date>
+    <Timestamp>1267291991</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227093311AACWknK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bKRwPvdvaa</UserId>
+    <UserNick>Mrs. Bieber</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UguqvpXCAAEC4wSDlmLoDQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This might help you: http://help.twitter.com/entries/14023-what-are-replies-and-mentions</ChosenAnswer>
+    <ChosenAnswererId>HIYLlHz0aa</ChosenAnswererId>
+    <ChosenAnswererNick>peacefullyoptimistic</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267421818</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267811661</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This might help you: http://help.twitter.com/entries/14023-what-are-replies-and-mentions</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>HIYLlHz0aa</UserId>
+            <UserNick>peacefullyoptimistic</UserNick>
+            <Date>2010-02-28 21:36:58</Date>
+            <Timestamp>1267421818</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:44:52 PDT 2010 -->

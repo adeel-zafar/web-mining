@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302174908AAjb42j" type="Answered">
+    <Subject>I have been getting harassed?</Subject>
+    <Content>I have been getting harassed on my formspring. I am going to delete it, however I was wondering if there is a way to figure out who is posting the harassing comments before I do so. Is there ANY way to figure out whos posting on your formspring?
+ It&#039;s really stressing me out.  
+
+ Thank you very much! &lt;3
+</Content>
+    <Date>2010-03-02 17:49:08</Date>
+    <Timestamp>1267580948</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302174908AAjb42j</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Q2FLtoXAaa</UserId>
+    <UserNick>Ele &lt;3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1p-CtjIxrAAIBz8ScfU0MGngB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>delete it</ChosenAnswer>
+    <ChosenAnswererId>XaaV4mJEaa</ChosenAnswererId>
+    <ChosenAnswererNick>KarmaKayla</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267580991</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268100398</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>delete it</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XaaV4mJEaa</UserId>
+            <UserNick>KarmaKayla</UserNick>
+            <Date>2010-03-02 17:49:51</Date>
+            <Timestamp>1267580991</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:10 PDT 2010 -->

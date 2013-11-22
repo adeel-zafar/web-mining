@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327133535AArhzQ0" type="Answered">
+    <Subject>Anyone else having problems getting into yahoo mail?</Subject>
+    <Content>
+I want to read my emails, but at the moment all it`s doing is searching for the page then just comes up with blank page, says done at the bottom.
+</Content>
+    <Date>2010-03-27 13:35:35</Date>
+    <Timestamp>1269722135</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327133535AArhzQ0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>C9TJYLoVaa</UserId>
+    <UserNick>Trish</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This has been happening for some time now, Yahoo are working on it they say but for now try this.Recommended fixes for the many current problems include Update Adobe Flash Player Internet Explorer and Java script . Clear Explorer cache, cookies, and browsing history. Some find that a return to classic mail improves things. You could also try an alternative browser. Hope this helps</ChosenAnswer>
+    <ChosenAnswererId>9BL6LFJ9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Ol&#039;grizzler</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269724957</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269868738</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes most of the time, I get so ticked off that I give up, why does it keep on crashing? - I have tried in the early hours when not many people would be on - but it makes no difference.</Content>
+            <Reference>What happens to me</Reference>
+            <Best></Best>
+            <UserId>QHZOZxilaa</UserId>
+            <UserNick>Betty</UserNick>
+            <Date>2010-03-27 13:40:15</Date>
+            <Timestamp>1269722415</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, I can&#039;t get into mail even now.
+
+Seems like it comes in spells, but the last day or two is the worst.  It would be nice if they told us what was going on.
+best,
+Jay</Content>
+            <Reference>Personal experience</Reference>
+            <Best></Best>
+            <UserId>z9h5zmh3aa</UserId>
+            <UserNick>Jay H</UserNick>
+            <Date>2010-03-27 14:21:47</Date>
+            <Timestamp>1269724907</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This has been happening for some time now, Yahoo are working on it they say but for now try this.Recommended fixes for the many current problems include Update Adobe Flash Player Internet Explorer and Java script . Clear Explorer cache, cookies, and browsing history. Some find that a return to classic mail improves things. You could also try an alternative browser. Hope this helps</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>9BL6LFJ9aa</UserId>
+            <UserNick>Ol&#039;grizzler</UserNick>
+            <Date>2010-03-27 14:22:37</Date>
+            <Timestamp>1269724957</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:22:16 PDT 2010 -->

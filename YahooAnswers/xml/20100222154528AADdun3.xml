@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222154528AADdun3" type="Answered">
+    <Subject>My internet keeps cutting out...?</Subject>
+    <Content>Ever since Christmas I have been having this problem where at least once an hour my internet will cut in and out for a short period of time. At Christmas I only had my laptop and I was thinking it was something wrong with it but then about a month ago I got a new gaming computer and it&#039;s having the same problem! I was dealing with it but today I was in an intense game (of L4D2) and it just cut, and my team lost! That was the last straw... and if it&#039;s possible I would like a solution that doesn&#039;t involve calling Shaw. (because they take hours to respond)
+</Content>
+    <Date>2010-02-22 15:45:28</Date>
+    <Timestamp>1266882328</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222154528AADdun3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BohEx3Feaa</UserId>
+    <UserNick>Savester</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4af4b50bicadzul5sp1/mWSRwhgierBXAL2hEWzZbU0Siw--/2/tn48.jpg?ciAAToMB4i3T2mEr</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It could be MULTIPLE things, but the fact that it is happening on several computers means it&#039;s not the computers fault. The issue may be
+1 your isp
+2 your modem (reboot before playing)
+3 your router (REAL gamers SHOULD play with NIC), not wifi, but if you use wifi, you sould reboot the router before playing. they have a FIFO buffer and rebooting clears the buffer
+4 junk on your computer. A &quot;vampire&quot; like P2P software that is chewing up your cpu and ramm cycles as well as your bandwidth. IF you have P2P it&#039;s ALWAYS on, even if you don&#039;t think you&#039;re using it (just check your process monitor if you don&#039;t believe me). Always shut down anything unneeded in bios/msconfig/autoruns before playing and a gamer doesn&#039;t P2P on his good computer.
+5 could be heat related, but your gaming computer has better heat shedding so I doubt it.
+6 if you have DSL, it may be you need better filters of could be line interference. This is storm season in my area. Spikes through the phone line and spikes on the ac line may bump you. You are a gamer, so I&#039;m assuming your PC is on a UPC (which has built in surge supression), but is your modem and router?
+
+good luck
+
+
+
+did you get any messages on screen when it cuts out?</ChosenAnswer>
+    <ChosenAnswererId>yflHnaAOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Harrison H</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266883822</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267156646</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It could be MULTIPLE things, but the fact that it is happening on several computers means it&#039;s not the computers fault. The issue may be
+1 your isp
+2 your modem (reboot before playing)
+3 your router (REAL gamers SHOULD play with NIC), not wifi, but if you use wifi, you sould reboot the router before playing. they have a FIFO buffer and rebooting clears the buffer
+4 junk on your computer. A &quot;vampire&quot; like P2P software that is chewing up your cpu and ramm cycles as well as your bandwidth. IF you have P2P it&#039;s ALWAYS on, even if you don&#039;t think you&#039;re using it (just check your process monitor if you don&#039;t believe me). Always shut down anything unneeded in bios/msconfig/autoruns before playing and a gamer doesn&#039;t P2P on his good computer.
+5 could be heat related, but your gaming computer has better heat shedding so I doubt it.
+6 if you have DSL, it may be you need better filters of could be line interference. This is storm season in my area. Spikes through the phone line and spikes on the ac line may bump you. You are a gamer, so I&#039;m assuming your PC is on a UPC (which has built in surge supression), but is your modem and router?
+
+good luck
+
+
+
+did you get any messages on screen when it cuts out?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>yflHnaAOaa</UserId>
+            <UserNick>Harrison H</UserNick>
+            <Date>2010-02-22 16:10:22</Date>
+            <Timestamp>1266883822</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:55 PDT 2010 -->

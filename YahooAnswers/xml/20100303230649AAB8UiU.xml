@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303230649AAB8UiU" type="Answered">
+    <Subject>How do I switch back to a normal view on the internet?  View/text size or zoom does not fix it.?</Subject>
+    <Content>I don&#039;t remember hitting any buttons that changed it all of a sudden.  Zoom only cuts part of the webpage out and view/text size changes don&#039;t really affect it.
+</Content>
+    <Date>2010-03-03 23:06:49</Date>
+    <Timestamp>1267686409</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303230649AAB8UiU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PHTJNSanaa</UserId>
+    <UserNick>firefight479</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well you can either reinstall Internet Explorer, that would be the best choose or have to make a restore point to your computer it will fix anything on your computer either laptop or desktop</ChosenAnswer>
+    <ChosenAnswererId>5pC59eqFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Adrian</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267688543</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268205800</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well you can either reinstall Internet Explorer, that would be the best choose or have to make a restore point to your computer it will fix anything on your computer either laptop or desktop</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5pC59eqFaa</UserId>
+            <UserNick>Adrian</UserNick>
+            <Date>2010-03-03 23:42:23</Date>
+            <Timestamp>1267688543</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No need to reinstall, try pressing F11 once.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RmXuONgVaa</UserId>
+            <UserNick>marcEmarc</UserNick>
+            <Date>2010-03-03 23:44:16</Date>
+            <Timestamp>1267688656</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:13:02 PDT 2010 -->

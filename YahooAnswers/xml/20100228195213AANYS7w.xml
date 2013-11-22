@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228195213AANYS7w" type="Answered">
+    <Subject>I just installed Avast 5.0 to my computer and now Internet explorer will only say cannot display webpage. Help?</Subject>
+    <Content>I turn off the web shield and it works, but not sure if leaving it off is a good idea
+</Content>
+    <Date>2010-02-28 19:52:13</Date>
+    <Timestamp>1267415533</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228195213AANYS7w</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AF97dYAJaa</UserId>
+    <UserNick>Lady P</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I use avast 5.0.. my shields are on,, and my IE works fine,, try re-installing the IE ,, yours may be corrupted.. ~</ChosenAnswer>
+    <ChosenAnswererId>ssue3clzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasper M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267415881</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267935275</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I use avast 5.0.. my shields are on,, and my IE works fine,, try re-installing the IE ,, yours may be corrupted.. ~</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper</UserNick>
+            <Date>2010-02-28 19:58:01</Date>
+            <Timestamp>1267415881</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Put the Web Shield back on, go to Add or Remove and click Avast 5, click Change/Remove and choose Repair and close out and restart PC. If that don&#039;t fix it, Reset IE8 to Default in Options, Advanced and restart PC...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-28 20:18:42</Date>
+            <Timestamp>1267417122</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:34:49 PDT 2010 -->

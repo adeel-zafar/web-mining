@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225225256AAM8B7C" type="Answered">
+    <Subject>Why is my firefox doing this.?</Subject>
+    <Content>I use mozilla firefox, and the other day i opened up a new browser and i got this
+&quot;Unable to connect
+Firefox can&#039;t establish a connection to the server at www.ask.com
+*   The site could be temporarily unavailable or too busy. Try again in a few
+          moments.
+
+    *   If you are unable to load any pages, check your computer&#039;s network
+          connection.
+
+    *   If your computer or network is protected by a firewall or proxy, make sure
+          that Firefox is permitted to access the web&quot;
+
+And i even deleted the file and redownloaded it and it still says that.
+
+Anyone know what i can do to fix it?
+
+Oh and the ask.com is what pops up whenever i open a new browser.
+I just did what you told me to do and i still get what i&#039;ve been getting.
+</Content>
+    <Date>2010-02-25 22:52:56</Date>
+    <Timestamp>1267167176</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225225256AAM8B7C</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Pe1CvHPGaa</UserId>
+    <UserNick>texas_vampyre06</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1yiTX_x3AAAEB4qQyWTJdqBTJLA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You either 1) need to adjust your firewall options in firefox and your firewall or 2) You&#039;re having computer network problems</ChosenAnswer>
+    <ChosenAnswererId>nMAYvKNQaa</ChosenAnswererId>
+    <ChosenAnswererNick>overtak3n</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267167917</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267686796</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You either 1) need to adjust your firewall options in firefox and your firewall or 2) You&#039;re having computer network problems</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nMAYvKNQaa</UserId>
+            <UserNick>overtak3n</UserNick>
+            <Date>2010-02-25 23:05:17</Date>
+            <Timestamp>1267167917</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>your network settings have been compromised.
+
+Try:   Tools - Options - Advanced - Network - Connection - Settings
+
+If you are the usual internet user, it should be set to &quot;no proxy&quot;
+
+Any other setting should be reset to &quot;no proxy&quot;.
+
+If you use a server (unlikely), then the network points to the server for internet access.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10940191</UserId>
+            <UserNick>vector4tfc</UserNick>
+            <Date>2010-02-25 23:06:20</Date>
+            <Timestamp>1267167980</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:53:11 PDT 2010 -->

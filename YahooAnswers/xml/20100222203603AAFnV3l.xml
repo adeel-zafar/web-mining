@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222203603AAFnV3l" type="Answered">
+    <Subject>HELP!  FireFox, IE, Netscape will not let me access Mail2World.com!?</Subject>
+    <Content>Every time I try to go to mail2world.com, my browsers ask for authentication and when I try to close the little window, the page then says &quot;You are not authorized to view this page...&quot;.  It asks for a  username and password but this sort of thing has never happened before in the past and I&#039;ve been using mail2worldcom since 2005!  I&#039;ve tried to get onto the site with two different computers and it does the exact same thing!  Can anyone help me?????????  I need to get to mail2world...it&#039;s where all my contacts are and everything!  I&#039;m panicking!
+
+I&#039;m installing Google Chrome right now to see if it does the same thing.
+
+HELP PLEASE!
+Google Chrome is doing it, too.  Any other mail2world.com users having this problem, too?  I&#039;m thinking it&#039;s something with the site, now...
+</Content>
+    <Date>2010-02-22 20:36:03</Date>
+    <Timestamp>1266899763</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222203603AAFnV3l</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>c4APoVjcaa</UserId>
+    <UserNick>arctic_katalyst</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1K4O-yC-EAAEBoQOcZC1g92sjLg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It sounds like you might be hitting a proxy server trying to go to the website.  Try it from a computer at a different location (different Internet source)</ChosenAnswer>
+    <ChosenAnswererId>AA10906001</ChosenAnswererId>
+    <ChosenAnswererNick>mdigitale</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266900001</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268110942</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It sounds like you might be hitting a proxy server trying to go to the website.  Try it from a computer at a different location (different Internet source)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10906001</UserId>
+            <UserNick>mdigitale</UserNick>
+            <Date>2010-02-22 20:40:01</Date>
+            <Timestamp>1266900001</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s not you. It&#039;s the site. It does the same thing for me. Obviously, they&#039;ve implemented some sort of security. You need to contact the webmaster or owner of the site.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>e2HW9iQ5aa</UserId>
+            <UserNick>scott b</UserNick>
+            <Date>2010-02-22 20:40:43</Date>
+            <Timestamp>1266900043</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It seems that you may have to join, even though you&#039;ve been a member since 2005.
+
+I just tried logging onto the webpage, and was immediately greeted with &quot;Enter user name and password for http://mail2world.com&quot;.
+
+I clicked on the Cancel button twice, and was then shown the main page.</Content>
+            <Reference>http://mail2world.com/</Reference>
+            <Best></Best>
+            <UserId>AA11434633</UserId>
+            <UserNick>micksmixxx</UserNick>
+            <Date>2010-02-22 20:43:34</Date>
+            <Timestamp>1266900214</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:24:26 PDT 2010 -->

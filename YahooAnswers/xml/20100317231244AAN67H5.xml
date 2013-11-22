@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317231244AAN67H5" type="Answered">
+    <Subject>my laptop won&#039;t let me on twitter anymore. why?</Subject>
+    <Content>every time i try to go to twitter&#039;s website, firefox closes on me and asks to restore my session.
+this onnnnly happens with twitter.
+
+anybody have a clue as to why?
+</Content>
+    <Date>2010-03-17 23:12:44</Date>
+    <Timestamp>1268892764</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317231244AAN67H5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ff8fc494a35e7c213954012b0097bcc3aa</UserId>
+    <UserNick>Megan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>a. An add-on being accessed by Twitter&#039;s web might be crashing or is already corrupted
+Try to re-install the plug-ins/add-ons.
+b. Your parents installed a special software that restricts your system to browse in Twitter
+Give mommy a kiss and give daddy a big hug.
+c. Something is wrong with FireFox&#039;s &quot;cookies&quot; and/or &quot;cache&quot; files
+Clear FireFox&#039;s history (open FireFox, select &#039;History&#039; from menu then &#039;Show all...&#039;, click &#039;Organize&#039; then &#039;Delete&#039;)
+d. Twitter&#039;s script is bugged?
+Try again sometime.</ChosenAnswer>
+    <ChosenAnswererId>P1qBXKVVaa</ChosenAnswererId>
+    <ChosenAnswererNick>Neneng_Questionaire</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268893886</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269412385</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>a. An add-on being accessed by Twitter&#039;s web might be crashing or is already corrupted
+Try to re-install the plug-ins/add-ons.
+b. Your parents installed a special software that restricts your system to browse in Twitter
+Give mommy a kiss and give daddy a big hug.
+c. Something is wrong with FireFox&#039;s &quot;cookies&quot; and/or &quot;cache&quot; files
+Clear FireFox&#039;s history (open FireFox, select &#039;History&#039; from menu then &#039;Show all...&#039;, click &#039;Organize&#039; then &#039;Delete&#039;)
+d. Twitter&#039;s script is bugged?
+Try again sometime.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>P1qBXKVVaa</UserId>
+            <UserNick>Neneng_Questionaire</UserNick>
+            <Date>2010-03-17 23:31:26</Date>
+            <Timestamp>1268893886</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>shut it down turn it back on hit F10 and restore it to an earlier date there is probably a setting that got adjusted and you can back it up to reinstall the old settings just follow the prompts :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DIkUpkQOaa</UserId>
+            <UserNick>CrushCrush</UserNick>
+            <Date>2010-03-17 23:47:38</Date>
+            <Timestamp>1268894858</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:16 PDT 2010 -->

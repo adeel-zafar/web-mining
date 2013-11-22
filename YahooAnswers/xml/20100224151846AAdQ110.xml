@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224151846AAdQ110" type="Answered">
+    <Subject>Is the HP Website Down?</Subject>
+    <Content>I have been trying to go to www.hp.com and it won&#039;t load. Is it down?
+is there any way u could post a link? its still not working for me
+</Content>
+    <Date>2010-02-24 15:18:46</Date>
+    <Timestamp>1267053526</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224151846AAdQ110</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>r3NuIBRVaa</UserId>
+    <UserNick>Kyle</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1OsFfuBxPAAED_6FGPA728XQqEA==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can find out if a website is really down, or if it&#039;s a problem with your connection to it, by using http://checkw.com/
+
+You can go to the main page and type in the URL, or go to it right from your browser by adding the link you want to check right after the /. So for you:
+
+http://checkw.com/hp.com
+
+For me, it shows that it&#039;s up.</ChosenAnswer>
+    <ChosenAnswererId>yOvKskbNaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267072690</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267918640</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Works fine for me
+http://www.hp.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EO3Efx4Daa</UserId>
+            <UserNick>Kenny</UserNick>
+            <Date>2010-02-24 16:09:29</Date>
+            <Timestamp>1267056569</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can find out if a website is really down, or if it&#039;s a problem with your connection to it, by using http://checkw.com/
+
+You can go to the main page and type in the URL, or go to it right from your browser by adding the link you want to check right after the /. So for you:
+
+http://checkw.com/hp.com
+
+For me, it shows that it&#039;s up.</Content>
+            <Reference>http://checkw.com/</Reference>
+            <Best>5</Best>
+            <UserId>yOvKskbNaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-02-24 20:38:10</Date>
+            <Timestamp>1267072690</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it is down right now as well!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bloGqdBqaa</UserId>
+            <UserNick>Ash</UserNick>
+            <Date>2010-03-03 09:05:37</Date>
+            <Timestamp>1267635937</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:13:00 PDT 2010 -->

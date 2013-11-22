@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227161403AAYU3Mk" type="Answered">
+    <Subject>Which delivery service does Amazon Free Super Shipping use?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-27 16:14:03</Date>
+    <Timestamp>1267316043</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227161403AAYU3Mk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rrHxTAoSaa</UserId>
+    <UserNick>Mary</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ngQqsfZRAAICQEEo4IfZ9kEB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>UPS.</ChosenAnswer>
+    <ChosenAnswererId>901930fc8f0cb1ce4a9483207715497baa</ChosenAnswererId>
+    <ChosenAnswererNick>Linds</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267316182</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269331374</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>UPS.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>901930fc8f0cb1ce4a9483207715497baa</UserId>
+            <UserNick>Linds</UserNick>
+            <Date>2010-02-27 16:16:22</Date>
+            <Timestamp>1267316182</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:42:10 PDT 2010 -->

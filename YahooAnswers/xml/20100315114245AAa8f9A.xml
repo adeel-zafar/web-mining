@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315114245AAa8f9A" type="Answered">
+    <Subject>How do I save facebook videos onto my computer using firefox&#039;s grease monkey?</Subject>
+    <Content>Websites say there should be a bar with the option to download below videos. I don&#039;t have that.
+</Content>
+    <Date>2010-03-15 11:42:45</Date>
+    <Timestamp>1268678565</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315114245AAa8f9A</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bwLQBqtjaa</UserId>
+    <UserNick>Riana</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b4b7bbai1207zul5sp1/V1oDrXIjcqcAmkX9MCyEKAQ-/1/tn48.jpg?ciAAToMBpLID8rvS</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>I don&#039;t know if grease monkey can do it, I have a few plugins for doing that so I checked it out. This one worked:</ChosenAnswer>
+    <ChosenAnswererId>RLEv7m8saa</ChosenAnswererId>
+    <ChosenAnswererNick>Robert M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268679018</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268722591</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I don&#039;t know if grease monkey can do it, I have a few plugins for doing that so I checked it out. This one worked:</Content>
+            <Reference>https://addons.mozilla.org/en-US/firefox/addon/3590</Reference>
+            <Best>5</Best>
+            <UserId>RLEv7m8saa</UserId>
+            <UserNick>Robert M</UserNick>
+            <Date>2010-03-15 11:50:18</Date>
+            <Timestamp>1268679018</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>RLEv7m8saa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-16 12:20:05</Date>
+            <Timestamp>1268679018</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:53:58 PDT 2010 -->

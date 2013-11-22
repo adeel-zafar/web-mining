@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228212254AAHg85t" type="Answered">
+    <Subject>If I mention someone on twitter that I am following but they are not following me will they be notified?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-28 21:22:54</Date>
+    <Timestamp>1267420974</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228212254AAHg85t</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0LP2eFfqaa</UserId>
+    <UserNick>RedSox</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Why? Do you have a restraining order out against you for this person?</ChosenAnswer>
+    <ChosenAnswererId>dHg3io15aa</ChosenAnswererId>
+    <ChosenAnswererNick>girlwhorunswithpoodles</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267421148</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267940634</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Why? Do you have a restraining order out against you for this person?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dHg3io15aa</UserId>
+            <UserNick>girlwhorunswithpoodles</UserNick>
+            <Date>2010-02-28 21:25:48</Date>
+            <Timestamp>1267421148</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:34:35 PDT 2010 -->

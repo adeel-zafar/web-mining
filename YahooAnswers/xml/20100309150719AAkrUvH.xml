@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309150719AAkrUvH" type="Answered">
+    <Subject>why can I not track my package from cube4you?</Subject>
+    <Content>My tracking ID has an error when I try to track it: error, USPS recorded no item.
+The site is valid- my friend has ordered a lot of cubes, megaminxes, etc from them and they all have arrived. He actually ordered it for more me, but the tracking ID is invalid. It also has a certificate of authenticity and paypal has recognized it as valid so... I do my research :)
+</Content>
+    <Date>2010-03-09 15:07:19</Date>
+    <Timestamp>1268176039</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309150719AAkrUvH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GuH3M7rfaa</UserId>
+    <UserNick>Black</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>because odds are you are not actually getting any sort of cube or whatever they promised you.  its probably one of those fake websites that takes all your information, sells your email address to 4723908472398472309847 other companies, and sends you spam mail till the day you die and a few days after</ChosenAnswer>
+    <ChosenAnswererId>47af2fda89839c0ec02e273cff59d82daa</ChosenAnswererId>
+    <ChosenAnswererNick>Ashley D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268176914</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268691996</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>because odds are you are not actually getting any sort of cube or whatever they promised you.  its probably one of those fake websites that takes all your information, sells your email address to 4723908472398472309847 other companies, and sends you spam mail till the day you die and a few days after</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>47af2fda89839c0ec02e273cff59d82daa</UserId>
+            <UserNick>Ashley D</UserNick>
+            <Date>2010-03-09 15:21:54</Date>
+            <Timestamp>1268176914</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:23:46 PDT 2010 -->

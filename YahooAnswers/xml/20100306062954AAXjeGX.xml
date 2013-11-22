@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306062954AAXjeGX" type="Answered">
+    <Subject>TROJAN - HELP PLEASE!?</Subject>
+    <Content>Hi I have a trojan - but managed to get it &#039;under control&#039; so can still use the internet, but it won&#039;t let
+me run my c.d&#039;s or get to certain files. Under &#039;users&#039; it&#039;s named as TRUSTED INSTALLER, I&#039;m unable to remove it, a message pops up as &#039;access denied&#039;.
+I&#039;m considering removing explorer.exe as it won&#039;t let me access the internet that way, but explore.exe (without the R) is fine. Also when I run various scans I&#039;ve downloaded they don&#039;t pick it up either. If only I could find where the trojan is hidden I could kill it - how do you find that out?
+The trojan was originally in explore.exe. Also got Prevx scanning constantly, it does&#039;nt pick it up.
+Thanks everyone
+p.s I done System Restore, Scans, downloaded anti-malware, etc so really need to know how to
+find it - any idea&#039;s?
+Thanks everyone - great answers!
+</Content>
+    <Date>2010-03-06 06:29:54</Date>
+    <Timestamp>1267885794</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306062954AAXjeGX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>npCuquhtaa</UserId>
+    <UserNick>missy 09</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1AK26J5VBAAEC4yQy7V8=.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Buy and Install a good security programme like McAfee or Norton and then Scan your complete system on a regular basis. If you have a good security system installed they will scan and warn you if any websites you want to visit by showing the McAfee Symbol in Red if a website contains &#039;threats&#039;.
+
+If you have security installed now then scan your computer now and when these &#039;trojans&#039; are picked up on select the &#039;clear&#039; button when asked to do so.
+
+Hope this helps, Regards from David
+
+P.S  You should never open any emails which you receive and don&#039;t recognise, Spam and Delete them immediately.</ChosenAnswer>
+    <ChosenAnswererId>VL7UCKa3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Dave</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267914876</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267992822</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Wow you really got nailed here.  You would need to provide windows version but the only way you are even going to begin to attack that one since its already installed itself as a user is by booting to safe mode for starters.  If the internet is working safe mode with networking will allow you to download other antivirals I found that MBAM (Malware Bytes Anti-Malware) is very solid at removing trojans once they had seated themselves from safe mode.  I also recommend that you download the installers for MBAM, SAS, and AVG to an external drive, that way if you get another virus, you will not have to worry about the lockout from the antiviral executables and internet browsing that occurs to prevent you from downloading removal programs.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>b1slTYBbaa</UserId>
+            <UserNick>Matt G</UserNick>
+            <Date>2010-03-06 06:33:39</Date>
+            <Timestamp>1267886019</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1. Installing anti-virus (Nod32 is my favorite)
+2. Startup in Safe Mode (just google how to)
+3. Run Anti-virus
+4. If it doesn&#039;t remove it you most likely need to do a complete reformat (I&#039;d find a techy person to do it)
+
+System restore sucks, it creates more problems then it solves I never-ever use it.</Content>
+            <Reference>The guy every1 in the dorm comes to with computer issues.</Reference>
+            <Best></Best>
+            <UserId>cBkn9dDhaa</UserId>
+            <UserNick>Joe</UserNick>
+            <Date>2010-03-06 06:35:59</Date>
+            <Timestamp>1267886159</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ok what you need to do is
+1) go into safemode if you can 
+2) get an antivirus
+3) scan
+4) remove
+i recomend avg free antivirus for now, unless you have a better one preinstalled then use that
+
+if none of that works then im sorry but your whole computer is pretty much fucked. 
+
+The only way to fix this would be to get your operating system disk, weather that is xp, vista or 7,etc... And then when you next start your computer, before windows loads press somthing like f9 or somthing, boot the cd, format your hard drive, and reinstall windows.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rjCfLEQaaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-06 07:02:23</Date>
+            <Timestamp>1267887743</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Buy and Install a good security programme like McAfee or Norton and then Scan your complete system on a regular basis. If you have a good security system installed they will scan and warn you if any websites you want to visit by showing the McAfee Symbol in Red if a website contains &#039;threats&#039;.
+
+If you have security installed now then scan your computer now and when these &#039;trojans&#039; are picked up on select the &#039;clear&#039; button when asked to do so.
+
+Hope this helps, Regards from David
+
+P.S  You should never open any emails which you receive and don&#039;t recognise, Spam and Delete them immediately.</Content>
+            <Reference>Personal experience.</Reference>
+            <Best>3</Best>
+            <UserId>VL7UCKa3aa</UserId>
+            <UserNick>Dave</UserNick>
+            <Date>2010-03-06 14:34:36</Date>
+            <Timestamp>1267914876</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Trojan horses are designed to allow a hacker remote access to a target computer system. Once a Trojan horse has been installed on a target computer system it is possible for a hacker to access it remotely and perform operations. The operations that a hacker can perform are limited by user privileges on the target computer system and the design of the Trojan horse itself.
+
+Operations which could be performed by a hacker on a target computer system include:
+
+Use of the machine as part of a Botnet (e.g. to perform Distributed Denial-of-service (DDoS) attacks) 
+Data Theft (e.g. passwords, security codes, credit card information) 
+Installation of software (including other malware) 
+Downloading of files 
+Uploading of files 
+Deletion of files 
+Modification of files 
+Keystroke logging 
+Viewing the user&#039;s screen 
+http://trojan-checking.com/Trojan/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>t5nR0axsaa</UserId>
+            <UserNick>ofAustr</UserNick>
+            <Date>2010-03-06 20:42:35</Date>
+            <Timestamp>1267936955</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:49:42 PDT 2010 -->

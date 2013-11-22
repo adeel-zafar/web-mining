@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307195618AA0H0zO" type="Answered">
+    <Subject>2 twitter questions...?</Subject>
+    <Content>can you add friends and that.
+
+can you make groups?
+</Content>
+    <Date>2010-03-07 19:56:18</Date>
+    <Timestamp>1268020578</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307195618AA0H0zO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aR8GDOqVaa</UserId>
+    <UserNick>the CODfather</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1cSQ17XSeAAIC_IFwPUl1Sk8B.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can add fried but not groups but you create own list</ChosenAnswer>
+    <ChosenAnswererId>d7AnFgkmaa</ChosenAnswererId>
+    <ChosenAnswererNick>leatherjackets99</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268027460</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268251001</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can add fried but not groups not facbook sory
+
+http://www.hackerpl.webs.com</Content>
+            <Reference>http://www.hackerpl.webs.com</Reference>
+            <Best></Best>
+            <UserId>2WUHFD5xaa</UserId>
+            <UserNick>Philip P</UserNick>
+            <Date>2010-03-07 19:57:50</Date>
+            <Timestamp>1268020670</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can add fried but not groups but you create own list</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>d7AnFgkmaa</UserId>
+            <UserNick>leatherjackets99</UserNick>
+            <Date>2010-03-07 21:51:00</Date>
+            <Timestamp>1268027460</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:35:50 PDT 2010 -->

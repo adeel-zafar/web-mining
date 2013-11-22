@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327120819AA4MTMW" type="Answered">
+    <Subject>My computer links are not working!!?</Subject>
+    <Content>whenever i do a search with google or anything else, when i click on the link to try and get to the suggested site, but it does not follow. it just brings me to a page that says, &quot;oops!! this link appears to be broken!!&quot; i don&#039;t know if it is a virus or what. please help!!
+and it is with EVERY link, not just one.
+</Content>
+    <Date>2010-03-27 12:08:19</Date>
+    <Timestamp>1269716899</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327120819AA4MTMW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>94IP15dBaa</UserId>
+    <UserNick>Hoogalaga</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b9d7f3eic7fzws104sp2/BnTjndY5dKmLFzlKnSdBvS0-/1/tn48.jpeg?ciAAToMBz8DknvTG</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>OMG!!!! It&#039;s a VIRUS!! 
+
+ - loool no big deal dude, the link is just unreachable.</ChosenAnswer>
+    <ChosenAnswererId>G2lO32xpaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dј §ργя0x  =)</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269716996</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270236285</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>OMG!!!! It&#039;s a VIRUS!! 
+
+ - loool no big deal dude, the link is just unreachable.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>G2lO32xpaa</UserId>
+            <UserNick>Dј §ργя0x  =)</UserNick>
+            <Date>2010-03-27 12:09:56</Date>
+            <Timestamp>1269716996</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>presuming you can access the internet?
+try to uninstall your browser and reinstalling it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2fnavbnKaa</UserId>
+            <UserNick>whatanidname</UserNick>
+            <Date>2010-03-27 12:12:13</Date>
+            <Timestamp>1269717133</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11767225</UserId>
+            <UserNick>bert_beer</UserNick>
+            <Date>2010-03-27 12:23:46</Date>
+            <Timestamp>1269717826</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:22:33 PDT 2010 -->

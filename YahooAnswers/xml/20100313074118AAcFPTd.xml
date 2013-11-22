@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313074118AAcFPTd" type="Answered">
+    <Subject>having sum net connection probs?</Subject>
+    <Content>the net was working fine this morning say 11.30am to 2.30.then turned it on at say 7.30 was not getting connected .what i mean is it was but none of the pgs were opening .only google tried to search sum random stuff and then open still not opening was does this mean not its working fine .why did this happen ?.can this happen again ?
+</Content>
+    <Date>2010-03-13 07:41:18</Date>
+    <Timestamp>1268494878</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313074118AAcFPTd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RFjfqckNaa</UserId>
+    <UserNick>kat2009</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>At the First a Virus could be found on your computer, but before it,
+Need to check this options, then go for the antivirus program to install nd clean the virus, if problem remain on your compputer,
+
+Please Click on Internet Explorer Icon PROPERTIES on your desktop without running it
+then click on Connections see if any kind of seting are there before removing these check all these setting match with your internet Service provider setting, of IP Protocols and etc...
+if all these settings are properly, then Delete History and Click the POPUP Blocker uncheck or OFF it.
+
+If problem is there then contact with me.</ChosenAnswer>
+    <ChosenAnswererId>MAWP1QQuaa</ChosenAnswererId>
+    <ChosenAnswererNick>ATIQUE</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268496470</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268587559</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>At the First a Virus could be found on your computer, but before it,
+Need to check this options, then go for the antivirus program to install nd clean the virus, if problem remain on your compputer,
+
+Please Click on Internet Explorer Icon PROPERTIES on your desktop without running it
+then click on Connections see if any kind of seting are there before removing these check all these setting match with your internet Service provider setting, of IP Protocols and etc...
+if all these settings are properly, then Delete History and Click the POPUP Blocker uncheck or OFF it.
+
+If problem is there then contact with me.</Content>
+            <Reference>www.yahoo.com
+ATIQUEG10@YAHOO.COM</Reference>
+            <Best>2</Best>
+            <UserId>MAWP1QQuaa</UserId>
+            <UserNick>ATIQUE</UserNick>
+            <Date>2010-03-13 08:07:50</Date>
+            <Timestamp>1268496470</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:50 PDT 2010 -->

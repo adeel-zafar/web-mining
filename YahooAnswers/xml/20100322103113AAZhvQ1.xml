@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322103113AAZhvQ1" type="Answered">
+    <Subject>Does Comcast throttle me down because I use bittorrent client?</Subject>
+    <Content>I had a really good cable connection through Comcast, until yesterday I started using bittorrent to download some old movies.
+
+All the time I have bittorrent client on I get dropped internet connections, websites become unavailable, DNS requests fail, &quot;INTERNET&quot; light on my router gets yellow, which means that it loses or resets the connection to the cable modem. I never saw this light going yellow before.
+
+Now I stopped the bittorrent client and connections seems to be good again.
+I tried to bypass the router and connect my PC directly to the modem, but I still had the same problem with connections as long as bittorrent client is running.
+
+Bittorrent by it&#039;s nature causes many incoming connections from other clients and they may download chunks of data from me, as well as many outgoing connections.
+
+I don&#039;t think Comcast is supposed to look at the contents of the traffic, also it shouldn&#039;t matter for internet provider how many TCP connections there are.
+
+But that&#039;s what I observe: quality of my cable connection correlates to if I have bittorrent running or not.
+
+So is this possible that Comcast tries to hamper my connection in some ways based on the torrent client? Should I just change TCP port to something different so that middlemen can&#039;t guess what is that? Or maybe Comcast penalizes me based on the number of incoming connections?
+
+Any guesses or insights insights into this problem?
+I am not stealing. I am downloading files without copyright.
+To Ben: I never use more than 300kB/sec out of allotted 12Mbps. it looks like it&#039;s more than moving me to the end of the queue. My connections are dropped.
+</Content>
+    <Date>2010-03-22 10:31:13</Date>
+    <Timestamp>1269279073</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322103113AAZhvQ1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>buBnDCKEaa</UserId>
+    <UserNick>jerry M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1r4CCCyzcAAECQ4E_8AiMDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Comcast doesn&#039;t have a right to block torrenting. But they do have a right to manage their networks. When you open a ton of TCP connections, whether it&#039;s because you&#039;re torrenting or because you&#039;re hosting a server, you slow down the Internet for everyone else in your neighborhood.
+
+Comcast&#039;s current policy is that anyone using more than 75% of their allotted bandwidth for an extended period of time gets pushed to the end of the line. They don&#039;t block your packets, but they&#039;ll give them a lower priority. So if you&#039;re trying to torrent a movie and someone else wants to check their email, Comcast&#039;s servers will let that other person&#039;s request go through first. You&#039;ll have to wait at the back of the queue.</ChosenAnswer>
+    <ChosenAnswererId>SuyAG7MCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ben</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269279826</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269592980</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They certainly might.  They have the right to control all traffic on their servers, including blocking you from stealing!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-22 10:33:56</Date>
+            <Timestamp>1269279236</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Comcast doesn&#039;t have a right to block torrenting. But they do have a right to manage their networks. When you open a ton of TCP connections, whether it&#039;s because you&#039;re torrenting or because you&#039;re hosting a server, you slow down the Internet for everyone else in your neighborhood.
+
+Comcast&#039;s current policy is that anyone using more than 75% of their allotted bandwidth for an extended period of time gets pushed to the end of the line. They don&#039;t block your packets, but they&#039;ll give them a lower priority. So if you&#039;re trying to torrent a movie and someone else wants to check their email, Comcast&#039;s servers will let that other person&#039;s request go through first. You&#039;ll have to wait at the back of the queue.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>SuyAG7MCaa</UserId>
+            <UserNick>Ben</UserNick>
+            <Date>2010-03-22 10:43:46</Date>
+            <Timestamp>1269279826</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:15 PDT 2010 -->

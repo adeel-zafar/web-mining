@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305215638AA9jkba" type="Answered">
+    <Subject>How do i email an excel attachment to more than one email-id individually (like in mail-merge)?</Subject>
+    <Content>I need to send an important excel file to my business associates individually but as in mail-merge.
+</Content>
+    <Date>2010-03-05 21:56:38</Date>
+    <Timestamp>1267854998</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305215638AA9jkba</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Z0YYQ4q8aa</UserId>
+    <UserNick>lover_boy</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/10k3tD7JIAAECP4E_IIunMYIA.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Open yr excel file and click on File menu the select send to mail recipient or mail recipient as attatchment  before this u configure ur mail id with outlook or a wizard come to configure to outlook this option send ur excel file to one or many recipeint</ChosenAnswer>
+    <ChosenAnswererId>wGris9vVaa</ChosenAnswererId>
+    <ChosenAnswererNick>Praveen Dubey</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267862745</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268374464</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Open yr excel file and click on File menu the select send to mail recipient or mail recipient as attatchment  before this u configure ur mail id with outlook or a wizard come to configure to outlook this option send ur excel file to one or many recipeint</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wGris9vVaa</UserId>
+            <UserNick>Praveen Dubey</UserNick>
+            <Date>2010-03-06 00:05:45</Date>
+            <Timestamp>1267862745</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:52:14 PDT 2010 -->

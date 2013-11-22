@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222090317AADcuwy" type="Answered">
+    <Subject>how to make a live video feed?</Subject>
+    <Content>how do i make a live video feed? i am trying to do a live feed of my basketball games from a laptop to our website. how can i do this?
+</Content>
+    <Date>2010-02-22 09:03:17</Date>
+    <Timestamp>1266858197</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222090317AADcuwy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Oj1tJ0OIaa</UserId>
+    <UserNick>Zach</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try ustream.tv or justin tv should work.</ChosenAnswer>
+    <ChosenAnswererId>a9KVZLhiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Help</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267202637</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267377831</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try ustream.tv or justin tv should work.</Content>
+            <Reference>me</Reference>
+            <Best>5</Best>
+            <UserId>a9KVZLhiaa</UserId>
+            <UserNick>Help</UserNick>
+            <Date>2010-02-26 08:43:57</Date>
+            <Timestamp>1267202637</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:28:24 PDT 2010 -->

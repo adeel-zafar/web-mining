@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317094828AAEQdlS" type="Answered">
+    <Subject>Why do I like mudkips so much?</Subject>
+    <Content>Every time I see one I have this strange urge.
+
+Is there something wrong with me? Should I see a doctor?
+I cannot tell you what the strange urge is.
+</Content>
+    <Date>2010-03-17 09:48:28</Date>
+    <Timestamp>1268844508</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317094828AAEQdlS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aJO3fzoQaa</UserId>
+    <UserNick>Help?</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Because they&#039;re crazy delicious.</ChosenAnswer>
+    <ChosenAnswererId>5wo0kX9Yaa</ChosenAnswererId>
+    <ChosenAnswererNick>entropiii</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268845374</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268859464</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You are a very strange individual, but whatever floats your failboat!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2TJauftkaa</UserId>
+            <UserNick>Mi</UserNick>
+            <Date>2010-03-17 09:55:14</Date>
+            <Timestamp>1268844914</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Because they&#039;re crazy delicious.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>5wo0kX9Yaa</UserId>
+            <UserNick>entropiii</UserNick>
+            <Date>2010-03-17 10:02:54</Date>
+            <Timestamp>1268845374</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:41 PDT 2010 -->

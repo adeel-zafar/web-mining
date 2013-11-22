@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315210930AAUKdCZ" type="Answered">
+    <Subject>Firefox Add-on Manager?</Subject>
+    <Content>Is there an add-on for Firefox that manages your other add-ons? I searched google for nearly an hour looking for one, but I could not find anything. Also, I tried to find the mozilla page that lists all the add-ons for firefox by categories and such, to see if I could find it there, but I couldn&#039;t find that either.
+
+Links for one or both appreciated.
+I already knew about that box. But I can&#039;t ever find it. I know there is an add-on which adds a shortcut to that little box onto a toolbar at the top of the screen, which was what I was looking for...
+</Content>
+    <Date>2010-03-15 21:09:30</Date>
+    <Timestamp>1268712570</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315210930AAUKdCZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>o54Tz1pHaa</UserId>
+    <UserNick>Fallen One</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/178lhbf8tAAEC_IFUgLJyNwb5MA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Firefox provides its own add-on management. It&#039;s quite capable and being improved, too. Follow the links from this online discussion:
+
+http://mozillalinks.org/wp/2008/01/firefox-3-add-ons-manager-is-almighty-too/
+
+Wanting something - unneeded?
+
+Good luck!
+---
+Additional info:
+ALT-T A brings up the tools menu. So does clicking Tools | Add-ons.
+
+Too many added buttons or icons clutters up a program window or the desktop IMHO. Just remember &quot;ta&quot;.</ChosenAnswer>
+    <ChosenAnswererId>6451b948ab6c1a99b46f4b78ee562c23aa</ChosenAnswererId>
+    <ChosenAnswererNick>widowmate</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268712851</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268967002</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox provides its own add-on management. It&#039;s quite capable and being improved, too. Follow the links from this online discussion:
+
+http://mozillalinks.org/wp/2008/01/firefox-3-add-ons-manager-is-almighty-too/
+
+Wanting something - unneeded?
+
+Good luck!
+---
+Additional info:
+ALT-T A brings up the tools menu. So does clicking Tools | Add-ons.
+
+Too many added buttons or icons clutters up a program window or the desktop IMHO. Just remember &quot;ta&quot;.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6451b948ab6c1a99b46f4b78ee562c23aa</UserId>
+            <UserNick>widowmate</UserNick>
+            <Date>2010-03-15 21:14:11</Date>
+            <Timestamp>1268712851</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:21 PDT 2010 -->

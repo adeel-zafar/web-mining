@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306100046AARnpSj" type="Answered">
+    <Subject>What is JQSIEStartDetectorImpl Class?</Subject>
+    <Content>The ads that slide down a news page I&#039;m trying to read are really starting to annoy me, so I&#039;m trying to find out just what ActiveX control runs them so that I can disable it (I assume they are run by an ActiveX control; I certainly could be wrong). The Properties box in the ad is no help at all, and there is no &quot;View Source&quot; option. So I&#039;m going through all my browser add-ons to see if any look like they could be the culprit, especially those that run without requiring permission. Can anyone help me before I completely crash my PC?
+</Content>
+    <Date>2010-03-06 10:00:46</Date>
+    <Timestamp>1267898446</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306100046AARnpSj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>05b9cbc95749b608f736e4e889178bddaa</UserId>
+    <UserNick>Ana Thema</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1_fvwxqyqAAEBQEEo2AfpIv-OY5mkpw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you dont need it but sometimes you do and the best thign to do is downlaod it and forget about it</ChosenAnswer>
+    <ChosenAnswererId>fuzpUjgZaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jordan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267912647</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267938340</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you dont need it but sometimes you do and the best thign to do is downlaod it and forget about it</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>fuzpUjgZaa</UserId>
+            <UserNick>Jordan</UserNick>
+            <Date>2010-03-06 13:57:27</Date>
+            <Timestamp>1267912647</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:48:27 PDT 2010 -->

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322121501AAOiZl3" type="Answered">
+    <Subject>Is there a service that lets me seed a torrent without the files actually being on my computer?</Subject>
+    <Content>I heard about a service, I don&#039;t know if it was a program or an online service, that lets people upload torrents (or torrent files, dunno which) to the website, and then lets them seed the torrents (files?) for their account on another website.
+
+I have a very low connection speed, and I can only get up to a 200kb/s download, and about a 30kb/s upload speed. For me, a person who likes to give back to the community, that&#039;s definitely not enough speed. Plus, I&#039;m actually downloading more than I&#039;m uploading, with no way to switch it around.
+
+If anyone knows of this service I&#039;m talking about, or if anyone knows something else I should try, then by all means, answer away. I&#039;d greatly appreciate it.
+
+Thanks
+</Content>
+    <Date>2010-03-22 12:15:01</Date>
+    <Timestamp>1269285301</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322121501AAOiZl3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nUPUyZ3kaa</UserId>
+    <UserNick>Steaphan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Unfortunately, you don&#039;t seem to understand fully the way that torrents work.  That&#039;s ok.  Most don&#039;t.  You also don&#039;t realize that just about everyone has a slower upload speed than their download speed.  This is the nature of an internet connection, and the business of selling internet connections.
+
+You cannot upload the files that need to be shared to a website, because then the owner of that website would be illegally hosting the files.  Since that defeats the purpose of a Torrent site that simply legally hosts the BitTorrent file... which only points the person with the client to the computers holding the files... as well as the concept of BitTorrent, which is to spread the files that are being shared over multiple different computers to increase the speed at which people get small pieces of the files... again, there is no where for you to upload the actual files you are sharing.
+
+There is indeed a way to upload more than you download.  First, you exert some self control, and do not pick as many files to download at one time.  Second, you leave your client open and sharing files all the time, and you leave your computer on all the time, so that you are uploading for longer lengths of time, than you are downloading.  When a file has finished downloading, you do not close your client... you leave it open so that you keep uploading.
+
+end of line</ChosenAnswer>
+    <ChosenAnswererId>fQqAWGTgaa</ChosenAnswererId>
+    <ChosenAnswererNick>bon-gart</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269285767</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269804970</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Unfortunately, you don&#039;t seem to understand fully the way that torrents work.  That&#039;s ok.  Most don&#039;t.  You also don&#039;t realize that just about everyone has a slower upload speed than their download speed.  This is the nature of an internet connection, and the business of selling internet connections.
+
+You cannot upload the files that need to be shared to a website, because then the owner of that website would be illegally hosting the files.  Since that defeats the purpose of a Torrent site that simply legally hosts the BitTorrent file... which only points the person with the client to the computers holding the files... as well as the concept of BitTorrent, which is to spread the files that are being shared over multiple different computers to increase the speed at which people get small pieces of the files... again, there is no where for you to upload the actual files you are sharing.
+
+There is indeed a way to upload more than you download.  First, you exert some self control, and do not pick as many files to download at one time.  Second, you leave your client open and sharing files all the time, and you leave your computer on all the time, so that you are uploading for longer lengths of time, than you are downloading.  When a file has finished downloading, you do not close your client... you leave it open so that you keep uploading.
+
+end of line</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>fQqAWGTgaa</UserId>
+            <UserNick>bon-gart</UserNick>
+            <Date>2010-03-22 12:22:47</Date>
+            <Timestamp>1269285767</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:49 PDT 2010 -->

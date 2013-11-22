@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321125309AAKUPgh" type="Answered">
+    <Subject>I ordered a book from amazon and it hasn&#039;t arrived after over a month?</Subject>
+    <Content>What do I do?
+I tried contacting the seller but I got no reply, he&#039;s been given good feedback before...
+</Content>
+    <Date>2010-03-21 12:53:09</Date>
+    <Timestamp>1269201189</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321125309AAKUPgh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Vm0G2hTlaa</UserId>
+    <UserNick>CrushCrushCrush</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1aUvhTqiHAAEBHiKcDKSO5MrgIAUF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It may have gone to the wrong address or maybe something is up with the seller, he may have moved phone numbers or house etc.
+Also, if the book came from a long way away, it could take a long time to end up at your house.
+Try contacting amazon as well.
+
+Thanks,
+Alapot 
+:D</ChosenAnswer>
+    <ChosenAnswererId>cx0eraoeaa</ChosenAnswererId>
+    <ChosenAnswererNick>Alapot</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269201655</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269720836</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It may have gone to the wrong address or maybe something is up with the seller, he may have moved phone numbers or house etc.
+Also, if the book came from a long way away, it could take a long time to end up at your house.
+Try contacting amazon as well.
+
+Thanks,
+Alapot 
+:D</Content>
+            <Reference>I just.... though it up...</Reference>
+            <Best>5</Best>
+            <UserId>cx0eraoeaa</UserId>
+            <UserNick>Alapot</UserNick>
+            <Date>2010-03-21 13:00:55</Date>
+            <Timestamp>1269201655</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:26:57 PDT 2010 -->

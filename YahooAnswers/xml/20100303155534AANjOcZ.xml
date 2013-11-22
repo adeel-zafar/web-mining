@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303155534AANjOcZ" type="Answered">
+    <Subject>How do I get rid of the &quot;Favorites&quot; and &quot;History&quot; sections on the Internet Explorer Address bar?</Subject>
+    <Content>I would like to get rid of these two sections just because I don&#039;t use them. I always use the down arrow on the address bar as well as the auto-complete. Is there anyway for the address bar to only show websites I&#039;ve typed in and not my history or favorites when I click the down arrow?
+These sections are list of previously viewed websites that appear after I click on the down arrow. I am not sure how to explain it better. It is not the favorites bar but part of the address bar.
+</Content>
+    <Date>2010-03-03 15:55:34</Date>
+    <Timestamp>1267660534</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303155534AANjOcZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ia0fgGBIaa</UserId>
+    <UserNick>countrygurl0</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1aVN_g4eQAAIE9OFANA3ZgmP-ooAF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ok, First to disable the Favorites Bar, you need to go over the toolbar section and right-click.
+Then a small window shows up and click on the one you want to disable. In your case it is the Favorites bar.
+Here:
+Hover over toolbar&gt;Right-Click&gt;Click desired toolbar.
+
+Hope this helps!!!</ChosenAnswer>
+    <ChosenAnswererId>Lq14poKgaa</ChosenAnswererId>
+    <ChosenAnswererNick>golfmangreg3</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267666716</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267981589</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ok, First to disable the Favorites Bar, you need to go over the toolbar section and right-click.
+Then a small window shows up and click on the one you want to disable. In your case it is the Favorites bar.
+Here:
+Hover over toolbar&gt;Right-Click&gt;Click desired toolbar.
+
+Hope this helps!!!</Content>
+            <Reference>My Brain</Reference>
+            <Best>3</Best>
+            <UserId>Lq14poKgaa</UserId>
+            <UserNick>golfmangreg3</UserNick>
+            <Date>2010-03-03 17:38:36</Date>
+            <Timestamp>1267666716</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:15:26 PDT 2010 -->

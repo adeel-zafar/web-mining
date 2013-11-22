@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226045632AAavs3z" type="Answered">
+    <Subject>Which website gives free domain redirect service (without ads) and tolerates spam?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-26 04:56:32</Date>
+    <Timestamp>1267188992</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226045632AAavs3z</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Q3SiZlTRaa</UserId>
+    <UserNick>Fox</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Uhmm.. tinyurl.com - bit.ly and uhmm.. Yeah, a few others.
+Else, you could just use ripway.com to make your own redirect script :3</ChosenAnswer>
+    <ChosenAnswererId>dBHA05IMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Relex</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267189102</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267264009</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Uhmm.. tinyurl.com - bit.ly and uhmm.. Yeah, a few others.
+Else, you could just use ripway.com to make your own redirect script :3</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>dBHA05IMaa</UserId>
+            <UserNick>Relex</UserNick>
+            <Date>2010-02-26 04:58:22</Date>
+            <Timestamp>1267189102</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>do not know that site?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7jM9Ghchaa</UserId>
+            <UserNick>REGGIE</UserNick>
+            <Date>2010-02-26 07:34:33</Date>
+            <Timestamp>1267198473</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:52:20 PDT 2010 -->

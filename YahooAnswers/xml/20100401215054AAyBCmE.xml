@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401215054AAyBCmE" type="Answered">
+    <Subject>HELP! I Have Placed An Order On Amazon But I&#039;m Not Sure How To Verify My Email Address?</Subject>
+    <Content>And There Isn&#039;t A Link To Do So. Thank You In Advance To All Who Answer.
+</Content>
+    <Date>2010-04-01 21:50:54</Date>
+    <Timestamp>1270183854</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401215054AAyBCmE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eonVggZ7aa</UserId>
+    <UserNick>CiaraFan20</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You should receive an email from Amazon with a link to click to verify your email address. If you haven&#039;t received the email, check your spam folder. If it&#039;s not in there, go to Amazon, look under account settings, find where you can change your email address. If you gave them the wrong address, change it and they&#039;ll resend the verification email. If they have the right address it will be marked unverified and there should be a link to resend the verification email.</ChosenAnswer>
+    <ChosenAnswererId>LEYmE8fnaa</ChosenAnswererId>
+    <ChosenAnswererNick>hoar mouth</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270184105</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270311041</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You should receive an email from Amazon with a link to click to verify your email address. If you haven&#039;t received the email, check your spam folder. If it&#039;s not in there, go to Amazon, look under account settings, find where you can change your email address. If you gave them the wrong address, change it and they&#039;ll resend the verification email. If they have the right address it will be marked unverified and there should be a link to resend the verification email.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>LEYmE8fnaa</UserId>
+            <UserNick>hoar mouth</UserNick>
+            <Date>2010-04-01 21:55:05</Date>
+            <Timestamp>1270184105</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>usually u will receive a mail abt the product which u purchased, this will linked with a verfication mail... just clik that link to verify so simple, nothing to worry as well, if the server is down it might take 2-4hrs to receive the mail :)</Content>
+            <Reference>http://go-hacking.com</Reference>
+            <Best></Best>
+            <UserId>wrc6VGEYaa</UserId>
+            <UserNick>andrew</UserNick>
+            <Date>2010-04-01 21:56:19</Date>
+            <Timestamp>1270184179</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:47 PDT 2010 -->

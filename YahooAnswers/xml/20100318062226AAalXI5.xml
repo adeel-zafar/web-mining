@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318062226AAalXI5" type="Answered">
+    <Subject>Ebay: how do you find out if you have received an unpaid item strike?</Subject>
+    <Content>
+ive checked feedback but i cant find it, but im pretty sure i got one a few months ago
+oh and the item isnt there any more :/ haha, maybe its been removed as i cant seem to find it and ive looked everywhere
+</Content>
+    <Date>2010-03-18 06:22:26</Date>
+    <Timestamp>1268918546</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318062226AAalXI5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>km4O5Ww4aa</UserId>
+    <UserNick>ginaribena</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ae47ec2i910zul7re4/Pjo9v6U2cqjB7bgnBoLfe7nFX6FKrEPCLHGXy.RAjQ--/2/tn48.jpg?ciAAToMBnzPSff79</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Check your feedback or look for an e-mail from eBay/PayPal</ChosenAnswer>
+    <ChosenAnswererId>2LbTrlQnaa</ChosenAnswererId>
+    <ChosenAnswererNick>JIM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268918614</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269121994</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Check your feedback or look for an e-mail from eBay/PayPal</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-18 06:23:34</Date>
+            <Timestamp>1268918614</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>check in your ebay account under the item description.. I mean the item you won.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>b4JGALGOaa</UserId>
+            <UserNick>Kate</UserNick>
+            <Date>2010-03-18 06:25:31</Date>
+            <Timestamp>1268918731</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:36 PDT 2010 -->

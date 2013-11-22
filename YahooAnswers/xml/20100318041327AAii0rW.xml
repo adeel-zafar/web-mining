@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318041327AAii0rW" type="Answered">
+    <Subject>how to send money online without seeing your address and full name?</Subject>
+    <Content>is there a way you can send money to a person without letting him see my name and address?
+it&#039;s just for privacy reasons
+</Content>
+    <Date>2010-03-18 04:13:27</Date>
+    <Timestamp>1268910807</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318041327AAii0rW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0DUG1uQUaa</UserId>
+    <UserNick>solutions</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>PayPal is a good way to send or receive money. You can setup multiple bank accounts to ur paypal setup and buy or transfer funds to other bank accounts w/ out showing personal info.
+
+I wouldnt trust any other online site to handle transactions because paypal at least refunds your money.</ChosenAnswer>
+    <ChosenAnswererId>cyTcbnuYaa</ChosenAnswererId>
+    <ChosenAnswererNick>MDMA</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268916191</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269430401</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>with xoom you setup an account (with any &#039;screen name&#039;) the recipient of funds only see&#039;s the screen name and not the specific account details.</Content>
+            <Reference>http://www.xoom.com</Reference>
+            <Best></Best>
+            <UserId>LG9BJFtLaa</UserId>
+            <UserNick>samantha</UserNick>
+            <Date>2010-03-18 05:10:42</Date>
+            <Timestamp>1268914242</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>PayPal is a good way to send or receive money. You can setup multiple bank accounts to ur paypal setup and buy or transfer funds to other bank accounts w/ out showing personal info.
+
+I wouldnt trust any other online site to handle transactions because paypal at least refunds your money.</Content>
+            <Reference>Use it all the time. U can use bank accounts w/ paypal to wire money to other accounts and they wont see your  info.</Reference>
+            <Best>5</Best>
+            <UserId>cyTcbnuYaa</UserId>
+            <UserNick>MDMA</UserNick>
+            <Date>2010-03-18 05:43:11</Date>
+            <Timestamp>1268916191</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:52 PDT 2010 -->

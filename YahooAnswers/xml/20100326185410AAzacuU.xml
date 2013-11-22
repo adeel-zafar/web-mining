@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326185410AAzacuU" type="Answered">
+    <Subject>Does anyone know how a regular Internet works?</Subject>
+    <Content>So i pressed something, i dont know what, but the top and bottom of my screan go away when i move my mouse. like they slide up and go away...help...how do i get them back :/
+</Content>
+    <Date>2010-03-26 18:54:10</Date>
+    <Timestamp>1269654850</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326185410AAzacuU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>T2f0vLVTaa</UserId>
+    <UserNick>Leslie A</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s in full screen mode... try pressing F11 or clicking on &quot;View&quot; in the menu bar and selecting &quot;Full Screen&quot;</ChosenAnswer>
+    <ChosenAnswererId>uV6qX048aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jonathan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269655130</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269696773</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s in full screen mode... try pressing F11 or clicking on &quot;View&quot; in the menu bar and selecting &quot;Full Screen&quot;</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>uV6qX048aa</UserId>
+            <UserNick>Jonathan</UserNick>
+            <Date>2010-03-26 18:58:50</Date>
+            <Timestamp>1269655130</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:06 PDT 2010 -->

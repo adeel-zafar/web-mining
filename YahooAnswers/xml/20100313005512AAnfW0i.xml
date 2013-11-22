@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313005512AAnfW0i" type="Answered">
+    <Subject>Can someone tell me how can I download videos from video.nate.com?</Subject>
+    <Content>Most video sites have downloaders available online but video.nate.com haven&#039;t got any when I searched for it. Can someone help me? It&#039;s a Korean video site and I can&#039;t understand a thing. ;; Any help will be appreciated. Thanks!
+</Content>
+    <Date>2010-03-13 00:55:12</Date>
+    <Timestamp>1268470512</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313005512AAnfW0i</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sDW1iDm0aa</UserId>
+    <UserNick>Riin-chan</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a87aa80ie1bzul1sp1/7YnwFwIjYqmH5OdSca8YOuZ4zdeOCtiY2ts-/110/tn48.jpg?ciAAToMBEQQp.OR9</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if you are using firefox use add-ons&#039; video download helper&#039;.
+when you go to site has video you can see 3 colour bubbles rotating.click on it &amp; download video.</ChosenAnswer>
+    <ChosenAnswererId>UvtRyWJkaa</ChosenAnswererId>
+    <ChosenAnswererNick>★angel★</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268471116</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268986377</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>if you are using firefox use add-ons&#039; video download helper&#039;.
+when you go to site has video you can see 3 colour bubbles rotating.click on it &amp; download video.</Content>
+            <Reference>https://addons.mozilla.org/en-US/firefox/addon/3006</Reference>
+            <Best>5</Best>
+            <UserId>UvtRyWJkaa</UserId>
+            <UserNick>★angel★</UserNick>
+            <Date>2010-03-13 01:05:16</Date>
+            <Timestamp>1268471116</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I just tried getting a video from the site given using my Ant Video Downloader.and it works.</Content>
+            <Reference>http://ant.com/video-downloader/
+http://www.ehow.com/how_5693634_download-youtube_-google-video-etc__.html?shared=true</Reference>
+            <Best></Best>
+            <UserId>KURXxqLSaa</UserId>
+            <UserNick>SexyBebe</UserNick>
+            <Date>2010-03-13 02:02:57</Date>
+            <Timestamp>1268474577</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:05:56 PDT 2010 -->

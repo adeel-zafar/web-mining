@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315220358AAvEV6o" type="Answered">
+    <Subject>Will adblock slow down my internet speed?</Subject>
+    <Content>Adblock on google chrome. Thanks in advance
+</Content>
+    <Date>2010-03-15 22:03:58</Date>
+    <Timestamp>1268715838</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315220358AAvEV6o</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pzF9FwWWaa</UserId>
+    <UserNick>Bowen</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It shouldn&#039;t change your internet speed.
+However...
+Adblock for chrome is NOT the same as Firefox&#039;s adblock plus.
+Ads are loaded then hidden from view since Google chrome can&#039;t support an adblocker that actually blocks ads. 
+If you really want to block ads from even loading, use SWR Iron (chromium developer build) instead.</ChosenAnswer>
+    <ChosenAnswererId>awaxRS3xaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268716437</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269002440</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It will speed it up by preventing ADs from having to load.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BgwTxzEFaa</UserId>
+            <UserNick>korgrue</UserNick>
+            <Date>2010-03-15 22:05:09</Date>
+            <Timestamp>1268715909</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No, it will actually speed it up. All of the ads that have animations will make your internet slow, but adblock takes them away =). Adblock actually increased the speed when i stream videos by taking the ads off.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PaxS9sWOaa</UserId>
+            <UserNick>travis</UserNick>
+            <Date>2010-03-15 22:08:18</Date>
+            <Timestamp>1268716098</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It shouldn&#039;t change your internet speed.
+However...
+Adblock for chrome is NOT the same as Firefox&#039;s adblock plus.
+Ads are loaded then hidden from view since Google chrome can&#039;t support an adblocker that actually blocks ads. 
+If you really want to block ads from even loading, use SWR Iron (chromium developer build) instead.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>awaxRS3xaa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-15 22:13:57</Date>
+            <Timestamp>1268716437</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There are MANY reasons for computer slow downs:
+ not enough memory
+ too many programs starting up with windows at boot up time
+ too many junk files
+ too many restore points
+
+Clean windows registry can speed up the computer.
+Over time, you install new programs, uninstalled unimportant programs, update software&#039;s, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://downloadlk.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uRR2PuTFaa</UserId>
+            <UserNick>MSNBCNews</UserNick>
+            <Date>2010-03-19 03:29:01</Date>
+            <Timestamp>1268994541</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:04 PDT 2010 -->

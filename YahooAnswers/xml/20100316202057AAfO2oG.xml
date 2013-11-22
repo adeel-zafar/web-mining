@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316202057AAfO2oG" type="Answered">
+    <Subject>Internet explorer screen too big?</Subject>
+    <Content>I reformatted by computer and now my internet explorer is too big. My screen size is set at 100% and text size is at medium. It is only internet explorer. My desktop is not enlarged. Anyway to solve this? Thanks
+When I use ctrl or minimize it, only the breadth changes and words becomes too small to read. The length is still the same and I have to keep scrolling down
+</Content>
+    <Date>2010-03-16 20:20:57</Date>
+    <Timestamp>1268796057</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316202057AAfO2oG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KLpC3Uv5aa</UserId>
+    <UserNick>Roll</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bbbfd8aidcazws139sp2/ew8P8bA5erQmu.4hrKERjNUi/11/tn48.jpeg?ciAAToMBzkAKEsUE</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think you have the standard resolution which should be fine . 
+otherwise you can try minimizing you screen resolution like 1024x768 or smthg like that .
+hope this helps
+Jaly aka the badass</ChosenAnswer>
+    <ChosenAnswererId>txwiFmYwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jaly</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268796433</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269315429</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think you have the standard resolution which should be fine . 
+otherwise you can try minimizing you screen resolution like 1024x768 or smthg like that .
+hope this helps
+Jaly aka the badass</Content>
+            <Reference>brain</Reference>
+            <Best>5</Best>
+            <UserId>txwiFmYwaa</UserId>
+            <UserNick>Jaly</UserNick>
+            <Date>2010-03-16 20:27:13</Date>
+            <Timestamp>1268796433</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hold down the &quot;Ctrl&quot; key and then move the scroller on your mouse to adjust the size of the screen.</Content>
+            <Reference>This happened to me a few times.</Reference>
+            <Best></Best>
+            <UserId>17b959544fe5d0f04baabb39f366b6f5aa</UserId>
+            <UserNick>jracer524</UserNick>
+            <Date>2010-03-16 20:28:51</Date>
+            <Timestamp>1268796531</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try changing the zoom level in your internet explorer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>73YoKUHcaa</UserId>
+            <UserNick>Grasshopper</UserNick>
+            <Date>2010-03-16 20:32:46</Date>
+            <Timestamp>1268796766</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:46:29 PDT 2010 -->

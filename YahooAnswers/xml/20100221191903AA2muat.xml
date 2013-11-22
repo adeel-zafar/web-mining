@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221191903AA2muat" type="Answered">
+    <Subject>Hulu not working as of February 20/21st?</Subject>
+    <Content>Is anyone else finding it impossible to even get to any hulu page today? It seems to me this has been happening since at least last night. Anyone know what&#039;s going on with that?
+</Content>
+    <Date>2010-02-21 19:19:03</Date>
+    <Timestamp>1266808743</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221191903AA2muat</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>63r0t0DTaa</UserId>
+    <UserNick>Jane Doe</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Mine is working great -I do have WIN 7</ChosenAnswer>
+    <ChosenAnswererId>a367680da89798e58b81090523c289c8aa</ChosenAnswererId>
+    <ChosenAnswererNick>midnightbluemaple</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266808836</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267336338</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Mine is working great -I do have WIN 7</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>a367680da89798e58b81090523c289c8aa</UserId>
+            <UserNick>midnightbluemaple</UserNick>
+            <Date>2010-02-21 19:20:36</Date>
+            <Timestamp>1266808836</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;m able to navigate around and select a movie. It wants me to load Adobe Flash Player 10 at that point, but I don&#039;t see any problems with the website. FWIW, I have Windows XP.
+
+Try clearing out your cookies and temporary Internet files cache, then try Hulu again.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pt6wIlS1aa</UserId>
+            <UserNick>MavistheMaven</UserNick>
+            <Date>2010-02-21 19:23:15</Date>
+            <Timestamp>1266808995</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Mine is working good. I just checked it out. I have Windows7 I also have another desktop on my work bench with windowsXP, and it is working fine on it too.</Content>
+            <Reference>Computer Tech</Reference>
+            <Best></Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-02-21 19:27:44</Date>
+            <Timestamp>1266809264</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:31:52 PDT 2010 -->

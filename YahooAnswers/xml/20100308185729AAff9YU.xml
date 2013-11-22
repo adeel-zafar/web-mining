@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308185729AAff9YU" type="Answered">
+    <Subject>My wireless router is 5ADN6 but when I use my DS Lite to search for an access point, it doesn&#039;t show Up! Why?</Subject>
+    <Content>I&#039;m trying out WI-FI but I can&#039;t access it. Please tell me how!
+</Content>
+    <Date>2010-03-08 18:57:29</Date>
+    <Timestamp>1268103449</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308185729AAff9YU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2lHZIOaFaa</UserId>
+    <UserNick>bnnydragon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1cObFOKwiAAED_uFELI3dYsqqJyJ1sg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The router may be set to not broadcast its SSID (network name) for security reasons.  (Everyone on the block can see it and target it for freeloading.)  
+
+If you can, try supplying the router&#039;s SSID directly to the DS lite rather than expecting it to show up in a scan to be clicked on.  It&#039;s safer that way.
+
+Hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268104820</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268964954</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Have you set up your settings before trying to hook up? If not thats probably why</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LyqxwZCyaa</UserId>
+            <UserNick>Loz</UserNick>
+            <Date>2010-03-08 18:59:47</Date>
+            <Timestamp>1268103587</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You should make sure everything is correctly connected in the router. If that is all good, you should see if any other wireless device can pick the signal up. i.e. A laptop or iPhone. If some other device does pick it up, it is nothing to do with the router. If they don&#039;t, it is probably the router. So if it is the router, call the provider&#039;s support. If it is you DS call the Nintendo support for further help. Well I hope this helps in any way.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EaUTK0Vgaa</UserId>
+            <UserNick>Mr. Zyu</UserNick>
+            <Date>2010-03-08 19:06:51</Date>
+            <Timestamp>1268104011</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The router may be set to not broadcast its SSID (network name) for security reasons.  (Everyone on the block can see it and target it for freeloading.)  
+
+If you can, try supplying the router&#039;s SSID directly to the DS lite rather than expecting it to show up in a scan to be clicked on.  It&#039;s safer that way.
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-08 19:20:20</Date>
+            <Timestamp>1268104820</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:28:30 PDT 2010 -->

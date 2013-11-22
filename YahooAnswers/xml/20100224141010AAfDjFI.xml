@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224141010AAfDjFI" type="Answered">
+    <Subject>I can&#039;t log out of my twitterific account on my iphone.?</Subject>
+    <Content>I&#039;ve changed my password today - and when I tried to use Twitter on my iphone it says Your current login information was not accepted by Twitter.  I can&#039;t find out how to log out and back in again with my new password - can anybody help me please?
+</Content>
+    <Date>2010-02-24 14:10:10</Date>
+    <Timestamp>1267049410</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224141010AAfDjFI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gDB7TeJxaa</UserId>
+    <UserNick>afkae 1</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>delete it and then re-download it for free.</ChosenAnswer>
+    <ChosenAnswererId>2pmN5eEvaa</ChosenAnswererId>
+    <ChosenAnswererNick>acfman17</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267049495</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267568887</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Restart the phone.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>mHqBN7Sqaa</UserId>
+            <UserNick>Matt</UserNick>
+            <Date>2010-02-24 14:11:05</Date>
+            <Timestamp>1267049465</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>delete it and then re-download it for free.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2pmN5eEvaa</UserId>
+            <UserNick>acfman17</UserNick>
+            <Date>2010-02-24 14:11:35</Date>
+            <Timestamp>1267049495</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:13:37 PDT 2010 -->

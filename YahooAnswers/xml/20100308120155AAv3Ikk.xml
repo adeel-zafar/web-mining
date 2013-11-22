@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308120155AAv3Ikk" type="Answered">
+    <Subject>How do you make these sort of website things?</Subject>
+    <Content>www.whoisthecutest.com
+
+My friend sent me that.
+I see links like that all the time though.
+With customized stuff when you click.
+Where do you do that?
+</Content>
+    <Date>2010-03-08 12:01:55</Date>
+    <Timestamp>1268078515</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308120155AAv3Ikk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>18KFOtPoaa</UserId>
+    <UserNick>Dee Noir</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b3c52edi264bzul5re4/7UHS6VM0d6O5OCsV8_2woI6gTvpX/3/tn48.png?ciAAToMBppyureie</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You need to learn HTML, Javascript, CSS, and a server-side programming language like PHP, Python, or Ruby. Once you know how to program, you just open up a text editor and write your code. There is no program that can do it for you.</ChosenAnswer>
+    <ChosenAnswererId>SuyAG7MCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ben</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268078662</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268174757</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You need to learn HTML, Javascript, CSS, and a server-side programming language like PHP, Python, or Ruby. Once you know how to program, you just open up a text editor and write your code. There is no program that can do it for you.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>SuyAG7MCaa</UserId>
+            <UserNick>Ben</UserNick>
+            <Date>2010-03-08 12:04:22</Date>
+            <Timestamp>1268078662</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:31:31 PDT 2010 -->

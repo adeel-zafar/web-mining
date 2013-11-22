@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302120209AAePnO9" type="Answered">
+    <Subject>safe website to download firefox?</Subject>
+    <Content>i need the best website to download firefox.
+i tried other websites but they wont work :( 
+pl z help mee 
+thank u sooooooo much !!!
+</Content>
+    <Date>2010-03-02 12:02:09</Date>
+    <Timestamp>1267560129</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302120209AAePnO9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vFQVorYOaa</UserId>
+    <UserNick>Lol</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www.mozilla.com/firefox
+
+...</ChosenAnswer>
+    <ChosenAnswererId>O1ryx0HPaa</ChosenAnswererId>
+    <ChosenAnswererNick>DS</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267560332</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268079878</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.mozilla.com/firefox
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>O1ryx0HPaa</UserId>
+            <UserNick>DS</UserNick>
+            <Date>2010-03-02 12:05:32</Date>
+            <Timestamp>1267560332</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>filehippo</Content>
+            <Reference>http://www.filehippo.com/download_firefox/</Reference>
+            <Best></Best>
+            <UserId>o0f9bLUDaa</UserId>
+            <UserNick>HammeringOracle</UserNick>
+            <Date>2010-03-02 12:19:37</Date>
+            <Timestamp>1267561177</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:25:50 PDT 2010 -->

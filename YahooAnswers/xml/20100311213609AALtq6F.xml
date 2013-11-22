@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311213609AALtq6F" type="Answered">
+    <Subject>How do I get back to Firefox 3.5?</Subject>
+    <Content>I came back to my computer to find that 3.6 was up, tried it, and my skin wasn&#039;t compatible with it. Along with other troubles, I don&#039;t see it being worth it. How can I set it so that I can get back on previous versions of firefox?
+</Content>
+    <Date>2010-03-11 21:36:09</Date>
+    <Timestamp>1268372169</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311213609AALtq6F</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hG7BKVCNaa</UserId>
+    <UserNick>kenrules71</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go to http://www.oldversion.com/Mozilla-Firefox.html scroll down to the bottom
+download the file to your desktop
+remove the current version and 
+finally
+install the new(old) version</ChosenAnswer>
+    <ChosenAnswererId>2359d9032d2e09a21521d23e5aa743aeaa</ChosenAnswererId>
+    <ChosenAnswererNick>Çlïgér4™  ♂</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268372643</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268887997</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go to http://www.oldversion.com/Mozilla-Firefox.html scroll down to the bottom
+download the file to your desktop
+remove the current version and 
+finally
+install the new(old) version</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2359d9032d2e09a21521d23e5aa743aeaa</UserId>
+            <UserNick>Çlïgér4™  ♂</UserNick>
+            <Date>2010-03-11 21:44:03</Date>
+            <Timestamp>1268372643</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:11:27 PDT 2010 -->

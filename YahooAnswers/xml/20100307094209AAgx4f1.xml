@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307094209AAgx4f1" type="Answered">
+    <Subject>What is that website called that you have a conversation with a computer?</Subject>
+    <Content>It learns from other people&#039;s responses what to say, and you can talk to it. It&#039;s kinda got the google font themed header, but I completely forget its name.
+</Content>
+    <Date>2010-03-07 09:42:09</Date>
+    <Timestamp>1267983729</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307094209AAgx4f1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ICDFNdd2aa</UserId>
+    <UserNick>Hannah</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ODvkWGqzAAEB9KGSuBTLNPfMIte0tw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.cleverbot.com</ChosenAnswer>
+    <ChosenAnswererId>S6wsxOriaa</ChosenAnswererId>
+    <ChosenAnswererNick>xforever</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267984087</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268082257</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i&#039;m not sure sorry, but that sounds really cool</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ou3A9OSMaa</UserId>
+            <UserNick>Andrew</UserNick>
+            <Date>2010-03-07 09:47:18</Date>
+            <Timestamp>1267984038</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.cleverbot.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>S6wsxOriaa</UserId>
+            <UserNick>xforever</UserNick>
+            <Date>2010-03-07 09:48:07</Date>
+            <Timestamp>1267984087</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.bored.com/oliverbot/</Content>
+            <Reference>bored.com</Reference>
+            <Best></Best>
+            <UserId>Ki88A5A0aa</UserId>
+            <UserNick>Aiiry</UserNick>
+            <Date>2010-03-07 09:56:07</Date>
+            <Timestamp>1267984567</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:40:01 PDT 2010 -->

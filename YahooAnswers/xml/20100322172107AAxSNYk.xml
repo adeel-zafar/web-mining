@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322172107AAxSNYk" type="Answered">
+    <Subject>What is your favorite username?</Subject>
+    <Content>What is YOUR favorite user name of all-time?
+</Content>
+    <Date>2010-03-22 17:21:07</Date>
+    <Timestamp>1269303667</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322172107AAxSNYk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SHbjVHUVaa</UserId>
+    <UserNick>Add me!!</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1x_MgU0pFAAEDVQJbHAyXAU4M0m0F.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Mine.</ChosenAnswer>
+    <ChosenAnswererId>9a116df579a24375d34007ea3f0af799aa</ChosenAnswererId>
+    <ChosenAnswererNick>TalentedChimp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269303814</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269480199</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Mine.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>9a116df579a24375d34007ea3f0af799aa</UserId>
+            <UserNick>TalentedChimp</UserNick>
+            <Date>2010-03-22 17:23:34</Date>
+            <Timestamp>1269303814</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Confuted</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5zq8H01naa</UserId>
+            <UserNick>c0nfuted</UserNick>
+            <Date>2010-03-22 17:25:08</Date>
+            <Timestamp>1269303908</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ikram168 &gt;&gt;&gt; it the best</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XfB7AJNNaa</UserId>
+            <UserNick>mohd_ikram87</UserNick>
+            <Date>2010-03-22 17:34:35</Date>
+            <Timestamp>1269304475</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:21:16 PDT 2010 -->

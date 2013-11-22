@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324200957AAAr0HO" type="Answered">
+    <Subject>how can i shoop da whoop?</Subject>
+    <Content>iz trys so hards nothing but FAILZ?
+</Content>
+    <Date>2010-03-24 20:09:57</Date>
+    <Timestamp>1269486597</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324200957AAAr0HO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9p5nxpy9aa</UserId>
+    <UserNick>Frtk</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You are not the kind of person who will ever be able to shoop da whoop</ChosenAnswer>
+    <ChosenAnswererId>EobrInKcaa</ChosenAnswererId>
+    <ChosenAnswererNick>R Gold</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269487659</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269659784</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You are not the kind of person who will ever be able to shoop da whoop</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>EobrInKcaa</UserId>
+            <UserNick>R Gold</UserNick>
+            <Date>2010-03-24 20:27:39</Date>
+            <Timestamp>1269487659</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:33:01 PDT 2010 -->

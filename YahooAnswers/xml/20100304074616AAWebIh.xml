@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304074616AAWebIh" type="Answered">
+    <Subject>My Mozilla works faster.. but when I upgraded to IE 8 from IE 6, its taking forever to load?</Subject>
+    <Content>Even if I re install IE 8, its not working faster, please give me any tips if you have any.. I want to work on IE 8 as well. It works fine for all of my other friends
+</Content>
+    <Date>2010-03-04 07:46:16</Date>
+    <Timestamp>1267717576</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304074616AAWebIh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11956572</UserId>
+    <UserNick>prem</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1hGrCRh6JAAED_AFVLDrJdwsB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The Windows Registry is the master control center for your operating system and applications it runs.  Corruption or overload registry issues can cause all sorts of pc performance problems, including poor application startup times, slow Windows start-up, extremely slow shut down, slow internet surfing,inability to resume from computer sleep and more.Cleaning,compacting, and optimizing your Windows registry can go a long way to dramatically speeding up your computer’s performance, start-up and shutdown speed.
+Recommended:  Run a  Registry Scan http://make-a-computer-run-better.com         Now to Detect Errors and Improve your PC’s speed instantly!</ChosenAnswer>
+    <ChosenAnswererId>b5bhC5Azaa</ChosenAnswererId>
+    <ChosenAnswererNick>Volld</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268012138</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268237134</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The Windows Registry is the master control center for your operating system and applications it runs.  Corruption or overload registry issues can cause all sorts of pc performance problems, including poor application startup times, slow Windows start-up, extremely slow shut down, slow internet surfing,inability to resume from computer sleep and more.Cleaning,compacting, and optimizing your Windows registry can go a long way to dramatically speeding up your computer’s performance, start-up and shutdown speed.
+Recommended:  Run a  Registry Scan http://make-a-computer-run-better.com         Now to Detect Errors and Improve your PC’s speed instantly!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>b5bhC5Azaa</UserId>
+            <UserNick>Volld</UserNick>
+            <Date>2010-03-07 17:35:38</Date>
+            <Timestamp>1268012138</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:11:41 PDT 2010 -->

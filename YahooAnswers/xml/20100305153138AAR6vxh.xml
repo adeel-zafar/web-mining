@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305153138AAR6vxh" type="Answered">
+    <Subject>A website where I can make playlists for FREE?</Subject>
+    <Content>I need to make a playlist quickly. Not on iTunes or anything, but a website where I can make a free account or something and make a playlist visible to other people. Thanks :)
+</Content>
+    <Date>2010-03-05 15:31:38</Date>
+    <Timestamp>1267831898</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305153138AAR6vxh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gvZcXyJDaa</UserId>
+    <UserNick>Sarana</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1HPwxm3IXAAEB4-QzGau_DQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No idea! Nice name by the way!</ChosenAnswer>
+    <ChosenAnswererId>Ulb56OyWaa</ChosenAnswererId>
+    <ChosenAnswererNick>Amex</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267984430</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268358800</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No idea! Nice name by the way!</Content>
+            <Reference>None</Reference>
+            <Best>5</Best>
+            <UserId>Ulb56OyWaa</UserId>
+            <UserNick>Amex</UserNick>
+            <Date>2010-03-07 09:53:50</Date>
+            <Timestamp>1267984430</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:55:07 PDT 2010 -->

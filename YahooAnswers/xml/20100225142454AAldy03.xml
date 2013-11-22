@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225142454AAldy03" type="Answered">
+    <Subject>Lockerz not working but working?</Subject>
+    <Content>Ok so lockerz is Not working on firefox but is working on explorer? Whats work?
+
+As in on firefox it says lockerz is down for upgrades but on regular explorer I can log in.
+
+Whats wrong?
+</Content>
+    <Date>2010-02-25 14:24:54</Date>
+    <Timestamp>1267136694</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225142454AAldy03</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2uJdgloYaa</UserId>
+    <UserNick>Alex</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1nsl1B5bjAAEC_IFHcA1yCQ==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>maybe you should try using chrome, also make sure to check Lockerz site for any help with that, I know it works in Chrome, but I have never tried in Firefox. I also just hate using IE because it is really slow on my computer compared to any other browser that is on my computer.</ChosenAnswer>
+    <ChosenAnswererId>2R46UMyOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Zepz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267136908</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267216904</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>maybe you should try using chrome, also make sure to check Lockerz site for any help with that, I know it works in Chrome, but I have never tried in Firefox. I also just hate using IE because it is really slow on my computer compared to any other browser that is on my computer.</Content>
+            <Reference>My experiences with lockerz.</Reference>
+            <Best>5</Best>
+            <UserId>2R46UMyOaa</UserId>
+            <UserNick>Zepz</UserNick>
+            <Date>2010-02-25 14:28:28</Date>
+            <Timestamp>1267136908</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:49 PDT 2010 -->

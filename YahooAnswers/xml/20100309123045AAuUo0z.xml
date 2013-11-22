@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309123045AAuUo0z" type="Answered">
+    <Subject>I got z-list 3 weeks ago...?</Subject>
+    <Content>I am waiting for my t-shirt... When it comes, will it come in the mailbox or will it be on the porch?
+</Content>
+    <Date>2010-03-09 12:30:45</Date>
+    <Timestamp>1268166645</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309123045AAuUo0z</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>OnhoGbgjaa</UserId>
+    <UserNick>Phantomtick99</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i believe mailbox but im not sure</ChosenAnswer>
+    <ChosenAnswererId>IBe2Zsgraa</ChosenAnswererId>
+    <ChosenAnswererNick>nnn</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268166801</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268262402</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i believe mailbox but im not sure</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>IBe2Zsgraa</UserId>
+            <UserNick>Nadia</UserNick>
+            <Date>2010-03-09 12:33:21</Date>
+            <Timestamp>1268166801</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:24:35 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227132758AAqJmjm" type="Answered">
+    <Subject>From experience,which delivery service does Amazon Free Super Shipping use?</Subject>
+    <Content>Ive never used Super Shipping before, do they ship fast and from which service UPS,USPS,FEDEX? Thank you in advance. =)
+</Content>
+    <Date>2010-02-27 13:27:58</Date>
+    <Timestamp>1267306078</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227132758AAqJmjm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rrHxTAoSaa</UserId>
+    <UserNick>Mary</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ngQqsfZRAAICQEEo4IfZ9kEB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Usually the U. S. Postal Service, but mostly I&#039;ve bought books. They might prefer FedEx for bigger items.</ChosenAnswer>
+    <ChosenAnswererId>whKgPoJ6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Bill M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267306255</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269331372</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Usually the U. S. Postal Service, but mostly I&#039;ve bought books. They might prefer FedEx for bigger items.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>whKgPoJ6aa</UserId>
+            <UserNick>Bill M</UserNick>
+            <Date>2010-02-27 13:30:55</Date>
+            <Timestamp>1267306255</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:43:09 PDT 2010 -->

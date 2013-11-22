@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324221217AA8Xitn" type="Answered">
+    <Subject>Where online can I see a calendar w/ all the holidays &amp; the phases of the moon?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-24 22:12:17</Date>
+    <Timestamp>1269493937</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324221217AA8Xitn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zwaXYoRbaa</UserId>
+    <UserNick>antonio andolini</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Meid4MJ7AAEDQWEo8Ah0Bg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i use
+http://www.timeanddate.com/calendar/</ChosenAnswer>
+    <ChosenAnswererId>IKCKqLNXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Terry B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269494269</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269542045</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i use
+http://www.timeanddate.com/calendar/</Content>
+            <Reference>http://www.timeanddate.com/calendar/</Reference>
+            <Best>5</Best>
+            <UserId>IKCKqLNXaa</UserId>
+            <UserNick>Terry B</UserNick>
+            <Date>2010-03-24 22:17:49</Date>
+            <Timestamp>1269494269</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Microsoft has the answer for you!
+
+Click on the link below.
+
+Have fun!
+
+Diane</Content>
+            <Reference>http://office.microsoft.com/en-us/templates/TC300041941033.aspx</Reference>
+            <Best></Best>
+            <UserId>5dUxTFN2aa</UserId>
+            <UserNick>Diane Neill Jensen</UserNick>
+            <Date>2010-03-24 23:52:17</Date>
+            <Timestamp>1269499937</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:23 PDT 2010 -->

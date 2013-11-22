@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322155951AAYnrqx" type="Answered">
+    <Subject>Does windows 7 provide adequate virus protection?</Subject>
+    <Content>Does windows 7 provide adequate virus protection?
+</Content>
+    <Date>2010-03-22 15:59:51</Date>
+    <Timestamp>1269298791</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322155951AAYnrqx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>H6Gof9Jbaa</UserId>
+    <UserNick>Tuesday</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269382489</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269383200</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No operating systems provide adequate virus protection.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>j7QUfqhfaa</UserId>
+            <UserNick>Lucifer In Tears</UserNick>
+            <Date>2010-03-22 16:01:32</Date>
+            <Timestamp>1269298892</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your windows program doesn&#039;t provide the virus protection you need to get a security program to do that.  The only type of protection that it provides is a firewall.  But it is advisable that you get security software that has it&#039;s own firewall that is superior to Microsofts.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rSqSxIyOaa</UserId>
+            <UserNick>Belgariad</UserNick>
+            <Date>2010-03-22 16:04:07</Date>
+            <Timestamp>1269299047</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No. Windows 7 is an operating system. Operating systems don&#039;t provide any real protection (except for the occasional security warning). However, Microsoft has released an Anti-Virus called &quot;Microsoft Security Essentials.&quot; Look it up online. It works great with Windows 7 and has worked great for me so far.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0IFVHBsgaa</UserId>
+            <UserNick>David</UserNick>
+            <Date>2010-03-22 16:07:10</Date>
+            <Timestamp>1269299230</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-23 15:14:49</Date>
+            <Timestamp>1269382489</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:21:51 PDT 2010 -->

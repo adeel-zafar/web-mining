@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225141112AA2L6aa" type="Answered">
+    <Subject>Does buy.com accept payments from paypal?</Subject>
+    <Content>I&#039;m looking at some stuff I want on buy.com and we have paypal and was wondering if they accept that.
+</Content>
+    <Date>2010-02-25 14:11:12</Date>
+    <Timestamp>1267135872</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225141112AA2L6aa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>q73ROykjaa</UserId>
+    <UserNick>Purl Star</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1QHzMDOG8AAEC-IF6RBPOFLwB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>YES !  :)</ChosenAnswer>
+    <ChosenAnswererId>OaX3qaDxaa</ChosenAnswererId>
+    <ChosenAnswererNick>ANGEL</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267136020</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267655191</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Is there a PayPal logo on their site? Do they offer you that option when you check out? That&#039;s how you would know.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BhNP2P8Xaa</UserId>
+            <UserNick>joe.attaboy</UserNick>
+            <Date>2010-02-25 14:12:25</Date>
+            <Timestamp>1267135945</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>YES !  :)</Content>
+            <Reference>http://www.buy.com/help/What-are-my-payment-choices/67240.html</Reference>
+            <Best>5</Best>
+            <UserId>OaX3qaDxaa</UserId>
+            <UserNick>ANGEL</UserNick>
+            <Date>2010-02-25 14:13:40</Date>
+            <Timestamp>1267136020</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:58 PDT 2010 -->

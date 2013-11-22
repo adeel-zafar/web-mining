@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225153846AAIbXMG" type="Answered">
+    <Subject>a internet question, please answer?</Subject>
+    <Content>you kno how on some websites you type in the search box and then you go back to the search box and it shows your history what you typed? if you kno what im talkin bout, could you tell me how to change it to where it dont save my history. thank you
+</Content>
+    <Date>2010-02-25 15:38:46</Date>
+    <Timestamp>1267141126</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225153846AAIbXMG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cAbKM0chaa</UserId>
+    <UserNick>bengalgirl</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The exact answer will depend upon what browser you are using.  Internet Explorer?  Firefox?  Opera?  Chrome?</ChosenAnswer>
+    <ChosenAnswererId>XBTyopIMaa</ChosenAnswererId>
+    <ChosenAnswererNick>▐▀▀▼▀▀▌ ►  Ed  ◄ ▐▄▄▲▄▄▌</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267141630</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267911497</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>um to get rid of the history, you have to actually clear your data online if you have mozila go to tools then clear recent history, for internet explorer you have to go into the control panel go to internet options and under browsing history hit clear all, i do not think there is a way to just keep it from collecting data</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bjrfMZCbaa</UserId>
+            <UserNick>Alex</UserNick>
+            <Date>2010-02-25 15:42:02</Date>
+            <Timestamp>1267141322</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you&#039;re using Internet Explorer, Go to tools menu --&gt; Internet options --&gt; then choose delete.
+
+If you&#039;re using Mozilla as your browser, go to tools menu --&gt; Clear recent history then check them all.
+
+That&#039;s it. But if you really want privacy and on your computer, go download &quot;CCleaner&quot; or &quot;Traceless&quot;
+
+Both programs are written to delete all the history and recently opened programs and documents you&#039;ve used.
+
+Good Luck Mate! =D</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Z0lEv4Dzaa</UserId>
+            <UserNick>Jordan</UserNick>
+            <Date>2010-02-25 15:45:44</Date>
+            <Timestamp>1267141544</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The exact answer will depend upon what browser you are using.  Internet Explorer?  Firefox?  Opera?  Chrome?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XBTyopIMaa</UserId>
+            <UserNick>▐▀▀▼▀▀▌ ►  Ed  ◄ ▐▄▄▲▄▄▌</UserNick>
+            <Date>2010-02-25 15:47:10</Date>
+            <Timestamp>1267141630</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:14 PDT 2010 -->

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303160746AAhe6Kr" type="Answered">
+    <Subject>where do people make their websites?</Subject>
+    <Content>I know how to make my own website but, how do the website making companies like godaddy and weebly and free webs make their websites.
+</Content>
+    <Date>2010-03-03 16:07:46</Date>
+    <Timestamp>1267661266</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303160746AAhe6Kr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JdLauXcgaa</UserId>
+    <UserNick>simon u</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>sometimes hosting companies offer what is called in the business a CMS, or template-based web site, what is layman&#039;s terms is called a site builder.  Drupal is one of those.  it is usually PHP+MySQL-based.
+
+you can usually download and install themes for your CMS, so users will have a variety to choose from.</ChosenAnswer>
+    <ChosenAnswererId>Xrpse3Iaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jim</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267662122</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267749471</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.mosite.org
+http://www.freewebspace.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>L7HK6acsaa</UserId>
+            <UserNick>Susana</UserNick>
+            <Date>2010-03-03 16:10:21</Date>
+            <Timestamp>1267661421</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think that a good place to use is Webs.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ACC7gfr5aa</UserId>
+            <UserNick>Mnirem</UserNick>
+            <Date>2010-03-03 16:17:07</Date>
+            <Timestamp>1267661827</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>sometimes hosting companies offer what is called in the business a CMS, or template-based web site, what is layman&#039;s terms is called a site builder.  Drupal is one of those.  it is usually PHP+MySQL-based.
+
+you can usually download and install themes for your CMS, so users will have a variety to choose from.</Content>
+            <Reference>http://en.wikipedia.org/wiki/Content_management_system
+http://drupal.org/</Reference>
+            <Best>5</Best>
+            <UserId>Xrpse3Iaaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-03 16:22:02</Date>
+            <Timestamp>1267662122</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:15:23 PDT 2010 -->

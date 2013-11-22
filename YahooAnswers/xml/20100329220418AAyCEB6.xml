@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329220418AAyCEB6" type="Answered">
+    <Subject>Safari will not let me on a few websites; blogger.com in particular?</Subject>
+    <Content>soooo, whenever i try to go on a few select websites it says this:
+Safari can’t open the page.
+Safari can’t open the page “https://www.google.com/accounts/ServiceL… because Safari can’t establish a secure connection to the server “www.google.com”.
+
+the same thing happened with my youtube sign in page.
+i&#039;ve gone through the question list and none of those seem to fix it.
+how do i fix it?
+THANKS!
+</Content>
+    <Date>2010-03-29 22:04:18</Date>
+    <Timestamp>1269925458</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329220418AAyCEB6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>f7uVLWAoaa</UserId>
+    <UserNick>Freakin&#039; Morgan, Fasho!</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba5b546i1de0zws129ac4/gn85ang8dLQ_jFKX6DhIMW4uYShs/9/tn48.jpeg?ciAAToMB.q5j7Gv8</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i really dont know how u wud</ChosenAnswer>
+    <ChosenAnswererId>6txlkMT3aa</ChosenAnswererId>
+    <ChosenAnswererNick>waci_eldridge@yahoo.com</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269972339</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270095249</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i really dont know how u wud</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6txlkMT3aa</UserId>
+            <UserNick>waci_eldridge@yahoo.com</UserNick>
+            <Date>2010-03-30 11:05:39</Date>
+            <Timestamp>1269972339</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:49 PDT 2010 -->

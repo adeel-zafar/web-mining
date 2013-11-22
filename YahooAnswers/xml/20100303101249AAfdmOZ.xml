@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303101249AAfdmOZ" type="Answered">
+    <Subject>Finding sounds for pidgin?</Subject>
+    <Content>I&#039;m new to pidgin. Does anyone know any sites to download sound clips for pidgin. Preferably in an easy to install format.
+</Content>
+    <Date>2010-03-03 10:12:49</Date>
+    <Timestamp>1267639969</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303101249AAfdmOZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LoDVUCBPaa</UserId>
+    <UserNick>bender</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1FI8cZAFCAAEBPAKdtWE=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.pidgin.im/
+ This is the official website for pidgins
+ You can find useful plugins in downloads tab.</ChosenAnswer>
+    <ChosenAnswererId>O5X6F5FMaa</ChosenAnswererId>
+    <ChosenAnswererNick>NITHIN C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267640161</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268159697</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.pidgin.im/
+ This is the official website for pidgins
+ You can find useful plugins in downloads tab.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>O5X6F5FMaa</UserId>
+            <UserNick>NITHIN C</UserNick>
+            <Date>2010-03-03 10:16:01</Date>
+            <Timestamp>1267640161</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:18:20 PDT 2010 -->

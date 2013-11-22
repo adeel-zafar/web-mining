@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321144543AAV93xR" type="Answered">
+    <Subject>How can I add links to my firefox toolbar?</Subject>
+    <Content>I did it on a previous computer but cant on this one. all i had to do was drag and drop. how can i set up a toolbar that allows me to add my own links to it? i blame vista :(
+</Content>
+    <Date>2010-03-21 14:45:43</Date>
+    <Timestamp>1269207943</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321144543AAV93xR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3xLQnkWqaa</UserId>
+    <UserNick>:/</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49cd185ai2152zul7re4/ZRcR_iczd6dK2JTQJ7yrwZ9YPKLmU0OT/1/tn48.jpg?ciAAToMBI.srKOut</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Drag and drop has always worked for me. I&#039;m on Windows 7 and FF 3.6.</ChosenAnswer>
+    <ChosenAnswererId>mGzMxAjYaa</ChosenAnswererId>
+    <ChosenAnswererNick>david.earl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269447285</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269727508</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Drag and drop has always worked for me. I&#039;m on Windows 7 and FF 3.6.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mGzMxAjYaa</UserId>
+            <UserNick>david.earl</UserNick>
+            <Date>2010-03-24 09:14:45</Date>
+            <Timestamp>1269447285</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:26:22 PDT 2010 -->

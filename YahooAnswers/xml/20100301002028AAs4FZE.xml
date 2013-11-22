@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301002028AAs4FZE" type="Answered">
+    <Subject>which browser support html 5 perfectly?</Subject>
+    <Content>i had gone through all browsers and all of them works nicely on html 5 but i want to know which browser do perfectly in this field.
+</Content>
+    <Date>2010-03-01 00:20:28</Date>
+    <Timestamp>1267431628</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301002028AAs4FZE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eBnM0sZPaa</UserId>
+    <UserNick>Saad</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>none as of yet.  The closest you will find is Google Chrome</ChosenAnswer>
+    <ChosenAnswererId>PX2uuH2taa</ChosenAnswererId>
+    <ChosenAnswererNick>Chris</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267577393</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267950823</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>none as of yet.  The closest you will find is Google Chrome</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>PX2uuH2taa</UserId>
+            <UserNick>Chris</UserNick>
+            <Date>2010-03-02 16:49:53</Date>
+            <Timestamp>1267577393</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:33:48 PDT 2010 -->

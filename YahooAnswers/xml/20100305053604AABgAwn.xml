@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305053604AABgAwn" type="Answered">
+    <Subject>How can i deactivate my yahoo answers account without deleting my email account?</Subject>
+    <Content>sorry for putting it in the wrong category but it seems that i have not received an appropriate answer.
+</Content>
+    <Date>2010-03-05 05:36:04</Date>
+    <Timestamp>1267796164</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305053604AABgAwn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zJhfU6Oraa</UserId>
+    <UserNick>why?</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There is no option for deactivating.  You simply stop using it - deleting all profile content if you wish to do so</ChosenAnswer>
+    <ChosenAnswererId>2LbTrlQnaa</ChosenAnswererId>
+    <ChosenAnswererNick>JIM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267796754</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267924114</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just stop coming here.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BBnnSwK9aa</UserId>
+            <UserNick>ELfaGeek</UserNick>
+            <Date>2010-03-05 05:41:59</Date>
+            <Timestamp>1267796519</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There is no option for deactivating.  You simply stop using it - deleting all profile content if you wish to do so</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-05 05:45:54</Date>
+            <Timestamp>1267796754</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:58:05 PDT 2010 -->

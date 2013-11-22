@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324023300AA5Y0HS" type="Answered">
+    <Subject>How do we connect them together through the phone line?</Subject>
+    <Content>How do we connect 2 PCs directly together using modems and over the phone line? Can it be done? I think we need to use the dial up modem for this one.
+</Content>
+    <Date>2010-03-24 02:33:00</Date>
+    <Timestamp>1269423180</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324023300AA5Y0HS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0d75d1a697ce235f4b06447babfe5014aa</UserId>
+    <UserNick>TopDog</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bdab16i16adz/iQoKLgkyfaL3.Yo1cEM-/100/tn48.jpg?ciAAToMBkatpK1Op</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You need a router, to connect 2 PCs together. If you are using dial-up you might want to look into Broadband DSL or cable for a faster connection.</ChosenAnswer>
+    <ChosenAnswererId>TRLMIgrEaa</ChosenAnswererId>
+    <ChosenAnswererNick>kinamyen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269423480</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269942779</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Get a wireless router (this plugs straight in to the phone line)... Equip each PC with a wire less adaptor/dongle etc....that&#039;s it, you have a wireless network. Set the share/shared Docs for each PC.
+Or you can use a switch type hub, the modem and both PC&#039;s plug straight in and your on.
+
+Google &quot;home networking diagrams&quot;+&quot;modem&quot;or&quot;router&quot; for more info</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ad8304b9ac8df824e1757cd277aa182faa</UserId>
+            <UserNick>Pete F</UserNick>
+            <Date>2010-03-24 02:37:51</Date>
+            <Timestamp>1269423471</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You need a router, to connect 2 PCs together. If you are using dial-up you might want to look into Broadband DSL or cable for a faster connection.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TRLMIgrEaa</UserId>
+            <UserNick>kinamyen</UserNick>
+            <Date>2010-03-24 02:38:00</Date>
+            <Timestamp>1269423480</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:36:00 PDT 2010 -->

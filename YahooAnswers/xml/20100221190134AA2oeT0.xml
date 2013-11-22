@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221190134AA2oeT0" type="Answered">
+    <Subject>On Twitter if you mention someone (@someone), will they see your message, even if they&#039;re not following you?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-21 19:01:34</Date>
+    <Timestamp>1266807694</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221190134AA2oeT0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>OWYcNu2Saa</UserId>
+    <UserNick>Harriet</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1cGuaqsB8AAIB-AFERJd1B3jNMA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Nope, sadly not. (If only..)</ChosenAnswer>
+    <ChosenAnswererId>Z5OLHoinaa</ChosenAnswererId>
+    <ChosenAnswererNick>jø-eccentric ©</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266817880</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266854537</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Nope, sadly not. (If only..)</Content>
+            <Reference>I have a Twitter.</Reference>
+            <Best>5</Best>
+            <UserId>Z5OLHoinaa</UserId>
+            <UserNick>jø-eccentric ©</UserNick>
+            <Date>2010-02-21 21:51:20</Date>
+            <Timestamp>1266817880</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:31:59 PDT 2010 -->

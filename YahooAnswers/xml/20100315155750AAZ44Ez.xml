@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315155750AAZ44Ez" type="Answered">
+    <Subject>Web-based voice chat?</Subject>
+    <Content>Looking for somewhere with web-based voice chat where I can get a group of ~20 people max who can all talk on mic without having to get everyone to d/l a client. Any suggestions? Don&#039;t suggest vent/teamspeak etc, I know they&#039;re a better idea but not an option.
+</Content>
+    <Date>2010-03-15 15:57:50</Date>
+    <Timestamp>1268693870</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315155750AAZ44Ez</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tbkutr8Zaa</UserId>
+    <UserNick>eventide</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1eb-MxqdaAAEBLCGcXKb7Bw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www.tinychat.com</ChosenAnswer>
+    <ChosenAnswererId>8HlKXmODaa</ChosenAnswererId>
+    <ChosenAnswererNick>david</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268694437</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269003422</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.tinychat.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>8HlKXmODaa</UserId>
+            <UserNick>david</UserNick>
+            <Date>2010-03-15 16:07:17</Date>
+            <Timestamp>1268694437</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:45 PDT 2010 -->

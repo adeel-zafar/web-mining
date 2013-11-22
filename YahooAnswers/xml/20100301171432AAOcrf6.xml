@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301171432AAOcrf6" type="Answered">
+    <Subject>How can I get Google Chrome to keep me logged in to sites when I close the window?</Subject>
+    <Content>When I opened a browser on my old computer, I could go to facebook and I would still be logged into fb from last time. But my new computer makes me log in to sites again any time I close the browser. How can I stay logged in?
+I have windows 7 and my sites don&#039;t stay logged in.
+</Content>
+    <Date>2010-03-01 17:14:32</Date>
+    <Timestamp>1267492472</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301171432AAOcrf6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jL6fwfzNaa</UserId>
+    <UserNick>Muerte del Mundo</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b8c68c2i2399zws140ac4/2DO488c8bqMmEZCA5FJvf_LEiPnxGvyEwTuS8I5HTn0-/1/tn48.jpeg?ciAAToMBmyy3z8AI</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Google Chrome will do this by default as well, unless you sign out of the site.</ChosenAnswer>
+    <ChosenAnswererId>RlT8EmmIaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jeremy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267492560</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268177598</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Google Chrome will do this by default as well, unless you sign out of the site.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RlT8EmmIaa</UserId>
+            <UserNick>Jeremy</UserNick>
+            <Date>2010-03-01 17:16:00</Date>
+            <Timestamp>1267492560</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Most sites use what&#039;s known as a &#039;cookie&#039; to keep you logged into sites when you close your browser. So you don&#039;t usually need to worry about this, so long as its a decent website it should do it anyway. By the way have you tried a Google Chrome extension that shows you all recently visited sites and instant access to your favourite pages?
+
+Check some of them out here:
+
+http://www.accelerated-ideas.com/softwaredownload/prod-chrome-extension.aspx</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ROmdp8vYaa</UserId>
+            <UserNick>Rachel</UserNick>
+            <Date>2010-03-02 06:58:30</Date>
+            <Timestamp>1267541910</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:29:36 PDT 2010 -->

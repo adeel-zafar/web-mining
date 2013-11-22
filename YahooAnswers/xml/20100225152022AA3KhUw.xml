@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225152022AA3KhUw" type="Answered">
+    <Subject>How can I change my NAT type to &quot;open&quot;?</Subject>
+    <Content>I&#039;m a PC gamer and I can&#039;t join my friend&#039;s party in MW2 due to my NAT type being &quot;strict&quot;. I have opened &quot;Computer&quot;, found &quot;Network&quot; and then found my router. In its &quot;properties&quot; I have all the details about it; &quot;Serial number&quot; and &quot;MAC address&quot; and other such random things.
+
+Any useful suggestions would be appreciated.
+</Content>
+    <Date>2010-02-25 15:20:22</Date>
+    <Timestamp>1267140022</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225152022AA3KhUw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AD5jIsavaa</UserId>
+    <UserNick>BadashaZeus</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1pP5W52HZAAEB_gFtFL5bSHcB.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You need to know what you&#039;re talking about before asking the question.
+
+http://en.wikipedia.org/wiki/Network_address_translation
+
+Once you&#039;ve read that, read the router&#039;s manual.
+If you have horrible Windows, you might have to configure the firewall there too, in which case, read the manual.
+
+And one last thing, read the manual of the game.</ChosenAnswer>
+    <ChosenAnswererId>tV7mJNAXaa</ChosenAnswererId>
+    <ChosenAnswererNick>UncleKennybobs</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267140198</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267659309</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You need to know what you&#039;re talking about before asking the question.
+
+http://en.wikipedia.org/wiki/Network_address_translation
+
+Once you&#039;ve read that, read the router&#039;s manual.
+If you have horrible Windows, you might have to configure the firewall there too, in which case, read the manual.
+
+And one last thing, read the manual of the game.</Content>
+            <Reference>Computing expert.</Reference>
+            <Best>5</Best>
+            <UserId>tV7mJNAXaa</UserId>
+            <UserNick>UncleKennybobs</UserNick>
+            <Date>2010-02-25 15:23:18</Date>
+            <Timestamp>1267140198</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:25 PDT 2010 -->

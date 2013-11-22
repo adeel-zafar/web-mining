@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323162220AAOTvNs" type="Answered">
+    <Subject>My Internet explorer cannot connect to Google? 10 points?</Subject>
+    <Content>When I type in www.google.com, or click on the google link on my Google tool bar, It takes about 2 minutes and then comes up with a page that says: Oops, Internet Explorer could not access www.google.com. Then it has the suggestion to reload page, but that doesn&#039;t&#039; work. I cannot sign into Youtube either because Google and Youtube sign in are linked. 
+
+Every other website works for me and I can still watch videos and stuff. I&#039;m using Internet Explorer 8 and Windows 7. Anyone had this problem before? Please help. 
+Most Helpful=10points
+I left for a week and got back, still had problem.
+</Content>
+    <Date>2010-03-23 16:22:20</Date>
+    <Timestamp>1269386540</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323162220AAOTvNs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lUA5VVYXaa</UserId>
+    <UserNick>Airsoft</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Oe99hHk8AAEDvSObNBfAmVwB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Maybe it&#039;s because the server is busy. Just wait some time and than try again!
+
+For me works fine though. But if every other website works, than the problem is coming from Google and not from Internet Explorer.</ChosenAnswer>
+    <ChosenAnswererId>G2lO32xpaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dј §ργя0x  =)</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269386701</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269568781</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe it&#039;s because the server is busy. Just wait some time and than try again!
+
+For me works fine though. But if every other website works, than the problem is coming from Google and not from Internet Explorer.</Content>
+            <Reference>Download Mozilla dude, it&#039;s faster and better! 
+I&#039;m using Firefox for years, i never had such problem.</Reference>
+            <Best>5</Best>
+            <UserId>G2lO32xpaa</UserId>
+            <UserNick>Dј §ργя0x  =)</UserNick>
+            <Date>2010-03-23 16:25:01</Date>
+            <Timestamp>1269386701</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:25 PDT 2010 -->

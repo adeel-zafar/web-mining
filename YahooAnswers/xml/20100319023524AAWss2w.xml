@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319023524AAWss2w" type="Answered">
+    <Subject>I was told to allow pop-ups so that I could click on the &quot;chat&quot; button, but it still won&#039;t work?</Subject>
+    <Content>I&#039;m on some website, and there is a chat window when you press the &quot;chat&quot; button. the website said i needed to allow pop ups for that site. So i did, and it&#039;s still not working. the chat window still won&#039;t pop up.
+</Content>
+    <Date>2010-03-19 02:35:24</Date>
+    <Timestamp>1268991324</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319023524AAWss2w</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Cl2KV1kSaa</UserId>
+    <UserNick>idk</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/14ZJk3949AAIB_IFUSBAPDg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>That should be some error occur on running javascript codes, perhaps you should try it on other browser.</ChosenAnswer>
+    <ChosenAnswererId>Dgq2krvxaa</ChosenAnswererId>
+    <ChosenAnswererNick>Eddy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268992416</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269205929</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>That should be some error occur on running javascript codes, perhaps you should try it on other browser.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Dgq2krvxaa</UserId>
+            <UserNick>Eddy</UserNick>
+            <Date>2010-03-19 02:53:36</Date>
+            <Timestamp>1268992416</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:47 PDT 2010 -->

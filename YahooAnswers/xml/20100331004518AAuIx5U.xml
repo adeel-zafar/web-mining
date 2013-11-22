@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331004518AAuIx5U" type="Answered">
+    <Subject>Tumblr wont let me make any posts?</Subject>
+    <Content>Whenever i click the create post button it just redirects me to a new post thing. What do i do?
+</Content>
+    <Date>2010-03-31 00:45:18</Date>
+    <Timestamp>1270021518</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331004518AAuIx5U</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sSi8oZBLaa</UserId>
+    <UserNick>ashleigh</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I guess your account may be banned, you can check your email used for registering your Tumblr account.</ChosenAnswer>
+    <ChosenAnswererId>MHAFoctMaa</ChosenAnswererId>
+    <ChosenAnswererNick>wisdom</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270021880</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270113545</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I guess your account may be banned, you can check your email used for registering your Tumblr account.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>MHAFoctMaa</UserId>
+            <UserNick>wisdom</UserNick>
+            <Date>2010-03-31 00:51:20</Date>
+            <Timestamp>1270021880</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:11 PDT 2010 -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312162545AAGcN25" type="Answered">
+    <Subject>For some reason, when I try to download files from Megaupload on Firefox or Chrome, it doesn&#039;t work. It starts?</Subject>
+    <Content>Does anyone know what it could be? Or how I could fix it?
+I end up with a 15kb file and it won&#039;t download any futher.
+</Content>
+    <Date>2010-03-12 16:25:45</Date>
+    <Timestamp>1268439945</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312162545AAGcN25</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sXae9zAdaa</UserId>
+    <UserNick>Mock Orange</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1dF79PRZmAAEB4uKbsL7DCDsB.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Maybe the link will help...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268442020</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268955910</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe the link will help...</Content>
+            <Reference>http://answers.yahoo.com/question/index?qid=20070501021047AAaoA8j</Reference>
+            <Best>5</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-12 17:00:20</Date>
+            <Timestamp>1268442020</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:31 PDT 2010 -->

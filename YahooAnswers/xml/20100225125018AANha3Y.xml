@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225125018AANha3Y" type="Answered">
+    <Subject>i&#039;ve ordered something from amazon. how do i specify in what colour i want it?</Subject>
+    <Content>its available in different colours and asks us to specify the colour i want. how can i do this?
+</Content>
+    <Date>2010-02-25 12:50:18</Date>
+    <Timestamp>1267131018</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225125018AANha3Y</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Tz84aOGZaa</UserId>
+    <UserNick>Fleur</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1v0g4Qb0HAAEC-GHE3MoqCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Maybe there is a drop down box where you can pick a colour.</ChosenAnswer>
+    <ChosenAnswererId>23b6749a7088443a1a545bf4e3bff54caa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267359691</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267650370</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe there is a drop down box where you can pick a colour.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>23b6749a7088443a1a545bf4e3bff54caa</UserId>
+            <UserNick>Mark D</UserNick>
+            <Date>2010-02-28 04:21:31</Date>
+            <Timestamp>1267359691</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:56:25 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322144116AAEutol" type="Answered">
+    <Subject>Is it true that lockerz prices are going to go up 4x?</Subject>
+    <Content>I heard someone talking about it on YouTube, I live in the USA btw.
+</Content>
+    <Date>2010-03-22 14:41:16</Date>
+    <Timestamp>1269294076</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322144116AAEutol</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ffenoDENaa</UserId>
+    <UserNick>Justin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>YES.
+Its true. It really sucks.</ChosenAnswer>
+    <ChosenAnswererId>6oAmA4Hyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kajal</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269294580</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269917011</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>YES.
+Its true. It really sucks.</Content>
+            <Reference>Friends.</Reference>
+            <Best>5</Best>
+            <UserId>6oAmA4Hyaa</UserId>
+            <UserNick>Kajal</UserNick>
+            <Date>2010-03-22 14:49:40</Date>
+            <Timestamp>1269294580</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, it is true. It already happened.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vuoiwvUYaa</UserId>
+            <UserNick>Jacob</UserNick>
+            <Date>2010-03-23 20:52:20</Date>
+            <Timestamp>1269402740</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:07 PDT 2010 -->

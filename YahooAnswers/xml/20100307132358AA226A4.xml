@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307132358AA226A4" type="Answered">
+    <Subject>Why won&#039;t my camera work in chat roulette?</Subject>
+    <Content>Does anyone know why a camera might not be working for chat roulette?
+</Content>
+    <Date>2010-03-07 13:23:58</Date>
+    <Timestamp>1267997038</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307132358AA226A4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oAjZAyJFaa</UserId>
+    <UserNick>Curious Guy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can use a virtual web-cam software with an image or video instead of a real web cam
+http://stream-recorder.com/forum/webcam-alternative-virtual-web-cam-do-webcamming-t964.html</ChosenAnswer>
+    <ChosenAnswererId>Cearzbhoaa</ChosenAnswererId>
+    <ChosenAnswererNick>No Stereo Mix</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268033300</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270072573</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Whilst on chatroulette right click and go into &quot;settings&quot; and click on the camera tab and then click something along the lines of &quot;allow chatroulette access to my webcam&quot; This should sort out your problem. If it doesnt try updating your webcam drivers.</Content>
+            <Reference>Knowlege in computing</Reference>
+            <Best></Best>
+            <UserId>02ZHx5adaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-07 13:43:40</Date>
+            <Timestamp>1267998220</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can use a virtual web-cam software with an image or video instead of a real web cam
+http://stream-recorder.com/forum/webcam-alternative-virtual-web-cam-do-webcamming-t964.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Cearzbhoaa</UserId>
+            <UserNick>No Stereo Mix</UserNick>
+            <Date>2010-03-07 23:28:20</Date>
+            <Timestamp>1268033300</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:38:22 PDT 2010 -->

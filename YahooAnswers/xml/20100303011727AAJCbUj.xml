@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303011727AAJCbUj" type="Answered">
+    <Subject>How do you quit using LoveFilm.com? I cant find it on the site?</Subject>
+    <Content>?
+</Content>
+    <Date>2010-03-03 01:17:27</Date>
+    <Timestamp>1267607847</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303011727AAJCbUj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5WhwY3Z7aa</UserId>
+    <UserNick>DaveDavidson</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UN94y2TlAAIB56KZyBPEtRljKA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.lovefilm.com/help/dyn_faqs.html?faq_cat=help_centre_home&amp;editorial_id=1410
+
+there you go</ChosenAnswer>
+    <ChosenAnswererId>YVE64dJUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Eddie1983</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267608078</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268127165</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.lovefilm.com/help/dyn_faqs.html?faq_cat=help_centre_home&amp;editorial_id=1410
+
+there you go</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>YVE64dJUaa</UserId>
+            <UserNick>Eddie1983</UserNick>
+            <Date>2010-03-03 01:21:18</Date>
+            <Timestamp>1267608078</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:20:15 PDT 2010 -->

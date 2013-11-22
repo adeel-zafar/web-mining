@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302194705AA6Qitu" type="Answered">
+    <Subject>Block CPALead - How Can I Bypass CPALead Surveys?</Subject>
+    <Content>As the title says, is there a way to block cpalead? I think i speak for everyone when i say im sick of having to fill out survey&#039;s to access content. And sometimes i do surveys and nothing even unlocks. I wouldnt mind doing them, but sometimes i spend 20 minutes doing one, and its just endless. 
+
+So any help?
+</Content>
+    <Date>2010-03-02 19:47:05</Date>
+    <Timestamp>1267588025</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302194705AA6Qitu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yY6eqj1Uaa</UserId>
+    <UserNick>Jamie F</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I know how you feel, they can get so annoying sometimes. Especially when its something so simple behind the gateway. You can download the page and remove the script tag from the HTML. But if your not that tech savy, use something like http://www.blockcpalead.com . It works pretty much in the same way, just the output looks a bit funny. But still works awesome</ChosenAnswer>
+    <ChosenAnswererId>SlIsqibwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chaowei F</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267588728</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268107437</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I know how you feel, they can get so annoying sometimes. Especially when its something so simple behind the gateway. You can download the page and remove the script tag from the HTML. But if your not that tech savy, use something like http://www.blockcpalead.com . It works pretty much in the same way, just the output looks a bit funny. But still works awesome</Content>
+            <Reference>http://www.blockcpalead.com</Reference>
+            <Best>5</Best>
+            <UserId>SlIsqibwaa</UserId>
+            <UserNick>Chaowei F</UserNick>
+            <Date>2010-03-02 19:58:48</Date>
+            <Timestamp>1267588728</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:22:14 PDT 2010 -->

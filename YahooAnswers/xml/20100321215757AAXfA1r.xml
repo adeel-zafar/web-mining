@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321215757AAXfA1r" type="Answered">
+    <Subject>who is the blogger of sex at oxbridge?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-21 21:57:57</Date>
+    <Timestamp>1269233877</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321215757AAXfA1r</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HdODZsH6aa</UserId>
+    <UserNick>Bishrul Hafi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1OxDW_m_DAAEC_IFHREtZDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Jane Fonda.</ChosenAnswer>
+    <ChosenAnswererId>TRLMIgrEaa</ChosenAnswererId>
+    <ChosenAnswererNick>kinamyen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269250184</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269753263</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Jane Fonda.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TRLMIgrEaa</UserId>
+            <UserNick>kinamyen</UserNick>
+            <Date>2010-03-22 02:29:44</Date>
+            <Timestamp>1269250184</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:49 PDT 2010 -->

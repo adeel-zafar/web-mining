@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313103005AAsG38v" type="Answered">
+    <Subject>Why doesn&#039;t my laptop let me watch online videos anymore ?</Subject>
+    <Content>Hey,
+well i used to be able to watch my fav shows + go on youtube easily
+but now it takes ages to load!
+i haven&#039;t changed my internet provider or anything like that
+so why is it always loading or buffering ?
+thanks if you can help [:
+</Content>
+    <Date>2010-03-13 10:30:05</Date>
+    <Timestamp>1268505005</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313103005AAsG38v</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>z0OCbSDMaa</UserId>
+    <UserNick>L a  L a  L a .</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a65f084i22a1zul4re4/2T9.nw4ifKxmUexZjtY7/1/tn48.jpg?ciAAToMBLlCl3_bt</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you may need to update your java or adobe flash player depicting on which one you use. to do it go to either site and download the newest version. the way to get best results would be to download both of them, and then try watching your videos again</ChosenAnswer>
+    <ChosenAnswererId>681Tn7E3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Vladimir</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268505569</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269020836</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you may need to update your java or adobe flash player depicting on which one you use. to do it go to either site and download the newest version. the way to get best results would be to download both of them, and then try watching your videos again</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>681Tn7E3aa</UserId>
+            <UserNick>Vladimir</UserNick>
+            <Date>2010-03-13 10:39:29</Date>
+            <Timestamp>1268505569</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:12 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225170151AAxN5qW" type="Answered">
+    <Subject>Which internet provider(s) have the best reviews?</Subject>
+    <Content>I was thinking Earthlink but I recently saw some negative things about it. I&#039;m taking online college for the first 2 years so I need a service with high speed and decent protection. Windstream&#039;s not all that good ( they charge lots more for less), and Cable One did the same thing. Please help
+</Content>
+    <Date>2010-02-25 17:01:51</Date>
+    <Timestamp>1267146111</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225170151AAxN5qW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>b6c80ba01c2dbce2789e354232c5b168aa</UserId>
+    <UserNick>shaiwilla</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Verizon is arguably the best internet provider, assuming they have fiber optic cables run in your area. Other than that, there&#039;s a company called Access4less in my are that provides only internet service (no e-mail or antivirus) for $10 a month and it&#039;s great for it&#039;s price.</ChosenAnswer>
+    <ChosenAnswererId>qjY1LXb5aa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267146297</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267575892</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Verizon is arguably the best internet provider, assuming they have fiber optic cables run in your area. Other than that, there&#039;s a company called Access4less in my are that provides only internet service (no e-mail or antivirus) for $10 a month and it&#039;s great for it&#039;s price.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qjY1LXb5aa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-02-25 17:04:57</Date>
+            <Timestamp>1267146297</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:06 PDT 2010 -->

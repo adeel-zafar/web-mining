@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318220806AAnQuVw" type="Answered">
+    <Subject>stagevu and divx videos don&#039;t work? but other videos load fast?</Subject>
+    <Content>whenever i try to watch movies on stagevu and divx links, the video buffers ridiculously slow. It takes about 30 minutes to load 1%. but when I load movies on other sites, they load fast.
+</Content>
+    <Date>2010-03-18 22:08:06</Date>
+    <Timestamp>1268975286</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318220806AAnQuVw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>b626cY0Maa</UserId>
+    <UserNick>Jebus Rice</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Do you have the correct CODEC or player?
+
+It could also be that the servers are jammed up.
+
+*
+*
+*</ChosenAnswer>
+    <ChosenAnswererId>wF7sCEM2aa</ChosenAnswererId>
+    <ChosenAnswererNick>4REEE</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268975394</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269494709</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Do you have the correct CODEC or player?
+
+It could also be that the servers are jammed up.
+
+*
+*
+*</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wF7sCEM2aa</UserId>
+            <UserNick>4REEE</UserNick>
+            <Date>2010-03-18 22:09:54</Date>
+            <Timestamp>1268975394</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:37:11 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325184004AA5uNZA" type="Answered">
+    <Subject>Is this website legit?</Subject>
+    <Content>The name of it is http://sellmythingz.com - I can&#039;t tell if I should feel safe using it or not.
+</Content>
+    <Date>2010-03-25 18:40:04</Date>
+    <Timestamp>1269567604</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325184004AA5uNZA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LfZ9mukXaa</UserId>
+    <UserNick>Kid</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Judging by the crummy design of the website I&#039;d say it&#039;s not legit. Stick with Ebay and Craigslist.</ChosenAnswer>
+    <ChosenAnswererId>mXTOzdTyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Maya</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269573576</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269701762</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, it&#039;s a legit site, the certificate is real and it registered on godaddy.com so I&#039;d say go for it if you want to try the site out.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>A5Fqu3cSaa</UserId>
+            <UserNick>BIll S</UserNick>
+            <Date>2010-03-25 18:43:57</Date>
+            <Timestamp>1269567837</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Judging by the crummy design of the website I&#039;d say it&#039;s not legit. Stick with Ebay and Craigslist.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mXTOzdTyaa</UserId>
+            <UserNick>Maya</UserNick>
+            <Date>2010-03-25 20:19:36</Date>
+            <Timestamp>1269573576</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:29:37 PDT 2010 -->

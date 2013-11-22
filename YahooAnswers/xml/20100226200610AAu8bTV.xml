@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226200610AAu8bTV" type="Answered">
+    <Subject>Firefox page loading problems?</Subject>
+    <Content>Lately after updating to the latest verson firefox, i&#039;m getting constant page loading errors.  Pages either load real slow or I get &quot;Server not found error&quot;.  I&#039;ve tried everything that I can think of, clearing cache, and the open dns service but no luck.  Internet Explorer works fine and chrome works a little better.  I have Windows xp sp2 and the most recent avast av.  any help would be appreciated.
+i don&#039;t have a firewall, have avast but its working fine with internet explorer
+</Content>
+    <Date>2010-02-26 20:06:10</Date>
+    <Timestamp>1267243570</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226200610AAu8bTV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xIfKyj0caa</UserId>
+    <UserNick>Ricky</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your firewall might be blocking Firefox. Check you firewall settings to find out. XD</ChosenAnswer>
+    <ChosenAnswererId>wioFz2Pcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rhen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267244763</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267763026</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your firewall might be blocking Firefox. Check you firewall settings to find out. XD</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wioFz2Pcaa</UserId>
+            <UserNick>Rhen</UserNick>
+            <Date>2010-02-26 20:26:03</Date>
+            <Timestamp>1267244763</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes i&#039;m getting that too. Very frustrating. My girlfriend had the problem a few days ago too, but hers seem to have resolved itself. Hopefully whatever bug it is will fix itself soon.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1TTwGTaGaa</UserId>
+            <UserNick>gunsnake</UserNick>
+            <Date>2010-02-26 22:53:26</Date>
+            <Timestamp>1267253606</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:47:26 PDT 2010 -->

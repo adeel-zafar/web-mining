@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327054521AADJ3NT" type="Answered">
+    <Subject>is firefox down today?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-27 05:45:21</Date>
+    <Timestamp>1269693921</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327054521AADJ3NT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>v5d0bz6Naa</UserId>
+    <UserNick>reg.kelly1</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Firefox is a a browsers so it only runs at the speed of your internet, so your internet connection would be down. You could try and reinstall firefox to see if that would help but it is would be your internet connection.</ChosenAnswer>
+    <ChosenAnswererId>R0hkQVoxaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mitch</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269694627</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270213458</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m using it right now.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cucY09Xvaa</UserId>
+            <UserNick>Lizzie</UserNick>
+            <Date>2010-03-27 05:47:09</Date>
+            <Timestamp>1269694029</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;m answering this using firefox.....you can guess the answer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>R10eB91uaa</UserId>
+            <UserNick>ikaros</UserNick>
+            <Date>2010-03-27 05:47:40</Date>
+            <Timestamp>1269694060</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Er no!  But where were you looking? LOL
+
+either re-boot or re-install the software.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wY5y9mF1aa</UserId>
+            <UserNick>Mich99</UserNick>
+            <Date>2010-03-27 05:48:46</Date>
+            <Timestamp>1269694126</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox is a a browsers so it only runs at the speed of your internet, so your internet connection would be down. You could try and reinstall firefox to see if that would help but it is would be your internet connection.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>R0hkQVoxaa</UserId>
+            <UserNick>Mitch</UserNick>
+            <Date>2010-03-27 05:57:07</Date>
+            <Timestamp>1269694627</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:27 PDT 2010 -->

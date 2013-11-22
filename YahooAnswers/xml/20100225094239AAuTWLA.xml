@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225094239AAuTWLA" type="Answered">
+    <Subject>how to download and play rapidshare avi files?</Subject>
+    <Content>how can i download and play an avi movie which splited into several parts ?
+
+cuz when i download the frist part it works properly, but when i download part 2, for example, it doesnt work.
+
+thanx in advance
+</Content>
+    <Date>2010-02-25 09:42:39</Date>
+    <Timestamp>1267119759</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225094239AAuTWLA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eel9KEUAaa</UserId>
+    <UserNick>ali</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>download VLC www.vlc.com</ChosenAnswer>
+    <ChosenAnswererId>W14NN1nKaa</ChosenAnswererId>
+    <ChosenAnswererNick>DeinMutter</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267119884</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267639401</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Stop using Rapidshare. Go on a torrent site. Rapidshare sucks and this is what they do.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>us3dBYpeaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-02-25 09:44:28</Date>
+            <Timestamp>1267119868</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>download VLC www.vlc.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>W14NN1nKaa</UserId>
+            <UserNick>DeinMutter</UserNick>
+            <Date>2010-02-25 09:44:44</Date>
+            <Timestamp>1267119884</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:57:53 PDT 2010 -->

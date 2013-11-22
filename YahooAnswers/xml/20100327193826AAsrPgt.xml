@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327193826AAsrPgt" type="Answered">
+    <Subject>What does hideme.in do?</Subject>
+    <Content>does it literally hide everything you do from the computer, never to be found out?
+Or does it just let you on blocked stuff?
+</Content>
+    <Date>2010-03-27 19:38:26</Date>
+    <Timestamp>1269743906</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327193826AAsrPgt</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AuVlR4cYaa</UserId>
+    <UserNick>cut3iswh4tw34imfor</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ynHkMfx2AAEB92FbqLK1aIZLMQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It let&#039;s you on blocked sites if you are being filtered.  Your browsing history will only show visits to that site, which is basically an administration to guilt.  The bad thing is you are going through someones server to browse the web, which means they can capture passwords,etc you enter while you are using it.</ChosenAnswer>
+    <ChosenAnswererId>tA1FVL6haa</ChosenAnswererId>
+    <ChosenAnswererNick>techrockstar</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269744127</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269909255</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It let&#039;s you on blocked sites if you are being filtered.  Your browsing history will only show visits to that site, which is basically an administration to guilt.  The bad thing is you are going through someones server to browse the web, which means they can capture passwords,etc you enter while you are using it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tA1FVL6haa</UserId>
+            <UserNick>techrockstar</UserNick>
+            <Date>2010-03-27 19:42:07</Date>
+            <Timestamp>1269744127</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:16 PDT 2010 -->

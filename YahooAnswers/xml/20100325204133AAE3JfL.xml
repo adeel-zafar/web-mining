@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325204133AAE3JfL" type="Answered">
+    <Subject>the original firefox speed tweaks?</Subject>
+    <Content>two years ago there were websites that posted firefox settings that you can alter in about:config to make it run faster (for example; having it load a website before all pictures are finished as opposed to waiting for everything to be loaded to display). Now when I run a search for these tweaks I find websites with about 30+ tweaks that include the old tweaks. Problem is, I do not specifically remember all of the old ones to spot them out, I can only recognize a few. I do not want all of these new tweaks that these websites have, I just want the basic few that worked great back then. The first ones had to do with &quot;network.http&quot; and I believe there were a couple more that followed that where you had to make a value yourself. Anyone know? (I also remember the website I went to for the old tweaks was black and green; so if you know what website I am talking about you can just show me that website instead)
+</Content>
+    <Date>2010-03-25 20:41:33</Date>
+    <Timestamp>1269574893</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325204133AAE3JfL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1ee50029d6e7ef705b447d2342994699aa</UserId>
+    <UserNick>questionnone</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here is good link that will help you,
+
+http://www.dagorret.net/2009/03/25/a-handful-of-firefox-tweaks-that-will-double-your-browser-speed/
+
+Good Luck
+The Old Computer Guy</ChosenAnswer>
+    <ChosenAnswererId>UJRMWNvCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Buster</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269575150</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270094187</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Here is good link that will help you,
+
+http://www.dagorret.net/2009/03/25/a-handful-of-firefox-tweaks-that-will-double-your-browser-speed/
+
+Good Luck
+The Old Computer Guy</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UJRMWNvCaa</UserId>
+            <UserNick>Buster</UserNick>
+            <Date>2010-03-25 20:45:50</Date>
+            <Timestamp>1269575150</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:59 PDT 2010 -->

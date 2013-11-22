@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227041653AARDGVO" type="Answered">
+    <Subject>my internet is running slow, help!?</Subject>
+    <Content>i upgraded my internet speeds acouple days ago to 10mbps. my internet provider is centrylink. when i test the speeds it only hits around 1.4mbps. i know it should be faster because i pay for 10mbps!!! how do i make it so i can see the true speeds at work?
+</Content>
+    <Date>2010-02-27 04:16:53</Date>
+    <Timestamp>1267273013</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227041653AARDGVO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pjQuFJo2aa</UserId>
+    <UserNick>Bob M</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>serber maybe down.pg</ChosenAnswer>
+    <ChosenAnswererId>m3Yn6VZ9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Prabhav</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267273252</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267792455</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>serber maybe down.pg</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>m3Yn6VZ9aa</UserId>
+            <UserNick>Prabhav</UserNick>
+            <Date>2010-02-27 04:20:52</Date>
+            <Timestamp>1267273252</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Internet speed is a funny thing. When you pay for a 10MBps connection, the ISP sets aside that bandwidth for your use. However, that&#039;s the maximum TOTAL bandwidth for your connection. If the download server you are connecting to can&#039;t upload at 10MBps, then you can&#039;t download from them at 10MBps.
+
+It&#039;s like buying a two-lane highway and only having a bicycle on the road; you CAN run two semis side by side, but if all you have is a bike...
+
+Try speedtest.net to get a semi-accurate indication of your actual connection speed.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PkHhdM4Haa</UserId>
+            <UserNick>Sean</UserNick>
+            <Date>2010-02-27 04:25:57</Date>
+            <Timestamp>1267273557</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Call your ISP</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>z0P3lJZUaa</UserId>
+            <UserNick>Tom W</UserNick>
+            <Date>2010-02-27 05:34:31</Date>
+            <Timestamp>1267277671</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you have to check your speed of internet. try ping www.yahoo.com in run, if it less 300ms, it is ok.
+you can check the less hardware for the game and to compare with your pc. 
+Normal RAM, Graphic Card, CPU are main point.
+But your can try use a registry cleaner to clean your pc. This can make your pc faster easily.
+
+http://toptenantispyware.com/Clean_Up_Center.htm</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7qFUgFFDaa</UserId>
+            <UserNick>Havethetendency</UserNick>
+            <Date>2010-03-02 00:22:21</Date>
+            <Timestamp>1267518141</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>For running slow there are many causes:
+Microsoft Registry Problems
+RAM
+De-Fragmenting
+Etc. 
+
+Clean windows registry can speed up the computer.
+Registry Cleaner can fix your pc errors.
+Over time, you install new programs, uninstalled unimportant programs, update software&#039;s, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://registry-computer-cleaner.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yyOe37VXaa</UserId>
+            <UserNick>Firstpurchase F</UserNick>
+            <Date>2010-03-02 12:05:01</Date>
+            <Timestamp>1267560301</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://registry-checking.com/Slow_PC</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6CsskgO0aa</UserId>
+            <UserNick>Dunleavysteps</UserNick>
+            <Date>2010-03-02 12:56:27</Date>
+            <Timestamp>1267563387</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:46:04 PDT 2010 -->

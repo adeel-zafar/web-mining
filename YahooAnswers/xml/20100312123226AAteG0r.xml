@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312123226AAteG0r" type="Answered">
+    <Subject>Web browser address icon?</Subject>
+    <Content>What do you call the little icon that appears beside the address of some websites in your web browser?
+</Content>
+    <Date>2010-03-12 12:32:26</Date>
+    <Timestamp>1268425946</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312123226AAteG0r</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uItycFHVaa</UserId>
+    <UserNick>Stuartie_B</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1KyWsl-TRAAACQWEo8AceAQ==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Favicon</ChosenAnswer>
+    <ChosenAnswererId>FVzWuaypaa</ChosenAnswererId>
+    <ChosenAnswererNick>edsporty</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268426066</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269008592</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>&#039;Favicon&#039;</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jYNve0tKaa</UserId>
+            <UserNick>[[TheOne AndOnly]] Stephen</UserNick>
+            <Date>2010-03-12 12:33:44</Date>
+            <Timestamp>1268426024</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Favicon</Content>
+            <Reference>http://en.wikipedia.org/wiki/Favicon</Reference>
+            <Best>5</Best>
+            <UserId>FVzWuaypaa</UserId>
+            <UserNick>edsporty</UserNick>
+            <Date>2010-03-12 12:34:26</Date>
+            <Timestamp>1268426066</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It is called a favicon which is used when people bookmark or Favourite a website, the logo appears next to the websites name.
+
+they can be easily added to a website using the favicon generator on the following website. ( Its free)
+
+http://tools.dynamicdrive.com/favicon/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rugZxDXbaa</UserId>
+            <UserNick>Devastation Assistant</UserNick>
+            <Date>2010-03-12 12:37:12</Date>
+            <Timestamp>1268426232</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:08:51 PDT 2010 -->

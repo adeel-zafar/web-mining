@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303204652AA74PYZ" type="Answered">
+    <Subject>is 16 m bps is the greatest speed of internet isn&#039;t...if yes then ok...if not then waht is it?</Subject>
+    <Content>somebody ask me that waht is the..............???so please help me...
+</Content>
+    <Date>2010-03-03 20:46:52</Date>
+    <Timestamp>1267678012</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303204652AA74PYZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>k1yy2rg2aa</UserId>
+    <UserNick>utsav</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>16mbps is nothing compared to backbone speeds.</ChosenAnswer>
+    <ChosenAnswererId>AA10906001</ChosenAnswererId>
+    <ChosenAnswererNick>mdigitale</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267678152</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269226358</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>mine is 100mbps</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>o4IHt3EAaa</UserId>
+            <UserNick>Barney</UserNick>
+            <Date>2010-03-03 20:48:45</Date>
+            <Timestamp>1267678125</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>16mbps is nothing compared to backbone speeds.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10906001</UserId>
+            <UserNick>mdigitale</UserNick>
+            <Date>2010-03-03 20:49:12</Date>
+            <Timestamp>1267678152</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>54MBS for wifi, 100MBS for LAN. 
+
+With a T1 line etc. it gets a lot higher.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eH2aaupcaa</UserId>
+            <UserNick>Nafien</UserNick>
+            <Date>2010-03-03 20:49:27</Date>
+            <Timestamp>1267678167</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i have a wired modem with 100mpbs and 20/40mpbs wireless router . and yet the wireless gives more speed.. or is it just that my comp is old... lol oh well</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vwFWU4Q9aa</UserId>
+            <UserNick>¿⌐¬_⌐¬►☺ÀkÃ╥§µkÍ☻◄©™</UserNick>
+            <Date>2010-03-03 20:53:15</Date>
+            <Timestamp>1267678395</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I believe the highest internet speed is 1gigabyte per second. It was used by researchers in January 17 2008</Content>
+            <Reference>http://www.industrysearch.co.uk/News/A-new-1GB-per-second-internet-connection-for-research-30151</Reference>
+            <Best></Best>
+            <UserId>wmx7dFo1aa</UserId>
+            <UserNick>The Bald Eagle</UserNick>
+            <Date>2010-03-03 20:54:28</Date>
+            <Timestamp>1267678468</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There are two kinds of speed. One is called maximum speed which a wire or connection can support.
+FYI a broadband can support a maximum speed of 100 mbps. But it works normally on 256 kbps.
+which is downloading speed.So it depends on plan. If your scheme says You will get a speed of 16 mbps then it is so good. But don&#039;t get confused 100 mbps which is wire speed.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HUNX5YSHaa</UserId>
+            <UserNick>swami920</UserNick>
+            <Date>2010-03-03 20:55:30</Date>
+            <Timestamp>1267678530</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>GRID system is the fastest
+you cn download a movie in just 3 seconds......yes dats right just 3 sec ... imagine</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UThTVpLjaa</UserId>
+            <UserNick>EDWIN</UserNick>
+            <Date>2010-03-05 07:06:24</Date>
+            <Timestamp>1267801584</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:14:01 PDT 2010 -->

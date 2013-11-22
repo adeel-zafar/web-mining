@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100403163018AAdhpzG" type="Answered">
+    <Subject>How do you unregister from Regcure!?!?!?!?!?!?!?!?</Subject>
+    <Content>Even when I reinstall it, I am still registered!!!???
+
+How do I unregister?
+
+Thanks.
+</Content>
+    <Date>2010-04-03 16:30:18</Date>
+    <Timestamp>1270337418</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100403163018AAdhpzG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>EUOE6KFjaa</UserId>
+    <UserNick>John</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Get an antivirus and try to kill it. Don&#039;t install random crap from the internet next time.</ChosenAnswer>
+    <ChosenAnswererId>QB0e33QRaa</ChosenAnswererId>
+    <ChosenAnswererNick>David</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270337512</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270352562</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Get an antivirus and try to kill it. Don&#039;t install random crap from the internet next time.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>QB0e33QRaa</UserId>
+            <UserNick>David</UserNick>
+            <Date>2010-04-03 16:31:52</Date>
+            <Timestamp>1270337512</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:09:16 PDT 2010 -->

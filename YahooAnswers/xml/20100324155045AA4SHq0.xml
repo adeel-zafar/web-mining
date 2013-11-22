@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324155045AA4SHq0" type="Answered">
+    <Subject>How can i get this virus off my computer?</Subject>
+    <Content>i open a message on facebook that was a youtube like from one of my friends but when i clicked the link it sent me to a fake youtube page and now my computer is infected with a virus. i cant use my main setting because every time i try to go in a box pops up that says i have to buy virus protection and when i try to &quot;X&quot; out it says i cant. i have to go to the guest setting to use the internet. also the audio device on my computer no longer works. when i try clicking a link on google i get redirect to so random website that has nothing to do with what im asking and also periodically a box pops up that makes me type in security words. its really a pain in the butt and i need it fixed asap because geek squad is trying to charge an are and a leg to fix it. and before everyone tells me to go into safe mode stop right there because i dont even know how to get to safe mode on my computer. i have a dell inspiron1501 so if anyone can help my fix my computer i well send you a box of brownies and cookies.....(im a pastry chef)
+</Content>
+    <Date>2010-03-24 15:50:45</Date>
+    <Timestamp>1269471045</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324155045AA4SHq0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IcCUki14aa</UserId>
+    <UserNick>Cokluut</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269526523</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269527526</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Download Malwarebytes onto a clean PC , if you can&#039;t download it directly onto your infected Pc and transfer it ( .exe file) using a flash drive and run scan 
+
+Its free
+
+http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html?tag=contentMain;contentAux</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ylyDSpb7aa</UserId>
+            <UserNick>Sexy Scottish Kool Aid Man</UserNick>
+            <Date>2010-03-24 15:53:48</Date>
+            <Timestamp>1269471228</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You need to google the name of the virus protection. Then follow the directions to remove it.
+
+Safe mode is easy, but you&#039;ll need to google the name of the virus protection as that&#039;s usually the best way to remove it. It&#039;s best to do that from a safe computer like another family member&#039;s. Ten to one there is a keylogger on your computer. 
+
+Then the directions will probably have you boot to safe mode. There should be a screen that says Dell when you start up your computer followed by a black screen and then whatever Windows you&#039;re using on there. During that black screen, hit F8 repeatedly till a boot menu pops up.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3j0pNFCMaa</UserId>
+            <UserNick>Ashley R</UserNick>
+            <Date>2010-03-24 20:34:27</Date>
+            <Timestamp>1269488067</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You might want to check out this turorial: http://instant-pc-fixes.org/spyware/how-to-remove-the-google-redirect-virus/
+
+From the looks of it, you have a problem called the &quot;Google Redirect&quot; virus. This is an infection which makes many computers redirect the natural search listings of Google, and is quite difficult to fix.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yvw1BO4uaa</UserId>
+            <UserNick>Timothy</UserNick>
+            <Date>2010-03-25 02:17:05</Date>
+            <Timestamp>1269508625</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-25 07:15:23</Date>
+            <Timestamp>1269526523</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:00 PDT 2010 -->

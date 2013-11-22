@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313233524AAp6OEd" type="Answered">
+    <Subject>I have added a &quot;Persona&quot; to my Firefox browser page,any one know how to go back to the standard page?</Subject>
+    <Content>Its not a catastrophe but I would just like to know
+</Content>
+    <Date>2010-03-13 23:35:24</Date>
+    <Timestamp>1268552124</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313233524AAp6OEd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d0231dcc170bb0de07aee5020b49aeeaaa</UserId>
+    <UserNick>Wal</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a34eac8i1e17zul8re4/.v2dFrwldKhXmcPJnTo2FF7bPewoaA--/3/tn48.jpg?ciAAToMB8y1kHD6Q</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>To disable a current Persona design, go to the Tools menu and select Add-ons to display the add-ons manager. Then click on the Themes button at the top of the add-ons manager window, click on the Default theme for Firefox, and click on Use Theme.</ChosenAnswer>
+    <ChosenAnswererId>zuz6Q0E6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Adam</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268552404</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268575053</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>To disable a current Persona design, go to the Tools menu and select Add-ons to display the add-ons manager. Then click on the Themes button at the top of the add-ons manager window, click on the Default theme for Firefox, and click on Use Theme.</Content>
+            <Reference>http://www.getpersonas.com/en-US/faq#undo</Reference>
+            <Best>5</Best>
+            <UserId>zuz6Q0E6aa</UserId>
+            <UserNick>Adam</UserNick>
+            <Date>2010-03-13 23:40:04</Date>
+            <Timestamp>1268552404</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:12 PDT 2010 -->

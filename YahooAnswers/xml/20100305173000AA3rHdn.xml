@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305173000AA3rHdn" type="Answered">
+    <Subject>If a company doesn&#039;t provide information ...?</Subject>
+    <Content>I keep finding these companies that are difficult to find information on and I&#039;m wondering should I start blocking them from accessing my computer. I keep seeing things like (after I block an IP) all kinds of strange connections on file sharing ports and other stuff, like DNS cache poisoning so that when I type in a URL, it keeps trying to go to those IP addresses. All I do is look at news sites and other non-threatening stuff, so I don&#039;t believe it is the government.
+
+What could this be and why would stuff like that be going on? 
+Are the marketing companies desperate for demographic info? 
+Can&#039;t they get a real job?
+Why is there no way to get go to the actual website I type into my browser?
+no, this is a fresh reinstall from my restore discs and i did a grutmann wipe on this computer that took two days before the reinstall and all i have been to is yahoo, google, wired, and then tried to go to miamiherald.com and it wouldn&#039;t open. i did a tracert on the web and it says the ip for miami herald is 151 something but this other ip 204.x.x.x is where the browser tries to go to for some reason.
+</Content>
+    <Date>2010-03-05 17:30:00</Date>
+    <Timestamp>1267839000</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305173000AA3rHdn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11976755</UserId>
+    <UserNick>SGT SCHULTZ</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>My friend kept getting weird addresses when he put his resume out on a website. He found out that is was so website in Russia. It looked Legit until he looked for information. If this what you had then I hoped i might have helped if not then I&#039;m sorry. Russian Hackers have been making a lot by getting into people&#039;s servers and &quot;poisoning&quot; their stuff.</ChosenAnswer>
+    <ChosenAnswererId>sEJoIVG9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jacoby</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267839649</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267864760</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>its probably adware. get a full paid antivurs rated at least in the top 3 by pcworld and do a full comupter or deep system scan with all settings on max. if ur gonna buy a product buy the most expensive one made by that company. for example bitdefender the #1 rated by pcowrld which i have has 3 products. the antivurs the internet securtiy and the total security. the internet security does what the anitvirus does and more and total does the whole deal and more.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DpuDGmlbaa</UserId>
+            <UserNick>Bowei</UserNick>
+            <Date>2010-03-05 17:37:52</Date>
+            <Timestamp>1267839472</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>My friend kept getting weird addresses when he put his resume out on a website. He found out that is was so website in Russia. It looked Legit until he looked for information. If this what you had then I hoped i might have helped if not then I&#039;m sorry. Russian Hackers have been making a lot by getting into people&#039;s servers and &quot;poisoning&quot; their stuff.</Content>
+            <Reference>Personal experience</Reference>
+            <Best>1</Best>
+            <UserId>sEJoIVG9aa</UserId>
+            <UserNick>Jacoby</UserNick>
+            <Date>2010-03-05 17:40:49</Date>
+            <Timestamp>1267839649</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:54:15 PDT 2010 -->

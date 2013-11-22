@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301141844AASYXZb" type="Answered">
+    <Subject>How do i fix the internet in my house?</Subject>
+    <Content>The wireless Internet in my house hardly ever works. Sometimes I just can&#039;t get it to work no matter what i do to fix it. Every time i get it to work properly, it breaks again.
+I have a wireless router and Comcast.
+please help. 10 pts to the person who helps the most =]
+</Content>
+    <Date>2010-03-01 14:18:44</Date>
+    <Timestamp>1267481924</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301141844AASYXZb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9CSPeT8Haa</UserId>
+    <UserNick>XxSkittlzxX</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You&#039;ll need to compare your network connection with another computer to see if its your computer or the router that is having problems either sending or recieving the wireless signal.  If your wireless router is bought from the store then I&#039;d buy a new one if the problems keep happening.  Routers are famous for going bad and the symtoms you describe are a sign of a failing router.  If comcast provided you the wireless router with your modem it is there problem and have them give you a new one!</ChosenAnswer>
+    <ChosenAnswererId>MoF2sprOaa</ChosenAnswererId>
+    <ChosenAnswererNick>scottjb78</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267482415</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267660963</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Place your router over your head, wait 5 minutes. With it still above your head go onto your computer and press alt+f4 while looking at this answer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>r5gkMPitaa</UserId>
+            <UserNick>Miles</UserNick>
+            <Date>2010-03-01 14:20:45</Date>
+            <Timestamp>1267482045</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try moving your router to a different location closer to your computer or near an outside wall. This will hopefully increase the signal for your internet towards your computer. If this does not work, you should call comcast and check if there is a strong singal in your area. If there is not, switch to Quest because they have reliable coverage, in three years my internet has only shut off twice</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eJ3lip03aa</UserId>
+            <UserNick>jj</UserNick>
+            <Date>2010-03-01 14:21:21</Date>
+            <Timestamp>1267482081</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You&#039;ll need to compare your network connection with another computer to see if its your computer or the router that is having problems either sending or recieving the wireless signal.  If your wireless router is bought from the store then I&#039;d buy a new one if the problems keep happening.  Routers are famous for going bad and the symtoms you describe are a sign of a failing router.  If comcast provided you the wireless router with your modem it is there problem and have them give you a new one!</Content>
+            <Reference>www.batestechgroup.com</Reference>
+            <Best>4</Best>
+            <UserId>MoF2sprOaa</UserId>
+            <UserNick>scottjb78</UserNick>
+            <Date>2010-03-01 14:26:55</Date>
+            <Timestamp>1267482415</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:30:39 PDT 2010 -->

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326152000AAb0rEn" type="Answered">
+    <Subject>Why won&#039;t it load the right page!!! (please answer)?</Subject>
+    <Content>When ever I try to load a web page that I search say in google, it will not load that page!!!
+The computer I am using is an xp which I bought from a friend ages ago it came with antivirus, which only just expired so till I can get the money together I am using AVG free! I don&#039;t think I have a virus. I never use this computer TBH like once a week as I have a windows 7 laptop. If you have any ideas on what&#039;s wrong tell me PLEASE!!!
+</Content>
+    <Date>2010-03-26 15:20:00</Date>
+    <Timestamp>1269642000</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326152000AAb0rEn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Nf5lL4A4aa</UserId>
+    <UserNick>Kyle S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There is a file on your computer called hosts.ini that overrides your DNS.  That is, when you type in an address your DNS converts the name into an IP address and your computer goes to that IP address (a numerical address).
+
+If you have an entry in your hosts.ini the computer will go there without consulting your DNS.
+
+Viruses like to add entries into the hosts.ini, so you go where they want to you to go.  It keeps you off antivirus sites.
+
+To fix this, run WinsockXPfix.  It&#039;s free:  http://www.snapfiles.com/get/winsockxpfix.html
+
+It&#039;s a great free program, totally free of spyware.  In fact, it doesn&#039;t even install on your computer.  It just resets everything.  Afterward you reboot and you should be fine.
+
+-------
+
+AVG misses a lot of viruses.  If I were you I&#039;d go to Download.com and download Malwarebytes Anti-Malware.  It&#039;s free and spyware free as well.
+Have Malwarebytes scan your computer.  It does a great job and will catch things that AVG misses.</ChosenAnswer>
+    <ChosenAnswererId>hebgnstGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Paul P</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269642980</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270161454</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There is a file on your computer called hosts.ini that overrides your DNS.  That is, when you type in an address your DNS converts the name into an IP address and your computer goes to that IP address (a numerical address).
+
+If you have an entry in your hosts.ini the computer will go there without consulting your DNS.
+
+Viruses like to add entries into the hosts.ini, so you go where they want to you to go.  It keeps you off antivirus sites.
+
+To fix this, run WinsockXPfix.  It&#039;s free:  http://www.snapfiles.com/get/winsockxpfix.html
+
+It&#039;s a great free program, totally free of spyware.  In fact, it doesn&#039;t even install on your computer.  It just resets everything.  Afterward you reboot and you should be fine.
+
+-------
+
+AVG misses a lot of viruses.  If I were you I&#039;d go to Download.com and download Malwarebytes Anti-Malware.  It&#039;s free and spyware free as well.
+Have Malwarebytes scan your computer.  It does a great job and will catch things that AVG misses.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>hebgnstGaa</UserId>
+            <UserNick>Paul P</UserNick>
+            <Date>2010-03-26 15:36:20</Date>
+            <Timestamp>1269642980</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:00 PDT 2010 -->

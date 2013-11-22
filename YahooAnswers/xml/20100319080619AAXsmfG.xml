@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319080619AAXsmfG" type="Answered">
+    <Subject>Is it possible to search by a photo?</Subject>
+    <Content>Is there any way i can upload a picture to somthing and the web will search for the same picture?
+Thanks
+</Content>
+    <Date>2010-03-19 08:06:19</Date>
+    <Timestamp>1269011179</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319080619AAXsmfG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RbYEif0Waa</UserId>
+    <UserNick>ten facet lubi Castlevania :D</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you get a picture up on the web and you select Images at the top in Google, you can select to find similar pictures. It might find what you are looking for.</ChosenAnswer>
+    <ChosenAnswererId>IVQrBMXhaa</ChosenAnswererId>
+    <ChosenAnswererNick>Susan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269011607</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269255424</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you get a picture up on the web and you select Images at the top in Google, you can select to find similar pictures. It might find what you are looking for.</Content>
+            <Reference>e.g.
+http://images.google.co.uk/images?hl=en&amp;source=hp&amp;q=dogs+and+puppies&amp;gbv=2&amp;aq=1&amp;aqi=g10&amp;aql=&amp;oq=dog&amp;gs_rfai=&amp;imgtype=i_similar&amp;sa=X&amp;ei=tZOjS7TLHYW6jAfAk8HoCQ&amp;ct=img-sim-l&amp;oi=image_sil&amp;resnum=2&amp;tbnid=Yc60j61LSoszgM:</Reference>
+            <Best>5</Best>
+            <UserId>IVQrBMXhaa</UserId>
+            <UserNick>Susan</UserNick>
+            <Date>2010-03-19 08:13:27</Date>
+            <Timestamp>1269011607</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Searches Images with right click.
+
+
+http://www.tineye.com/plugin</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>m6JqEAtzaa</UserId>
+            <UserNick>bumcheeks</UserNick>
+            <Date>2010-03-20 20:14:28</Date>
+            <Timestamp>1269141268</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:19 PDT 2010 -->

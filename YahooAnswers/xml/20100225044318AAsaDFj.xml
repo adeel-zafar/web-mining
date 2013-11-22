@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225044318AAsaDFj" type="Answered">
+    <Subject>I&#039;m using TBB broadband meter which is good, however is there a meter which also shows you addresses?</Subject>
+    <Content>I see a lot of stuff is being downloaded but I want to know where it&#039;s all coming from?
+</Content>
+    <Date>2010-02-25 04:43:18</Date>
+    <Timestamp>1267101798</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225044318AAsaDFj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eiMTqgftaa</UserId>
+    <UserNick>ftnby</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You only have the URL from where you are downloading from which is the source site.
+
+As regards addresses it depends on how it is routed through the various nodes on the internet.
+
+Even a mirror site can route differently from another.
+
+If there is a problem with a node you are immediately rerouted through another system.
+
+You need to get yourself a ping or trace program if you are really that keen to know.</ChosenAnswer>
+    <ChosenAnswererId>WeZcSZvKaa</ChosenAnswererId>
+    <ChosenAnswererNick>sewrobb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267105520</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267621388</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You only have the URL from where you are downloading from which is the source site.
+
+As regards addresses it depends on how it is routed through the various nodes on the internet.
+
+Even a mirror site can route differently from another.
+
+If there is a problem with a node you are immediately rerouted through another system.
+
+You need to get yourself a ping or trace program if you are really that keen to know.</Content>
+            <Reference>Experienced1</Reference>
+            <Best>5</Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-02-25 05:45:20</Date>
+            <Timestamp>1267105520</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:59:31 PDT 2010 -->

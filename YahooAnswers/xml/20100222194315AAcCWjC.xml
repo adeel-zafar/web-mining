@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222194315AAcCWjC" type="Answered">
+    <Subject>Is it safe to order from the Hot Topic website?</Subject>
+    <Content>Is Hot Topic a very secure website? There&#039;s a couple t-shirts on their website I wanted to order, but I&#039;m worried about the security of the website. 
+Has anyone had good/bad experiences with it?
+</Content>
+    <Date>2010-02-22 19:43:15</Date>
+    <Timestamp>1266896595</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222194315AAcCWjC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>koFehqc8aa</UserId>
+    <UserNick>The Anti-Follower</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b568ecfi86fzul5re4/FJK098Q_frHT6CO1xSQo/3/tn48.jpg?ciAAToMBSt2RoxAP</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;ve never ordered from Hot Topic&#039;s website (bought tons of stuff locally, though). After checking around their website, they have all of the proper precautions in place.
+
+They use a secured (Https:/) connection for the checkout process. Any information you send out is encrypted before it is sent to Hot Topic. If anyone were monitoring your internet connection, they would have no real way of decoding this.
+
+ The website is VeriSign secured. VeriSign is a service that a website pays for. In return, VeriSign does the research to make sure a website is who they say they are, and that they take the proper steps to protect your information. If you get scammed by a VeriSign Secured website, they will cover the loss.
+
+To view the certificate for yourself, just add any random item to your shopping basket. Click checkout.
+In the checkout window, there will be a logo that says &#039;VeriSign Secured&#039;. Click on that and it will pull up the certificate.
+
+So, (very) long story short, I would go ahead and order from Hot Topic&#039;s website with confidence.</ChosenAnswer>
+    <ChosenAnswererId>31b78514fb5f8fee9f9e4fd133150d5caa</ChosenAnswererId>
+    <ChosenAnswererNick>gto69judge</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266897378</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266984020</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;ve never ordered from Hot Topic&#039;s website (bought tons of stuff locally, though). After checking around their website, they have all of the proper precautions in place.
+
+They use a secured (Https:/) connection for the checkout process. Any information you send out is encrypted before it is sent to Hot Topic. If anyone were monitoring your internet connection, they would have no real way of decoding this.
+
+ The website is VeriSign secured. VeriSign is a service that a website pays for. In return, VeriSign does the research to make sure a website is who they say they are, and that they take the proper steps to protect your information. If you get scammed by a VeriSign Secured website, they will cover the loss.
+
+To view the certificate for yourself, just add any random item to your shopping basket. Click checkout.
+In the checkout window, there will be a logo that says &#039;VeriSign Secured&#039;. Click on that and it will pull up the certificate.
+
+So, (very) long story short, I would go ahead and order from Hot Topic&#039;s website with confidence.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>31b78514fb5f8fee9f9e4fd133150d5caa</UserId>
+            <UserNick>gto69judge</UserNick>
+            <Date>2010-02-22 19:56:18</Date>
+            <Timestamp>1266897378</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:24:46 PDT 2010 -->

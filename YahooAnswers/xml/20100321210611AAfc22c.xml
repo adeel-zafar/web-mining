@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321210611AAfc22c" type="Answered">
+    <Subject>Why do the voices not go with their mouths?</Subject>
+    <Content>When I am watching a movie from a site. The voices will be behind what they are saying on that scene. How do I fix this and why is it happening?
+</Content>
+    <Date>2010-03-21 21:06:11</Date>
+    <Timestamp>1269230771</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321210611AAfc22c</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7pRJRlnXaa</UserId>
+    <UserNick>Kaleb</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You could try using a different video player, but usually you can&#039;t do much when it&#039;s streaming.  I would recommend installing VLC (www.videolan.org/vlc/) and see if that helps.  If the option is there, download the file and play with VLC, that way you have the option of adjusting the video/sound position.</ChosenAnswer>
+    <ChosenAnswererId>gjuR5gNFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Fudz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269230938</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269750297</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Pause the video and let it load, you might want to start it over, too.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3jjv8bPwaa</UserId>
+            <UserNick>Blunt</UserNick>
+            <Date>2010-03-21 21:07:35</Date>
+            <Timestamp>1269230855</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You could try using a different video player, but usually you can&#039;t do much when it&#039;s streaming.  I would recommend installing VLC (www.videolan.org/vlc/) and see if that helps.  If the option is there, download the file and play with VLC, that way you have the option of adjusting the video/sound position.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gjuR5gNFaa</UserId>
+            <UserNick>Fudz</UserNick>
+            <Date>2010-03-21 21:08:58</Date>
+            <Timestamp>1269230938</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:25:00 PDT 2010 -->

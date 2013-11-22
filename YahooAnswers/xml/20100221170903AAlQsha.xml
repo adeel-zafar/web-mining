@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221170903AAlQsha" type="Answered">
+    <Subject>formspring is overrated - help.?</Subject>
+    <Content>is there a way to see who wrote in your formspring? if i write something in someone&#039;s, will they ever find out that i wrote in it?
+</Content>
+    <Date>2010-02-21 17:09:03</Date>
+    <Timestamp>1266800943</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221170903AAlQsha</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VooAgbHqaa</UserId>
+    <UserNick>Cameron</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>They never will. It&#039;s all anonymous. The only way they could tell is if they know your username (if you have one) to the formspring. me site. Hope this helps! (:</ChosenAnswer>
+    <ChosenAnswererId>wPz8PTrXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Vee</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267061220</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268869362</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They never will. It&#039;s all anonymous. The only way they could tell is if they know your username (if you have one) to the formspring. me site. Hope this helps! (:</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wPz8PTrXaa</UserId>
+            <UserNick>Vee</UserNick>
+            <Date>2010-02-24 17:27:00</Date>
+            <Timestamp>1267061220</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:32:45 PDT 2010 -->

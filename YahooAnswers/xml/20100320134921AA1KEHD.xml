@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320134921AA1KEHD" type="Answered">
+    <Subject>Internet Explorer not working even though internet connection is fine?</Subject>
+    <Content>Whenever I open internet explorer, it would always say the web could not be displayed even though my internet connection is fine and I tried everything it told me to do for the information and I tried to click on the diagnose problems but it couldn&#039;t load. So I can&#039;t access my Itunes Store or Yahoo Messenger.
+</Content>
+    <Date>2010-03-20 13:49:21</Date>
+    <Timestamp>1269118161</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320134921AA1KEHD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AheQmpXXaa</UserId>
+    <UserNick>FTW :P</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1zbIWWC8ZAAEDBiOcRJd2pws3qG1Ft44ZkQM=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Reset IE8 to Defaults in Options, Advanced...I would also use Malwarebytes, ccleaner, and restart PC...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269119772</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269637671</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Reset IE8 to Defaults in Options, Advanced...I would also use Malwarebytes, ccleaner, and restart PC...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/ccleaner/?tag=mncol</Reference>
+            <Best>5</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-20 14:16:12</Date>
+            <Timestamp>1269119772</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:37 PDT 2010 -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317100901AA4CWgN" type="Answered">
+    <Subject>Anybody ever shopped off myshoesgood.com?</Subject>
+    <Content>I&#039;m looking to purchase some &quot;knock-off&quot; items off this site &amp; wanted someone else&#039;s experience?
+I would if I didnt live 14 hours away!
+</Content>
+    <Date>2010-03-17 10:09:01</Date>
+    <Timestamp>1268845741</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317100901AA4CWgN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lljZ4Cunaa</UserId>
+    <UserNick>Chase&#039;s Mama</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb3635fi22c5zws139ac4/rV4kJYsyerAh6m_YV4fLMWA-/1/tn48.jpeg?ciAAToMBKhtYzTnJ</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Just go to Canal Street, in NYC.</ChosenAnswer>
+    <ChosenAnswererId>kVXNYKe5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Sam</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268845841</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269365178</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just go to Canal Street, in NYC.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kVXNYKe5aa</UserId>
+            <UserNick>Sam</UserNick>
+            <Date>2010-03-17 10:10:41</Date>
+            <Timestamp>1268845841</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:39 PDT 2010 -->

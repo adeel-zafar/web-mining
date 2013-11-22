@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309083504AA2IkGO" type="Answered">
+    <Subject>Who?supplies my i.p.address?</Subject>
+    <Content>whilst trying a broadband speed test,i can&#039;t find my supplier,but keeps coming up with another i&#039;m not cotracted to,how can i find out who does infact supply my ip address
+</Content>
+    <Date>2010-03-09 08:35:04</Date>
+    <Timestamp>1268152504</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309083504AA2IkGO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TspwNUzzaa</UserId>
+    <UserNick>Steve</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>In almost ALL cases the IP is supplied by your Internet Service Supplier.  The one you write the monthly check to for your Internet Service.  The IP address is assigned automatically by their computer.
+
+For a broadband speed test without needing your ISP&#039;s name use
+
+http://www.speakeasy.net/speedtest/</ChosenAnswer>
+    <ChosenAnswererId>d5ff2901a10bb8c0d5e2b76c8023ba6daa</ChosenAnswererId>
+    <ChosenAnswererNick>Jerry</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268152761</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268775293</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There&#039;s a database called WHOIS which saves everyone&#039;s IP addresses, and it may be that your IP address has a wrong entry. It is your company you pay, but they might get their IP&#039;s from someone else.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GttypU29aa</UserId>
+            <UserNick>Josh</UserNick>
+            <Date>2010-03-09 08:39:01</Date>
+            <Timestamp>1268152741</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In almost ALL cases the IP is supplied by your Internet Service Supplier.  The one you write the monthly check to for your Internet Service.  The IP address is assigned automatically by their computer.
+
+For a broadband speed test without needing your ISP&#039;s name use
+
+http://www.speakeasy.net/speedtest/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>d5ff2901a10bb8c0d5e2b76c8023ba6daa</UserId>
+            <UserNick>Jerry</UserNick>
+            <Date>2010-03-09 08:39:21</Date>
+            <Timestamp>1268152761</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your ISP, through whom you connect to the Internet supplies you an IP (generally temporary one) while you are connected. If you want to knwo what IP you are having at a certain time, you can visit www.whatismyip.com and you will see the IP as well as the name of the provider.
+
+You can also visit whois.domaintools.com/ip (example - whois.domaintools.com/122.122.122.122)
+
+Arun</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>c75u2IYKaa</UserId>
+            <UserNick>Arun Agrawal - Ebizindia</UserNick>
+            <Date>2010-03-09 08:48:31</Date>
+            <Timestamp>1268153311</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I got to know about my internet speed here http://www.ip-details.com/internet-speed-test/ . 
+Its as easy as I entered my IP address that I got to know the speed of my connection.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ubaPPyFuaa</UserId>
+            <UserNick>Cindrella</UserNick>
+            <Date>2010-03-12 21:33:56</Date>
+            <Timestamp>1268458436</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:25:43 PDT 2010 -->

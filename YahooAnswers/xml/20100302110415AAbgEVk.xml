@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302110415AAbgEVk" type="Answered">
+    <Subject>I keep getting re-directed to other sites when I open up my broswer?</Subject>
+    <Content>Every time I open up my browser and search for a site and click on it, it send me to other sites.  I know I have mal-ware.  I ran ad-aware and malwarebytes which usually does the trick, but it doesn&#039;t seem to be getting it this time.  
+
+Anyone know of how to cure this without having to reformat....again.  thanks
+</Content>
+    <Date>2010-03-02 11:04:15</Date>
+    <Timestamp>1267556655</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302110415AAbgEVk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6K9ZMCjqaa</UserId>
+    <UserNick>bobcats62</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Run windows live scan.  Go to onecare.live.com.  This is a free scan and clean site.  It&#039;s a windows product so it does a better job at digging out malware and viruses in widows than most other programs.</ChosenAnswer>
+    <ChosenAnswererId>8BwvOuIXaa</ChosenAnswererId>
+    <ChosenAnswererNick>chris</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267556867</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268920930</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Run windows live scan.  Go to onecare.live.com.  This is a free scan and clean site.  It&#039;s a windows product so it does a better job at digging out malware and viruses in widows than most other programs.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>8BwvOuIXaa</UserId>
+            <UserNick>chris</UserNick>
+            <Date>2010-03-02 11:07:47</Date>
+            <Timestamp>1267556867</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I use spybot S&amp;D from http://www.safer-networking.org/en/home/index.html which solves most problems.  Another thing you could do is google the site that it is sending you to (use a different browser than the one that&#039;s infected.)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vsfJyDxiaa</UserId>
+            <UserNick>Astaroth</UserNick>
+            <Date>2010-03-02 11:10:57</Date>
+            <Timestamp>1267557057</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Run Malwarebytes, SuperAntiSpyware, ccleaner in safe mode and when back in normal mode run Drweb Curit and Hitman Pro...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-02 11:30:58</Date>
+            <Timestamp>1267558258</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:26:00 PDT 2010 -->

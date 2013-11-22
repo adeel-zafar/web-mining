@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314040512AAn4PUc" type="Answered">
+    <Subject>What is wrong with Firefox?</Subject>
+    <Content>Working in the web development field, I am always using firefox, and have been for the last 4 years. 
+I have had it installed on XP, Vista, 7 and 32bit variations of these, on both AMD and Intel platforms and there is one consistent problem, which I always hope will be fixed in the next release, but never is.
+CPU usage. 
+It used to be that after it had been running for a few hours, it would start hogging the CPU for no apparent reason (e.g. one google tab open). Recently it has been sitting on 30% in Task manager as I hopen it and it does not go down. Just upgraded to 3.6 and still the same problem.
+
+I can&#039;t understand why a but like this is still in the software! Clearly from the variety of setups I&#039;ve experienced this on, I can&#039;t be the only one experiencing this?
+
+Anybody else have this problem and have any solutions?
+
+Thanks in advance!
+</Content>
+    <Date>2010-03-14 04:05:12</Date>
+    <Timestamp>1268564712</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314040512AAn4PUc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>431PCFfeaa</UserId>
+    <UserNick>boynumber</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Firefox has always and will always have issues of this kind. I&#039;m a Firefox lover myself, some days it will steal my CPU, other days it will use all my RAM.
+
+The simplest solution I&#039;ve found is to simply restart Firefox, if no luck then I&#039;ll clear the cache.
+
+If it still frustrates, there&#039;s always the Opera browser xD</ChosenAnswer>
+    <ChosenAnswererId>LbzvBidSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dr0ne</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268565106</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269954921</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox has always and will always have issues of this kind. I&#039;m a Firefox lover myself, some days it will steal my CPU, other days it will use all my RAM.
+
+The simplest solution I&#039;ve found is to simply restart Firefox, if no luck then I&#039;ll clear the cache.
+
+If it still frustrates, there&#039;s always the Opera browser xD</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>LbzvBidSaa</UserId>
+            <UserNick>Dr0ne</UserNick>
+            <Date>2010-03-14 04:11:46</Date>
+            <Timestamp>1268565106</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try reading http://support.mozilla.com/en-US/kb/Firefox+consumes+a+lot+of+CPU+resources
+
+Have you tried running Firefox in safe mode and seeing if cures the problem? It may have something to do with the plugins or addons you use. 
+
+Try disabling some of them and see if that helps.
+
+The other issue with Firefox (common with many users) is memory leaks. You may need to close and reopen Firefox once a while to empty out it&#039;s precached data, this also helps with excessive memory and CPU usage.
+
+I&#039;ve used Firefox since it was version 2.0, for a long time I had many problems with excessive RAM usage but many of the problems have now gone. I&#039;m using it on x64 Windows 7 and don&#039;t have any problems with the CPU usage.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kAi14kKxaa</UserId>
+            <UserNick>Masked Musketeer</UserNick>
+            <Date>2010-03-14 04:13:18</Date>
+            <Timestamp>1268565198</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ben there done that, try restarting firefox or turning off your computer , taking out the battery if its a laptop, and unplugging it for an hour or 2</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cfzSsy1kaa</UserId>
+            <UserNick>♪♫ Daniel☮♫♪</UserNick>
+            <Date>2010-03-14 05:32:42</Date>
+            <Timestamp>1268569962</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>firefox has &quot;prefetch&quot; enabled as default which preloads all the pages with links on a web page that&#039;s why it can go to 250Mb (520Mb is the highest I have heard of) plus in your ram usage, even if you have no intention of clicking on the link, for safer browsing go into &quot;about:config&quot; and set prefetch to false, give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine &quot;experts&quot; say is impossible</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-14 12:17:25</Date>
+            <Timestamp>1268594245</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:00:52 PDT 2010 -->

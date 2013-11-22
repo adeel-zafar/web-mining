@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228070932AAH7Qo3" type="Answered">
+    <Subject>I have clicked on something while I was messing about and every progamme has a internet explorer on it?</Subject>
+    <Content>Every one of my programmes on the left hand side now has the internet explorer picture on it and does not work.HELP
+</Content>
+    <Date>2010-02-28 07:09:32</Date>
+    <Timestamp>1267369772</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228070932AAH7Qo3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TRmheTBmaa</UserId>
+    <UserNick>Dave J</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a93d860i24bezul5re4/AU0qyIE1erDO2zF0BsjFfbk0IaPVUA--/1/tn48.jpg?ciAAToMBv9GmnPVt</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Have you tried a reboot yet?</ChosenAnswer>
+    <ChosenAnswererId>qeH4rOH9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Daryl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267369873</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267889032</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Have you tried a reboot yet?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qeH4rOH9aa</UserId>
+            <UserNick>Daryl</UserNick>
+            <Date>2010-02-28 07:11:13</Date>
+            <Timestamp>1267369873</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You should go to task manager and close all apps opened and reboot the system....</Content>
+            <Reference>http://www.techatweb.com</Reference>
+            <Best></Best>
+            <UserId>Xt3JGSkBaa</UserId>
+            <UserNick>King of Ghosts</UserNick>
+            <Date>2010-02-28 07:18:07</Date>
+            <Timestamp>1267370287</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think you might have changed your icon, or somehow send your programs to the recycle bin and your computer has automatically allocated the Internet Explorer icon for the file as it cannot find the correct one. But if all you&#039;ve done is changed the icon then right click on the picture and click properties. A window should pop up, near the bottom of this window should be a button saying change icon. Click this, then find the correct icon(it will probably give you a list of default icons first). If you cannot find the correct one from this list then, click browse and go to your program files folder(should be on your C: drive somewhere). Locate the folder you want(it should be named after the company who made the program or the program itself), then search in the folders until you find the correct icon. You may not be able to find the correct icon, and should get your computer looked at by some one who knows how to fix this kind of thing. It&#039;s always a good idea to back up your computer and files, so when things like this happen you&#039;ve got a fix for it.
+
+Hope this helps =]</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>B21IpwWTaa</UserId>
+            <UserNick>Halbireo StarGazer</UserNick>
+            <Date>2010-02-28 07:23:25</Date>
+            <Timestamp>1267370605</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:38:53 PDT 2010 -->

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327110603AAn1VFl" type="Answered">
+    <Subject>Why can&#039;t I browse the internet, even with internet connection?</Subject>
+    <Content>The internet connection is pretty strong. I checked my firewall, it&#039;s enabled. What&#039;s wrong?
+
+-- 
+
+I did recently got a malware on my computer, which i guess disabled browsing on the internet, even with internet connection. please help me :(
+</Content>
+    <Date>2010-03-27 11:06:03</Date>
+    <Timestamp>1269713163</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327110603AAn1VFl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10641638</UserId>
+    <UserNick>_DOM</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Qqeb7928AAEDKIE_nAro5HMB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Run an antivirus software.
+And if that doesn&#039;t work, try contacting you ISP.</ChosenAnswer>
+    <ChosenAnswererId>CAfx1RXmaa</ChosenAnswererId>
+    <ChosenAnswererNick>That Asian Guy From Math Class</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269713238</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269756087</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Run an antivirus software.
+And if that doesn&#039;t work, try contacting you ISP.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>CAfx1RXmaa</UserId>
+            <UserNick>That Asian Guy From Math Class</UserNick>
+            <Date>2010-03-27 11:07:18</Date>
+            <Timestamp>1269713238</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try using a Live CD and see if your connection works from there. If it doesn&#039;t work from there either there&#039;s a problem with the connection, otherwise there&#039;s a problem with your OS.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DB4EIa2eaa</UserId>
+            <UserNick>✔</UserNick>
+            <Date>2010-03-27 11:10:16</Date>
+            <Timestamp>1269713416</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:22:50 PDT 2010 -->

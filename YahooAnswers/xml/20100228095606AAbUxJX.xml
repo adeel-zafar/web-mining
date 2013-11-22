@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228095606AAbUxJX" type="Answered">
+    <Subject>Why do I get kicked off the Internet?</Subject>
+    <Content>I have a problem with my internet connection. I have Road Runner cable internet and it is very fast, yet when I play on Xbox Live and even when I used to play World of Warcraft online I will just get kicked. I can log right back in but it is very annoying and messes up the whole match I was in with friends on Live. You don&#039;t even notice if your simply surfing the internet because it&#039;s like it just flickers for 2 seconds or something.
+</Content>
+    <Date>2010-02-28 09:56:06</Date>
+    <Timestamp>1267379766</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228095606AAbUxJX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VBX4kwvuaa</UserId>
+    <UserNick>coryy21</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1W4YugAg8AAEC_IFUrEYSmlwB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sounds like a bad cable connection, so call them and have it checked.</ChosenAnswer>
+    <ChosenAnswererId>SqKKas2daa</ChosenAnswererId>
+    <ChosenAnswererNick>Botsy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267380117</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267899358</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sounds like a bad cable connection, so call them and have it checked.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>SqKKas2daa</UserId>
+            <UserNick>Botsy</UserNick>
+            <Date>2010-02-28 10:01:57</Date>
+            <Timestamp>1267380117</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Check the link...</Content>
+            <Reference>http://support.xbox.com/support/en/us/xbox360/xboxlive/default.aspx#</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-28 10:40:55</Date>
+            <Timestamp>1267382455</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Are you looking to have an elite World of Warcraft account?  Now you can be level 80 in 7 days and generate as much gold as you want.</Content>
+            <Reference>http://eehuen.notlong.com</Reference>
+            <Best></Best>
+            <UserId>9aYlOibuaa</UserId>
+            <UserNick>Alec</UserNick>
+            <Date>2010-03-01 13:00:40</Date>
+            <Timestamp>1267477240</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:59 PDT 2010 -->

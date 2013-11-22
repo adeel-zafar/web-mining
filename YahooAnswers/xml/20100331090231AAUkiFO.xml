@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331090231AAUkiFO" type="Answered">
+    <Subject>I cannot view most webpages and If you might know how I could remedy this could you consider helping me please?</Subject>
+    <Content>there was a time when I could google anything and view it. now not all the time but quite often I can&#039;t. For example I tried to google worlds smallest subwoofer speaker. There were a bunch that claimed to be the world&#039;s smallest. Well, I clicked the web page that to me looked most promising. --- I didn&#039;t get the web page ---- instead I got the following message === &quot; The Adobe Acrobat/Reader that is running can not be used to view PDF files in a Web Browser. Please exit Adobe Acrobat / Reader and exit your browser and try again.&quot;
+--- I really don&#039;t know or understand what is going on here and I would really appreciate it if someone could tell me how to fix this.
+-- I am using firefox for a browser
+-- re installing adobe appeared to fix it
+-- re installing adobe appeared to fix it
+</Content>
+    <Date>2010-03-31 09:02:31</Date>
+    <Timestamp>1270051351</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331090231AAUkiFO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SRF2FiWPaa</UserId>
+    <UserNick>Brett D</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb576cai2968zws127sp2/kLtImKEzaaMQPdQy71xPaxF2ema8/5/tn48.jpeg?ciAAToMBVgMok8_0</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>- try reinstalling adobe reader
+ - try using Google Chrome or Internet Explorer</ChosenAnswer>
+    <ChosenAnswererId>tp2mBW4Jaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ryan D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270053029</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270231677</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe you can learn proper grammar.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tEy3f9oiaa</UserId>
+            <UserNick>...</UserNick>
+            <Date>2010-03-31 09:05:14</Date>
+            <Timestamp>1270051514</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>- try reinstalling adobe reader
+ - try using Google Chrome or Internet Explorer</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tp2mBW4Jaa</UserId>
+            <UserNick>Ryan D</UserNick>
+            <Date>2010-03-31 09:30:29</Date>
+            <Timestamp>1270053029</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:55 PDT 2010 -->

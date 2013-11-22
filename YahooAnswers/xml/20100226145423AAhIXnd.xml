@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226145423AAhIXnd" type="Answered">
+    <Subject>what the fuck is going on with  AIM?</Subject>
+    <Content>My aim was bugging out so i quit it and tried to sign back on, it keeps saying server connection problem, now it says Invalid screen name or password, but I can&#039;t log on to any of my other screen names, and the damn aim help thing on their site isnt even working? wtf?
+</Content>
+    <Date>2010-02-26 14:54:23</Date>
+    <Timestamp>1267224863</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226145423AAhIXnd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gBuzXOX6aa</UserId>
+    <UserNick>Help me, ill help you</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There&#039;s most likely something wrong with the AIM servers. Try later.</ChosenAnswer>
+    <ChosenAnswererId>h8eCEMLnaa</ChosenAnswererId>
+    <ChosenAnswererNick>Esteban R</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267224958</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267288318</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There&#039;s most likely something wrong with the AIM servers. Try later.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>h8eCEMLnaa</UserId>
+            <UserNick>Esteban R</UserNick>
+            <Date>2010-02-26 14:55:58</Date>
+            <Timestamp>1267224958</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I tried different clients to log onto AIM and most of them are telling me &quot;Invalid Screen Name or Password&quot;.  Most likely there is currently some issue on AOL&#039;s servers.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VMQYQN2Taa</UserId>
+            <UserNick>ChewBar</UserNick>
+            <Date>2010-02-26 14:56:59</Date>
+            <Timestamp>1267225019</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;m having the same problem. Wait an hour or two and try again later, I guess.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>t2792CBJaa</UserId>
+            <UserNick>canning9189</UserNick>
+            <Date>2010-02-26 14:57:15</Date>
+            <Timestamp>1267225035</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>same thing here, same with many of my friends. aim is probably having some big issues</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>89a9d7fb98af20815ed14a4b3bfdd9beaa</UserId>
+            <UserNick>maggie k</UserNick>
+            <Date>2010-02-26 14:57:48</Date>
+            <Timestamp>1267225068</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:49:33 PDT 2010 -->

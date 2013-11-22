@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309164134AAJNsny" type="Answered">
+    <Subject>Why does my web browser take a long time to close (IE8)?</Subject>
+    <Content>When I go to close my web browser, no matter what website I&#039;m on or what&#039;s happening, it takes a long time to close. Any ideas on why this happens and what I can do to fix the situation?
+</Content>
+    <Date>2010-03-09 16:41:34</Date>
+    <Timestamp>1268181694</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309164134AAJNsny</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>V9l98qpMaa</UserId>
+    <UserNick>Shell</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1QmHsRosHAAECQEEo4AcOAQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Haha.. don&#039;t use IE... that always helps
+
+
+Try Chrome if you are looking for speed</ChosenAnswer>
+    <ChosenAnswererId>hVkTEUjmaa</ChosenAnswererId>
+    <ChosenAnswererNick>BRR!!</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268182964</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268792037</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The IE series are set up so that they run smooth when they are in use and this is done by using lots of tasks and processes and when you close IE, your computer has to stop all the processes running and that may take a while with  a slow processor. If you know this is not the reason then try and clear your cookies and your browsing history.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Wx106GlPaa</UserId>
+            <UserNick>Ronan</UserNick>
+            <Date>2010-03-09 16:44:44</Date>
+            <Timestamp>1268181884</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Haha.. don&#039;t use IE... that always helps
+
+
+Try Chrome if you are looking for speed</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>hVkTEUjmaa</UserId>
+            <UserNick>BRR!!</UserNick>
+            <Date>2010-03-09 17:02:44</Date>
+            <Timestamp>1268182964</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:23:03 PDT 2010 -->

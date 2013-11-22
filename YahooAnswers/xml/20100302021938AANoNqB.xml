@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302021938AANoNqB" type="Answered">
+    <Subject>Can you get a computer virus? can you get a virus while in a proxy browser? cause tech. ur its not ur internet?</Subject>
+    <Content>Can you get a computer virus?
+can you get a virus while in a proxy browser? cause tech. ur its not ur internet, it could be in china or something? if u go to a website with a virus, will it go to ur computer or to the browser where it actually is? please help thank u
+</Content>
+    <Date>2010-03-02 02:19:38</Date>
+    <Timestamp>1267525178</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302021938AANoNqB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZLt8NmJ5aa</UserId>
+    <UserNick>Bailout</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267541056</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267541990</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, Viruses can do anything.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>V4QUy1Coaa</UserId>
+            <UserNick>Rohit Singh</UserNick>
+            <Date>2010-03-02 02:23:35</Date>
+            <Timestamp>1267525415</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>A proxy is not a browser. A proxy is simply another computer that acts as a buffer of sorts between you and the site you&#039;re trying to visit, in order for you to surf anonymously or from another location. Proxies do not protect you from viruses. As long as you are on the receiving end of the data stream, and your system has some security vulnerability open, you&#039;re at risk.
+
+There&#039;s no such thing as &quot;my&quot; Internet or &quot;your&quot; Internet (the word is &quot;your&quot; not &quot;ur&quot;, and it&#039;s &quot;you&quot; not &quot;u&quot; -- text-messaging shorthand is used by idiots). The Internet is one big network.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BhNP2P8Xaa</UserId>
+            <UserNick>joe.attaboy</UserNick>
+            <Date>2010-03-02 02:27:10</Date>
+            <Timestamp>1267525630</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-02 06:44:16</Date>
+            <Timestamp>1267541056</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:27:41 PDT 2010 -->

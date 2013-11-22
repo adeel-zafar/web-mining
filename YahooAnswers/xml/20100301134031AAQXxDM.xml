@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301134031AAQXxDM" type="Answered">
+    <Subject>What does this mean on Hotmail &quot;This account is currently blocked from sending messages?</Subject>
+    <Content>It started today.
+
+Others told me to change password so I changed my password, but I still cannot send emails!
+Easy 10 points!
+</Content>
+    <Date>2010-03-01 13:40:31</Date>
+    <Timestamp>1267479631</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301134031AAQXxDM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>65cYE8emaa</UserId>
+    <UserNick>Guadalupe V</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try here....
+http://windowslivehelp.com/Default.aspx</ChosenAnswer>
+    <ChosenAnswererId>9e95ce2106f1abcd2ddc97cd6a7576e2aa</ChosenAnswererId>
+    <ChosenAnswererNick>albert c</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267479818</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267671320</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It means what it says.
+Your account was probably compromised and sent a load of spam.
+
+Call MSN or do their live chat and see what&#039;s up with your account.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nsiN6E3zaa</UserId>
+            <UserNick>Misc Tech Advice</UserNick>
+            <Date>2010-03-01 13:43:18</Date>
+            <Timestamp>1267479798</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try here....
+http://windowslivehelp.com/Default.aspx</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>9e95ce2106f1abcd2ddc97cd6a7576e2aa</UserId>
+            <UserNick>albert c</UserNick>
+            <Date>2010-03-01 13:43:38</Date>
+            <Timestamp>1267479818</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:30:56 PDT 2010 -->

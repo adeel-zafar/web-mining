@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307062047AAAOoOy" type="Answered">
+    <Subject>Cant enter Zwinktopia on Zwinky?</Subject>
+    <Content>Everytime i try to get on it just keeps loading -___- i know its not Zwinky bc it works fine in my desktop, anyway you can fix thiss?
+</Content>
+    <Date>2010-03-07 06:20:47</Date>
+    <Timestamp>1267971647</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307062047AAAOoOy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ry1kMJc6aa</UserId>
+    <UserNick>Katie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I had this same problem before.
+Here&#039;s what you can do:
+
+1.) Open Internet Explorer and click on the &quot;Tools&quot; menu. 
+2.) In the &quot;Tools&quot; menu, click on &quot;Internet Options&quot;. 
+3.) The Internet Options pop-up window appears. 
+4.) Under the General Tab select the &quot;Delete Cookies&quot; button. 
+5.) Delete cookies by clicking &quot;OK&quot;.
+
+When I had this problem I did these steps to delete my cookies and it was fixed entirely.
+
+After you delete the cookies sign out of zwinky and close the window. After they are deleted you can sign back in. It should be fixed.</ChosenAnswer>
+    <ChosenAnswererId>Z8tENksfaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kevin BETCH</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268281827</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268490855</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I had this same problem before.
+Here&#039;s what you can do:
+
+1.) Open Internet Explorer and click on the &quot;Tools&quot; menu. 
+2.) In the &quot;Tools&quot; menu, click on &quot;Internet Options&quot;. 
+3.) The Internet Options pop-up window appears. 
+4.) Under the General Tab select the &quot;Delete Cookies&quot; button. 
+5.) Delete cookies by clicking &quot;OK&quot;.
+
+When I had this problem I did these steps to delete my cookies and it was fixed entirely.
+
+After you delete the cookies sign out of zwinky and close the window. After they are deleted you can sign back in. It should be fixed.</Content>
+            <Reference>Sources Cited:
+http://www.whitecanyon.com/delete-cookie.php</Reference>
+            <Best>5</Best>
+            <UserId>Z8tENksfaa</UserId>
+            <UserNick>Kevin BETCH</UserNick>
+            <Date>2010-03-10 20:30:27</Date>
+            <Timestamp>1268281827</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:41:05 PDT 2010 -->

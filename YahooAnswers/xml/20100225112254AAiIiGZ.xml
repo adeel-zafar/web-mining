@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225112254AAiIiGZ" type="Answered">
+    <Subject>Will this work with my iPod/iTunes?</Subject>
+    <Content>Let me know if this will work please.
+
+ If I download itunes then import songs from cds and limewire to itunes and then put them on my ipod nano.
+
+I think it will but I just want to make sure.
+
+PS I have a windows computer... not sure if that makes a difference or not???
+</Content>
+    <Date>2010-02-25 11:22:54</Date>
+    <Timestamp>1267125774</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225112254AAiIiGZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>i5wJ7fEsaa</UserId>
+    <UserNick>Carly</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba17da8i281azws123ac4/.XoS11AieKezRoH5Qw_dXQ--/1/tn48.png?ciAAToMB6slOE2zL</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>As long as the file format is mp3 or AAC you are all set. The following link provides a nifty list of formats that work with an iPod.</ChosenAnswer>
+    <ChosenAnswererId>2FeiIhwYaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jason O</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267126095</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267216695</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>As long as the file format is mp3 or AAC you are all set. The following link provides a nifty list of formats that work with an iPod.</Content>
+            <Reference>http://ipod.about.com/od/fileformatguide/a/file_formats.htm</Reference>
+            <Best>4</Best>
+            <UserId>2FeiIhwYaa</UserId>
+            <UserNick>Jason O</UserNick>
+            <Date>2010-02-25 11:28:15</Date>
+            <Timestamp>1267126095</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Or
+
+How to add music to iPod Nano
+
+http://www.iphone-ipod-to-itunes-transfer.com-http.com/how-to-add-music-to-ipod-nano.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ybfCLYp1aa</UserId>
+            <UserNick>zep516</UserNick>
+            <Date>2010-02-25 11:28:20</Date>
+            <Timestamp>1267126100</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:57:07 PDT 2010 -->

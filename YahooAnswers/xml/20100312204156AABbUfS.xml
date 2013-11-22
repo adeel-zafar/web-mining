@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312204156AABbUfS" type="Answered">
+    <Subject>How do you get back onto a board you&#039;ve been banned from?</Subject>
+    <Content>I want to request my links are deleted on a message board ive been banned from. Is it a matter of simply changing my i.p address? I tried signing in and even registering a new account using a proxy free server (which seemed to work) .. but obviously didnt because they didnt send me reg details /confirmation. Clue me up please, the account still seems to be active with my details - I just get a message which reads banned.
+creative ideas please :-)
+</Content>
+    <Date>2010-03-12 20:41:56</Date>
+    <Timestamp>1268455316</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312204156AABbUfS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TdhqG3Siaa</UserId>
+    <UserNick>Nice_guy™</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ad68ba3i2260zul4re4/N9hh.Ns_cqUVbWhO5FrQ8mgm6AI-/1/tn48.jpg?ciAAToMBsT4Izv8i</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The Block that doesn&#039;t allow you access to the site, is an IP block, using a proxy server will let you get passed that and view the site.
+
+The site will be managed by a Content Management System, that system will also have marked your account as banned, so you won&#039;t be able to log in to it.
+
+Email the admin of the site, there should be a contact page with the details, failing that you can check the whois record for the site, the admin address will be in there and you can contact them then ask for your posts to be removed.
+
+If the admin won&#039;t do it then you have no option but to let it go, there&#039;s little you can do about it legally.
+
+Is the ban permanent?  Most sites issue a 7, 14, or 28 day ban which after that time is lifted and you can return.</ChosenAnswer>
+    <ChosenAnswererId>96c51d2257b94486272ed4b87c8c09efaa</ChosenAnswererId>
+    <ChosenAnswererNick>Devine Caesar</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268459073</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268526467</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The Block that doesn&#039;t allow you access to the site, is an IP block, using a proxy server will let you get passed that and view the site.
+
+The site will be managed by a Content Management System, that system will also have marked your account as banned, so you won&#039;t be able to log in to it.
+
+Email the admin of the site, there should be a contact page with the details, failing that you can check the whois record for the site, the admin address will be in there and you can contact them then ask for your posts to be removed.
+
+If the admin won&#039;t do it then you have no option but to let it go, there&#039;s little you can do about it legally.
+
+Is the ban permanent?  Most sites issue a 7, 14, or 28 day ban which after that time is lifted and you can return.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>96c51d2257b94486272ed4b87c8c09efaa</UserId>
+            <UserNick>Devine Caesar</UserNick>
+            <Date>2010-03-12 21:44:33</Date>
+            <Timestamp>1268459073</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:06:33 PDT 2010 -->

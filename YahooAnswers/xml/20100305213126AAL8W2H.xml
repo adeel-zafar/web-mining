@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305213126AAL8W2H" type="Answered">
+    <Subject>Trouble with a website...?</Subject>
+    <Content>So there&#039;s this website that I&#039;ve been accessing without problems for years, but starting yesterday, I began getting error messages saying that the server was not found, regardless of the browser I was using (Safari or Firefox).  
+
+Now, I know for a fact that the server is not down because I&#039;ve been able to get on at work and other friends have accessed the site without problems.  To further compound the problem, I can&#039;t access it on any of the computers in the house- I&#039;ve tried.  Still the same message.  So whatever it is is isolated to this house&#039;s IP address.
+
+I already checked the router to make sure the security settings hadn&#039;t been messed with and even rebooted the whole thing just to be sure.  Still no change.  Can someone please shed some light on this issue?  I&#039;ve had lots of different possible answers, including the router security and something about the DNS.  I can still access the site via a proxy, but I can&#039;t log in without subscribing.
+If it makes a difference, I currently use Mac OS 10.5.8
+pug106man- Thanks for the advice.  I already pinged both the domain name and the IP address of the site- no answer from the domain name, but the IP address responded fine.  Do you think this issue may resolve itself if it&#039;s a problem with my ISP, or is it something I will need to bring to their attention if I want it to be resolved?
+</Content>
+    <Date>2010-03-05 21:31:26</Date>
+    <Timestamp>1267853486</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305213126AAL8W2H</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>P9bme1oRaa</UserId>
+    <UserNick>Daisy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Pc2GZWtwAAMBTaN2PBOXMlXM2TH0tWcX.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You might find that your ISP is having DNS / routing problems to that site. Some companies use localised web servers to deliver content, they are meant to load balance and cutover inthe event of a failure. This might not be happening in your case.
+
+Try opening a console window and type &#039;PING www.thewebsitename.com&#039;
+
+If you get a response then there are no routing problems, if you dont get a response you may need to conact your ISP.
+
+****************************************************
+Hi there, this is probably something you may want to bring up with your ISP. It may be an idea if you have any friendly neighbours on the same ISP that you might check this site from their PC just to be sure that there is nothing affecting the local DNS on your machine. If you want to post the address of the site I can do some more investigation.
+
+Another thing you can try is the command &#039;TRACEROUTE www.sitename.com&#039; this will allow you to see the path that your machine / ISP is taking to the site, you can identify errors along the way.
+
+:-) Pug</ChosenAnswer>
+    <ChosenAnswererId>EEZv5hnCaa</ChosenAnswererId>
+    <ChosenAnswererNick>pug106man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268081200</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268714714</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You might find that your ISP is having DNS / routing problems to that site. Some companies use localised web servers to deliver content, they are meant to load balance and cutover inthe event of a failure. This might not be happening in your case.
+
+Try opening a console window and type &#039;PING www.thewebsitename.com&#039;
+
+If you get a response then there are no routing problems, if you dont get a response you may need to conact your ISP.
+
+****************************************************
+Hi there, this is probably something you may want to bring up with your ISP. It may be an idea if you have any friendly neighbours on the same ISP that you might check this site from their PC just to be sure that there is nothing affecting the local DNS on your machine. If you want to post the address of the site I can do some more investigation.
+
+Another thing you can try is the command &#039;TRACEROUTE www.sitename.com&#039; this will allow you to see the path that your machine / ISP is taking to the site, you can identify errors along the way.
+
+:-) Pug</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EEZv5hnCaa</UserId>
+            <UserNick>pug106man</UserNick>
+            <Date>2010-03-08 12:46:40</Date>
+            <Timestamp>1268081200</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:52:23 PDT 2010 -->

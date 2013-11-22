@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321210553AA9WwoB" type="Answered">
+    <Subject>help me out of this problem ?</Subject>
+    <Content>i want 2 know that if some one have made fake account of yours in social networking site than what 2 do
+</Content>
+    <Date>2010-03-21 21:05:53</Date>
+    <Timestamp>1269230753</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321210553AA9WwoB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>J3ioANogaa</UserId>
+    <UserNick>sachin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>report them.
+then explain to the administrator what the problem is.
+if not confront who made it and force them to take it down.
+or u could contact the police but the first two are alot easier</ChosenAnswer>
+    <ChosenAnswererId>whCknbyeaa</ChosenAnswererId>
+    <ChosenAnswererNick>mrsfox478</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269230914</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269750295</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>report them.
+then explain to the administrator what the problem is.
+if not confront who made it and force them to take it down.
+or u could contact the police but the first two are alot easier</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>whCknbyeaa</UserId>
+            <UserNick>mrsfox478</UserNick>
+            <Date>2010-03-21 21:08:34</Date>
+            <Timestamp>1269230914</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:25:02 PDT 2010 -->

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224105800AAJtpVr" type="Answered">
+    <Subject>Internet explorer cannot display webpage//http error message: 403 (forbidden) How do I fix this?</Subject>
+    <Content>I cannot access any web pages at all. But I am connected to the internet because I can go on my instant messenger and skype its only using internet explorer or firefox that does not work. 
+
+The 403 error pops up and says if this problem is constantly preventing Windows from connecting to several different sites on the Internet, contact your network administrator or ISP.
+
+What do I do to fix this?
+Also I have norton anti-virus but everytime I try to double click to open it, it does nothing. so I cannot scan for viruses and etc. 
+Why wouldn&#039;t my antivirus program work?
+</Content>
+    <Date>2010-02-24 10:58:00</Date>
+    <Timestamp>1267037880</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224105800AAJtpVr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>W7qBGWKcaa</UserId>
+    <UserNick>sparkl3s7491</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ip9kU2HJAAED4QSD6t8BDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sounds like you either have a virus or a busted DLL somewhere on your system. I&#039;d recommend doing an indepth virus scan (which could take hours, depending on the size of your hard drive) to start with. If you&#039;re then still having problems, it&#039;s time to look at the possibility that something you&#039;ve installed recently has trashed that part of your system.
+
+I&#039;m tempted to tell you to install a half decent browser ;) but I somehow don&#039;t think that will solve this particular problem. I reckon it&#039;s fairly likely the virus scan (catching malware/trojan etc) will be the answer here.
+
+Good Luck
+
+Scots</ChosenAnswer>
+    <ChosenAnswererId>OnssznPAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Geo. I</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267038484</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267557391</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sounds like you either have a virus or a busted DLL somewhere on your system. I&#039;d recommend doing an indepth virus scan (which could take hours, depending on the size of your hard drive) to start with. If you&#039;re then still having problems, it&#039;s time to look at the possibility that something you&#039;ve installed recently has trashed that part of your system.
+
+I&#039;m tempted to tell you to install a half decent browser ;) but I somehow don&#039;t think that will solve this particular problem. I reckon it&#039;s fairly likely the virus scan (catching malware/trojan etc) will be the answer here.
+
+Good Luck
+
+Scots</Content>
+            <Reference>30yrs+ IT Consultant
+15yrs+ Adobe Certified Instructor</Reference>
+            <Best>5</Best>
+            <UserId>OnssznPAaa</UserId>
+            <UserNick>Geo. I</UserNick>
+            <Date>2010-02-24 11:08:04</Date>
+            <Timestamp>1267038484</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Clue, you said IE. Open tools, options, choose connection tab and open. Find LAN and open it. Check automatically detect the network connection. Click apply. Close the browser. Open the browser and see it those errors are resolved.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VbP8YWonaa</UserId>
+            <UserNick>comtech391</UserNick>
+            <Date>2010-02-24 11:22:24</Date>
+            <Timestamp>1267039344</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>IE hospital tool can fix your computer IE Browser
+http://clean-computer-registry.com/IEHospital/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4aPF5CrFaa</UserId>
+            <UserNick>Nich</UserNick>
+            <Date>2010-02-26 04:31:56</Date>
+            <Timestamp>1267187516</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Fix web browser:
+&lt;--http://slowpc-checking.com/WebBrowser</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AugPVXCMaa</UserId>
+            <UserNick>Andalsostars G</UserNick>
+            <Date>2010-02-26 21:25:15</Date>
+            <Timestamp>1267248315</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:14:40 PDT 2010 -->

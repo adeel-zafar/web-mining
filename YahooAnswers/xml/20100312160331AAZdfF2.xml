@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312160331AAZdfF2" type="Answered">
+    <Subject>how do you find your picture&#039;s url?</Subject>
+    <Content>I want to post a picture but i need the url so how do you find the url of a picture you have saved on your computer?
+</Content>
+    <Date>2010-03-12 16:03:31</Date>
+    <Timestamp>1268438611</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312160331AAZdfF2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JayU8SfKaa</UserId>
+    <UserNick>Go WINgs and Colts~~~</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1PTLHLJAAAAIC-IFD2F_IDA==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>They don&#039;t have any!
+
+URL=Uniform Resource Locator. Only files on the Internet have one.
+
+You have to host it somewhere. Try Imageshack.</ChosenAnswer>
+    <ChosenAnswererId>nfdBg2gLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Angry Grandma</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268438821</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268954615</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>To share a link to a picture you will have to upload to a site like Photobucket or TinyPic. Once it&#039;s uploaded there it will show you what the link is.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RCU8qmx0aa</UserId>
+            <UserNick>ValerieB</UserNick>
+            <Date>2010-03-12 16:06:19</Date>
+            <Timestamp>1268438779</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>They don&#039;t have any!
+
+URL=Uniform Resource Locator. Only files on the Internet have one.
+
+You have to host it somewhere. Try Imageshack.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nfdBg2gLaa</UserId>
+            <UserNick>Angry Grandma</UserNick>
+            <Date>2010-03-12 16:07:01</Date>
+            <Timestamp>1268438821</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:40 PDT 2010 -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225080109AAGgV61" type="Answered">
+    <Subject>Use Computers Internet on Mobile?</Subject>
+    <Content>I have a NOKIA 2700. Anybody please tell me how to get internet on mobile via my pc which have a broadband connection..
+I mean is there any way to share it with my mobile.. There is a software GNU box for s 60but i have a java phone...
+</Content>
+    <Date>2010-02-25 08:01:09</Date>
+    <Timestamp>1267113669</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225080109AAGgV61</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9681d1ee0cf171e1d906c63b083a8849aa</UserId>
+    <UserNick>Sree</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a1d137ai1fcczul5sp1/U1j1fd4iaaOLaqh44VH9wYfsZjVyHg--/1/tn48.jpg?ciAAToMBPkCgwh06</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Internet access on your phone is provided by the phone&#039;s carrier and not the broadband connection of your pc.  They are not related.</ChosenAnswer>
+    <ChosenAnswererId>VSWl45cKaa</ChosenAnswererId>
+    <ChosenAnswererNick>Fish</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267114068</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267632941</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you have to go through your carrier for internet!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Nk51nwcZaa</UserId>
+            <UserNick>my_massive_boner</UserNick>
+            <Date>2010-02-25 08:04:36</Date>
+            <Timestamp>1267113876</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Internet access on your phone is provided by the phone&#039;s carrier and not the broadband connection of your pc.  They are not related.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>VSWl45cKaa</UserId>
+            <UserNick>Fish</UserNick>
+            <Date>2010-02-25 08:07:48</Date>
+            <Timestamp>1267114068</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:58:23 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228100311AAU1r5p" type="Answered">
+    <Subject>Why does a yfrog.com link not work in Firefox?</Subject>
+    <Content>Why does a yfrog.com link ( http://yfrog.com/2e47044607j ) not work in Firefox (i get a page saying bad gateway) but  work in Internet Explorer?
+</Content>
+    <Date>2010-02-28 10:03:11</Date>
+    <Timestamp>1267380191</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228100311AAU1r5p</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UDwztSNvaa</UserId>
+    <UserNick>enjoispitfire</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try going to http://yfrog.com, then log out and back in to re-establish the link to Twitter.</ChosenAnswer>
+    <ChosenAnswererId>HIwYyyynaa</ChosenAnswererId>
+    <ChosenAnswererNick>Umatron</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267530381</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268507738</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It works for me, using firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NvJTuf8naa</UserId>
+            <UserNick>Meh</UserNick>
+            <Date>2010-02-28 10:12:01</Date>
+            <Timestamp>1267380721</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try going to http://yfrog.com, then log out and back in to re-establish the link to Twitter.</Content>
+            <Reference>http://getsatisfaction.com/yfrog/topics/bad_gateway-16i9e
+
+Worked for me.</Reference>
+            <Best>5</Best>
+            <UserId>HIwYyyynaa</UserId>
+            <UserNick>Umatron</UserNick>
+            <Date>2010-03-02 03:46:21</Date>
+            <Timestamp>1267530381</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:57 PDT 2010 -->

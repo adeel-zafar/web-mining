@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223011934AAqVsHr" type="Answered">
+    <Subject>Chrome or Safari and why?</Subject>
+    <Content>Im Looking for a real &quot;light&quot; browser but which is popular as well..im low on resources(i.e.CPU and memory-as i use a budget PC) and hence  this need.
+</Content>
+    <Date>2010-02-23 01:19:34</Date>
+    <Timestamp>1266916774</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223011934AAqVsHr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mX5TVUKgaa</UserId>
+    <UserNick>Mohit</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1pO1BoOZzAAIDPEKdnWI=.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try slim browser or orca browser</ChosenAnswer>
+    <ChosenAnswererId>kv81hfyPaa</ChosenAnswererId>
+    <ChosenAnswererNick>flying scot</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266933350</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267781644</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Since you use Windows, Chrome is better as it has a smaller file size and it&#039;s slightly faster while Safari is just a port from Mac.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UbtqfVDmaa</UserId>
+            <UserNick>StarrySkyy</UserNick>
+            <Date>2010-02-23 01:25:05</Date>
+            <Timestamp>1266917105</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Chrome cuz its faster, very safe, and has a lot of cooler features than a basic Safari. 
+
+
+Also, Safari sends a lot of information back to Apple without asking for your permission. It&#039;s not a huge deal, but some may see it as an invasion of privacy</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Rv26vvJjaa</UserId>
+            <UserNick>Milking Cows Looks Wrong</UserNick>
+            <Date>2010-02-23 01:31:48</Date>
+            <Timestamp>1266917508</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try slim browser or orca browser</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kv81hfyPaa</UserId>
+            <UserNick>flying scot</UserNick>
+            <Date>2010-02-23 05:55:50</Date>
+            <Timestamp>1266933350</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>As I suppose chrome is good for u as u r using windows…chrome is lil faster than safari and has a smaller file size.</Content>
+            <Reference>http://www.iyogi.ca/internet-browser-support.html</Reference>
+            <Best></Best>
+            <UserId>VAMpT16oaa</UserId>
+            <UserNick>technocrate</UserNick>
+            <Date>2010-02-23 06:40:31</Date>
+            <Timestamp>1266936031</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:23:31 PDT 2010 -->

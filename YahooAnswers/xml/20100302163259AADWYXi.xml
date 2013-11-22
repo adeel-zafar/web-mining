@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302163259AADWYXi" type="Answered">
+    <Subject>Is anyone having AOL Email Problems?</Subject>
+    <Content>Is anyone having problems with AOL Email?  So far they have lost my address book, pages fail to re-direct and emails get bounced for no good reason.  Normally it is fine but now seems to be very flakey.
+</Content>
+    <Date>2010-03-02 16:32:59</Date>
+    <Timestamp>1267576379</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302163259AADWYXi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6116f943ba73bbe0dcaf538f5de9af27aa</UserId>
+    <UserNick>Neil</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ZRuPF5CJAAEC_IFHyBU=.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>Yes lots of people are having trouble accessing AOL mail.  I use imap.aol.com on Outlook 2007 and it has been sporadic for two days.  The AOL mail blog states that they have been having problems.  I was able to access it with a POP account, but I don&#039;t want to do that.</ChosenAnswer>
+    <ChosenAnswererId>j89tVaT6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Rust123</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267585072</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267608393</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>NOPE ONLY YOU BECAUSE YOU ARE THE ONLY ONE IN THE WHOLE UNIVERSE THAT STILL USES AOL!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ohQKINs2aa</UserId>
+            <UserNick>MASTERUDY</UserNick>
+            <Date>2010-03-02 16:35:26</Date>
+            <Timestamp>1267576526</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Doesn&#039;t everyone have trouble with AOL. 
+When I tried it it screwed up my computer for months until I was finally able to get rid of all the junk that comes with it.</Content>
+            <Reference>Been there, learned a hard lesson.</Reference>
+            <Best></Best>
+            <UserId>hnGNAmegaa</UserId>
+            <UserNick>Foremost authority</UserNick>
+            <Date>2010-03-02 16:36:15</Date>
+            <Timestamp>1267576575</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes lots of people are having trouble accessing AOL mail.  I use imap.aol.com on Outlook 2007 and it has been sporadic for two days.  The AOL mail blog states that they have been having problems.  I was able to access it with a POP account, but I don&#039;t want to do that.</Content>
+            <Reference>aol&gt;mail&gt;help&gt;blog</Reference>
+            <Best>5</Best>
+            <UserId>j89tVaT6aa</UserId>
+            <UserNick>Rust123</UserNick>
+            <Date>2010-03-02 18:57:52</Date>
+            <Timestamp>1267585072</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>GMjU9negaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-06 08:07:55</Date>
+            <Timestamp>1267585072</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:57 PDT 2010 -->

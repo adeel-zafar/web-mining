@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320163032AAG9v1r" type="Answered">
+    <Subject>Is wooby1 a good enough name?</Subject>
+    <Content>I cant decide if my user name is humourous enough? I want it to be funny but not offensive. I hope this doesnt offend anyone
+</Content>
+    <Date>2010-03-20 16:30:32</Date>
+    <Timestamp>1269127832</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320163032AAG9v1r</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6K7pbj8faa</UserId>
+    <UserNick>Wooby1</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>... I find it interesting
+it is a good name,
+it is no funny. It 
+doesnt offend
+me,</ChosenAnswer>
+    <ChosenAnswererId>Fd9m4FsTaa</ChosenAnswererId>
+    <ChosenAnswererNick>flemingo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269128319</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269647142</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no its never enough that&#039;s why your father beats you!!!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>saAXGOk4aa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-03-20 16:34:02</Date>
+            <Timestamp>1269128042</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>... I find it interesting
+it is a good name,
+it is no funny. It 
+doesnt offend
+me,</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Fd9m4FsTaa</UserId>
+            <UserNick>flemingo</UserNick>
+            <Date>2010-03-20 16:38:39</Date>
+            <Timestamp>1269128319</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:05 PDT 2010 -->

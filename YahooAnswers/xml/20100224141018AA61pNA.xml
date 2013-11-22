@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224141018AA61pNA" type="Answered">
+    <Subject>If I click on a bit.ly link, am I being tracked?</Subject>
+    <Content>A few of my friends have been posting &quot;bit.ly&quot; links on Facebook. Will my friends know when I&#039;ve clicked on the link? I know that bit.ly tracks the number of clicks, but will my friends know WHO is clicking the links?
+I understand that bit.ly or some other 3rd party could be tracking me... that&#039;s a whole different issue. I also understand the danger of internet hackers--though I seriously doubt any of my friends are one. My question is in reference to bit.ly itself-- is this site designed to help people track who is clicking their links?????
+</Content>
+    <Date>2010-02-24 14:10:18</Date>
+    <Timestamp>1267049418</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224141018AA61pNA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zIzt1jLhaa</UserId>
+    <UserNick>She&#039;sSavvy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1XrJOnD2YAAEB9sFlUBTBd2AB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Maybe yes if they&#039;re clever &#039;crackers&#039;</ChosenAnswer>
+    <ChosenAnswererId>Az8JInKdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mads</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267049873</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267568890</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your friends probably won&#039;t, but SOMEbody will.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>inOad9wRaa</UserId>
+            <UserNick>Andrew</UserNick>
+            <Date>2010-02-24 14:14:00</Date>
+            <Timestamp>1267049640</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Maybe yes if they&#039;re clever &#039;crackers&#039;</Content>
+            <Reference>logic</Reference>
+            <Best>5</Best>
+            <UserId>Az8JInKdaa</UserId>
+            <UserNick>Mads</UserNick>
+            <Date>2010-02-24 14:17:53</Date>
+            <Timestamp>1267049873</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:13:33 PDT 2010 -->

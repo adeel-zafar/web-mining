@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306154443AAjNOWv" type="Answered">
+    <Subject>What are the advantages of Moxier?</Subject>
+    <Content>Moxier came with my phone... what are the advantages of it?
+</Content>
+    <Date>2010-03-06 15:44:43</Date>
+    <Timestamp>1267919083</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306154443AAjNOWv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5ySuFpxNaa</UserId>
+    <UserNick>Miss E</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1gqk-Z0lnAAEC-KFpEBbaIvIwKA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I haven&#039;t used it, but here&#039;s a review of it:
+http://itunes.apple.com/us/app/moxier-wallet/id323284779?mt=8
+
+And the home site of Moxier:
+http://www.moxier.com/
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268307143</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268780707</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I haven&#039;t used it, but here&#039;s a review of it:
+http://itunes.apple.com/us/app/moxier-wallet/id323284779?mt=8
+
+And the home site of Moxier:
+http://www.moxier.com/
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-03-11 03:32:23</Date>
+            <Timestamp>1268307143</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:45:38 PDT 2010 -->

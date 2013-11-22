@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316201003AAgwlSN" type="Answered">
+    <Subject>Help with Firefox toolbar.?</Subject>
+    <Content>My mom was using my computer and when I get on I noticed, that the address bar was gone. So when I hit view to try and fix it I accidentally close my toolbar and I can&#039;t get it back I cant the File,View,Back or any of the other buttons. I can only see most visited and the my bookmarks which luckily I had Yahoo Answers there . I need help quick it&#039;s driving me crazy.
+
+Thanks
+
+P.S first one to help me get it back automatically gets Best Answer.
+</Content>
+    <Date>2010-03-16 20:10:03</Date>
+    <Timestamp>1268795403</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316201003AAgwlSN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eTGebpOHaa</UserId>
+    <UserNick>Annie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Press the ALT. key and it will show you menu bar. Now, click on View&gt; Toolbars &gt; Menu Bar. Then go to the same place and show the Navigation Toolbar.</ChosenAnswer>
+    <ChosenAnswererId>4SfKd4phaa</ChosenAnswererId>
+    <ChosenAnswererNick>Adomian</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268796014</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268845532</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>hm, try booting firefox into safe mode, just go to all programs-&gt; Mozilla Firefox-&gt;Mozilla Firefox(Safe Mode) and just reset all settings, should be good to go</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6ktNzKgSaa</UserId>
+            <UserNick>King Nothing</UserNick>
+            <Date>2010-03-16 20:20:01</Date>
+            <Timestamp>1268796001</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Press the ALT. key and it will show you menu bar. Now, click on View&gt; Toolbars &gt; Menu Bar. Then go to the same place and show the Navigation Toolbar.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>4SfKd4phaa</UserId>
+            <UserNick>Adomian</UserNick>
+            <Date>2010-03-16 20:20:14</Date>
+            <Timestamp>1268796014</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I just did the same thing and the ALT thing worked!  Thanks!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SXp3WiEvaa</UserId>
+            <UserNick>Mrs. Common Sense</UserNick>
+            <Date>2010-03-16 20:55:25</Date>
+            <Timestamp>1268798125</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:46:37 PDT 2010 -->

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225134126AATa4M7" type="Answered">
+    <Subject>hosting a webpage / buying domain?</Subject>
+    <Content>If i buy a domain &quot;www.*****co.uk&quot;    would i have to pay for web hosting aswell?  If i did would i have to buy the domain and host the site with the same company?   if this is the case what companies would people recommend for hosting  a website with not a great deal of data storage needed
+</Content>
+    <Date>2010-02-25 13:41:26</Date>
+    <Timestamp>1267134086</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225134126AATa4M7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RGojRInzaa</UserId>
+    <UserNick>cs.c0sa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>11</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1)If i buy a domain &quot;www.*****co.uk&quot; would i have to pay for web hosting aswell?
+
+NO, but be wary of buyin the 2 seperately. co.uk domain names are registered with NOMINET and you would have to request a transfer via NOMINET to get the domain transfered to the new hosting provider - much l;ess hassle to buy your domain name from your hosting company at the time you set up the hosting.
+
+2) If i did would i have to buy the domain and host the site with the same company?
+
+Again, no but see the answer above - if you dont hopst with the guys that register the domain for you then to transfer it you&#039;ll again have to go via NOMINET and make a request to get it transfered.
+
+3) if this is the case what companies would people recommend for hosting a website with not a great deal of data storage needed
+
+This depends on what technology you used to create your website. is it PHP, JSP and Java or ASP? If JSP and Java I would defo recommend JSPZONE - I have a number of sites hosted with them. Their support is fantastic and its a doddle to register the domain. They do everything for you, all you need to do is deploy your app!!</ChosenAnswer>
+    <ChosenAnswererId>jPC8fCjdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Phil</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267314529</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267368819</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Microsoft Office Live has free web hosting. You can register a domain with them for $15 a year.
+
+You can manage the site hosting and domain registration independently, but it&#039;s more of a pain.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wUyWGZAsaa</UserId>
+            <UserNick>Scott</UserNick>
+            <Date>2010-02-25 13:43:33</Date>
+            <Timestamp>1267134213</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You are correct - buying domain and having a web company host it will cost you twice. They can be different companies. 
+
+Domain names are cheap though. If you buy it off the company you are getting to host your site, you may get an introductory offer.</Content>
+            <Reference>Experience.</Reference>
+            <Best></Best>
+            <UserId>WkpiuMFvaa</UserId>
+            <UserNick>Alan</UserNick>
+            <Date>2010-02-25 13:51:06</Date>
+            <Timestamp>1267134666</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi there,
+
+A domain name is one part of the picture. Once you have a domain name ( www.joe_blow.co.uk) for example you also need a hosting site.
+
+They will have the servers and telephone lines that are always connected so you site will have a &quot;place&quot; online at all times. The host servers will be password protected so only you can change your site. The host should offer e-mail addresses, easy site building, some kind of forms, perhaps templates for making your webpage, etc.
+
+The next thing you would do is make your webpage(s) and upload to your site. The server will give you the URL (web address) and by imputing your password into your FTP client you will be able to upload your webpage to your site. I use Core FTP Lite for uploading/downloading my pages but there are many others that work as well.
+
+In order to make your webpages you will need to learn HTML (at least) and as time goes on you will learn CSS, PHP, Java, etc. I use Compozer, CoffeeCup and notepad for making webpages. These are free downloads but there are other (paid) programs that are probably better.
+
+To answer your question:
+You do not need to use the same company to buy your domain and for web hosting but it will be easier for you. The cost will be about the same either way. You can check the link below for an idea of cost. Many more hosts can be found by searching Google for &quot;web hosting UK&quot;.
+
+Hope this helps,
+Al</Content>
+            <Reference>http://www.freezone.co.uk/      web hosting</Reference>
+            <Best></Best>
+            <UserId>wkLTTr06aa</UserId>
+            <UserNick>Albert W</UserNick>
+            <Date>2010-02-25 14:06:13</Date>
+            <Timestamp>1267135573</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can buy the domain and host the site with seperate companies although it&#039;s just easier to do both with the same company as you can get up and running quickly.
+
+When you buy a domain name you have ownership of it for 2 years. After 2 years you are given the opportunity to renew it or let it expire. The organisation that registers domain names in the UK is called Nominet, however you don&#039;t deal with Nominet, you buy the domain from a company and they deal with Nominet.
+
+When you have your domain name you&#039;ll get a certificate of ownership. The domain name has something called a TAG associated to it. You have control of the TAG and you&#039;ll basically assign the TAG to whatever provider you like to do the hosting.
+
+Let&#039;s say you want to change providers at a later date. You&#039;ll ask your current provider to relinquish the TAG and then the new provider takes ownership of it.
+
+Your hosting provider will provide a server for you to run your site on. You&#039;ll normally pay a monthly fee for hosting to that provider. They&#039;ll provide a server which will be accessible with an IP address.
+
+The domain name you purchase gets pointed at the server you have your site on. When someone types in your domain name they get pointed to your server. If you change providers at a later date the pointer (DNS) gets changed as well.
+
+My recommended host for registration and hosting is Fasthosts:
+
+http://www.fasthosts.co.uk
+
+They&#039;re not the absolute cheapest one available but they&#039;re reasonably priced, reliable and fast.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10834300</UserId>
+            <UserNick>Darren</UserNick>
+            <Date>2010-02-25 14:57:38</Date>
+            <Timestamp>1267138658</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>some hosting companies on this site let you buy international domains.
+
+check out their features list:
+
+http://www.compare-top-web-hosts.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zlrn7S2Caa</UserId>
+            <UserNick>Yoman</UserNick>
+            <Date>2010-02-25 15:52:33</Date>
+            <Timestamp>1267141953</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi,
+I would recommend &quot;Web Hosting Pad&quot; for your Web Hosting because it&#039;s cheap and very reliable.With web hosting, you&#039;ll get free domain. Their support service is awesome. This company offers site building tools, application vault, web mail, antivirus, Php, MysQL ,e-commerce and hosts unlimited websites in one plan. Don&#039;t go for free web hosting.They are not reliable. Check out personal reviews direct from the users here :
+
+http://top50webhosting.org</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jMT66bVkaa</UserId>
+            <UserNick>Jennifer</UserNick>
+            <Date>2010-02-26 04:53:09</Date>
+            <Timestamp>1267188789</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Choose the right hosting plan based on the type of business.
+The 10 main characteristics you need to think before you choose the right web hosting plan for your type of business are 
+1.Disk Space: A measure of the quantity of a Web server&#039;s storage space allocated to each Web hosting customer.
+2.Control Panel: Interface provided by the hosting company for the maintenance and monitoring of the hosted website.
+3.Domain : A domain name is the name of a person&#039;s or organization&#039;s website on the Internet.
+4.SSL Certificate: The Secure Sockets Layer (SSL) is for managing the security of a message transmission on the Internet.
+5.Site Builder: If you don’t have any idea of how to build your website, your web hosting plan should help you do so.
+6.24 x 7  Support : A dedicated team to deal with technical questions and problems with the software system
+7.Dedicated IP: If you are planning to host your site on any dedicated IP address then its location never changes. 
+8.Uptime: It is the percentage of time that your website will be viewable.
+9.Bandwidth: If you are planning for a website that will attract a number of visitors and would involve a lot of downloading or uploading then you need to choose a Web Host plan that comes with Unlimited Bandwidth.
+10.Email Accounts: It is the number of email accounts permitted for hosting plan. For Example :yourname@yourdomain.com
+
+If you are trying to make a professional dynamic website where you get 1000’s of visitors everyday  then you will definitely need a good amount of Disk space(mostly unlimited), unlimited domains, unlimited bandwidth, databases, SSL Certificate and unlimited email accounts.
+
+If you are trying to build a static website for your company, you need lesser (unless you have plans to expand your website), a single email account to help you out with a contact form and also a Site Builder tool to help you out design simple web pages.
+http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=christeve</Content>
+            <Reference>http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=christeve</Reference>
+            <Best></Best>
+            <UserId>MjkVIfrbaa</UserId>
+            <UserNick>christene</UserNick>
+            <Date>2010-02-27 02:45:18</Date>
+            <Timestamp>1267267518</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>hi
+Now a days most webmasters are using IP because less expensive and reliable service
+--------------------
+topwebhostingslist.com
+--------------------
+Good luck........</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>auDFm9jyaa</UserId>
+            <UserNick>Rymond</UserNick>
+            <Date>2010-02-27 05:23:15</Date>
+            <Timestamp>1267276995</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>use http://www.JuicyHosting.com or http://www.LocoDomains.com , they both are very good</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Cee7HloUaa</UserId>
+            <UserNick>Molly</UserNick>
+            <Date>2010-02-27 07:16:58</Date>
+            <Timestamp>1267283818</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1)If i buy a domain &quot;www.*****co.uk&quot; would i have to pay for web hosting aswell?
+
+NO, but be wary of buyin the 2 seperately. co.uk domain names are registered with NOMINET and you would have to request a transfer via NOMINET to get the domain transfered to the new hosting provider - much l;ess hassle to buy your domain name from your hosting company at the time you set up the hosting.
+
+2) If i did would i have to buy the domain and host the site with the same company?
+
+Again, no but see the answer above - if you dont hopst with the guys that register the domain for you then to transfer it you&#039;ll again have to go via NOMINET and make a request to get it transfered.
+
+3) if this is the case what companies would people recommend for hosting a website with not a great deal of data storage needed
+
+This depends on what technology you used to create your website. is it PHP, JSP and Java or ASP? If JSP and Java I would defo recommend JSPZONE - I have a number of sites hosted with them. Their support is fantastic and its a doddle to register the domain. They do everything for you, all you need to do is deploy your app!!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>jPC8fCjdaa</UserId>
+            <UserNick>Phil</UserNick>
+            <Date>2010-02-27 15:48:49</Date>
+            <Timestamp>1267314529</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You got buy a web hosting plan to host your website or at least have a parking page for your domain name. I&#039;d recommend you to try iPage. They are reliable and fast: http://www.webhostingbreak.com/ipage/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MFEF7JMSaa</UserId>
+            <UserNick>Dan</UserNick>
+            <Date>2010-02-28 03:37:08</Date>
+            <Timestamp>1267357028</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:56:12 PDT 2010 -->

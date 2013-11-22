@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313115808AAQnPG8" type="Answered">
+    <Subject>Why do so many online movie sites require things when so many others are free?</Subject>
+    <Content>some wont let you watch movies unless you sign up, buy, take a survey, etc.
+others are completely free and might even have better quality.   does anyone know why this is?
+</Content>
+    <Date>2010-03-13 11:58:08</Date>
+    <Timestamp>1268510288</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313115808AAQnPG8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>40YWM2ufaa</UserId>
+    <UserNick>Mandy</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1yaCp8KgGAAED3QRGpmJYDA==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>that would be because some are legal (those you have to pay) and some are not</ChosenAnswer>
+    <ChosenAnswererId>TaCgMs3daa</ChosenAnswererId>
+    <ChosenAnswererNick>Zac P</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268510388</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268541871</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>that would be because some are legal (those you have to pay) and some are not</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>TaCgMs3daa</UserId>
+            <UserNick>Zac P</UserNick>
+            <Date>2010-03-13 11:59:48</Date>
+            <Timestamp>1268510388</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>its all about making money, they pay for storage and bandwidth, others are doing for fun</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oXXc2LmNaa</UserId>
+            <UserNick>John S</UserNick>
+            <Date>2010-03-13 12:00:09</Date>
+            <Timestamp>1268510409</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The free ones are ad supported 
+Enjoy all the spyware you get from them</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UnlqJgXIaa</UserId>
+            <UserNick>pappy12a</UserNick>
+            <Date>2010-03-13 12:00:37</Date>
+            <Timestamp>1268510437</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:03:48 PDT 2010 -->

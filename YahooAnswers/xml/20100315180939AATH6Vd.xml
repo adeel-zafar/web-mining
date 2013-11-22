@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315180939AATH6Vd" type="Answered">
+    <Subject>How do I clear Proxy Configurations on Firefox?</Subject>
+    <Content>I am using proxyway and I no longer want it, so how can I get rid of the configurations it has on firefox? And no, uninstalling dosen&#039;t work.
+</Content>
+    <Date>2010-03-15 18:09:39</Date>
+    <Timestamp>1268701779</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315180939AATH6Vd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mBqv2Ztzaa</UserId>
+    <UserNick>Yesterday</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>See the link below. It gives detailed steps.
+
+http://www.surfbouncer.com/personal_vpn_proxy.htm</ChosenAnswer>
+    <ChosenAnswererId>QHdEwZEBaa</ChosenAnswererId>
+    <ChosenAnswererNick>ds</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268849179</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269283426</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>click in tools --&gt; options--&gt;advanced--&gt;network---&gt;settings --&gt; no proxy  
+
+ rate you friend A+++</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Eo96h3qmaa</UserId>
+            <UserNick>Romantico</UserNick>
+            <Date>2010-03-15 18:15:30</Date>
+            <Timestamp>1268702130</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>See the link below. It gives detailed steps.
+
+http://www.surfbouncer.com/personal_vpn_proxy.htm</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>QHdEwZEBaa</UserId>
+            <UserNick>ds</UserNick>
+            <Date>2010-03-17 11:06:19</Date>
+            <Timestamp>1268849179</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:06 PDT 2010 -->

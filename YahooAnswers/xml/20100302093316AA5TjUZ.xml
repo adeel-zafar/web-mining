@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302093316AA5TjUZ" type="Answered">
+    <Subject>What does &quot;Http/1.1 Service Unavailable&quot; mean?</Subject>
+    <Content>Keeps happening when I try to go to anything with youtube. I just cleared my cookies and still happening. Perhaps it&#039;ll go away eventually?
+</Content>
+    <Date>2010-03-02 09:33:16</Date>
+    <Timestamp>1267551196</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302093316AA5TjUZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6iY0xJaYaa</UserId>
+    <UserNick>^__^ ~hi</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b591367i132fzul8re4/Cd.lVLs3eqh.WWofHdgKQ4Jq0Q--/1/tn48.jpg?ciAAToMBUgxWWZ_s</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you know the same exact
+thing is happening with me right now.
+it means the website is down for maintence 
+it usually fixes itself in about an hour or so. because no working website means no business and we know how YouTube is...:)</ChosenAnswer>
+    <ChosenAnswererId>RSceohqNaa</ChosenAnswererId>
+    <ChosenAnswererNick>01Everything</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267551862</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267797100</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i&#039;m having the same problem.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA12344116</UserId>
+            <UserNick>tanya m</UserNick>
+            <Date>2010-03-02 09:43:18</Date>
+            <Timestamp>1267551798</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you know the same exact
+thing is happening with me right now.
+it means the website is down for maintence 
+it usually fixes itself in about an hour or so. because no working website means no business and we know how YouTube is...:)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RSceohqNaa</UserId>
+            <UserNick>01Everything</UserNick>
+            <Date>2010-03-02 09:44:22</Date>
+            <Timestamp>1267551862</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, it is happening to me too. I believe it is down to maintence. Which sucks because I&#039;m sick and bored today, wanted to watch some videos on my day off.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MSixciZTaa</UserId>
+            <UserNick>☮</UserNick>
+            <Date>2010-03-02 09:47:01</Date>
+            <Timestamp>1267552021</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>don&#039;t worry, i was just about to ask the same thing....... it keeps happening to me on youtube at the moment.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xUxEtQxXaa</UserId>
+            <UserNick>CR</UserNick>
+            <Date>2010-03-02 09:48:10</Date>
+            <Timestamp>1267552090</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yeah mines doing it too, its driving me mad!!! When you do finally get it working check this out!!.... http://www.youtube.com/watch?v=hTt9Smdibms</Content>
+            <Reference>meeee</Reference>
+            <Best></Best>
+            <UserId>8ChJLuTlaa</UserId>
+            <UserNick>Claros1983</UserNick>
+            <Date>2010-03-02 09:51:43</Date>
+            <Timestamp>1267552303</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That is an internal error on the server. To know more about it please visit the following link
+http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html</Content>
+            <Reference>http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html</Reference>
+            <Best></Best>
+            <UserId>r8IhWozCaa</UserId>
+            <UserNick>Afghan Lord</UserNick>
+            <Date>2010-03-02 09:51:50</Date>
+            <Timestamp>1267552310</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:26:24 PDT 2010 -->

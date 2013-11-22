@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225194722AAwJiNn" type="Answered">
+    <Subject>How do I activate autocomplete (forms, etc) in Firefox 3.6 ?</Subject>
+    <Content>I want to use the autocomplete function but I cant find how to turn it on. Help!
+</Content>
+    <Date>2010-02-25 19:47:22</Date>
+    <Timestamp>1267156042</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225194722AAwJiNn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11268427</UserId>
+    <UserNick>Dixie Chick</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>download plgins from http://www.mozilla.com/en-US/firefox/personal.html</ChosenAnswer>
+    <ChosenAnswererId>3Yluz4Yiaa</ChosenAnswererId>
+    <ChosenAnswererNick>RAryan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267461032</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267675512</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>download plgins from http://www.mozilla.com/en-US/firefox/personal.html</Content>
+            <Reference>Aryan</Reference>
+            <Best>5</Best>
+            <UserId>3Yluz4Yiaa</UserId>
+            <UserNick>RAryan</UserNick>
+            <Date>2010-03-01 08:30:32</Date>
+            <Timestamp>1267461032</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:53:51 PDT 2010 -->

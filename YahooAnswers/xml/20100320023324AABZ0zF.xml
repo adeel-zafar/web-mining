@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320023324AABZ0zF" type="Answered">
+    <Subject>better than way back machine archive.org?</Subject>
+    <Content>so, i used to have a profile with blogs and videos and images that i would update often.
+trying to look back and retrieve them, i used archive.org but found it only picked up about 4 &#039;versions&#039; and therefore am missing additional things i was forever changing on a weekly basis basically!
+
+how can i get far more detailed and comprehensive views of my now non-existent web page profile?
+thanks for the tip - i know sometimes Googling does work and you can just view the cached version.. but not always i guess :(
+</Content>
+    <Date>2010-03-20 02:33:24</Date>
+    <Timestamp>1269077604</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320023324AABZ0zF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ltBj0gbeaa</UserId>
+    <UserNick>hello</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1Bcy51kmcAAEC-GEyUeLvDQ==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>google it</ChosenAnswer>
+    <ChosenAnswererId>3L5ucj1Raa</ChosenAnswererId>
+    <ChosenAnswererNick>Tony</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269077962</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269597180</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>google it</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-20 02:39:22</Date>
+            <Timestamp>1269077962</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:32:29 PDT 2010 -->

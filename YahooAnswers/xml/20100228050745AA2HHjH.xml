@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228050745AA2HHjH" type="Answered">
+    <Subject>question about amazon.com ...?</Subject>
+    <Content>hi,
+on this website i have won a $10 amazon gift card.
+but i am from the uk.
+does any body know if this can be redeemed on amazon.co.uk ?
+
+thanks x
+</Content>
+    <Date>2010-02-28 05:07:45</Date>
+    <Timestamp>1267362465</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228050745AA2HHjH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6hc4TJsOaa</UserId>
+    <UserNick>Rosiie ♥&#039;s Chris Brown &amp; MJ</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b71c8e6i1704zul4re4/ZCKZrAUjdLVSJfbBNtqXxHPLuh0-/1/tn48.jpg?ciAAToMBXbzFZi5I</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I wouldn&#039;t have thought so because of the currency difference.
+
+You only option is to email the Help Desk on the UK site and ask them. 
+
+They will give you a definite answer as to whether you can or not.</ChosenAnswer>
+    <ChosenAnswererId>WeZcSZvKaa</ChosenAnswererId>
+    <ChosenAnswererNick>sewrobb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267365649</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267391830</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>YES</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0OmsaHL2aa</UserId>
+            <UserNick>Andrew</UserNick>
+            <Date>2010-02-28 05:08:59</Date>
+            <Timestamp>1267362539</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you are willing to risk it that is up to you but I would think twice as it could be scam of sorts etc</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>591b77d7ae26d60c71a35357bfe9873aaa</UserId>
+            <UserNick>fytp</UserNick>
+            <Date>2010-02-28 05:54:01</Date>
+            <Timestamp>1267365241</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I wouldn&#039;t have thought so because of the currency difference.
+
+You only option is to email the Help Desk on the UK site and ask them. 
+
+They will give you a definite answer as to whether you can or not.</Content>
+            <Reference>Experienced1</Reference>
+            <Best>3</Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-02-28 06:00:49</Date>
+            <Timestamp>1267365649</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:39:34 PDT 2010 -->

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221180604AAfYuwM" type="Answered">
+    <Subject>Paypal questions for other sellers?</Subject>
+    <Content>Not very computer savvy and have a few Q&#039;s about paypal.  
+
+1.  If I am a seller, do I only get charged when I sell something or is there a fee just to have a paypal account?  If so, what is the fee?  Is this why I needed to supply my credit card number or is it taken directly out of the payment I receive?
+
+2.  Are payments received immediately, or do they take a few days to process?
+
+Also, for other online sellers, I&#039;m wondering, if I sell something &quot;made to order&quot; because they seen one of my products on an on-line site (example: they need a different size or color than the one already made and for sale), am I still liable to pay that site a percentage of the sale on that item? 
+
+Sorry for my ignorance!  This is all so new to me.  
+
+Thanks for your help!
+</Content>
+    <Date>2010-02-21 18:06:04</Date>
+    <Timestamp>1266804364</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221180604AAfYuwM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>EksQFhd5aa</UserId>
+    <UserNick>Sarah</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1GxAt0OzMAAED5AzYBW8=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You only give paypal a percentage of money transacted via the service.  For example, ebay/paypal may take about 5% of a final transaction price for service fees.
+
+They ask for your card number to identify you and know where to send payment that you receive through the service.
+
+Payments are often immediate.
+
+You are only liable to pay a percentage for the services used in the transaction.  If they bought specifically from a website, they used that service and they would take a percent.  If you paid via paypal, paypal would also take a percentage.</ChosenAnswer>
+    <ChosenAnswererId>AA11414206</ChosenAnswererId>
+    <ChosenAnswererNick>elpasi2</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266804540</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266839684</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You only give paypal a percentage of money transacted via the service.  For example, ebay/paypal may take about 5% of a final transaction price for service fees.
+
+They ask for your card number to identify you and know where to send payment that you receive through the service.
+
+Payments are often immediate.
+
+You are only liable to pay a percentage for the services used in the transaction.  If they bought specifically from a website, they used that service and they would take a percent.  If you paid via paypal, paypal would also take a percentage.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11414206</UserId>
+            <UserNick>elpasi2</UserNick>
+            <Date>2010-02-21 18:09:00</Date>
+            <Timestamp>1266804540</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>paypal is a trusted middle man, he collects the item and the money first then he emails both parties asking you if you want the item, once thats done he delivers the cash to the seller</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>9W12ZE5Caa</UserId>
+            <UserNick>cimmic13</UserNick>
+            <Date>2010-02-21 18:10:31</Date>
+            <Timestamp>1266804631</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:32:22 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225050727AAJiOmT" type="Answered">
+    <Subject>How   can   you   solve   this   ????????</Subject>
+    <Content>tell   me   how   to   connect   Nokia   E63   to   bsnl   broadband   through   wifi.   My   bsnl   router   is   wireless
+</Content>
+    <Date>2010-02-25 05:07:27</Date>
+    <Timestamp>1267103247</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225050727AAJiOmT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d5a1aac500ce3c542d55f0deca57cb86aa</UserId>
+    <UserNick>Rajchem</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sorry, your phone has no other way to connect.  Since the router has no wireless, it would be like trying to connect your phone to a toaster.  You will NEED a wireless access point (such as a wireless capable router) in order to connect properly.</ChosenAnswer>
+    <ChosenAnswererId>f841afbad67e2febaf16f5f41aea6d1eaa</ChosenAnswererId>
+    <ChosenAnswererNick>Marvinator</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267103691</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267622646</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sorry, your phone has no other way to connect.  Since the router has no wireless, it would be like trying to connect your phone to a toaster.  You will NEED a wireless access point (such as a wireless capable router) in order to connect properly.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>f841afbad67e2febaf16f5f41aea6d1eaa</UserId>
+            <UserNick>Marvinator</UserNick>
+            <Date>2010-02-25 05:14:51</Date>
+            <Timestamp>1267103691</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:59:22 PDT 2010 -->

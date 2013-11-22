@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317162815AA8oj2K" type="Answered">
+    <Subject>connect internet upstairs?</Subject>
+    <Content>we have the little comcaast box downstairs that we have a lap top plugged up to. I want to have internet upstairs on my computer. we don&#039;t have wireless how can i connect the one upstairs?
+</Content>
+    <Date>2010-03-17 16:28:15</Date>
+    <Timestamp>1268868495</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317162815AA8oj2K</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>31C8zZxVaa</UserId>
+    <UserNick>help</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Comcast does have long cables that could make it upstairs (depends how far away that is) so you could buy one and the might install it threw the wall</ChosenAnswer>
+    <ChosenAnswererId>8307482jaa</ChosenAnswererId>
+    <ChosenAnswererNick>Robert</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268868646</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269387955</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You don&#039;t have wireless you won&#039;t connect.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yQlkwX6Aaa</UserId>
+            <UserNick>Karl S</UserNick>
+            <Date>2010-03-17 16:30:14</Date>
+            <Timestamp>1268868614</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Comcast does have long cables that could make it upstairs (depends how far away that is) so you could buy one and the might install it threw the wall</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>8307482jaa</UserId>
+            <UserNick>Robert</UserNick>
+            <Date>2010-03-17 16:30:46</Date>
+            <Timestamp>1268868646</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>unless you have a really long cable you will need a wirless router. 
+
+also if your computer does not have wirless internet capabalities you will need to get a wirless network adapter. i have one of these and they are real easy to use you just plug them into a usb port.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LNIu8Cfaaa</UserId>
+            <UserNick>mason</UserNick>
+            <Date>2010-03-17 16:31:16</Date>
+            <Timestamp>1268868676</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:42:58 PDT 2010 -->

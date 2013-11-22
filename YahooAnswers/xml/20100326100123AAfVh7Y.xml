@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326100123AAfVh7Y" type="Answered">
+    <Subject>what is the difference between URL and Web Address?</Subject>
+    <Content>thanks in advance
+</Content>
+    <Date>2010-03-26 10:01:23</Date>
+    <Timestamp>1269622883</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326100123AAfVh7Y</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1vfuvbmvaa</UserId>
+    <UserNick>Karan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>8</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>URL stands for Uniform Resource Locator. A URL is the Internet address of a particular site or document available via the World Wide Web.URLs are composed of the Internet protocol used to access the document or site you are trying to reach, the Internet address of the &quot;host computer,&quot; on which the document you want is stored, the directory path on the host computer that will take you to the exact file you are trying to retrieve, and the name of the file you are trying to retrieve. 
+A Web Address is like a memorable street address, can help people find you online. This is a unique address that identifies a website. Is a unique string of letters or characters that identify your specific place on the internet such as www.myquestions.com</ChosenAnswer>
+    <ChosenAnswererId>T3FXvUTsaa</ChosenAnswererId>
+    <ChosenAnswererNick>♥ Skinny ♥ ♥ Mini Me ♥</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269622996</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269757078</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No difference.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>X6rL5gs1aa</UserId>
+            <UserNick>sean</UserNick>
+            <Date>2010-03-26 10:02:55</Date>
+            <Timestamp>1269622975</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>URL stands for Uniform Resource Locator. A URL is the Internet address of a particular site or document available via the World Wide Web.URLs are composed of the Internet protocol used to access the document or site you are trying to reach, the Internet address of the &quot;host computer,&quot; on which the document you want is stored, the directory path on the host computer that will take you to the exact file you are trying to retrieve, and the name of the file you are trying to retrieve. 
+A Web Address is like a memorable street address, can help people find you online. This is a unique address that identifies a website. Is a unique string of letters or characters that identify your specific place on the internet such as www.myquestions.com</Content>
+            <Reference>http://answers.yahoo.com/question/index?qid=20080802184300AAxsdyh</Reference>
+            <Best>3</Best>
+            <UserId>T3FXvUTsaa</UserId>
+            <UserNick>skinnymini is me and me is happy</UserNick>
+            <Date>2010-03-26 10:03:16</Date>
+            <Timestamp>1269622996</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>nothing</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oec75xT0aa</UserId>
+            <UserNick>jay</UserNick>
+            <Date>2010-03-26 10:03:16</Date>
+            <Timestamp>1269622996</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>spelling difference</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>doWLD40oaa</UserId>
+            <UserNick>donhere</UserNick>
+            <Date>2010-03-26 10:04:25</Date>
+            <Timestamp>1269623065</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>They mean the same thing.  They are both names need to be resolved by the DNS.
+
+Dane</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>maI66F3Faa</UserId>
+            <UserNick>TaKe.Me.DoWn?_Try.iT!</UserNick>
+            <Date>2010-03-26 10:07:45</Date>
+            <Timestamp>1269623265</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>URL -Uniform Resource Locator. A URL is the Internet address of a particular site or document 
+and the web add. www - World Wide Web
+url just like a database of www
+when we download a file from any site the link which providing thet file is URL link</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MbL8s7gQaa</UserId>
+            <UserNick>Abhishek</UserNick>
+            <Date>2010-03-26 10:14:32</Date>
+            <Timestamp>1269623672</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nothing. It is just another name for a domain name i.e. a www.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qDKlH7MMaa</UserId>
+            <UserNick>Ian Spencer</UserNick>
+            <Date>2010-03-26 10:36:52</Date>
+            <Timestamp>1269625012</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Both helps in gettin web site. URL stan</Content>
+            <Reference>i m a student</Reference>
+            <Best></Best>
+            <UserId>r5I9EXQVaa</UserId>
+            <UserNick>nimesh c</UserNick>
+            <Date>2010-03-26 11:01:48</Date>
+            <Timestamp>1269626508</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:46 PDT 2010 -->

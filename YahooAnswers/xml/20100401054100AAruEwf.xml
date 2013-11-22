@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401054100AAruEwf" type="Answered">
+    <Subject>why do GIF&#039;s that i&#039;ve saved open in internet explorer when i click on them?</Subject>
+    <Content>from the website i went 
+right click -&gt; save picture as..
+and when i go to view it, it opens up with internet explorer instead of the normal picture viewer. how do i save the actual thing onto my computer?
+
+thanks
+</Content>
+    <Date>2010-04-01 05:41:00</Date>
+    <Timestamp>1270125660</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401054100AAruEwf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7htMM7Jeaa</UserId>
+    <UserNick>GTlove</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you are using Vista or 7, you have to change the default program by right clicking on it, then to properties, then next to opens with click change, and when selecting the program like Windows live gallery, make sure the always use selected program option is checked near the bottom left of the window.  Note: Animated gifs will not animate in any of the Vista or 7 default programs except in Internet Explorer, otherwise install a gif viewing program. 
+
+If using XP or older, change the default program just like Vista or 7 as stated in the previous paragraph. Animated gifs will animate in windows picture and fax viewer.</ChosenAnswer>
+    <ChosenAnswererId>0393124fdaad55ef44b7230d342cb17eaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gotta Lotta Nerve</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270126413</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270176803</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It is saved on your computer. You just need to tell Windows which program to open it with. Go to Windows Explorer, Click Tools, Folder Options and then click File Types Tag. Scroll to find .gif and then click Change in the open with section. The select the program you want to open gifs with and voila!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vQf7nz0maa</UserId>
+            <UserNick>Chris</UserNick>
+            <Date>2010-04-01 05:44:00</Date>
+            <Timestamp>1270125840</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you are using Vista or 7, you have to change the default program by right clicking on it, then to properties, then next to opens with click change, and when selecting the program like Windows live gallery, make sure the always use selected program option is checked near the bottom left of the window.  Note: Animated gifs will not animate in any of the Vista or 7 default programs except in Internet Explorer, otherwise install a gif viewing program. 
+
+If using XP or older, change the default program just like Vista or 7 as stated in the previous paragraph. Animated gifs will animate in windows picture and fax viewer.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0393124fdaad55ef44b7230d342cb17eaa</UserId>
+            <UserNick>Gotta Lotta Nerve</UserNick>
+            <Date>2010-04-01 05:53:33</Date>
+            <Timestamp>1270126413</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:45 PDT 2010 -->

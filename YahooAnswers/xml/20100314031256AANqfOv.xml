@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314031256AANqfOv" type="Answered">
+    <Subject>Problem with chatroulette?</Subject>
+    <Content>When it says video is enabled, about 90% of the time the other persons webcam spot is black and nothing shows up. I ticked the box that enables to receive webcam.
+
+When a webcam does show up it only works for about a second then appears to pause, it&#039;s not as if my browser is freezing up, computer is fine. I would say my internet connection is slow, but that doesn&#039;t seem right either as I can usually watch videos on youtube and they load about twice as fast as they play.
+
+Is this a website problem then?
+</Content>
+    <Date>2010-03-14 03:12:56</Date>
+    <Timestamp>1268561576</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314031256AANqfOv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GvDYpdtEaa</UserId>
+    <UserNick>Maverick</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1b3DXAj-zAAEC_MEmok91Cg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>just means they don&#039;t have a webcam</ChosenAnswer>
+    <ChosenAnswererId>NSs0xFGiaa</ChosenAnswererId>
+    <ChosenAnswererNick>eaanni</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268561631</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269057779</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>just means they don&#039;t have a webcam</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NSs0xFGiaa</UserId>
+            <UserNick>eaanni</UserNick>
+            <Date>2010-03-14 03:13:51</Date>
+            <Timestamp>1268561631</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Mine does the same thing. I have not figured it out yet.
+May be the their server is over loaded.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZwDYgmEUaa</UserId>
+            <UserNick>anick</UserNick>
+            <Date>2010-03-14 10:18:45</Date>
+            <Timestamp>1268587125</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It means the user is not using a webcam of that is webcam is not enabled. You can try Facebuzz.com. Most of the people there are using a webcam! Also, it&#039;s a bit faster!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>psRYykL7aa</UserId>
+            <UserNick>Dada</UserNick>
+            <Date>2010-03-15 13:02:29</Date>
+            <Timestamp>1268683349</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:00:55 PDT 2010 -->

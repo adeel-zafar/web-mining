@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327222157AAqPfPd" type="Answered">
+    <Subject>Has Amazon messed up your order?</Subject>
+    <Content>I had a trip to Florida in a week, and i decided to order a new screen protector for my iphone 3g.  Today, the day before the trip, i received the order, only to find out that they put the ipod touch 2g screen protector instead of the iphone 3g screen protector.  I have checked my receipt and it says I ordered the right one.  So, has Amazon messed up your order?
+</Content>
+    <Date>2010-03-27 22:21:57</Date>
+    <Timestamp>1269753717</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327222157AAqPfPd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jcO9i0mTaa</UserId>
+    <UserNick>...</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Nope, never. but, I have only ordered 3 things, so...</ChosenAnswer>
+    <ChosenAnswererId>onYUJE4vaa</ChosenAnswererId>
+    <ChosenAnswererNick>lauren,(:</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269754307</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270272902</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Nope, never. but, I have only ordered 3 things, so...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>onYUJE4vaa</UserId>
+            <UserNick>lauren,(:</UserNick>
+            <Date>2010-03-27 22:31:47</Date>
+            <Timestamp>1269754307</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:27 PDT 2010 -->

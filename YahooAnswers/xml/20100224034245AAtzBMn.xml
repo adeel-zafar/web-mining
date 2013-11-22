@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224034245AAtzBMn" type="Answered">
+    <Subject>please help internet firefox problem?</Subject>
+    <Content>ok well i recently downloaded the new firefox (firefox 3.6) btw im not on ir ryt now ;D ok on with the question so yeah i recently downloaded it and when i write in some thing (e.g www.google.com) and press enter nothing happens the page just reloads and doesn&#039;t load anything at all i know its confusing like it says (untitled) and that&#039;s all that happens i keep pressing enter but the startup page doesn&#039;t even load plz help if u understand what im saying :]
+-emy
+it also says connection refused?
+</Content>
+    <Date>2010-02-24 03:42:45</Date>
+    <Timestamp>1267011765</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224034245AAtzBMn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fru9g8Wuaa</UserId>
+    <UserNick>x-l0v3-x</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1cF6FmIozAAED4QSDBl4=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Where are you typing the URL?  In the Navigation bar, or in Google search?
+
+Direct URLs should be typed in the Navigation bar /address bar at the top.
+
+&quot;Untitled&quot; sounds like you have opened a blank page using the &quot;Open a new Tab&quot; button, just close that tab by clicking on the X to close it on the (Untitled) tab.</ChosenAnswer>
+    <ChosenAnswererId>hE5UmCcRaa</ChosenAnswererId>
+    <ChosenAnswererNick>B K</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267012363</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267612351</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>first of all .does it load in IE or atleast any other browser ? if not, check your connection.
+also if you are using a network, you may have to configure settings of firefox accordingly.OPTIONS-&gt;ADVANCED-&gt;NETWORK SETTINGS.
+configure referring to internet options in control panel .
+other than this firefox itself will NEVER create any problems. millions are using it.
+
+anyways try google chrome for a change...!
+hope it helps...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VbhXTKO8aa</UserId>
+            <UserNick>dev</UserNick>
+            <Date>2010-02-24 03:48:01</Date>
+            <Timestamp>1267012081</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Where are you typing the URL?  In the Navigation bar, or in Google search?
+
+Direct URLs should be typed in the Navigation bar /address bar at the top.
+
+&quot;Untitled&quot; sounds like you have opened a blank page using the &quot;Open a new Tab&quot; button, just close that tab by clicking on the X to close it on the (Untitled) tab.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>hE5UmCcRaa</UserId>
+            <UserNick>B K</UserNick>
+            <Date>2010-02-24 03:52:43</Date>
+            <Timestamp>1267012363</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:15:17 PDT 2010 -->

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315193820AASTyeW" type="Answered">
+    <Subject>i have an internet connection but internet explorer wont work, help?</Subject>
+    <Content>when i open up internet explorer it says &quot;this page cannot be displayed&quot; but i can sign into msn messenger, i dont understand why i cant use internet explorer, any ideas?
+i tried to download mozila but u need a browser to download another one
+</Content>
+    <Date>2010-03-15 19:38:20</Date>
+    <Timestamp>1268707100</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315193820AASTyeW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>EutGR1owaa</UserId>
+    <UserNick>joshua m</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49ba42dei1bbbzul1sp1/llmDd0E8Iqdv9zN7sw--/1/tn48.jpg?ciAAToMBi98S2u9C</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>ping some numerical IP address and see if works. 
+
+eg: ping 66.249.91.104
+
+If it works, you just need to fix your nameserver addresses. You most likely made a typographical error when entering them or something. Or maybe you have DHCP enabled in your OS but turned off in your router or something trivial like that.</ChosenAnswer>
+    <ChosenAnswererId>IbxhRebgaa</ChosenAnswererId>
+    <ChosenAnswererNick>cen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268707248</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269489915</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>ping some numerical IP address and see if works. 
+
+eg: ping 66.249.91.104
+
+If it works, you just need to fix your nameserver addresses. You most likely made a typographical error when entering them or something. Or maybe you have DHCP enabled in your OS but turned off in your router or something trivial like that.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>IbxhRebgaa</UserId>
+            <UserNick>cen</UserNick>
+            <Date>2010-03-15 19:40:48</Date>
+            <Timestamp>1268707248</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>download Firefox. it is much better than explorer and its free, and much more user friendly, u can customize it however you want. 
+http://www.mozilla.com/en-US/firefox/upgrade.html
+http://www.mozilla.com
+
+--P. Swain</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10208203</UserId>
+            <UserNick>P. SWAIN</UserNick>
+            <Date>2010-03-15 19:48:24</Date>
+            <Timestamp>1268707704</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try to restore your computer back before it happened. If all fails use your software to reboot. If you delete that file it will cost you about $125 to buy it at Office Max, etc because its not a free down load</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>V3MqtGN4aa</UserId>
+            <UserNick>USA Male</UserNick>
+            <Date>2010-03-15 19:53:38</Date>
+            <Timestamp>1268708018</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:53 PDT 2010 -->

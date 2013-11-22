@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308164127AAxgZEa" type="Answered">
+    <Subject>cannot get on internet-spydomain blocks me each time?</Subject>
+    <Content>When I request a website or try to go to a favorite site, it blocks my internet page and says window is not responding, anmd at bottom of page it shows on toolbar (spydomain.com)  Do I have a virus? I have rebooted and shut down to no avail, Everytime I try to get on internet my page is blocked. Can you help me?
+</Content>
+    <Date>2010-03-08 16:41:27</Date>
+    <Timestamp>1268095287</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308164127AAxgZEa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SCRSl47laa</UserId>
+    <UserNick>jimmyk</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yes I can. will I? maybe...delete the spydomain thing before going online</ChosenAnswer>
+    <ChosenAnswererId>Tsye1UAJaa</ChosenAnswererId>
+    <ChosenAnswererNick>Akmed</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268095394</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268716378</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yes I can. will I? maybe...delete the spydomain thing before going online</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Tsye1UAJaa</UserId>
+            <UserNick>Akmed</UserNick>
+            <Date>2010-03-08 16:43:14</Date>
+            <Timestamp>1268095394</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Unfortunately, I cannot offer a solution. I&#039;ve experienced the same problem today. This happened after the AntiVir malware infected my computer yesterday. A couple of antivirus programs failed to detect any problem with IE 7. I tried two workarounds, both without any result. 1. Removing and re-adding the IE component to Windows using &quot;Set Program Access and Defaults.&quot; 2. Downloading IE 7 from Microsoft (the existing copy was first removed by the download process). One of the two antivirus programs scanned the entire disk, without detecting any problem. A co-worker copied an executable to another machine on the LAN (which fortunately was mapped on my PC) that installed a different browser (Firefox). This browser does not exhibit the problem. Previously I had tried without success to download browsers and antivirus programs from the Internet. This very symptom prevented me from doing so.</Content>
+            <Reference>My own experience
+See also: http://www.spywarevoid.com/remove-antivir-antivir-removal-tutorial.html#manual_removal</Reference>
+            <Best></Best>
+            <UserId>Y1h70OQCaa</UserId>
+            <UserNick>Adrian</UserNick>
+            <Date>2010-03-08 17:09:43</Date>
+            <Timestamp>1268096983</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:29:13 PDT 2010 -->

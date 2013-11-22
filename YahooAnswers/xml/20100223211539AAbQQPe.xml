@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223211539AAbQQPe" type="Answered">
+    <Subject>&quot;internet explorer could not open the search page&quot; problem?</Subject>
+    <Content>When I try to go to a website on internet explorer it says &quot;internet explorer could not open the search page&quot; my internet is connected, firefox works perfectly fine. Ive checked my internet settings on ie and its all seems good. But i cant get it to work, and also my itunes music store wont connect either, and i cant upload anything to firefox, it just says error on the site. Ive have this problem once before but i cant remember what i did to fix it.
+</Content>
+    <Date>2010-02-23 21:15:39</Date>
+    <Timestamp>1266988539</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223211539AAbQQPe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>q3eFQvA7aa</UserId>
+    <UserNick>Kyle</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1NO0L9wf5AAECW4E_kArdol9sEw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>May be you have used an antifilter or proxy , and forgot to turn back the proxy settings in your browser?
+
+For IE, Go to Tools| Internet Options|  Connections | Settings (or Lan Settings, if you work on a network) 
+
+Then remove the checkmark from the first checkbox in Proxy Server section. Then press OK twice.
+
+Good Luck</ChosenAnswer>
+    <ChosenAnswererId>JLr3UcEHaa</ChosenAnswererId>
+    <ChosenAnswererNick>MS</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266999309</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267508071</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Reyart PC in safe mode by tapping F-8 key choosing &quot;Last Known Good Configuration&quot; from menu. Next download, update, run Malwarebytes, ccleaner, Reset IE8 to Default in Options, Advanced and Restart PC...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/ccleaner/?tag=mncol</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-23 21:38:20</Date>
+            <Timestamp>1266989900</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>May be you have used an antifilter or proxy , and forgot to turn back the proxy settings in your browser?
+
+For IE, Go to Tools| Internet Options|  Connections | Settings (or Lan Settings, if you work on a network) 
+
+Then remove the checkmark from the first checkbox in Proxy Server section. Then press OK twice.
+
+Good Luck</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JLr3UcEHaa</UserId>
+            <UserNick>MS</UserNick>
+            <Date>2010-02-24 00:15:09</Date>
+            <Timestamp>1266999309</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:16:25 PDT 2010 -->

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316115928AApXRIn" type="Answered">
+    <Subject>How can I resize gif image through web site?</Subject>
+    <Content>I don&#039;t have image ready program, is there a web a web site that I can use? other than Lacunapic cuz it didn&#039;t work.
+</Content>
+    <Date>2010-03-16 11:59:28</Date>
+    <Timestamp>1268765968</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316115928AApXRIn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>l0Qi1ggQaa</UserId>
+    <UserNick>mansstude</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Only if your going to make it smaller. Other than that just open up something like MS Paint or Paint.net</ChosenAnswer>
+    <ChosenAnswererId>WkfQ9zS3aa</ChosenAnswererId>
+    <ChosenAnswererNick>mynameis57</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268766571</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269285436</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Only if your going to make it smaller. Other than that just open up something like MS Paint or Paint.net</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>WkfQ9zS3aa</UserId>
+            <UserNick>mynameis57</UserNick>
+            <Date>2010-03-16 12:09:31</Date>
+            <Timestamp>1268766571</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Check out lunapic.com 
+
+-Upload the file and then go to edit image
+-Then go to resize image</Content>
+            <Reference>http://www.lunapic.com</Reference>
+            <Best></Best>
+            <UserId>IbaJ1l57aa</UserId>
+            <UserNick>Mitch</UserNick>
+            <Date>2010-03-16 13:03:45</Date>
+            <Timestamp>1268769825</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:11 PDT 2010 -->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317090904AAiwzUb" type="Answered">
+    <Subject>Why my status bar most of the time say &quot; Done, but with errors on page&quot;?</Subject>
+    <Content>the status bar that is in my internet explorer page down under thats say&#039;s &quot; done but with errors&quot; and there is yellow sign with it. How can I fix it because sometimes I cant for example click back botton and it responds, so what should I do?
+
+
+Thank u very very much
+ P.S I always delete my history and cookies when I see it but it doesnt work
+</Content>
+    <Date>2010-03-17 09:09:04</Date>
+    <Timestamp>1268842144</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317090904AAiwzUb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7mRwtSTPaa</UserId>
+    <UserNick>.....</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1_yKICZQVAAEBVIJTiBPpQmU_OA==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Usually that is due to a problem with the script on the webpage you are visiting. Microsoft has an extensive trouble shooting page on the subject manner including changing the script error settings.
+
+http://support.microsoft.com/kb/308260</ChosenAnswer>
+    <ChosenAnswererId>gPzLD9gmaa</ChosenAnswererId>
+    <ChosenAnswererNick>MLM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268842433</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268999916</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>that is due to website server errors or your internet speed...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iUpjJqqFaa</UserId>
+            <UserNick>Vivin007</UserNick>
+            <Date>2010-03-17 09:11:37</Date>
+            <Timestamp>1268842297</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Either your internet connection is so slow that it&#039;s timing out before the page fully loads, or it&#039;s a problem with the page itself.  If it&#039;s not your connection, there&#039;s really nothing you can do about it, because it&#039;s on their end, not yours.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Gem96NQyaa</UserId>
+            <UserNick>raina_vissora</UserNick>
+            <Date>2010-03-17 09:13:39</Date>
+            <Timestamp>1268842419</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Usually that is due to a problem with the script on the webpage you are visiting. Microsoft has an extensive trouble shooting page on the subject manner including changing the script error settings.
+
+http://support.microsoft.com/kb/308260</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>gPzLD9gmaa</UserId>
+            <UserNick>MLM</UserNick>
+            <Date>2010-03-17 09:13:53</Date>
+            <Timestamp>1268842433</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:47 PDT 2010 -->

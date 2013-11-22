@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317204529AAJhTt0" type="Answered">
+    <Subject>Go back to Firefox 3.5?</Subject>
+    <Content>I just got Firefox 3.5 but I cannot use my awesome Mario theme. I realize that 3.5 isn&#039;t much different from 3.6. so how can I go back?
+</Content>
+    <Date>2010-03-17 20:45:29</Date>
+    <Timestamp>1268883929</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317204529AAJhTt0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GwsyGHNMaa</UserId>
+    <UserNick>montezuma300</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b0d9c21i21aczul8sp1/x376fRQ8dKirs8JbaAjdYrixWiM-/1/tn48.jpg?ciAAToMB7hIF8hgO</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try uninstalling 3.6. It may revert back to 3.5 after the uninstall.
+
+Here is a link to 3.5.8 as well as 3.7 alpha:
+http://www.softpedia.com/progDownload/Mozilla-Firefox-Final-Download-5787.html
+
+OR take your pick (below); No need to go to oldapps.com, Mozilla has every version they ever released on their FTP site:</ChosenAnswer>
+    <ChosenAnswererId>WWxGAzYgaa</ChosenAnswererId>
+    <ChosenAnswererNick>mermeliz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268884111</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269403481</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>use google Chrome
+lightweight and faster browser.
+sorry i can&#039;t help 
+D:</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QLXjWvjAaa</UserId>
+            <UserNick>Liv Lock</UserNick>
+            <Date>2010-03-17 20:47:09</Date>
+            <Timestamp>1268884029</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>3.6 fixes some memory leaks found in 3.5</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OWIEECPiaa</UserId>
+            <UserNick>Titus</UserNick>
+            <Date>2010-03-17 20:48:10</Date>
+            <Timestamp>1268884090</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try uninstalling 3.6. It may revert back to 3.5 after the uninstall.
+
+Here is a link to 3.5.8 as well as 3.7 alpha:
+http://www.softpedia.com/progDownload/Mozilla-Firefox-Final-Download-5787.html
+
+OR take your pick (below); No need to go to oldapps.com, Mozilla has every version they ever released on their FTP site:</Content>
+            <Reference>ftp://ftp.mozilla.org/pub/mozilla.org/firefox/releases/</Reference>
+            <Best>5</Best>
+            <UserId>WWxGAzYgaa</UserId>
+            <UserNick>mermeliz</UserNick>
+            <Date>2010-03-17 20:48:31</Date>
+            <Timestamp>1268884111</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here you go. Have fun.</Content>
+            <Reference>http://www.oldapps.com/firefox.php</Reference>
+            <Best></Best>
+            <UserId>CMwAzfKbaa</UserId>
+            <UserNick>Da Man Wit Da Anserz</UserNick>
+            <Date>2010-03-17 20:50:11</Date>
+            <Timestamp>1268884211</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That&#039;s easy. Uninstall Firefox and download any older version from here:
+
+http://www.oldapps.com/firefox.php</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>F3ITpTcwaa</UserId>
+            <UserNick>Arther</UserNick>
+            <Date>2010-03-17 20:51:11</Date>
+            <Timestamp>1268884271</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You could try uninstalling the browser via Control Panel &gt; Add or Remove Programs (or the like), then attempt to reinstall the version you want.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Fg76yQKNaa</UserId>
+            <UserNick>천국과 지구</UserNick>
+            <Date>2010-03-17 20:52:21</Date>
+            <Timestamp>1268884341</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>get rid of that memory hog . if you just can not then go to http://www.oldversion.com/ they have lots of old versions of stuff. I used to use their firefox 3,0</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>u2w40ptEaa</UserId>
+            <UserNick>marcus</UserNick>
+            <Date>2010-03-17 20:52:26</Date>
+            <Timestamp>1268884346</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:44 PDT 2010 -->

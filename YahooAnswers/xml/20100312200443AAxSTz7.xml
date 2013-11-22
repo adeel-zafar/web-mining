@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312200443AAxSTz7" type="Answered">
+    <Subject>Is there something like this?</Subject>
+    <Content>I forgot what the website was, where you can like type someones full name and then there will be their adress and number.
+Does anyone know the website?
+Please help, thaaaaanks! xx (:
+But they come up with results from the United States? I need results from Australia, hahah.
+</Content>
+    <Date>2010-03-12 20:04:43</Date>
+    <Timestamp>1268453083</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312200443AAxSTz7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pHL9a2xCaa</UserId>
+    <UserNick>bluewillow.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You mean, like, you know, the phone book?</ChosenAnswer>
+    <ChosenAnswererId>gUNX2AdTaa</ChosenAnswererId>
+    <ChosenAnswererNick>vmanes</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268453264</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268540579</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You mean, like, you know, the phone book?</Content>
+            <Reference>http://dexknows.whitepages.com/</Reference>
+            <Best>3</Best>
+            <UserId>gUNX2AdTaa</UserId>
+            <UserNick>vmanes</UserNick>
+            <Date>2010-03-12 20:07:44</Date>
+            <Timestamp>1268453264</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>People search! Try http://people.yahoo.com/ and there&#039;s tons of these, so I don&#039;t know which specific one you&#039;re talking about. Yahoo is a good one to start with though.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KLO1RSEHaa</UserId>
+            <UserNick>David</UserNick>
+            <Date>2010-03-12 20:08:31</Date>
+            <Timestamp>1268453311</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your a creeper.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>r8HAHhgkaa</UserId>
+            <UserNick>Ben D</UserNick>
+            <Date>2010-03-12 20:24:20</Date>
+            <Timestamp>1268454260</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:06:42 PDT 2010 -->

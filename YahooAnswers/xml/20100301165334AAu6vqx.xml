@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301165334AAu6vqx" type="Answered">
+    <Subject>is ninjavideo down for anyone else?</Subject>
+    <Content>Can&#039;t get on
+</Content>
+    <Date>2010-03-01 16:53:34</Date>
+    <Timestamp>1267491214</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301165334AAu6vqx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0B40ifQTaa</UserId>
+    <UserNick>help me</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yes, i cant get on it either. I&#039;m getting a blank screen. why?!!!</ChosenAnswer>
+    <ChosenAnswererId>2uiFEIdNaa</ChosenAnswererId>
+    <ChosenAnswererNick>PunjabiPlaya</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267491353</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268010875</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yes, i cant get on it either. I&#039;m getting a blank screen. why?!!!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2uiFEIdNaa</UserId>
+            <UserNick>PunjabiPlaya</UserNick>
+            <Date>2010-03-01 16:55:53</Date>
+            <Timestamp>1267491353</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Never heard of that site, hope it&#039;s good i&#039;ll check it out -- maybe the next youtube? cause youtube sucks.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QPWUKSmlaa</UserId>
+            <UserNick>Miles</UserNick>
+            <Date>2010-03-01 16:58:15</Date>
+            <Timestamp>1267491495</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:29:39 PDT 2010 -->

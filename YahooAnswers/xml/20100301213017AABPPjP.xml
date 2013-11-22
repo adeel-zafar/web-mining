@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301213017AABPPjP" type="Answered">
+    <Subject>simple internet connection problem?</Subject>
+    <Content>I have a laptop, apple mini desktop, iphone, and ps3. all of my electronics are connected to my landlords wireless internet. the iphone and two computers connect fine, but the ps3 will attempt but then say &#039;obtaining an IP address timed out&#039;. why is this? if i unplug the router, it works no problem, but then the next day or so it happens again. the router is upstairs so i have to call my landlord constantly to get him to restart it. there must be a better way!
+</Content>
+    <Date>2010-03-01 21:30:17</Date>
+    <Timestamp>1267507817</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301213017AABPPjP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jxpV13rTaa</UserId>
+    <UserNick>Stratten</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1uA5FcLa0AAED_KEeA-SGDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I stay in different hotels constantly dealing with configuring new PS3 connections, so I know it can be a pain because I NEVER have access to the router. So I can never reset it or unplug it or fiddle with settings. I have tried all kinds of different dns servers, changing gateway/router/ip settings, etc. I would consider myself very computer/networking literate. When I can&#039;t get the wireless on the PS3 to connect to the PSN network or if I have internet connection issues using wifi, I&#039;ll do a shared connection with my laptop, meaning I&#039;ll physically get a cat-5e ethernet cable and connect it to the rear of the PS3 and the other end into the ethernet port on my laptop. Then I&#039;ll configure the following settings:
+
+This is on Windows Vista, but other versions of Windows should be about the same. Using this method, I have not had any further issues and I don&#039;t have to worry about other settings.
+
+Go to: network connections:
+wireless-&gt;right click properties
+sharing tab-&gt;allow other network users to connect thru this computer&#039;s internet connection (it&#039;s ics (internet connection sharing).
+settings-&gt; allow http &amp; https
+Ok.
+Connect a cat 5 cable from the ps3 to your laptop&#039;s ethernet connection.
+Go to PS3 network settings and choose Wired connection with everything automatic, dhcp do not set, everything else enabled.
+
+It should obtain an ip address and network connection.</ChosenAnswer>
+    <ChosenAnswererId>AA10318397</ChosenAnswererId>
+    <ChosenAnswererNick>m3kamikaze</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267585688</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267597071</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I stay in different hotels constantly dealing with configuring new PS3 connections, so I know it can be a pain because I NEVER have access to the router. So I can never reset it or unplug it or fiddle with settings. I have tried all kinds of different dns servers, changing gateway/router/ip settings, etc. I would consider myself very computer/networking literate. When I can&#039;t get the wireless on the PS3 to connect to the PSN network or if I have internet connection issues using wifi, I&#039;ll do a shared connection with my laptop, meaning I&#039;ll physically get a cat-5e ethernet cable and connect it to the rear of the PS3 and the other end into the ethernet port on my laptop. Then I&#039;ll configure the following settings:
+
+This is on Windows Vista, but other versions of Windows should be about the same. Using this method, I have not had any further issues and I don&#039;t have to worry about other settings.
+
+Go to: network connections:
+wireless-&gt;right click properties
+sharing tab-&gt;allow other network users to connect thru this computer&#039;s internet connection (it&#039;s ics (internet connection sharing).
+settings-&gt; allow http &amp; https
+Ok.
+Connect a cat 5 cable from the ps3 to your laptop&#039;s ethernet connection.
+Go to PS3 network settings and choose Wired connection with everything automatic, dhcp do not set, everything else enabled.
+
+It should obtain an ip address and network connection.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10318397</UserId>
+            <UserNick>m3kamikaze</UserNick>
+            <Date>2010-03-02 19:08:08</Date>
+            <Timestamp>1267585688</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:28:24 PDT 2010 -->

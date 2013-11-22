@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228192553AAdzSwM" type="Answered">
+    <Subject>in firefox, how do you make it so when you push the back button, it goes back to where you were scrolled to?</Subject>
+    <Content>suppose i scroll down a page a hefty way and click on a link, it goes to the next page and it&#039;s not what i want, so i hit back. i want the page to be in the same spot as where i left it, not back at the top.  i looked through all the options but there was nothing close.  i know there is a hidden page of options. i forget where it is but if you type something in the address bar it goes to this page. is there anything on that page that would do it?
+</Content>
+    <Date>2010-02-28 19:25:53</Date>
+    <Timestamp>1267413953</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228192553AAdzSwM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7584284c870d5cb8aa1b4dc15efc64e4aa</UserId>
+    <UserNick>brandon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1XSmHai00AAEB2YQERcT3CDcHJzcF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What you&#039;re thinking of in the address bar only works if there is an anchor in the html code.
+
+If you want Firefox to restore your scrolled position, you have to use an add-on.</ChosenAnswer>
+    <ChosenAnswererId>fd9rbJYhaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267416456</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267684661</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What you&#039;re thinking of in the address bar only works if there is an anchor in the html code.
+
+If you want Firefox to restore your scrolled position, you have to use an add-on.</Content>
+            <Reference>http://kb.mozillazine.org/Scroll_position_on_web_pages_not_remembered</Reference>
+            <Best>5</Best>
+            <UserId>fd9rbJYhaa</UserId>
+            <UserNick>Mel</UserNick>
+            <Date>2010-02-28 20:07:36</Date>
+            <Timestamp>1267416456</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:35:00 PDT 2010 -->

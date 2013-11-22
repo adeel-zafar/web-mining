@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328165331AAROcRy" type="Answered">
+    <Subject>Why aren&#039;t video&#039;s online playing?</Subject>
+    <Content>ok so i dont know why but videos arent playing online anymore.....only youtube works.....and I&#039;m a Anime fan so i like to watch Anime episodes that i couldn&#039;t watch on tv online....but now only youtube works...what could be the problem
+</Content>
+    <Date>2010-03-28 16:53:31</Date>
+    <Timestamp>1269820411</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328165331AAROcRy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wUQhUVwOaa</UserId>
+    <UserNick>Sead</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Make sure you have the latest Java and Flash installed on your computer
+
+http://www.java.com/en/
+
+http://www.adobe.com/products/flashplayer/
+
+
+Cheers</ChosenAnswer>
+    <ChosenAnswererId>AA11048518</ChosenAnswererId>
+    <ChosenAnswererNick>WyattEarp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270000180</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270340027</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Make sure you have the latest Java and Flash installed on your computer
+
+http://www.java.com/en/
+
+http://www.adobe.com/products/flashplayer/
+
+
+Cheers</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11048518</UserId>
+            <UserNick>WyattEarp</UserNick>
+            <Date>2010-03-30 18:49:40</Date>
+            <Timestamp>1270000180</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:34 PDT 2010 -->

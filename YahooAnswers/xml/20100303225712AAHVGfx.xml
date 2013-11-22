@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303225712AAHVGfx" type="Answered">
+    <Subject>DO YOU HAVE A BLOG or know a good 1?</Subject>
+    <Content>or know of any good blogs to read just about other peoples everyday life?
+</Content>
+    <Date>2010-03-03 22:57:12</Date>
+    <Timestamp>1267685832</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303225712AAHVGfx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vunAIGVwaa</UserId>
+    <UserNick>Rhianne S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I have a blog. I use it to list survey websites so people can earn some cash from completing them. Check it out!
+
+http://greatsurveywebsites.blogspot.com</ChosenAnswer>
+    <ChosenAnswererId>B9mVdfQ3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Dre</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267928027</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268205193</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yeah, try this. http://dmmadisciples.blogspot.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uzJYpkwCaa</UserId>
+            <UserNick>bobmacans</UserNick>
+            <Date>2010-03-04 01:53:54</Date>
+            <Timestamp>1267696434</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have a blog. I use it to list survey websites so people can earn some cash from completing them. Check it out!
+
+http://greatsurveywebsites.blogspot.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>B9mVdfQ3aa</UserId>
+            <UserNick>Dre</UserNick>
+            <Date>2010-03-06 18:13:47</Date>
+            <Timestamp>1267928027</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:13:04 PDT 2010 -->

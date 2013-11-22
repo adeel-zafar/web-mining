@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320204213AASrc0R" type="Answered">
+    <Subject>If more people are connected to an internet connection, will it go slower?</Subject>
+    <Content>Okay so suppose that I&#039;m connected to a wireless internet and then ten other people connect to the same one, will it go slower?
+</Content>
+    <Date>2010-03-20 20:42:13</Date>
+    <Timestamp>1269142933</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320204213AASrc0R</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yxnLDw8Saa</UserId>
+    <UserNick>Kaykayyy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes it will. Your router will only be able to handle data streaming of sending and receiving at a certain rate. If the bandwidth is filled up, you will notice a drop in connection speed, as it&#039;s being split between multiple connections.
+
+However, this is only really true if all of the connected computers are trying to use the connection at the same time. I.E.: Surfing the web, browsing youtube, playing online games.</ChosenAnswer>
+    <ChosenAnswererId>cv6HvKdOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jason</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269143147</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269158574</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you&#039;re all trying to send data down it at the same time, it may do.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11414206</UserId>
+            <UserNick>elpasi2</UserNick>
+            <Date>2010-03-20 20:43:15</Date>
+            <Timestamp>1269142995</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>THAT DEPENDS WHAT KIND OF CONECTION EXAMPLE FOR INDUSTRIAL OR OFFICE VERIZON USES A HUGE MODEM AND IS SO POWERFUL THEY USE T4 OR HIGHER SO IF YOU TALKING YOUR HOME DSL OR CABLE YES A LITTLE BIT!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ArYruudTaa</UserId>
+            <UserNick>Rudy</UserNick>
+            <Date>2010-03-20 20:45:12</Date>
+            <Timestamp>1269143112</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It depends on what they are doing. If they are all just viewing static web pages, then you won&#039;t notice. If one or more person is doing something data intensive, like streaming a video or downloading something, then yeah.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RPeqzomsaa</UserId>
+            <UserNick>Tired Trucker</UserNick>
+            <Date>2010-03-20 20:45:33</Date>
+            <Timestamp>1269143133</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes it will. Your router will only be able to handle data streaming of sending and receiving at a certain rate. If the bandwidth is filled up, you will notice a drop in connection speed, as it&#039;s being split between multiple connections.
+
+However, this is only really true if all of the connected computers are trying to use the connection at the same time. I.E.: Surfing the web, browsing youtube, playing online games.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>cv6HvKdOaa</UserId>
+            <UserNick>Jason</UserNick>
+            <Date>2010-03-20 20:45:47</Date>
+            <Timestamp>1269143147</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:11 PDT 2010 -->

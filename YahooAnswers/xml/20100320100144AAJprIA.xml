@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320100144AAJprIA" type="Answered">
+    <Subject>Can&#039;t save pictures in Firefox 3?</Subject>
+    <Content>I right click, save as, and it seems like it saved, but it won&#039;t save to any folder.  If I drag it onto my desktop it will work, though.  Also, I&#039;ve tried deleting downloads.sqlite, and it doesn&#039;t help.  Can someone please help?
+</Content>
+    <Date>2010-03-20 10:01:44</Date>
+    <Timestamp>1269104504</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320100144AAJprIA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4n4AUWbraa</UserId>
+    <UserNick>IloveNeville</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Odl0Hi1yAAEB9uFlCA3OZFsB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine &quot;experts&quot; say is impossible, the latest versions of firefox seem to be having trouble with images especially if there are multiple images on a web page( like virtually every web page!!!!!!)</ChosenAnswer>
+    <ChosenAnswererId>2Bxy8GO6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Harley Drive</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269114560</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269127412</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine &quot;experts&quot; say is impossible, the latest versions of firefox seem to be having trouble with images especially if there are multiple images on a web page( like virtually every web page!!!!!!)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-20 12:49:20</Date>
+            <Timestamp>1269114560</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:31:28 PDT 2010 -->

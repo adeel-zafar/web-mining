@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305060654AAj28hl" type="Answered">
+    <Subject>Do I still need Internet Explorer on my computer if I download the Firefox Browser?</Subject>
+    <Content>I don&#039;t know much about this. Fed up with BT browser which now seems to be a mix of IE8 and the old browser. I downloaded Firefox. Does Firefox still need IE8 or will I be better to remove it and the BT components from my computer and access my BT email etc. through Firefox.
+
+Thanks in advance
+</Content>
+    <Date>2010-03-05 06:06:54</Date>
+    <Timestamp>1267798014</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305060654AAj28hl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>h7qkIGsKaa</UserId>
+    <UserNick>Taf</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1kkPwojQ6AAEB20Q9uSf4BCbBKA==.medium.png</UserPhotoURL>
+    <NumAnswers>10</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Don&#039;t try to remove IE. It is intertwined with Outlook Express and its successor (Windows Live Mail) as they share behind the scenes coding. Furthermore, IE is also required to get any security patches from Microsoft. If you try to completely remove or delete IE, you can corrupt critical operating system files.
+
+Best bet is to leave it running in the background and use Firefox as your default web browser.</ChosenAnswer>
+    <ChosenAnswererId>gPzLD9gmaa</ChosenAnswererId>
+    <ChosenAnswererNick>MLM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267798506</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267820284</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s a foundational requirement for Windows. Just ignore it.
+
+Congratulations and thank you for downloading a real browser, by the way.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-05 06:08:39</Date>
+            <Timestamp>1267798119</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go for google chrome and delete IE and firefox from your PC</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zu3rqpIyaa</UserId>
+            <UserNick>The Doyen</UserNick>
+            <Date>2010-03-05 06:08:46</Date>
+            <Timestamp>1267798126</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you done the right thing by getting firefox 
+
+you dont need ie8 but you cannot remove it from your computer its impossible just make sure firefox is set to your default browser and forget ie8 ever existed</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fdSMQ2nvaa</UserId>
+            <UserNick>English &amp; Proud</UserNick>
+            <Date>2010-03-05 06:09:29</Date>
+            <Timestamp>1267798169</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox will work without IE.
+
+Personally i keep both on my PC because there are some addons that Firefox doesnt have that IE does and certain sites work better with IE but for the majority of the time i use Firefox to browse.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA12172208</UserId>
+            <UserNick>x h</UserNick>
+            <Date>2010-03-05 06:09:42</Date>
+            <Timestamp>1267798182</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>YES!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RfFZvSuMaa</UserId>
+            <UserNick>__</UserNick>
+            <Date>2010-03-05 06:10:04</Date>
+            <Timestamp>1267798204</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In short, no you don&#039;t need IE if you have Firefox.  You don&#039;t NEED to remove it though, just don&#039;t use IE again.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>69f1d08d3caf1e30b23ae965fc13daceaa</UserId>
+            <UserNick>Ryan S</UserNick>
+            <Date>2010-03-05 06:10:32</Date>
+            <Timestamp>1267798232</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Don&#039;t try to remove IE. It is intertwined with Outlook Express and its successor (Windows Live Mail) as they share behind the scenes coding. Furthermore, IE is also required to get any security patches from Microsoft. If you try to completely remove or delete IE, you can corrupt critical operating system files.
+
+Best bet is to leave it running in the background and use Firefox as your default web browser.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gPzLD9gmaa</UserId>
+            <UserNick>MLM</UserNick>
+            <Date>2010-03-05 06:15:06</Date>
+            <Timestamp>1267798506</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>IE is pre-installed on computers. Firefox does not need it but you might as well just leave it on your PC and ignore it.
+If you have X-Marks installed it will synchronise your favorites / bookmarks so that you can use either as you choose.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7cUDstdjaa</UserId>
+            <UserNick>Robin B</UserNick>
+            <Date>2010-03-05 06:27:37</Date>
+            <Timestamp>1267799257</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can&#039;t remove it as it is part of the OS.
+
+Also you need IE to access the MIcrosoft Update site.</Content>
+            <Reference>Experienced1</Reference>
+            <Best></Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-05 07:57:25</Date>
+            <Timestamp>1267804645</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine &quot;experts&quot; say is impossible.
+
+download avant browser it uses IE8 core but is more secure and has extras so you can use it on pages that need IE</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-05 10:51:25</Date>
+            <Timestamp>1267815085</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:58:03 PDT 2010 -->

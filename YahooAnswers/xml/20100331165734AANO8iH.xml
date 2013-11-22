@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331165734AANO8iH" type="Answered">
+    <Subject>How do i post a link ???????/?</Subject>
+    <Content>I&#039;ve seen links where you click on a link and it takes you to another site ... How can i do that ? i know it seems a bit juvenile but i just don&#039;t know :) Thanks in advance for answers
+</Content>
+    <Date>2010-03-31 16:57:34</Date>
+    <Timestamp>1270079854</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331165734AANO8iH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dExLUATXaa</UserId>
+    <UserNick>bobbydazzler</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bab33aei28dezws137ac4/4YduYgIzfrT1fpEMGMuk2vckFg8B0xdEIyM-/8/tn48.jpeg?ciAAToMBc8leK84s</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You mark the link (CTRL + left mouse key), then you copy it (CTRL + C) and then you paste it (CTRL + V).</ChosenAnswer>
+    <ChosenAnswererId>AGVZjRO5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Buzz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270130229</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270140400</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>copy and paste or something like that</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dPHhpqcfaa</UserId>
+            <UserNick>left</UserNick>
+            <Date>2010-03-31 16:59:54</Date>
+            <Timestamp>1270079994</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you&#039;re writing HTML, use an anchor: &lt;a href=&quot;http://www.example.com/&quot;&gt;Go to example.com&lt;/a&gt;</Content>
+            <Reference>http://www.htmlcodetutorial.com/linking/_A.html</Reference>
+            <Best></Best>
+            <UserId>4f7qltl8aa</UserId>
+            <UserNick>answerer</UserNick>
+            <Date>2010-03-31 17:01:25</Date>
+            <Timestamp>1270080085</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go to adress bar at top and highlight it then click copy and go to wherever u wanna put link then click apste it well be clickable by someone</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KUPGA93saa</UserId>
+            <UserNick>ⓣⓨⓛⓔⓡɹǝlʎʇ :)</UserNick>
+            <Date>2010-03-31 17:06:12</Date>
+            <Timestamp>1270080372</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>right click on the link then left click on copy on the drop down box then go to where you want to post the link left click and paste job done.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>f8845999fe4aaac20f77a835df027496aa</UserId>
+            <UserNick>Aonarach</UserNick>
+            <Date>2010-03-31 17:17:35</Date>
+            <Timestamp>1270081055</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You mark the link (CTRL + left mouse key), then you copy it (CTRL + C) and then you paste it (CTRL + V).</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AGVZjRO5aa</UserId>
+            <UserNick>Buzz</UserNick>
+            <Date>2010-04-01 06:57:09</Date>
+            <Timestamp>1270130229</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:21 PDT 2010 -->

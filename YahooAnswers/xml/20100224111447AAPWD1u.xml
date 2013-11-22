@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224111447AAPWD1u" type="Answered">
+    <Subject>Reliable &amp; cheap broadband service near London?</Subject>
+    <Content>I&#039;m with Virgin, paying BIG.
+
+Which of the competitors is best?
+</Content>
+    <Date>2010-02-24 11:14:47</Date>
+    <Timestamp>1267038887</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224111447AAPWD1u</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>27vAxPSnaa</UserId>
+    <UserNick>potentiallywonderful</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1FKaHnYbVAAEC2YQfoaa3Bw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.broadband-finder.co.uk/ if you check this link it will show best offer depending on your usage of broadband</ChosenAnswer>
+    <ChosenAnswererId>AA12180741</ChosenAnswererId>
+    <ChosenAnswererNick>Paultech</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267039856</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267134242</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.broadband-finder.co.uk/ if you check this link it will show best offer depending on your usage of broadband</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>AA12180741</UserId>
+            <UserNick>Paultech</UserNick>
+            <Date>2010-02-24 11:30:56</Date>
+            <Timestamp>1267039856</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:14:33 PDT 2010 -->

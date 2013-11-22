@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322213909AA6VQVL" type="Answered">
+    <Subject>How do I delete my browsing history on Firefox on a mac?</Subject>
+    <Content>I&#039;ve looked at other answers to this question and honestly, they&#039;re too vague. Maybe I&#039;m just dumb, but I need step by step instructions, and a lot of explaining apparently. I&#039;m terrible with computers. Some people told me to go to the tool bar at the top: don&#039;t have one. Other told me to just go to history and clear it: tried that, and it didn&#039;t work either. Any help would be appreciated!
+</Content>
+    <Date>2010-03-22 21:39:09</Date>
+    <Timestamp>1269319149</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322213909AA6VQVL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LpH1YJtaaa</UserId>
+    <UserNick>Katie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b4a8f86i267bzul6re4/XGKKUFQ6erLi3nBn.UfonrEx/1/tn48.jpg?ciAAToMBzgz1mj8R</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>with firefox open you will see at the top of your screen the tool bar (where the little apple is) and click on the Tools option  (second to last and near the middle of the &quot;tool bar&quot;) and a list will drop down and you can choose what you want to clear. if you want it to do it when you close it without having to go through that each time then click on the firefox (on the Tool bar)and in the drop down list click the preferences and in the window that comes up go to the privacy option and the setting are there for how ever you want to make it. good luck .</ChosenAnswer>
+    <ChosenAnswererId>adstNY2Kaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gerald s</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269320073</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269567740</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m not sure what you mean by no toolbar...
+
+click on Tools
+
+go down to &quot;Clear recent history&quot; or &quot;clear private data&quot; (depending on your version)
+
+set a few options (what you want deleted, mostly default settings are good.)
+
+and hit ok</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8r2e75nRaa</UserId>
+            <UserNick>themanofum</UserNick>
+            <Date>2010-03-22 21:41:43</Date>
+            <Timestamp>1269319303</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Delete Your Web History in Firefox
+
+
+
+Step 1
+
+Re-open the Options (Windows) or Preferences (Mac) box and click on the Privacy icon.
+
+Step 2
+
+Hit the &#039;Clear Now&#039; button located in the Private Data section. A new box will open with multiple options for clearing your history.
+
+Step 3
+
+Check any or all of the boxes that will delete your Web history. You can choose to delete cookies, cache and browsing history.
+
+Step 4
+
+Press the &#039;Clear Private Data Now&#039; button to delete all of your Web history.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TYP72weuaa</UserId>
+            <UserNick>Alexa</UserNick>
+            <Date>2010-03-22 21:46:56</Date>
+            <Timestamp>1269319616</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>with firefox open you will see at the top of your screen the tool bar (where the little apple is) and click on the Tools option  (second to last and near the middle of the &quot;tool bar&quot;) and a list will drop down and you can choose what you want to clear. if you want it to do it when you close it without having to go through that each time then click on the firefox (on the Tool bar)and in the drop down list click the preferences and in the window that comes up go to the privacy option and the setting are there for how ever you want to make it. good luck .</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>adstNY2Kaa</UserId>
+            <UserNick>Gerald s</UserNick>
+            <Date>2010-03-22 21:54:33</Date>
+            <Timestamp>1269320073</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:22 PDT 2010 -->

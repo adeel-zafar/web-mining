@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329150001AAMnrd2" type="Answered">
+    <Subject>A Primitive problem: how to show a picture without sending an email?</Subject>
+    <Content>I know some people might think I&#039;m very dark - maybe they are right, but I need to show a photo on a web-site. The picture is on my computer. Some people in Y!A do it, but I&#039;ve never done it before and I don&#039;t know where and how to begin.
+
+Thank you in advance
+I has a photo on my computer I would like others to see but on that forum I can&#039;t make a link to my own computer, it has to be some public browser.
+</Content>
+    <Date>2010-03-29 15:00:01</Date>
+    <Timestamp>1269900001</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329150001AAMnrd2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HB0o3cX8aa</UserId>
+    <UserNick>Banana</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1aBCWTv65AAAD3cRl-bUpCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you need a host to do that, like flickr, photobucket, iimmgg these are hosts i use. The one i like most is flickr. It is free to use, just: sign up (for flickr with your yahoo account) to make an free account, upload your photo or slide show or movie choose the settings for private or public or friends. Grab the link and post that link. Like this one is a link to some photos and a slide show i host on flickr:
+http://www.flickr.com/photos/gidogido46/ 
+note: photos you uploaded on flickr can be seen on your portable phone and by that way stored on your phones photogallery.</ChosenAnswer>
+    <ChosenAnswererId>pTQB3NUmaa</ChosenAnswererId>
+    <ChosenAnswererNick>gido</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269902324</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270058136</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Easy. Go here:
+
+http://photobucket.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>F3ITpTcwaa</UserId>
+            <UserNick>Arther</UserNick>
+            <Date>2010-03-29 15:02:06</Date>
+            <Timestamp>1269900126</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;m a bit confused by what you&#039;re asking, but if you&#039;re actually asking how to display a picture on your website, just upload the file to your webserver and display it on some page with &lt;img src=&quot;url&quot;&gt;
+
+But the bit about email makes me think that maybe I misunderstood you...did I?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IbxhRebgaa</UserId>
+            <UserNick>cen</UserNick>
+            <Date>2010-03-29 15:04:16</Date>
+            <Timestamp>1269900256</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you need a host to do that, like flickr, photobucket, iimmgg these are hosts i use. The one i like most is flickr. It is free to use, just: sign up (for flickr with your yahoo account) to make an free account, upload your photo or slide show or movie choose the settings for private or public or friends. Grab the link and post that link. Like this one is a link to some photos and a slide show i host on flickr:
+http://www.flickr.com/photos/gidogido46/ 
+note: photos you uploaded on flickr can be seen on your portable phone and by that way stored on your phones photogallery.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>pTQB3NUmaa</UserId>
+            <UserNick>gido</UserNick>
+            <Date>2010-03-29 15:38:44</Date>
+            <Timestamp>1269902324</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:15:36 PDT 2010 -->

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226222402AAU9kIB" type="Answered">
+    <Subject>Why can&#039;t I get rid of AOL as my homepage?</Subject>
+    <Content>Whenever I boot up my computer, AOL pops up in my web browser before I even open the web browser. I&#039;ve tried resetting my home page and it doesn&#039;t work. I&#039;ve tried logging out, that doesn&#039;t work either. It also just logs me back on after five minutes. Virus, maybe? I have no clue. I can close my laptop&#039;s screen, keep the web browser open, and when I open my laptop back up, it opens a new tab to AOL. Any clue on how to fix this? It&#039;s really starting to get annoying. :/ Thanks for your time.
+</Content>
+    <Date>2010-02-26 22:24:02</Date>
+    <Timestamp>1267251842</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226222402AAU9kIB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RMxUiCWTaa</UserId>
+    <UserNick>Xedar</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b7340c2i1d51zul6sp1/f3qXDq4pfqKfYSt.ob5emzzQ1hpaMCI-/2/tn48.png?ciAAToMBPL4DUew7</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1: Find an awesome site.  
+2: copy the URL to the awesome site. 
+3:click &quot;tools&quot; 
+4:click &quot;Internet options&quot;  
+5: under &quot;Home Page&quot; 
+6:paste the URL.  
+7: press &quot;Apply&quot;  
+8: then exit &amp; restart your internet or computer. :D</ChosenAnswer>
+    <ChosenAnswererId>Sw4273bPaa</ChosenAnswererId>
+    <ChosenAnswererNick>jennifer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267253347</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267309552</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>1: Find an awesome site.  
+2: copy the URL to the awesome site. 
+3:click &quot;tools&quot; 
+4:click &quot;Internet options&quot;  
+5: under &quot;Home Page&quot; 
+6:paste the URL.  
+7: press &quot;Apply&quot;  
+8: then exit &amp; restart your internet or computer. :D</Content>
+            <Reference>experience.</Reference>
+            <Best>5</Best>
+            <UserId>Sw4273bPaa</UserId>
+            <UserNick>jennifer</UserNick>
+            <Date>2010-02-26 22:49:07</Date>
+            <Timestamp>1267253347</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if you don&#039;t use aol just uninstall it. to change your home page to whoever your internet provider is, click start&gt; control panel &gt; internet options, under home page type in your home page eg. comcast firefox safari etc, click apply then ok. and your all set.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>71aCbsLtaa</UserId>
+            <UserNick>ceddie1987</UserNick>
+            <Date>2010-02-26 23:20:18</Date>
+            <Timestamp>1267255218</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:47:06 PDT 2010 -->

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319001634AA0FSuY" type="Answered">
+    <Subject>is anyone able to go to this website?</Subject>
+    <Content>hi, i would just like to know if anyone could access this website: http://bleach-network.com/
+i&#039;m having trouble with it, i cannot seem to go it it at all, IE just keeps giving me an error message....
+ok... maybe this means that i&#039;ve got blacklisted for no apparent reason...
+tried using firefox as well, and my laptop instead of the PC and still... does not work... i sooo got blacklisted... i bet...
+</Content>
+    <Date>2010-03-19 00:16:34</Date>
+    <Timestamp>1268982994</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319001634AA0FSuY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8ec965c83137c87b3a2643614e4b8a9daa</UserId>
+    <UserNick>Akito</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1oZTAc-uCAAMC-aFlII5nEl0-09ZDkSMW.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>its working fine for me.. try using any other browser like firefox</ChosenAnswer>
+    <ChosenAnswererId>Muaf0lwdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Santhosh S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268983400</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269067845</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try This http://74.125.153.132/search?q=cache:http://bleach-network.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PLEA1Izwaa</UserId>
+            <UserNick>microgamer</UserNick>
+            <Date>2010-03-19 00:19:22</Date>
+            <Timestamp>1268983162</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>its working fine for me.. try using any other browser like firefox</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>Muaf0lwdaa</UserId>
+            <UserNick>Santhosh S</UserNick>
+            <Date>2010-03-19 00:23:20</Date>
+            <Timestamp>1268983400</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Install browsing software and then try it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>H9RLpgjUaa</UserId>
+            <UserNick>Great</UserNick>
+            <Date>2010-03-19 00:33:51</Date>
+            <Timestamp>1268984031</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:55 PDT 2010 -->

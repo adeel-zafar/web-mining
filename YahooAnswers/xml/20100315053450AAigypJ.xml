@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315053450AAigypJ" type="Answered">
+    <Subject>Is there a difference between page impressions and page hits?</Subject>
+    <Content>I&#039;m looking at stats for a website. What&#039;s the difference between page impressions and actual hits, if there is a distinction?
+</Content>
+    <Date>2010-03-15 05:34:50</Date>
+    <Timestamp>1268656490</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315053450AAigypJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>b90cf96c7e4097e61dadbfda54555c2aaa</UserId>
+    <UserNick>Andelian</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Page loads is the same as page impressions, and from Wikipedia:
+
+A hit is a request to a web server for a file (web page, image, JavaScript, Cascading Style Sheet, etc.). When a web page is uploaded from a server the number of &quot;hits&quot; or &quot;page hits&quot; is equal to the number of files requested. Therefore, one page load does not always equal one hit because often pages are made up of other images and other files which stack up the number of hits counted. Because one page load does not equal one hit it is an inaccurate measure of a website&#039;s popularity or web traffic. A more accurate measure of web traffic is how many page views a web site has. Hits are useful when evaluating the requirements of your server, depending on the number and size of files which need to be transferred for one request. Servers should be tested to make sure they meet throughput targets (i.e. they should be capable of processing a certain amount of &#039;hits&#039; per second).
+Unique hits count the number of different individuals who have generated at least one hit.</ChosenAnswer>
+    <ChosenAnswererId>8963ed45af3c4bbe909ce1869e2957ddaa</ChosenAnswererId>
+    <ChosenAnswererNick>Richard D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269000370</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269177187</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Page loads is the same as page impressions, and from Wikipedia:
+
+A hit is a request to a web server for a file (web page, image, JavaScript, Cascading Style Sheet, etc.). When a web page is uploaded from a server the number of &quot;hits&quot; or &quot;page hits&quot; is equal to the number of files requested. Therefore, one page load does not always equal one hit because often pages are made up of other images and other files which stack up the number of hits counted. Because one page load does not equal one hit it is an inaccurate measure of a website&#039;s popularity or web traffic. A more accurate measure of web traffic is how many page views a web site has. Hits are useful when evaluating the requirements of your server, depending on the number and size of files which need to be transferred for one request. Servers should be tested to make sure they meet throughput targets (i.e. they should be capable of processing a certain amount of &#039;hits&#039; per second).
+Unique hits count the number of different individuals who have generated at least one hit.</Content>
+            <Reference>http://en.wikipedia.org/wiki/Page_hits</Reference>
+            <Best>5</Best>
+            <UserId>8963ed45af3c4bbe909ce1869e2957ddaa</UserId>
+            <UserNick>Richard D</UserNick>
+            <Date>2010-03-19 05:06:10</Date>
+            <Timestamp>1269000370</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:54:50 PDT 2010 -->

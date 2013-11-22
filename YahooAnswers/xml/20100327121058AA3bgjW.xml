@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327121058AA3bgjW" type="Answered">
+    <Subject>i want to watch pure pwnage but i dont live in Canada?</Subject>
+    <Content>I&#039;ve tried a proxy server but all the ones i use even when i enable scripts it still says they are disabled
+</Content>
+    <Date>2010-03-27 12:10:58</Date>
+    <Timestamp>1269717058</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327121058AA3bgjW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZT1jHSd6aa</UserId>
+    <UserNick>perfectjake</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Use a personal VPN, http://www.surfbouncer.com they have Canadian servers and IP addresses. Video works over the VPN. I use it for Hulu, BBC iPlayer and CCTV from outside all of the respective countries they are in.</ChosenAnswer>
+    <ChosenAnswererId>dfldrUPEaa</ChosenAnswererId>
+    <ChosenAnswererNick>ds</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269732779</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270236305</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use a personal VPN, http://www.surfbouncer.com they have Canadian servers and IP addresses. Video works over the VPN. I use it for Hulu, BBC iPlayer and CCTV from outside all of the respective countries they are in.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dfldrUPEaa</UserId>
+            <UserNick>ds</UserNick>
+            <Date>2010-03-27 16:32:59</Date>
+            <Timestamp>1269732779</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here&#039;s a free proxy created today:
+http://ipmasks.info
+
+-Unblock ANY Website
+-watch youtube videos
+-download up to 50 MB
+-hide you IP and stay anonymous
+-Fast and hosted on a dedicated server
+
+I get new proxies here everyday:
+http://tech.groups.yahoo.com/group/NewFastWorkingProxies/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oZydD2rsaa</UserId>
+            <UserNick>Mike D</UserNick>
+            <Date>2010-03-27 21:09:06</Date>
+            <Timestamp>1269749346</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:22:31 PDT 2010 -->

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306132629AApVzIX" type="Answered">
+    <Subject>How do sites know where you live?</Subject>
+    <Content>How is it that some sites that have those weird pop ups with girls that are &quot;horny&quot;, know where you live??? It&#039;s kinda creepy going to a site and some random pop up telling me that this girl is in my town...oO Do they track your address or something? :O
+</Content>
+    <Date>2010-03-06 13:26:29</Date>
+    <Timestamp>1267910789</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306132629AApVzIX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nXwoqRQ1aa</UserId>
+    <UserNick>Cereal</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b9d063fie1ezws138sp2/PZUn8I42brTOqJ5tAcG.O2k-/3/tn48.jpeg?ciAAToMByO7aaavP</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Some sites will track your cookies, based on information you provided. But I think what your getting at is geolocation, which is determining the location of your ISP, usually close enough to you to be in the same city.
+
+It is really easy and cheap to do.</ChosenAnswer>
+    <ChosenAnswererId>5iBUj5Hvaa</ChosenAnswererId>
+    <ChosenAnswererNick>Simple N</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267911156</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268773972</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well, to put it in really basic terms, your IP address (your numeric ID number that your internet provider gives you in order to get online), always corresponds with your actual physical location (usually down to your zip code). Ads can try and entice you into thinking you&#039;ll get some kind of local service by looking at your IP and then looking at a map that shows which location it corresponds to.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>sn4jriJAaa</UserId>
+            <UserNick>CycloneTH</UserNick>
+            <Date>2010-03-06 13:29:46</Date>
+            <Timestamp>1267910986</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Some sites will track your cookies, based on information you provided. But I think what your getting at is geolocation, which is determining the location of your ISP, usually close enough to you to be in the same city.
+
+It is really easy and cheap to do.</Content>
+            <Reference>http://www.infosniper.net/</Reference>
+            <Best>5</Best>
+            <UserId>5iBUj5Hvaa</UserId>
+            <UserNick>Simple N</UserNick>
+            <Date>2010-03-06 13:32:36</Date>
+            <Timestamp>1267911156</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ip adresses are linked to the town so it knows</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oMbrgIBEaa</UserId>
+            <UserNick>ƈυƥƈʌƙєʛɪɾʅ</UserNick>
+            <Date>2010-03-06 13:36:34</Date>
+            <Timestamp>1267911394</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:46:34 PDT 2010 -->

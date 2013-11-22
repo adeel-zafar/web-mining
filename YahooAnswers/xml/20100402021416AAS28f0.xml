@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402021416AAS28f0" type="Answered">
+    <Subject>is there a simple way to repair internet explorer 8 that a novice can do?</Subject>
+    <Content>before i continue i would like to point out  : i dont have any spare discs or cds to copy anything on to.
+
+and system restore was turned off up until very recently  so i can&#039;t use that method.
+
+
+
+
+
+
+
+i downloaded some not very good programs recently ( quero  and privoxy )  and when i uninstalled them, i noticed changes to my internet explorer 8 browser - the go buttons , the arrows for back and forward have disappeared .
+
+the address bar has disappeared , and the google toolbar has disappeared and it won&#039;t let me reinstall it.
+
+
+i dont know what else to do to get my browser back to how it was, so i thought if i uninstall internet explorer 8 , that might work ?
+
+but i was wondering would i lose all my favourites in the favourites bar or the favourites bar itself ?
+
+
+anyone know or have any idea ?
+
+
+if i uninstall internet explorer 8 will i lose my favourites bar in the browser and everything saved in it ?
+
+
+or how can i restore my internet explorer 8 browser and get the go buttons back, the address bar ,  and the google toolbar ?
+</Content>
+    <Date>2010-04-02 02:14:16</Date>
+    <Timestamp>1270199656</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402021416AAS28f0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BalR8ARPaa</UserId>
+    <UserNick>THE  Norman knight</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1cPcPzi0QAAEC_kF7AbLbN0QB.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>your best plan of action would be to uninstall IE8 &gt;&gt;http://support.microsoft.com/kb/957700  then reinstall it if you want &gt;&gt;http://www.bing.com/search?q=I+E+8+download&amp;FORM=MSNH90&amp;mkt=en-gb good luck   you should  not lose any files info etc by doing this</ChosenAnswer>
+    <ChosenAnswererId>591b77d7ae26d60c71a35357bfe9873aaa</ChosenAnswererId>
+    <ChosenAnswererNick>now and then</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270201040</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270310104</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The BEST fix is to abandon IE altogether. Start using another browser, like Firefox, Opera or the like</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11570076</UserId>
+            <UserNick>Spydr</UserNick>
+            <Date>2010-04-02 02:15:36</Date>
+            <Timestamp>1270199736</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Tools&gt; Internet Options&gt; Advanced&gt; Reset
+
+Favorites will remain unchanged but any toolbars will need to be reinstalled!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1uIn1AEaaa</UserId>
+            <UserNick>Chrisallis</UserNick>
+            <Date>2010-04-02 02:19:30</Date>
+            <Timestamp>1270199970</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>your best plan of action would be to uninstall IE8 &gt;&gt;http://support.microsoft.com/kb/957700  then reinstall it if you want &gt;&gt;http://www.bing.com/search?q=I+E+8+download&amp;FORM=MSNH90&amp;mkt=en-gb good luck   you should  not lose any files info etc by doing this</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>591b77d7ae26d60c71a35357bfe9873aaa</UserId>
+            <UserNick>1314</UserNick>
+            <Date>2010-04-02 02:37:20</Date>
+            <Timestamp>1270201040</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:39 PDT 2010 -->

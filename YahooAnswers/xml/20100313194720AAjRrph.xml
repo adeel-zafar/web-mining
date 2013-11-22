@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313194720AAjRrph" type="Answered">
+    <Subject>why does Firefox keep redirecting me to myspace or facebook?</Subject>
+    <Content>everytime i open a new tab from google search, it leads to myspace of facebook or something else and i have to close it and re-open the link 
+
+is it a virus?
+
+:/
+</Content>
+    <Date>2010-03-13 19:47:20</Date>
+    <Timestamp>1268538440</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313194720AAjRrph</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fi0jmNDSaa</UserId>
+    <UserNick>Sora~Fly High! lykes starss ;D</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb07d61ic2bzws139ac4/sMzQ7_IieqLtsN7OYZgBkqXO.TdZ7bLK3RV2Dqk2Qgltrg--/32/tn48.jpeg?ciAAToMBh9t2R7A6</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Aww, poor Sora-chan. I had a similar problem recently, where I click a link and it redirects me to some other website. :-(
+I found out that it was a hijacker virus. I was worried since it was my first time removing a virus all by myself. But I finally erased it!
+
+In my case, it didn&#039;t redirect me to MySpace or Facebook, but just to some spam site. But I used this program called Malwarebytes. It really works when removing viruses and stuff. Here&#039;s the site to download it:
+http://malwarebytes.org/
+Just click &quot;Download free version.&quot;
+
+When you finish downloading it,
+
+1) Open the program.
+2) Click Perform Full Scan. It&#039;s best to close out all programs that are running, including this Firefox page.
+3) Now wait... a very long time, sadly.
+4) When it&#039;s finished, it should tell you how many objects are infected. Click Show Results, and it should lead you to the Quarantine tab.
+5) Select them all (if they are not selected already), and click Delete All. All the viruses should be gone.
+
+By the way, a notepad might pop up during the time. It&#039;s just a log, so don&#039;t worry about it.
+
+If you don&#039;t have one already, I recommend you get a anti-virus software. I have McAfee now, and it&#039;s pretty good. But you have to pay for it... &gt;_&gt;
+
+Well, I hope this helps! Sorry if I spoke too &quot;technical.&quot; &gt;.&lt; 
+If you need more help, just Email me! :D
+Good luck!</ChosenAnswer>
+    <ChosenAnswererId>v7BT6BQFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ƹ̵̡Ӝ̵̨̄Ʒ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268543312</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268561020</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Aww, poor Sora-chan. I had a similar problem recently, where I click a link and it redirects me to some other website. :-(
+I found out that it was a hijacker virus. I was worried since it was my first time removing a virus all by myself. But I finally erased it!
+
+In my case, it didn&#039;t redirect me to MySpace or Facebook, but just to some spam site. But I used this program called Malwarebytes. It really works when removing viruses and stuff. Here&#039;s the site to download it:
+http://malwarebytes.org/
+Just click &quot;Download free version.&quot;
+
+When you finish downloading it,
+
+1) Open the program.
+2) Click Perform Full Scan. It&#039;s best to close out all programs that are running, including this Firefox page.
+3) Now wait... a very long time, sadly.
+4) When it&#039;s finished, it should tell you how many objects are infected. Click Show Results, and it should lead you to the Quarantine tab.
+5) Select them all (if they are not selected already), and click Delete All. All the viruses should be gone.
+
+By the way, a notepad might pop up during the time. It&#039;s just a log, so don&#039;t worry about it.
+
+If you don&#039;t have one already, I recommend you get a anti-virus software. I have McAfee now, and it&#039;s pretty good. But you have to pay for it... &gt;_&gt;
+
+Well, I hope this helps! Sorry if I spoke too &quot;technical.&quot; &gt;.&lt; 
+If you need more help, just Email me! :D
+Good luck!</Content>
+            <Reference>Ƹ̵̡Ӝ̵̨̄Ʒ</Reference>
+            <Best>5</Best>
+            <UserId>v7BT6BQFaa</UserId>
+            <UserNick>Ƹ̵̡Ӝ̵̨̄Ʒ</UserNick>
+            <Date>2010-03-13 21:08:32</Date>
+            <Timestamp>1268543312</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:47 PDT 2010 -->

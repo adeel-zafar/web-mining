@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222202034AAP0lb2" type="Answered">
+    <Subject>Downloading Issues...?</Subject>
+    <Content>Okay first off I have Windows Vista and Internet Explorer 8.
+Okay I was trying to download a WoW addon, but when I clicked on the download link it went to the Internet Explorer could not Display the webpage thing... OIt does it when I try to watch videos too... HELP!
+Thanks in Advance
+</Content>
+    <Date>2010-02-22 20:20:34</Date>
+    <Timestamp>1266898834</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222202034AAP0lb2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mbCfZ1Araa</UserId>
+    <UserNick>EhBob?</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Are you using the 64-bit edition of Internet explorer? If so, try using the 32-bit. If that&#039;s not the case, then you may want to test and make sure, java, flash, and cookies are all working properly. If all else failes, download and install firefox. 
+
+SuperGeek
+www.spoiledgeek.com</ChosenAnswer>
+    <ChosenAnswererId>E69XBmz1aa</ChosenAnswererId>
+    <ChosenAnswererNick>Spoiled</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266898999</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266932075</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Are you using the 64-bit edition of Internet explorer? If so, try using the 32-bit. If that&#039;s not the case, then you may want to test and make sure, java, flash, and cookies are all working properly. If all else failes, download and install firefox. 
+
+SuperGeek
+www.spoiledgeek.com</Content>
+            <Reference>Personal knowledge</Reference>
+            <Best>4</Best>
+            <UserId>E69XBmz1aa</UserId>
+            <UserNick>Spoiled</UserNick>
+            <Date>2010-02-22 20:23:19</Date>
+            <Timestamp>1266898999</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>thats a pretty common fault with internet explorer, use google chrome it is much faster and much more reliable</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ufccCilHaa</UserId>
+            <UserNick>bigbear</UserNick>
+            <Date>2010-02-22 20:49:26</Date>
+            <Timestamp>1266900566</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:24:30 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222124208AAKsHaM" type="Answered">
+    <Subject>What&#039;s the best way to stylize a ComicPress installation for my webcomic?</Subject>
+    <Content>I am attempting to revolutionize the Internet (with a revolutionary new webcomic) and have stumbled into a most unfortunate barrier. Apparently &quot;ComicPress&quot; is not so plug-and-play, user-friendly, easy-to-use as it is advertised to be.
+
+Upon installing ComicPress (an arduous task I shan&#039;t bore you with the details of) I have discovered that I lack the knowledge to customize it beyond the predetermined themes. Perhaps I have missed the option available for such a task. Regardless, I require help, and have come to Yahoo! Answers in hopes of receiving at least some insight into this conundrum of coding.
+
+Site (for reference): http://teh1337sauce.net/
+I think I should be able to style a ComicPress install without having to learn an entirely new language. That&#039;s ridiculous. Millions of people have websites, and I doubt all of them are expert programmers.
+</Content>
+    <Date>2010-02-22 12:42:08</Date>
+    <Timestamp>1266871328</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222124208AAKsHaM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SanWmAx7aa</UserId>
+    <UserNick>omgcakes</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try ComicPress 2.5 it&#039;s the Windows XP of the ComicPress versions with everything after being the Vista versions of ComicPress.  They&#039;re supposedly coming out with a ComicPress 3.0 which the webcomic community is hoping will be the Windows 7 version of ComicPress.
+
+ComicPress 2.5 is fairly easy to customize with lots of tutorials online and documentation IN the files.  I don&#039;t know of anyone who&#039;s had an easy time adapting the newer versions of ComicPress.</ChosenAnswer>
+    <ChosenAnswererId>UQ2fjBcmaa</ChosenAnswererId>
+    <ChosenAnswererNick>J.Alan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266989041</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267164060</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try ComicPress 2.5 it&#039;s the Windows XP of the ComicPress versions with everything after being the Vista versions of ComicPress.  They&#039;re supposedly coming out with a ComicPress 3.0 which the webcomic community is hoping will be the Windows 7 version of ComicPress.
+
+ComicPress 2.5 is fairly easy to customize with lots of tutorials online and documentation IN the files.  I don&#039;t know of anyone who&#039;s had an easy time adapting the newer versions of ComicPress.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UQ2fjBcmaa</UserId>
+            <UserNick>J.Alan</UserNick>
+            <Date>2010-02-23 21:24:01</Date>
+            <Timestamp>1266989041</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:27:03 PDT 2010 -->

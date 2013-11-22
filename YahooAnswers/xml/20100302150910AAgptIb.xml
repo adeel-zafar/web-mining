@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302150910AAgptIb" type="Answered">
+    <Subject>Downloading vs streaming?</Subject>
+    <Content>Generally speaking which would cause you to use more of your download limit on your internet plan.
+
+Downloading a torrent versus streaming a video (assuming it is the same video file).
+</Content>
+    <Date>2010-03-02 15:09:10</Date>
+    <Timestamp>1267571350</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302150910AAgptIb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Szp9fjb0aa</UserId>
+    <UserNick>Dan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Realistically, they are the same thing... but depending on the &quot;download&quot; version, what type of file it is makes a difference. Differing downloadable files are compressed to be differing sizes. 
+
+As for SWF and other Java type video files (streamed), they are compressed as well. chances are that the SWF and Java files are smaller. However, the quality lacks too.
+
+Factors you need to know....Size of the &quot;screen.&quot; If it is 640x720... or smaller than that... will make less of a dent in any &quot;capped&quot; internet account limits. If the screen size is 1230x720... that will make a more sizeable chunk in the cap limit. 
+
+You will also need to know the lowest bit rate (general quality), to make the right choices of limiting your download. Super good quality will take your limit almost immediately.
+
+With what little info you give, i would suggest watching it on the PC, directly (streaming), versus downloading.  AVI&#039;s and mpegs tend to be larger than Flah/java/SWF/JPEG video files.
+
+Streaming also makes sure you do not get into trouble with the Government for downloading things or making them available to others.</ChosenAnswer>
+    <ChosenAnswererId>G3ZLkvyAaa</ChosenAnswererId>
+    <ChosenAnswererNick>M G</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267575583</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267676950</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I would think streaming since the torrent is compressed.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cintjtRWaa</UserId>
+            <UserNick>pdxsdh</UserNick>
+            <Date>2010-03-02 15:13:31</Date>
+            <Timestamp>1267571611</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>THAT DEPENDS ON THE VS VS VS BUT ONE THING LEADS TO ANOTHER NO AND YES BUT TO THE CONTRARY IN REVERSE BUT THAT&#039;S UP TO YOU AND THE ONES YOU LEFT BEHIND AFTER ALL THAT&#039;S YOU ON THE CORNER THAT&#039;S YOU ON THE SPOTLIGHT LOOSING YOUR RELIGION!     AND REMEMBER ALWAYS USE CA ANTIVIRUS AND NEVER EVER BUY FROM E-BAY!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ohQKINs2aa</UserId>
+            <UserNick>MASTERUDY</UserNick>
+            <Date>2010-03-02 15:16:33</Date>
+            <Timestamp>1267571793</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Realistically, they are the same thing... but depending on the &quot;download&quot; version, what type of file it is makes a difference. Differing downloadable files are compressed to be differing sizes. 
+
+As for SWF and other Java type video files (streamed), they are compressed as well. chances are that the SWF and Java files are smaller. However, the quality lacks too.
+
+Factors you need to know....Size of the &quot;screen.&quot; If it is 640x720... or smaller than that... will make less of a dent in any &quot;capped&quot; internet account limits. If the screen size is 1230x720... that will make a more sizeable chunk in the cap limit. 
+
+You will also need to know the lowest bit rate (general quality), to make the right choices of limiting your download. Super good quality will take your limit almost immediately.
+
+With what little info you give, i would suggest watching it on the PC, directly (streaming), versus downloading.  AVI&#039;s and mpegs tend to be larger than Flah/java/SWF/JPEG video files.
+
+Streaming also makes sure you do not get into trouble with the Government for downloading things or making them available to others.</Content>
+            <Reference>Video guru.</Reference>
+            <Best>4</Best>
+            <UserId>G3ZLkvyAaa</UserId>
+            <UserNick>M G</UserNick>
+            <Date>2010-03-02 16:19:43</Date>
+            <Timestamp>1267575583</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:24:54 PDT 2010 -->

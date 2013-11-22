@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309164914AAQ4DnD" type="Answered">
+    <Subject>I can&#039;t go on any websites on Internet Explorer, but I can on Firefox. How can I fix my IE? :(?</Subject>
+    <Content>I did get a virus before (the Antivirus Soft thing) but I got rid of it. I think. 
+
+To get rid of the Antivirus Soft I did have to go on my Internet Explorer to change LAN Settings in order to download updates for Malwarebyte&#039; Anti-Malware (to get rid of the virus), but it did change back to the original settings. I still haven&#039;t been able to get on the internet through Internet Explorer since though...
+
+Help? :(
+</Content>
+    <Date>2010-03-09 16:49:14</Date>
+    <Timestamp>1268182154</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309164914AAQ4DnD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DdOaEa3Waa</UserId>
+    <UserNick>Vera</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1cFTRn3w-AAEBn4JdRJdQFnhRLw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You have to only uncheck the checkbox labeled &quot;Use a proxy server for your LAN&quot; under the Proxy Server section, I had the same issue. Here is the guide for that:
+http://www.2-viruses.com/remove-antivirus-soft</ChosenAnswer>
+    <ChosenAnswererId>bBU5XgcDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Markus</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268224856</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268273611</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You have to only uncheck the checkbox labeled &quot;Use a proxy server for your LAN&quot; under the Proxy Server section, I had the same issue. Here is the guide for that:
+http://www.2-viruses.com/remove-antivirus-soft</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bBU5XgcDaa</UserId>
+            <UserNick>Markus</UserNick>
+            <Date>2010-03-10 04:40:56</Date>
+            <Timestamp>1268224856</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:22:58 PDT 2010 -->

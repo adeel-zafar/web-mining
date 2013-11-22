@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311131143AAJAvVD" type="Answered">
+    <Subject>im looking for ranjot to ask them a question...?</Subject>
+    <Content>I just checked the box my phone came in, and there is no usb cable... what do i do now? i have a sandisk memory card, is there any way i can use that, or do i need the usb cable? where can i get the usb cable? please, email me! its driving me nuts that i have a music player on my phone, but cant use it! :-D liltnkrbel87@yahoo.com
+</Content>
+    <Date>2010-03-11 13:11:43</Date>
+    <Timestamp>1268341903</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311131143AAJAvVD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aj79CPWlaa</UserId>
+    <UserNick>liltnkrbel87</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/12hwjEyWCAAEBHCKcsBbioz4B.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Who is Ranjot?</ChosenAnswer>
+    <ChosenAnswererId>23b6749a7088443a1a545bf4e3bff54caa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268676490</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269084774</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Who is Ranjot?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>23b6749a7088443a1a545bf4e3bff54caa</UserId>
+            <UserNick>Mark D</UserNick>
+            <Date>2010-03-15 11:08:10</Date>
+            <Timestamp>1268676490</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:13:08 PDT 2010 -->

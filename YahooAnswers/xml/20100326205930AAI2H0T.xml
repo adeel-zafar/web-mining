@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326205930AAI2H0T" type="Answered">
+    <Subject>My Mozilla or Internet Explorer Isn&#039;t Working?</Subject>
+    <Content>I have a modem and I dont know what to do everytime I try to go on to them it always 
+
+Unable to connect
+# The site could be temporarily unavailable or too busy. Try again in a few
+    moments.
+
+#   If you are unable to load any pages, check your computer&#039;s network
+    connection.
+
+#   If your computer or network is protected by a firewall or proxy, make sure
+    that Firefox is permitted to access the Web.
+
+Can anyone please help me!!!!!!
+</Content>
+    <Date>2010-03-26 20:59:30</Date>
+    <Timestamp>1269662370</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326205930AAI2H0T</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LnO5cVHuaa</UserId>
+    <UserNick>JahMarley</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You should be performing a full system scan for malware and viruses.</ChosenAnswer>
+    <ChosenAnswererId>I44Y1sdQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kathia</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269662494</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270181681</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You should be performing a full system scan for malware and viruses.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>I44Y1sdQaa</UserId>
+            <UserNick>Kathia</UserNick>
+            <Date>2010-03-26 21:01:34</Date>
+            <Timestamp>1269662494</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:24:41 PDT 2010 -->

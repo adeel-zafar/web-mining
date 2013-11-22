@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313220530AAwsL9G" type="Answered">
+    <Subject>what is formspring n how does it work?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-13 22:05:30</Date>
+    <Timestamp>1268546730</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313220530AAwsL9G</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8kjlsgXaaa</UserId>
+    <UserNick>Kim</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Formspring is a website that allows people to ask you anonymous questions.
+so i could ask you a question, but you wouldn&#039;t know it was me that asked it.
+
+its a way to ask people things that you are too shy to ask.
+i have one =D</ChosenAnswer>
+    <ChosenAnswererId>tmV217YFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kyle</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268546863</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269113615</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Formspring is a website that allows people to ask you anonymous questions.
+so i could ask you a question, but you wouldn&#039;t know it was me that asked it.
+
+its a way to ask people things that you are too shy to ask.
+i have one =D</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tmV217YFaa</UserId>
+            <UserNick>Kyle</UserNick>
+            <Date>2010-03-13 22:07:43</Date>
+            <Timestamp>1268546863</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>people ask you questions.
+and you can answer .
+
+or you can ask other people questions.
+&amp; you can follow people :D</Content>
+            <Reference>http://www.formspring.me/xxjeniffer</Reference>
+            <Best></Best>
+            <UserId>AA10438958</UserId>
+            <UserNick>Jeniffer.</UserNick>
+            <Date>2010-03-15 15:32:41</Date>
+            <Timestamp>1268692361</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:22 PDT 2010 -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320154435AAJaswv" type="Answered">
+    <Subject>how do i keep internet explorer from closing all windows?</Subject>
+    <Content>when i have more than one window(not tab) open and i close another like from those pop-up ads it closes all my windows
+how to fix this?
+</Content>
+    <Date>2010-03-20 15:44:35</Date>
+    <Timestamp>1269125075</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320154435AAJaswv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>S5ioYxs5aa</UserId>
+    <UserNick>Josh</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1bxk41wlfAAEC_yFm1FC263cB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hello you have to reset the settings for Internet Explorer, follow the link below on how to fix this problem. The tutorial below was made for you!</ChosenAnswer>
+    <ChosenAnswererId>GexCCPZWaa</ChosenAnswererId>
+    <ChosenAnswererNick>2FixComputers Representative</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269125739</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269644719</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hello you have to reset the settings for Internet Explorer, follow the link below on how to fix this problem. The tutorial below was made for you!</Content>
+            <Reference>http://2fixcomputers.com/2010/03/20/how-to-stop-internet-explorer-from-closing-all-windows/</Reference>
+            <Best>5</Best>
+            <UserId>GexCCPZWaa</UserId>
+            <UserNick>2FixComputers Representative</UserNick>
+            <Date>2010-03-20 15:55:39</Date>
+            <Timestamp>1269125739</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:12 PDT 2010 -->

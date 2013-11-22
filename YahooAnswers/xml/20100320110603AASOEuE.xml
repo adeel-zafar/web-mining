@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320110603AASOEuE" type="Answered">
+    <Subject>I cannot view peoples profiles on Deviantart?</Subject>
+    <Content>I can get the main website up but not anyones art or profiles, it says there&#039;s a problem loading on firefox.
+
+what should I do?
+Thank you!
+</Content>
+    <Date>2010-03-20 11:06:03</Date>
+    <Timestamp>1269108363</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320110603AASOEuE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5iKXFxZWaa</UserId>
+    <UserNick>Lil shrew</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Wait until the problem is fixed, i can not get on mine either. ~</ChosenAnswer>
+    <ChosenAnswererId>ssue3clzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasper M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269108515</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269191688</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Wait until the problem is fixed, i can not get on mine either. ~</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper M</UserNick>
+            <Date>2010-03-20 11:08:35</Date>
+            <Timestamp>1269108515</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>DeviantArt is probably going through some sort of site maintenance-- I cannot get to mine either. (On Windows Internet Explorer OR my Mac&#039;s Safari.) When I refresh the page, it gives me the error message, &#039;Failed to open page&#039;. So obviously they&#039;re doing something with the site that is causing it to not respond. Wait a couple hours, the site should be back up and running by then.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uTmWsdNVaa</UserId>
+            <UserNick>♥KISH♥™</UserNick>
+            <Date>2010-03-20 11:43:22</Date>
+            <Timestamp>1269110602</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:31:07 PDT 2010 -->

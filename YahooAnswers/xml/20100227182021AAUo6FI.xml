@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227182021AAUo6FI" type="Answered">
+    <Subject>What are the best e-card sites?</Subject>
+    <Content>I am looking for some that have nice (funny or interesting) birthday e-cards, and which do not generate spam.
+</Content>
+    <Date>2010-02-27 18:20:21</Date>
+    <Timestamp>1267323621</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227182021AAUo6FI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>228b79483d7fd8c770c6c6d74ea8a622aa</UserId>
+    <UserNick>Brahbrah</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1CtGS29rwAAEB9iFDmDKPNwNP5NcE.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>My sister likes Blue Mountain greetings, a friend uses eeek-mail (it&#039;s all mice cards, and very cute) and I like Birthday Alarm.  I don&#039;t know the address for the eeek-mail one or Blue Mountain, but you can probably find them easily enough through your favorite search engine.  www.birthdayalarm.com is the one I use so I know that address.</ChosenAnswer>
+    <ChosenAnswererId>AA12042448</ChosenAnswererId>
+    <ChosenAnswererNick>thejanith</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267324199</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267364336</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>My sister likes Blue Mountain greetings, a friend uses eeek-mail (it&#039;s all mice cards, and very cute) and I like Birthday Alarm.  I don&#039;t know the address for the eeek-mail one or Blue Mountain, but you can probably find them easily enough through your favorite search engine.  www.birthdayalarm.com is the one I use so I know that address.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA12042448</UserId>
+            <UserNick>thejanith</UserNick>
+            <Date>2010-02-27 18:29:59</Date>
+            <Timestamp>1267324199</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:41:31 PDT 2010 -->

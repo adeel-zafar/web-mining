@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322122338AAdwscH" type="Answered">
+    <Subject>What are your favorite blogs?</Subject>
+    <Content>Funny, interesting, educational, etc...?
+</Content>
+    <Date>2010-03-22 12:23:38</Date>
+    <Timestamp>1269285818</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322122338AAdwscH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d3d13c3a356fcaba37c1101964d70d87aa</UserId>
+    <UserNick>Ceecee</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Z4A8RJPbAAEDDIKcSDNrds0A.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://boingboing.net/
+http://lifehacker.com/</ChosenAnswer>
+    <ChosenAnswererId>95C7mHsGaa</ChosenAnswererId>
+    <ChosenAnswererNick>rehpotsirhc</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269285943</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269364752</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://boingboing.net/
+http://lifehacker.com/</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>95C7mHsGaa</UserId>
+            <UserNick>rehpotsirhc</UserNick>
+            <Date>2010-03-22 12:25:43</Date>
+            <Timestamp>1269285943</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There are so many bloog search at google.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oVZ2hQLmaa</UserId>
+            <UserNick>john</UserNick>
+            <Date>2010-03-22 12:30:08</Date>
+            <Timestamp>1269286208</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://masi-green.blogfa.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vYyoXdcaaa</UserId>
+            <UserNick>MAsi</UserNick>
+            <Date>2010-03-22 12:40:58</Date>
+            <Timestamp>1269286858</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:38 PDT 2010 -->

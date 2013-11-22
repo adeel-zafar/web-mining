@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326154422AANM8hh" type="Answered">
+    <Subject>Is there anyway I can record or download something when I watch it on ABC iview?</Subject>
+    <Content>Is it possible to download or record an episode on a tv show you watch on abc iview?
+</Content>
+    <Date>2010-03-26 15:44:22</Date>
+    <Timestamp>1269643462</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326154422AANM8hh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>X5bsZh9aaa</UserId>
+    <UserNick>saraah -</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1cF0ec6mBAAEC3cQnQlgzDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://whirlpool.net.au/wiki/?tag=ABC_iView_Downloader
+
+http://users.on.net/~m.elliott/i/index.html</ChosenAnswer>
+    <ChosenAnswererId>gtfndCNhaa</ChosenAnswererId>
+    <ChosenAnswererNick>len</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269714647</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270163009</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You might want to look into a free program called Freecorder. However, some sites have their signals scrambled so downloading isn&#039;t possible, even with programs like Freecorder. This is to protect copyrighted material from being grabbed without authorization.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>J5AcooGMaa</UserId>
+            <UserNick>skootie</UserNick>
+            <Date>2010-03-26 16:33:03</Date>
+            <Timestamp>1269646383</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://whirlpool.net.au/wiki/?tag=ABC_iView_Downloader
+
+http://users.on.net/~m.elliott/i/index.html</Content>
+            <Reference>http://forums.whirlpool.net.au/forum-replies-archive.cfm/1212283.html</Reference>
+            <Best>5</Best>
+            <UserId>gtfndCNhaa</UserId>
+            <UserNick>len</UserNick>
+            <Date>2010-03-27 11:30:47</Date>
+            <Timestamp>1269714647</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:49 PDT 2010 -->

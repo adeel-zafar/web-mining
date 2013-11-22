@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225093829AAxNMse" type="Answered">
+    <Subject>Why can&#039;t I get onto solefootwear.co.uk?</Subject>
+    <Content>I saw an ad in a magazine for it, but i can&#039;t get on |:
+Is it just me? Can you get on the site?
+
+This is what it says when i try visit the site:
+Forbidden
+You don&#039;t have permission to access / on this server.
+
+Additionally, a 404 Not Found error was encountered while trying to use an ErrorDocument to handle the request.
+
+What is this all about?
+Thanks!
+</Content>
+    <Date>2010-02-25 09:38:29</Date>
+    <Timestamp>1267119509</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225093829AAxNMse</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CJIRbRjTaa</UserId>
+    <UserNick>Amy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi
+They&#039;ve have had a holding page up since Friday, as they further develop their site.
+  
+
+I have just checked and guess what......... it&#039;s back on!! Whoop whoop!</ChosenAnswer>
+    <ChosenAnswererId>idu7EdPbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Christine</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267324814</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267638978</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hi
+They&#039;ve have had a holding page up since Friday, as they further develop their site.
+  
+
+I have just checked and guess what......... it&#039;s back on!! Whoop whoop!</Content>
+            <Reference>More! Magazine &amp; Twitter</Reference>
+            <Best>5</Best>
+            <UserId>idu7EdPbaa</UserId>
+            <UserNick>Christine</UserNick>
+            <Date>2010-02-27 18:40:14</Date>
+            <Timestamp>1267324814</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:57:59 PDT 2010 -->

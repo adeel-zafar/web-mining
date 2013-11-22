@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226085324AAukAe8" type="Answered">
+    <Subject>I installed Java update &amp; Adobe Flash Player update &amp; now I can&#039;t see videos on YouTube using either browser?</Subject>
+    <Content>YouTube says I need to turn on JavaScript or install new version of Flash Player.  I have the latest version of the Flash Player installed and JavaScript is on &quot;on&quot; the Firefox browser.  When I tried viewing a Youtube video using Internet Explorer, it just shows me a black box where the video should play and simply doesn&#039;t play.
+
+I&#039;ve also cleared the recent History on my Firefox Browser.  
+
+Should I turn Comodo Firewall off?  Would that help?
+Should I delete the last updates somehow?  (Java &amp; Adobe Flash Player)
+
+Everything seemed to be working fine until I installed the Java update but that could just be a coincidence. 
+
+Any help would greatly be appreciated...
+Would using System Restore to go to a previous date correct this?
+Restarting or rebooting didn&#039;t help anything...
+</Content>
+    <Date>2010-02-26 08:53:24</Date>
+    <Timestamp>1267203204</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226085324AAukAe8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SfS4d0gkaa</UserId>
+    <UserNick>Dawn</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a51a87ei1763zul6sp1/o4rekaUherUtHs3FBghN1Y2GlA--/107/tn48.jpg?ciAAToMBRXjeo8el</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Java has nothing to do with YouTube, as youtube runs in flash player. Try restarting and clearing your cache.</ChosenAnswer>
+    <ChosenAnswererId>us3dBYpeaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267204537</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267827139</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you have to install flash player for other browser
+maybe google for this file
+install_flash_player_ax.exe</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2bLZ1Hiyaa</UserId>
+            <UserNick>Paddy</UserNick>
+            <Date>2010-02-26 08:59:42</Date>
+            <Timestamp>1267203582</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it would be a bad idea to shut off fire-wall unless you put a time limited for how long for,or other wise the viruses will get-in,do not want that to happen?there is a warning about down-loading adobe flash player did you not see it?that is no coincidence,was not your computer working properly before you installed  java and the flash-player?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GZXZl131aa</UserId>
+            <UserNick>mommy</UserNick>
+            <Date>2010-02-26 09:02:43</Date>
+            <Timestamp>1267203763</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>restart your computer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZGldHJL5aa</UserId>
+            <UserNick>KingTitansFan28</UserNick>
+            <Date>2010-02-26 09:13:20</Date>
+            <Timestamp>1267204400</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Java has nothing to do with YouTube, as youtube runs in flash player. Try restarting and clearing your cache.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>us3dBYpeaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-02-26 09:15:37</Date>
+            <Timestamp>1267204537</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:51:31 PDT 2010 -->

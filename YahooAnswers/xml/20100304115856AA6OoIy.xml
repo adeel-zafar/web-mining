@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304115856AA6OoIy" type="Answered">
+    <Subject>How many prizes can I redeem in Lockerz general redemption?</Subject>
+    <Content>
+How many can I redeem at a time?
+</Content>
+    <Date>2010-03-04 11:58:56</Date>
+    <Timestamp>1267732736</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304115856AA6OoIy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cuWx22Wnaa</UserId>
+    <UserNick>pebbz16</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Each month or restock you can only get one prize. It doesn&#039;t matter how many waves you buy, you can only get one prize and thats it for that redemption. You have to wait untill the next redemption to get more.</ChosenAnswer>
+    <ChosenAnswererId>FglBPZnHaa</ChosenAnswererId>
+    <ChosenAnswererNick>Danny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267766612</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267982386</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Each month or restock you can only get one prize. It doesn&#039;t matter how many waves you buy, you can only get one prize and thats it for that redemption. You have to wait untill the next redemption to get more.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FglBPZnHaa</UserId>
+            <UserNick>Danny</UserNick>
+            <Date>2010-03-04 21:23:32</Date>
+            <Timestamp>1267766612</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:10:34 PDT 2010 -->

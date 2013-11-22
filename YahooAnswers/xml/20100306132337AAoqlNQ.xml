@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306132337AAoqlNQ" type="Answered">
+    <Subject>Help with internet explorer 8 !?</Subject>
+    <Content>I updated my browser and i can&#039;t check email or watch videos on youtube aand i cant view certain pages please help.
+</Content>
+    <Date>2010-03-06 13:23:37</Date>
+    <Timestamp>1267910617</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306132337AAoqlNQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1FD8HjXZaa</UserId>
+    <UserNick>mark s</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1VXXk_sy9AAABPcF2sI9kUk4A.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Get Firefox you will never have any problems with it</ChosenAnswer>
+    <ChosenAnswererId>jiBhKRxjaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bobby Joe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267912450</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268430287</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Get Firefox you will never have any problems with it</Content>
+            <Reference>i&#039;ve tried many different browsers and firefox is by far the best</Reference>
+            <Best>5</Best>
+            <UserId>jiBhKRxjaa</UserId>
+            <UserNick>Bobby Joe</UserNick>
+            <Date>2010-03-06 13:54:10</Date>
+            <Timestamp>1267912450</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you installed Adobe Flash Player, than reset IE8 to Defaults in Options, Advanced, use ccleaner and restart PC...</Content>
+            <Reference>http://download.cnet.com/ccleaner/
+http://amapplease.blogspot.com/2009/03/ie8-adobe-flash-player-fix.html</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-06 13:57:18</Date>
+            <Timestamp>1267912638</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try enabling compatibility mode. It is the broken page icon next to the refresh button on the toolbar. Here’s a good resource from the IEBlog that talks about compatibility mode in detail if you’d like to learn more: http://blogs.msdn.com/ie/archive/2009/02/16/just-the-facts-recap-of-compatibility-view.aspx 
+
+If that doesn’t work, run IE in No Add-ons Mode.  Go to Start -&gt; All Programs -&gt; Accessories -&gt; System Tools -&gt; Internet Explorer (No Add-ons) - If this fixes the issue, then go to Tools -&gt; Manage Add-ons and enable the add-ons one by one to find which one was causing the problem. 
+
+You can also try resetting Internet Explorer&#039;s settings by going to Tools &gt; Internet Options and then the &quot;Advanced&quot; tab, and click &quot;Reset...&quot; 
+
+If you’re still not having any luck, I recommend you reinstall IE8 on your system.
+
+I hope that helps!
+
+Cheers,
+Bryn
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5A9mfbA3aa</UserId>
+            <UserNick>Bryn</UserNick>
+            <Date>2010-03-08 16:37:09</Date>
+            <Timestamp>1268095029</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:46:40 PDT 2010 -->

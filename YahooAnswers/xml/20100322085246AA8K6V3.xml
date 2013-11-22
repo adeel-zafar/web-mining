@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322085246AA8K6V3" type="Answered">
+    <Subject>Is there an alternative to archive.org?</Subject>
+    <Content>I use it to get an embed code so that I can publish podcasts on my blog. However, I don&#039;t want everyone to be able to hear them, and archive.org makes them public. Is there an alternative to archive or somewhere else I can get an embed code for my podcast? (Or can I make my archive.org account private?) Thank you!
+</Content>
+    <Date>2010-03-22 08:52:46</Date>
+    <Timestamp>1269273166</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322085246AA8K6V3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oYKRzYJXaa</UserId>
+    <UserNick>Isabella</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1fyHJH880AAEDcYycYVA=.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you could use skydrive from Google, has much spcae too.</ChosenAnswer>
+    <ChosenAnswererId>YoH1Wim6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Ton V wijngaarde</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269273991</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269468063</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you could use skydrive from Google, has much spcae too.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>YoH1Wim6aa</UserId>
+            <UserNick>Ton V wijngaarde</UserNick>
+            <Date>2010-03-22 09:06:31</Date>
+            <Timestamp>1269273991</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:36 PDT 2010 -->

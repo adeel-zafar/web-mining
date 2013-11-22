@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313161854AAFs1Ej" type="Answered">
+    <Subject>Upgrading to Firefox 3.6 from 3.5.8 and keeping the Settings &amp; Bookmarks. Do I need to uninstall first ?</Subject>
+    <Content>hi.
+
+I wanted to keep my bookmarks &amp; settings etc.
+Are they gonna be automatically stored ?
+I think they are gonna be stored in firefox setting folder... right ? then be used/updated by the new firefox ..?
+
+And Do I need to uninstall my firefox 3.5.8 first before installing the update ???
+or is it automatic
+
+I ran Vista 64
+
+thanks
+</Content>
+    <Date>2010-03-13 16:18:54</Date>
+    <Timestamp>1268525934</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313161854AAFs1Ej</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6hGV3oZhaa</UserId>
+    <UserNick>seattlerose</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The new version will automatically get the configurations and setting from the older one, so no worries go ahead.
+
+Regards</ChosenAnswer>
+    <ChosenAnswererId>OXzlezk9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Saurav</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268526537</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269041699</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just do the upgrade, everything will be kept intact.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-13 16:20:38</Date>
+            <Timestamp>1268526038</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The new version will automatically get the configurations and setting from the older one, so no worries go ahead.
+
+Regards</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OXzlezk9aa</UserId>
+            <UserNick>Saurav</UserNick>
+            <Date>2010-03-13 16:28:57</Date>
+            <Timestamp>1268526537</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:32 PDT 2010 -->

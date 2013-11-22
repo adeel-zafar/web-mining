@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311005836AACuPmM" type="Answered">
+    <Subject>What happend isohunt?</Subject>
+    <Content>i can&#039;t access this site last some days i got this message &quot;Oops! This link appears to be broken.&quot; what happend dear Isohunt....
+</Content>
+    <Date>2010-03-11 00:58:36</Date>
+    <Timestamp>1268297916</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311005836AACuPmM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qS7QzlSGaa</UserId>
+    <UserNick>bijoy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1EL-EM39-AAEC_IFH1GU=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it is a website to upload your torrent files and update your torrent trackes ,,,......hence the link http://isohunt.com</ChosenAnswer>
+    <ChosenAnswererId>cHJ8456Qaa</ChosenAnswererId>
+    <ChosenAnswererNick>Prasanna</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268374883</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268813604</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Are you going straight to IsoHunt&#039;s main page, or is the link to something on the site?
+
+A straight link (http://isohunt.com/) works on my pc.
+
+If you use a link to something (http://isohunt.com/release/blablabla/), then whatever &quot;blablabla&quot; is, might have been removed.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IZDz7El2aa</UserId>
+            <UserNick>lantere</UserNick>
+            <Date>2010-03-11 01:55:24</Date>
+            <Timestamp>1268301324</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it is a website to upload your torrent files and update your torrent trackes ,,,......hence the link http://isohunt.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cHJ8456Qaa</UserId>
+            <UserNick>Prasanna</UserNick>
+            <Date>2010-03-11 22:21:23</Date>
+            <Timestamp>1268374883</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:14:27 PDT 2010 -->

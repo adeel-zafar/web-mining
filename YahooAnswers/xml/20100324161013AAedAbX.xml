@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324161013AAedAbX" type="Answered">
+    <Subject>Accidentally deleted URL bar from Safari?</Subject>
+    <Content>I right clicked on the bar and accidentally unchecked one of the options and it deleted it. Please help me get it back.
+</Content>
+    <Date>2010-03-24 16:10:13</Date>
+    <Timestamp>1269472213</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324161013AAedAbX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SAxYkIW2aa</UserId>
+    <UserNick>plz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Right click on the top of the window, and a menu should pop up. Go into toolbars and  bring it back.</ChosenAnswer>
+    <ChosenAnswererId>LAxD9fWJaa</ChosenAnswererId>
+    <ChosenAnswererNick>askthesmartguy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269472398</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269488118</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Right click on the top of the window, and a menu should pop up. Go into toolbars and  bring it back.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>LAxD9fWJaa</UserId>
+            <UserNick>askthesmartguy</UserNick>
+            <Date>2010-03-24 16:13:18</Date>
+            <Timestamp>1269472398</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:33:53 PDT 2010 -->

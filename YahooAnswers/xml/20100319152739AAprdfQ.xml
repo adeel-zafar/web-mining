@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319152739AAprdfQ" type="Answered">
+    <Subject>My firefox or google chrome browser wont open?</Subject>
+    <Content>whenever i try this box pops up saying &quot;this operation has been cancelled due to restrictions in effect on this computer. please contact your system administrator.&quot;
+
+i am logged in as administator, i tried restarting it, i right clicked and clicked on run as administrator but nothing works, what do i do?
+</Content>
+    <Date>2010-03-19 15:27:39</Date>
+    <Timestamp>1269037659</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319152739AAprdfQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>h7uHcpBhaa</UserId>
+    <UserNick>Brownie&lt;3 ;)</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4aa2d28aiea6zul4re4/kd2Vbv8pY75kzGBzLiH677f8FWQlKBt9Lg--/10/tn48.jpg?ciAAToMBnk0To3Og</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Before I can help you I would need to know what Operating system are you using? From what I could pick up, is it Windows Vista by chance.
+I&#039;ll also need to know what you were doing or what you did prior to getting this message?
+Did you just updated your antivirus or your browsers by chance.
+Get back to me as soon as possible so that I can try to help you ok.
+Though it seems as though something or someone changed your permissions so you should definitely check it out. if everything seems ok then it could be a spyware or malware.
+Try installing spybot-search and destroy--&gt;http://download.cnet.com/Spybot-Search-amp-Destroy/3000-8022_4-10122137.html
+and scanning your system and you can also try 
+running Malwarebytes--&gt;http://www.malwarebytes.org/
+
+Hope this was somewhat helpful but I still need to know what I asked earlier so that I could further assist.</ChosenAnswer>
+    <ChosenAnswererId>mIsa8bMgaa</ChosenAnswererId>
+    <ChosenAnswererNick>leigh j</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269039436</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269557233</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Before I can help you I would need to know what Operating system are you using? From what I could pick up, is it Windows Vista by chance.
+I&#039;ll also need to know what you were doing or what you did prior to getting this message?
+Did you just updated your antivirus or your browsers by chance.
+Get back to me as soon as possible so that I can try to help you ok.
+Though it seems as though something or someone changed your permissions so you should definitely check it out. if everything seems ok then it could be a spyware or malware.
+Try installing spybot-search and destroy--&gt;http://download.cnet.com/Spybot-Search-amp-Destroy/3000-8022_4-10122137.html
+and scanning your system and you can also try 
+running Malwarebytes--&gt;http://www.malwarebytes.org/
+
+Hope this was somewhat helpful but I still need to know what I asked earlier so that I could further assist.</Content>
+            <Reference>me.</Reference>
+            <Best>5</Best>
+            <UserId>mIsa8bMgaa</UserId>
+            <UserNick>leigh j</UserNick>
+            <Date>2010-03-19 15:57:16</Date>
+            <Timestamp>1269039436</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:41 PDT 2010 -->

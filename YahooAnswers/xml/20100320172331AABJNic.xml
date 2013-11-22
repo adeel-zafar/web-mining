@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320172331AABJNic" type="Answered">
+    <Subject>can anyone tell me if this site is legit?</Subject>
+    <Content>I found the site newest-laptops.com while searching the web for a new macbook and i just wanted to get a second opinion. It&#039;s so much cheaper to buy it here than off apple themselves. Does it look like a scam?
+</Content>
+    <Date>2010-03-20 17:23:31</Date>
+    <Timestamp>1269131011</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320172331AABJNic</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4CM3QYziaa</UserId>
+    <UserNick>Amy S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I don&#039;t think this site can be trusted so better not put any personal information in there. Just my opinion anyway.</ChosenAnswer>
+    <ChosenAnswererId>vn4EGZxdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Clio</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269132070</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269650646</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>DEFINITELY a scam.  Apple does not allow authorized retailers to alter their prices.  Therefore, if a price is different than that from Apple&#039;s website, then they cannot possibly be an authorized retailer and therefore it&#039;s a scam.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XlyLakYAaa</UserId>
+            <UserNick>Mercuri</UserNick>
+            <Date>2010-03-20 17:28:21</Date>
+            <Timestamp>1269131301</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I don&#039;t think this site can be trusted so better not put any personal information in there. Just my opinion anyway.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>vn4EGZxdaa</UserId>
+            <UserNick>Clio</UserNick>
+            <Date>2010-03-20 17:41:10</Date>
+            <Timestamp>1269132070</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Install the WOT (Web of Trust) add on for Internet Explorer or Mozilla Firefox. It&#039;s a very useful link scanner for surfing the web and it&#039;s free. ^_^</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>T6JiAnmeaa</UserId>
+            <UserNick>Philip</UserNick>
+            <Date>2010-03-20 17:44:50</Date>
+            <Timestamp>1269132290</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:56 PDT 2010 -->

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223083805AAD6h5A" type="Answered">
+    <Subject>My internet hasn&#039;t been working even though there&#039;s wifi...?</Subject>
+    <Content>Every time I try to connect to the internet using Internet Explorer, it pops up and then doesn&#039;t load past saying &quot;Connecting&quot; and then eventually it closes by itself. Also, when I attempt to log onto yahoo messenger or itunes music store it doesn&#039;t work, so it&#039;s not just the Internet Explorer that&#039;s the problem. And it&#039;s not that I don&#039;t have wifi, all the green bars are there. I have a laptop and it&#039;s a few years old, but still. I don&#039;t understand how it just stopped working, maybe a virus? Let me know :) Is it fixable?
+</Content>
+    <Date>2010-02-23 08:38:05</Date>
+    <Timestamp>1266943085</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223083805AAD6h5A</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XwaWk0bmaa</UserId>
+    <UserNick>sheila</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1OCarn1niAAEC5GSb3cTyiEEhLA==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go to WiFi Router Web interface and check if DHCP server is Enabler (this service distribute ip addresse for computer in your home network), if it&#039;s not enable it. If everithiong is ok with IPs. then try to download Kaspersky Removal Tool or Norton Removal Tool from inet and check your laptop for troyans and viruses or Go to DrWeb.com and check it throgh site for viruses..............</ChosenAnswer>
+    <ChosenAnswererId>zVu19UBCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Topi jerami</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267265212</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267462474</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>well thats odd. if you have no internet, I can understand itunes would not work. and yahoo as well.  you may have a bad internet connection, even if it is full bars.  so here is what I would do.   
+
+CLICK START, [windows button on the far bottom left]  
+than click CONTROL PANEL
+than find the  NETWORK AND INTERNET subject
+dont click it, but look at the bottom links. and click
+VIEW NETWORK STATUS AND TASKS
+than click view status. 
+
+this is all I can help you with. but if you have further questions, email me.   PS. this was for vista, and windows 7
+
+----------------------------------------------
+Max - age 14</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>f3elTb0maa</UserId>
+            <UserNick>UnrealHawk</UserNick>
+            <Date>2010-02-23 08:44:27</Date>
+            <Timestamp>1266943467</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it&#039;s probably because on your laptop there is a fixed ip address. go to Network setting choose your WiFi adapter and turn static ip to dynamic ip. If you have got dynamioc ip in you laptop, then go to WiFi Router Web interface and check if DHCP server is Enabler (this service distribute ip addresse for computer in your home network), if it&#039;s not enable it. If everithiong is ok with IPs. then try to download Kaspersky Removal Tool or Norton Removal Tool from inet and check your laptop for troyans and viruses or Go to DrWeb.com and check it throgh site for viruses. May be it will help you.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XoZJtIA5aa</UserId>
+            <UserNick>Computer Guru</UserNick>
+            <Date>2010-02-23 12:28:14</Date>
+            <Timestamp>1266956894</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go to WiFi Router Web interface and check if DHCP server is Enabler (this service distribute ip addresse for computer in your home network), if it&#039;s not enable it. If everithiong is ok with IPs. then try to download Kaspersky Removal Tool or Norton Removal Tool from inet and check your laptop for troyans and viruses or Go to DrWeb.com and check it throgh site for viruses..............</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>zVu19UBCaa</UserId>
+            <UserNick>Topi jerami</UserNick>
+            <Date>2010-02-27 02:06:52</Date>
+            <Timestamp>1267265212</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:21:51 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312164945AAGB1eY" type="Answered">
+    <Subject>question about kijiji?</Subject>
+    <Content>How do you specify your area like, by zip code or something on kijiji?
+</Content>
+    <Date>2010-03-12 16:49:45</Date>
+    <Timestamp>1268441385</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312164945AAGB1eY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RCvClPaOaa</UserId>
+    <UserNick>kanga</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1L5VAVB_4AAEBDQJe1FkTDg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>WHAT are you TALKING about dude?!?!  Lol.  What&#039;s a Kijiji?  Sounds MADE UP to me!</ChosenAnswer>
+    <ChosenAnswererId>Vfcmzn4Eaa</ChosenAnswererId>
+    <ChosenAnswererNick>Em</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268447811</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268489402</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>WHAT are you TALKING about dude?!?!  Lol.  What&#039;s a Kijiji?  Sounds MADE UP to me!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Vfcmzn4Eaa</UserId>
+            <UserNick>Em</UserNick>
+            <Date>2010-03-12 18:36:51</Date>
+            <Timestamp>1268447811</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:25 PDT 2010 -->

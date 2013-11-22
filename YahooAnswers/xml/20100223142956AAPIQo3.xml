@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223142956AAPIQo3" type="Answered">
+    <Subject>How do I get my own &#039;.com&#039; website without spending much money?</Subject>
+    <Content>I&#039;m trying to set up a non-profit website and I&#039;ve been looking up domains and things like that but most of it seems like it&#039;s going to cost about $10 a month or more. I don&#039;t really want to spend $100 a year on this website, although it is important to me to start it. Any advice?
+</Content>
+    <Date>2010-02-23 14:29:56</Date>
+    <Timestamp>1266964196</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223142956AAPIQo3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sZtPExtwaa</UserId>
+    <UserNick>trustworthy.</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1kax-BTD6AAECXoN2OJJx4lyiy3WCgxTxl1ZW.medium.png</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You need both a domain name and hosting in order to create a website.
+
+I recommend one of these: http://www.tophostingpicks.com
+
+iPage has the best offer right now.
+Their standard price is $84/year ($6.95) but they have
+a 50% sale, one year of hosting for $42.00.
+
+Their plan includes:
+
+Unlimited disk space
+Unlimited bandwidth
+Free domain name
+
+Price: $42/year ($3.50)
+
+They have one of the most popular hosting platforms, which currently hosts over a million websites. They&#039;re also one of the oldest hosting companies, founded in 1998.
+
+They include a free point &amp; click online site builder so you can create a website without any programming (easily, just by drag and drop) or you could install Wordpress (they include easy, one click install from their control panel), choose a theme that you like, and start adding content.
+
+They also have a great custom control panel with OneClick installs of all the popular software like Wordpress, Joomla, Forums, Chat, Galleries, Online stores and a lot more.</ChosenAnswer>
+    <ChosenAnswererId>nhkgkp0uaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jason</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266965977</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267483686</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Web Hosting and your domain name costs a bit over $50 per year.
+
+http://www.godaddy.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bVHnNqzBaa</UserId>
+            <UserNick>Gaytheist Buddha</UserNick>
+            <Date>2010-02-23 14:32:47</Date>
+            <Timestamp>1266964367</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sorry, But www.godaddy.com is very cheap domains good luck!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6jncFameaa</UserId>
+            <UserNick>J chillin</UserNick>
+            <Date>2010-02-23 14:32:50</Date>
+            <Timestamp>1266964370</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>dfdhgswghfshdbhg</Content>
+            <Reference>gasergatrhgatgf</Reference>
+            <Best></Best>
+            <UserId>PJCg22Blaa</UserId>
+            <UserNick>Zack</UserNick>
+            <Date>2010-02-23 14:34:07</Date>
+            <Timestamp>1266964447</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>freewebs.com its free!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0xd62OGIaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-02-23 14:34:59</Date>
+            <Timestamp>1266964499</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You get what you pay for.
+
+To have your own domain inside .com or .org, you have to pay a registration fee. These are typically around $15/year and you can&#039;t get around them. This reserves the name for your use but doesn&#039;t supply anything to actually do anything with it.
+
+GoDaddy offers hosting for as little as $5/month, see my first link. With registration, that would cost you about $72 for a year.
+
+Another possibility is to start out with free hosting without your own domain name and then use a domain registrar who provides free URL redirection (second link). The way this works is as follows:
+
+1) You register for a free web site at any service you like. (Search for &#039;free web hosting&#039;.) Note that most of these are ad supported.
+
+2) You get the URL for your web site, it will be something like http://www.somehostingcomapny.com/mywebsitename/
+
+3) You then register for a .com or .org address with a provider that offers URL redirection and configure their redirection service to redirect http://www.yourwebsitenet.com/ to http://www.somehostingcomapny.com/mywebsitename/
+
+This will allow people to get to your web site by entering your domain name, although their address bar will immediately change to the longer, uglier address.
+
+You can upgrade to paid hosting later, and people will still be able to find your site assuming they didn&#039;t bookmark the inside pages.
+
+This will get your cost down to $15/year. But the huge downside is that any links inside your web site that become popular will be lost if you move to paid hosting.</Content>
+            <Reference>https://www.godaddy.com/hosting/web-hosting.aspx
+http://www.arbordomains.com/</Reference>
+            <Best></Best>
+            <UserId>ebuxHnScaa</UserId>
+            <UserNick>JoelKatz</UserNick>
+            <Date>2010-02-23 14:39:01</Date>
+            <Timestamp>1266964741</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You need both a domain name and hosting in order to create a website.
+
+I recommend one of these: http://www.tophostingpicks.com
+
+iPage has the best offer right now.
+Their standard price is $84/year ($6.95) but they have
+a 50% sale, one year of hosting for $42.00.
+
+Their plan includes:
+
+Unlimited disk space
+Unlimited bandwidth
+Free domain name
+
+Price: $42/year ($3.50)
+
+They have one of the most popular hosting platforms, which currently hosts over a million websites. They&#039;re also one of the oldest hosting companies, founded in 1998.
+
+They include a free point &amp; click online site builder so you can create a website without any programming (easily, just by drag and drop) or you could install Wordpress (they include easy, one click install from their control panel), choose a theme that you like, and start adding content.
+
+They also have a great custom control panel with OneClick installs of all the popular software like Wordpress, Joomla, Forums, Chat, Galleries, Online stores and a lot more.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nhkgkp0uaa</UserId>
+            <UserNick>Jason</UserNick>
+            <Date>2010-02-23 14:59:37</Date>
+            <Timestamp>1266965977</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:18:44 PDT 2010 -->

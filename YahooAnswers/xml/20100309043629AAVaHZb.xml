@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309043629AAVaHZb" type="Answered">
+    <Subject>Why won&#039;t my hatchlings grow up?</Subject>
+    <Content>One has 3,603 views, 980 unique views and 8 clicks and STILL hasn&#039;t become an adult yet. Another adult of the same breed and gender had significantly less of all three. So what gives? D:
+</Content>
+    <Date>2010-03-09 04:36:29</Date>
+    <Timestamp>1268138189</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309043629AAVaHZb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zSw7Izihaa</UserId>
+    <UserNick>I</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1r71_f92VAAAB94FDNA2_UTueCeGRdJXuMAI=.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What game are you referring to?</ChosenAnswer>
+    <ChosenAnswererId>AInPUiTLaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268139721</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268653978</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What game are you referring to?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AInPUiTLaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-09 05:02:01</Date>
+            <Timestamp>1268139721</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:26:19 PDT 2010 -->

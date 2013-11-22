@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312184729AAiXvWY" type="Answered">
+    <Subject>INTERNET ROUTER question?</Subject>
+    <Content>alright, I have a laptop and soon my little sister is getting a netbook. I have a wireless router, but i was thinking if the router can give access to both my laptop and netbook without getting another Enternet cable or router??
+</Content>
+    <Date>2010-03-12 18:47:29</Date>
+    <Timestamp>1268448449</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312184729AAiXvWY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FlC6JTcNaa</UserId>
+    <UserNick>Cindy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/14p6bBW3bAAEB3WTF6MK1-BebbvkG.medium.jpg</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you are using wireless on both your laptop and your netbook, then you don&#039;t need any extra cables or routers.  Multiple devices can connect to a wireless router at once.</ChosenAnswer>
+    <ChosenAnswererId>gj86YTRHaa</ChosenAnswererId>
+    <ChosenAnswererNick>Poui</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268448544</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268489055</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you are using wireless on both your laptop and your netbook, then you don&#039;t need any extra cables or routers.  Multiple devices can connect to a wireless router at once.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>gj86YTRHaa</UserId>
+            <UserNick>Poui</UserNick>
+            <Date>2010-03-12 18:49:04</Date>
+            <Timestamp>1268448544</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes.</Content>
+            <Reference>Thats what a Wirless Router is designed to do.</Reference>
+            <Best></Best>
+            <UserId>userIY9Laa</UserId>
+            <UserNick>Rick</UserNick>
+            <Date>2010-03-12 18:49:24</Date>
+            <Timestamp>1268448564</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tdQTZPI7aa</UserId>
+            <UserNick>Age of Reason</UserNick>
+            <Date>2010-03-12 18:49:27</Date>
+            <Timestamp>1268448567</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it should most can handle two or more machines. although with both on at once, you may notice a tad slower speed.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>47117270d222bc03bb11a9b57fb4e4cfaa</UserId>
+            <UserNick>globeweasel</UserNick>
+            <Date>2010-03-12 18:49:35</Date>
+            <Timestamp>1268448575</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes. Most routers will support up to 256 devices. Normally this is 4 hardwired and the rest would be wireless unless a switch is added to the router. 
+
+In you case, you would only need a cable if you wanted to plug the netbook directly into a port on the router instead of using a wireless connection.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eI3Kgfi8aa</UserId>
+            <UserNick>GideonD</UserNick>
+            <Date>2010-03-12 18:50:45</Date>
+            <Timestamp>1268448645</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes it can not a problem 90% of wireless routers theese days have upt2  4 connections on them 95% have atleast 2...</Content>
+            <Reference>13years computer experience and still counting day by day</Reference>
+            <Best></Best>
+            <UserId>JA3QGuEkaa</UserId>
+            <UserNick>Julz</UserNick>
+            <Date>2010-03-12 18:51:21</Date>
+            <Timestamp>1268448681</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you have some more information about the model of router (and how you&#039;ve got it connected currently) somebody might be able to check for certain.
+
+Routers generally are not single device err, devices. They&#039;re designed to connect multiple machines to the internet at the same time.
+
+So just hook her netbook up with wireless and away you go!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MY7pNtiyaa</UserId>
+            <UserNick>Pete</UserNick>
+            <Date>2010-03-12 18:53:56</Date>
+            <Timestamp>1268448836</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:05 PDT 2010 -->

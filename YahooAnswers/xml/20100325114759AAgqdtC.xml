@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325114759AAgqdtC" type="Answered">
+    <Subject>Why are all my tweets gone?</Subject>
+    <Content>Today when I went to check my profile all what I tweeted was gone! Even my followers couldnt see my old tweets, what happened? is there any way of getting my tweets back? a friend said my old tweets still show in his front page but not when she clicks on my profile! help! :( I rly want them back
+</Content>
+    <Date>2010-03-25 11:47:59</Date>
+    <Timestamp>1269542879</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325114759AAgqdtC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DCLGNDXNaa</UserId>
+    <UserNick>WillowSauce</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It might just be a glitch, try checking it later and maybe they will come back?
+Its happened to me before too :(</ChosenAnswer>
+    <ChosenAnswererId>OM69aR4Kaa</ChosenAnswererId>
+    <ChosenAnswererNick>twitter= foreverFAM0US</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269550201</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270062319</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It might just be a glitch, try checking it later and maybe they will come back?
+Its happened to me before too :(</Content>
+            <Reference>http://twitter.com/Jennifehrrr</Reference>
+            <Best>5</Best>
+            <UserId>OM69aR4Kaa</UserId>
+            <UserNick>jEN</UserNick>
+            <Date>2010-03-25 13:50:01</Date>
+            <Timestamp>1269550201</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:30:57 PDT 2010 -->

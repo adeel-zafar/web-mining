@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223155208AABIOuI" type="Answered">
+    <Subject>What do you like about facebook?</Subject>
+    <Content>A lot of people lately have been saying myspace is dead, and that facebook is much better, but i made a facebook and its doesnt look like there is much, the wall is very simple, and it looks like everything is just information, its doesnt seem very personal or creative to me, but maybe i am just not seeing what everyone else sees, why do people prefer facebook?
+</Content>
+    <Date>2010-02-23 15:52:08</Date>
+    <Timestamp>1266969128</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223155208AABIOuI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NAKhaTFoaa</UserId>
+    <UserNick>Scottie</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Facebook has bigger advertisment :)))</ChosenAnswer>
+    <ChosenAnswererId>Ld5eKuVOaa</ChosenAnswererId>
+    <ChosenAnswererNick>zoliky</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266969233</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267035065</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Facebook has bigger advertisment :)))</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Ld5eKuVOaa</UserId>
+            <UserNick>zoliky</UserNick>
+            <Date>2010-02-23 15:53:53</Date>
+            <Timestamp>1266969233</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Because its new.</Content>
+            <Reference>?????</Reference>
+            <Best></Best>
+            <UserId>a483f583d86fba2438befda90e113a8caa</UserId>
+            <UserNick>AZRAEL</UserNick>
+            <Date>2010-02-23 15:54:24</Date>
+            <Timestamp>1266969264</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:18:14 PDT 2010 -->

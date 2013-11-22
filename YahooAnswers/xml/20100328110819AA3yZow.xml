@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328110819AA3yZow" type="Answered">
+    <Subject>HOW DO I GET WIRELESS INTERNET SERVICE?</Subject>
+    <Content>A friend sent me his old laptop, someone told me to buy an antenna that plugs into it?
+Help! I am a computer dummie!!!
+</Content>
+    <Date>2010-03-28 11:08:19</Date>
+    <Timestamp>1269799699</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328110819AA3yZow</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XIYbKFmWaa</UserId>
+    <UserNick>turtlegirl23</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If its an old laptop, you&#039;ll have to first verify whether the laptop has a wireless card inside.  If not, you&#039;d need a PCMCIA wireless card.  After that you can get free wireless internet service by visiting various places that offer free wifi.</ChosenAnswer>
+    <ChosenAnswererId>7422dcf086cf20f7e8068dfe43835b89aa</ChosenAnswererId>
+    <ChosenAnswererNick>Ivan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269799872</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270076160</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If its an old laptop, you&#039;ll have to first verify whether the laptop has a wireless card inside.  If not, you&#039;d need a PCMCIA wireless card.  After that you can get free wireless internet service by visiting various places that offer free wifi.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>7422dcf086cf20f7e8068dfe43835b89aa</UserId>
+            <UserNick>Ivan</UserNick>
+            <Date>2010-03-28 11:11:12</Date>
+            <Timestamp>1269799872</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:19:01 PDT 2010 -->

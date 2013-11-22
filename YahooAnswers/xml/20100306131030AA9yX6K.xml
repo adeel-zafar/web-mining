@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306131030AA9yX6K" type="Answered">
+    <Subject>what can a company do with my address?</Subject>
+    <Content>Like, i do a site where i get free amazon gift cards, but the mail me the card, so I was wondering what they could do with my home address. Do they just spam me, or something worse??
+</Content>
+    <Date>2010-03-06 13:10:30</Date>
+    <Timestamp>1267909830</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306131030AA9yX6K</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4G5Zr63eaa</UserId>
+    <UserNick>Jenny</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1QmHsRosHAAECQEEo4AcOAQ==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Spam relates to the web, not to physical addresses.
+If you don&#039;t want your actual address known, avoid all websites where the sending of items to your address is involved</ChosenAnswer>
+    <ChosenAnswererId>2LbTrlQnaa</ChosenAnswererId>
+    <ChosenAnswererNick>JIM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267910305</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269839586</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Spam relates to the web, not to physical addresses.
+If you don&#039;t want your actual address known, avoid all websites where the sending of items to your address is involved</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-06 13:18:25</Date>
+            <Timestamp>1267910305</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:46:41 PDT 2010 -->

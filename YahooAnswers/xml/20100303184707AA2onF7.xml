@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303184707AA2onF7" type="Answered">
+    <Subject>What are those really long emoticons called?</Subject>
+    <Content>You know, the ones that have pictures of something? Show me an example too!
+</Content>
+    <Date>2010-03-03 18:47:07</Date>
+    <Timestamp>1267670827</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303184707AA2onF7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>a5vqKilAaa</UserId>
+    <UserNick>jackslova13</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4baac50ai1badzws114ac4/4XLptE07eqX1hnjjKauVHILbDw--/2/tn48.jpeg?ciAAToMBvdK3DGbx</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>ascii art
+
+or ascii pictures lol
+
+  /\_/\
+  ( . . )
+=\_v_/=
+
+its a rabbit</ChosenAnswer>
+    <ChosenAnswererId>dHv8MJbMaa</ChosenAnswererId>
+    <ChosenAnswererNick>MrKirby2</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267671055</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268190332</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>ascii art
+
+or ascii pictures lol
+
+  /\_/\
+  ( . . )
+=\_v_/=
+
+its a rabbit</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dHv8MJbMaa</UserId>
+            <UserNick>MrKirby2</UserNick>
+            <Date>2010-03-03 18:50:55</Date>
+            <Timestamp>1267671055</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>no i don&#039;t know</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GPeyY7v7aa</UserId>
+            <UserNick>Bubble Girl(LOVE)</UserNick>
+            <Date>2010-03-03 18:51:26</Date>
+            <Timestamp>1267671086</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:14:26 PDT 2010 -->

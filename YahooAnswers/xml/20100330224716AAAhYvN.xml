@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330224716AAAhYvN" type="Answered">
+    <Subject>How to recover lost twitter password?</Subject>
+    <Content>Lost the email&#039;s password and forgot twitter password. Can something be done??
+
+Like breaking into my own account?
+</Content>
+    <Date>2010-03-30 22:47:16</Date>
+    <Timestamp>1270014436</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330224716AAAhYvN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1945ddd3e3bf4d0537d95dec0c73cfb9aa</UserId>
+    <UserNick>yelyahwilliams</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b3df874i200bzul8sp1/ZJ8TPygibqvkODOrobhWu1SP1Yw-/11/tn48.jpg?ciAAToMBYADp5MVF</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>nope</ChosenAnswer>
+    <ChosenAnswererId>BtPfN8unaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mystery Person</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270014606</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270197760</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>nope</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>BtPfN8unaa</UserId>
+            <UserNick>Mystery Person</UserNick>
+            <Date>2010-03-30 22:50:06</Date>
+            <Timestamp>1270014606</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:17 PDT 2010 -->

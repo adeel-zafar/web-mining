@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312055418AAZ8Slu" type="Answered">
+    <Subject>What is the url for Canada?</Subject>
+    <Content>Sorry I don&#039;t have the right terminology down but you know how in the U.S. our websites end with .com.....how does Canada end their websites and what is the correct terminology for that?
+
+Sorry such a stupid question but I do appreciate ur help.
+</Content>
+    <Date>2010-03-12 05:54:18</Date>
+    <Timestamp>1268402058</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312055418AAZ8Slu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>phodRqyIaa</UserId>
+    <UserNick>ebby08</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1_C-CGpYAAAECmKJphDJyBl9FsXYG.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here is what you are looking for:
+http://en.wikipedia.org/wiki/Country-code_top-level_domain
+
+By the way: US has the top level domain .us, .com is commercial and can be used by anyone.
+.ca is Canada.</ChosenAnswer>
+    <ChosenAnswererId>qtb9RpUoaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tenax</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268402564</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268540192</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Here is what you are looking for:
+http://en.wikipedia.org/wiki/Country-code_top-level_domain
+
+By the way: US has the top level domain .us, .com is commercial and can be used by anyone.
+.ca is Canada.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>qtb9RpUoaa</UserId>
+            <UserNick>Tenax</UserNick>
+            <Date>2010-03-12 06:02:44</Date>
+            <Timestamp>1268402564</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>.COM  .ORG and .NET are typicall extensions for US and Canada combined.
+
+Yes, technically the US should be &quot;.US&quot; and canada should be &quot;.CA&quot;  . ..  and yes, &quot;.COM&quot; can be used anywhere in the world. . . . but typically, Canada uses the same as us. Where, other countries use their own &quot;assigned&quot; domain extension.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DICvqXDgaa</UserId>
+            <UserNick>Wesley H 1980</UserNick>
+            <Date>2010-03-12 06:02:47</Date>
+            <Timestamp>1268402567</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi,
+
+It&#039;s a top level domain name.
+
+On the Internet, &quot;com&quot; is one of the top-level domain names that can be used when choosing a domain name. It generally describes the entity owning the domain name as a commercial organization. Along with the second-level domain name (for example: &quot;yahoo&quot; in yahoo.com), the top-level domain name is required in Web and e-mail addresses. 
+
+In Canada it&#039;s .ca</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RmXuONgVaa</UserId>
+            <UserNick>marcEmarc</UserNick>
+            <Date>2010-03-12 06:06:22</Date>
+            <Timestamp>1268402782</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:10:21 PDT 2010 -->

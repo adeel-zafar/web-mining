@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228054544AAA2us9" type="Answered">
+    <Subject>Can i get my email Address?</Subject>
+    <Content>Hello is there a way i can get all of the email addresses that are registered to my name or my postal code ?
+</Content>
+    <Date>2010-02-28 05:45:44</Date>
+    <Timestamp>1267364744</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228054544AAA2us9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oGI9BthOaa</UserId>
+    <UserNick>Stephen</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No</ChosenAnswer>
+    <ChosenAnswererId>WpGR5NTRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jojo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267365106</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267949600</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you mean you want to recuperate your address, I don&#039;t think there is a way.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Il7OrZnpaa</UserId>
+            <UserNick>Chelsea &#039;Till I Die</UserNick>
+            <Date>2010-02-28 05:49:01</Date>
+            <Timestamp>1267364941</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>WpGR5NTRaa</UserId>
+            <UserNick>Jojo</UserNick>
+            <Date>2010-02-28 05:51:46</Date>
+            <Timestamp>1267365106</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:39:18 PDT 2010 -->

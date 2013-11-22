@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328134037AAUWM9m" type="Answered">
+    <Subject>Setting up Homepages?</Subject>
+    <Content>I want to set up multiple pages on my firefox browser when I first open up the internet.  I want them all to be in different tabs.  Is there any way I can do this?
+</Content>
+    <Date>2010-03-28 13:40:37</Date>
+    <Timestamp>1269808837</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328134037AAUWM9m</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6H9pkDBwaa</UserId>
+    <UserNick>David</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b93e3efi219fzws114sp2/EpqN0lc1eK7UOpvKlKIDGA--/5/tn48.jpeg?ciAAToMBs.i5KFJ9</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go into firefox and go to the place to change the homepage.  There, type multiple sites separated by the pipe (|) character.  For example if you set the homepage to
+
+http://nyt.com/|http://google.com
+
+then it will open both in different tabs.</ChosenAnswer>
+    <ChosenAnswererId>AA11414206</ChosenAnswererId>
+    <ChosenAnswererNick>elpasi2</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269808954</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270055304</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go into firefox and go to the place to change the homepage.  There, type multiple sites separated by the pipe (|) character.  For example if you set the homepage to
+
+http://nyt.com/|http://google.com
+
+then it will open both in different tabs.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>AA11414206</UserId>
+            <UserNick>elpasi2</UserNick>
+            <Date>2010-03-28 13:42:34</Date>
+            <Timestamp>1269808954</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Open up all the tabs with the websites you want saved as your home pages. Go to Firefox in the menu bar, click on preferences, under &quot;general&quot; there is a box for your home page. You can click on the button that says &quot;Use Current Pages&quot; and it will automatically enter the pages for you.</Content>
+            <Reference>Worked for me</Reference>
+            <Best></Best>
+            <UserId>kxLvo67Haa</UserId>
+            <UserNick>L</UserNick>
+            <Date>2010-03-28 13:49:02</Date>
+            <Timestamp>1269809342</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:18:12 PDT 2010 -->

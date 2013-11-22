@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317201323AABAr8T" type="Answered">
+    <Subject>How can I get rid of the drop-down list on my Yahoo Mail sign-in?</Subject>
+    <Content>When I want to sign-in to my Yahoo mail account, a double click brings up a list of mail accounts that have been used on my computer. I want to eliminate this list. I have cleared my browser data completely but this has no effect.
+The email accounts are NOT in my profile : they are addresses of other folk who have logged in on my computer. For personal reasons I want to remove this list.
+I asked Yahoo. They told me it was my browser autofill. Once I had deselected autofill, and cleared the history, no more list of yahoo acounts. Presto!
+PROBLEM SOLVED!!!!!!!!!!!!!
+</Content>
+    <Date>2010-03-17 20:13:23</Date>
+    <Timestamp>1268882003</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317201323AABAr8T</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11053175</UserId>
+    <UserNick>bak2deefuture</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your Email Account is on Yahoo servers so clearing your browser data or anything else on your computer will have absolutely no affect.
+
+Were those extra email accounts put on when you made your account? So long ago when I did mine but I seem to remember that you could add extra email addresses other than your Yahoo email.
+
+If so, you will not be able to delete them. Yahoo say something about when you make your account it is legally binding and some of the content cannot be changed from the original account you made.
+
+I&#039;ve just had a look at my other email address in my profile and it can&#039;t be deleted.
+
+Also the reason it gives you a list is because you are logging in each time and it is basically asking which one do you want to use.
+
+The only way to stop getting a list is to keep yourself logged into your account by ticking the &quot;Keep me logged in for 14 days&quot;</ChosenAnswer>
+    <ChosenAnswererId>WeZcSZvKaa</ChosenAnswererId>
+    <ChosenAnswererNick>sewrobb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268885696</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269401680</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>clear cache..</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10968342</UserId>
+            <UserNick>mai_noside</UserNick>
+            <Date>2010-03-17 20:17:11</Date>
+            <Timestamp>1268882231</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You should be able to right click on each of them and choose delete</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dmoX1HKjaa</UserId>
+            <UserNick>Wendy</UserNick>
+            <Date>2010-03-17 20:30:33</Date>
+            <Timestamp>1268883033</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your Email Account is on Yahoo servers so clearing your browser data or anything else on your computer will have absolutely no affect.
+
+Were those extra email accounts put on when you made your account? So long ago when I did mine but I seem to remember that you could add extra email addresses other than your Yahoo email.
+
+If so, you will not be able to delete them. Yahoo say something about when you make your account it is legally binding and some of the content cannot be changed from the original account you made.
+
+I&#039;ve just had a look at my other email address in my profile and it can&#039;t be deleted.
+
+Also the reason it gives you a list is because you are logging in each time and it is basically asking which one do you want to use.
+
+The only way to stop getting a list is to keep yourself logged into your account by ticking the &quot;Keep me logged in for 14 days&quot;</Content>
+            <Reference>Experienced1</Reference>
+            <Best>5</Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-17 21:14:56</Date>
+            <Timestamp>1268885696</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:58 PDT 2010 -->

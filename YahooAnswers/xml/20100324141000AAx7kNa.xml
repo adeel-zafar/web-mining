@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324141000AAx7kNa" type="Answered">
+    <Subject>I cannot open FarmVille game. It sais: Server not found  Firefox can&#039;t find the server at fb-1.farmville.com.?</Subject>
+    <Content>
+I haven&#039;t play it too much today since I couldn&#039;t open it at all for hours now...I tried to open with safari and firefox and also tried to play it from farmville.com. None of them worked..
+</Content>
+    <Date>2010-03-24 14:10:00</Date>
+    <Timestamp>1269465000</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324141000AAx7kNa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IyAqXHFjaa</UserId>
+    <UserNick>luckytafy</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49ba80f2i1969z/.dAoYrg9bqVyW1c2tkIAxJI-/100/tn48.jpg?ciAAToMBb4.7VNj0</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You&#039;ve probably played too much Farmville today.
+
+But the error means that Facebook or Zynga, or your ISP, is having some sort of issue. Try again in a few minutes.</ChosenAnswer>
+    <ChosenAnswererId>YfB54kbOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kris</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269465119</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269984528</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You&#039;ve probably played too much Farmville today.
+
+But the error means that Facebook or Zynga, or your ISP, is having some sort of issue. Try again in a few minutes.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>YfB54kbOaa</UserId>
+            <UserNick>Kris</UserNick>
+            <Date>2010-03-24 14:11:59</Date>
+            <Timestamp>1269465119</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:24 PDT 2010 -->

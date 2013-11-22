@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226222757AARwMjl" type="Answered">
+    <Subject>Does connecting to broadband incur a phone call cost, like dialup does?</Subject>
+    <Content>Trying to convince my mother it doesn&#039;t cost extra no matter how many times you disconnect and reconnect. I might be wrong.
+</Content>
+    <Date>2010-02-26 22:27:57</Date>
+    <Timestamp>1267252077</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226222757AARwMjl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uV6ZOBwHaa</UserId>
+    <UserNick>Indian J</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4aee6e5bi1beazul5sp1/mTDjBFg9dLWJSuxc4OBlWYaj84jHd10K/1/tn48.jpg?ciAAToMBSL5Ndowm</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No.
+They are generally &quot;always on&quot; connections. Unlike dial-up, which dials a phone number to make a connection, cable and dsl do not make phone calls and generally do not charge to make connections. They are always connected separately from the actual phone line. One minute of connection costs just as much as a thousand minutes. You can turn it on and off ad nauseam without additional charges.</ChosenAnswer>
+    <ChosenAnswererId>cb3c52af3e751d31beea15218b9cf940aa</ChosenAnswererId>
+    <ChosenAnswererNick>Kahlo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267252844</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267330952</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No.
+They are generally &quot;always on&quot; connections. Unlike dial-up, which dials a phone number to make a connection, cable and dsl do not make phone calls and generally do not charge to make connections. They are always connected separately from the actual phone line. One minute of connection costs just as much as a thousand minutes. You can turn it on and off ad nauseam without additional charges.</Content>
+            <Reference>Check with your service provider. They&#039;ll be happy to tell you the details.</Reference>
+            <Best>5</Best>
+            <UserId>cb3c52af3e751d31beea15218b9cf940aa</UserId>
+            <UserNick>Kahlo</UserNick>
+            <Date>2010-02-26 22:40:44</Date>
+            <Timestamp>1267252844</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:47:02 PDT 2010 -->

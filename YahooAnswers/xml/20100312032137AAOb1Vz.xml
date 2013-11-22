@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312032137AAOb1Vz" type="Answered">
+    <Subject>what is twitter used for?</Subject>
+    <Content>i hear it is to tell friends where you are and what you are doing but who wants to do that?
+</Content>
+    <Date>2010-03-12 03:21:37</Date>
+    <Timestamp>1268392897</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312032137AAOb1Vz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3YxMNRxGaa</UserId>
+    <UserNick>anthonydyer84</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1_rhTP5HsAAEB_OFUiB8ehBHTMA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>A lot of people use it to follow celebrities, to see what they are doing. I have not used it so I do not know how Twitter works, I only know what it is from reading about it.</ChosenAnswer>
+    <ChosenAnswererId>nnfMjbnQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rikki</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268393074</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268566373</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>A lot of people use it to follow celebrities, to see what they are doing. I have not used it so I do not know how Twitter works, I only know what it is from reading about it.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>nnfMjbnQaa</UserId>
+            <UserNick>Rikki B</UserNick>
+            <Date>2010-03-12 03:24:34</Date>
+            <Timestamp>1268393074</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s a kind of microblogging. Celebrities use it for keeping their fans updated.</Content>
+            <Reference>http://en.wikipedia.org/wiki/Twitter</Reference>
+            <Best></Best>
+            <UserId>NsIPAwu5aa</UserId>
+            <UserNick>Zee</UserNick>
+            <Date>2010-03-12 03:34:07</Date>
+            <Timestamp>1268393647</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:10:44 PDT 2010 -->

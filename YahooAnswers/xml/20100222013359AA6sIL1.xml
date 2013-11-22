@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222013359AA6sIL1" type="Answered">
+    <Subject>My Firefox is having problems, when I click any link it will open in a new window! How to fix it?</Subject>
+    <Content>Even if I click an e-mail, it will open in a new window. In the options bar, the box for &#039;Always open links in a new window&#039; is unchecked, so I need help! Please, I really hate this problem, it just randomly occurred.
+</Content>
+    <Date>2010-02-22 01:33:59</Date>
+    <Timestamp>1266831239</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222013359AA6sIL1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mAUyx9jNaa</UserId>
+    <UserNick>Lina</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ae7a6e9i63ezul7sp1/9MEd5f4ic7NvjsRdQ8PUvH0-/2/tn48.jpg?ciAAToMBzX7tMXU2</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It depends on the html on the link,it&#039;s not a problem with you Firefox, it&#039;s about the HTML . To open on same tab, simply drag the link to the tab.</ChosenAnswer>
+    <ChosenAnswererId>c9zQj4Tlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Steven Nevets</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266831426</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266917901</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It depends on the html on the link,it&#039;s not a problem with you Firefox, it&#039;s about the HTML . To open on same tab, simply drag the link to the tab.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>c9zQj4Tlaa</UserId>
+            <UserNick>Steven Nevets</UserNick>
+            <Date>2010-02-22 01:37:06</Date>
+            <Timestamp>1266831426</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Click the link with the Middle-Mouse button , so the link will be opened in new tab.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OoAO3lxraa</UserId>
+            <UserNick>luxorgy</UserNick>
+            <Date>2010-02-22 02:25:55</Date>
+            <Timestamp>1266834355</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:30:21 PDT 2010 -->

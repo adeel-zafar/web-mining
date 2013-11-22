@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321232707AALI8eo" type="Answered">
+    <Subject>Why my firefox 3.6 keeps crashing? I can&#039;t log into facebook without it crashing.?</Subject>
+    <Content>I uninstalled and restalled 3 times and it still keeps crashing.
+</Content>
+    <Date>2010-03-21 23:27:07</Date>
+    <Timestamp>1269239227</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321232707AALI8eo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pKbBvZdSaa</UserId>
+    <UserNick>Burry</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>3.6 Is still in the Beta stage. Go back to the last version 3.5 (something). After July all of the bugs will be gone from 3.6 and it will not crash. In August 3.6 will be recommended.</ChosenAnswer>
+    <ChosenAnswererId>59e9a16f094e86613f65c632ff338488aa</ChosenAnswererId>
+    <ChosenAnswererNick>=Bee-8-Nnn=</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269240510</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269288457</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe you should use back internet explorer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1QA4mD8Iaa</UserId>
+            <UserNick>PokemonFan</UserNick>
+            <Date>2010-03-21 23:30:37</Date>
+            <Timestamp>1269239437</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Please don&#039;t tell me someone just recommended IE! Seriously, don&#039;t do that. Check there are no programs that conflict with Firefox or try Chrome or Safari.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wOiDz4oTaa</UserId>
+            <UserNick>cs64736943</UserNick>
+            <Date>2010-03-21 23:40:09</Date>
+            <Timestamp>1269240009</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>3.6 Is still in the Beta stage. Go back to the last version 3.5 (something). After July all of the bugs will be gone from 3.6 and it will not crash. In August 3.6 will be recommended.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>59e9a16f094e86613f65c632ff338488aa</UserId>
+            <UserNick>=Bee-8-Nnn=</UserNick>
+            <Date>2010-03-21 23:48:30</Date>
+            <Timestamp>1269240510</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:39 PDT 2010 -->

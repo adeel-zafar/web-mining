@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314171438AA2bt59" type="Answered">
+    <Subject>Firefox won&#039;t save my settings?</Subject>
+    <Content>The default address bar search engine for Firefox is Ask.com. I REALLY prefer Google, so I found out how to change my setting so that when ever I type something the address bar it&#039;ll search it on Google (Ever use Chrome? Just like that, I love that feature.) A few weeks ago I upgraded my Firefox version, and It reverted to Ask.com. I&#039;ve changed it back several times, yet it ALWAYS reverts to Ask within a few minutes. I&#039;ve tried rebooting, doesn&#039;t help.
+
+NOTE: I know FF has a search bar, but I like using the address bar for it. I feels more like chrome, while having the functionality of FF
+</Content>
+    <Date>2010-03-14 17:14:38</Date>
+    <Timestamp>1268612078</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314171438AA2bt59</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dSMSrMLDaa</UserId>
+    <UserNick>LazyHighschoolTeen</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go into control panel and open up internet options. In the tab &quot;General&quot;. Go down to the section Change search defaults and click on settings and select Google. Then click on &quot;Set Default&quot;. That should make it permanent.</ChosenAnswer>
+    <ChosenAnswererId>lyDppNmzaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268612849</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268952641</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go into control panel and open up internet options. In the tab &quot;General&quot;. Go down to the section Change search defaults and click on settings and select Google. Then click on &quot;Set Default&quot;. That should make it permanent.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>lyDppNmzaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-14 17:27:29</Date>
+            <Timestamp>1268612849</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:12:51 PDT 2010 -->

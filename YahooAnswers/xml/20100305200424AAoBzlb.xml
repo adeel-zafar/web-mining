@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305200424AAoBzlb" type="Answered">
+    <Subject>Most famous web-conferencing website you know and use?</Subject>
+    <Content>Most famous web-conferencing website you know and use? And problems with it you know of?
+</Content>
+    <Date>2010-03-05 20:04:24</Date>
+    <Timestamp>1267848264</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305200424AAoBzlb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4IuoAw8daa</UserId>
+    <UserNick>Natalie Smith</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>gotomeeting.com</ChosenAnswer>
+    <ChosenAnswererId>mWzGL4hcaa</ChosenAnswererId>
+    <ChosenAnswererNick>fleshyman</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267848392</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268026954</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>gotomeeting.com</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>mWzGL4hcaa</UserId>
+            <UserNick>fleshyman</UserNick>
+            <Date>2010-03-05 20:06:32</Date>
+            <Timestamp>1267848392</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Skype is really good also there is yugma</Content>
+            <Reference>http://bit.ly/a2NAJz  The Mystified your source for entertainment!</Reference>
+            <Best></Best>
+            <UserId>EXGd83GZaa</UserId>
+            <UserNick>TheMystified.com</UserNick>
+            <Date>2010-03-05 20:45:37</Date>
+            <Timestamp>1267850737</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:52:50 PDT 2010 -->

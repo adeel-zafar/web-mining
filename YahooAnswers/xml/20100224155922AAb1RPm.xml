@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224155922AAb1RPm" type="Answered">
+    <Subject>how do you fix your internet explorer when you have an internet connection?</Subject>
+    <Content>i have internet connection. im on mozilla firefox right now but my internet explorer wont work for some reason and i dont know why. HELP!
+</Content>
+    <Date>2010-02-24 15:59:22</Date>
+    <Timestamp>1267055962</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224155922AAb1RPm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NrmrsMfCaa</UserId>
+    <UserNick>monkieboy65</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1iYAOoeCIAAID5CK3lCU6djzZMA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>redownload it</ChosenAnswer>
+    <ChosenAnswererId>sthopAwuaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tigerbomb8</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267056046</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267575319</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>redownload it</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>sthopAwuaa</UserId>
+            <UserNick>Tigerbomb8</UserNick>
+            <Date>2010-02-24 16:00:46</Date>
+            <Timestamp>1267056046</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Reset IE-8 to Default, in Options, Advanced...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-24 16:07:59</Date>
+            <Timestamp>1267056479</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your pc has error, you can check your pc health online:
+&lt;--http://pc-check-tools.com/PC_Error</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8dlZauugaa</UserId>
+            <UserNick>Whentheyredoi</UserNick>
+            <Date>2010-02-25 10:20:12</Date>
+            <Timestamp>1267122012</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Computer errors:
+Infect spyware
+Registry problem
+
+You are infected with spyware if:
+
+* You see too much pop-up advertisements.
+* Your browser has toolbars that you haven&#039;t installed.
+* Your homepage has changed (and you can&#039;t change it back).
+* Other settings have changed without your permission.
+* Your computer is slow.
+
+To get rid of spyware and keep your computer clean you can use an antispyware or even more. 
+You can download a antispyware software.
+ http://top5antispywarereviews.com/reviews.htm</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qibeloauaa</UserId>
+            <UserNick>Anxietydisorders</UserNick>
+            <Date>2010-02-28 00:21:00</Date>
+            <Timestamp>1267345260</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:12:47 PDT 2010 -->

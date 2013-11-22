@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312145718AAU0Nhh" type="Answered">
+    <Subject>Need idea&#039;s for what to do?</Subject>
+    <Content>ok so all my friends are going away for a trip to france with school and i have nothing to do , i really like computer games i can download anything ive played maple story games like that
+</Content>
+    <Date>2010-03-12 14:57:18</Date>
+    <Timestamp>1268434638</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312145718AAU0Nhh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NoHcMHNfaa</UserId>
+    <UserNick>Nicholas</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1LWCXNzZaAAED_AG2RUIeamEB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;ve played Flyff for a while, it&#039;s okay... I recommend MMORPGS.</ChosenAnswer>
+    <ChosenAnswererId>1Lfegrosaa</ChosenAnswererId>
+    <ChosenAnswererNick>Silverfoxx</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268434764</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268527271</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;ve played Flyff for a while, it&#039;s okay... I recommend MMORPGS.</Content>
+            <Reference>Personal experience?</Reference>
+            <Best>5</Best>
+            <UserId>1Lfegrosaa</UserId>
+            <UserNick>Silverfoxx</UserNick>
+            <Date>2010-03-12 14:59:24</Date>
+            <Timestamp>1268434764</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:06:49 PDT 2010 -->

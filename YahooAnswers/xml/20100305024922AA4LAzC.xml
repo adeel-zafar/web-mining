@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305024922AA4LAzC" type="Answered">
+    <Subject>What Was The 10 Billionth Tweet?</Subject>
+    <Content>Found Out Twitter Had There 10 Billionth Tweet Tweeted, But What Was The 10 Billionth Tweet? Does Anybody Know?
+</Content>
+    <Date>2010-03-05 02:49:22</Date>
+    <Timestamp>1267786162</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305024922AA4LAzC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fOjeKDIbaa</UserId>
+    <UserNick>Toni B.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>They don&#039;t know because it came from someone who had a protected profile...</ChosenAnswer>
+    <ChosenAnswererId>WOfhEiHoaa</ChosenAnswererId>
+    <ChosenAnswererNick>The World&#039;s Sexiest Midget</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267795786</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268305433</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They don&#039;t know because it came from someone who had a protected profile...</Content>
+            <Reference>http://www.telegraph.co.uk/technology/twitter/7375442/Twitter-hits-10-billionth-tweet.html</Reference>
+            <Best>5</Best>
+            <UserId>WOfhEiHoaa</UserId>
+            <UserNick>We Can Work It Out</UserNick>
+            <Date>2010-03-05 05:29:46</Date>
+            <Timestamp>1267795786</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:58:41 PDT 2010 -->

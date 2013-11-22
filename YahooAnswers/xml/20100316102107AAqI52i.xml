@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316102107AAqI52i" type="Answered">
+    <Subject>How to upload pics on www.baketi.com ,homepage?</Subject>
+    <Content>I want to update my profile with few pics,how i can place a picture on www.baketi.com
+</Content>
+    <Date>2010-03-16 10:21:07</Date>
+    <Timestamp>1268760067</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316102107AAqI52i</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RId5vO2Daa</UserId>
+    <UserNick>Getty</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Is their maybe an uploader built into the website?</ChosenAnswer>
+    <ChosenAnswererId>23b6749a7088443a1a545bf4e3bff54caa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269090221</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269279501</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Is their maybe an uploader built into the website?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>23b6749a7088443a1a545bf4e3bff54caa</UserId>
+            <UserNick>Mark D</UserNick>
+            <Date>2010-03-20 06:03:41</Date>
+            <Timestamp>1269090221</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:26 PDT 2010 -->

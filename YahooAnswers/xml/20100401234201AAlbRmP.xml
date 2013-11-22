@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401234201AAlbRmP" type="Answered">
+    <Subject>What is the next big website going to be?</Subject>
+    <Content>And which is the next one on its way out?
+</Content>
+    <Date>2010-04-01 23:42:01</Date>
+    <Timestamp>1270190521</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401234201AAlbRmP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>188ea8ac3fadd4e3c1602a6353b5bd0daa</UserId>
+    <UserNick>McKatiekins</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UKK04oIbAAEB-4FDCA30uCsB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yahoo of course!</ChosenAnswer>
+    <ChosenAnswererId>h3ISEsQ2aa</ChosenAnswererId>
+    <ChosenAnswererNick>Qian</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270190687</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270269825</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yahoo of course!</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>h3ISEsQ2aa</UserId>
+            <UserNick>Qian</UserNick>
+            <Date>2010-04-01 23:44:47</Date>
+            <Timestamp>1270190687</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Google related</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wywO9ggHaa</UserId>
+            <UserNick>Jwolf</UserNick>
+            <Date>2010-04-01 23:45:30</Date>
+            <Timestamp>1270190730</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:45 PDT 2010 -->

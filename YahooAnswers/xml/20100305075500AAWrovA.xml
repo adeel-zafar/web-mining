@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305075500AAWrovA" type="Answered">
+    <Subject>Is there any way to tell if someone has been using InPrivate browsing?</Subject>
+    <Content>I don&#039;t need to know the content, just if it&#039;s been used.
+</Content>
+    <Date>2010-03-05 07:55:00</Date>
+    <Timestamp>1267804500</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305075500AAWrovA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cc77986a85c79cf68b0cbcc8e0dbd064aa</UserId>
+    <UserNick>Ashley L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1MpvPPhzZAAEC-EEDzaM9Bw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I don&#039;t think you can. As the name suggests, it is for private browsing so if someone could find out you used it, it would defeat the point.</ChosenAnswer>
+    <ChosenAnswererId>5yEUtZodaa</ChosenAnswererId>
+    <ChosenAnswererNick>John S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267804853</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268922786</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I don&#039;t think you can. As the name suggests, it is for private browsing so if someone could find out you used it, it would defeat the point.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5yEUtZodaa</UserId>
+            <UserNick>John S</UserNick>
+            <Date>2010-03-05 08:00:53</Date>
+            <Timestamp>1267804853</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There is no way to trace if the InPrivate browsing feature has been used or what for, all history is immediately deleted.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RmXuONgVaa</UserId>
+            <UserNick>marcEmarc</UserNick>
+            <Date>2010-03-05 08:49:50</Date>
+            <Timestamp>1267807790</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:57:37 PDT 2010 -->

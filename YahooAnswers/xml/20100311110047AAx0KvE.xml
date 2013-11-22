@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311110047AAx0KvE" type="Answered">
+    <Subject>How do you download large files from a slow internet connection?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-11 11:00:47</Date>
+    <Timestamp>1268334047</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311110047AAx0KvE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10536059</UserId>
+    <UserNick>abhipoon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There are MANY reasons for computer slow downs:
+ not enough memory
+ too many programs starting up with windows at boot up time
+ too many junk files
+ too many restore points
+
+Clean windows registry can speed up the computer.
+Over time, you install new programs, uninstalled unimportant programs, update software&#039;s, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://registry-computer-cleaner.com</ChosenAnswer>
+    <ChosenAnswererId>lZIaR8o3aa</ChosenAnswererId>
+    <ChosenAnswererNick>JamesCameronsAvatar</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268465581</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268849863</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>download and install the software called &quot;DOWNLOAD ACCELATOR PLUS&quot;.
+
+your download speed will increase upto 10 times.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4ShpvXeaaa</UserId>
+            <UserNick>Fayaz Mohammad</UserNick>
+            <Date>2010-03-11 11:18:14</Date>
+            <Timestamp>1268335094</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There are MANY reasons for computer slow downs:
+ not enough memory
+ too many programs starting up with windows at boot up time
+ too many junk files
+ too many restore points
+
+Clean windows registry can speed up the computer.
+Over time, you install new programs, uninstalled unimportant programs, update software&#039;s, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://registry-computer-cleaner.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>lZIaR8o3aa</UserId>
+            <UserNick>JamesCameronsAvatar</UserNick>
+            <Date>2010-03-12 23:33:01</Date>
+            <Timestamp>1268465581</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Have check you pc make sure why is your pc is slow.
+ http://pc-check-tools.com/Slow_PC</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>doSsEAW9aa</UserId>
+            <UserNick>Content</UserNick>
+            <Date>2010-03-13 16:11:00</Date>
+            <Timestamp>1268525460</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:13:23 PDT 2010 -->

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312112427AAILXNc" type="Answered">
+    <Subject>I just downloaded a torrent....After downloading it now it says that it is seeding..What does that mean?</Subject>
+    <Content>The torrent just finished up and i figured that it would read.....download complete but now it is seeding it .
+</Content>
+    <Date>2010-03-12 11:24:27</Date>
+    <Timestamp>1268421867</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312112427AAILXNc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Fe5ITvmzaa</UserId>
+    <UserNick>Emily</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It means you finished downloading it, and you have 100% of the file(s), and are uploading it to others in the swarm. This is normal. You should seed till  you reach a ratio of 1.0 or better. That means you&#039;ve given back at least as much as you&#039;ve taken.</ChosenAnswer>
+    <ChosenAnswererId>6axHqJymaa</ChosenAnswererId>
+    <ChosenAnswererNick>John ³</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268422322</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268937872</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You are uploading the stolen what ever back to other thieves!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-12 11:26:16</Date>
+            <Timestamp>1268421976</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It means you finished downloading it, and you have 100% of the file(s), and are uploading it to others in the swarm. This is normal. You should seed till  you reach a ratio of 1.0 or better. That means you&#039;ve given back at least as much as you&#039;ve taken.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6axHqJymaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-12 11:32:02</Date>
+            <Timestamp>1268422322</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>seeding means that other people are getting information from you</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11767225</UserId>
+            <UserNick>bert_beer</UserNick>
+            <Date>2010-03-12 11:35:44</Date>
+            <Timestamp>1268422544</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>John said it well!
+and  John c why do u think she is stealing stuff?!!! torrents are used for other things u know!
+torrents will die if they dont get seeded, so its a good thing u r doing it!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZFC5Fgyyaa</UserId>
+            <UserNick>Anas Z</UserNick>
+            <Date>2010-03-12 11:38:42</Date>
+            <Timestamp>1268422722</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:09:10 PDT 2010 -->

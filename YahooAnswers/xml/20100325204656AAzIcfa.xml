@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325204656AAzIcfa" type="Answered">
+    <Subject>Are thes pics of an internet model...if so who?</Subject>
+    <Content>i was sent these pics by a girl...i feel like its some kind of model of something...
+
+http://pictures.teenspot.s3.amazonaws.com/large_9d093f76db0ac4ad6d85235467741185.jpg
+
+http://pictures.teenspot.s3.amazonaws.com/large_fa28f7561e03fdbf97fffb285ba8d569.jpg
+</Content>
+    <Date>2010-03-25 20:46:56</Date>
+    <Timestamp>1269575216</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325204656AAzIcfa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>j67l6n7Daa</UserId>
+    <UserNick>Steve</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>not a model, but chances are they&#039;re fake</ChosenAnswer>
+    <ChosenAnswererId>0dQHGJu9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Cat S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269575306</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270094634</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>not a model, but chances are they&#039;re fake</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0dQHGJu9aa</UserId>
+            <UserNick>Cat S</UserNick>
+            <Date>2010-03-25 20:48:26</Date>
+            <Timestamp>1269575306</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:58 PDT 2010 -->

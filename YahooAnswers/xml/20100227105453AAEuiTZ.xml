@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227105453AAEuiTZ" type="Answered">
+    <Subject>What website has everything you want, like yahoo does?</Subject>
+    <Content>What i mean is like yahoo has mail, news, entertainment, messenger, games and ect. what other websites do the same thing?
+</Content>
+    <Date>2010-02-27 10:54:53</Date>
+    <Timestamp>1267296893</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227105453AAEuiTZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>501QrDfgaa</UserId>
+    <UserNick>Lucki_Lolli</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bba4a8bi136dzws103sp2/qtneoCklfqS8CmX8K4rAUQ--/18/tn48.jpeg?ciAAToMBttdln9Bj</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>MSN and AOL have those as well, but I prefer Yahoo...</ChosenAnswer>
+    <ChosenAnswererId>p2kIGhGpaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nrp77</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267297355</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267320521</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>MSN and AOL have those as well, but I prefer Yahoo...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>p2kIGhGpaa</UserId>
+            <UserNick>Nrp77</UserNick>
+            <Date>2010-02-27 11:02:35</Date>
+            <Timestamp>1267297355</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:44:09 PDT 2010 -->

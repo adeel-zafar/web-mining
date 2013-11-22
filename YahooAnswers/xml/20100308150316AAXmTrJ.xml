@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308150316AAXmTrJ" type="Answered">
+    <Subject>i want to have a you@yourname email with email forwarding capability. any ideas who can provide it ?</Subject>
+    <Content>i know it&#039;s not free though :D
+</Content>
+    <Date>2010-03-08 15:03:16</Date>
+    <Timestamp>1268089396</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308150316AAXmTrJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fMKOtuaYaa</UserId>
+    <UserNick>Moemen</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba6a000i582zws119ac4/JKLBPLE8dKMXtloLX4AI_KPBFp_qFw--/4/tn48.jpeg?ciAAToMB1Bxn6H7y</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you have to own the @yourname website. buy it from something like godaddy.com
+Then once u buy it you have the option to set up email adresses.</ChosenAnswer>
+    <ChosenAnswererId>Kd912mtjaa</ChosenAnswererId>
+    <ChosenAnswererNick>Schybanas</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268089703</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268748166</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Not entirely sure on the subject but I think you have to actually own the domain name to have an email to it.
+
+Example.
+If I wanted the email &quot;jordan@jordan.co.uk&quot; I would have to own the domain name &quot;jordan.co.uk&quot;, then I would have to link that up with a web host and configure an email account through them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6izGS8Ucaa</UserId>
+            <UserNick>Jordan</UserNick>
+            <Date>2010-03-08 15:05:51</Date>
+            <Timestamp>1268089551</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>youll need to register and purchase a domain name at webs.com
+for $99.95 a year, you will have 5 custom email addresses.
+
+http://www.webs.com/premium.jsp</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dA0k6qw4aa</UserId>
+            <UserNick>Jesse</UserNick>
+            <Date>2010-03-08 15:07:46</Date>
+            <Timestamp>1268089666</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you have to own the @yourname website. buy it from something like godaddy.com
+Then once u buy it you have the option to set up email adresses.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Kd912mtjaa</UserId>
+            <UserNick>Schybanas</UserNick>
+            <Date>2010-03-08 15:08:23</Date>
+            <Timestamp>1268089703</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:29:46 PDT 2010 -->

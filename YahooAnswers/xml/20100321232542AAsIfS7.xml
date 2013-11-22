@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321232542AAsIfS7" type="Answered">
+    <Subject>Why does AOL.com always launch when i open up AIM?</Subject>
+    <Content>Everytime i open up AIM it launches the internet and goes to AOL.com. Can anyone tell me how to fix this because it is getting very irritating.
+</Content>
+    <Date>2010-03-21 23:25:42</Date>
+    <Timestamp>1269239142</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321232542AAsIfS7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UO6Zew2haa</UserId>
+    <UserNick>Pimento,</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Menu -&gt; Settings -&gt; Sign In/Sign Out -&gt; click none
+you can also use F7 to get to settings</ChosenAnswer>
+    <ChosenAnswererId>gyg8dol1aa</ChosenAnswererId>
+    <ChosenAnswererNick>Sandy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269239584</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269758576</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sure, When you open click on menu&gt;settings&gt;Sign In &amp; Sign Out&gt; and you will see &quot;When signing in display the following: Welcome page and none. Click on None and save.
+
+This will solve your issue, please visit http://mytechsolutions.webs.com/
+
+If you can become a member that would be great as well</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>q6C9Pd0iaa</UserId>
+            <UserNick>Legen</UserNick>
+            <Date>2010-03-21 23:30:23</Date>
+            <Timestamp>1269239423</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Menu -&gt; Settings -&gt; Sign In/Sign Out -&gt; click none
+you can also use F7 to get to settings</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gyg8dol1aa</UserId>
+            <UserNick>Sandy</UserNick>
+            <Date>2010-03-21 23:33:04</Date>
+            <Timestamp>1269239584</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:40 PDT 2010 -->

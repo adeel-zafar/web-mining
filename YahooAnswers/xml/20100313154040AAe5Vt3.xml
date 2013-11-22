@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313154040AAe5Vt3" type="Answered">
+    <Subject>I cant open Internet Explorer.?</Subject>
+    <Content>On my laptop, internet explorer isn&#039;t working. It used to, but now its not. Any suggestions?
+I have downloaded mozilla (this is how I am on this page). I cant open Internet explorer. I double click the icon, and nothing happens. Ive asked my friend who is a computer guru, and he cant think of anything.
+</Content>
+    <Date>2010-03-13 15:40:40</Date>
+    <Timestamp>1268523640</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313154040AAe5Vt3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rG7j5mOEaa</UserId>
+    <UserNick>Tiggles</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Im not sure what to tell you on that one, you can try to restart your computer? Or reboot it. And if that doesnt work, just download mozilla firefox. Its free, and its a much better/faster internet browser.</ChosenAnswer>
+    <ChosenAnswererId>dKheT2D7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Syd</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268524920</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268732119</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What do you mean it isn&#039;t working? Give us details on exactly what part of IE isn&#039;t working. It might be it won&#039;t open, or you can&#039;t load pages, or it closes as soon as you click something... What is it?
+
+PS, after you get it working, or go to a friend&#039;s computer, download another web browser such as Mozilla Firefox or Google Chrome.</Content>
+            <Reference>Superfantabulous brain</Reference>
+            <Best></Best>
+            <UserId>azaMkJijaa</UserId>
+            <UserNick>Man of Mystery</UserNick>
+            <Date>2010-03-13 15:45:40</Date>
+            <Timestamp>1268523940</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Im not sure what to tell you on that one, you can try to restart your computer? Or reboot it. And if that doesnt work, just download mozilla firefox. Its free, and its a much better/faster internet browser.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>dKheT2D7aa</UserId>
+            <UserNick>Syd</UserNick>
+            <Date>2010-03-13 16:02:00</Date>
+            <Timestamp>1268524920</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:35 PDT 2010 -->

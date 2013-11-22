@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228174145AAgXYYg" type="Answered">
+    <Subject>Internet connection on laptop?</Subject>
+    <Content>My laptop says I have a connection to the internet but when I open my browser it says I have no connection. Any suggestions?
+Also, I have a connection on my desktop using the same router.
+</Content>
+    <Date>2010-02-28 17:41:45</Date>
+    <Timestamp>1267407705</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228174145AAgXYYg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fZzn7RbOaa</UserId>
+    <UserNick>KD</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1DmJFDvtYAAEB-AElLT4MCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you&#039;re running wifi on vista/xp you can going to network &amp; sharing connection, then try repairing.
+If that doesn&#039;t work try disconnecting &amp; connecting.
+If that doesn&#039;t work try checking your router, it probably has a plug loose that barely passes a signal.
+
+Answer mine?
+http://answers.yahoo.com/question/index;_ylt=Aj.8PJFICHoiQKIUC97Gy4jsy6IX;_ylv=3?qid=20100228161319AAYxADd</ChosenAnswer>
+    <ChosenAnswererId>VloLloVVaa</ChosenAnswererId>
+    <ChosenAnswererNick>Lilac bby.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267408607</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268439447</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you&#039;re running wifi on vista/xp you can going to network &amp; sharing connection, then try repairing.
+If that doesn&#039;t work try disconnecting &amp; connecting.
+If that doesn&#039;t work try checking your router, it probably has a plug loose that barely passes a signal.
+
+Answer mine?
+http://answers.yahoo.com/question/index;_ylt=Aj.8PJFICHoiQKIUC97Gy4jsy6IX;_ylv=3?qid=20100228161319AAYxADd</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>VloLloVVaa</UserId>
+            <UserNick>Lilac bby.</UserNick>
+            <Date>2010-02-28 17:56:47</Date>
+            <Timestamp>1267408607</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:35:51 PDT 2010 -->

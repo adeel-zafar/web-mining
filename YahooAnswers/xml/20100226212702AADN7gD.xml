@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226212702AADN7gD" type="Answered">
+    <Subject>How do you recover your Login ID in your JobsDB account?</Subject>
+    <Content>I forgot both my password and ID but I know there&#039;s a way of retrieving your password, but not your ID, can anybody help?
+</Content>
+    <Date>2010-02-26 21:27:02</Date>
+    <Timestamp>1267248422</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226212702AADN7gD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10855876</UserId>
+    <UserNick>dilchz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ZjdEcRwaAAICHIFUkB3yg84KHw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to the login page and look for &#039;Forget ID&#039; button. If you register that account by another email, the system may send you account information to your registered email account.
+
+Later, try some freeware like CyberDash (http://www.totoware.com) to manage your account.</ChosenAnswer>
+    <ChosenAnswererId>fRjH6XNPaa</ChosenAnswererId>
+    <ChosenAnswererNick>Hardy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267484766</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267524744</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to the login page and look for &#039;Forget ID&#039; button. If you register that account by another email, the system may send you account information to your registered email account.
+
+Later, try some freeware like CyberDash (http://www.totoware.com) to manage your account.</Content>
+            <Reference>http://www.totoware.com</Reference>
+            <Best>4</Best>
+            <UserId>fRjH6XNPaa</UserId>
+            <UserNick>Hardy</UserNick>
+            <Date>2010-03-01 15:06:06</Date>
+            <Timestamp>1267484766</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:47:10 PDT 2010 -->

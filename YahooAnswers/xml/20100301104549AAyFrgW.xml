@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301104549AAyFrgW" type="Answered">
+    <Subject>how long can tucows hold a domain name?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-01 10:45:49</Date>
+    <Timestamp>1267469149</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301104549AAyFrgW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ieUm2ifTaa</UserId>
+    <UserNick>STATUS CAPO</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>As long as they pay for it . Or sell it. ~</ChosenAnswer>
+    <ChosenAnswererId>ssue3clzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasper M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268108122</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268334245</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>As long as they pay for it . Or sell it. ~</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper</UserNick>
+            <Date>2010-03-08 20:15:22</Date>
+            <Timestamp>1268108122</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:02 PDT 2010 -->

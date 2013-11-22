@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326134206AAPZLRF" type="Answered">
+    <Subject>Why are my tweets disappearing?</Subject>
+    <Content>Just recently my tweets got cut out and won&#039;t show up. Yesterday I was at 224 tweets, today I&#039;m at 204 tweets. Why is this happening? O.o
+Is it going to stop soon? O.o
+</Content>
+    <Date>2010-03-26 13:42:06</Date>
+    <Timestamp>1269636126</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326134206AAPZLRF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oGR9eGsFaa</UserId>
+    <UserNick>jacob</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1bEFjaCOIAAECjSSbkCalWB8lLA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you&#039;re not being hacked, twitter is doing this to the majority of people as of late
+but they haven&#039;t been doing anything about it.</ChosenAnswer>
+    <ChosenAnswererId>RqQZa5fHaa</ChosenAnswererId>
+    <ChosenAnswererNick>elli n__n</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269649027</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270155766</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>HAcked!!!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oXmeMM8Paa</UserId>
+            <UserNick>A Designer</UserNick>
+            <Date>2010-03-26 13:42:50</Date>
+            <Timestamp>1269636170</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you&#039;re not being hacked, twitter is doing this to the majority of people as of late
+but they haven&#039;t been doing anything about it.</Content>
+            <Reference>it&#039;s happening to me.</Reference>
+            <Best>5</Best>
+            <UserId>RqQZa5fHaa</UserId>
+            <UserNick>elli n__n</UserNick>
+            <Date>2010-03-26 17:17:07</Date>
+            <Timestamp>1269649027</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:13 PDT 2010 -->

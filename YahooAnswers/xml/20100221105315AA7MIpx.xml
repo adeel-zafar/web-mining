@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221105315AA7MIpx" type="Answered">
+    <Subject>How long does it usually take you to get the code for your music downloads at clubbing.com?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-21 10:53:15</Date>
+    <Timestamp>1266778395</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221105315AA7MIpx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>l03PQanzaa</UserId>
+    <UserNick>Collier M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It should generally only take a few hours at best.</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267430308</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268034140</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It should generally only take a few hours at best.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>Legion</UserNick>
+            <Date>2010-02-28 23:58:28</Date>
+            <Timestamp>1267430308</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:34:35 PDT 2010 -->

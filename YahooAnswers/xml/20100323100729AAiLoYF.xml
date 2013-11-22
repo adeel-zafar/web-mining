@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323100729AAiLoYF" type="Answered">
+    <Subject>How do I open my pop ups?</Subject>
+    <Content>I want to enter a contest but my pop ups are blocked.  How do I put them on?
+</Content>
+    <Date>2010-03-23 10:07:29</Date>
+    <Timestamp>1269364049</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323100729AAiLoYF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iJ7BQeQmaa</UserId>
+    <UserNick>truth</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you&#039;re using IE, click alt+T,go to  pop-up blocker, choose pop-up blocker settings. type the site you want IE not to block. If you want pop-up blocker not block any pop-up, turn of pop-up blocker at tools menu</ChosenAnswer>
+    <ChosenAnswererId>xyGApfyKaa</ChosenAnswererId>
+    <ChosenAnswererNick>tyler durden</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269366223</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269537930</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you&#039;re using IE, click alt+T,go to  pop-up blocker, choose pop-up blocker settings. type the site you want IE not to block. If you want pop-up blocker not block any pop-up, turn of pop-up blocker at tools menu</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xyGApfyKaa</UserId>
+            <UserNick>tyler Durden</UserNick>
+            <Date>2010-03-23 10:43:43</Date>
+            <Timestamp>1269366223</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:18:40 PDT 2010 -->

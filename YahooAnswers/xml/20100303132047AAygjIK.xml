@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303132047AAygjIK" type="Answered">
+    <Subject>I need to sign into more than one yahoo account at a time, what&#039;s the problem here?</Subject>
+    <Content>Why, every time I go to sign into another yahoo account, the one I currently have open is dominating my new page?!  This P*sses me OFF.  I need to have more than one account open at the same time so how does this work?
+</Content>
+    <Date>2010-03-03 13:20:47</Date>
+    <Timestamp>1267651247</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303132047AAygjIK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aXJD8phRaa</UserId>
+    <UserNick>__A_YAHOO_USER__</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>B/c you can&#039;t sign in to multiple yahoo accounts on the same machine. That&#039;s b/c when you connect, you are on a secure connection to the network card on your machine. You can&#039;t have simultaneous secure connections to yahoo.
+
+There are ways around this. You can create a virtual system on you PC and log in from that one. But that may be above and beyond what you want to do.
+
+Or you can sign in from a different computer.</ChosenAnswer>
+    <ChosenAnswererId>8zCHV6pnaa</ChosenAnswererId>
+    <ChosenAnswererNick>D.C.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267651685</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267738392</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>B/c you can&#039;t sign in to multiple yahoo accounts on the same machine. That&#039;s b/c when you connect, you are on a secure connection to the network card on your machine. You can&#039;t have simultaneous secure connections to yahoo.
+
+There are ways around this. You can create a virtual system on you PC and log in from that one. But that may be above and beyond what you want to do.
+
+Or you can sign in from a different computer.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>8zCHV6pnaa</UserId>
+            <UserNick>D.C.</UserNick>
+            <Date>2010-03-03 13:28:05</Date>
+            <Timestamp>1267651685</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hey it is free what do you want.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UWAqm037aa</UserId>
+            <UserNick>Mike</UserNick>
+            <Date>2010-03-03 13:32:12</Date>
+            <Timestamp>1267651932</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try to sign in by using another browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1BmAvrxlaa</UserId>
+            <UserNick>BUang</UserNick>
+            <Date>2010-03-03 13:41:58</Date>
+            <Timestamp>1267652518</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:35 PDT 2010 -->

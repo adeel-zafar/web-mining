@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224173808AAUA4Gs" type="Answered">
+    <Subject>How do I delete a song from an Itunes playlist but keep it in the library?</Subject>
+    <Content>I was just transfering some new purchases to playlists on Itunes and I accidentally put it in the wrong place. I tried to uncheck it in that list but when I do it unchecks in the play list that I want it in as well.
+</Content>
+    <Date>2010-02-24 17:38:08</Date>
+    <Timestamp>1267061888</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224173808AAUA4Gs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>u8dLpUG4aa</UserId>
+    <UserNick>osiris</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1dBheUh4wAAEE_CEO8231DQ==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Delete the song from the playlist, iTunes will ask you if you want to delete it from you library, click no.
+(make a back up copy of the song just in case.)</ChosenAnswer>
+    <ChosenAnswererId>gQnsT9cRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bruce</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267062303</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267140125</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Delete the song from the playlist, iTunes will ask you if you want to delete it from you library, click no.
+(make a back up copy of the song just in case.)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gQnsT9cRaa</UserId>
+            <UserNick>Bruce</UserNick>
+            <Date>2010-02-24 17:45:03</Date>
+            <Timestamp>1267062303</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:12:15 PDT 2010 -->

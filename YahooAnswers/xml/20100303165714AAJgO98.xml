@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303165714AAJgO98" type="Answered">
+    <Subject>Chatroulette won&#039;t let me type?</Subject>
+    <Content>So my boyfriend and I were talking to people on Chatroulette and I noticed I&#039;d be able to type for a little bit, but then the box would just go dark and it wouldn&#039;t let me type. Why is this?
+</Content>
+    <Date>2010-03-03 16:57:14</Date>
+    <Timestamp>1267664234</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303165714AAJgO98</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>k3UQvo0Waa</UserId>
+    <UserNick>musicalitythrives</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1Lt5JLRq9AAEC5GTdfVAz7IYB.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Simple, bugs.
+
+Just like the random disconnects while you&#039;re having a really good conversation. For now they are part and parcel of the website.</ChosenAnswer>
+    <ChosenAnswererId>92f4208c0af3ddb07f37652180d67f0caa</ChosenAnswererId>
+    <ChosenAnswererNick>WASABI</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267764180</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268361758</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Simple, bugs.
+
+Just like the random disconnects while you&#039;re having a really good conversation. For now they are part and parcel of the website.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>92f4208c0af3ddb07f37652180d67f0caa</UserId>
+            <UserNick>WASABI</UserNick>
+            <Date>2010-03-04 20:43:00</Date>
+            <Timestamp>1267764180</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:15:02 PDT 2010 -->

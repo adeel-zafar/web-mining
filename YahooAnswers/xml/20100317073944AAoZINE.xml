@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317073944AAoZINE" type="Answered">
+    <Subject>when you send money through paypal or xoom, will your full name and address appear to the recipient?</Subject>
+    <Content>I want to send money to a person but I don&#039;t want him to know my complete name or address.
+
+Will it be visible to the recipient?
+</Content>
+    <Date>2010-03-17 07:39:44</Date>
+    <Timestamp>1268836784</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317073944AAoZINE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0DUG1uQUaa</UserId>
+    <UserNick>solutions</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes.
+
+They&#039;ll be able to see your name, and your address if you have sent the payment for &quot;goods&quot;.</ChosenAnswer>
+    <ChosenAnswererId>hi72pocRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Aaron</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268837002</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269356067</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes.
+
+They&#039;ll be able to see your name, and your address if you have sent the payment for &quot;goods&quot;.</Content>
+            <Reference>I use paypal.</Reference>
+            <Best>5</Best>
+            <UserId>hi72pocRaa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-17 07:43:22</Date>
+            <Timestamp>1268837002</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:45:11 PDT 2010 -->

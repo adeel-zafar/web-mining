@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310164453AAB1oqW" type="Answered">
+    <Subject>Mozilla Firefox 3.6 safe to install?</Subject>
+    <Content>So appearantly I need to &#039;update&#039; my internet browser..
+but my computer is easily prone to viruses even tho I use McAfee(anti-virus program)
+to be on the safe zone Im about to install Mozilla Firefox 3.6 since my highschool uses it.
+
+MY QUESTION IS: is this a smart decision? should i continue to install or do you have anyother suggestions?
+</Content>
+    <Date>2010-03-10 16:44:53</Date>
+    <Timestamp>1268268293</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310164453AAB1oqW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7a359d5049aba404f11c59558c1cde58aa</UserId>
+    <UserNick>bleh! =P</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1RWp507X8AAEC3eQDcdBSDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes.  Install Firefox 3.6. From what I&#039;ve read and experienced it is stable and it would be a good idea to update.  It&#039;s also faster than Firefox 3.5</ChosenAnswer>
+    <ChosenAnswererId>JHIuxlofaa</ChosenAnswererId>
+    <ChosenAnswererNick>drbigglebum</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268269141</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268533311</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes. its safe as long as you download from the original website.
+
+Its great has a lot of good features .</Content>
+            <Reference>using it.</Reference>
+            <Best></Best>
+            <UserId>TPt49eQ5aa</UserId>
+            <UserNick>tiger</UserNick>
+            <Date>2010-03-10 16:47:53</Date>
+            <Timestamp>1268268473</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes it is safe.  if you don&#039;t like it for some reason, also try  Opera</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ICG482RVaa</UserId>
+            <UserNick>Tom</UserNick>
+            <Date>2010-03-10 16:58:11</Date>
+            <Timestamp>1268269091</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes.  Install Firefox 3.6. From what I&#039;ve read and experienced it is stable and it would be a good idea to update.  It&#039;s also faster than Firefox 3.5</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JHIuxlofaa</UserId>
+            <UserNick>drbigglebum</UserNick>
+            <Date>2010-03-10 16:59:01</Date>
+            <Timestamp>1268269141</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:17:11 PDT 2010 -->

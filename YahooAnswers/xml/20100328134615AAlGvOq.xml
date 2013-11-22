@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328134615AAlGvOq" type="Answered">
+    <Subject>If I recieve money on paypal, is it used next time on ebay?</Subject>
+    <Content>Say i recieve a gift of money on paypal, and i keep it in my paypal account. Next time i buy something on ebay and pay through paypal, is the gifted money used or does the money come from my debit card as it does normally?
+
+thanx
+</Content>
+    <Date>2010-03-28 13:46:15</Date>
+    <Timestamp>1269809175</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328134615AAlGvOq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dJk1LO9Aaa</UserId>
+    <UserNick>egroeg93</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Paypal will automatically use the balance on your paypal account first, then the balance (if required) from your normal funding source.</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269853270</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270328707</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Mine is used from my paypal account money first  and if there is not enough they take the rest from my card. If you don&#039;t want them to use the gifted money you transfer it 0ut to your bank account before you pay for anything else.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1f9aDH2Baa</UserId>
+            <UserNick>JOHN H</UserNick>
+            <Date>2010-03-28 13:57:25</Date>
+            <Timestamp>1269809845</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Paypal will automatically use the balance on your paypal account first, then the balance (if required) from your normal funding source.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-29 02:01:10</Date>
+            <Timestamp>1269853270</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>After you&#039;ve bought something on eBay, and go to Paypal to pay, you&#039;ll be presented with whatever options you have to pay - from which bank account, directly from your Paypal account, etc. Just choose where you want the payment to come from.
+
+Good luck!</Content>
+            <Reference>eBay buyer/seller for years</Reference>
+            <Best></Best>
+            <UserId>AA11026896</UserId>
+            <UserNick>enemy62301</UserNick>
+            <Date>2010-03-29 15:05:11</Date>
+            <Timestamp>1269900311</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:18:10 PDT 2010 -->

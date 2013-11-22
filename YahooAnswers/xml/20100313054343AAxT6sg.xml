@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313054343AAxT6sg" type="Answered">
+    <Subject>I use Mozilla Firefox browser. When i want to send attachments on Gmail, they dont get attached.?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-13 05:43:43</Date>
+    <Timestamp>1268487823</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313054343AAxT6sg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oW68rhktaa</UserId>
+    <UserNick>christa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1CzcW9L2gAAEBFIKcqLK1mFoB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>certain extensions are now barred from many webmail sites because they can contain malware or viruses, .com, .exe, .bat, .doc, .bat are all excluded, to send an attachment try changing the extension to .txt or .pdf and tell the recipient to change it back</ChosenAnswer>
+    <ChosenAnswererId>2Bxy8GO6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Harley Drive</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268509868</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268579805</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>certain extensions are now barred from many webmail sites because they can contain malware or viruses, .com, .exe, .bat, .doc, .bat are all excluded, to send an attachment try changing the extension to .txt or .pdf and tell the recipient to change it back</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-13 11:51:08</Date>
+            <Timestamp>1268509868</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-14 11:53:31</Date>
+            <Timestamp>1268509868</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:05:07 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226233851AAwTJoA" type="Answered">
+    <Subject>How do i know who viewed my blog at blogger?</Subject>
+    <Content>i dont mean to know how many viewed, but to know WHO viewed it.any idea guys?
+</Content>
+    <Date>2010-02-26 23:38:51</Date>
+    <Timestamp>1267256331</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226233851AAwTJoA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wmO7YyT5aa</UserId>
+    <UserNick>DanceFloor18</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You could create a guestbook page where you ask visitors to sign.  That would be the only way I know of because a visitor to your site is just an IP address.  You could get location information but that would be about it.</ChosenAnswer>
+    <ChosenAnswererId>vewbBI30aa</ChosenAnswererId>
+    <ChosenAnswererNick>Brian L</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267280533</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267281627</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i dont think thats possible</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VkKj9aYWaa</UserId>
+            <UserNick>all bout angie</UserNick>
+            <Date>2010-02-26 23:45:20</Date>
+            <Timestamp>1267256720</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You could create a guestbook page where you ask visitors to sign.  That would be the only way I know of because a visitor to your site is just an IP address.  You could get location information but that would be about it.</Content>
+            <Reference>http://www.get-pnb.com</Reference>
+            <Best>5</Best>
+            <UserId>vewbBI30aa</UserId>
+            <UserNick>Brian L</UserNick>
+            <Date>2010-02-27 06:22:13</Date>
+            <Timestamp>1267280533</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:46:42 PDT 2010 -->

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303151247AAbyPH3" type="Answered">
+    <Subject>Good program that removes possible virus?</Subject>
+    <Content>whats a free good program that removes possible viruses (cookies or threats?)?
+please list them.
+thanks.
+</Content>
+    <Date>2010-03-03 15:12:47</Date>
+    <Timestamp>1267657967</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303151247AAbyPH3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Y489y3QDaa</UserId>
+    <UserNick>Alice in Wonderland</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267715352</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267716240</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>A quality free-paid anti virus, on-demand scanners like Hitman Pro, Malwarebytes and cleanup using ccleaner...</Content>
+            <Reference>http://www.techsupportalert.com/best-free-anti-virus-software.htm
+http://www.surfright.nl/en/hitmanpro
+http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/ccleaner/?tag=mncol</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-03 15:22:22</Date>
+            <Timestamp>1267658542</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>avg free works well</Content>
+            <Reference>Myself and personal problems :)</Reference>
+            <Best></Best>
+            <UserId>qMnhNXKqaa</UserId>
+            <UserNick>Nick</UserNick>
+            <Date>2010-03-03 15:25:43</Date>
+            <Timestamp>1267658743</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>MICROSOFT SECURITY ESSENTIALS.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>mFno3AtSaa</UserId>
+            <UserNick>Michael Weston</UserNick>
+            <Date>2010-03-03 15:30:48</Date>
+            <Timestamp>1267659048</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-04 07:09:12</Date>
+            <Timestamp>1267715352</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:15:42 PDT 2010 -->

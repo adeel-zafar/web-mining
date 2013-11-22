@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225233123AADolDH" type="Answered">
+    <Subject>need help, internet trouble..?</Subject>
+    <Content>well my pc seems to be working fine and ive done multiple virus scans and looks fine
+but lets say for example im on youtube and i click on a vid, as its buffering or whatever it will take forever and after it starts playing only like 5 secs into the vid then start buffering again.. i look at my conection and its good to excellent. i think its a virus that eats up my bandwidth
+any help?
+</Content>
+    <Date>2010-02-25 23:31:23</Date>
+    <Timestamp>1267169483</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225233123AADolDH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Bjsj8UMPaa</UserId>
+    <UserNick>Anon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Too many cookies are piling up within your computer causing an issue with your bandwidth. Simple way to fix this buffering issue.. Open web browser ---&gt; Tools ---&gt; internet options ---&gt; general tab ---&gt; browsing history ---&gt; delete ---&gt; delete all ---&gt; check box to delete cookie add-ons also ---&gt; yes ---&gt; close internet broswer/window ---&gt; open browser and go back to youtube. Now when you play that same video, it will play fine.</ChosenAnswer>
+    <ChosenAnswererId>njeUJ1AKaa</ChosenAnswererId>
+    <ChosenAnswererNick>xx Disturbed ~ Sinner xx</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267170216</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267688677</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This is not a problem with your internet its more of a problem with youtube. i have the same problems and its not usually on all visd but some just seem to take forever to load and buffer all the way.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eOnR7OW6aa</UserId>
+            <UserNick>Andrew F</UserNick>
+            <Date>2010-02-25 23:34:12</Date>
+            <Timestamp>1267169652</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Too many cookies are piling up within your computer causing an issue with your bandwidth. Simple way to fix this buffering issue.. Open web browser ---&gt; Tools ---&gt; internet options ---&gt; general tab ---&gt; browsing history ---&gt; delete ---&gt; delete all ---&gt; check box to delete cookie add-ons also ---&gt; yes ---&gt; close internet broswer/window ---&gt; open browser and go back to youtube. Now when you play that same video, it will play fine.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>njeUJ1AKaa</UserId>
+            <UserNick>xx Disturbed ~ Sinner xx</UserNick>
+            <Date>2010-02-25 23:43:36</Date>
+            <Timestamp>1267170216</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It CAN be a problem with your internet connection. Test your speeds at speedtest.net
+If they are still fast, then yes, sometimes it is youtube and the server the video is located on is running a little slow.</Content>
+            <Reference>Personal experience.</Reference>
+            <Best></Best>
+            <UserId>dee42b23539c3e46d290fa0c233f5a6aaa</UserId>
+            <UserNick>arkhos</UserNick>
+            <Date>2010-02-25 23:43:54</Date>
+            <Timestamp>1267170234</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:53:04 PDT 2010 -->

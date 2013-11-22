@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326033851AAtvQuO" type="Answered">
+    <Subject>Why does my browser (Firefox) start to have a delayed reaction after I have it open for an hour or so?</Subject>
+    <Content>After like an hour or so I&#039;ll try to scroll or move the curser or type something and it will freeze for like a second before it reacts. I&#039;ll close and restart it and it will be fine, but then after an hour the same thing happens.
+</Content>
+    <Date>2010-03-26 03:38:51</Date>
+    <Timestamp>1269599931</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326033851AAtvQuO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qFfWeFSIaa</UserId>
+    <UserNick>Brandon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1DxWh1xFZAAECPKJ3BBd0JrgB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Firefox is a memory hog and certain extensions are prone to memory leaks - keep task manager open and see the memory usage shoot up over time
+
+Try to keep the number of tabs open to a minimum and get rid of any extensions you don&#039;t use anymore however &quot;cool&quot; they may be.
+
+Or try Google chrome!</ChosenAnswer>
+    <ChosenAnswererId>c59aa0746b771ce4755726e1da6772d1aa</ChosenAnswererId>
+    <ChosenAnswererNick>zoomjet</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269600296</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270119247</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox is a memory hog and certain extensions are prone to memory leaks - keep task manager open and see the memory usage shoot up over time
+
+Try to keep the number of tabs open to a minimum and get rid of any extensions you don&#039;t use anymore however &quot;cool&quot; they may be.
+
+Or try Google chrome!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>c59aa0746b771ce4755726e1da6772d1aa</UserId>
+            <UserNick>zoomjet</UserNick>
+            <Date>2010-03-26 03:44:56</Date>
+            <Timestamp>1269600296</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:27:54 PDT 2010 -->

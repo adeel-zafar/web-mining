@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323092707AAWbO4a" type="Answered">
+    <Subject>Firefox Advertisements?</Subject>
+    <Content>Lately I&#039;ve been getting advertisements on top of websites like Facebook and Youtube logins which only happens when i use firefox. Is this cause of an add-on ??
+Not really
+</Content>
+    <Date>2010-03-23 09:27:07</Date>
+    <Timestamp>1269361627</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323092707AAWbO4a</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BHXYJIaqaa</UserId>
+    <UserNick>Jack</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1dDJ0Rlq0AAEC_AGSGKtbGBO9LQ==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>That&#039;s what happens when you use ILLEGAL browers.  Just use IE like a normal person.</ChosenAnswer>
+    <ChosenAnswererId>giaq8wzNaa</ChosenAnswererId>
+    <ChosenAnswererNick>Joshums</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269361685</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269881105</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>That&#039;s what happens when you use ILLEGAL browers.  Just use IE like a normal person.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>giaq8wzNaa</UserId>
+            <UserNick>Joshums</UserNick>
+            <Date>2010-03-23 09:28:05</Date>
+            <Timestamp>1269361685</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Do you have some form of ad-blocking feature in Internet Explorer (or Safari if you&#039;re on a Mac?).
+
+Firefox illegal?  I&#039;d love to hear the logic behind that one...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jLTDqVHsaa</UserId>
+            <UserNick>NYC fan</UserNick>
+            <Date>2010-03-23 09:32:17</Date>
+            <Timestamp>1269361937</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:18:48 PDT 2010 -->

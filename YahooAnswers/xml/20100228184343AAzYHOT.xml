@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228184343AAzYHOT" type="Answered">
+    <Subject>Does Paypal make me pay right away when I send money?</Subject>
+    <Content>I want to pay someone over Paypal. Does Paypal work like a credit card with a monthly statement? Do I pay in full or partial? Do I have to have the money in the account before or can I stick it in later?
+</Content>
+    <Date>2010-02-28 18:43:43</Date>
+    <Timestamp>1267411423</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228184343AAzYHOT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pJKTZ1kGaa</UserId>
+    <UserNick>B.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>they make you pay right away</ChosenAnswer>
+    <ChosenAnswererId>nNz5yl0Taa</ChosenAnswererId>
+    <ChosenAnswererNick>victor</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267411540</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268161413</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>they make you pay right away</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nNz5yl0Taa</UserId>
+            <UserNick>victor</UserNick>
+            <Date>2010-02-28 18:45:40</Date>
+            <Timestamp>1267411540</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>When you pay from a paypal account it will draw the money from whatever you have in your paypal account. If you do not have the money in your account then paypal will need a credit card or your bank account info and it will draw from there. Paypal doesnt offer a line of credit unless you apply and get approved, So without the credit, it needs money right away from you. And lets say you choose to have paypal draw from a bank account to pay for a purchase, the merchant will not receive the payment until the money has cleared your bank.</Content>
+            <Reference>13 years computing / 5 years using paypal</Reference>
+            <Best></Best>
+            <UserId>UalLjhfMaa</UserId>
+            <UserNick>Paul</UserNick>
+            <Date>2010-02-28 18:45:57</Date>
+            <Timestamp>1267411557</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>PayPal charges the entire amount to your card.  However, I noticed the other day, they are offering monthly payments, but you have to apply for the credit!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-02-28 18:46:33</Date>
+            <Timestamp>1267411593</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:35:19 PDT 2010 -->

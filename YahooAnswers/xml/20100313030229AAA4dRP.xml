@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313030229AAA4dRP" type="Answered">
+    <Subject>Why has the RSS feed on my WordPress blog disappeared and how can I get it back?</Subject>
+    <Content>I&#039;ve got a Wordpress blog being hosted by Godaddy and I was just trying to set up an RSS feed for it but when I clicked on the &quot;Subscribe&quot; link to see if it worked, I got the message &quot;This feed no longer exists.&quot; Here&#039;s the URL:
+
+http://www.survivalprep.net/feed/
+
+I don&#039;t remember deleting any files in my FTP directory, but if I did is there a way to restore them? Or could the problem be somewhere else? Or is there something else that I should do?
+Leenus, I just activated a different theme but I&#039;m still getting the message &quot;This feed no longer exists.&quot;
+</Content>
+    <Date>2010-03-13 03:02:29</Date>
+    <Timestamp>1268478149</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313030229AAA4dRP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ev1POWEoaa</UserId>
+    <UserNick>Miketymikemike</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Why should I stock up on stuff? Part 2: Buy it, then hide it!
+
+Why should I stock up on stuff if people will just steal it anyway?
+
+If these are some of the posts on your blog and you are not able to view your Rss feed on your website, then its a problem with the theme you have installed but not the Wordpress.
+
+Try to download some random themes and check whether you can see the RSS button or not.</ChosenAnswer>
+    <ChosenAnswererId>xv3sR2Heaa</ChosenAnswererId>
+    <ChosenAnswererNick>Leenus</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268478984</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268994155</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Why should I stock up on stuff? Part 2: Buy it, then hide it!
+
+Why should I stock up on stuff if people will just steal it anyway?
+
+If these are some of the posts on your blog and you are not able to view your Rss feed on your website, then its a problem with the theme you have installed but not the Wordpress.
+
+Try to download some random themes and check whether you can see the RSS button or not.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xv3sR2Heaa</UserId>
+            <UserNick>Leenus</UserNick>
+            <Date>2010-03-13 03:16:24</Date>
+            <Timestamp>1268478984</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:05:34 PDT 2010 -->

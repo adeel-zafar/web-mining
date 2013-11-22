@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307100708AA1h75A" type="Answered">
+    <Subject>Changing default web browser on a mac?</Subject>
+    <Content>So i looked online on how to change my default web browser and it said to go to system preferences and choose the internet option under Internet and Network. The problem is there is no internet option. There is only MobileMe, Network, Quicktime, and Sharing. My computer is a macbook pro that i got at  the beginning of the school year if that makes any difference. I am trying to change from firefox to safari
+</Content>
+    <Date>2010-03-07 10:07:08</Date>
+    <Timestamp>1267985228</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307100708AA1h75A</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Y22n5LEvaa</UserId>
+    <UserNick>Matt</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I don&#039;t know why the other answers here are getting thumbs down; that actually is how you do it. By all logic, the setting *should* be in System Preferences, but for whatever reason, it&#039;s in Safari&#039;s preferences window. As others have said:
+
+- Open Safari from your Applications folder (or your Dock, if it&#039;s still on there)
+- From the &quot;Safari&quot; menu up top, choose &quot;Preferences...&quot;
+- A window will appear. In the &quot;General&quot; category (the first icon with the light switch), the very first thing is a drop-down menu which lets you choose which browser to use as your default.
+- In your case, select Safari from the list, and boom, you&#039;re done.</ChosenAnswer>
+    <ChosenAnswererId>be55f04b8c79c46e08a6dcc1d71b8bd5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Mike M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267986272</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269201223</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can change those settings in the browser itself.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-07 10:08:28</Date>
+            <Timestamp>1267985308</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Open Safari, select &quot;Preferences&quot; from the &quot;Safari&quot; menu.
+
+Go to the General tab, then change the default browser there.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA12284392</UserId>
+            <UserNick>Old Fat Bald Guy</UserNick>
+            <Date>2010-03-07 10:09:33</Date>
+            <Timestamp>1267985373</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Safari/Preferences/General
+
+Change it there.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-07 10:09:39</Date>
+            <Timestamp>1267985379</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I don&#039;t know why the other answers here are getting thumbs down; that actually is how you do it. By all logic, the setting *should* be in System Preferences, but for whatever reason, it&#039;s in Safari&#039;s preferences window. As others have said:
+
+- Open Safari from your Applications folder (or your Dock, if it&#039;s still on there)
+- From the &quot;Safari&quot; menu up top, choose &quot;Preferences...&quot;
+- A window will appear. In the &quot;General&quot; category (the first icon with the light switch), the very first thing is a drop-down menu which lets you choose which browser to use as your default.
+- In your case, select Safari from the list, and boom, you&#039;re done.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>be55f04b8c79c46e08a6dcc1d71b8bd5aa</UserId>
+            <UserNick>Mike M</UserNick>
+            <Date>2010-03-07 10:24:32</Date>
+            <Timestamp>1267986272</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:39:51 PDT 2010 -->

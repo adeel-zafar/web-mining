@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327195059AAtjlkH" type="Answered">
+    <Subject>What IP blocker is fastest?</Subject>
+    <Content>I downloaded the ipfilter.dat and got it working with emule, but it slowed down my computer even when I visited web pages. Is there any fast ip blocker?
+</Content>
+    <Date>2010-03-27 19:50:59</Date>
+    <Timestamp>1269744659</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327195059AAtjlkH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>S2Pv28Enaa</UserId>
+    <UserNick>Weilei</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Beethink ip blocker
+http://www.beethink.com
+
+Hope this helps :)</ChosenAnswer>
+    <ChosenAnswererId>dtLpm3dWaa</ChosenAnswererId>
+    <ChosenAnswererNick>Keenmusic</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269788718</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270263797</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Beethink ip blocker
+http://www.beethink.com
+
+Hope this helps :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dtLpm3dWaa</UserId>
+            <UserNick>Keenmusic</UserNick>
+            <Date>2010-03-28 08:05:18</Date>
+            <Timestamp>1269788718</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:11 PDT 2010 -->

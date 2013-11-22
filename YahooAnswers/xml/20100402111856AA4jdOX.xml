@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402111856AA4jdOX" type="Answered">
+    <Subject>Want to know about INTERNET?</Subject>
+    <Content>I am living in malegaon. Is there any way to know who is using internet in my area and any information about them.
+</Content>
+    <Date>2010-04-02 11:18:56</Date>
+    <Timestamp>1270232336</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402111856AA4jdOX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yTIY9Oloaa</UserId>
+    <UserNick>Umar Farooque</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.indax.com/internet.html</ChosenAnswer>
+    <ChosenAnswererId>9OPV7FHpaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bobsy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270233328</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270360987</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to the service provider and ask them the information you desire? There&#039;s no other way you could know!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yJmHkMCvaa</UserId>
+            <UserNick>Portgas.D.Ace</UserNick>
+            <Date>2010-04-02 11:34:39</Date>
+            <Timestamp>1270233279</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.indax.com/internet.html</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>9OPV7FHpaa</UserId>
+            <UserNick>Bobsy</UserNick>
+            <Date>2010-04-02 11:35:28</Date>
+            <Timestamp>1270233328</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:18 PDT 2010 -->

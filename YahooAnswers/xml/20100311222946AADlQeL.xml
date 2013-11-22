@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311222946AADlQeL" type="Answered">
+    <Subject>Mozilla Firefox Question?</Subject>
+    <Content>i accidentally got rid of my tool bar how do i get it back?
+*it is the menu bar with tools, file, ect.
+</Content>
+    <Date>2010-03-11 22:29:46</Date>
+    <Timestamp>1268375386</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311222946AADlQeL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>51Q5uvpKaa</UserId>
+    <UserNick>JC²</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Right click where the toolbars normally are, and recheck the toolbar you want back</ChosenAnswer>
+    <ChosenAnswererId>sKfPCkJkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark G</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268375696</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268467304</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Right click where the toolbars normally are, and recheck the toolbar you want back</Content>
+            <Reference>Me</Reference>
+            <Best>5</Best>
+            <UserId>sKfPCkJkaa</UserId>
+            <UserNick>Mark G</UserNick>
+            <Date>2010-03-11 22:34:56</Date>
+            <Timestamp>1268375696</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Get add-ons from mozilla website or reinstall your mozilla firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>havy9XC3aa</UserId>
+            <UserNick>Xfltre07</UserNick>
+            <Date>2010-03-11 22:35:17</Date>
+            <Timestamp>1268375717</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Right-click on the free space under Mozilla Firefox title and set checkboxes at the required items.</Content>
+            <Reference>http://www.askdrtech.com/</Reference>
+            <Best></Best>
+            <UserId>9Jkc34m8aa</UserId>
+            <UserNick>Randall</UserNick>
+            <Date>2010-03-11 22:36:27</Date>
+            <Timestamp>1268375787</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>On the upsite of your browser click view then choose toolbars. Then choose the one you want to place back.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qsB5HsGTaa</UserId>
+            <UserNick>henry_rudolfxxx</UserNick>
+            <Date>2010-03-11 22:45:58</Date>
+            <Timestamp>1268376358</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:11:24 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224131311AAaG4AA" type="Answered">
+    <Subject>When i try to download a firefox add on i get a message saying i need firefox which i already have?</Subject>
+    <Content>When i try to download a firefox add on i get a message saying i need firefox which i already have. Please Help!
+</Content>
+    <Date>2010-02-24 13:13:11</Date>
+    <Timestamp>1267045991</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224131311AAaG4AA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wewldenMaa</UserId>
+    <UserNick>Ryan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>That sounds about like something a stupid computer will tell you. Every morning when I sign on, my computer says, here&#039;s that idiot at my keyboard again. I wonder what he is going to have me screw up today. LOL  I don&#039;t know what version of firefox you have, I had 3.5 and a little while ago I upgraded to 3.6 that might solve your problem, if you don&#039;t already have that. I guess it would be worth a try. Whatever you think.
+You do know that some of those add on&#039;s are for older versions of firefox.  (Look on the right side.)</ChosenAnswer>
+    <ChosenAnswererId>CVpM4VqGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Computer Tech</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267046750</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268043828</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try uninstalling Firefox, use ccleaner, Restart PC and reinstall Firefox...</Content>
+            <Reference>http://www.ccleaner.com/</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-24 13:18:08</Date>
+            <Timestamp>1267046288</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That sounds about like something a stupid computer will tell you. Every morning when I sign on, my computer says, here&#039;s that idiot at my keyboard again. I wonder what he is going to have me screw up today. LOL  I don&#039;t know what version of firefox you have, I had 3.5 and a little while ago I upgraded to 3.6 that might solve your problem, if you don&#039;t already have that. I guess it would be worth a try. Whatever you think.
+You do know that some of those add on&#039;s are for older versions of firefox.  (Look on the right side.)</Content>
+            <Reference>Computer Tech</Reference>
+            <Best>5</Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-02-24 13:25:50</Date>
+            <Timestamp>1267046750</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:13:54 PDT 2010 -->

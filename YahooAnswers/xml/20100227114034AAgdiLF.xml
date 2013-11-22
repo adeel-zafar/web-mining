@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227114034AAgdiLF" type="Answered">
+    <Subject>how do i search for people on twitter?</Subject>
+    <Content>okay so i&#039;m just trying to look someone up and like i know for a fact they have a twitter and i already know their username but when i type in their name it keeps saying that there was no matches. why is it doing that?
+how can i look people up if it keeps telling me that there is no match?
+thanks
+</Content>
+    <Date>2010-02-27 11:40:34</Date>
+    <Timestamp>1267299634</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227114034AAgdiLF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>e98509f4bac5877efa0694962f059f0baa</UserId>
+    <UserNick>Pink</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1DmI1Om_xAAIB-KFTwAxgCV8B.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The most logical reason that I can think of is that their page is probably only created. It usually takes about a month for profiles to appear on the search page. If it&#039;s a celebrity you&#039;re searching for, try googling them, it is most likely that you will get a result from doing that. If it&#039;s not, the person you&#039;re searching for should come up anyway.
+Try finding out this person&#039;s username and then put it into the search box, for example
+twitter.com/anon
+
+I hope that helps! :)</ChosenAnswer>
+    <ChosenAnswererId>5VvFSk4Naa</ChosenAnswererId>
+    <ChosenAnswererNick>codemaster</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267299954</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267497583</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The most logical reason that I can think of is that their page is probably only created. It usually takes about a month for profiles to appear on the search page. If it&#039;s a celebrity you&#039;re searching for, try googling them, it is most likely that you will get a result from doing that. If it&#039;s not, the person you&#039;re searching for should come up anyway.
+Try finding out this person&#039;s username and then put it into the search box, for example
+twitter.com/anon
+
+I hope that helps! :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5VvFSk4Naa</UserId>
+            <UserNick>codemaster</UserNick>
+            <Date>2010-02-27 11:45:54</Date>
+            <Timestamp>1267299954</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:43:53 PDT 2010 -->

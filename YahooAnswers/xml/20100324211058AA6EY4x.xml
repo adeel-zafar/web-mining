@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324211058AA6EY4x" type="Answered">
+    <Subject>can downloads still be tracked even if its not from a torrent?</Subject>
+    <Content>for example megaupload or sites like that
+</Content>
+    <Date>2010-03-24 21:10:58</Date>
+    <Timestamp>1269490258</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324211058AA6EY4x</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UZKIrjEXaa</UserId>
+    <UserNick>Diego</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1RuLafHaFAAEC_KFx7BafK7gB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, ISP can do that.
+Although ISP normally don&#039;t bother monitoring user internet use unless they find something suspicious or are forced by some watchdog group looking for pirates..</ChosenAnswer>
+    <ChosenAnswererId>YESUhp8gaa</ChosenAnswererId>
+    <ChosenAnswererNick>Aaron</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269490532</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269559594</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your ISP knows. 
+~</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper M</UserNick>
+            <Date>2010-03-24 21:12:56</Date>
+            <Timestamp>1269490376</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, ISP can do that.
+Although ISP normally don&#039;t bother monitoring user internet use unless they find something suspicious or are forced by some watchdog group looking for pirates..</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>YESUhp8gaa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-24 21:15:32</Date>
+            <Timestamp>1269490532</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can reroute ur traffic thru Identity protector websites like www.ctunnel.com, www.anonymouse.com.
+
+Instead of urs, their IPs will be visible.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>c036c6e98f5cb5cfddefbc09ebbd2cb4aa</UserId>
+            <UserNick>serious_salil</UserNick>
+            <Date>2010-03-25 04:46:41</Date>
+            <Timestamp>1269517601</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:39 PDT 2010 -->

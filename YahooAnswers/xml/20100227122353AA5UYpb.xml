@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227122353AA5UYpb" type="Answered">
+    <Subject>When you ask a question to someone on the form-spring me website, do they know who asked it?</Subject>
+    <Content>I&#039;m just wondering.
+</Content>
+    <Date>2010-02-27 12:23:53</Date>
+    <Timestamp>1267302233</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227122353AA5UYpb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Lh7pzgbSaa</UserId>
+    <UserNick>Summer Star</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/11E5QcNRgAAID-GEfjV5DDg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Nope, that&#039;s whole idea.</ChosenAnswer>
+    <ChosenAnswererId>1XZ3fkkVaa</ChosenAnswererId>
+    <ChosenAnswererNick>Midnightblues</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267302424</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267422685</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Nope, that&#039;s whole idea.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>1XZ3fkkVaa</UserId>
+            <UserNick>Midnightblues</UserNick>
+            <Date>2010-02-27 12:27:04</Date>
+            <Timestamp>1267302424</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:43:37 PDT 2010 -->

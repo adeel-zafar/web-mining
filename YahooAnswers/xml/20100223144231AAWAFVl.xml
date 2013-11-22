@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223144231AAWAFVl" type="Answered">
+    <Subject>Coke zone help!!!!!!!!?</Subject>
+    <Content>ive had 4 coke points what didntr work recently bought from tesco
+2 of those most of the code was rubed out
+2 of them were not workin
+WHAT SHALL I DO?
+They were four 2l bottles
+</Content>
+    <Date>2010-02-23 14:42:31</Date>
+    <Timestamp>1266964951</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223144231AAWAFVl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RbTo3wNhaa</UserId>
+    <UserNick>Tom</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>buy 4 more cans of coke!.
+i throw all mine away.</ChosenAnswer>
+    <ChosenAnswererId>938cb178c6fd65efbd3ccb38b0b28e22aa</ChosenAnswererId>
+    <ChosenAnswererNick>uk_staffie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266967212</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267123332</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>buy 4 more cans of coke!.
+i throw all mine away.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>938cb178c6fd65efbd3ccb38b0b28e22aa</UserId>
+            <UserNick>uk_staffie</UserNick>
+            <Date>2010-02-23 15:20:12</Date>
+            <Timestamp>1266967212</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:18:39 PDT 2010 -->

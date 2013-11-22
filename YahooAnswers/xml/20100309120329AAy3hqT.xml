@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309120329AAy3hqT" type="Answered">
+    <Subject>my Firefox freezes ? it&#039;s killing me ?</Subject>
+    <Content>After each movement, Firefox freezes for two seconds.
+Everything else works fine in my computer.
+Where is the problem?
+Is it version 3.6?
+ Themes?
+Add-ons?
+Windows 7?
+What do you think?
+Bingalee .... what to do ? fierfox is all I like and know
+</Content>
+    <Date>2010-03-09 12:03:29</Date>
+    <Timestamp>1268165009</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309120329AAy3hqT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7tRQMt0Zaa</UserId>
+    <UserNick>ĦĄΜΣΣĐ</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b6d8575i630zul6re4/Y1COPIUiYuhPwMJc.2Ctgrs-/1/tn48.jpg?ciAAToMBkMxbndFH</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Firefox is still under heavy testing for Windows 7.
+
+You might be able to identify the culprit by searching through the list of reported bugs if you have the time: https://bugzilla.mozilla.org/buglist.cgi?op_sys=Windows%207;query_format=advanced;longdesc=hang%20freeze%20crash;product=Firefox;longdesc_type=anywords</ChosenAnswer>
+    <ChosenAnswererId>QUQ0Qv4yaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bobdarshy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268166686</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268221711</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i think it might be some kind of glitch becuse mine frezzez after i try to add bookmarks to yahoo</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nflZZFLqaa</UserId>
+            <UserNick>Fubu05</UserNick>
+            <Date>2010-03-09 12:15:07</Date>
+            <Timestamp>1268165707</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox is still under heavy testing for Windows 7.
+
+You might be able to identify the culprit by searching through the list of reported bugs if you have the time: https://bugzilla.mozilla.org/buglist.cgi?op_sys=Windows%207;query_format=advanced;longdesc=hang%20freeze%20crash;product=Firefox;longdesc_type=anywords</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>QUQ0Qv4yaa</UserId>
+            <UserNick>Bobdarshy</UserNick>
+            <Date>2010-03-09 12:31:26</Date>
+            <Timestamp>1268166686</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I too, have been having problems with it.I thought it was our computer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VKlkBCKsaa</UserId>
+            <UserNick>Bingalee</UserNick>
+            <Date>2010-03-09 13:01:43</Date>
+            <Timestamp>1268168503</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:24:35 PDT 2010 -->

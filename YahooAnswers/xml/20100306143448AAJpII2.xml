@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306143448AAJpII2" type="Answered">
+    <Subject>Who had a Twitter? follow me =]?</Subject>
+    <Content>Follow me on twitter ; I follow back  =]
+</Content>
+    <Date>2010-03-06 14:34:48</Date>
+    <Timestamp>1267914888</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306143448AAJpII2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Bt2q1ZZAaa</UserId>
+    <UserNick>Trey Johnson</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b92d804i1456zws136ac4/_lH8GBgzfqPKfJo9iEKQMKwPxg--/1/tn48.jpeg?ciAAToMBPzqNtzSz</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>twitter and myspace both fail.</ChosenAnswer>
+    <ChosenAnswererId>AA10503899</ChosenAnswererId>
+    <ChosenAnswererNick>neil</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267914995</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268434527</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>TWITTER IS GAY
+GET A MYSPACE!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UmmlhrlEaa</UserId>
+            <UserNick>Timothy</UserNick>
+            <Date>2010-03-06 14:35:53</Date>
+            <Timestamp>1267914953</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>twitter and myspace both fail.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10503899</UserId>
+            <UserNick>neil</UserNick>
+            <Date>2010-03-06 14:36:35</Date>
+            <Timestamp>1267914995</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:46:00 PDT 2010 -->

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307114058AAkx45d" type="Answered">
+    <Subject>Where on my computer can I find the following information about the Internet connection I have...?</Subject>
+    <Content>- The Speed
+- Bandwidth Traffic
+- Free Online Storage
+
+I&#039;m changing companies for my Internet connection and I want to compare the connection I have and the one I will have...
+
+Thank you!
+</Content>
+    <Date>2010-03-07 11:40:58</Date>
+    <Timestamp>1267990858</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307114058AAkx45d</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>R6ljSjWwaa</UserId>
+    <UserNick>miava</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1lfHrA8j6AAEBz4ScbFClG3hlMQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Online, online, and online.
+
+Your ISP&#039;s website would probably be a good place to start.</ChosenAnswer>
+    <ChosenAnswererId>vAJocLqvaa</ChosenAnswererId>
+    <ChosenAnswererNick>star123compy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267990967</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268242251</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Online, online, and online.
+
+Your ISP&#039;s website would probably be a good place to start.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-07 11:42:47</Date>
+            <Timestamp>1267990967</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>for speed use http://www.speakeasy.net/speedtest/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oXXc2LmNaa</UserId>
+            <UserNick>John S</UserNick>
+            <Date>2010-03-07 11:43:59</Date>
+            <Timestamp>1267991039</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:39:02 PDT 2010 -->

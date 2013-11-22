@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223203530AAJe99P" type="Answered">
+    <Subject>What is DD and DH on some message boards?</Subject>
+    <Content>I know what they mean, i think-DD is a child and DH is a spouse-but I don&#039;t get why...
+</Content>
+    <Date>2010-02-23 20:35:30</Date>
+    <Timestamp>1266986130</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223203530AAJe99P</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>129c8f7f2634316534e0a1196fc43dedaa</UserId>
+    <UserNick>mell_mell013</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1n1XjM5QoAAEDLCOcgKCydO0wKA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Most mean Dear Daughter, Dear Husband, etc...</ChosenAnswer>
+    <ChosenAnswererId>32udCtYyaa</ChosenAnswererId>
+    <ChosenAnswererNick>William</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266986291</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267505677</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Most mean Dear Daughter, Dear Husband, etc...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>32udCtYyaa</UserId>
+            <UserNick>William</UserNick>
+            <Date>2010-02-23 20:38:11</Date>
+            <Timestamp>1266986291</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>DD= Dear Daughter
+DH= Dear Husband</Content>
+            <Reference>Google is your friend. Unless you live in China.</Reference>
+            <Best></Best>
+            <UserId>dDxxQOkKaa</UserId>
+            <UserNick>Combo</UserNick>
+            <Date>2010-02-23 20:40:40</Date>
+            <Timestamp>1266986440</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:16:39 PDT 2010 -->

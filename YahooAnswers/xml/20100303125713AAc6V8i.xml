@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303125713AAc6V8i" type="Answered">
+    <Subject>How do you put a picture over a video in video chat rooms like stickam or chatroulette?</Subject>
+    <Content>I&#039;ve always wanted to know how to put pictures on top of live video. Is there a specific program that I need? I use a Macbook.
+</Content>
+    <Date>2010-03-03 12:57:13</Date>
+    <Timestamp>1267649833</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303125713AAc6V8i</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NnikrcKLaa</UserId>
+    <UserNick>Alicia</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1nrzasf7gAAIC2KKbHEdluk49NA==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://exactostats.com/?r=ma</ChosenAnswer>
+    <ChosenAnswererId>hLHLNJKqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Matt in Chicago</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267776416</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268169341</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://exactostats.com/?r=ma</Content>
+            <Reference>http://exactostats.com/?r=ma</Reference>
+            <Best>5</Best>
+            <UserId>hLHLNJKqaa</UserId>
+            <UserNick>Matt in Chicago</UserNick>
+            <Date>2010-03-05 00:06:56</Date>
+            <Timestamp>1267776416</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:44 PDT 2010 -->

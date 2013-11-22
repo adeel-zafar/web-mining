@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308145652AAZAXwv" type="Answered">
+    <Subject>Suggest me a good wireless internet connection with unlimited usage?</Subject>
+    <Content>I have BSNL broadband and not satisfy with it
+</Content>
+    <Date>2010-03-08 14:56:52</Date>
+    <Timestamp>1268089012</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308145652AAZAXwv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SGYAD20Qaa</UserId>
+    <UserNick>ME</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>use bsnl data card evdo or tata indicom photon whiz</ChosenAnswer>
+    <ChosenAnswererId>K5fSEJ02aa</ChosenAnswererId>
+    <ChosenAnswererNick>prince giri</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268154538</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268604942</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hello,
+
+If you need to access the Internet with that sort of capability you will need to buy an Internet service package with your local Internet Service Provider (ISP) and then you&#039;ll be able to get your prefered speed; if you want the high unlimited speed then you will need to buy it like that. I&#039;m not quite sure if that&#039;s what you were looking for, but I tried to help.
+
+Regards,
+New York City Police Department
+NYPD@Hargray.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Bm6DBay9aa</UserId>
+            <UserNick>New York City Police Department</UserNick>
+            <Date>2010-03-08 15:18:19</Date>
+            <Timestamp>1268090299</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>use bsnl data card evdo or tata indicom photon whiz</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>K5fSEJ02aa</UserId>
+            <UserNick>prince giri</UserNick>
+            <Date>2010-03-09 09:08:58</Date>
+            <Timestamp>1268154538</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:29:50 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313031648AAHfdey" type="Answered">
+    <Subject>Why can&#039;t open www.4shared.com since yesterday?</Subject>
+    <Content>I can&#039;t open 4shared.com since yesterday. Whenever i try to open it they firefox or IE just tell me that the connection was interrupted. Is 4shared experiencing some technical problem??
+Can anybody try to open it??
+I have been trying to open it since 1 hour ago.Until this minute, internet explorer or firefox still showing me internet connection interrupted.
+</Content>
+    <Date>2010-03-13 03:16:48</Date>
+    <Timestamp>1268479008</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313031648AAHfdey</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>83Nii78Caa</UserId>
+    <UserNick>Gvriz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try to open it now its working</ChosenAnswer>
+    <ChosenAnswererId>rDqzAtYWaa</ChosenAnswererId>
+    <ChosenAnswererNick>liam</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268479833</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268541122</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try to open it now its working</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>rDqzAtYWaa</UserId>
+            <UserNick>liam</UserNick>
+            <Date>2010-03-13 03:30:33</Date>
+            <Timestamp>1268479833</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>well it&#039;s work with me</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6lQW2C8Uaa</UserId>
+            <UserNick>dallol</UserNick>
+            <Date>2010-03-13 03:34:25</Date>
+            <Timestamp>1268480065</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:05:33 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226101431AAEP9vj" type="Answered">
+    <Subject>webpage redirecting =[?</Subject>
+    <Content>As of lately, when I google search something when I click a page that came up it redirects to some random page and I can&#039;t figure out how to stop it. HELP!
+</Content>
+    <Date>2010-02-26 10:14:31</Date>
+    <Timestamp>1267208071</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226101431AAEP9vj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pGShmpsHaa</UserId>
+    <UserNick>Kate</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This sounds like malware (a computer virus) that is redirecting you to a scam/virus download page. Run an antivirus scan and check if anything comes up witht eh scan. Make sure to delete it. If you cannot delete the problem, delete Internet Explorer (Start &gt; Control Panel &gt; Add or Remove Programs and click on Internet Explorer) BUT FIRST MAKE SURE YOU HAVE ANOTHER BROWSER INSTALLED (such as Firefox, Safari, Chrome etc.). Then download Internet Explorer again, and your problem should be solved!</ChosenAnswer>
+    <ChosenAnswererId>g4g7G5nFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Andrew T</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267208735</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267302796</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sounds like you have a virus. Run a scan.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QB0e33QRaa</UserId>
+            <UserNick>David</UserNick>
+            <Date>2010-02-26 10:20:08</Date>
+            <Timestamp>1267208408</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This sounds like malware (a computer virus) that is redirecting you to a scam/virus download page. Run an antivirus scan and check if anything comes up witht eh scan. Make sure to delete it. If you cannot delete the problem, delete Internet Explorer (Start &gt; Control Panel &gt; Add or Remove Programs and click on Internet Explorer) BUT FIRST MAKE SURE YOU HAVE ANOTHER BROWSER INSTALLED (such as Firefox, Safari, Chrome etc.). Then download Internet Explorer again, and your problem should be solved!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>g4g7G5nFaa</UserId>
+            <UserNick>Andrew T</UserNick>
+            <Date>2010-02-26 10:25:35</Date>
+            <Timestamp>1267208735</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:50:58 PDT 2010 -->

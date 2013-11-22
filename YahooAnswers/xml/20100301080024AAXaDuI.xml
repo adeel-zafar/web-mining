@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301080024AAXaDuI" type="Answered">
+    <Subject>Once you confirm that you want your amazon account deleted, how long is it before they delete it?</Subject>
+    <Content>Please only answer this if you have actually had your amazon account canceled before and are 100% sure. Thanks!
+</Content>
+    <Date>2010-03-01 08:00:24</Date>
+    <Timestamp>1267459224</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301080024AAXaDuI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7LDzMGWtaa</UserId>
+    <UserNick>book16</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well, the best way is to just ask them how long it takes.. ~</ChosenAnswer>
+    <ChosenAnswererId>ssue3clzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasper M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268107109</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268324107</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well, the best way is to just ask them how long it takes.. ~</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper</UserNick>
+            <Date>2010-03-08 19:58:29</Date>
+            <Timestamp>1268107109</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:23 PDT 2010 -->

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301193018AAYEsoM" type="Answered">
+    <Subject>question about twitter?</Subject>
+    <Content>is it just like myspace and facebook? e.g.  can you add your friends, join groups, play games etc?
+</Content>
+    <Date>2010-03-01 19:30:18</Date>
+    <Timestamp>1267500618</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301193018AAYEsoM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aR8GDOqVaa</UserId>
+    <UserNick>the CODfather</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1cSQ17XSeAAIC_IFwPUl1Sk8B.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Only 140 characters to update your status in short sentence. You can follow some friends but there are not groups.</ChosenAnswer>
+    <ChosenAnswererId>4qUcAi2Baa</ChosenAnswererId>
+    <ChosenAnswererNick>Eric</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267500758</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268020058</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No. It&#039;s just like status updates.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TBVInNt5aa</UserId>
+            <UserNick>Annie</UserNick>
+            <Date>2010-03-01 19:31:22</Date>
+            <Timestamp>1267500682</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nope, you can only follow people, befriend them and micro-blog.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GtJYPscIaa</UserId>
+            <UserNick>thelongdavid</UserNick>
+            <Date>2010-03-01 19:31:44</Date>
+            <Timestamp>1267500704</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Only 140 characters to update your status in short sentence. You can follow some friends but there are not groups.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>4qUcAi2Baa</UserId>
+            <UserNick>Eric</UserNick>
+            <Date>2010-03-01 19:32:38</Date>
+            <Timestamp>1267500758</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No. You can follow people which is almost like add friends. You can post videos, photos, its specially fun when you have a mobile because you can take pictures and tell people where you are. 
+I do it on my Sidekick. You just have to have a good modern pgone like blackberry, iPhone, Sidekick, etc.
+I like it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>mNig0lNzaa</UserId>
+            <UserNick>José Alfredo</UserNick>
+            <Date>2010-03-01 19:35:17</Date>
+            <Timestamp>1267500917</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:29:01 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326161943AAIypoU" type="Answered">
+    <Subject>is there a way to tell if someone read my email i sent them im using hotmail and if so how do i tell?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-26 16:19:43</Date>
+    <Timestamp>1269645583</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326161943AAIypoU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xFDb8bLcaa</UserId>
+    <UserNick>knjmama</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Unless you have access to their e-mail account, there is no way to tell whether your message has been read or not. If a person gets a lot of mail and doesn&#039;t want to mess with all the messages, he or she can mark them all as &quot;Read or &quot;Unread.&quot; So the only way to know would be to talk to the person in question, and ask if they have received your message. Or, you may send out a &quot;Test&quot; message, and set the perameters of your account so that when your message is opened/read, the other person&#039;s account will send a confirmation that they have opened your message.</ChosenAnswer>
+    <ChosenAnswererId>J5AcooGMaa</ChosenAnswererId>
+    <ChosenAnswererNick>skootie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269646201</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270164894</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No. There isn&#039;t.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0IFVHBsgaa</UserId>
+            <UserNick>David</UserNick>
+            <Date>2010-03-26 16:20:43</Date>
+            <Timestamp>1269645643</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Unless you have access to their e-mail account, there is no way to tell whether your message has been read or not. If a person gets a lot of mail and doesn&#039;t want to mess with all the messages, he or she can mark them all as &quot;Read or &quot;Unread.&quot; So the only way to know would be to talk to the person in question, and ask if they have received your message. Or, you may send out a &quot;Test&quot; message, and set the perameters of your account so that when your message is opened/read, the other person&#039;s account will send a confirmation that they have opened your message.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>J5AcooGMaa</UserId>
+            <UserNick>skootie</UserNick>
+            <Date>2010-03-26 16:30:01</Date>
+            <Timestamp>1269646201</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:41 PDT 2010 -->

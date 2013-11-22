@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307201405AAgUSoH" type="Answered">
+    <Subject>Can someone type in this japanese captcha?</Subject>
+    <Content>So I can copy and paste it?
+Here&#039;s a link to the captcha
+http://i163.photobucket.com/albums/t301/6623_bucket/japacaptcha.gif
+http://yfrog.com/5yjapacaptchag
+</Content>
+    <Date>2010-03-07 20:14:05</Date>
+    <Timestamp>1268021645</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307201405AAgUSoH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kYZtYbbRaa</UserId>
+    <UserNick>crackpot105</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>学しおな糸</ChosenAnswer>
+    <ChosenAnswererId>BelAMj6paa</ChosenAnswererId>
+    <ChosenAnswererNick>Jay (TYO)</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268025092</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268541289</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>学しおな糸</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BelAMj6paa</UserId>
+            <UserNick>Jay (TYO)</UserNick>
+            <Date>2010-03-07 21:11:32</Date>
+            <Timestamp>1268025092</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:35:45 PDT 2010 -->

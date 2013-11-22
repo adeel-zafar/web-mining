@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317201650AAuAvqT" type="Answered">
+    <Subject>whats going on with my internet connection?</Subject>
+    <Content>i brought 1 of them prepaid dialup s for my laptop as i was going toanother state, y wont it connect?...the 3g network runs fine in my area so wont wont the pc get reception like our phones do
+</Content>
+    <Date>2010-03-17 20:16:50</Date>
+    <Timestamp>1268882210</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317201650AAuAvqT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>e1e4270c0a2724cd12103fe875ca31baaa</UserId>
+    <UserNick>its me :)</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/19pu6oHltAAEDfSOcRBc_Z4YB.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>give bigpond a call they will fix it</ChosenAnswer>
+    <ChosenAnswererId>GJmyUuFraa</ChosenAnswererId>
+    <ChosenAnswererNick>No S***</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269122235</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269122298</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>give bigpond a call they will fix it</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>GJmyUuFraa</UserId>
+            <UserNick>No S***</UserNick>
+            <Date>2010-03-20 14:57:15</Date>
+            <Timestamp>1269122235</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:52 PDT 2010 -->

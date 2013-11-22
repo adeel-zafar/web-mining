@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222191239AAQfY6v" type="Answered">
+    <Subject>I can&#039;t make a formspring account?</Subject>
+    <Content>I&#039;ve tried three times now, and it says there&#039;s an error, or that my password doesn&#039;t match, or that my username doesn&#039;t exist? :/
+</Content>
+    <Date>2010-02-22 19:12:39</Date>
+    <Timestamp>1266894759</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222191239AAQfY6v</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XcTSnJyeaa</UserId>
+    <UserNick>Lamia</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1k8SaOvHNAAEB-EG6tBhqtwB14de0rX8Y.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Formspring is always having problems, it&#039;s a developing site. Try again in a bit.
+But for your passwords not matching, try typing a bit slower. That&#039;s just saying that you most likely made a typo in one of them. ^-^ ♥</ChosenAnswer>
+    <ChosenAnswererId>0d46d3f812552a8186bbf9dc7e9db0f4aa</ChosenAnswererId>
+    <ChosenAnswererNick>KatharynR</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266895114</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267414388</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Formspring is always having problems, it&#039;s a developing site. Try again in a bit.
+But for your passwords not matching, try typing a bit slower. That&#039;s just saying that you most likely made a typo in one of them. ^-^ ♥</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0d46d3f812552a8186bbf9dc7e9db0f4aa</UserId>
+            <UserNick>taken_identity</UserNick>
+            <Date>2010-02-22 19:18:34</Date>
+            <Timestamp>1266895114</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>omg that happened to me. I keep trying to change my profile photo and it says &quot;passwords do not match&quot; even though i didnt type in any password!!!! =&#039;(</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EXcDSpXkaa</UserId>
+            <UserNick>Madison B</UserNick>
+            <Date>2010-02-25 20:33:36</Date>
+            <Timestamp>1267158816</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:00 PDT 2010 -->

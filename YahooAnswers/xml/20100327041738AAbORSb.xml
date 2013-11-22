@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327041738AAbORSb" type="Answered">
+    <Subject>Which is the best site for free greeting cards?</Subject>
+    <Content>my friend just have a new baby in their family, so i am looking for a free funny greeting card.
+any suggestions???
+</Content>
+    <Date>2010-03-27 04:17:38</Date>
+    <Timestamp>1269688658</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327041738AAbORSb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FkmcZmRHaa</UserId>
+    <UserNick>despoinaki20</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www.hallmark.com has a good selection of Free e-cards for all occasions.</ChosenAnswer>
+    <ChosenAnswererId>T8E4D2T0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Kevin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269689897</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269955863</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.hallmark.com has a good selection of Free e-cards for all occasions.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>T8E4D2T0aa</UserId>
+            <UserNick>Kevin</UserNick>
+            <Date>2010-03-27 04:38:17</Date>
+            <Timestamp>1269689897</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>www.123greeting.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ChiyoE3Faa</UserId>
+            <UserNick>zain&#039;s</UserNick>
+            <Date>2010-03-27 05:00:37</Date>
+            <Timestamp>1269691237</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:43 PDT 2010 -->

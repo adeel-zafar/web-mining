@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222193236AAcAztm" type="Answered">
+    <Subject>High speed internet speed test. What is a good result?</Subject>
+    <Content>My internet and cable had had some lag problems. I live in Baton Rouge, Louisiana and have Cox high speed internet, which i use for MMORPG. The result from Speedtest.net ( with and without my router ) are....Download - 0.96 mb/s, Upload  - 0.36 mb/s, and ping 50ms Problem is i don&#039;t know what the standard is to be able to tell if my results are good or bad. 
+
+  
+  ( mb = megabits )
+</Content>
+    <Date>2010-02-22 19:32:36</Date>
+    <Timestamp>1266895956</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222193236AAcAztm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9MBVFJoWaa</UserId>
+    <UserNick>PhonicRay</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b81661ci1afazul6sp1/QpkwjFshc6lD1VMASXsVnIo-/1/tn48.jpg?ciAAToMB8UqzEsw9</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>On speedtest.net you can compare your results and view how you do against people in your area, country, the rest of the world and by ISP too.
+
+I would say your results are pretty poor, I would expect 8mb down and 1mb up to be more the standard.</ChosenAnswer>
+    <ChosenAnswererId>tMp89d7Baa</ChosenAnswererId>
+    <ChosenAnswererNick>Dynamo Duck</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266896126</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268694284</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>On speedtest.net you can compare your results and view how you do against people in your area, country, the rest of the world and by ISP too.
+
+I would say your results are pretty poor, I would expect 8mb down and 1mb up to be more the standard.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tMp89d7Baa</UserId>
+            <UserNick>Booting You</UserNick>
+            <Date>2010-02-22 19:35:26</Date>
+            <Timestamp>1266896126</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It depends. If you&#039;re supposed to have a 1Mbs connection, then that&#039;s a good result. If you&#039;re supposed to have 7Mbs, then it isn&#039;t.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>e2HW9iQ5aa</UserId>
+            <UserNick>scott b</UserNick>
+            <Date>2010-02-22 19:36:00</Date>
+            <Timestamp>1266896160</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.speakeasy.net/speedtest/
+
+The link will test your speed.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>de29070765c097b8f505a737e52df5bfaa</UserId>
+            <UserNick>tarheel_9999</UserNick>
+            <Date>2010-02-22 19:37:11</Date>
+            <Timestamp>1266896231</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>then speak to your ISP for details</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JuJTnZSDaa</UserId>
+            <UserNick>Dennis PC Repairs</UserNick>
+            <Date>2010-02-22 19:49:20</Date>
+            <Timestamp>1266896960</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:24:49 PDT 2010 -->

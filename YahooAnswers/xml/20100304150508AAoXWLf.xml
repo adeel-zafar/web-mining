@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304150508AAoXWLf" type="Answered">
+    <Subject>what kind of questions should I ask on yahoo answers?</Subject>
+    <Content>I found this website that allows you to ask the internet almost any question you want. What kind of question should I ask it? Who answers these questions? please help!
+</Content>
+    <Date>2010-03-04 15:05:08</Date>
+    <Timestamp>1267743908</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304150508AAoXWLf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RmdU3Rkxaa</UserId>
+    <UserNick>QuickQuestion</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can ask anything you want. (Anything). There are categories up there ^ you can click around and see some of the questions other people have asked. 
+As for who answers it, anybody who creates an account. This means that the answer may not always be right but multiple people can answer which means one of them is bound to have the correct answer.</ChosenAnswer>
+    <ChosenAnswererId>Kd912mtjaa</ChosenAnswererId>
+    <ChosenAnswererNick>Schybanas</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267744086</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268469755</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can ask anything you want. (Anything). There are categories up there ^ you can click around and see some of the questions other people have asked. 
+As for who answers it, anybody who creates an account. This means that the answer may not always be right but multiple people can answer which means one of them is bound to have the correct answer.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Kd912mtjaa</UserId>
+            <UserNick>Schybanas</UserNick>
+            <Date>2010-03-04 15:08:06</Date>
+            <Timestamp>1267744086</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Meta. Very meta.
+
+Well, I&#039;ve asked myself the same thing several times, while trying to figure out how to get enough points to start rating dumb-ass answers. Then I realized I need more points to be able to even ask a question. So, whatever. I&#039;m answering the dumbest questions I can find with the smartest answers I can come up with.
+
+Ask whatever questions you think of. Clearly, there are worse questions asked than yours. No embarrassment there! I&#039;d ask questions about F-16s, falcons, or a Sony laserdisc player.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JZcY0jIOaa</UserId>
+            <UserNick>Falcon4</UserNick>
+            <Date>2010-03-04 15:10:47</Date>
+            <Timestamp>1267744247</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:09:17 PDT 2010 -->

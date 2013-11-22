@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303140209AADl4OS" type="Answered">
+    <Subject>Which is the best internet browser to use?</Subject>
+    <Content>On a computer that keeps freezing and doesn&#039;t like IE? I&#039;ve had Firefox for a while but it&#039;s really slowed my computer down - which is the best alternative?
+</Content>
+    <Date>2010-03-03 14:02:09</Date>
+    <Timestamp>1267653729</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303140209AADl4OS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1iDSGET4aa</UserId>
+    <UserNick>Beccabelle</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b3251b2i10ebzul7re4/OBILh_gjdqJL3XNm7jwrZsxw/4/tn48.jpg?ciAAToMB6arNPRlh</UserPhotoURL>
+    <NumAnswers>8</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Lots of people say Google Chrome, but Opera 10.5 is the fastest browser in the world. It also looks a lot better than most. It is also one of the most secure.</ChosenAnswer>
+    <ChosenAnswererId>3e35412a15336a5b5e5c38a1456e1efcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bilky A</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267654657</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267812989</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>GoogleChrome</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>exUidqUOaa</UserId>
+            <UserNick>auntriss6</UserNick>
+            <Date>2010-03-03 14:03:45</Date>
+            <Timestamp>1267653825</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Google Chrome without a doubt</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8hyuWd3Qaa</UserId>
+            <UserNick>Hitman7112</UserNick>
+            <Date>2010-03-03 14:04:33</Date>
+            <Timestamp>1267653873</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Google Chrome is the fastest. I used to use IE and Safari but switched to Chrome because it was so much better. Its free to download here: http://www.google.com/chrome</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>04xhS0QRaa</UserId>
+            <UserNick>CeeCee</UserNick>
+            <Date>2010-03-03 14:04:36</Date>
+            <Timestamp>1267653876</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Chrome, Opera, SRWare Iron, which is like Chrome, but does not send your surfing habits back to Mother Google. I personally use and like Iron...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-03 14:10:56</Date>
+            <Timestamp>1267654256</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Lots of people say Google Chrome, but Opera 10.5 is the fastest browser in the world. It also looks a lot better than most. It is also one of the most secure.</Content>
+            <Reference>http://www.opera.com/
+http://secunia.com/advisories/product/26745/ (Shows that Opera 10.5, on its latest version, is vunerability-free)</Reference>
+            <Best>4</Best>
+            <UserId>3e35412a15336a5b5e5c38a1456e1efcaa</UserId>
+            <UserNick>Bilky A</UserNick>
+            <Date>2010-03-03 14:17:37</Date>
+            <Timestamp>1267654657</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>(open windows update, there is a new thing that lists them all and were to download them)
+
+K-meleon is quite fast, firefox is good, but the addons and tools can get bloated and slow down the system, Safari is pretty good also, very fast.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>e7nKd7Hcaa</UserId>
+            <UserNick>Insane_mad_maniak</UserNick>
+            <Date>2010-03-03 14:26:02</Date>
+            <Timestamp>1267655162</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Chances are that Firefox isn&#039;t the culprit for your slow PC. I believe Chrome uses more resources than Firefox, especially regarding frequency of disk access and memory use, both issues create a common performance bottleneck.  
+
+Try Chrome by all means, but I think Firefox is your best bet.  Make sure you&#039;re running the latest version and depending on how handy you are with changing `services` in Windows you might want to visit the Black Viper website http://www.blackviper.com/ that gives tutorials on changing your Windows configuration by tweaking `services` speeding up your PC.  Failing that, add more RAM.  A cheap and easy way to improve performance.  Good luck!</Content>
+            <Reference>http://www.blackviper.com/</Reference>
+            <Best></Best>
+            <UserId>IzUA2cuMaa</UserId>
+            <UserNick>JohnHeadhunt</UserNick>
+            <Date>2010-03-03 14:36:37</Date>
+            <Timestamp>1267655797</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go firefox all the way. So much faster than all others without slowing down your computer!</Content>
+            <Reference>Using internet for the past 8 years</Reference>
+            <Best></Best>
+            <UserId>qMnhNXKqaa</UserId>
+            <UserNick>Nick</UserNick>
+            <Date>2010-03-03 15:28:39</Date>
+            <Timestamp>1267658919</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Someone mentioned that Chrome uses more resources, but only for each tab. Each tab runs its own process,thats why you can drag tabs out to make a new window, pretty nifty feature.
+
+Chrome for sure</Content>
+            <Reference>My browser history
+IE6
+then Netscape + IE6
+IE7
+Firefox
+FF2
+Opera
+FF3
+Chrome</Reference>
+            <Best></Best>
+            <UserId>gKkmNm6Xaa</UserId>
+            <UserNick>AllStar™</UserNick>
+            <Date>2010-03-03 18:27:40</Date>
+            <Timestamp>1267669660</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8h19tYl2aa</UserId>
+            <UserNick>Dan</UserNick>
+            <Date>2010-03-04 01:20:54</Date>
+            <Timestamp>1267694454</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:14 PDT 2010 -->

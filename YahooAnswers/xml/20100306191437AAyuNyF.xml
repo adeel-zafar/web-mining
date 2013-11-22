@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306191437AAyuNyF" type="Answered">
+    <Subject>Ebay account deletion?</Subject>
+    <Content>I sent a request to delete my Ebay account 3 years ago and it said it will get back to me and it STILL hasn&#039;t been deleted?! I tried again but it said i already sent a request, whats the deal?
+</Content>
+    <Date>2010-03-06 19:14:37</Date>
+    <Timestamp>1267931677</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306191437AAyuNyF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bOJsegGEaa</UserId>
+    <UserNick>Memo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This may be of assistance to you
+
+http://pages.ebay.com.au/help/account/closing-account.html</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267935543</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268451327</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Send them an email?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ke7tXE5Uaa</UserId>
+            <UserNick>Brendalynn</UserNick>
+            <Date>2010-03-06 19:16:56</Date>
+            <Timestamp>1267931816</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This may be of assistance to you
+
+http://pages.ebay.com.au/help/account/closing-account.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-06 20:19:03</Date>
+            <Timestamp>1267935543</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:44:11 PDT 2010 -->

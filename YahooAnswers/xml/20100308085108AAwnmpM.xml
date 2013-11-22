@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308085108AAwnmpM" type="Answered">
+    <Subject>i have just got rid of a virus using spyware doctor and now cannot get back onto the internet by the shortcut?</Subject>
+    <Content>i try to click on the internet explorer shortcut and a message pops up saying, &quot;windows cannot open this file&quot; then there are two options at the bottom of the message saying,&quot; use the web to find the correct program&quot; or &quot; select a program from the list of installed programs.&quot; Nither of these options have worked for me and i could really use some help. Also i cannot get onto any of the programs on my computer where the internet is required, for example, spotify. I am currently on my fathers laptop and i would really appreciate getting back onto my own. If someone can help i would be extremely grateful. Thanks
+</Content>
+    <Date>2010-03-08 08:51:08</Date>
+    <Timestamp>1268067068</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308085108AAwnmpM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7jbPGZFRaa</UserId>
+    <UserNick>Matt</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Delete all the shortcuts you have for Microsoft IE and recreate new ones from c:\windows\IE7\iexplore.exe.  Some of the new spyware software is taking over your current IE shortcuts.
+
+This really stinks when they hijack your IE.
+
+I know...I know...some users will tell you to install Firefox.</ChosenAnswer>
+    <ChosenAnswererId>5f77d77111e746e3342cef4f8a12796baa</ChosenAnswererId>
+    <ChosenAnswererNick>Know It All</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268067384</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268582778</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Delete all the shortcuts you have for Microsoft IE and recreate new ones from c:\windows\IE7\iexplore.exe.  Some of the new spyware software is taking over your current IE shortcuts.
+
+This really stinks when they hijack your IE.
+
+I know...I know...some users will tell you to install Firefox.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5f77d77111e746e3342cef4f8a12796baa</UserId>
+            <UserNick>Know It All</UserNick>
+            <Date>2010-03-08 08:56:24</Date>
+            <Timestamp>1268067384</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:33:00 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323200356AAwkYiU" type="Answered">
+    <Subject>Why am I getting referrers on wordpress from random facebook links?</Subject>
+    <Content>Wordpress offers referrers in your stats, meaning it shows where people clicked your link to get there. I am finding that links from random pages on facebook, friends pages or fan pages, where my link is not posted are appearing quite frequently. Anyone know why?
+</Content>
+    <Date>2010-03-23 20:03:56</Date>
+    <Timestamp>1269399836</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323200356AAwkYiU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FF3M1sZnaa</UserId>
+    <UserNick>Emily</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1iVdPRLUKAAEB34QzNadKtxaPIw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The search engines are picking your blog up now and that is why you are getting these. You can change this in your dashboard under Privacy Settings and check the circle&gt;I would like to block search engines, but allow normal visitors</ChosenAnswer>
+    <ChosenAnswererId>GYdjJKgOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Wide Glide</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269400137</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269919518</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The search engines are picking your blog up now and that is why you are getting these. You can change this in your dashboard under Privacy Settings and check the circle&gt;I would like to block search engines, but allow normal visitors</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>GYdjJKgOaa</UserId>
+            <UserNick>Wide Glide</UserNick>
+            <Date>2010-03-23 20:08:57</Date>
+            <Timestamp>1269400137</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:16:46 PDT 2010 -->

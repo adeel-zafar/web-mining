@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321085537AAOuAxS" type="Answered">
+    <Subject>Is the website stubhub trustful?</Subject>
+    <Content>I tried to get tickets for the Maiden Concert in New York and its sold out already....and This websites has some good tickets for an OK price. Just wanted to know if I could trust it cuz I don&#039;t wanna lose my money.
+</Content>
+    <Date>2010-03-21 08:55:37</Date>
+    <Timestamp>1269186937</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321085537AAOuAxS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ciIA5sdYaa</UserId>
+    <UserNick>victor</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b3b6c30i1d5bzul4re4/5PUa4iUncqUQC8Lx_CYKHS19zQbxyWhT/2/tn48.jpg?ciAAToMBoJisBZrT</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>They are fine, but check around...I&#039;ve seen better prices than them because their fees are usually higher than other sites.</ChosenAnswer>
+    <ChosenAnswererId>x3osUWiDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Joe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269363582</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269814660</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They are fine, but check around...I&#039;ve seen better prices than them because their fees are usually higher than other sites.</Content>
+            <Reference>http://www.TicketExchangeNetwork.com</Reference>
+            <Best>5</Best>
+            <UserId>x3osUWiDaa</UserId>
+            <UserNick>Joe</UserNick>
+            <Date>2010-03-23 09:59:42</Date>
+            <Timestamp>1269363582</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:49 PDT 2010 -->

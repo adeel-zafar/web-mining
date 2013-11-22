@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303184314AANuTpS" type="Answered">
+    <Subject>Scrolling seems a little buggy in Firefox 3.6?</Subject>
+    <Content>I&#039;m using FireFox 3.6, and scrolling, highlighting text, and even typing seems to be a little bit slow.
+
+It works fine for about a minute, but then there&#039;s like 1 or 2 seconds where the whole application just freezes.
+Sometimes it&#039;s the whole Firefox application, but other times it&#039;s simply the website I&#039;m browsing.
+
+Anyone else having a similar problem?
+</Content>
+    <Date>2010-03-03 18:43:14</Date>
+    <Timestamp>1267670594</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303184314AANuTpS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>z0m0iA6Faa</UserId>
+    <UserNick>ಠ_ಠ</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>ZOMG. I thought it was just me!!! The left-click on my laptop is a little wonky, and I have a USB modem, so I thought it was my clicker and connection. It&#039;s really frustrating when I&#039;m on deviantART or Bloodlines on FB and all of the sudden it all freezes. *JIGGLYPUFF ANGRY FACE!!!*</ChosenAnswer>
+    <ChosenAnswererId>PBsIvcX8aa</ChosenAnswererId>
+    <ChosenAnswererNick>Stitches</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267671414</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267994357</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>ZOMG. I thought it was just me!!! The left-click on my laptop is a little wonky, and I have a USB modem, so I thought it was my clicker and connection. It&#039;s really frustrating when I&#039;m on deviantART or Bloodlines on FB and all of the sudden it all freezes. *JIGGLYPUFF ANGRY FACE!!!*</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>PBsIvcX8aa</UserId>
+            <UserNick>Stitches</UserNick>
+            <Date>2010-03-03 18:56:54</Date>
+            <Timestamp>1267671414</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:14:30 PDT 2010 -->

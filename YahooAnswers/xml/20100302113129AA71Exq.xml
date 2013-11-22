@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302113129AA71Exq" type="Answered">
+    <Subject>Cheaper internet service?</Subject>
+    <Content>What is the company that provides the cheapest internet service but yet is worth it?
+</Content>
+    <Date>2010-03-02 11:31:29</Date>
+    <Timestamp>1267558289</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302113129AA71Exq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2aa9e3a40a6033729bc3d34d32ce7346aa</UserId>
+    <UserNick>El Mexicano</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1BG7EX1OsAAED2QQVPlHEe4oB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>comcast</ChosenAnswer>
+    <ChosenAnswererId>xCSaEFQQaa</ChosenAnswererId>
+    <ChosenAnswererNick>amanda w</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267558412</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267733007</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>comcast</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xCSaEFQQaa</UserId>
+            <UserNick>amanda w</UserNick>
+            <Date>2010-03-02 11:33:32</Date>
+            <Timestamp>1267558412</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:25:55 PDT 2010 -->

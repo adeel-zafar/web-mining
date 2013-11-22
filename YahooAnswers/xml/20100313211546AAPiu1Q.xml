@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313211546AAPiu1Q" type="Answered">
+    <Subject>Firefox - How do I block all sites by default, and set up a whitelist?</Subject>
+    <Content>I&#039;m trying to set up Firefox so that by default it blocks all websites, except for certain sites on a &quot;whitelist,&quot; so my kid can go on the internet, but only use the sites that are on the list.
+How would I go about doing this?
+</Content>
+    <Date>2010-03-13 21:15:46</Date>
+    <Timestamp>1268543746</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313211546AAPiu1Q</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7HzIUCS9aa</UserId>
+    <UserNick>Golden Walrus</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49fe3a48id94zul8sp1/JVkeUPs2dKrs9FAETlf.JOT2es4-/1/tn48.jpg?ciAAToMBYLlZPh1U</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Download the add on for Firefox, forget what its called.  Then you can do that, but it will be a pain.  You&#039;d be better off using something like K9.</ChosenAnswer>
+    <ChosenAnswererId>ULw1777caa</ChosenAnswererId>
+    <ChosenAnswererNick>jasonicus</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268543897</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268594696</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Download the add on for Firefox, forget what its called.  Then you can do that, but it will be a pain.  You&#039;d be better off using something like K9.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-13 21:18:17</Date>
+            <Timestamp>1268543897</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This article explains it.</Content>
+            <Reference>http://www.ghacks.net/2009/03/25/configure-firefox-to-only-open-whitelist-websites/</Reference>
+            <Best></Best>
+            <UserId>V225FSuQaa</UserId>
+            <UserNick>Labtec85</UserNick>
+            <Date>2010-03-13 21:19:55</Date>
+            <Timestamp>1268543995</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi you may Try this blocker:
+http://download.cnet.com/Aobo-Blocker/3000-27064_4-10896516.html
+Aobo Porn Blocker - Software to Block Porn Websites, Applications, Filter Web.
+You can set a whitelist with this filter.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5Uariv4Iaa</UserId>
+            <UserNick>MYOO</UserNick>
+            <Date>2010-03-14 07:02:38</Date>
+            <Timestamp>1268575358</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:31 PDT 2010 -->

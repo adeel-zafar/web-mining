@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322231503AANrsp0" type="Answered">
+    <Subject>Is there a way to see everything you&#039;ve ever downloaded while using Opera?</Subject>
+    <Content>Is there a way to redownload them?
+</Content>
+    <Date>2010-03-22 23:15:03</Date>
+    <Timestamp>1269324903</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322231503AANrsp0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>b6kiTuEJaa</UserId>
+    <UserNick>roflcopter</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1K3NRy6HXAAEBLaObSBcMSlsB.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Do one of the following:
+right click on the item in the browser then click &quot;show in folder&quot; or open &quot;my document&quot; there is folder named &quot;downloads&quot; which was automatically created by opera. All downloaded items is there. But i dont know how to re-download</ChosenAnswer>
+    <ChosenAnswererId>vVh1yZ4uaa</ChosenAnswererId>
+    <ChosenAnswererNick>xeoyiz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269327630</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270196534</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Do one of the following:
+right click on the item in the browser then click &quot;show in folder&quot; or open &quot;my document&quot; there is folder named &quot;downloads&quot; which was automatically created by opera. All downloaded items is there. But i dont know how to re-download</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>vVh1yZ4uaa</UserId>
+            <UserNick>xeoyiz</UserNick>
+            <Date>2010-03-23 00:00:30</Date>
+            <Timestamp>1269327630</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:19:54 PDT 2010 -->

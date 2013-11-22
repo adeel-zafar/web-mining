@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306130008AAcyWJI" type="Answered">
+    <Subject>if i make a paypal account right now, will i be ready to go as soon as i make it?</Subject>
+    <Content>like i want to buy something off ebay and its ending soon. so if i make a paypall account now, will i be able to make the payment on ebay as soon as i make it?
+</Content>
+    <Date>2010-03-06 13:00:08</Date>
+    <Timestamp>1267909208</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306130008AAcyWJI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>OZbm6Ldraa</UserId>
+    <UserNick>lisa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, but the seller may hesitate to sell to someone who created an account minutes earlier.
+
+Paypal will not be able to &quot;verify&quot; your account on short notice like that, either. They contact the bank to find out if the info matches.
+
+It would be better to have a friend with an established account do it for you.</ChosenAnswer>
+    <ChosenAnswererId>mLs3rMnKaa</ChosenAnswererId>
+    <ChosenAnswererNick>David N</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267909437</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269314582</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, but the seller may hesitate to sell to someone who created an account minutes earlier.
+
+Paypal will not be able to &quot;verify&quot; your account on short notice like that, either. They contact the bank to find out if the info matches.
+
+It would be better to have a friend with an established account do it for you.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mLs3rMnKaa</UserId>
+            <UserNick>David N</UserNick>
+            <Date>2010-03-06 13:03:57</Date>
+            <Timestamp>1267909437</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Check with Paypal website and see what their requirements are. Usually, they need a Bank Account verified, to use, so that will take some time before they get it approved. 
+
+But like I said, check directly with them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cefa4b46f9dbacdc72ace097afb9b897aa</UserId>
+            <UserNick>scrubbag</UserNick>
+            <Date>2010-03-06 13:06:13</Date>
+            <Timestamp>1267909573</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:46:49 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306111258AAPiS07" type="Answered">
+    <Subject>Can you pay Livejournal to unblock your account?</Subject>
+    <Content>Livejournal suspended my account for unclear reasons, and I they haven&#039;t got back to me for the past two weeks despite several emails. I was wondering if it would be easier to just pay LJ to release my account if that was possible. I have a ton of stuff on there going back to 2004 that I&#039;d like to get back.
+</Content>
+    <Date>2010-03-06 11:12:58</Date>
+    <Timestamp>1267902778</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306111258AAPiS07</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4QSTQu7Daa</UserId>
+    <UserNick>perfectcircle12</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Not possible and they don&#039;t really care about your account. As evidenced by their lack of response.</ChosenAnswer>
+    <ChosenAnswererId>d1yfbvdXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267952086</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268422438</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Not possible and they don&#039;t really care about your account. As evidenced by their lack of response.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>d1yfbvdXaa</UserId>
+            <UserNick>Nan</UserNick>
+            <Date>2010-03-07 00:54:46</Date>
+            <Timestamp>1267952086</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:47:56 PDT 2010 -->

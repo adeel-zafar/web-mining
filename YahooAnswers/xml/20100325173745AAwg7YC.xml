@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325173745AAwg7YC" type="Answered">
+    <Subject>i have a question lets see if it makes sense.?</Subject>
+    <Content>well i was copying something online and then all of a sudden i copied something else. and i totally forgot that i copied before and didnt paste it. so i go back and the document was now completely changed so i can&#039;t copy what i had before. is it possible that i can somehow get what i copied before by reversing something?
+
+ps. i need a serious answer and no rude comments.
+</Content>
+    <Date>2010-03-25 17:37:45</Date>
+    <Timestamp>1269563865</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325173745AAwg7YC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7a14545df9fb1502e659353bb9e8d6a3aa</UserId>
+    <UserNick>Jennifer</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>NO</ChosenAnswer>
+    <ChosenAnswererId>AA10654797</ChosenAnswererId>
+    <ChosenAnswererNick>blamay22000</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269564041</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270083390</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>NO</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10654797</UserId>
+            <UserNick>blamay22000</UserNick>
+            <Date>2010-03-25 17:40:41</Date>
+            <Timestamp>1269564041</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ctrl Z usually does the trick..</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PGN5yTOKaa</UserId>
+            <UserNick>ticonwc3</UserNick>
+            <Date>2010-03-25 17:46:16</Date>
+            <Timestamp>1269564376</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>sorry, but no and it&#039;s not in your hard drive either :(</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oU9VNMhuaa</UserId>
+            <UserNick>Peter</UserNick>
+            <Date>2010-03-25 17:49:47</Date>
+            <Timestamp>1269564587</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:29:57 PDT 2010 -->

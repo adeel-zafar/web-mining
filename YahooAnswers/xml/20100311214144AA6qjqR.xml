@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311214144AA6qjqR" type="Answered">
+    <Subject>Need help. Vista guardian virus?</Subject>
+    <Content>It&#039;s removed but now microsoft programs don&#039;t work, not even the management Console. I&#039;m using Vista.
+</Content>
+    <Date>2010-03-11 21:41:44</Date>
+    <Timestamp>1268372504</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311214144AA6qjqR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>o5KwtozDaa</UserId>
+    <UserNick>Stan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>reinatall your operating system. That sould destroy it.</ChosenAnswer>
+    <ChosenAnswererId>dQG7txHGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dieoptimusprime</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268692364</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268888023</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>reinatall your operating system. That sould destroy it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dQG7txHGaa</UserId>
+            <UserNick>Dieoptimusprime</UserNick>
+            <Date>2010-03-15 15:32:44</Date>
+            <Timestamp>1268692364</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:11:28 PDT 2010 -->

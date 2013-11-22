@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307212302AALBS24" type="Answered">
+    <Subject>What is that bar on internet Explore on the bottom called?</Subject>
+    <Content>it is the bar on the bottom that tells you Done, when a webpage is loaded etc.
+</Content>
+    <Date>2010-03-07 21:23:02</Date>
+    <Timestamp>1268025782</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307212302AALBS24</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eufjmpGIaa</UserId>
+    <UserNick>Cazmere</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s the status bar.</ChosenAnswer>
+    <ChosenAnswererId>gj86YTRHaa</ChosenAnswererId>
+    <ChosenAnswererNick>Poui</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268025852</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268680576</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s the status bar.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gj86YTRHaa</UserId>
+            <UserNick>Poui</UserNick>
+            <Date>2010-03-07 21:24:12</Date>
+            <Timestamp>1268025852</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Status bar</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tDYlC6F5aa</UserId>
+            <UserNick>Belial</UserNick>
+            <Date>2010-03-07 21:24:14</Date>
+            <Timestamp>1268025854</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>the task bar</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>x8XtMyrbaa</UserId>
+            <UserNick>Marisa Del Portillo</UserNick>
+            <Date>2010-03-07 21:24:19</Date>
+            <Timestamp>1268025859</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Status bar.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KFagnw6Gaa</UserId>
+            <UserNick>jhed2k5</UserNick>
+            <Date>2010-03-07 21:24:24</Date>
+            <Timestamp>1268025864</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The Task Bar. If you right click on it you will see the answer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nXUZYCDOaa</UserId>
+            <UserNick>Liam..</UserNick>
+            <Date>2010-03-07 21:25:44</Date>
+            <Timestamp>1268025944</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The status bar is where you see a page loading and when it&#039;s done, it is part of IE.  The task bar is not part of IE and is where the clock is.  You won&#039;t see a status bar if you don&#039;t have IE window open and you may not see the task bar if you have it set to auto hide.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HChASJ8Uaa</UserId>
+            <UserNick>Britt B</UserNick>
+            <Date>2010-03-07 22:16:50</Date>
+            <Timestamp>1268029010</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:35:32 PDT 2010 -->

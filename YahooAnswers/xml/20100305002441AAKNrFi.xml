@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305002441AAKNrFi" type="Answered">
+    <Subject>On the top of some websites it says Trending and gives a name what does this mean?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-05 00:24:41</Date>
+    <Timestamp>1267777481</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305002441AAKNrFi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ayWN8rzWaa</UserId>
+    <UserNick>boydboy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>For Yahoo services (like here in Answers) it&#039;s the currently higher/highest terms/topics being &#039;searched&#039; utilizing Yahoo search engine.</ChosenAnswer>
+    <ChosenAnswererId>14d0ad3dfdb4dd36a9f896b96a702e69aa</ChosenAnswererId>
+    <ChosenAnswererNick>Dunbar Pappy ϟϟ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267805169</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269225782</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>For Yahoo services (like here in Answers) it&#039;s the currently higher/highest terms/topics being &#039;searched&#039; utilizing Yahoo search engine.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>14d0ad3dfdb4dd36a9f896b96a702e69aa</UserId>
+            <UserNick>Dunbar Pappy ϟϟ</UserNick>
+            <Date>2010-03-05 08:06:09</Date>
+            <Timestamp>1267805169</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:59:01 PDT 2010 -->

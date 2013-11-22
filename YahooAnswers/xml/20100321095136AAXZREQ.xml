@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321095136AAXZREQ" type="Answered">
+    <Subject>How do you change your status on omgpop?</Subject>
+    <Content>Ok, so I&#039;m really new to omgpop and I want to know how to change your status on it . First correct answer get best answer.
+</Content>
+    <Date>2010-03-21 09:51:36</Date>
+    <Timestamp>1269190296</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321095136AAXZREQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>b37pYH7Oaa</UserId>
+    <UserNick>2cute4u</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1aDpKkrxSAAEC-IFTRJeuOWX1Lw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>ME (next to friends, ad the home button on the top right) =&gt; my account settings =&gt; catch phrase</ChosenAnswer>
+    <ChosenAnswererId>vgVyXKmaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nia</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269240787</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269294566</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>ME (next to friends, ad the home button on the top right) =&gt; my account settings =&gt; catch phrase</Content>
+            <Reference>www.omgpop.com :)</Reference>
+            <Best>5</Best>
+            <UserId>vgVyXKmaaa</UserId>
+            <UserNick>Nia</UserNick>
+            <Date>2010-03-21 23:53:07</Date>
+            <Timestamp>1269240787</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:42 PDT 2010 -->

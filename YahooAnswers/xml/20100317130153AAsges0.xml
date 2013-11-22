@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317130153AAsges0" type="Answered">
+    <Subject>If you dont have internet on your phone ... ?</Subject>
+    <Content>If you dont have internet on your phone and you go to a place with WiFi, would you have internet then?
+</Content>
+    <Date>2010-03-17 13:01:53</Date>
+    <Timestamp>1268856113</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317130153AAsges0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ohuA2aPVaa</UserId>
+    <UserNick>kat</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>As long as your phone has a wifi card built into it.</ChosenAnswer>
+    <ChosenAnswererId>s48tId4paa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268856279</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269375366</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Only if your phone is WIFI enabled .........</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ylyDSpb7aa</UserId>
+            <UserNick>Sexy Scottish Kool Aid Man</UserNick>
+            <Date>2010-03-17 13:03:43</Date>
+            <Timestamp>1268856223</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you&#039;re phone is not designed to use internet, you can&#039;t use internet anywhere because it doesn&#039;t have a wireless adapter built in to pick up the signal.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EEGigkYWaa</UserId>
+            <UserNick>Darius</UserNick>
+            <Date>2010-03-17 13:03:52</Date>
+            <Timestamp>1268856232</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>As long as your phone has a wifi card built into it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>s48tId4paa</UserId>
+            <UserNick>Legion</UserNick>
+            <Date>2010-03-17 13:04:39</Date>
+            <Timestamp>1268856279</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If the phone has the capability to connect to WiFI networks and you have authorisation to use the network, then yes.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IbxhRebgaa</UserId>
+            <UserNick>cen</UserNick>
+            <Date>2010-03-17 13:04:46</Date>
+            <Timestamp>1268856286</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:43:54 PDT 2010 -->

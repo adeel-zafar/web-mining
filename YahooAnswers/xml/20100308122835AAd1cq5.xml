@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308122835AAd1cq5" type="Answered">
+    <Subject>Embedding videos on my blog?</Subject>
+    <Content>I know how to get the youtube embedding code and post it but when I do it cuts off one half of the video - it is blocked by my side bars. 
+
+I&#039;m using eblogger?
+</Content>
+    <Date>2010-03-08 12:28:35</Date>
+    <Timestamp>1268080115</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308122835AAd1cq5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Z9xDHXJJaa</UserId>
+    <UserNick>Hattie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a7067c1i48czul7re4/WOniDH0jcqVyFKdX17qxfiMJDw--/1/tn48.jpg?ciAAToMBMQN53HEy</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>All you need to do is copy the &quot;embed code&quot; above the description of the video, then when adding a post in eblogger click the &quot;html&quot; tab and copy and paste the code wherever you would like to video, then it will come up when you publish the post!</ChosenAnswer>
+    <ChosenAnswererId>8DVgQJPpaa</ChosenAnswererId>
+    <ChosenAnswererNick>m</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268081045</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268322455</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>All you need to do is copy the &quot;embed code&quot; above the description of the video, then when adding a post in eblogger click the &quot;html&quot; tab and copy and paste the code wherever you would like to video, then it will come up when you publish the post!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>8DVgQJPpaa</UserId>
+            <UserNick>m</UserNick>
+            <Date>2010-03-08 12:44:05</Date>
+            <Timestamp>1268081045</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You might want to know these two tutorials that tell you how to add video to blog - 
+http://www.flash-video-mx.com/webplayer-resources/add-videos-to-blog.html
+http://www.playerdiy.com/blog/make-youtube-video-auto-play-in-myspace-profile/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dZn1GcBCaa</UserId>
+            <UserNick>Dream dancer</UserNick>
+            <Date>2010-03-09 03:07:34</Date>
+            <Timestamp>1268132854</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:31:21 PDT 2010 -->

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308115328AA05X1b" type="Answered">
+    <Subject>internet explorer has stopped working?</Subject>
+    <Content>every time i try to look for things on the internet it comes up internet explorer has stopped working. i cant search for internet explorer or anything else because everytime i do that keeps comming up. it is still on the internet and my favorites all open and work.
+</Content>
+    <Date>2010-03-08 11:53:28</Date>
+    <Timestamp>1268078008</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308115328AA05X1b</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gz4ZwomKaa</UserId>
+    <UserNick>male44hh</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Because it blows. What you want is Firefox.</ChosenAnswer>
+    <ChosenAnswererId>KJcliScAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Canadian Gal</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268078044</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268594023</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Because it blows. What you want is Firefox.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>KJcliScAaa</UserId>
+            <UserNick>Canadian Gal</UserNick>
+            <Date>2010-03-08 11:54:04</Date>
+            <Timestamp>1268078044</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If internet explorer stopped working.. then how did you make this question?</Content>
+            <Reference>your mom</Reference>
+            <Best></Best>
+            <UserId>p0sFrZK6aa</UserId>
+            <UserNick>Lol</UserNick>
+            <Date>2010-03-08 11:54:54</Date>
+            <Timestamp>1268078094</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>use firefox</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cOFaHdr1aa</UserId>
+            <UserNick>gkrmelj</UserNick>
+            <Date>2010-03-08 11:55:16</Date>
+            <Timestamp>1268078116</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:31:35 PDT 2010 -->

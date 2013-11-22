@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309184445AA3mcBH" type="Answered">
+    <Subject>I need help with Skype?</Subject>
+    <Content>Okay I need your help. Why is this happening?! My webcam is working fine but for skype its difficult. I can see my face but i cannot see the other persons. Please tell me if you can solve this!! I need help
+</Content>
+    <Date>2010-03-09 18:44:45</Date>
+    <Timestamp>1268189085</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309184445AA3mcBH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WYtRPvhKaa</UserId>
+    <UserNick>Zeke R</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1zMGFvyTiAAICQWEo8AceAQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If there is no problem with your web cam...then it is most likely the other persons. Did they answer the call &quot;with video?&quot; If they can see you, then it is their camera with the problems.</ChosenAnswer>
+    <ChosenAnswererId>HSNu3pDaaa</ChosenAnswererId>
+    <ChosenAnswererNick>TayTay</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268189223</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268799179</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>well they might have a problem with their webcam</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HKwagpyraa</UserId>
+            <UserNick>whats up?</UserNick>
+            <Date>2010-03-09 18:46:07</Date>
+            <Timestamp>1268189167</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If there is no problem with your web cam...then it is most likely the other persons. Did they answer the call &quot;with video?&quot; If they can see you, then it is their camera with the problems.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>HSNu3pDaaa</UserId>
+            <UserNick>TayTay</UserNick>
+            <Date>2010-03-09 18:47:03</Date>
+            <Timestamp>1268189223</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:22:21 PDT 2010 -->

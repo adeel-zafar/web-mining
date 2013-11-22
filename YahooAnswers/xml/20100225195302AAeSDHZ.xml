@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225195302AAeSDHZ" type="Answered">
+    <Subject>On Twitter, can they read your tweets?</Subject>
+    <Content>Can the people that you are following, but are not following you, read your tweets? Mine are not public.
+</Content>
+    <Date>2010-02-25 19:53:02</Date>
+    <Timestamp>1267156382</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225195302AAeSDHZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>x3eh6lrWaa</UserId>
+    <UserNick>Answer_Lady</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If your Twitter account is set to Private, only those who you allow to follow you will see your tweets. For example, I have a public account and you start following me but I don&#039;t follow you back and you have a private account. You are able to see my tweets but I&#039;m not able to see yours unless I start following you and you accept me. Hope I didn&#039;t confuse you. lol</ChosenAnswer>
+    <ChosenAnswererId>HIYLlHz0aa</ChosenAnswererId>
+    <ChosenAnswererNick>peacefullyoptimistic</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267420528</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267483663</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If your Twitter account is set to Private, only those who you allow to follow you will see your tweets. For example, I have a public account and you start following me but I don&#039;t follow you back and you have a private account. You are able to see my tweets but I&#039;m not able to see yours unless I start following you and you accept me. Hope I didn&#039;t confuse you. lol</Content>
+            <Reference>http://help.twitter.com/entries/14016-public-vs-protected-accounts</Reference>
+            <Best>4</Best>
+            <UserId>HIYLlHz0aa</UserId>
+            <UserNick>peacefullyoptimistic</UserNick>
+            <Date>2010-02-28 21:15:28</Date>
+            <Timestamp>1267420528</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:53:45 PDT 2010 -->

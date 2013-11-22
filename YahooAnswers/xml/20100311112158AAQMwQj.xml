@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311112158AAQMwQj" type="Answered">
+    <Subject>Which sony website is the real sony website?</Subject>
+    <Content>If you do a google search for sony, there will be sonystyle.com and sony.com. My fiance is trying to get his dad&#039;s sony sound system fixed, and he needs to know which website is the actual one. He is afraid that one of the websites could be a scam. Why would there be two websites if they have the same information?
+</Content>
+    <Date>2010-03-11 11:21:58</Date>
+    <Timestamp>1268335318</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311112158AAQMwQj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XcR8mrWQaa</UserId>
+    <UserNick>ali</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1AMI5DrmtAAEB9IFOdArCEV1UGQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>sony.com</ChosenAnswer>
+    <ChosenAnswererId>3L5ucj1Raa</ChosenAnswererId>
+    <ChosenAnswererNick>Tony</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268335538</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268850941</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>sony.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-11 11:25:38</Date>
+            <Timestamp>1268335538</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:13:18 PDT 2010 -->

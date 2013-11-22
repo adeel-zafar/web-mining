@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313163002AA9S8tD" type="Answered">
+    <Subject>I can&#039;t delete my browseing history HELP!!!!!!!!!!!!!!!!!!!!!!?</Subject>
+    <Content>I ve tryed everything help
+</Content>
+    <Date>2010-03-13 16:30:02</Date>
+    <Timestamp>1268526602</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313163002AA9S8tD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>viieEW1Qaa</UserId>
+    <UserNick>Nitesh K</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Use CCleaner.
+
+http://www.piriform.com/ccleaner/download</ChosenAnswer>
+    <ChosenAnswererId>ngQqisNiaa</ChosenAnswererId>
+    <ChosenAnswererNick>AJ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268526792</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269042389</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use CCleaner.
+
+http://www.piriform.com/ccleaner/download</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ngQqisNiaa</UserId>
+            <UserNick>AJ</UserNick>
+            <Date>2010-03-13 16:33:12</Date>
+            <Timestamp>1268526792</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if using firefox/windows7to open browsing library go to History/show all History/Today(or this week or all) select the first url listed, and shift at the same time. scroll to the bottom of your history and shift/left click the last URL. then use the delete key. Click &quot;Continue&quot; when prompted to confirm the delete. If you want to be certain that no shreds of your history remain go to uniblue.com and download &quot;SpeedupMyPC&quot; free trial at http://www1.uniblue.com/pc/ub/google/uniblue-offers/
+Once you install SpeedUpMyPC use the file shredder option. It is very easy to use.</Content>
+            <Reference>http://www1.uniblue.com/pc/ub/google/uniblue-offers/</Reference>
+            <Best></Best>
+            <UserId>uh6CmMoDaa</UserId>
+            <UserNick>wittious1</UserNick>
+            <Date>2010-03-13 16:51:13</Date>
+            <Timestamp>1268527873</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:30 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313130047AAMIvXu" type="Answered">
+    <Subject>Is freewatchtv.info worth downloading?</Subject>
+    <Content>Someone suggested to me that I download freewatchtv.info and I want to know if its worth downloading or not.
+</Content>
+    <Date>2010-03-13 13:00:47</Date>
+    <Timestamp>1268514047</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313130047AAMIvXu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UgVYHRFYaa</UserId>
+    <UserNick>MiZZ_ShAwTii</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UE5ZEelyAAED-uGihLIpe3ZJMQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no. i recomend ovguide.com</ChosenAnswer>
+    <ChosenAnswererId>mXHrk2j8aa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268517805</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268625126</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no. i recomend ovguide.com</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>mXHrk2j8aa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-13 14:03:25</Date>
+            <Timestamp>1268517805</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:03:29 PDT 2010 -->

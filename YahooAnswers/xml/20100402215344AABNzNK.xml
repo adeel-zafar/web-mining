@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402215344AABNzNK" type="Answered">
+    <Subject>Internet Explorer will not connect to any website, but I do have a proper internet connection?</Subject>
+    <Content>I&#039;m working on a friend&#039;s computer, they said their computer would not connect to the internet anymore.
+
+After having a look, it gets an outgoing connection just fine as I can ping websites through the command prompt and other programs not dependent on the internet browser work just fine. It&#039;s only the internet browser that fails to connect to anything.
+
+Another thing is - internet browser works just fine in safe mode. In fact I&#039;m in safe mode right now.
+
+I&#039;ve tried Firefox, Opera - same result
+I&#039;ve disabled unnecessary startup programs via msconfig
+I&#039;ve disabled the windows firewall and all other securities that might cause such a problem.
+I&#039;ve thought about viruses but scans with Malwarebytes anti-Malware and others have found nothing of consequence. 
+
+Suggestions?
+What might be causing this and how might I fix it?
+@ I 8 Tax  -  no luck, good suggestion though.
+
+
+I addition, I also can&#039;t even access things like my router&#039;s configuration settings (192.168.1.1) through the browser. It&#039;s like the browser is completely disabled in some way.
+I did only work with the startup items in msconfig, didn&#039;t even look at services.
+I&#039;ll do that in the morning - thank you for your help.
+</Content>
+    <Date>2010-04-02 21:53:44</Date>
+    <Timestamp>1270270424</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402215344AABNzNK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aqpNCp8Faa</UserId>
+    <UserNick>undefined</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1qcGR4PUyAAEBP4E_yKSZVKg8GdwD.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>could be several different things. Websites use port 80 to connect, something could be blocking that port. 
+
+Usually what I try is to telnet through port 80 you would just bring up a command prompt in windows and type 
+
+telnet www.yahoo.com 80 
+and push enter it should take you to a flashing black screen. Push enter key twice and it should say connection to host lost. if it does not something is blocking port 80. 
+
+The fact that you can connect in safe mode and not regular windows just puts up all kinds of flags that there is still some kind of security software running blocking it. If you go to msconfig it make sure you uncheck the services not just the startup items for the security software</ChosenAnswer>
+    <ChosenAnswererId>Hn41jNyCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Wes</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270272248</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270327715</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>internet options &gt; advanced tab &gt; reset</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xAJ5IoRzaa</UserId>
+            <UserNick>I 8 Tax</UserNick>
+            <Date>2010-04-02 21:56:28</Date>
+            <Timestamp>1270270588</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>could be several different things. Websites use port 80 to connect, something could be blocking that port. 
+
+Usually what I try is to telnet through port 80 you would just bring up a command prompt in windows and type 
+
+telnet www.yahoo.com 80 
+and push enter it should take you to a flashing black screen. Push enter key twice and it should say connection to host lost. if it does not something is blocking port 80. 
+
+The fact that you can connect in safe mode and not regular windows just puts up all kinds of flags that there is still some kind of security software running blocking it. If you go to msconfig it make sure you uncheck the services not just the startup items for the security software</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Hn41jNyCaa</UserId>
+            <UserNick>Wes</UserNick>
+            <Date>2010-04-02 22:24:08</Date>
+            <Timestamp>1270272248</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>aqpNCp8Faa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-04-03 13:53:08</Date>
+            <Timestamp>1270272248</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:09:36 PDT 2010 -->

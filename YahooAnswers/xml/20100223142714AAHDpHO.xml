@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223142714AAHDpHO" type="Answered">
+    <Subject>does anybody know of any music matching sites?</Subject>
+    <Content>the ones were you type on your favorite artists and it brings up lots of other artists similar to the ones you put in.
+</Content>
+    <Date>2010-02-23 14:27:14</Date>
+    <Timestamp>1266964034</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223142714AAHDpHO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xTGNdwJ9aa</UserId>
+    <UserNick>pAuL rObS</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1AzoG8-fGAAEB_GEEKbJFVstmKA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>purevolume or lastfm are good</ChosenAnswer>
+    <ChosenAnswererId>7BYu2Shaaa</ChosenAnswererId>
+    <ChosenAnswererNick>shnoople</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266964168</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267483608</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>purevolume or lastfm are good</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7BYu2Shaaa</UserId>
+            <UserNick>shnoople</UserNick>
+            <Date>2010-02-23 14:29:28</Date>
+            <Timestamp>1266964168</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>lastfm and we7 =]</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6ux57UWLaa</UserId>
+            <UserNick>Crimson Crow</UserNick>
+            <Date>2010-02-23 14:30:14</Date>
+            <Timestamp>1266964214</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>pandora radio, something like that.
+
+http://www.pandora.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dAaoRpqfaa</UserId>
+            <UserNick>just another guy...</UserNick>
+            <Date>2010-02-23 14:35:13</Date>
+            <Timestamp>1266964513</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>like 
+www.zvukoff.ru
+www.musichunter.net</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>grYoDPvMaa</UserId>
+            <UserNick>RaM</UserNick>
+            <Date>2010-02-23 15:36:01</Date>
+            <Timestamp>1266968161</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi
+Pandora and slacker are not available at my country...
+But have found http://www.tv243.com a great alternative for it
+&quot;Music discovery website to listen to music and watch videos in shuffle mode. Search music videos, find similar artists, bands and internet radio channels.&quot;</Content>
+            <Reference>http://www.tv243.com</Reference>
+            <Best></Best>
+            <UserId>ugFRu9pOaa</UserId>
+            <UserNick>Tiago</UserNick>
+            <Date>2010-02-25 08:07:58</Date>
+            <Timestamp>1267114078</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:18:47 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302072835AA15uih" type="Answered">
+    <Subject>What is the best semantic search engine?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-02 07:28:35</Date>
+    <Timestamp>1267543715</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302072835AA15uih</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Xl5p5unYaa</UserId>
+    <UserNick>Brain Gain</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bb45bbi11eez/Kq_xt2I4aa.ICGN0WlBALpBjwkVB/100/tn48.jpg?ciAAToMBAI8YHxkb</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>check the link...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267553282</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268063109</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>check the link...</Content>
+            <Reference>http://www.searchenginejournal.com/semantic-search-engines/9832/</Reference>
+            <Best>5</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-02 10:08:02</Date>
+            <Timestamp>1267553282</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:26:51 PDT 2010 -->

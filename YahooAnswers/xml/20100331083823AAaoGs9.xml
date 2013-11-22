@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331083823AAaoGs9" type="Answered">
+    <Subject>paypal add funds first or after?</Subject>
+    <Content>ive asked paypal and didn&#039;t get the answer i was looking for. If I want to purchase an item from ebay using paypal do I have to add funds to my paypal account first or does paypal automatically take it from my bank account after I click buy it now?
+fast 10 points :)
+</Content>
+    <Date>2010-03-31 08:38:23</Date>
+    <Timestamp>1270049903</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331083823AAaoGs9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lef5ZIK9aa</UserId>
+    <UserNick>shaneinpoco</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>They take it from your bank account, I believe they call it an E-check.</ChosenAnswer>
+    <ChosenAnswererId>y19hr0p2aa</ChosenAnswererId>
+    <ChosenAnswererNick>joylen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270051376</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270089305</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They take it from your bank account, I believe they call it an E-check.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>y19hr0p2aa</UserId>
+            <UserNick>joylen</UserNick>
+            <Date>2010-03-31 09:02:56</Date>
+            <Timestamp>1270051376</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>When I set up my paypal account, I had to give them my bank account number and a credit/debit card number. You can set it up by default which one you want them to take it out of, I always have it taken from the bank, although my debit card is also from my bank account.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PTxaUkwKaa</UserId>
+            <UserNick>Nancy U</UserNick>
+            <Date>2010-03-31 09:29:41</Date>
+            <Timestamp>1270052981</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:56 PDT 2010 -->

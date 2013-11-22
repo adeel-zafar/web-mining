@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327220457AAfff3O" type="Answered">
+    <Subject>Is it possible to find good coffins online?</Subject>
+    <Content>For a 15 year old girl or so, It has been such a tough time and we are broked.
+</Content>
+    <Date>2010-03-27 22:04:57</Date>
+    <Timestamp>1269752697</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327220457AAfff3O</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>EDdbEC8Qaa</UserId>
+    <UserNick>Stevel Jermone</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1V1T8d8AvAAEF8gSdbUb5SFoB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>hmmm... it seems like the shipping charges on something that big would be pretty high.</ChosenAnswer>
+    <ChosenAnswererId>uX2VFs9iaa</ChosenAnswererId>
+    <ChosenAnswererNick>KILDYOURFAMILYQUIETLY</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269752829</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269886454</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>hmmm... it seems like the shipping charges on something that big would be pretty high.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>uX2VFs9iaa</UserId>
+            <UserNick>KILDYOURFAMILYQUIETLY</UserNick>
+            <Date>2010-03-27 22:07:09</Date>
+            <Timestamp>1269752829</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:29 PDT 2010 -->

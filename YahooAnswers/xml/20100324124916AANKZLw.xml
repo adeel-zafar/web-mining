@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324124916AANKZLw" type="Answered">
+    <Subject>How can I make a link out of just words?</Subject>
+    <Content>You see them all the time. The ones that say click here, and the &quot;here&quot; is a link. How can I do that?
+Sort of. But what I want to do is have the link to http://www.justinmorneau.com show up as Justin Morneau. So that when you click on the name, the page comes up. That help?
+</Content>
+    <Date>2010-03-24 12:49:16</Date>
+    <Timestamp>1269460156</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324124916AANKZLw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lXtxgddWaa</UserId>
+    <UserNick>The Official Yankee Basher™</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4aa1a898i116fzul8sp1/eoGBeUUleaACVmiuhuz1Dwk9/5/tn48.jpg?ciAAToMBLM8J9Y7D</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you&#039;re thinking HTML wise, then it&#039;s like this:
+&lt;a href=&#039;http://google.com&#039;&gt;Clicking here will make you go to &#039;http://google.com&#039;&lt;/a&gt;
+
+Hope this helped!
+//Relex.</ChosenAnswer>
+    <ChosenAnswererId>dBHA05IMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Relex</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269460269</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269554623</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you&#039;re thinking HTML wise, then it&#039;s like this:
+&lt;a href=&#039;http://google.com&#039;&gt;Clicking here will make you go to &#039;http://google.com&#039;&lt;/a&gt;
+
+Hope this helped!
+//Relex.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>dBHA05IMaa</UserId>
+            <UserNick>Relex</UserNick>
+            <Date>2010-03-24 12:51:09</Date>
+            <Timestamp>1269460269</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:47 PDT 2010 -->

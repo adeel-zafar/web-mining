@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310144349AAYmmOG" type="Answered">
+    <Subject>How long does paypal hold your money?</Subject>
+    <Content>I sold a item on ebay and was wondering when it wont be on &quot;hold&quot; or &quot;pending&quot;?
+
+Thanks,
+</Content>
+    <Date>2010-03-10 14:43:49</Date>
+    <Timestamp>1268261029</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310144349AAYmmOG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DyGuBeWnaa</UserId>
+    <UserNick>chad</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Youre a new seller Im assuming?
+They will release the funds when 1) 21 days have passed since the auction has ended 2) when the buyer leaves you feedback or 3) if you send paypal the tracking info</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268297122</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269944539</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It should be right away. There might be a small problem, you should send an email to PayPal.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fxcqMrz3aa</UserId>
+            <UserNick>Robert M</UserNick>
+            <Date>2010-03-10 14:53:29</Date>
+            <Timestamp>1268261609</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Youre a new seller Im assuming?
+They will release the funds when 1) 21 days have passed since the auction has ended 2) when the buyer leaves you feedback or 3) if you send paypal the tracking info</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-11 00:45:22</Date>
+            <Timestamp>1268297122</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It could also be an echeque if its &#039;pending&#039; These take anywhere from 5-10 days to clear</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>efd70b1dd0c2fde5a2ce1207fb24c8ffaa</UserId>
+            <UserNick>LOTR-FAN</UserNick>
+            <Date>2010-03-13 18:11:19</Date>
+            <Timestamp>1268532679</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:17:50 PDT 2010 -->

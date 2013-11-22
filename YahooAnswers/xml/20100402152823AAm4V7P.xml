@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402152823AAm4V7P" type="Answered">
+    <Subject>What is a virus computer ? i need information about virus?</Subject>
+    <Content>What is a virus computer ?
+i need information about virus
+</Content>
+    <Date>2010-04-02 15:28:23</Date>
+    <Timestamp>1270247303</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402152823AAm4V7P</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BhYuRCeyaa</UserId>
+    <UserNick>WWF</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>wsZtB0xhaa</ChosenAnswererId>
+    <ChosenAnswererNick>google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270293005</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270293915</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Its basically a software/application that is made to either annoy/slow you down and in some cases to stop you. Now they come in different size but your body is like a computer it can be infected too. So how do virsus work, well lets say that when you watch tv and you switch to MTV because you want to watch music videos. But your brother or sister snatches the remote and turns it to cartoon network. Now that&#039;s even worst than a virsus because something happens that can set you off. Or they annoy you with turning the light on and off. But with computers is much worst because a small application can trigger this computer to do all kind of bizarre things like disconnect reconnect all the time or shut off. Or show adult sites and many other things, but with all problems there are solutions where you could get a antivirus software. I personally recommend Nod32 which is a great app. Now I hope that explains it, I will include a link to a advance article on virus (computer virus).</Content>
+            <Reference>http://en.wikipedia.org/wiki/Computer_virus
+http://www.eset.com/home/smart-security</Reference>
+            <Best></Best>
+            <UserId>5mLLPKGgaa</UserId>
+            <UserNick>Skoder</UserNick>
+            <Date>2010-04-02 16:00:24</Date>
+            <Timestamp>1270249224</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wsZtB0xhaa</UserId>
+            <UserNick>google</UserNick>
+            <Date>2010-04-03 04:10:05</Date>
+            <Timestamp>1270293005</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:00 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221114250AArKt4O" type="Answered">
+    <Subject>On Chat Roullette do you speak or type?</Subject>
+    <Content>What do YOU do? Or what are you expected to do? Physically talk or just type messages?
+</Content>
+    <Date>2010-02-21 11:42:50</Date>
+    <Timestamp>1266781370</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221114250AArKt4O</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5jWLurR8aa</UserId>
+    <UserNick>Tomster</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1zr_AloBOAAEC_4FMYMsbWmUB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can do both. You can either type to the person you are chatting with or talk to them via webcam if they have their sound on as well as yours.</ChosenAnswer>
+    <ChosenAnswererId>aEA0cyh7aa</ChosenAnswererId>
+    <ChosenAnswererNick>musicangel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266781540</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267007911</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can do both. You can either type to the person you are chatting with or talk to them via webcam if they have their sound on as well as yours.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>aEA0cyh7aa</UserId>
+            <UserNick>musicangel</UserNick>
+            <Date>2010-02-21 11:45:40</Date>
+            <Timestamp>1266781540</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:34:23 PDT 2010 -->

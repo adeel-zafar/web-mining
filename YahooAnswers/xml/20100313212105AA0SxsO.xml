@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313212105AA0SxsO" type="Answered">
+    <Subject>is this bad?!?!!?!? please let me know.?</Subject>
+    <Content>i went on the internet and every website i have an account for was signed out when its usually always signed in. (myspace, yahoo, twitter, youtube, ect.) is it like caused by a virus or something?
+please please let me know.
+</Content>
+    <Date>2010-03-13 21:21:05</Date>
+    <Timestamp>1268544065</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313212105AA0SxsO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d98NG4dnaa</UserId>
+    <UserNick>Sykes.&lt;3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>did you clear your cookies or cache?</ChosenAnswer>
+    <ChosenAnswererId>AA12169338</ChosenAnswererId>
+    <ChosenAnswererNick>heshootshescores3</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268544177</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269059715</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Check the settings for it, perhaps it was set to off.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>V225FSuQaa</UserId>
+            <UserNick>Labtec85</UserNick>
+            <Date>2010-03-13 21:22:27</Date>
+            <Timestamp>1268544147</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Number 1 you shouldn&#039;t leave accounts logged in and Number 2 this can happen a number of ways. The most common is clearing internet History.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Vgxxp7Bdaa</UserId>
+            <UserNick>Jason</UserNick>
+            <Date>2010-03-13 21:22:55</Date>
+            <Timestamp>1268544175</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>did you clear your cookies or cache?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA12169338</UserId>
+            <UserNick>heshootshescores3</UserNick>
+            <Date>2010-03-13 21:22:57</Date>
+            <Timestamp>1268544177</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No, most sites don&#039;t keep you in forever.  That or you cleared your cache.  There are a number of reasons, none to worry about.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-13 21:23:10</Date>
+            <Timestamp>1268544190</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No, it is not bad. It was probably caused by you clearing your cookies or cache.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AInPUiTLaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-13 21:34:14</Date>
+            <Timestamp>1268544854</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:28 PDT 2010 -->

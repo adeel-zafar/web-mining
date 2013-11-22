@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319233958AA6kbQ0" type="Answered">
+    <Subject>Everytime I try to exit out of a tab a little thing pops up and says &quot;Internet explorer has stopped working&quot;?</Subject>
+    <Content>I seriously think I totally screwed up my laptop. I downloaded Firefox and like a bunch of crap came with it and now whenever I turn on my laptop a bunch of little things pop up, telling my about the weather and virus scans and stuff. I don&#039;t want that! I am not very expirenced with computers, I&#039;m only 14 so someone please help!
+</Content>
+    <Date>2010-03-19 23:39:58</Date>
+    <Timestamp>1269067198</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319233958AA6kbQ0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lZ6yrAiZaa</UserId>
+    <UserNick>~EMO FREAK~</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Leave internet explorer and start using firefox or better google chrome</ChosenAnswer>
+    <ChosenAnswererId>FV2LBL3vaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chetan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269072097</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269763327</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This could be an automatic virus scanner affecting your internet explorer (AVG Internet security does this). It will go away with time, but it could slow down the browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NyNwhe3Zaa</UserId>
+            <UserNick>Andrew</UserNick>
+            <Date>2010-03-19 23:45:53</Date>
+            <Timestamp>1269067553</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sometimes a program can just be corrupted leading to malfunctions like this.
+
+If this is the case your best bet is to uninstall internet explorer and then reinstall it.
+
+You should be able to get internet explorer from the microsoft website again after you install it, just like you did with firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>62tusBHvaa</UserId>
+            <UserNick>ron</UserNick>
+            <Date>2010-03-19 23:51:55</Date>
+            <Timestamp>1269067915</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Leave internet explorer and start using firefox or better google chrome</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FV2LBL3vaa</UserId>
+            <UserNick>Chetan</UserNick>
+            <Date>2010-03-20 01:01:37</Date>
+            <Timestamp>1269072097</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:32:50 PDT 2010 -->

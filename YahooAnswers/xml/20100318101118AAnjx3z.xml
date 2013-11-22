@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318101118AAnjx3z" type="Answered">
+    <Subject>where can i get a free custom email?</Subject>
+    <Content>i use to be with a website where you could choose your own custom domain of your email address...
+
+like Sim@ilikedogs.com
+
+or
+ Sim@peoplearecool.com
+
+but i dont remember the name of the site... anyone know?
+</Content>
+    <Date>2010-03-18 10:11:18</Date>
+    <Timestamp>1268932278</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318101118AAnjx3z</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vLd6udlQaa</UserId>
+    <UserNick>Sim</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba0ee91i2593zws116mud/F7rSVCoicqsX02G90HBMH7E-/105/tn48.png?ciAAToMBXffYVgIy</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think you may be referring to AOL, they have that service</ChosenAnswer>
+    <ChosenAnswererId>1d15IRNjaa</ChosenAnswererId>
+    <ChosenAnswererNick>ogd_la_muerte_de_distribudores</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269027439</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269201388</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think you may be referring to AOL, they have that service</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>1d15IRNjaa</UserId>
+            <UserNick>ogd_la_muerte_de_distribudores</UserNick>
+            <Date>2010-03-19 12:37:19</Date>
+            <Timestamp>1269027439</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:07 PDT 2010 -->

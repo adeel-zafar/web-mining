@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221194255AAwwwgA" type="Answered">
+    <Subject>is it possible to trace someone through an online chat?</Subject>
+    <Content>i use omegle and some ppl act weird.
+</Content>
+    <Date>2010-02-21 19:42:55</Date>
+    <Timestamp>1266810175</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221194255AAwwwgA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZwYdUKk9aa</UserId>
+    <UserNick>Seeker of Truth</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.rathishg.com/rg-v4/?pg=download may be its work :B</ChosenAnswer>
+    <ChosenAnswererId>48o8i2Pzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Naveeed Nasib</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266810340</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267329788</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Not on Omegle. That site is weird...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xJYnDOzwaa</UserId>
+            <UserNick>Aria</UserNick>
+            <Date>2010-02-21 19:44:35</Date>
+            <Timestamp>1266810275</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.rathishg.com/rg-v4/?pg=download may be its work :B</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>48o8i2Pzaa</UserId>
+            <UserNick>Naveeed Nasib</UserNick>
+            <Date>2010-02-21 19:45:40</Date>
+            <Timestamp>1266810340</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:31:37 PDT 2010 -->

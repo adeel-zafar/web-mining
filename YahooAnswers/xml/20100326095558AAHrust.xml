@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326095558AAHrust" type="Answered">
+    <Subject>Who won lockerz march radness?</Subject>
+    <Content>As you may know only Team Us can see the videos on lockerz. So this question os for team us. Who  won?
+</Content>
+    <Date>2010-03-26 09:55:58</Date>
+    <Timestamp>1269622558</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326095558AAHrust</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>y7BaoPCkaa</UserId>
+    <UserNick>The_Rapper</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1y_QW8fLLAAQCPYE_EAvd8YxEKw==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Team International :)</ChosenAnswer>
+    <ChosenAnswererId>M8O6Z4Vyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nyu Chan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269625842</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269642004</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I did!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-26 09:58:28</Date>
+            <Timestamp>1269622708</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Team International :)</Content>
+            <Reference>Lockerz.com</Reference>
+            <Best>5</Best>
+            <UserId>M8O6Z4Vyaa</UserId>
+            <UserNick>Nyu Chan</UserNick>
+            <Date>2010-03-26 10:50:42</Date>
+            <Timestamp>1269625842</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:50 PDT 2010 -->

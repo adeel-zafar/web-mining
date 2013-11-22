@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303163437AAZ3UmJ" type="Answered">
+    <Subject>I have several friends with various email address domains. How can we all get on a real-time chat together?</Subject>
+    <Content>Don&#039;t want to use Skype or any video aps. I&#039;d like to use something like the Facebook or Gmail Chat ap but I&#039;m the only one with Gmail and I don&#039;t want all the other folks to have to get a Gmail account just to chat.
+</Content>
+    <Date>2010-03-03 16:34:37</Date>
+    <Timestamp>1267662877</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303163437AAZ3UmJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nnpEcqZdaa</UserId>
+    <UserNick>Ubiquitous</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1dfuK7CNTAAEB_EH5JdfmGocB.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it is likely that all of your friends have some form or chat service already. what you need is an application that works with all of them. Digsby was already suggested but it does not work with either mac or linux. The best choice is still Pidgin. it supports all the major chat clients (MSN, AOL, Yahoo, ICQ,and Myspace) and Jabber (Which is what Gmail, Livejournal, Zoho, and several other services use). Further with a simply add-on you can add support for Facebook chat. lastly I have yet to find a operating system that pidgin doesn&#039;t work in.
+
+here is the main site for pidgin: http://www.pidgin.im/
+here is the page for the facebook add-on: http://code.google.com/p/pidgin-facebookchat/</ChosenAnswer>
+    <ChosenAnswererId>NkJyCeuLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dave</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267665138</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268182403</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You could all install IRC client (like MIRC), create a chat channel and meet there.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QLp6QBrIaa</UserId>
+            <UserNick>Aivars</UserNick>
+            <Date>2010-03-03 16:37:59</Date>
+            <Timestamp>1267663079</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>this is much easier
+sorry go here 
+http://www.digsby.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VsTixs5Qaa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-03 16:39:47</Date>
+            <Timestamp>1267663187</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think Yahoo Instant Messenger can do that, but I hoestly haven&#039;t tried with a domain that wasn&#039;t hotmail, msn or yahoo.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Xrpse3Iaaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-03 16:47:08</Date>
+            <Timestamp>1267663628</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it is likely that all of your friends have some form or chat service already. what you need is an application that works with all of them. Digsby was already suggested but it does not work with either mac or linux. The best choice is still Pidgin. it supports all the major chat clients (MSN, AOL, Yahoo, ICQ,and Myspace) and Jabber (Which is what Gmail, Livejournal, Zoho, and several other services use). Further with a simply add-on you can add support for Facebook chat. lastly I have yet to find a operating system that pidgin doesn&#039;t work in.
+
+here is the main site for pidgin: http://www.pidgin.im/
+here is the page for the facebook add-on: http://code.google.com/p/pidgin-facebookchat/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NkJyCeuLaa</UserId>
+            <UserNick>Dave</UserNick>
+            <Date>2010-03-03 17:12:18</Date>
+            <Timestamp>1267665138</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:15:14 PDT 2010 -->

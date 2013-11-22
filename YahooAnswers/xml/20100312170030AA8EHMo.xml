@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312170030AA8EHMo" type="Answered">
+    <Subject>How do i get roboform to work on the new version of firefox?</Subject>
+    <Content>
+i dont understand?
+</Content>
+    <Date>2010-03-12 17:00:30</Date>
+    <Timestamp>1268442030</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312170030AA8EHMo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WjC31F3Daa</UserId>
+    <UserNick>DaS</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you mean 3.6, no. But it works perfect with ff 3.5. You only need to check the option for firefox.</ChosenAnswer>
+    <ChosenAnswererId>EEBLyqzLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mobby</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268442501</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268616448</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you mean 3.6, no. But it works perfect with ff 3.5. You only need to check the option for firefox.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>EEBLyqzLaa</UserId>
+            <UserNick>Mobby</UserNick>
+            <Date>2010-03-12 17:08:21</Date>
+            <Timestamp>1268442501</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:23 PDT 2010 -->

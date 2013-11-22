@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327081949AA3FubG" type="Answered">
+    <Subject>Polvore question! Help Please!!?</Subject>
+    <Content>Hey guys, i really need help with this! Can somebody tell me how to create a banner for your profile that shows your sets and specified quote or whatever? Please help, i have no clue how to do this!
+here is a sample of a profile that i want mine to look like----------&gt;http://www.polyvore.com/cgi/profile?id=949048
+can anyone tell me how to do this?
+</Content>
+    <Date>2010-03-27 08:19:49</Date>
+    <Timestamp>1269703189</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327081949AA3FubG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IYULYRpSaa</UserId>
+    <UserNick>Dancinngg...=]</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i just made a polyvore two days ago so i&#039;m not really sure if this will work, but try it..it probably won&#039;t work haha. 
+
+go to your profile
+click &quot;edit my profile&quot;
+go down to &quot;profile appearance&quot;
+and click &quot;display my collections&quot;
+
+also, comment on my sets! they&#039;re kind of sucky, but i just started to hopefully they&#039;ll get better :)
+http://www.polyvore.com/cgi/profile?id=1449044</ChosenAnswer>
+    <ChosenAnswererId>Z98TpALPaa</ChosenAnswererId>
+    <ChosenAnswererNick>KaaatieG</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269708733</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270222550</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i just made a polyvore two days ago so i&#039;m not really sure if this will work, but try it..it probably won&#039;t work haha. 
+
+go to your profile
+click &quot;edit my profile&quot;
+go down to &quot;profile appearance&quot;
+and click &quot;display my collections&quot;
+
+also, comment on my sets! they&#039;re kind of sucky, but i just started to hopefully they&#039;ll get better :)
+http://www.polyvore.com/cgi/profile?id=1449044</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Z98TpALPaa</UserId>
+            <UserNick>♥&#039;Cause we&#039;re all dudes♥</UserNick>
+            <Date>2010-03-27 09:52:13</Date>
+            <Timestamp>1269708733</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:13 PDT 2010 -->

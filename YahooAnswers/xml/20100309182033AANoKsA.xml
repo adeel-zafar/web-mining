@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309182033AANoKsA" type="Answered">
+    <Subject>Internet Browser History?</Subject>
+    <Content>Why or what could have deleted my browsing history if I didnt do it. I dont think I have windows Defender, but I do have Norton Anti Virus could this delete my history?
+</Content>
+    <Date>2010-03-09 18:20:33</Date>
+    <Timestamp>1268187633</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309182033AANoKsA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dvWGAJXTaa</UserId>
+    <UserNick>Amazinmets</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>maybe it could have been someone else who logged on to your pc</ChosenAnswer>
+    <ChosenAnswererId>9fxryNlFaa</ChosenAnswererId>
+    <ChosenAnswererNick>MeirW</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268187766</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269421416</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>maybe it could have been someone else who logged on to your pc</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>9fxryNlFaa</UserId>
+            <UserNick>MeirW</UserNick>
+            <Date>2010-03-09 18:22:46</Date>
+            <Timestamp>1268187766</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Did you ever run your Disk Cleanup? Sometimes it&#039;ll clean all of that up.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>olef1AFEaa</UserId>
+            <UserNick>Curious Bob</UserNick>
+            <Date>2010-03-09 18:22:52</Date>
+            <Timestamp>1268187772</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if it detected a cookie it might have. if it thought it was getting thruogh to your history, it might have deleted it to keep things from lookin at it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OTMM9fNOaa</UserId>
+            <UserNick>Mario N</UserNick>
+            <Date>2010-03-09 18:39:02</Date>
+            <Timestamp>1268188742</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:22:36 PDT 2010 -->

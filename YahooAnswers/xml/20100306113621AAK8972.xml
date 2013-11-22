@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306113621AAK8972" type="Answered">
+    <Subject>finallyfast.com does it work?</Subject>
+    <Content>i saw a commerical for this website that makes your computer faster...does anyone know if it actually works?
+thanks :)
+</Content>
+    <Date>2010-03-06 11:36:21</Date>
+    <Timestamp>1267904181</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306113621AAK8972</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>w8mdLSXkaa</UserId>
+    <UserNick>kipper</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Its a scam.</ChosenAnswer>
+    <ChosenAnswererId>ULw1777caa</ChosenAnswererId>
+    <ChosenAnswererNick>jasonicus</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267904228</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268001308</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Its a scam.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-06 11:37:08</Date>
+            <Timestamp>1267904228</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:47:45 PDT 2010 -->

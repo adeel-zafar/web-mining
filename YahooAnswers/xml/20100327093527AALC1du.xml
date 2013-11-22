@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327093527AALC1du" type="Answered">
+    <Subject>i forgot my formspring password and got it reset but the email didn&#039;t send :/?</Subject>
+    <Content>how can i get my formspring back?
+</Content>
+    <Date>2010-03-27 09:35:27</Date>
+    <Timestamp>1269707727</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327093527AALC1du</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IX6SI5aqaa</UserId>
+    <UserNick>Hannah</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1LCUBCMGHAAEBCaJl9AyjMU5kCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>When requesting password or p/w reset,also check your spam folder. I&#039;ve had mine from reputable websites go to the spam folder by mistake many times.</ChosenAnswer>
+    <ChosenAnswererId>7gbg9IhBaa</ChosenAnswererId>
+    <ChosenAnswererNick>eyedontknow</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269707985</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269955258</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>if you try it again, it will log you out, so try just waiting a little but, or log in with your facebook if you have one!(:</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>J6ir0UOKaa</UserId>
+            <UserNick>kenzie elyse(:</UserNick>
+            <Date>2010-03-27 09:36:34</Date>
+            <Timestamp>1269707794</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>When requesting password or p/w reset,also check your spam folder. I&#039;ve had mine from reputable websites go to the spam folder by mistake many times.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>7gbg9IhBaa</UserId>
+            <UserNick>eyedontknow</UserNick>
+            <Date>2010-03-27 09:39:45</Date>
+            <Timestamp>1269707985</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:04 PDT 2010 -->

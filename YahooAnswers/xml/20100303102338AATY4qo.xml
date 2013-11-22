@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303102338AATY4qo" type="Answered">
+    <Subject>How do you type upside-down?</Subject>
+    <Content>I&#039;ve seen people post to Facebook with upside-down type. Anyone know how it&#039;s done?
+</Content>
+    <Date>2010-03-03 10:23:38</Date>
+    <Timestamp>1267640618</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303102338AATY4qo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Vb9M5iPBaa</UserId>
+    <UserNick>Jeph</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ynzWnOuHAAIC5OIcGSsoaGEB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Google &quot;How do you type upside down&quot;</ChosenAnswer>
+    <ChosenAnswererId>LxspxlTAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Joseph</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267641153</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268161431</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>.pɹɐoqʎǝʞ ǝɥʇ uo ǝdʎʇ puɐ pɐǝɥ ɹnoʎ uo puɐʇs</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-03 10:25:42</Date>
+            <Timestamp>1267640742</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Usually on websites like these:
+http://www.revfad.com/flip.html
+http://www.sherv.net/flip.html
+http://www.upsidedowntext.com/
+etc</Content>
+            <Reference>ǝuıƃuǝ ɥɔɹɐǝs ɐ + ǝɔuɐıɹǝdxǝ</Reference>
+            <Best></Best>
+            <UserId>QSthtKxIaa</UserId>
+            <UserNick>bubblemoon66</UserNick>
+            <Date>2010-03-03 10:32:08</Date>
+            <Timestamp>1267641128</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Google &quot;How do you type upside down&quot;</Content>
+            <Reference>www.sevenwires.com/play/UpsideDownLetters.html</Reference>
+            <Best>5</Best>
+            <UserId>LxspxlTAaa</UserId>
+            <UserNick>Joseph</UserNick>
+            <Date>2010-03-03 10:32:33</Date>
+            <Timestamp>1267641153</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:18:17 PDT 2010 -->

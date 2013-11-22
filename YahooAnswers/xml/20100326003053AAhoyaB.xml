@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326003053AAhoyaB" type="Answered">
+    <Subject>How to prevent video ads?</Subject>
+    <Content>I know there&#039;s software out there to do this, but I don&#039;t want to download it if I have another option. I&#039;m using Firefox, 3.6.2 I think, and on a site, there&#039;s more than one, I use most every time I&#039;m on the internet I ALWAYS get video ads. They start randomly and it becomes very annoying when I&#039;m listening to music, and I don&#039;t like clicking on them to make them stop. I&#039;m also on a laptop and I know ads like these eat at the time left on my battery. So if there&#039;s some option given to me by Firefox or you have a software/download you&#039;d recommend (please don&#039;t give me a recommendation you or someone you know hasn&#039;t tried) please let me know. Thank you ^^
+
+~Totally unrelated, but has anyone been having problems with applying your custom personas? Mine won&#039;t work ever since the new Firefox two days ago. ;(
+</Content>
+    <Date>2010-03-26 00:30:53</Date>
+    <Timestamp>1269588653</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326003053AAhoyaB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WjfJhq4Daa</UserId>
+    <UserNick>StellaFleur</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b65097bi10f5zul7sp1/kqFseRcib6OIiyLbIBwHaDHgG9FHdBK28Ds2uYQ-/2/tn48.jpg?ciAAToMBvT6ZL4w1</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There are two add-ons, Adblock Plus and Adblock Plus Element Hider. This two add-ons help speed up browsing by blocking not just the video(.swf file) ads but also texted and pictured ads.
+I am using both since Firefox 3.0
+You can find them by searching in firefox add-on site.
+
+And for your second question you have to reinstall firefox.
+ 
+◄►</ChosenAnswer>
+    <ChosenAnswererId>t3cavcguaa</ChosenAnswererId>
+    <ChosenAnswererNick>The Ghost</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269590061</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269779630</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There are two add-ons, Adblock Plus and Adblock Plus Element Hider. This two add-ons help speed up browsing by blocking not just the video(.swf file) ads but also texted and pictured ads.
+I am using both since Firefox 3.0
+You can find them by searching in firefox add-on site.
+
+And for your second question you have to reinstall firefox.
+ 
+◄►</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>t3cavcguaa</UserId>
+            <UserNick>The Ghost</UserNick>
+            <Date>2010-03-26 00:54:21</Date>
+            <Timestamp>1269590061</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ADBlock + Flashblock</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Yt8Nfu1eaa</UserId>
+            <UserNick>Stephen</UserNick>
+            <Date>2010-03-26 06:14:01</Date>
+            <Timestamp>1269609241</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:16 PDT 2010 -->

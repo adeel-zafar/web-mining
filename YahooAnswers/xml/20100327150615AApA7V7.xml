@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327150615AApA7V7" type="Answered">
+    <Subject>Trying to download Firefox but my antivirus keeps blocking it due to a trojan?</Subject>
+    <Content>I have VIPRE anti -virus and I have tried downloading Firefox about 2 times now but when it got around to about 13 percent or so it stopped. A small window from VIPRE popped up and informed me that it had blocked a trojan from the Firefox download. Please help? Internet Explorer is WAY too slow.
+</Content>
+    <Date>2010-03-27 15:06:15</Date>
+    <Timestamp>1269727575</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327150615AApA7V7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>B4w7j4Ekaa</UserId>
+    <UserNick>Tinkerbell and angie :3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i think you try to download it from an untrusted site, try this: http://www.mozilla-europe.org/en/firefox/
+if it&#039;s still not working, your anti virus software is probably not the best (honestly i haven&#039;t even heared of it). Try Antivir, it works perfectly for me and is for FREE: http://www.free-av.com/</ChosenAnswer>
+    <ChosenAnswererId>bhCjp7Q4aa</ChosenAnswererId>
+    <ChosenAnswererNick>webeno</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269727849</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270247032</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i think you try to download it from an untrusted site, try this: http://www.mozilla-europe.org/en/firefox/
+if it&#039;s still not working, your anti virus software is probably not the best (honestly i haven&#039;t even heared of it). Try Antivir, it works perfectly for me and is for FREE: http://www.free-av.com/</Content>
+            <Reference>http://www.mozilla-europe.org/en/firefox/ - Firefox
+http://www.free-av.com/ - AntiVir</Reference>
+            <Best>5</Best>
+            <UserId>bhCjp7Q4aa</UserId>
+            <UserNick>webeno</UserNick>
+            <Date>2010-03-27 15:10:49</Date>
+            <Timestamp>1269727849</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Download the Firefox from a safe and valid able web-site... i suggest you http://www.filehippo.com/ 
+if you tried to download it from http://www.filehippo.com/ (this) then you should unblock it or Stop the Guard or scanning that your anti-virus is doing! 
+you can also use Download Manager... so if it closed you can re-download it or etc... (Internet Download Manager, and Oribit are really good Download Mnagers... Google them if you wanted to download them!!)
+
+Hope I was helpful! ;)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oPORU8qGaa</UserId>
+            <UserNick>lidude56910</UserNick>
+            <Date>2010-03-27 15:16:36</Date>
+            <Timestamp>1269728196</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:22:04 PDT 2010 -->

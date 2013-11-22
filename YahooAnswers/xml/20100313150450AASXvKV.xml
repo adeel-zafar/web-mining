@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313150450AASXvKV" type="Answered">
+    <Subject>Help with deleting a virus?</Subject>
+    <Content>Well i just rebooted my whole computer, wiping out everything. Well somehow i got this virus, and when i search anything and click the link, it brings me to the wrong links that are scams, also with my internet pop up blocker put on, pop ups about scams come up. And even if i have internet, my google chrome will not load. I ran my symantec anti virus, and it cant pick it up. neither can malware bytes, or spyware doctor, or avira. can anyone help?
+</Content>
+    <Date>2010-03-13 15:04:50</Date>
+    <Timestamp>1268521490</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313150450AASXvKV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LSOqeUtkaa</UserId>
+    <UserNick>Shinkasen</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268574827</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268575836</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try www.spywareterminator.com   they have a free download, run the scan</Content>
+            <Reference>had same problem</Reference>
+            <Best></Best>
+            <UserId>fmpdUjnNaa</UserId>
+            <UserNick>yankee3616</UserNick>
+            <Date>2010-03-13 15:08:12</Date>
+            <Timestamp>1268521692</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If possible, re-install your operating system.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cRxfbWfVaa</UserId>
+            <UserNick>Shivvy</UserNick>
+            <Date>2010-03-13 15:13:28</Date>
+            <Timestamp>1268522008</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-14 06:53:47</Date>
+            <Timestamp>1268574827</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:48 PDT 2010 -->

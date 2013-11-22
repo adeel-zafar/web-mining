@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304165644AATwsHJ" type="Answered">
+    <Subject>how does ebay work...?</Subject>
+    <Content>1-if it says &#039;buy now&#039; will they ship it to you right away or do you have to bid
+2-if it does say buy now, but it says x amount of days left, do you have to wait x amount of days?
+</Content>
+    <Date>2010-03-04 16:56:44</Date>
+    <Timestamp>1267750604</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304165644AATwsHJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VtWMKlvMaa</UserId>
+    <UserNick>bmd</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1. You just have to click on &quot;Buy Now&quot; but make sure you actually pay!!
+2. No, if you buy it now you end the auction, therefore making you the winner of the item. Hurrah!</ChosenAnswer>
+    <ChosenAnswererId>cRxfbWfVaa</ChosenAnswererId>
+    <ChosenAnswererNick>Shivvy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267754172</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268270074</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>buy it now preempts any bids. and they will ship in accordance w/ individual policy.
+but the item is yours and you don&#039;t have to wait the days left, this is only for bidding purposes.</Content>
+            <Reference>using ebay since &#039;98</Reference>
+            <Best></Best>
+            <UserId>PrrPXI30aa</UserId>
+            <UserNick>ez80227</UserNick>
+            <Date>2010-03-04 16:59:25</Date>
+            <Timestamp>1267750765</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1. You just have to click on &quot;Buy Now&quot; but make sure you actually pay!!
+2. No, if you buy it now you end the auction, therefore making you the winner of the item. Hurrah!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cRxfbWfVaa</UserId>
+            <UserNick>Shivvy</UserNick>
+            <Date>2010-03-04 17:56:12</Date>
+            <Timestamp>1267754172</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:08:33 PDT 2010 -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307115936AApBbFE" type="Answered">
+    <Subject>What is a free blog website with these capabilities?</Subject>
+    <Content>Is there a blog site where people can subscribe to my blog through SMS (think gossip girl) so that every time i post it sends to their phone? i&#039;m pretty sure my friend had one once, so it&#039;s out there but i don&#039;t know which site it is?
+blogspot.com (which is now blogger) does not offer this service, because i have one now and am looking to switch over
+</Content>
+    <Date>2010-03-07 11:59:36</Date>
+    <Timestamp>1267991976</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307115936AApBbFE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IvkuqXgRaa</UserId>
+    <UserNick>xocharlie14</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Blogspot.com</ChosenAnswer>
+    <ChosenAnswererId>ou3A9OSMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Andrew</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267992104</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268622260</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Blogspot.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ou3A9OSMaa</UserId>
+            <UserNick>Andrew</UserNick>
+            <Date>2010-03-07 12:01:44</Date>
+            <Timestamp>1267992104</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:38:54 PDT 2010 -->

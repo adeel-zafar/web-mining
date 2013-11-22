@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302131324AAYFeIz" type="Answered">
+    <Subject>How do you make the music you download go to Windows Media Player ?</Subject>
+    <Content>I download the songs from www.video2mp3.net but when it is finished downloading it opens in iTunes. It used to open in Windows Media Player but it just changed suddenly. How do I make it open in Windows Media Player or do you know any other websites where you can dowload it to Windows Media Player. I tried some more websites but they all went to iTunes. 
+
+Please help. 
+Thank you. (:
+</Content>
+    <Date>2010-03-02 13:13:24</Date>
+    <Timestamp>1267564404</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302131324AAYFeIz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>p2E3wv2waa</UserId>
+    <UserNick>irishstargirl</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go into windows media player and then click on library then go to add media then add the media you want by browsing for it. hope it works</ChosenAnswer>
+    <ChosenAnswererId>5x6YBbyHaa</ChosenAnswererId>
+    <ChosenAnswererNick>Josh</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267564605</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268161466</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go into windows media player and then click on library then go to add media then add the media you want by browsing for it. hope it works</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5x6YBbyHaa</UserId>
+            <UserNick>Josh</UserNick>
+            <Date>2010-03-02 13:16:45</Date>
+            <Timestamp>1267564605</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I always close the iTunes message and the download will show up in my Windows Media Player.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Ko2rQhgGaa</UserId>
+            <UserNick>Salem</UserNick>
+            <Date>2010-03-02 13:17:56</Date>
+            <Timestamp>1267564676</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>napster, zune market place, emusic, etc</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TPMuTcpvaa</UserId>
+            <UserNick>summer</UserNick>
+            <Date>2010-03-03 19:01:48</Date>
+            <Timestamp>1267671708</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I also love that alot 
+I&#039;ve just upload that file here</Content>
+            <Reference>http://snipr.com/ummph</Reference>
+            <Best></Best>
+            <UserId>L6eVd4Hxaa</UserId>
+            <UserNick>Dennis</UserNick>
+            <Date>2010-03-04 04:53:18</Date>
+            <Timestamp>1267707198</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:25:30 PDT 2010 -->

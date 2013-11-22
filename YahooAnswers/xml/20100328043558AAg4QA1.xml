@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328043558AAg4QA1" type="Answered">
+    <Subject>Weird some of my internet browsers wont work?</Subject>
+    <Content>There is nothing wrong with the internet its  the laptop I am using I don&#039;t know whats wrong the only internet broweser that wokrs is the Internet Exprol.
+
+Firefox doesnt work neither does google chrome and also my Itunes store doesnt work.
+
+I really don&#039;t know whats happened please help.
+The link works but it keeps saying error
+</Content>
+    <Date>2010-03-28 04:35:58</Date>
+    <Timestamp>1269776158</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328043558AAg4QA1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lmLduB9taa</UserId>
+    <UserNick>O.o</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Check your proxy settings. In Internet Explorer click on the Tools menu then select Internet Options (Options). Then the Internet Options box should pop up. I forget which tab it is under, but it should have something about your proxy settings. Once there click on advanced and select the radio button next to where it says Use default proxy settings, something along those lines... Then click apply and OK to apply the changes and close out of the Internet Options box.
+
+I am so sorry I was not specific, I am on my Mac right now and cannot really remember exactly where to go, hopefully this was at least a new lead for you.</ChosenAnswer>
+    <ChosenAnswererId>Onj6VHnTaa</ChosenAnswererId>
+    <ChosenAnswererNick>GrandUser1000</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269776646</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270295645</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go here</Content>
+            <Reference>http://onecare.live.com/site/en-au/default.htm?mkt=en-au</Reference>
+            <Best></Best>
+            <UserId>qOX3EapGaa</UserId>
+            <UserNick>Jackie D</UserNick>
+            <Date>2010-03-28 04:37:39</Date>
+            <Timestamp>1269776259</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Check your proxy settings. In Internet Explorer click on the Tools menu then select Internet Options (Options). Then the Internet Options box should pop up. I forget which tab it is under, but it should have something about your proxy settings. Once there click on advanced and select the radio button next to where it says Use default proxy settings, something along those lines... Then click apply and OK to apply the changes and close out of the Internet Options box.
+
+I am so sorry I was not specific, I am on my Mac right now and cannot really remember exactly where to go, hopefully this was at least a new lead for you.</Content>
+            <Reference>15 year old tech kid</Reference>
+            <Best>5</Best>
+            <UserId>Onj6VHnTaa</UserId>
+            <UserNick>GrandUser1000</UserNick>
+            <Date>2010-03-28 04:44:06</Date>
+            <Timestamp>1269776646</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:02 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319061244AADIPPJ" type="Answered">
+    <Subject>Why can&#039;t I get access to my Proboards account?</Subject>
+    <Content>Theres no server problems so I&#039;m at a lost.
+</Content>
+    <Date>2010-03-19 06:12:44</Date>
+    <Timestamp>1269004364</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319061244AADIPPJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kUoK62YQaa</UserId>
+    <UserNick>tttuuu f</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you&#039;re running by Sky Broadband type :8080 afther the .com and that will work</ChosenAnswer>
+    <ChosenAnswererId>BlSHI0pGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Witchita</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269005356</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269263142</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you&#039;re running by Sky Broadband type :8080 afther the .com and that will work</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BlSHI0pGaa</UserId>
+            <UserNick>Witchita</UserNick>
+            <Date>2010-03-19 06:29:16</Date>
+            <Timestamp>1269005356</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:32 PDT 2010 -->

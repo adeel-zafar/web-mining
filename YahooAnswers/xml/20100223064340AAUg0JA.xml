@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223064340AAUg0JA" type="Answered">
+    <Subject>Deleted Godaddy account + Domain Transfer?</Subject>
+    <Content>Hi! My subscription to godaddy ended in December. I didn&#039;t renew because I was waiting for a website to be completed, but was transferring the domain, so it didn&#039;t connect with me that I had to keep the domain registered. Now the site is finished, so I am trying to redeem my domain, but it seems my godaddy account is inaccessible and there is no record of my email address in their system. Any help or insight is greatly appreciated! Thank you!
+</Content>
+    <Date>2010-02-23 06:43:40</Date>
+    <Timestamp>1266936220</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223064340AAUg0JA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xpt4NR8Caa</UserId>
+    <UserNick>Tom</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.networksolutions.com/whois/index.jsp</ChosenAnswer>
+    <ChosenAnswererId>zVu19UBCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Topi jerami</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267264896</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267455847</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Call Godaddy and ask them how to access your account if it still exists. I don&#039;t know why it wouldn&#039;t exist, but I&#039;ve never had a period where there were no domains in my account so maybe they closed it if you only had one domain and no activity in the account after it expired. You already lost the domain so this probably doesn&#039;t matter anyways unless you just really want the same account back. You can always set up a second account.
+
+If it was a good domain and receiving traffic, someone probably registered it already. Go to godaddy and search to see if its available. If not, run a whois search to see who owns it and try to contact them and make an offer to buy it back from them.
+http://www.networksolutions.com/whois/index.jsp
+
+ If you see a godaddy parked page when you go to the domain, it may be on their tdnam auction website. They sell expired domains on there, so search to see if its up for sale and buy it back.</Content>
+            <Reference>http://richkits.com/domaining1.html</Reference>
+            <Best></Best>
+            <UserId>ZNIM4idxaa</UserId>
+            <UserNick>CJ</UserNick>
+            <Date>2010-02-23 06:49:06</Date>
+            <Timestamp>1266936546</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here is the solution!!!
+Heh i made use of one site called  http://www.goresellers.com/  after getting the reseller account in this site &amp; got domain transfer ,registration ,hosting services at cheap cost &amp; gain satisfactory result with damn good solution!!!
+Once u got the reseller account u can proceed hosting for your work &amp; can sell to others too
+They provide hosting services at cheap cost than other hosting company &amp; they are very much good in providing services..
+If u need to get domain transfer click on to this site!!!
+Have a good start!!
+Cheers-)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2tefGpI4aa</UserId>
+            <UserNick>shalikaa</UserNick>
+            <Date>2010-02-24 00:49:51</Date>
+            <Timestamp>1267001391</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.networksolutions.com/whois/index.jsp</Content>
+            <Reference>............</Reference>
+            <Best>5</Best>
+            <UserId>zVu19UBCaa</UserId>
+            <UserNick>Topi jerami</UserNick>
+            <Date>2010-02-27 02:01:36</Date>
+            <Timestamp>1267264896</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:22:22 PDT 2010 -->

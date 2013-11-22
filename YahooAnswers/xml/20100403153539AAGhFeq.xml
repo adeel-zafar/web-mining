@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100403153539AAGhFeq" type="Answered">
+    <Subject>What is the Best web hosting that has both php and html?</Subject>
+    <Content>Ok, here is the deal.
+My current web-hosting service is 1and1, i have a website for my friend and that needs to be html but i would like my website to have php. I need to find a different service that provides both at the same time... any ideas?
+
+http://www.qharouff.com/
+http://www.wadebeisner.com/
+
+PS: Front page extensions would be nice but not extremely important.
+</Content>
+    <Date>2010-04-03 15:35:39</Date>
+    <Timestamp>1270334139</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100403153539AAGhFeq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5Dizg2Z5aa</UserId>
+    <UserNick>Quentin H</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I suggest you this website http://www.tenhostingreviews.com where you can find a list of the Top 10 Web hosting companies with the best features, support and pricing. You can get everything you need and it&#039;s very easy. For what you are asking, I recommend you the option 1, Hope this could help you.</ChosenAnswer>
+    <ChosenAnswererId>PrDu36Ojaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tom web</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270336175</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270353031</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.webhostingpad.com/
+
+Love these folks!
+
+Honestly, the best service you will ever get.
+A Little more pricey, but I had no down time
+and the customer service is top -for my money,
+it&#039;s worth every penny.
+
+I was positive PHP came loaded. Ask first, though.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bptPcitHaa</UserId>
+            <UserNick>Gregory Allen Mansheim</UserNick>
+            <Date>2010-04-03 15:38:10</Date>
+            <Timestamp>1270334290</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I suggest you this website http://www.tenhostingreviews.com where you can find a list of the Top 10 Web hosting companies with the best features, support and pricing. You can get everything you need and it&#039;s very easy. For what you are asking, I recommend you the option 1, Hope this could help you.</Content>
+            <Reference>http://www.tenhostingreviews.com</Reference>
+            <Best>5</Best>
+            <UserId>PrDu36Ojaa</UserId>
+            <UserNick>Tom web</UserNick>
+            <Date>2010-04-03 16:09:35</Date>
+            <Timestamp>1270336175</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have 85 sites running on http://www.fatcow.com/join/index.bml?AffID=607592 they are only $66 a year and is unlimited everything.
+
+Unlimited Disk Space 
+Unlimited Bandwidth 
+FREE Domain Name 
+Simple to use site builders 
+Easy online store tools 
+Blogs, photo galleries 
+Legendairy Support</Content>
+            <Reference>http://www.fatcow.com/join/index.bml?AffID=607592</Reference>
+            <Best></Best>
+            <UserId>3f9ad3a9e88406c25ea8f16d6142c053aa</UserId>
+            <UserNick>riverpalmsnet</UserNick>
+            <Date>2010-04-03 20:03:54</Date>
+            <Timestamp>1270350234</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The cheapest hosting I&#039;ve found is http://www.webhostingpad.com/5494.html offers free wordpress auto install. They have plans that start as low as $1.99 a month and offer a 30 day money back guarantee!! They have web designing programs that are easy to use and look very professional.
+
+Free Domain name
+24/7 security server monitoring 
+Advanced Firewall 
+OS Commerce Shopping Cart 
+Password Protected Directories 
+Open PGP/GPG Encryption
+
+If you want reviews of web hosting try http://www.mywebhostinghero.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>q7kGUjcXaa</UserId>
+            <UserNick>Moe</UserNick>
+            <Date>2010-04-03 20:49:46</Date>
+            <Timestamp>1270352986</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>5Dizg2Z5aa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-04-03 20:55:12</Date>
+            <Timestamp>1270352986</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:09:20 PDT 2010 -->

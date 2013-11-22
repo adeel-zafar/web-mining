@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221113154AAdBZ5K" type="Answered">
+    <Subject>How to get firefox to restore previous tabs?</Subject>
+    <Content>I&#039;ve never had this problem before, but ever since I upgraded to the newest version of Firefox, it won&#039;t open my tabs that I was using the last time I closed it.
+
+When I close multiple tabs, it asks me to &quot;save &amp; quit&quot; or to just close them. I hit &quot;save &amp; quit,&quot; and then my window closes. When I go back to open Firefox, it gives me the AOL homepage. I&#039;ve gone to options &gt;&gt; main &gt;&gt; and requested that Firefox should &quot;show windows and tabs from last time&quot;. However, underneath, it still says that my homepage is AOL.
+
+What should I do? Thanks!
+</Content>
+    <Date>2010-02-21 11:31:54</Date>
+    <Timestamp>1266780714</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221113154AAdBZ5K</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>F9xTyMPwaa</UserId>
+    <UserNick>Breeevans</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>OK. First change your homepage address . Go to Tools |Options | Main and type your favorite address in the home page section and save your settings. So you will never see AOL again as the default page.
+
+Then go to Tools | Addons :  in the Get Addons , search &quot;session Manager&quot; . When you find it, install this addon and restart your firefox. 
+
+
+From then on, you can handle your sessions ( including all of the open and closed tabs) and even save your sessions for ever. For this purpose, Click on Tools | Session Manager ) when you install this addon.
+
+Good Luck</ChosenAnswer>
+    <ChosenAnswererId>JLr3UcEHaa</ChosenAnswererId>
+    <ChosenAnswererNick>MS</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266915383</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267300059</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>OK. First change your homepage address . Go to Tools |Options | Main and type your favorite address in the home page section and save your settings. So you will never see AOL again as the default page.
+
+Then go to Tools | Addons :  in the Get Addons , search &quot;session Manager&quot; . When you find it, install this addon and restart your firefox. 
+
+
+From then on, you can handle your sessions ( including all of the open and closed tabs) and even save your sessions for ever. For this purpose, Click on Tools | Session Manager ) when you install this addon.
+
+Good Luck</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JLr3UcEHaa</UserId>
+            <UserNick>MS</UserNick>
+            <Date>2010-02-23 00:56:23</Date>
+            <Timestamp>1266915383</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:34:25 PDT 2010 -->

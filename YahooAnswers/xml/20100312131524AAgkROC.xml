@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312131524AAgkROC" type="Answered">
+    <Subject>Im locked out of my internet?</Subject>
+    <Content>i just typed this all out and the page refreshed so im doing it short story stylenow and screw grammer lol. i cannot get mts to give me my internet password so forget that. i havent used the internet on the comp in question and the other one  is fried. i have the internet user name but thats about it. i need some hack to get my password back and the only info i have is the internet user name,. can ya help me out?
+</Content>
+    <Date>2010-03-12 13:15:24</Date>
+    <Timestamp>1268428524</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312131524AAgkROC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9Mgp9sYnaa</UserId>
+    <UserNick>imkira</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>@knowguy: MTS is a Canadian ISP.
+
+On the webpage, it says call this number if you have forgotten your password: 
+
+QUOTE
+If you have forgotten your MTS internet password please dial CALL-MTS or 225-5687, choose the Internet option and request a password reset. You must have authority of the internet account to do this.
+/QUOTE
+
+From: http://www.mts.ca/portal/site/mts/menuitem.3daf24924ae9c4e50e14081031248a0c/?vgnextoid=13c77e2a9023d010VgnVCM1000000408120aRCRD&amp;vgnextchannel=81da07731918b010VgnVCM1000000408120aRCRD
+
+If you&#039;re referring to your router though, you can just restore the router to factory settings if you forgot the administrative password. I think you&#039;re referring to your MTS account password though, which I suppose only MTS itself can reset.</ChosenAnswer>
+    <ChosenAnswererId>IbxhRebgaa</ChosenAnswererId>
+    <ChosenAnswererNick>cen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268428873</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268944446</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What is &quot;mts&quot;?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11611248</UserId>
+            <UserNick>knowguy</UserNick>
+            <Date>2010-03-12 13:16:58</Date>
+            <Timestamp>1268428618</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Call your Internet Service Provider and explain the situation. They should be able to sort it out for you.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jQGRTYD2aa</UserId>
+            <UserNick>HarryG321</UserNick>
+            <Date>2010-03-12 13:18:20</Date>
+            <Timestamp>1268428700</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>@knowguy: MTS is a Canadian ISP.
+
+On the webpage, it says call this number if you have forgotten your password: 
+
+QUOTE
+If you have forgotten your MTS internet password please dial CALL-MTS or 225-5687, choose the Internet option and request a password reset. You must have authority of the internet account to do this.
+/QUOTE
+
+From: http://www.mts.ca/portal/site/mts/menuitem.3daf24924ae9c4e50e14081031248a0c/?vgnextoid=13c77e2a9023d010VgnVCM1000000408120aRCRD&amp;vgnextchannel=81da07731918b010VgnVCM1000000408120aRCRD
+
+If you&#039;re referring to your router though, you can just restore the router to factory settings if you forgot the administrative password. I think you&#039;re referring to your MTS account password though, which I suppose only MTS itself can reset.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>IbxhRebgaa</UserId>
+            <UserNick>cen</UserNick>
+            <Date>2010-03-12 13:21:13</Date>
+            <Timestamp>1268428873</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:08:30 PDT 2010 -->

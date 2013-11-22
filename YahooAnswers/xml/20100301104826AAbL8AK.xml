@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301104826AAbL8AK" type="Answered">
+    <Subject>Why does my Internet browser pop up after loading a page?</Subject>
+    <Content>I click on a link, and while the page is loading I open up my iTunes window, for example, but then once IE has loaded the page i wanted it automatically opens up taking me away from iTunes. It gets annoying when you are in the middle of typing and it suddenly pops up with the page i asked for. Yeah i&#039;m glad you&#039;ve opened up the page i wanted, but i will open you in my own time!
+</Content>
+    <Date>2010-03-01 10:48:26</Date>
+    <Timestamp>1267469306</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301104826AAbL8AK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xSWgWzMqaa</UserId>
+    <UserNick>CPH57</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s something that happens if the page is still a full screen. You can prevent the screen from jumping in front of others if you minimize it. I do the same thing with my msn messengers so if someone nudges me it doesn&#039;t pop up in my face and then I end up typing what I want in the message box.
+Just minimize the page before continuing to do other work. That should help.</ChosenAnswer>
+    <ChosenAnswererId>ws3NpeL1aa</ChosenAnswererId>
+    <ChosenAnswererNick>wind.demon_14</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267470577</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267644825</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Could be some form of adwere</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>koru3fHjaa</UserId>
+            <UserNick>Robb</UserNick>
+            <Date>2010-03-01 10:49:57</Date>
+            <Timestamp>1267469397</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s something that happens if the page is still a full screen. You can prevent the screen from jumping in front of others if you minimize it. I do the same thing with my msn messengers so if someone nudges me it doesn&#039;t pop up in my face and then I end up typing what I want in the message box.
+Just minimize the page before continuing to do other work. That should help.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ws3NpeL1aa</UserId>
+            <UserNick>wind.demon_14</UserNick>
+            <Date>2010-03-01 11:09:37</Date>
+            <Timestamp>1267470577</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:01 PDT 2010 -->

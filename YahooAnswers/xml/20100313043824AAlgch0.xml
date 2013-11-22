@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313043824AAlgch0" type="Answered">
+    <Subject>what add on is this for firefox?</Subject>
+    <Content>with that add on you can make like change the invisability like u can make when you see trought programs whats going under it dont really know how to explain but it make kinda see through stuff
+</Content>
+    <Date>2010-03-13 04:38:24</Date>
+    <Timestamp>1268483904</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313043824AAlgch0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FxRxi2TEaa</UserId>
+    <UserNick>Kristaps</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.google.co.uk/search?q=firefox+glass&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-GB:official&amp;client=firefox-a</ChosenAnswer>
+    <ChosenAnswererId>xQSairBOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Blas</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268484627</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268999683</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try source code</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oXXc2LmNaa</UserId>
+            <UserNick>John S</UserNick>
+            <Date>2010-03-13 04:42:10</Date>
+            <Timestamp>1268484130</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Pretty sure thats a Windows 7 feature, not Firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-13 04:42:52</Date>
+            <Timestamp>1268484172</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.google.co.uk/search?q=firefox+glass&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-GB:official&amp;client=firefox-a</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xQSairBOaa</UserId>
+            <UserNick>Blas</UserNick>
+            <Date>2010-03-13 04:50:27</Date>
+            <Timestamp>1268484627</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:05:13 PDT 2010 -->

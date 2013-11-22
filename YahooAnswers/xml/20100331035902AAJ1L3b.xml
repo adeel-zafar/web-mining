@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331035902AAJ1L3b" type="Answered">
+    <Subject>why can&#039;t i play videos in this site?</Subject>
+    <Content>http://broeddie.ph/
+</Content>
+    <Date>2010-03-31 03:59:02</Date>
+    <Timestamp>1270033142</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331035902AAJ1L3b</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Cbvzjfmjaa</UserId>
+    <UserNick>Eric</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i think you don&#039;t have flash player installed in your computer or maybe you have an older version of it. try to install the latest adobe flash player.</ChosenAnswer>
+    <ChosenAnswererId>YO4AJDXPaa</ChosenAnswererId>
+    <ChosenAnswererNick>James</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270034224</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270136816</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i think you don&#039;t have flash player installed in your computer or maybe you have an older version of it. try to install the latest adobe flash player.</Content>
+            <Reference>http://get.adobe.com/flashplayer/</Reference>
+            <Best>5</Best>
+            <UserId>YO4AJDXPaa</UserId>
+            <UserNick>James</UserNick>
+            <Date>2010-03-31 04:17:04</Date>
+            <Timestamp>1270034224</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:05 PDT 2010 -->

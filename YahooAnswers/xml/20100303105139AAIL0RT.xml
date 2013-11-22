@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303105139AAIL0RT" type="Answered">
+    <Subject>Is there a UK version of Etsy?</Subject>
+    <Content>www.etsy.com
+
+Is there a UK verson, or any similar website based in the UK?
+(they sell handmade goods, etc, from lots of different sellers)
+
+Thankyou
+</Content>
+    <Date>2010-03-03 10:51:39</Date>
+    <Timestamp>1267642299</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303105139AAIL0RT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DrqNnjEDaa</UserId>
+    <UserNick>Rose M</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I don&#039;t know of any, but the US-based etsy site IS international. There are seller&#039;s there from all over the world -- and buyers as well. My very first sale was to a person in Spain -- and I&#039;m in the US.</ChosenAnswer>
+    <ChosenAnswererId>2f739e8b2a5530e501bad3e76a9cb2f7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Yahzmin (US)  (₪₪₪)</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267646018</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267907353</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I don&#039;t know of any, but the US-based etsy site IS international. There are seller&#039;s there from all over the world -- and buyers as well. My very first sale was to a person in Spain -- and I&#039;m in the US.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>2f739e8b2a5530e501bad3e76a9cb2f7aa</UserId>
+            <UserNick>Yahzmin (US)  [weaving]</UserNick>
+            <Date>2010-03-03 11:53:38</Date>
+            <Timestamp>1267646018</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:17:39 PDT 2010 -->

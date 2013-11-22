@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313123922AA0SkI6" type="Answered">
+    <Subject>i cant open my internet explorer?</Subject>
+    <Content>everytime i try to open it it will go back to the main screen and if i try 3-4 times it will show this message: Internet Explorer has encountered a problem and needs to close. sorry for inconvenience.
+please help! thanks.
+</Content>
+    <Date>2010-03-13 12:39:22</Date>
+    <Timestamp>1268512762</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313123922AA0SkI6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iKHtE0Nzaa</UserId>
+    <UserNick>mae</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b8c9eb1i2750zws107ac4/T9q6I_s8cqjtSYoFw.J2HKwYvMeAlw--/2/tn48.jpeg?ciAAToMB0tv_REf2</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go into the Control Panel ► Internet Options ► Advanced ► At the bottom of the page there is a &quot;Reset&quot; button ► Click on it and it will reload and repair IE for you.</ChosenAnswer>
+    <ChosenAnswererId>WeZcSZvKaa</ChosenAnswererId>
+    <ChosenAnswererNick>sewrobb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268513386</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269028652</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Don&#039;t you have any other browser in your computer?  Maybe needs to be upgraded.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LyjCLnXgaa</UserId>
+            <UserNick>agaz95</UserNick>
+            <Date>2010-03-13 12:41:46</Date>
+            <Timestamp>1268512906</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In this situation you will need to reboot your computer, this happened to me a lot, before.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Q9I5qLGXaa</UserId>
+            <UserNick>Rash M</UserNick>
+            <Date>2010-03-13 12:47:10</Date>
+            <Timestamp>1268513230</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go into the Control Panel ► Internet Options ► Advanced ► At the bottom of the page there is a &quot;Reset&quot; button ► Click on it and it will reload and repair IE for you.</Content>
+            <Reference>Experienced1</Reference>
+            <Best>5</Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-13 12:49:46</Date>
+            <Timestamp>1268513386</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>just restart your computer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>O4c9M2Enaa</UserId>
+            <UserNick>Jujajuju</UserNick>
+            <Date>2010-03-13 12:51:16</Date>
+            <Timestamp>1268513476</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you might have a virus in your computer is very common i&#039;ve seen that problem in other computer often just try to remember if the problem appeared after install something from internet the thing is that there is a virus that tells you install this to see the video in this website and stuff like that but this download is a virus so you can use System Restore to fix your computer. follow the next steps to find system restore:
+
+all programs&gt;Accessories&gt;System Tools&gt;System Restore.
+
+chose a date like two days before you see the problem 
+
+(if you don&#039;t know how to use system restore you can e-mail me and i will try to help you a little bit more) 
+sanvigotes92@hotmail.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jnrBSbMJaa</UserId>
+            <UserNick>Milton</UserNick>
+            <Date>2010-03-13 15:02:03</Date>
+            <Timestamp>1268521323</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:03:41 PDT 2010 -->

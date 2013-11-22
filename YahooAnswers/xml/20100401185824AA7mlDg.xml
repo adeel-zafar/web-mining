@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401185824AA7mlDg" type="Answered">
+    <Subject>problem with buying on amazon?</Subject>
+    <Content>hi i am trying to buy Area 51 on amazon.com i got to the shipping and payment option but when i try to click continue it doesn&#039;t make me continue and it says please enter payment options to continue even though i already entered it, please help
+@DB nah cause im using a gift card too and its a $10 and area 51 is like $5 and it still doesnt work, but thanks anyway
+</Content>
+    <Date>2010-04-01 18:58:24</Date>
+    <Timestamp>1270173504</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401185824AA7mlDg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GeXvKan5aa</UserId>
+    <UserNick>Elijah</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Okay, I had the same problem, except for me I was using a giftcard and it was because the giftcard didn&#039;t have enough money on it for the purchase. So I don&#039;t know if that can be the case in your situation.</ChosenAnswer>
+    <ChosenAnswererId>iJKJg2ntaa</ChosenAnswererId>
+    <ChosenAnswererNick>DB</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270175435</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270240040</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Okay, I had the same problem, except for me I was using a giftcard and it was because the giftcard didn&#039;t have enough money on it for the purchase. So I don&#039;t know if that can be the case in your situation.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>iJKJg2ntaa</UserId>
+            <UserNick>DB</UserNick>
+            <Date>2010-04-01 19:30:35</Date>
+            <Timestamp>1270175435</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:05 PDT 2010 -->

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317032110AAQTrd5" type="Answered">
+    <Subject>I have read messages in my email inbox that I never opened before?</Subject>
+    <Content>I&#039;m getting paranoid...the other emails are unread, except for the amazon ones. I use this email to go online shopping too. Should I make a new email account?
+</Content>
+    <Date>2010-03-17 03:21:10</Date>
+    <Timestamp>1268821270</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317032110AAQTrd5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MMckhJnhaa</UserId>
+    <UserNick>xsherryxcherryx</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1rJIgXUcgAAED3WQzHc5BCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Perhaps change the password and make sure that you never leave yourself logged in to any account and clear browsing history when using a shared or public computer and don&#039;t ever log in to any sites requiring login or password details if using a proxy. Don&#039;t have an easy to guess password and don&#039;t write it down on a piece of paper left near your computer. If it keeps happening create a new email account for test purposes. If it continues to happen using the new email account run a scan with some security software that can detect key loggers.
+
+If you would like to ensure that your email account remains secure you could always try key scrambler once you have changed the password:
+
+http://billmullins.wordpress.com/2009/07/01/dont-sign-in-on-the-internet-without-keyscrambler/
+
+http://download.cnet.com/KeyScrambler-Personal/3000-2144_4-10571274.html</ChosenAnswer>
+    <ChosenAnswererId>1uIn1AEaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chrisallis</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268822371</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269457962</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I guess you should make a new e-mail address and try and not apply for all sites that send a lot of spam, either that or choose a mail service with a really good spam filter</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Cl92mqWhaa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-17 03:25:08</Date>
+            <Timestamp>1268821508</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Perhaps change the password and make sure that you never leave yourself logged in to any account and clear browsing history when using a shared or public computer and don&#039;t ever log in to any sites requiring login or password details if using a proxy. Don&#039;t have an easy to guess password and don&#039;t write it down on a piece of paper left near your computer. If it keeps happening create a new email account for test purposes. If it continues to happen using the new email account run a scan with some security software that can detect key loggers.
+
+If you would like to ensure that your email account remains secure you could always try key scrambler once you have changed the password:
+
+http://billmullins.wordpress.com/2009/07/01/dont-sign-in-on-the-internet-without-keyscrambler/
+
+http://download.cnet.com/KeyScrambler-Personal/3000-2144_4-10571274.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>1uIn1AEaaa</UserId>
+            <UserNick>Chrisallis</UserNick>
+            <Date>2010-03-17 03:39:31</Date>
+            <Timestamp>1268822371</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it can be virus problem.....</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IcCxEFpHaa</UserId>
+            <UserNick>Jack</UserNick>
+            <Date>2010-03-17 04:13:27</Date>
+            <Timestamp>1268824407</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:45:34 PDT 2010 -->

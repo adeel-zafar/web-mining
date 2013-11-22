@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228215244AAkUlB1" type="Answered">
+    <Subject>how do i unrar and item?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-28 21:52:44</Date>
+    <Timestamp>1267422764</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228215244AAkUlB1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>39a8537f8f1e89763fd0d3dce18a3725aa</UserId>
+    <UserNick>Suicidal Master</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1KsmUKWpBAAQCPaEr8AcecSUA.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You&#039;re going to need a program like winrar to unrar an item.  You can find winrar here: http://rarlabs.com/</ChosenAnswer>
+    <ChosenAnswererId>EdipPJ2Paa</ChosenAnswererId>
+    <ChosenAnswererNick>Nicholas</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267422903</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267942394</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You&#039;re going to need a program like winrar to unrar an item.  You can find winrar here: http://rarlabs.com/</Content>
+            <Reference>http://rarlabs.com/</Reference>
+            <Best>5</Best>
+            <UserId>EdipPJ2Paa</UserId>
+            <UserNick>Nicholas</UserNick>
+            <Date>2010-02-28 21:55:03</Date>
+            <Timestamp>1267422903</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Get Power Archiver
+http://www.powerarchiver.com/
+supports ALL formats</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>obRODVoGaa</UserId>
+            <UserNick>reed c</UserNick>
+            <Date>2010-02-28 21:55:23</Date>
+            <Timestamp>1267422923</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>download winrar directly from here
+http://www.ziddu.com/download/8780588/wrar371.exe.html</Content>
+            <Reference>Aryan</Reference>
+            <Best></Best>
+            <UserId>3Yluz4Yiaa</UserId>
+            <UserNick>RAryan</UserNick>
+            <Date>2010-02-28 21:59:21</Date>
+            <Timestamp>1267423161</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:34:28 PDT 2010 -->

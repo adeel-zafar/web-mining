@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401164916AAzuinQ" type="Answered">
+    <Subject>What are some good blog names?</Subject>
+    <Content>I&#039;m looking to name a blog, and the name needs to include some lyric reference to Green Day and Muse. Both of them need to be included in the title somehow but I was wondering if anyone has any suggestions.
+</Content>
+    <Date>2010-04-01 16:49:16</Date>
+    <Timestamp>1270165756</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401164916AAzuinQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>R7PQ7KRSaa</UserId>
+    <UserNick>Sarah</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/165_PoEIzAAEB4YSgHbSElkEB.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Blvd of Relevations?</ChosenAnswer>
+    <ChosenAnswererId>qmuR1Rwiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Flow-low</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270169566</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270207711</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Blvd of Relevations?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qmuR1Rwiaa</UserId>
+            <UserNick>Flow-low</UserNick>
+            <Date>2010-04-01 17:52:46</Date>
+            <Timestamp>1270169566</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:12 PDT 2010 -->

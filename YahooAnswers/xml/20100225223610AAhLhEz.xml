@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225223610AAhLhEz" type="Answered">
+    <Subject>What do you think of this Captcha? 10 points to the funniest answer.?</Subject>
+    <Content>http://i269.photobucket.com/albums/jj75/Whatsxthis/LockerzFail-1.jpg
+</Content>
+    <Date>2010-02-25 22:36:10</Date>
+    <Timestamp>1267166170</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225223610AAhLhEz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>P96RW7fQaa</UserId>
+    <UserNick>Ukie Man</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b708647i5d4zul4re4/Gq048fQ2frTm5Jeie0OM41BeJsI-/1/tn48.jpg?ciAAToMBSM3XNJAf</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>looks like lockerz let out there secret lol</ChosenAnswer>
+    <ChosenAnswererId>BxLVuwFsaa</ChosenAnswererId>
+    <ChosenAnswererNick>Emperor</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267166641</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267243504</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>looks like lockerz let out there secret lol</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BxLVuwFsaa</UserId>
+            <UserNick>Emperor</UserNick>
+            <Date>2010-02-25 22:44:01</Date>
+            <Timestamp>1267166641</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:53:12 PDT 2010 -->

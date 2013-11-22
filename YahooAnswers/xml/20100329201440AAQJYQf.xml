@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329201440AAQJYQf" type="Answered">
+    <Subject>What&#039;s wrong with rapidshare?</Subject>
+    <Content>Okay so I have problems w/ RS and MU. I&#039;m downloading two 200 mb files from rapidshare and megaupload (simultaneously) and I noticed the speed isn&#039;t quite right.
+
+My ISP is comcast and the speed is supposedly 20 megabits/second (megabits, not megabytes). Regularly when I download from RS and MU and HF the speed is around 200 kbs/second to 400 kbs/second...I guess because they cap the download speed for free downloads.
+
+Well, today it&#039;s around 60 kbs/second to 100 kbs/second! It&#039;s never reached that low.
+</Content>
+    <Date>2010-03-29 20:14:40</Date>
+    <Timestamp>1269918880</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329201440AAQJYQf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bJzirWCdaa</UserId>
+    <UserNick>Kevin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Depends on the traffic on their servers, rapidshare can be painfully slow, same for MU.</ChosenAnswer>
+    <ChosenAnswererId>r2Oybjg1aa</ChosenAnswererId>
+    <ChosenAnswererNick>soupfine</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269919038</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270016498</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Depends on the traffic on their servers, rapidshare can be painfully slow, same for MU.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>r2Oybjg1aa</UserId>
+            <UserNick>soupfine</UserNick>
+            <Date>2010-03-29 20:17:18</Date>
+            <Timestamp>1269919038</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:57 PDT 2010 -->

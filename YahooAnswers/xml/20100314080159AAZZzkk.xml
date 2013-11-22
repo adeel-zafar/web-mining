@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314080159AAZZzkk" type="Answered">
+    <Subject>Can you be part of more than one group on deviant art?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-14 08:01:59</Date>
+    <Timestamp>1268578919</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314080159AAZZzkk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LYO0Y8lHaa</UserId>
+    <UserNick>Charlie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ad1cef9i1dddzul4sp1/IAv7aKgyc6cT2zIKx2rPMlrqahNB5j1oIPKRow--/4/tn48.jpg?ciAAToMBvmZvoSsw</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here:
+http://help.deviantart.com/422/
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268905388</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269098158</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Here:
+http://help.deviantart.com/422/
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-03-18 02:43:08</Date>
+            <Timestamp>1268905388</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:59:57 PDT 2010 -->

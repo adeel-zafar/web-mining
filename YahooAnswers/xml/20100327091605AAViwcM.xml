@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327091605AAViwcM" type="Answered">
+    <Subject>How long does it take you to turn on your computer then go to your internet home page?</Subject>
+    <Content>i took 1min 37secs.
+</Content>
+    <Date>2010-03-27 09:16:05</Date>
+    <Timestamp>1269706565</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327091605AAViwcM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XkycjorQaa</UserId>
+    <UserNick>Ds34</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;ve not timed it, but seeing as I have Windows 7 and Google Chrome I think it takes around 40 seconds.
+
+I can&#039;t wait for Google Chrome OS to come out, when from the time you press the power button to when you get on the web takes around 5 seconds.</ChosenAnswer>
+    <ChosenAnswererId>jCwM5V4Xaa</ChosenAnswererId>
+    <ChosenAnswererNick>Lion64</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269706724</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269803769</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;ve not timed it, but seeing as I have Windows 7 and Google Chrome I think it takes around 40 seconds.
+
+I can&#039;t wait for Google Chrome OS to come out, when from the time you press the power button to when you get on the web takes around 5 seconds.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>jCwM5V4Xaa</UserId>
+            <UserNick>Lion64</UserNick>
+            <Date>2010-03-27 09:18:44</Date>
+            <Timestamp>1269706724</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>with my windows 7 &amp; firefox approx 30 seconds :-)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0SGjLc6Paa</UserId>
+            <UserNick>raven</UserNick>
+            <Date>2010-03-27 09:49:58</Date>
+            <Timestamp>1269708598</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:08 PDT 2010 -->

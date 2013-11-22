@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318041146AAJyHeS" type="Answered">
+    <Subject>How can I delete anything and everything dirty from my computer?</Subject>
+    <Content>Or at least try? I&#039;m a teen and I really don&#039;t need this bs anymore, I have more important things I should be doing instead and i&#039;m becoming addicted. Besides, this laptop is used by my nosey mom too. 
+
+I feel guilty for letting it take up so much of my time. I want to get rid of every trace possible.
+
+Help?
+</Content>
+    <Date>2010-03-18 04:11:46</Date>
+    <Timestamp>1268910706</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318041146AAJyHeS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uJhds45xaa</UserId>
+    <UserNick>Dia</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/15kzmDAqSAAICMONwdJPJVIsB.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Only way to be sure is to format the hard drive - Google for how to do it :)</ChosenAnswer>
+    <ChosenAnswererId>pVGY9myOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Firzen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268910890</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269075145</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Only way to be sure is to format the hard drive - Google for how to do it :)</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>pVGY9myOaa</UserId>
+            <UserNick>Firzen</UserNick>
+            <Date>2010-03-18 04:14:50</Date>
+            <Timestamp>1268910890</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The best (and easiest to use) tool I have found for cleaning up your computer and securely removing deleted material is East Tec Eraser.
+
+
+They have a 15 day trial version, which is fully functional, so if you just want to do this as a one-off, this is the tool to use.
+
+www.easttec.com
+
+This tool will also allow you to securely delete files or folders you select.
+
+
+Note to Firzen - formatting the hard drive does NOT remove the data - trust me, I get paid to recover data from formatted and f-disked hard drives all the time - I&#039;m very good at it!</Content>
+            <Reference>Forensic Computing Examiner</Reference>
+            <Best></Best>
+            <UserId>G5CKoEILaa</UserId>
+            <UserNick>Paul</UserNick>
+            <Date>2010-03-18 04:15:07</Date>
+            <Timestamp>1268910907</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1. Take back up of important files in a pen drive / external drive.
+2. Format the hard disk.
+3. Re-install OS and other software.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AOcCmAYzaa</UserId>
+            <UserNick>M G</UserNick>
+            <Date>2010-03-18 04:51:31</Date>
+            <Timestamp>1268913091</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>low level format, it will rewrite every sector of the drive making it like it was in the factory.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>9XBMN4bpaa</UserId>
+            <UserNick>Daniel</UserNick>
+            <Date>2010-03-18 06:27:21</Date>
+            <Timestamp>1268918841</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:55 PDT 2010 -->

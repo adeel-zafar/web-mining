@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320041408AAPMYHL" type="Answered">
+    <Subject>If you&#039;re using a neighbor&#039;s wireless internet service (with their permission)?</Subject>
+    <Content>Can they see what sites you&#039;re going to, or have access to other information?
+
+He&#039;s very tech-savvy... works as an IT systems administrator.
+
+Thank you for your answers.
+</Content>
+    <Date>2010-03-20 04:14:08</Date>
+    <Timestamp>1269083648</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320041408AAPMYHL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nGBpD0KUaa</UserId>
+    <UserNick>Permanent Mydnight</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1N-P60aS1AAQD5IQDvUUMCg==.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>He definitely can... So if you plan on using his internet be careful with stuff you don&#039;t want him to see.</ChosenAnswer>
+    <ChosenAnswererId>nH2MNQiuaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chris</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269083770</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269603212</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>He definitely can... So if you plan on using his internet be careful with stuff you don&#039;t want him to see.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nH2MNQiuaa</UserId>
+            <UserNick>Chris C</UserNick>
+            <Date>2010-03-20 04:16:10</Date>
+            <Timestamp>1269083770</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have gotten their permission, but don&#039;t be too upset if that permission is suddenly withdrawn.  Your usage might be affecting their bill depending on the package they have</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-20 04:20:36</Date>
+            <Timestamp>1269084036</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, he should be able to see pretty much all internet traffic that goes to your PC at a minimum.  If he&#039;s given you credentials to use his wireless connection, this most likely means you&#039;ve joined a network which he controls, and he can thus also have some level of access to your PC (which depends upon the security measures you&#039;ve taken).  Whether or not he would want to do that is of course up for debate but it would be unusual in my opinion to share your internet connection for no reason.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eOxsz1AIaa</UserId>
+            <UserNick>CF</UserNick>
+            <Date>2010-03-20 04:46:42</Date>
+            <Timestamp>1269085602</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Damn if you have a web cam he can watch you!!! Not even kiddin</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lk2n8dkVaa</UserId>
+            <UserNick>jonnyblanch</UserNick>
+            <Date>2010-03-22 15:11:29</Date>
+            <Timestamp>1269295889</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:32:21 PDT 2010 -->

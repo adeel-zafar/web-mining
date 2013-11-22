@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310192102AAlP66L" type="Answered">
+    <Subject>My wireless connection keeps dropping !!!!!!!!!!!!!!!!!!!?</Subject>
+    <Content>i have my wireless router in my bedroom but as soon as i walk away it drops the conection. Then it will come back then drop it again this problem just started today . ive had my router setup for about a month with no problems.
+</Content>
+    <Date>2010-03-10 19:21:02</Date>
+    <Timestamp>1268277662</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310192102AAlP66L</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>72119c8f0db9a4ab9ee8fe732f7e0804aa</UserId>
+    <UserNick>Ben G</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Nk8F6K2qAAEC_IFHiA72AYIA.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yea, just re-install it.  Look up ur computer to uninstall it then try reinstall it.  
+
+If it still messes up, try call your company and ask what&#039;s up.  Could be some problem other people have if it&#039;s just happening.</ChosenAnswer>
+    <ChosenAnswererId>LbRtgJNiaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268278064</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268793325</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>would be a good idea to reinstall that router</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iae5HmBOaa</UserId>
+            <UserNick>Mike</UserNick>
+            <Date>2010-03-10 19:23:06</Date>
+            <Timestamp>1268277786</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yea, just re-install it.  Look up ur computer to uninstall it then try reinstall it.  
+
+If it still messes up, try call your company and ask what&#039;s up.  Could be some problem other people have if it&#039;s just happening.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>LbRtgJNiaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-10 19:27:44</Date>
+            <Timestamp>1268278064</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I would reinstall the driver for the router, if that doesn&#039;t work contact your ISP and get a new one</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fVvOB85Waa</UserId>
+            <UserNick>Joe</UserNick>
+            <Date>2010-03-10 19:27:59</Date>
+            <Timestamp>1268278079</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yeah...mike you can&#039;t exactly reinstall a router.
+
+move the router to a different spot in the room and try your luck if it still drops then you might have to look for a wireless extender and they&#039;re not cheap...your best luck is to try some routers out until you find the right on that works well enough where you want it. I&#039;ve went through at least 6 last year cause the signal was not reaching far enough. linksys dlink etc..Routers are hit or miss</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>A5Fqu3cSaa</UserId>
+            <UserNick>BIll S</UserNick>
+            <Date>2010-03-10 19:28:33</Date>
+            <Timestamp>1268278113</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The problem here is probably the wire from the wall to the router. I had that problem before it is actually caused by the dryness of the room and the wire, it then causes static electricity and stops the information from going thru the wire. I recommend you to unplug the telephone wire from your router and plug it back after passing your finger over the metallic part of the plug. Good luck!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DZLDXicxaa</UserId>
+            <UserNick>Justin</UserNick>
+            <Date>2010-03-10 19:28:33</Date>
+            <Timestamp>1268278113</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:15:38 PDT 2010 -->

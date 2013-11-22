@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310210359AAnkrbX" type="Answered">
+    <Subject>Question about tabs (Mozilla Firefox)...?</Subject>
+    <Content>http://farm5.static.flickr.com/4054/4424263746_2bf6ef7e53_o.jpg
+
+Looking at the picture, please note that the tab boxed in red is a newly opened one. So how do I, when I press &quot;Open in New Tab&quot; (like in the Yahoo! page visible in the picture), make the tab always go to the end rather than in between?
+</Content>
+    <Date>2010-03-10 21:03:59</Date>
+    <Timestamp>1268283839</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310210359AAnkrbX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lppToa3Saa</UserId>
+    <UserNick>Jasper</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Htx_PKTrAAEB_IFMFA3DB0MB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The tabs used to open like that actually, but the newer Firefox version has changed that feature because it was commonly requested. BUT...
+
+You can fix it so that it goes back to the old way, just add this extension:
+
+https://addons.mozilla.org/en-US/firefox/addon/61766</ChosenAnswer>
+    <ChosenAnswererId>5dHvLsNNaa</ChosenAnswererId>
+    <ChosenAnswererNick>Web Social Mama</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268286202</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268309930</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The tabs used to open like that actually, but the newer Firefox version has changed that feature because it was commonly requested. BUT...
+
+You can fix it so that it goes back to the old way, just add this extension:
+
+https://addons.mozilla.org/en-US/firefox/addon/61766</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5dHvLsNNaa</UserId>
+            <UserNick>Web Social Mama</UserNick>
+            <Date>2010-03-10 21:43:22</Date>
+            <Timestamp>1268286202</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:15:11 PDT 2010 -->

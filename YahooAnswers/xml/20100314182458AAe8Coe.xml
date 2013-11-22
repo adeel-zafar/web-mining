@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314182458AAe8Coe" type="Answered">
+    <Subject>How to delete my hotmail account?</Subject>
+    <Content>Wat are the steps to delete my hotmail account and make sure my name does not appear on my contact&#039;s msn anymore?
+</Content>
+    <Date>2010-03-14 18:24:58</Date>
+    <Timestamp>1268616298</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314182458AAe8Coe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fiH8gD0Jaa</UserId>
+    <UserNick>__A_YAHOO_USER__</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Account settings</ChosenAnswer>
+    <ChosenAnswererId>y7M3jk3daa</ChosenAnswererId>
+    <ChosenAnswererNick>J.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268616354</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268750183</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Account settings</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>y7M3jk3daa</UserId>
+            <UserNick>J.</UserNick>
+            <Date>2010-03-14 18:25:54</Date>
+            <Timestamp>1268616354</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:14 PDT 2010 -->

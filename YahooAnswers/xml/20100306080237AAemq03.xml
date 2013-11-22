@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306080237AAemq03" type="Answered">
+    <Subject>What site should I use for an online journal ?</Subject>
+    <Content>I want to start a personal journal online. Are there any good sites for this ?
+</Content>
+    <Date>2010-03-06 08:02:37</Date>
+    <Timestamp>1267891357</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306080237AAemq03</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DthWUML6aa</UserId>
+    <UserNick>Juniper</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www.blogger.com
+www.wordpress.com</ChosenAnswer>
+    <ChosenAnswererId>AA10149727</ChosenAnswererId>
+    <ChosenAnswererNick>Sunny Sran</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267891667</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268886846</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.blogger.com
+www.wordpress.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10149727</UserId>
+            <UserNick>Sunny Sran</UserNick>
+            <Date>2010-03-06 08:07:47</Date>
+            <Timestamp>1267891667</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>My site I JUST finished today.
+
+www.discreteexpressons.com
+
+Take a look.  I will be promoting it tomorrow so there will be more people soon.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xczVjXdraa</UserId>
+            <UserNick>obrut119</UserNick>
+            <Date>2010-03-08 20:45:28</Date>
+            <Timestamp>1268109928</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:49:19 PDT 2010 -->

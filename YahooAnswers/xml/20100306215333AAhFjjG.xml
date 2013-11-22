@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306215333AAhFjjG" type="Answered">
+    <Subject>Accidentally updated after jailbreak?</Subject>
+    <Content>I accidentally &quot;updated&quot; my ipod touch after i jailbroke it with blackra1n. when i tried to jailbreak it again, it won&#039;t reboot it, and the image of gehot never comes up. how do you jailbreak it again after an update?
+</Content>
+    <Date>2010-03-06 21:53:33</Date>
+    <Timestamp>1267941213</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306215333AAhFjjG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>S2aWwnFnaa</UserId>
+    <UserNick>jamileigh</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You cant. You have to find the previous system installer (I have no idea where) and reinstall the iPod from scratch from that. You cannot use system restore because that is the current system. Then you have to re jailbreak the iPod.</ChosenAnswer>
+    <ChosenAnswererId>T0zuTdQraa</ChosenAnswererId>
+    <ChosenAnswererNick>macdudeosx</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267941494</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268460793</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You cant. You have to find the previous system installer (I have no idea where) and reinstall the iPod from scratch from that. You cannot use system restore because that is the current system. Then you have to re jailbreak the iPod.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>T0zuTdQraa</UserId>
+            <UserNick>macdudeosx</UserNick>
+            <Date>2010-03-06 21:58:14</Date>
+            <Timestamp>1267941494</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>search on google ipod touch ( 2g or 3g) firmware 3.1.2 software. after u did that open itunes an plug ur ipod. then if ur on pc hold shift and click on restore, then choose the firmware u just downloaded. if ur on MAC then hold option instead of shift and press restore. then when it does respte it shud be on firmware 3.1.2. then when u are sucsessful, use blackra1n again</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dMSAFcsEaa</UserId>
+            <UserNick>Jordan G</UserNick>
+            <Date>2010-03-06 22:08:58</Date>
+            <Timestamp>1267942138</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:43:28 PDT 2010 -->

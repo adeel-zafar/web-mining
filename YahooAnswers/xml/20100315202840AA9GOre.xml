@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315202840AA9GOre" type="Answered">
+    <Subject>Firefox pages not loading?</Subject>
+    <Content>I do some surveys online and sometimes if i click to go to the next page, it will load for about 30 seconds, and then the page will come up saying connection timed out or page not responding, then i click back, and then itll work, what can be the problem? I have ccleaner and delete cache and temp. internet files often, firefox is allowed through my firewall, any ideas? all help is appreciated!
+</Content>
+    <Date>2010-03-15 20:28:40</Date>
+    <Timestamp>1268710120</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315202840AA9GOre</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lCNcHHqKaa</UserId>
+    <UserNick>amir</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It might be your internet connection and not the Firefox Browser. That used to happen to me until I made several changes. I, too, have CCleaner and one of the changes I made was to stop deleting the Internet Cache, Internet History, Compact Databases and everything else under Firefox. I don&#039;t know but hopefully you solve that annoying problem.
+
+-Update-
+One temporary fix I made was to refresh the page and if that didn&#039;t work then I would go back and retry the link.</ChosenAnswer>
+    <ChosenAnswererId>Jx9ePq4Baa</ChosenAnswererId>
+    <ChosenAnswererNick>Hugo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268710360</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269229531</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sounds like the server is timing out. It doesn&#039;t sound like the problem is on your end at all. When you time out then click the back button, you are sending out another HTTP request and with a little luck the new request goes through without a hitch. SO don&#039;t worry, the problem is very probably the server and not you.</Content>
+            <Reference>13 years networking</Reference>
+            <Best></Best>
+            <UserId>UalLjhfMaa</UserId>
+            <UserNick>Paul</UserNick>
+            <Date>2010-03-15 20:31:58</Date>
+            <Timestamp>1268710318</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It might be your internet connection and not the Firefox Browser. That used to happen to me until I made several changes. I, too, have CCleaner and one of the changes I made was to stop deleting the Internet Cache, Internet History, Compact Databases and everything else under Firefox. I don&#039;t know but hopefully you solve that annoying problem.
+
+-Update-
+One temporary fix I made was to refresh the page and if that didn&#039;t work then I would go back and retry the link.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Jx9ePq4Baa</UserId>
+            <UserNick>Hugo</UserNick>
+            <Date>2010-03-15 20:32:40</Date>
+            <Timestamp>1268710360</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:33 PDT 2010 -->

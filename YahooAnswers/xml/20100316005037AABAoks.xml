@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316005037AABAoks" type="Answered">
+    <Subject>What is wrong with Piratebay?</Subject>
+    <Content>The torrents have not updated since the 14th. Anyone know why?
+</Content>
+    <Date>2010-03-16 00:50:37</Date>
+    <Timestamp>1268725837</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316005037AABAoks</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rncNptBmaa</UserId>
+    <UserNick>kenny_mphmphmph</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i *ahem* wouldnt know that, i dont *ahem* use piratebay ¬_¬</ChosenAnswer>
+    <ChosenAnswererId>OOlZSSBnaa</ChosenAnswererId>
+    <ChosenAnswererNick>username pending</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268726559</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268810430</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i *ahem* wouldnt know that, i dont *ahem* use piratebay ¬_¬</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>OOlZSSBnaa</UserId>
+            <UserNick>username pending</UserNick>
+            <Date>2010-03-16 01:02:39</Date>
+            <Timestamp>1268726559</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>We really dont know what happened to piratebay. Actually you can ask them. You can email them.</Content>
+            <Reference>http://www.t1everywhere.com/</Reference>
+            <Best></Best>
+            <UserId>uzJYpkwCaa</UserId>
+            <UserNick>bobmacans</UserNick>
+            <Date>2010-03-16 01:47:24</Date>
+            <Timestamp>1268729244</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:50:40 PDT 2010 -->

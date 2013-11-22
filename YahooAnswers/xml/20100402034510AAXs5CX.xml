@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402034510AAXs5CX" type="Answered">
+    <Subject>Problems with my internet connection....? [details inside]?</Subject>
+    <Content>I think I have a virus that is affecting my internet connection on the other computer. I open the Internet Explorer but it only shows a blank page, the status bar shows &#039;Done&#039; and nothing shows up. I cant understand why this is happening, I checked the settings from the Control Panel and everything seems fine.
+
+
+What should I do?
+</Content>
+    <Date>2010-04-02 03:45:10</Date>
+    <Timestamp>1270205110</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402034510AAXs5CX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ro1CnpXYaa</UserId>
+    <UserNick>נσкєя&#039;ѕ вαвє ♥</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb5f9d1i1f04zws112ac4/TdOBcV0mc6.BCJfipLY-/12/tn48.jpeg?ciAAToMBGU02p.rd</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it only means that your homepage is set to blank (blank page). you can change it in Tools menu, click Internet Options.</ChosenAnswer>
+    <ChosenAnswererId>eQKE1R4Vaa</ChosenAnswererId>
+    <ChosenAnswererNick>ViVre</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270205551</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270224486</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it only means that your homepage is set to blank (blank page). you can change it in Tools menu, click Internet Options.</Content>
+            <Reference>http://www.microsoft.com/windows/ie/ie6/using/howto/customizing/prsonalizehmpg.mspx</Reference>
+            <Best>1</Best>
+            <UserId>eQKE1R4Vaa</UserId>
+            <UserNick>ViVre</UserNick>
+            <Date>2010-04-02 03:52:31</Date>
+            <Timestamp>1270205551</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:37 PDT 2010 -->

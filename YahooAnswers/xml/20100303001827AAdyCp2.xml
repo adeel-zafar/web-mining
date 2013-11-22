@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303001827AAdyCp2" type="Answered">
+    <Subject>What shal I do with OUTLOOK EXPRESS and e-mail address?</Subject>
+    <Content>Now I have an Internet provider for the e-mail service and to surf the Net, and a separate subscription to a telephone company just for the telephone connection (voice and fax). 
+In a few weeks I&#039;ll subscribe to a new Internet provider and telephone company which will provide BOTH the telephone connection and the Internet services. 
+When I switch to the new provider (telephone and Internet/e-mail services)  what will happen to OUTLOOK EXPRESS? I suppose the old e-mail address will be immediately deleted and lost forever, the very moment the connection to the previous provider is closed and the new one starts.
+And I imagine I&#039;ll have to tell everyone that my old address is no longer existing and that they should use the new address (the one the new provider will give me) to send me their mail. 
+Am I right? Or is there anything else I should do with OUTLOOK EXPRESS in this case in order not to lose any e-mails? 
+Thanks for your kind help. :)
+Thanks YECT... that&#039;s what I thought and I&#039;m glad you confirmed it. I&#039;ll do what you suggested, thanks so much. :)
+Thanks JIM for further explanation.
+Thank you James for the extra information provided.
+</Content>
+    <Date>2010-03-03 00:18:27</Date>
+    <Timestamp>1267604307</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303001827AAdyCp2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10739642</UserId>
+    <UserNick>gardengate</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Outlook Express is an email client. Every few minutes or so, it will login to your ISP (internet service provider) and check for new email. If there is new email, it will download this and store it on your computer. The email will be kept on your computer even if the account is no longer accessible. This means all the emails from your old ISP will stay on your computer as you switch to your new ISP.
+
+Do remember to ask your new ISP for email settings before the switch, and if they don&#039;t offer it to you, you might want to consider some of the free webmail (email on the web) services other people provide, like Gmail or Yahoo. They often have more space than what ISP email services offer.
+
+As for the address, yes it will be changed and yes you will have to tell other people your new email address. Once you know your new email address, you might want to send a mass email to people you talk to, that your old one will be deactivated on this date, and to ask them to use your new email address starting that date.
+
+Hope this helps!</ChosenAnswer>
+    <ChosenAnswererId>EhJrgPqPaa</ChosenAnswererId>
+    <ChosenAnswererNick>Yectep</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267605290</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268235662</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Outlook Express is an email client. Every few minutes or so, it will login to your ISP (internet service provider) and check for new email. If there is new email, it will download this and store it on your computer. The email will be kept on your computer even if the account is no longer accessible. This means all the emails from your old ISP will stay on your computer as you switch to your new ISP.
+
+Do remember to ask your new ISP for email settings before the switch, and if they don&#039;t offer it to you, you might want to consider some of the free webmail (email on the web) services other people provide, like Gmail or Yahoo. They often have more space than what ISP email services offer.
+
+As for the address, yes it will be changed and yes you will have to tell other people your new email address. Once you know your new email address, you might want to send a mass email to people you talk to, that your old one will be deactivated on this date, and to ask them to use your new email address starting that date.
+
+Hope this helps!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EhJrgPqPaa</UserId>
+            <UserNick>Yectep</UserNick>
+            <Date>2010-03-03 00:34:50</Date>
+            <Timestamp>1267605290</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes, are right, if you have a different ISP of they have switched you over to a new email system.  give your people the new email address.  outlook express will no longer be used if you are using web mail MAYBE.  however, it is possible in some cases that a POP3 account for your email can be obtained.  
+
+ISP&#039;s often have a corresponding POP3 account for their web mail, so check the tech support(web site or phone, which ever you can do). and work with them to set up your outlook express.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Xrpse3Iaaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-03 00:51:00</Date>
+            <Timestamp>1267606260</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you worry of losing your ISP provided email address then you can use a free webmail account from popular providers. Outlook express is just an email client. You can configure it to be able to check your webmail account for any new emails. That is all it does. Infact, I&#039;ve been using it for my internet fax services and it allows me to receive my faxes.</Content>
+            <Reference>http://en.wikipedia.org/wiki/Internet_fax
+http://unifiedcommunic.livejournal.com/2492.html
+http://www.legaltollfree.com/the-tools/fax.html</Reference>
+            <Best></Best>
+            <UserId>7QkSQjY2aa</UserId>
+            <UserNick>James</UserNick>
+            <Date>2010-03-03 19:54:42</Date>
+            <Timestamp>1267674882</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:20:46 PDT 2010 -->

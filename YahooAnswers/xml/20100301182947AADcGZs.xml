@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301182947AADcGZs" type="Answered">
+    <Subject>Does anyone know how I would download videos from this website? ameblo.jp?</Subject>
+    <Content>Like here&#039;s an example of a video...
+
+http://vision.ameba.jp/watch.do;jsessionid=9355F6946C08648681D5BAA2A5E2877D?movie=888935
+
+Does anyone know how I could download that onto my computer?
+</Content>
+    <Date>2010-03-01 18:29:47</Date>
+    <Timestamp>1267496987</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301182947AADcGZs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Swihlx3Yaa</UserId>
+    <UserNick>Bobby</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try BitRecorder
+http://lmgtfy.com/?q=BitRecorder
+
+or Exactostats for your own website
+http://exactostats.com/?r=ma
+
+Matt</ChosenAnswer>
+    <ChosenAnswererId>hLHLNJKqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Matt in Chicago</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267776626</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268016504</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try BitRecorder
+http://lmgtfy.com/?q=BitRecorder
+
+or Exactostats for your own website
+http://exactostats.com/?r=ma
+
+Matt</Content>
+            <Reference>http://exactostats.com/?r=ma</Reference>
+            <Best>5</Best>
+            <UserId>hLHLNJKqaa</UserId>
+            <UserNick>Matt in Chicago</UserNick>
+            <Date>2010-03-05 00:10:26</Date>
+            <Timestamp>1267776626</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:29:20 PDT 2010 -->

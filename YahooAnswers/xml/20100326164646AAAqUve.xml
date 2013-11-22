@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326164646AAAqUve" type="Answered">
+    <Subject>Do you think this is a good idea- fake internet name?</Subject>
+    <Content>Ok, A friend of mine said that I should use a fake name on the internet like use &quot;Aaron Smith&quot; instead of my real name, and to use that ever where on the net, but someone else said that that might get me in trouble. What do you think?
+</Content>
+    <Date>2010-03-26 16:46:46</Date>
+    <Timestamp>1269647206</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326164646AAAqUve</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9vNY8KXMaa</UserId>
+    <UserNick>Jakob</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1J23rYjIEAAEC_AFtGD70iT-7LA==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Use a fake name, just not a real name. More like a screen name.</ChosenAnswer>
+    <ChosenAnswererId>o0f9bLUDaa</ChosenAnswererId>
+    <ChosenAnswererNick>HammeringOracle</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269647345</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270166692</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use a fake name, just not a real name. More like a screen name.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>o0f9bLUDaa</UserId>
+            <UserNick>HammeringOracle</UserNick>
+            <Date>2010-03-26 16:49:05</Date>
+            <Timestamp>1269647345</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:31 PDT 2010 -->

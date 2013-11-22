@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331201036AAtkuPj" type="Answered">
+    <Subject>When you order something online....?</Subject>
+    <Content>and the &quot;padlock&quot; or Security report shows up, what is it protecting, and how does it ensure the your info isn&#039;t getting stolen. I ordered something not too long ago and I always check for the &quot;padlock&quot;, but someone still got my card number. Does the vender (who I&#039;m ordering from) get that information, or does it go through and transfer fund completely electronically?
+</Content>
+    <Date>2010-03-31 20:10:36</Date>
+    <Timestamp>1270091436</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331201036AAtkuPj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>J3w7DGlTaa</UserId>
+    <UserNick>KStancell</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1vKsuhL2cAAEBkkmOnTO9Cg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The padlock means it&#039;s a secured website.  The vendor could be processing their own information but sometimes they are using a third party to process the transaction.  There are many ways for your credit card number to get taken.  Could be someone at the company, could be a breach in security at the third party processing company.  Could be something that didn&#039;t happen online at all - a skimmer at the gas pump, restaurant or even at an ATM at the bank.  Also, sometimes there are people who just try to use random numbers until they get one that works with a company that doesn&#039;t ask for additional security information.</ChosenAnswer>
+    <ChosenAnswererId>AA11124479</ChosenAnswererId>
+    <ChosenAnswererNick>Sunnny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270092103</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270131481</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The padlock means it&#039;s a secured website.  The vendor could be processing their own information but sometimes they are using a third party to process the transaction.  There are many ways for your credit card number to get taken.  Could be someone at the company, could be a breach in security at the third party processing company.  Could be something that didn&#039;t happen online at all - a skimmer at the gas pump, restaurant or even at an ATM at the bank.  Also, sometimes there are people who just try to use random numbers until they get one that works with a company that doesn&#039;t ask for additional security information.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11124479</UserId>
+            <UserNick>Sunnny</UserNick>
+            <Date>2010-03-31 20:21:43</Date>
+            <Timestamp>1270092103</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:10 PDT 2010 -->

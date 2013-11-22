@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223183043AAQdIP5" type="Answered">
+    <Subject>can somebody please tell me what.....?</Subject>
+    <Content>firewire is lol thanks
+</Content>
+    <Date>2010-02-23 18:30:43</Date>
+    <Timestamp>1266978643</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223183043AAQdIP5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WM7bsnIXaa</UserId>
+    <UserNick>Raven</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>just like usb but much faster 
+mostly found on laptops
+also known as 1394 port / ieee 1394 /  i link</ChosenAnswer>
+    <ChosenAnswererId>mbZCDfSfaa</ChosenAnswererId>
+    <ChosenAnswererNick>Abhi</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266978929</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267498057</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>just like usb but much faster 
+mostly found on laptops
+also known as 1394 port / ieee 1394 /  i link</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mbZCDfSfaa</UserId>
+            <UserNick>Abhi</UserNick>
+            <Date>2010-02-23 18:35:29</Date>
+            <Timestamp>1266978929</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:12 PDT 2010 -->

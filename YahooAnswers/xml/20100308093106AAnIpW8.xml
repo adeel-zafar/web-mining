@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308093106AAnIpW8" type="Answered">
+    <Subject>What would you do with a site that has unlimited webspace, unlimited bandwidth, but no SQL database?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-08 09:31:06</Date>
+    <Timestamp>1268069466</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308093106AAnIpW8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vvrVKjKFaa</UserId>
+    <UserNick>cdux</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1GXT83SagAAEB_GEAE-K7DA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Split it into multiple subdomains, then hire a SQL developer to build a database and offer him his own unlimited access subdomain as compensation.  If you divide infinity by two, you get two infinities.</ChosenAnswer>
+    <ChosenAnswererId>08fa3eb7eeaa460f6dab21b8627e0f82aa</ChosenAnswererId>
+    <ChosenAnswererNick>P.I. Joe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268069721</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268585260</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use it to host my files. That would be the best thing to do. Or make a site that doesn&#039;t use SQL (none of my sites have). What site is that?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>axU2IK6Laa</UserId>
+            <UserNick>Chris</UserNick>
+            <Date>2010-03-08 09:33:04</Date>
+            <Timestamp>1268069584</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Split it into multiple subdomains, then hire a SQL developer to build a database and offer him his own unlimited access subdomain as compensation.  If you divide infinity by two, you get two infinities.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>08fa3eb7eeaa460f6dab21b8627e0f82aa</UserId>
+            <UserNick>P.I. Joe</UserNick>
+            <Date>2010-03-08 09:35:21</Date>
+            <Timestamp>1268069721</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:32:23 PDT 2010 -->

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308204430AABU7h3" type="Answered">
+    <Subject>My Explorer browser is all of a sudden opening all new pages in new windows?</Subject>
+    <Content>It just started doing that little while ago today.  How can I reset it to open pages in the same window?  Can&#039;t find anything in Tools/Internet options.
+Not all new pages...it doesn&#039;t do it within Answers, for example.  But most others...like clicking on a search result or something like that.
+</Content>
+    <Date>2010-03-08 20:44:30</Date>
+    <Timestamp>1268109870</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308204430AABU7h3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Y3LPXeuEaa</UserId>
+    <UserNick>yet-knish!</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a747d5ei486zul5sp1/E4GTyUgjcrXVXIEyG6IOtQ--/7/tn48.jpg?ciAAToMBNXAjmAhf</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Tools. . . Internet Options. . . General Tab . . . .Settings . . . .&quot;open links from other programs in. . .&quot;
+
+options:
+
+1 A new window
+2 A new tab
+3 The current Tab or window  &lt;--------------- I believe this is what you are looking for. :)</ChosenAnswer>
+    <ChosenAnswererId>DICvqXDgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Wesley H 1980</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268110840</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268283626</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Tools. . . Internet Options. . . General Tab . . . .Settings . . . .&quot;open links from other programs in. . .&quot;
+
+options:
+
+1 A new window
+2 A new tab
+3 The current Tab or window  &lt;--------------- I believe this is what you are looking for. :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DICvqXDgaa</UserId>
+            <UserNick>Wesley H 1980</UserNick>
+            <Date>2010-03-08 21:00:40</Date>
+            <Timestamp>1268110840</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:27:51 PDT 2010 -->

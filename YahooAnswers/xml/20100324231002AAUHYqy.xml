@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324231002AAUHYqy" type="Answered">
+    <Subject>Which one of these is not a general web search preference found in common search engines?</Subject>
+    <Content>need a lil help with a question i don&#039;t really understand
+
+here are all the possible answers
+
+number of results 
+help
+search language
+interface language
+</Content>
+    <Date>2010-03-24 23:10:02</Date>
+    <Timestamp>1269497402</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324231002AAUHYqy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>N7SLQegOaa</UserId>
+    <UserNick>gypsy11021983</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ycAut1egAAECHCKc7KM1DA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I cannot understand this question</ChosenAnswer>
+    <ChosenAnswererId>vVh1yZ4uaa</ChosenAnswererId>
+    <ChosenAnswererNick>xeoyiz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269497672</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270016713</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I cannot understand this question</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>vVh1yZ4uaa</UserId>
+            <UserNick>xeoyiz</UserNick>
+            <Date>2010-03-24 23:14:32</Date>
+            <Timestamp>1269497672</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:15 PDT 2010 -->

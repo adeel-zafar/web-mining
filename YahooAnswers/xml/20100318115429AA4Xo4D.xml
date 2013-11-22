@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318115429AA4Xo4D" type="Answered">
+    <Subject>Chat Roulette Flash Problem.?</Subject>
+    <Content>When I try to go on chat roulette, my browser suddenly shuts itself. I&#039;ve tested IE, GC and FF. All 3 browsers don&#039;t work. 
+My computer is definitely capable of running chat roulette. 
+I&#039;ve tryed going on without my webcam attached, no luck. 
+So it is definitely a flash problem. Ive tryed uninstalling/reinstalling flash, but still no luck. Any ideas guys?
+</Content>
+    <Date>2010-03-18 11:54:29</Date>
+    <Timestamp>1268938469</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318115429AA4Xo4D</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>y2247vzqaa</UserId>
+    <UserNick>Jordan L</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49d15473i102fzul6re4/9VH9AQU7dLQ8PVcBV2OTJaDBWheBB1GcQA--/2/tn48.jpg?ciAAToMBGW9qlBOW</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can try Opera.  You can try previous versions of flash player.
+
+And you can try to disable your antivirus, anti-malware, antispyware, firewall temporarily</ChosenAnswer>
+    <ChosenAnswererId>OsgZmgqmaa</ChosenAnswererId>
+    <ChosenAnswererNick>Stream Recorder</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269252421</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269458047</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can try Opera.  You can try previous versions of flash player.
+
+And you can try to disable your antivirus, anti-malware, antispyware, firewall temporarily</Content>
+            <Reference>http://stream-recorder.com/forum/</Reference>
+            <Best>5</Best>
+            <UserId>OsgZmgqmaa</UserId>
+            <UserNick>Stream Recorder</UserNick>
+            <Date>2010-03-22 03:07:01</Date>
+            <Timestamp>1269252421</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:39:41 PDT 2010 -->

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325203414AA1KI37" type="Answered">
+    <Subject>Trouble connecting to my two most frequented websites?</Subject>
+    <Content>I used to go to notdoppler.com and kickasstorrents.com ALL the time. But as of recently when i try to go there it says that a connection to there servers can not be made?? I thought the sites might be down at first but I&#039;ve been to BOTH on other computers since then. I can not find anywhere where anything has block either of them. I have no clue what happened... Any idea what to do??
+</Content>
+    <Date>2010-03-25 20:34:14</Date>
+    <Timestamp>1269574454</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325203414AA1KI37</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xytC9ukTaa</UserId>
+    <UserNick>AlmightyFizzle</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Clear the cache of the browser your in and see if that helps. It always does for me whenever my sites feel slow.
+
+You could also try opening command prompt and typing in &quot;ipconfig /flushdns&quot; without quotes. Worth a shot.</ChosenAnswer>
+    <ChosenAnswererId>RvEQ02RJaa</ChosenAnswererId>
+    <ChosenAnswererNick>digitaliarp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269574684</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270094011</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Clear the cache of the browser your in and see if that helps. It always does for me whenever my sites feel slow.
+
+You could also try opening command prompt and typing in &quot;ipconfig /flushdns&quot; without quotes. Worth a shot.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RvEQ02RJaa</UserId>
+            <UserNick>digitaliarp</UserNick>
+            <Date>2010-03-25 20:38:04</Date>
+            <Timestamp>1269574684</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have no idea dude. But notdoppler.com is a cool web site. I went to it to see if it would work on my comp. to make sure it wasn&#039;t a downed server, and it wasn&#039;t. It works fine on my comp, and I like it, so I think I&#039;ll get back to it.</Content>
+            <Reference>Dunno.. common sence?</Reference>
+            <Best></Best>
+            <UserId>LVNh5MbVaa</UserId>
+            <UserNick>ESPoker</UserNick>
+            <Date>2010-03-25 20:38:51</Date>
+            <Timestamp>1269574731</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:29:12 PDT 2010 -->

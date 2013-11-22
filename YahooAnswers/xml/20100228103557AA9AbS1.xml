@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228103557AA9AbS1" type="Answered">
+    <Subject>Why are there no results from 2009 in the wayback machine?</Subject>
+    <Content>The wayback machine faq says pages are usually added after 6-14 months, but why are there no results from 2009 from any page?
+</Content>
+    <Date>2010-02-28 10:35:57</Date>
+    <Timestamp>1267382157</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228103557AA9AbS1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jzWhwa3Maa</UserId>
+    <UserNick>Laxdeh</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>might got deleted somehow or some way?</ChosenAnswer>
+    <ChosenAnswererId>GZXZl131aa</ChosenAnswererId>
+    <ChosenAnswererNick>mommy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267382339</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267901742</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>might got deleted somehow or some way?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>GZXZl131aa</UserId>
+            <UserNick>mommy</UserNick>
+            <Date>2010-02-28 10:38:59</Date>
+            <Timestamp>1267382339</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:42 PDT 2010 -->

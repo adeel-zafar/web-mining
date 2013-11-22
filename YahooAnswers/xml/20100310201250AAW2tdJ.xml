@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310201250AAW2tdJ" type="Answered">
+    <Subject>I uninstalled Wizard101 and tried to install again it says something about a certificate. what is that?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-10 20:12:50</Date>
+    <Timestamp>1268280770</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310201250AAW2tdJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SwVrkllsaa</UserId>
+    <UserNick>Fernando</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I have never encountered this before...
+first read it so see what it says, if it&#039;s a bunch of junk about rules and regulations,
+just agree and continue
+if it&#039;s talking something else, https://www.wizard101.com/CustomerSupport/game
+
+goodluck ^_~</ChosenAnswer>
+    <ChosenAnswererId>AA10153769</ChosenAnswererId>
+    <ChosenAnswererNick>Perfect Worst Nightmare</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268573988</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268796839</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I have never encountered this before...
+first read it so see what it says, if it&#039;s a bunch of junk about rules and regulations,
+just agree and continue
+if it&#039;s talking something else, https://www.wizard101.com/CustomerSupport/game
+
+goodluck ^_~</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10153769</UserId>
+            <UserNick>Perfect Worst Nightmare</UserNick>
+            <Date>2010-03-14 06:39:48</Date>
+            <Timestamp>1268573988</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:15:18 PDT 2010 -->

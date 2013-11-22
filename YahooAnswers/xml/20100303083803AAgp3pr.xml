@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303083803AAgp3pr" type="Answered">
+    <Subject>Fonts not being shown in IE 8?</Subject>
+    <Content>While using Mozilla Firefox, if a code is used in the page ie : font=&quot;forte&quot; ABC /font it is shown as ABC written in Forte font. But in Internet Explorer 8, no matter what codes are put in, it always shows in Times New Roman. What should I do to see the intended fonts.
+</Content>
+    <Date>2010-03-03 08:38:03</Date>
+    <Timestamp>1267634283</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303083803AAgp3pr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>A9lKAIgxaa</UserId>
+    <UserNick>Drdvl</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Use CSS instead of HTML.</ChosenAnswer>
+    <ChosenAnswererId>AA10758468</ChosenAnswererId>
+    <ChosenAnswererNick>I8AShroom</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267635434</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268153680</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use CSS instead of HTML.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10758468</UserId>
+            <UserNick>I8AShroom</UserNick>
+            <Date>2010-03-03 08:57:14</Date>
+            <Timestamp>1267635434</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:18:48 PDT 2010 -->

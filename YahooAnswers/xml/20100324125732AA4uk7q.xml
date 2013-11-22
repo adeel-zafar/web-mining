@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324125732AA4uk7q" type="Answered">
+    <Subject>Do i have to put spaces in between a credit card number?</Subject>
+    <Content>when i enter it on amazon.
+cause they keep declining my visa debit card :S
+the name and the expiration day are correct...
+</Content>
+    <Date>2010-03-24 12:57:32</Date>
+    <Timestamp>1269460652</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324125732AA4uk7q</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WOPuY5sQaa</UserId>
+    <UserNick>Marta M</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1VC0FhwiBAAEB38SShTJSlkHPKQ==.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No - no spaces!
+
+Systems {anywhere, not just Amazon} will not recognise a credit or debit card number if you put in the spaces. Just write it as one long 16 digit number.</ChosenAnswer>
+    <ChosenAnswererId>NQ37mnWkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Lady Silver Rose * Wolf</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269460755</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269980129</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No - no spaces!
+
+Systems {anywhere, not just Amazon} will not recognise a credit or debit card number if you put in the spaces. Just write it as one long 16 digit number.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NQ37mnWkaa</UserId>
+            <UserNick>Lady Silver Rose * Wolf</UserNick>
+            <Date>2010-03-24 12:59:15</Date>
+            <Timestamp>1269460755</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>no</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-24 12:59:31</Date>
+            <Timestamp>1269460771</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If they give you multiple boxes for your credit card number then the spaces are already added in.  Otherwise you do not have to worry about them.  
+
+Most websites will tell you either &quot;with&quot; or &quot;without&quot; spaces... though some just assume.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YNDAAX3gaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-24 12:59:53</Date>
+            <Timestamp>1269460793</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try it with numbers only, some sites want it that way.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4dweyAOBaa</UserId>
+            <UserNick>.</UserNick>
+            <Date>2010-03-24 13:02:49</Date>
+            <Timestamp>1269460969</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:44 PDT 2010 -->

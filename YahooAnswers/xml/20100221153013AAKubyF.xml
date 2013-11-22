@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221153013AAKubyF" type="Answered">
+    <Subject>Is it possible to have FireFox to boot first...?</Subject>
+    <Content>...so you don&#039;t have to wait for all the other services to set up? Most of time I just want to browse the web, but I have to wait for so many applications to start before browser(FireFox) will launch.
+
+Any ideas, on a xp operating system??
+</Content>
+    <Date>2010-02-21 15:30:13</Date>
+    <Timestamp>1266795013</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221153013AAKubyF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eZ2ALjiMaa</UserId>
+    <UserNick>Scott</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Nope, all the drivers have to load before you can do it.  Two important ones that come to mind are the modem driver and the virus protection to be up and running.</ChosenAnswer>
+    <ChosenAnswererId>m5BppqyQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Karl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266795217</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267113343</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Drag a Firefox shortcut into Startup within the start menu.  That&#039;ll start it as soon as it can.  There are other methods to make it load that process first but they are relatively complex.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gHDcV5fNaa</UserId>
+            <UserNick>Frank</UserNick>
+            <Date>2010-02-21 15:32:37</Date>
+            <Timestamp>1266795157</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nope, all the drivers have to load before you can do it.  Two important ones that come to mind are the modem driver and the virus protection to be up and running.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>m5BppqyQaa</UserId>
+            <UserNick>Karl</UserNick>
+            <Date>2010-02-21 15:33:37</Date>
+            <Timestamp>1266795217</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Like Frank said, put it in your start up menu.  Also you&#039;ll want to disable everything else that starts up.  Depending on your computer, if you have XP go to start, then run or if you have Vista/7 go to the search box and type in msconfig.  It will bring up your system configuration utility and click the start up tab.  Uncheck everything you don&#039;t want to start when your computer starts up.  Click apply and click okay.  Then on your next reboot, only the things you really want to start up, will start up.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>82a9d69fbfb5a8bef67530b1a633a1aeaa</UserId>
+            <UserNick>Kat</UserNick>
+            <Date>2010-02-21 15:36:06</Date>
+            <Timestamp>1266795366</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:33:06 PDT 2010 -->

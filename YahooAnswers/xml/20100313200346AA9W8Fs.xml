@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313200346AA9W8Fs" type="Answered">
+    <Subject>Lockerz&#039;s Shirt Sizes?</Subject>
+    <Content>I got on the z-list and i was wondering if the sizes were adult or children&#039;s it just said:
+S
+M
+L
+XL
+XXL
+
+do they mean adult larger?
+</Content>
+    <Date>2010-03-13 20:03:46</Date>
+    <Timestamp>1268539426</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313200346AA9W8Fs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>c9g2gLV2aa</UserId>
+    <UserNick>Jman dogdude</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1fvneucC_AAAD_MF0WMQZmm4fMw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Adult.</ChosenAnswer>
+    <ChosenAnswererId>nfdBg2gLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Angry Grandma</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268539706</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269055438</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Adult.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nfdBg2gLaa</UserId>
+            <UserNick>Angry Grandma</UserNick>
+            <Date>2010-03-13 20:08:26</Date>
+            <Timestamp>1268539706</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:45 PDT 2010 -->

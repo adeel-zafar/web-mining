@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223041423AABthRb" type="Answered">
+    <Subject>I wanna ask about the Windows Live Hotmail~?</Subject>
+    <Content>i wanna do a block sender in hotmail~
+but i had add the sender in the block sender~
+he/she still can send the email for me~
+
+can any1 help?
+</Content>
+    <Date>2010-02-23 04:14:23</Date>
+    <Timestamp>1266927263</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223041423AABthRb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0Oggmvhnaa</UserId>
+    <UserNick>ZeRo86</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>When making the change in your settings, you have to click Save.
+
+Another alternative: if you receive any more mail from that person, select it &amp; click the Spam button
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267257576</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267446802</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>When making the change in your settings, you have to click Save.
+
+Another alternative: if you receive any more mail from that person, select it &amp; click the Spam button
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-02-26 23:59:36</Date>
+            <Timestamp>1267257576</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:23:01 PDT 2010 -->

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222211632AA63UgE" type="Answered">
+    <Subject>Does every computer has it&#039;s own IP address or does every net connection has its own IP address?</Subject>
+    <Content>1) I want to know if every different computer has its own IP address or does every internet connection has its own IP address? For example, if we are 3 people using same internet connection at home, will the three computers have the same IP address?
+
+2) Does the IP address change from internet connection to another one?
+
+Thanks
+</Content>
+    <Date>2010-02-22 21:16:32</Date>
+    <Timestamp>1266902192</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222211632AA63UgE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>57N9epj8aa</UserId>
+    <UserNick>Reem1204</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Both.  Every computer has it&#039;s own IP on the local network, and the net connection has an IP that it shows to the internet at large.
+
+To check the local IP (Windows): Start &gt; Run &gt; Type &quot;cmd&quot; &gt; OK.
+Type &quot;ipconfig&quot; (no quotes) &gt; Press enter.
+
+To check the net connection&#039;s IP:  Visit http://www.ip-adress.com/</ChosenAnswer>
+    <ChosenAnswererId>f8f06ff9fca48b1a62ebc8b7833b7976aa</ChosenAnswererId>
+    <ChosenAnswererNick>Steven שמואל</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266902555</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267421739</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>dont know</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>b4HfE9Uoaa</UserId>
+            <UserNick>Joe</UserNick>
+            <Date>2010-02-22 21:17:25</Date>
+            <Timestamp>1266902245</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Both.  Every computer has it&#039;s own IP on the local network, and the net connection has an IP that it shows to the internet at large.
+
+To check the local IP (Windows): Start &gt; Run &gt; Type &quot;cmd&quot; &gt; OK.
+Type &quot;ipconfig&quot; (no quotes) &gt; Press enter.
+
+To check the net connection&#039;s IP:  Visit http://www.ip-adress.com/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>f8f06ff9fca48b1a62ebc8b7833b7976aa</UserId>
+            <UserNick>Steven שמואל</UserNick>
+            <Date>2010-02-22 21:22:35</Date>
+            <Timestamp>1266902555</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That&#039;s a good question!  The answer is that your computer does NOT have an IP address, but your internet connection does..Computers on a network would use subnets of your main domain.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FiQaglM5aa</UserId>
+            <UserNick>Lisa</UserNick>
+            <Date>2010-02-22 21:24:29</Date>
+            <Timestamp>1266902669</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The answer is yes.
+
+Your internet connection as a whole has an IP address. You can get this by going to http://www.ipchicken.com
+
+In addition, your router assigns &quot;internal&quot; IPs to each computer that it sends data to. These are called your IPv4 Address and almost always start with 192.168.x.xx
+
+Also, your router has it&#039;s own address which is called your Default Gateway. If you put your Gateway address into your web browser, it will open up your router settings menu.
+
+You can find your internal number by opening your command prompt and typing in IPconfig
+
+(access command prompt by doing start&gt;&gt;Run&gt;&gt;CMD)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>COZGF7bEaa</UserId>
+            <UserNick>Brandon</UserNick>
+            <Date>2010-02-22 21:27:15</Date>
+            <Timestamp>1266902835</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I guest an IP address owned by every single modem, so if there are 3 computers with one modem, its surely have 1 IP adress.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Tl5qklgKaa</UserId>
+            <UserNick>Son of Plunder</UserNick>
+            <Date>2010-02-22 21:32:19</Date>
+            <Timestamp>1266903139</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:24:21 PDT 2010 -->

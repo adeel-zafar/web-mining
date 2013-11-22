@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311122923AAmWrzi" type="Answered">
+    <Subject>Problem with YouTube?</Subject>
+    <Content>I have Opera as my internet browser, and whenever I try to watch videos on YouTube, I get told to download Adobe Flash Player to play the videos, but even though I have installed it, I can&#039;t watch the videos. I don&#039;t want to change browser because my laptop works best with Opera, so is there anything else I can do?
+</Content>
+    <Date>2010-03-11 12:29:23</Date>
+    <Timestamp>1268339363</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311122923AAmWrzi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1iDSGET4aa</UserId>
+    <UserNick>Beccabelle</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b3251b2i10ebzul7re4/OBILh_gjdqJL3XNm7jwrZsxw/4/tn48.jpg?ciAAToMB6arNPRlh</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hope this website helps:
+
+http://www.downloadatoz.com/essentialware/adobe-flash-player/how-to-install-adobe-flash-player-for-opera_g.html</ChosenAnswer>
+    <ChosenAnswererId>131dccd326e0ecdc36ef2bb447e740a0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Tek child</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268339854</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269200216</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hope this website helps:
+
+http://www.downloadatoz.com/essentialware/adobe-flash-player/how-to-install-adobe-flash-player-for-opera_g.html</Content>
+            <Reference>http://www.downloadatoz.com/essentialware/adobe-flash-player/how-to-install-adobe-flash-player-for-opera_g.html</Reference>
+            <Best>5</Best>
+            <UserId>131dccd326e0ecdc36ef2bb447e740a0aa</UserId>
+            <UserNick>Tek child</UserNick>
+            <Date>2010-03-11 12:37:34</Date>
+            <Timestamp>1268339854</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:13:11 PDT 2010 -->

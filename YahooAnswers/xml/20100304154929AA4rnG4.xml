@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304154929AA4rnG4" type="Answered">
+    <Subject>Why does Formspring.me suck so bad?</Subject>
+    <Content>EVERY time I go on there, there is always something wrong!
+The search doesn&#039;t work, I can&#039;t log in, questions won&#039;t show up, I can&#039;t ask questions, ect.
+The person who made this website really has to work on it and check up on it, cause it&#039;s really annoying!
+Don&#039;t you think?
+</Content>
+    <Date>2010-03-04 15:49:29</Date>
+    <Timestamp>1267746569</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304154929AA4rnG4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8ez7KnG7aa</UserId>
+    <UserNick>Brooke</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I know it freakin sucks I cant search ppl! it says theres an error proccessing. These ppl need to get their crap together for this website</ChosenAnswer>
+    <ChosenAnswererId>UkPdhNkraa</ChosenAnswererId>
+    <ChosenAnswererNick>Molly A</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267829621</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267830816</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I know it freakin sucks I cant search ppl! it says theres an error proccessing. These ppl need to get their crap together for this website</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UkPdhNkraa</UserId>
+            <UserNick>Molly A</UserNick>
+            <Date>2010-03-05 14:53:41</Date>
+            <Timestamp>1267829621</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:09:13 PDT 2010 -->

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323212513AAoLW8q" type="Answered">
+    <Subject>How can I get internet explorer to work again?</Subject>
+    <Content>I have vista, and I wanted to try something new so I downloaded Opera internet browser, however, once I did that, it somehow stopped Internet explorer from working. I have re-downloaded it and it still wont work. It just says &quot;Internet explorer cannot display the webpage&quot; and this is for every webpage, it is not something wrong with my connection, it works fine with opera, just not IE
+I have already tried making IE my default again, and that did not work, and also, I am afraid that if I delete opera as my browser, then I will have no browser at all lol
+</Content>
+    <Date>2010-03-23 21:25:13</Date>
+    <Timestamp>1269404713</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323212513AAoLW8q</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>swlW7g8laa</UserId>
+    <UserNick>Shawn M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/18S372vYqAAEC_OFUbCTDd_wmI32sjwMV.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Open your IE. Click on Tools &gt; Internet Options &gt; Connections &gt; LAN Settings. Make sure that there is nothing on the Proxy Server.
+
+See if it works now.</ChosenAnswer>
+    <ChosenAnswererId>TJDklEwtaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bill M.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269410630</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270285360</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No offense but IE sucks anyway, Opera is a good browser, but you should try out Firefox and Google Chrome just to see what works best for you. If you decide that IE is still best, perhaps all you have to do is set it as your default browser again or un-install Opera. I&#039;m not entirely sure why that is happening though.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wCZ7LvuIaa</UserId>
+            <UserNick>DarkStar</UserNick>
+            <Date>2010-03-23 21:29:16</Date>
+            <Timestamp>1269404956</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This may work for you
+
+Methods to follow for Internet Explorer 7 or Internet Explorer 8
+Method 1: Reset the Internet Explorer settings
+If you have Internet Explorer 7 or Internet Explorer 8 installed, you can repair damaged files or missing registration information in Internet Explorer 7 or in Internet Explorer 8. To do this, follow these steps:
+Start Internet Explorer.
+On the Tools menu, click Internet Options.
+On the Advanced tab, click Reset.
+In the Reset Internet Explorer Settings dialog box, click Reset to confirm</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>sYmPIbgZaa</UserId>
+            <UserNick>COREY</UserNick>
+            <Date>2010-03-23 21:34:30</Date>
+            <Timestamp>1269405270</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Open your IE. Click on Tools &gt; Internet Options &gt; Connections &gt; LAN Settings. Make sure that there is nothing on the Proxy Server.
+
+See if it works now.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TJDklEwtaa</UserId>
+            <UserNick>Bill M.</UserNick>
+            <Date>2010-03-23 23:03:50</Date>
+            <Timestamp>1269410630</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:16:41 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303174143AAtLMfi" type="Answered">
+    <Subject>What does it mean when streaming audio is 128k, 64 or 96k?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-03 17:41:43</Date>
+    <Timestamp>1267666903</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303174143AAtLMfi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>793847d39c8e3014f8417e1327f5de95aa</UserId>
+    <UserNick>SOL212</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1fxglFvtsAAEErKKcqCTDdxkB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>That is the quality of the audio.  That means that there is 128 kilobytes per second.  The higher the number, the higher quality music.</ChosenAnswer>
+    <ChosenAnswererId>be7d60fa670176434f2038aa34eb2053aa</ChosenAnswererId>
+    <ChosenAnswererNick>maceronie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267667050</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268963695</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>That is the quality of the audio.  That means that there is 128 kilobytes per second.  The higher the number, the higher quality music.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>be7d60fa670176434f2038aa34eb2053aa</UserId>
+            <UserNick>maceronie</UserNick>
+            <Date>2010-03-03 17:44:10</Date>
+            <Timestamp>1267667050</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:14:53 PDT 2010 -->

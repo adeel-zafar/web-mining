@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304125204AAKwz0S" type="Answered">
+    <Subject>I keep getting IE errors such as object expected and object doesn&#039;t support this property or method.?</Subject>
+    <Content>It was recommended that I reinstall IE. My question was do I uninstall first and then reinstall. I am very new at this. Thanks for any help. I only show IE8 in my add/cancel screen.
+</Content>
+    <Date>2010-03-04 12:52:04</Date>
+    <Timestamp>1267735924</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304125204AAKwz0S</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tp0bbpdmaa</UserId>
+    <UserNick>Kell</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I took care of this problem several years ago. I dropped IE and went with Mozilla Firefox. It is so much better than IE, no crashes, great updates, good spam control, excellent pop-up window control and lots of ways to personalize. Or you could try Google Chrome, it is pretty good too.</ChosenAnswer>
+    <ChosenAnswererId>DDGomM6Kaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chef Mark</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267736142</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267751431</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I took care of this problem several years ago. I dropped IE and went with Mozilla Firefox. It is so much better than IE, no crashes, great updates, good spam control, excellent pop-up window control and lots of ways to personalize. Or you could try Google Chrome, it is pretty good too.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>DDGomM6Kaa</UserId>
+            <UserNick>Chef Mark</UserNick>
+            <Date>2010-03-04 12:55:42</Date>
+            <Timestamp>1267736142</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>disable error reporting in the advanced tab of internet properties, it is enabled by default but is only useful for programmers and web developers, but it does show how badly constructed most web pages are</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-04 14:34:45</Date>
+            <Timestamp>1267742085</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:10:28 PDT 2010 -->

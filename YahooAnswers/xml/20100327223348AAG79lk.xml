@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327223348AAG79lk" type="Answered">
+    <Subject>does chatroulette use a lot of internet?</Subject>
+    <Content>just wondering how much internet it eats up.
+</Content>
+    <Date>2010-03-27 22:33:48</Date>
+    <Timestamp>1269754428</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327223348AAG79lk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Btc8DOrvaa</UserId>
+    <UserNick>andthen09</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1DJGkdA6uAAECQWEo8AceAQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Internet is a renewable resource so I&#039;m sure we have nothing to worry about...ha
+
+Really, do you mean the bandwidth it takes? Because it has video, you&#039;ll probably want more than dial-up.</ChosenAnswer>
+    <ChosenAnswererId>iExkmMhraa</ChosenAnswererId>
+    <ChosenAnswererNick>Paul</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269754792</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270274024</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Haha..um..what?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11486577</UserId>
+            <UserNick>AndrewL</UserNick>
+            <Date>2010-03-27 22:35:07</Date>
+            <Timestamp>1269754507</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Internet is a renewable resource so I&#039;m sure we have nothing to worry about...ha
+
+Really, do you mean the bandwidth it takes? Because it has video, you&#039;ll probably want more than dial-up.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>iExkmMhraa</UserId>
+            <UserNick>Paul</UserNick>
+            <Date>2010-03-27 22:39:52</Date>
+            <Timestamp>1269754792</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It uses a boat load of internet.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ow35NiQ6aa</UserId>
+            <UserNick>Gordo</UserNick>
+            <Date>2010-03-27 23:55:13</Date>
+            <Timestamp>1269759313</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It uses hardly any bandwidth because it uses the latest adobe flash technology and since it&#039;s a p2p connection the only bandwidth is on initial site connections. There so keeping costs minimal.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NAAHV6whaa</UserId>
+            <UserNick>Brandon M</UserNick>
+            <Date>2010-03-28 10:56:58</Date>
+            <Timestamp>1269799018</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:26 PDT 2010 -->

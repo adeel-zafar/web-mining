@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305155247AA3c7Zf" type="Answered">
+    <Subject>How do I bridge my internet connection?</Subject>
+    <Content>When i click bridge connection it always says &quot;you must select at least two lan or high speed internet connections that are not used by internet connection sharing&quot;? So what does that mean?
+</Content>
+    <Date>2010-03-05 15:52:47</Date>
+    <Timestamp>1267833167</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305155247AA3c7Zf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rkFu4OVpaa</UserId>
+    <UserNick>恮怎怈恧恹怿恌</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you have more than one network connection, you can combine the two and end up with a faster connection. In theory, that is. 
+
+In the real world, you would have to pay for two internet connections to make this work, and have two network cards installed in your computer. Paying for two internet connections means two broadband modems in your home. Most ISP&#039;s have a &quot;business class&quot; service available, for less than it costs for two separate internet accounts, and the speeds are usually more than double, and you don&#039;t have to deal with the extra modem and network card, and set up the bridge. 
+
+The only real-world application I have ever used this for is to get a faster connection to my co-workers computer (we both had dual lan cards anyway) to transfer some huge disk image files. He was in the same building, and we still didn&#039;t see a 200% in through put. So the usefulness of this feature is dubious at best.</ChosenAnswer>
+    <ChosenAnswererId>6axHqJymaa</ChosenAnswererId>
+    <ChosenAnswererNick>John ³</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267833822</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268352803</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you have more than one network connection, you can combine the two and end up with a faster connection. In theory, that is. 
+
+In the real world, you would have to pay for two internet connections to make this work, and have two network cards installed in your computer. Paying for two internet connections means two broadband modems in your home. Most ISP&#039;s have a &quot;business class&quot; service available, for less than it costs for two separate internet accounts, and the speeds are usually more than double, and you don&#039;t have to deal with the extra modem and network card, and set up the bridge. 
+
+The only real-world application I have ever used this for is to get a faster connection to my co-workers computer (we both had dual lan cards anyway) to transfer some huge disk image files. He was in the same building, and we still didn&#039;t see a 200% in through put. So the usefulness of this feature is dubious at best.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6axHqJymaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-05 16:03:42</Date>
+            <Timestamp>1267833822</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:54:50 PDT 2010 -->

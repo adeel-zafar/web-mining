@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303215458AAYhO5e" type="Answered">
+    <Subject>How do I acces the password, to connect to my Internet network?</Subject>
+    <Content>I forgot the password to connect to my network, I haven&#039;t the slightest idea of what to do.
+Im trying to wirelessly connect to my home network with a portable device, Its a secured network so I need a password, I lost the password, and was wondering is there any way of retriving it, like is it stored in a file on my computer or what?
+There is none of which you just stated on my computer, Im not sure if we have different windows programs or what, but I didnt see a single bit of any of that.
+</Content>
+    <Date>2010-03-03 21:54:58</Date>
+    <Timestamp>1267682098</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303215458AAYhO5e</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2G1vKuZAaa</UserId>
+    <UserNick>Necrotic</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a5d6deci1ce6zul6sp1/MIJVVew8YqMxfPXRp_9ZuSwXWjw-/2/tn48.jpg?ciAAToMBaXXACa1b</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you are trying to get into your internet network then you need to go into go to forgot your password icon on your computer. it should be located in the at the main page or if it&#039;s not, go to the Control Panel at in your computer. and click on &quot;Internet Options&quot; ,  then go in there and find your options panel, and got to add accounts your page should be in there.
+ or, 
+
+Go to the tools icon on your web page, and click on options there, then click on saved passwords. that&#039;s where your computer save all of the passwords that you allow it to. if it is not there, click on reset passwords, and start all over. if these two don&#039;t work, then call your customer service.</ChosenAnswer>
+    <ChosenAnswererId>3RJH0EgMaa</ChosenAnswererId>
+    <ChosenAnswererNick>MARQUITA J</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267683795</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268201626</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>call your Internet provider to rest the password</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XUxVSwgsaa</UserId>
+            <UserNick>Amanda</UserNick>
+            <Date>2010-03-03 22:10:52</Date>
+            <Timestamp>1267683052</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you are trying to get into your internet network then you need to go into go to forgot your password icon on your computer. it should be located in the at the main page or if it&#039;s not, go to the Control Panel at in your computer. and click on &quot;Internet Options&quot; ,  then go in there and find your options panel, and got to add accounts your page should be in there.
+ or, 
+
+Go to the tools icon on your web page, and click on options there, then click on saved passwords. that&#039;s where your computer save all of the passwords that you allow it to. if it is not there, click on reset passwords, and start all over. if these two don&#039;t work, then call your customer service.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3RJH0EgMaa</UserId>
+            <UserNick>MARQUITA J</UserNick>
+            <Date>2010-03-03 22:23:15</Date>
+            <Timestamp>1267683795</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:13:16 PDT 2010 -->

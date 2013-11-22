@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401211505AAvkN3B" type="Answered">
+    <Subject>What is the name of a website where people are actively posting songs?</Subject>
+    <Content>Sometime last year, I discovered a website in which people are constantly posting songs, like their favorite songs or just songs they&#039;re interested in. I believe it was live or actively being done. In other words, the web-page was constantly being reloaded with songs that people were actively posting. I vaguely remember you can create a profile, and like i said post songs. It seemed like a mix of social networking with music and internet radio. 
+
+I cannot remember much else. Thank you very much for any feedback.
+</Content>
+    <Date>2010-04-01 21:15:05</Date>
+    <Timestamp>1270181705</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401211505AAvkN3B</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sGhRR3swaa</UserId>
+    <UserNick>ari92102</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1nR-DTi0fAAECI4JKHJBuIu8wHg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>imeem.com, myprojectplaylist.com</ChosenAnswer>
+    <ChosenAnswererId>xcW4FDAqaa</ChosenAnswererId>
+    <ChosenAnswererNick>jadeey</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270182119</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270224425</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>imeem.com, myprojectplaylist.com</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>xcW4FDAqaa</UserId>
+            <UserNick>jadeey</UserNick>
+            <Date>2010-04-01 21:21:59</Date>
+            <Timestamp>1270182119</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>jadeey gave you a good answer, here is another one  http://www.soundclick.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PnPsEclpaa</UserId>
+            <UserNick>Factual52</UserNick>
+            <Date>2010-04-01 23:18:13</Date>
+            <Timestamp>1270189093</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:51 PDT 2010 -->

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303010054AAP8Maj" type="Answered">
+    <Subject>Which is the best Cable internet connection in Mumbai ?</Subject>
+    <Content>What are the tariff plans for the same.
+And what type of speed it provides ?
+</Content>
+    <Date>2010-03-03 01:00:54</Date>
+    <Timestamp>1267606854</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303010054AAP8Maj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>YEy9LHo1aa</UserId>
+    <UserNick>sushil p</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1dTAyw2EVAAEC_IFHMDNrBg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can search in the internet, maybe there is. Try Google</ChosenAnswer>
+    <ChosenAnswererId>uzJYpkwCaa</ChosenAnswererId>
+    <ChosenAnswererNick>bobmacans</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267609089</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268126009</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I am in Kerala.How do i know it?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tpQsr9oaaa</UserId>
+            <UserNick>Prasu</UserNick>
+            <Date>2010-03-03 01:05:07</Date>
+            <Timestamp>1267607107</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can search in the internet, maybe there is. Try Google</Content>
+            <Reference>http://www.t1everywhere.com/</Reference>
+            <Best>5</Best>
+            <UserId>uzJYpkwCaa</UserId>
+            <UserNick>bobmacans</UserNick>
+            <Date>2010-03-03 01:38:09</Date>
+            <Timestamp>1267609089</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>its definitely..hathway..in case of cable internet in mumbai no  other option than hathway..
+gives good service ..speed is also great....</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WgSbrEnAaa</UserId>
+            <UserNick>omkar a</UserNick>
+            <Date>2010-03-03 02:08:17</Date>
+            <Timestamp>1267610897</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:20:26 PDT 2010 -->

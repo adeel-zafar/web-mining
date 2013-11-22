@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328055603AAVHfN5" type="Answered">
+    <Subject>How do I delete my browsing history from the address bar?</Subject>
+    <Content>I have IE8.I tried going to the internet options and deleting the browsing history and my browsing history did get deleted from the history tab from the favorites button, but the websites that I&#039;ve visited are still showing when I click on the drop down arrow on the address tab. I then tried restarting my computer, but they were still there. Can someone please tell me how to delete them??
+</Content>
+    <Date>2010-03-28 05:56:03</Date>
+    <Timestamp>1269780963</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328055603AAVHfN5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tDXA2e47aa</UserId>
+    <UserNick>Life_Sucks</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1dTbKrSkUAAEC-GHR3coNCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to tools&gt;delete browsing history (or Ctrl+shift+delete) check ALL boxes EXCEPT the top one. That should do it. You may have to restart all internet explorers for it to take effect.</ChosenAnswer>
+    <ChosenAnswererId>txO5VY27aa</ChosenAnswererId>
+    <ChosenAnswererNick>Nate the Great</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269781236</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269797929</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to tools&gt;delete browsing history (or Ctrl+shift+delete) check ALL boxes EXCEPT the top one. That should do it. You may have to restart all internet explorers for it to take effect.</Content>
+            <Reference>experience</Reference>
+            <Best>5</Best>
+            <UserId>txO5VY27aa</UserId>
+            <UserNick>Nate the Great</UserNick>
+            <Date>2010-03-28 06:00:36</Date>
+            <Timestamp>1269781236</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>press ctrl+shift+delete it works on mozilla and chrome i dont know about IE8 but try it out</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PRIXy6QFaa</UserId>
+            <UserNick>Jamal</UserNick>
+            <Date>2010-03-28 06:03:02</Date>
+            <Timestamp>1269781382</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:19:58 PDT 2010 -->

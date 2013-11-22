@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324181755AAWhvxf" type="Answered">
+    <Subject>How to get questions to appear in formspring ?</Subject>
+    <Content>How do you publish the questions you answer? I answered questions but they dont appear on my profile.
+</Content>
+    <Date>2010-03-24 18:17:55</Date>
+    <Timestamp>1269479875</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324181755AAWhvxf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>w7UqoVM0aa</UserId>
+    <UserNick>Lilqwert</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i have no clue. i just answered questions &amp; they won&#039;t show up. I even asked myself a question to see if it&#039;ll show but it won&#039;t. idkk what&#039;s going on with it.</ChosenAnswer>
+    <ChosenAnswererId>70G6dsmDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Brianna</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269480659</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269999350</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i have no clue. i just answered questions &amp; they won&#039;t show up. I even asked myself a question to see if it&#039;ll show but it won&#039;t. idkk what&#039;s going on with it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>70G6dsmDaa</UserId>
+            <UserNick>Brianna</UserNick>
+            <Date>2010-03-24 18:30:59</Date>
+            <Timestamp>1269480659</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>They will appear, but it takes a while.
+Formspring has been having this problem lately. They used to appear immediately.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Yz1pzloSaa</UserId>
+            <UserNick>Adri</UserNick>
+            <Date>2010-03-28 17:38:25</Date>
+            <Timestamp>1269823105</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:33:25 PDT 2010 -->

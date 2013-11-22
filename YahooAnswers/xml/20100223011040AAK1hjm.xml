@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223011040AAK1hjm" type="Answered">
+    <Subject>What size cache should I use for Internet Explorer?</Subject>
+    <Content>Windows XP Professional. Service Pack 3. 80 GB hard disk. Intel Pentium III, Clock Speed 500 MHz 512 MB of RAM with no room for more without replacing the motherboard. Microsoft Internet Explorer 6.0 at the moment.
+At the moment it is set to cache 1000 MB on the hard disk. I think that this is too big for optimum speed.
+</Content>
+    <Date>2010-02-23 01:10:40</Date>
+    <Timestamp>1266916240</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223011040AAK1hjm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0f0273fbf70f94b8b06769fa303071c9aa</UserId>
+    <UserNick>Sciman</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>load IE 8 and set the browsing history to 350mByte
+
+
+IE8
+If you haven’t got IE8, download it from filehippo.com.  Select the correct one to suit XP or Vista/win7. Its as fast and as presentable as Firefox..  When you install IE8 it will automatically uninstall the existing IE, so if you having problems you can try re-installing it, but first try this.
+
+Set up IE/8 so it runs efficiently. (2 minutes)
+
+1. In IE, Click Tools &gt;Internet Options &gt;Advance Tab. Click Restore advance settings defaults button. Then scroll the listings down to near the bottom and select &gt;Tick empty temp files when browser closes (this empties the cache, which if not empty, will stop you from going online and hassles msn)
+2. Ensure only one phishing filter program, and only one firewall program is used on the computer.  Disable others that may be in other software, or disable the browser phishing filter.
+Ie8  - to disable the phishing filter click Tools &gt; scroll down to SmartScreen filter and disable it.  (leave it on is preferred) SmartScreen filter will stop malicious code from being installed to your computer, specially through activex, however it may be doubling up with your internet security program so causing your browser to be a little slower.  So either disable it in the browser or disable it in your internet security program.
+3. Then in IE8 click the blue drop arrow near the search icon (top RHS corner) &gt;manage search providers &gt;make the one you want default &gt;then remove all the others listed.  These really slow IE8 so remove them.
+4  Click Tools &gt;manage add ons &gt; accelerators and disable all of them.
+5  Get rid of any toolbars on the menu line.  Place the curser near the top under the address bar and right click.  Tick Menu bar, Status Bar, and Command bar. Untick any other listed.
+6  Then Click Tools &gt;Delete Browser History, cookies, add ons,  the whole lot. Do this regularly. Close the browser to set the settings. 
+
+Reboot and then do a windows express updates until no more updates.  This seems to help IE8.
+
+After you have used IE8 and happy with it, then you can experiment with the accelerators in manage add ons, and also experiment with the selections on the menu bar (5 above)
+
+IE8 has nice coloured tabs and if you see some text you like swipe it and a blue arrow shows, click it and you can select a function. These functions will change as you add accelerators. eg you may add Wiki or a medical site etc.</ChosenAnswer>
+    <ChosenAnswererId>pDxFOekIaa</ChosenAnswererId>
+    <ChosenAnswererNick>chezzrob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266916641</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267174575</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>load IE 8 and set the browsing history to 350mByte
+
+
+IE8
+If you haven’t got IE8, download it from filehippo.com.  Select the correct one to suit XP or Vista/win7. Its as fast and as presentable as Firefox..  When you install IE8 it will automatically uninstall the existing IE, so if you having problems you can try re-installing it, but first try this.
+
+Set up IE/8 so it runs efficiently. (2 minutes)
+
+1. In IE, Click Tools &gt;Internet Options &gt;Advance Tab. Click Restore advance settings defaults button. Then scroll the listings down to near the bottom and select &gt;Tick empty temp files when browser closes (this empties the cache, which if not empty, will stop you from going online and hassles msn)
+2. Ensure only one phishing filter program, and only one firewall program is used on the computer.  Disable others that may be in other software, or disable the browser phishing filter.
+Ie8  - to disable the phishing filter click Tools &gt; scroll down to SmartScreen filter and disable it.  (leave it on is preferred) SmartScreen filter will stop malicious code from being installed to your computer, specially through activex, however it may be doubling up with your internet security program so causing your browser to be a little slower.  So either disable it in the browser or disable it in your internet security program.
+3. Then in IE8 click the blue drop arrow near the search icon (top RHS corner) &gt;manage search providers &gt;make the one you want default &gt;then remove all the others listed.  These really slow IE8 so remove them.
+4  Click Tools &gt;manage add ons &gt; accelerators and disable all of them.
+5  Get rid of any toolbars on the menu line.  Place the curser near the top under the address bar and right click.  Tick Menu bar, Status Bar, and Command bar. Untick any other listed.
+6  Then Click Tools &gt;Delete Browser History, cookies, add ons,  the whole lot. Do this regularly. Close the browser to set the settings. 
+
+Reboot and then do a windows express updates until no more updates.  This seems to help IE8.
+
+After you have used IE8 and happy with it, then you can experiment with the accelerators in manage add ons, and also experiment with the selections on the menu bar (5 above)
+
+IE8 has nice coloured tabs and if you see some text you like swipe it and a blue arrow shows, click it and you can select a function. These functions will change as you add accelerators. eg you may add Wiki or a medical site etc.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>pDxFOekIaa</UserId>
+            <UserNick>chezzrob</UserNick>
+            <Date>2010-02-23 01:17:21</Date>
+            <Timestamp>1266916641</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You in actual fact should be using IE 8 now. If you are still using 6 it&#039;s full of Security holes.
+
+Go to the Microsoft Update site and upgrade to IE 8. Your computer/laptop will be properly configured for it and you will also get the latest security updates for it as well.
+
+Don&#039;t download it from anywhere else or you could end up having problems with it. Also you wont get the latest security updates either.
+
+As regards the Cache as I said earlier this will be automatically done when your machine is configured during the upgrade.
+
+Afterwards if you want to check go to Internet Options ► On the first page you will see Browsing History ► Click on Settings ► It will show you two setting parameters ► One will be what the system has allocated and recommended and the other you can set yourself.</Content>
+            <Reference>Experienced1</Reference>
+            <Best></Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-02-23 01:41:47</Date>
+            <Timestamp>1266918107</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Recent test in the link below for browser memory usage (check the Updates June 2009 as he revisits the test with more up-to-date browsers) shows Firefox gives best memory usage.  I run Mozilla Firefox 3.6 on on an Intel P4 512mb RAM, XP Home - I switched from lastest I.E. - &amp; am very pleased with memory usage &amp; speed</Content>
+            <Reference>http://dotnetperls.com/browser-memory</Reference>
+            <Best></Best>
+            <UserId>4e1b677c4f84aeee7cb2753e66e645f6aa</UserId>
+            <UserNick>GzH</UserNick>
+            <Date>2010-02-23 03:03:22</Date>
+            <Timestamp>1266923002</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Chezzrob&#039;s walkthrough is a good one, here is a direct link to download IE8, I also strongly recommend it over IE6.
+
+http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx
+
+Kyler
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0BzipcAfaa</UserId>
+            <UserNick>Kyler_IE8_Team</UserNick>
+            <Date>2010-02-23 13:43:21</Date>
+            <Timestamp>1266961401</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:23:33 PDT 2010 -->

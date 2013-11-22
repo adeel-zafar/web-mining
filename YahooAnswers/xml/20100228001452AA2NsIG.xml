@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228001452AA2NsIG" type="Answered">
+    <Subject>How can I stop firefox tabs going to the end of the tab bar when I close one tab?</Subject>
+    <Content>Whenever I close one tab, it will go to the tab on the end of the tab bar. How can I just make it go to the next tab?
+
+Thanks
+</Content>
+    <Date>2010-02-28 00:14:52</Date>
+    <Timestamp>1267344892</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228001452AA2NsIG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0s7Wbrnqaa</UserId>
+    <UserNick>Deeh</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>tabmixplus</ChosenAnswer>
+    <ChosenAnswererId>tjLNWUtJaa</ChosenAnswererId>
+    <ChosenAnswererNick>untitled too</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267348445</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267432561</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>tabmixplus</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>tjLNWUtJaa</UserId>
+            <UserNick>9th caller for the Nobel Prize</UserNick>
+            <Date>2010-02-28 01:14:05</Date>
+            <Timestamp>1267348445</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:40:24 PDT 2010 -->

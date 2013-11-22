@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223005345AAFC9Ip" type="Answered">
+    <Subject>I Used All My Internet Usage What Can I Do?</Subject>
+    <Content>Its Been Slowed Down Like Really Slow
+What Can I Do To Make It Faster?
+</Content>
+    <Date>2010-02-23 00:53:45</Date>
+    <Timestamp>1266915225</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223005345AAFC9Ip</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pL2V1UGhaa</UserId>
+    <UserNick>EmmanuelDrake</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go to another service provider that doesnt have a cap</ChosenAnswer>
+    <ChosenAnswererId>FDaY1nUEaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mike</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266915348</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267434768</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go to another service provider that doesnt have a cap</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FDaY1nUEaa</UserId>
+            <UserNick>Mike</UserNick>
+            <Date>2010-02-23 00:55:48</Date>
+            <Timestamp>1266915348</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>As i have said in my previous answers for the same question.
+&quot;Wait for this month to pass by.(if you have monthly plan)&quot;
+ 
+                              OR
+
+
+Switch to another service provider that provides unlimited acces.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Evi8jizXaa</UserId>
+            <UserNick>callmecool</UserNick>
+            <Date>2010-02-23 01:09:46</Date>
+            <Timestamp>1266916186</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:23:39 PDT 2010 -->

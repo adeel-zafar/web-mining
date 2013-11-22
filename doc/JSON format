@@ -1,0 +1,12 @@
+// all values are strings
+{
+	id				: Question id
+	type			: Answered/Unanswered
+	subject		:	The Question asked
+	content		: The description of the question
+	date			: Date of posting the question
+	timestamp	: Timestamp when the question was posted
+	userid		: UserID of the questioner
+	usernick	: UserNick of the questioner
+	answer		: Timestamp when the best answer was posted
+}

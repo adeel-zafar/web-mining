@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307165359AAIdTS5" type="Answered">
+    <Subject>ebay shipping question?</Subject>
+    <Content>okay.. I found an item on ebay and it ships out of my own state, and it says free shipping, and so is it actually free, because than you scroll down and it says about international and duty fees?
+</Content>
+    <Date>2010-03-07 16:53:59</Date>
+    <Timestamp>1268009639</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307165359AAIdTS5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6j5qtLjoaa</UserId>
+    <UserNick>madisons mommy</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b8ff65ai5dczws139sp2/hek.61szc7Y8E0ednsttoQ--/23/tn48.jpeg?ciAAToMBMv3vnmyQ</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Duty fees only apply to something being shipped from another country.</ChosenAnswer>
+    <ChosenAnswererId>RCU8qmx0aa</ChosenAnswererId>
+    <ChosenAnswererNick>ValerieB</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268010145</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268184571</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Duty fees only apply to something being shipped from another country.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RCU8qmx0aa</UserId>
+            <UserNick>ValerieB</UserNick>
+            <Date>2010-03-07 17:02:25</Date>
+            <Timestamp>1268010145</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:37:00 PDT 2010 -->

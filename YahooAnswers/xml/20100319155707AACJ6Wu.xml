@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319155707AACJ6Wu" type="Answered">
+    <Subject>What is the difference between administrator and moderator in a website?</Subject>
+    <Content>I have a website and here are the roles:
+Limited Member
+Member
+Administrator 
+Moderator
+
+What is the difference between administrator and moderator?
+</Content>
+    <Date>2010-03-19 15:57:07</Date>
+    <Timestamp>1269039427</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319155707AACJ6Wu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>u5tvpXNgaa</UserId>
+    <UserNick>Smart1</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/13qekzpWqAAEC4QS2mDJtZjU9Nw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Administrators have full access to the website and are able to make any modifications to all members and any content on the website or software that associates an account as an Administrator.
+
+Moderators have less access and are usually only able to moderate some content such as member posts. They are able to delete them and more. Depending on the amount of power given to a Moderator by the Administrator, the Moderator may be able to also ban a member.</ChosenAnswer>
+    <ChosenAnswererId>2abf104abdec816500df87b660810dc7aa</ChosenAnswererId>
+    <ChosenAnswererNick>nachoooOOOOOOOooooooOooooooooooo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269039725</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269221762</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Administrators have full access to the website and are able to make any modifications to all members and any content on the website or software that associates an account as an Administrator.
+
+Moderators have less access and are usually only able to moderate some content such as member posts. They are able to delete them and more. Depending on the amount of power given to a Moderator by the Administrator, the Moderator may be able to also ban a member.</Content>
+            <Reference>-Web Design HTML/PHP/AJAX
+-phpBB, Vbulletin, BurningBoard and countless other bulletin boards under my belt</Reference>
+            <Best>5</Best>
+            <UserId>2abf104abdec816500df87b660810dc7aa</UserId>
+            <UserNick>nachoooOOOOOOOooooooOooooooooooo</UserNick>
+            <Date>2010-03-19 16:02:05</Date>
+            <Timestamp>1269039725</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:30 PDT 2010 -->

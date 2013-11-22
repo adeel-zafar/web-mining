@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310183253AASfOGQ" type="Answered">
+    <Subject>Firefox location bar problem?</Subject>
+    <Content>When I use hte location bar and type something, I used to get searches from my history and bookmarks. Now, I only get certain histories, not all of them. I have already clicked the &quot;history and bookmarks&quot; settings but it still doesn&#039;t work. I have firefox 3.6
+
+Also, when i want to clear histories, i cannot using the &quot;everything&quot; function. Even clearing recent history doesn&#039;t work (yesterday, 1 month).
+</Content>
+    <Date>2010-03-10 18:32:53</Date>
+    <Timestamp>1268274773</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310183253AASfOGQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JXqzUUjUaa</UserId>
+    <UserNick>orz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ask for your money back and sue the president of Firefox.</ChosenAnswer>
+    <ChosenAnswererId>kb8dVx1eaa</ChosenAnswererId>
+    <ChosenAnswererNick>Luthus V</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268274866</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268377641</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Uninstall firefox and then reinstall it. Hopefully that will fix the problem.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>59Ksz7rDaa</UserId>
+            <UserNick>Jason</UserNick>
+            <Date>2010-03-10 18:34:21</Date>
+            <Timestamp>1268274861</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ask for your money back and sue the president of Firefox.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>kb8dVx1eaa</UserId>
+            <UserNick>Luthus V</UserNick>
+            <Date>2010-03-10 18:34:26</Date>
+            <Timestamp>1268274866</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:15:45 PDT 2010 -->

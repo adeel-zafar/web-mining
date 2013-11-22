@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324152020AAJdNtu" type="Answered">
+    <Subject>does any1 know how i can download this bbc video ?</Subject>
+    <Content>http://www.bbc.co.uk/persian/tv/2009/01/000000_ptv_live_s.shtml
+</Content>
+    <Date>2010-03-24 15:20:20</Date>
+    <Timestamp>1269469220</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324152020AAJdNtu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BlXBpbl3aa</UserId>
+    <UserNick>Jacob williams</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, StreamTransport can do it well.
+http://www.streamtransport.com</ChosenAnswer>
+    <ChosenAnswererId>98ofVAMVaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bevin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269658974</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269988674</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, StreamTransport can do it well.
+http://www.streamtransport.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>98ofVAMVaa</UserId>
+            <UserNick>Bevin</UserNick>
+            <Date>2010-03-26 20:02:54</Date>
+            <Timestamp>1269658974</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:08 PDT 2010 -->

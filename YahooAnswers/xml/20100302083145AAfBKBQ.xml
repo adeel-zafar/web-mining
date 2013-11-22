@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302083145AAfBKBQ" type="Answered">
+    <Subject>Help me move a picture.?</Subject>
+    <Content>I can cut &amp; paste copy from one place to another, but i still haven&#039;t figured out
+how to move pictures from one web page and paste it to another.
+Anyone with a simple step-by-step.......Thanks......Pipa
+Using XP Home
+</Content>
+    <Date>2010-03-02 08:31:45</Date>
+    <Timestamp>1267547505</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302083145AAfBKBQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ESreXt7kaa</UserId>
+    <UserNick>Joseph</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>usually the picture will have to be posted on the web. like using a hosting site online (shutterfly) is just one of many. Right click picture, select properties and highlite url, copy, then go to where you want to post it.  I believe this is what your looking for.</ChosenAnswer>
+    <ChosenAnswererId>WtbVmTAsaa</ChosenAnswererId>
+    <ChosenAnswererNick>Geaux4it</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267548356</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267638170</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>usually the picture will have to be posted on the web. like using a hosting site online (shutterfly) is just one of many. Right click picture, select properties and highlite url, copy, then go to where you want to post it.  I believe this is what your looking for.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>WtbVmTAsaa</UserId>
+            <UserNick>Geaux4it</UserNick>
+            <Date>2010-03-02 08:45:56</Date>
+            <Timestamp>1267548356</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:26:36 PDT 2010 -->

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321095959AAgj8w4" type="Answered">
+    <Subject>itunes cannot connect,neither can msn or avg or anything!?</Subject>
+    <Content>every time i try to download itunes or avg or msn or lime wire etc i get  message telling me i have no internet connection, which i obviously have as i can access everything else online i just cant download anything. i have tried doing a system reset, tried disabling the firewall in my laptop and my router, tried clearing the cache tried everything.
+please can someone tell me what to do to fix this. im running vista business, on a toshiba pro Satellite laptop with a virgin modem and netgear router. on broadband.
+i have been trying to fix this for 6 months!
+hi thanks. ihave tried all those previously and they dont work, and as for firefox, i cant download it as i get the not connected to the internet message!
+</Content>
+    <Date>2010-03-21 09:59:59</Date>
+    <Timestamp>1269190799</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321095959AAgj8w4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hQxMP7Ekaa</UserId>
+    <UserNick>rebecca m</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1w3ct3GSxAAQC-IG4cJfVCA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi,
+so this has been happening for the last 6 months ??
+
+please check this :-
+your systems firewall settings
+your admin rights (you are an admin on your system)
+your routers firewall settings
+
+what else !!!!
+
+also scan your system with malwarebytes for mailware
+http://malwarebytes.org/
+
+install firefox and use that to download (look in the update box if it blocks the download)
+are you on an Internal internet system which you have limited rights (works system)
+
+hope this all helps you if you
+
+update :-
+use a friends system to download firefox (use filehippo site) onto a USB flash drive then install it from the flash drive back onto your system
+now when you download a file etc
+look at the bottom left corner status bar
+and find out WHY you are blocked
+
+hope this helps again</ChosenAnswer>
+    <ChosenAnswererId>QZeM4ZUVaa</ChosenAnswererId>
+    <ChosenAnswererNick>William K</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269191632</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269710176</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hi,
+so this has been happening for the last 6 months ??
+
+please check this :-
+your systems firewall settings
+your admin rights (you are an admin on your system)
+your routers firewall settings
+
+what else !!!!
+
+also scan your system with malwarebytes for mailware
+http://malwarebytes.org/
+
+install firefox and use that to download (look in the update box if it blocks the download)
+are you on an Internal internet system which you have limited rights (works system)
+
+hope this all helps you if you
+
+update :-
+use a friends system to download firefox (use filehippo site) onto a USB flash drive then install it from the flash drive back onto your system
+now when you download a file etc
+look at the bottom left corner status bar
+and find out WHY you are blocked
+
+hope this helps again</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>QZeM4ZUVaa</UserId>
+            <UserNick>William K</UserNick>
+            <Date>2010-03-21 10:13:52</Date>
+            <Timestamp>1269191632</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:39 PDT 2010 -->

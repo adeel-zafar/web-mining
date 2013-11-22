@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302212059AAZsBxX" type="Answered">
+    <Subject>Aim people &quot;logged off under a minute ago&quot;?</Subject>
+    <Content>As soon as i go on aim it always lists a handful of my buddies as &quot;logging off under a minute ago&quot; but i know people arent logging off simultaneously as soon as i get on (if they did they would have just blocked me). any idea what causes it or how to get it to stop, i would like to get an accurate gauge on when people get off aim if thats possible
+</Content>
+    <Date>2010-03-02 21:20:59</Date>
+    <Timestamp>1267593659</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302212059AAZsBxX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>917a5eb104936d22fa1a0b1b4efff0e8aa</UserId>
+    <UserNick>stephen11506</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/13pCEhWXJAAAB_KFQeTJld_w8YhoFrfIW.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Its just how AIM works. You have to stay online 24/7 to get real time data</ChosenAnswer>
+    <ChosenAnswererId>XztRfsABaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tory</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268283186</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268697271</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Its just how AIM works. You have to stay online 24/7 to get real time data</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XztRfsABaa</UserId>
+            <UserNick>Tory</UserNick>
+            <Date>2010-03-10 20:53:06</Date>
+            <Timestamp>1268283186</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:21:44 PDT 2010 -->

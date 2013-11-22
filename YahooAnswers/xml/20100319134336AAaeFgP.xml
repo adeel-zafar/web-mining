@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319134336AAaeFgP" type="Answered">
+    <Subject>how to turn off ebay automatic seller fees?</Subject>
+    <Content>i just signed up for ebay automatic seller fees and then realised i didnt want it but dont know how to stop it, it isnt really a big deal because i pay my seller fees as soon as i receive the money for an item i sold but im scared that at some point i will be charged and wont know what it was for.
+</Content>
+    <Date>2010-03-19 13:43:36</Date>
+    <Timestamp>1269031416</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319134336AAaeFgP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NoBdDpw1aa</UserId>
+    <UserNick>Liam H</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Click seller account
+
+where it says auto payments click change
+You may be asked to login again at this point.
+
+When it loads click cancel and all auto payments are stopped.</ChosenAnswer>
+    <ChosenAnswererId>rugZxDXbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Devastation Assistant</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269031835</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269551075</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Click seller account
+
+where it says auto payments click change
+You may be asked to login again at this point.
+
+When it loads click cancel and all auto payments are stopped.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rugZxDXbaa</UserId>
+            <UserNick>Devastation Assistant</UserNick>
+            <Date>2010-03-19 13:50:35</Date>
+            <Timestamp>1269031835</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:35:05 PDT 2010 -->

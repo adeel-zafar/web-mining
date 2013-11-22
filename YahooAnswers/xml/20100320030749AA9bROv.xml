@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320030749AA9bROv" type="Answered">
+    <Subject>Why isn&#039;t hulu working  ?</Subject>
+    <Content>hulu the tv steaming website is not working is it me or the site when i try and play a video it says...
+&quot;sorry this video can not be steamed click here to fix this problem&quot; i tried &quot;clicking here&quot; but is say how to check the internet browser i&#039;ve done what it says but still nothing, i have tried other video&#039;s but the same thing...
+also the desktop download download you can get dose not work it say the same thing.
+please help ?
+I live in the UK ?
+</Content>
+    <Date>2010-03-20 03:07:49</Date>
+    <Timestamp>1269079669</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320030749AA9bROv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ktqyUqDvaa</UserId>
+    <UserNick>Ed C</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It doesn&#039;t work if you live in certain countries. But if you live in the U.S. it should work.</ChosenAnswer>
+    <ChosenAnswererId>SBjV8GlFaa</ChosenAnswererId>
+    <ChosenAnswererNick>dalma jen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269080828</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269598973</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It doesn&#039;t work if you live in certain countries. But if you live in the U.S. it should work.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>SBjV8GlFaa</UserId>
+            <UserNick>dalma jen</UserNick>
+            <Date>2010-03-20 03:27:08</Date>
+            <Timestamp>1269080828</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hulu only is available in the USA. However you can use a personal vpn, http://www.surfbouncer.com to give you a fast usa IP address and watch Hulu and any other US programming from the UK.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>d1yfbvdXaa</UserId>
+            <UserNick>Nan</UserNick>
+            <Date>2010-03-23 12:02:24</Date>
+            <Timestamp>1269370944</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:32:27 PDT 2010 -->

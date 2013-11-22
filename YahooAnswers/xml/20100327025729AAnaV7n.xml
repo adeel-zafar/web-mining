@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327025729AAnaV7n" type="Answered">
+    <Subject>What add-on for FireFox =)?</Subject>
+    <Content>can let me save every image on a current page? My sister likes to download galleries and galleries of pictures of a certain celebrity, but it lists all the images on one page and she literally has to click on each of the hundred images for it to open in a new tab so she can save it in good quality (if she saves the thumbnails, that&#039;s exactly what gets saved - a thumbnail)
+
+So, is there any add-on that lets you somehow download the full resolution of multiple images without having to open them in new tabs?
+
+Thanks for any help ^^
+</Content>
+    <Date>2010-03-27 02:57:29</Date>
+    <Timestamp>1269683849</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327025729AAnaV7n</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JPnOG6zGaa</UserId>
+    <UserNick>Jesse R. Butterfly</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1qV4eg18uAAMD_OE1IcPJeGgB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Thumbnails is kinda hard to work with, when all the images are on the page itself I click File-&gt;Save Page As ad save it as Webpage Complete and then beside the saved HTML file there&#039;ll be a folder with all the page&#039;s contents, among them are the images, by arranging them by type you can copy the images to a new folder...
+
+You can also go to the Add-ons page and search for &quot;image download&quot;, I see there&#039;s one called &quot;Bulk Image Downloader&quot; which says that it downloads from thumbnails, but I haven&#039;t tried it myself...</ChosenAnswer>
+    <ChosenAnswererId>aCj2o5Wraa</ChosenAnswererId>
+    <ChosenAnswererNick>Anza Power</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269684380</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269895107</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Thumbnails is kinda hard to work with, when all the images are on the page itself I click File-&gt;Save Page As ad save it as Webpage Complete and then beside the saved HTML file there&#039;ll be a folder with all the page&#039;s contents, among them are the images, by arranging them by type you can copy the images to a new folder...
+
+You can also go to the Add-ons page and search for &quot;image download&quot;, I see there&#039;s one called &quot;Bulk Image Downloader&quot; which says that it downloads from thumbnails, but I haven&#039;t tried it myself...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>aCj2o5Wraa</UserId>
+            <UserNick>Anza Power</UserNick>
+            <Date>2010-03-27 03:06:20</Date>
+            <Timestamp>1269684380</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:50 PDT 2010 -->

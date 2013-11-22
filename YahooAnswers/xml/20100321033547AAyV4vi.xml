@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321033547AAyV4vi" type="Answered">
+    <Subject>Why can I connect to the internet through real player but no other browser?</Subject>
+    <Content>I can not understand why when I try Internet Explorer, Firefox and Opera none of them will display a web page and get the standard error message when there is no connection, although I have established a wireless connection, yet when I open Real Player it works fine.  Also I tried Ubuntu and Firefox and I can also get internet this way.  How might I get internet through other browsers in Windows?
+</Content>
+    <Date>2010-03-21 03:35:47</Date>
+    <Timestamp>1269167747</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321033547AAyV4vi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10975045</UserId>
+    <UserNick>tman</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1sMlF7v7LAAIBJ4E_LA2-YltumBWzaB8S.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You have got a Browser Hijack due to malware.clean it and everything will work fine</ChosenAnswer>
+    <ChosenAnswererId>UmXalLmzaa</ChosenAnswererId>
+    <ChosenAnswererNick>ssj6akshat</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269857937</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270032853</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>SORRY!!! I am not an expert on this and hope others will offer the knowhow and I also can learn, TKS.
+If you need other help in knowledge on CURRENCY, Customer Service, Productivity and Community Service, email to me.......I will help.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BkatcMZbaa</UserId>
+            <UserNick>Artoro Arosli</UserNick>
+            <Date>2010-03-21 04:29:34</Date>
+            <Timestamp>1269170974</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have got a Browser Hijack due to malware.clean it and everything will work fine</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UmXalLmzaa</UserId>
+            <UserNick>ssj6akshat</UserNick>
+            <Date>2010-03-29 03:18:57</Date>
+            <Timestamp>1269857937</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:13 PDT 2010 -->

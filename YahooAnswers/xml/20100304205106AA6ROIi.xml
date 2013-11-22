@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304205106AA6ROIi" type="Answered">
+    <Subject>My Firefox is running really slow, and i can&#039;t see drop boxes. Ex: file, edit, history, bookmark.?</Subject>
+    <Content>so the explorer on my computer works, like files and programs, but fire ox is just super slow, and i cant even see the options when i right click... idk whats going on. my guess is a virus, or spyware =[
+
+i use windows 7, and a Toshiba laptop. Thanks
+</Content>
+    <Date>2010-03-04 20:51:06</Date>
+    <Timestamp>1267764666</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304205106AA6ROIi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1pCeMEjdaa</UserId>
+    <UserNick>Bucky13</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>For running slow there are many causes:
+Microsoft Registry Problems
+RAM
+De-Fragmenting
+Etc. 
+
+Clean windows registry can speed up the computer.
+Registry Cleaner can fix your pc errors.
+Over time, you install new programs, uninstalled unimportant programs, update software&#039;s, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://registry-computer-cleaner.com</ChosenAnswer>
+    <ChosenAnswererId>sD67dhCQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Awardshows</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268051364</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268497993</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine &quot;experts&quot; say is impossible</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-04 21:10:42</Date>
+            <Timestamp>1267765842</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Most computers actually run slow because of a hidden part of your system, which is constantly being used by Windows. This part of your PC is called the &quot;registry&quot; and is the central database for Windows, which stores everything from your latest emails to your desktop wallpaper. It&#039;s one of the most important parts of Windows and can easily make your PC run slow.The more corrupt registry files your computer has, the more it struggles to read them.The files which makes it run slower and slower. To fix this, you simply need to use a registry cleaner http://computer-e-book-money.com/     . These are small software tools which actually work by scanning through the registry and fixing any bad files that are in there. This then allows Windows to read as many files as it wants, when it wants to.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>55dmpm4Laa</UserId>
+            <UserNick>Kiyytr</UserNick>
+            <Date>2010-03-05 05:47:26</Date>
+            <Timestamp>1267796846</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://registry.tpdownload.com/Slow_PC</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0xM5FMRIaa</UserId>
+            <UserNick>Autobiography</UserNick>
+            <Date>2010-03-06 16:43:45</Date>
+            <Timestamp>1267922625</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>For running slow there are many causes:
+Microsoft Registry Problems
+RAM
+De-Fragmenting
+Etc. 
+
+Clean windows registry can speed up the computer.
+Registry Cleaner can fix your pc errors.
+Over time, you install new programs, uninstalled unimportant programs, update software&#039;s, install new devices, 
+download files from the web, etcetera, hence embarking all records in the registry system.
+This is normal, but it is not wise to leave it untouched. 
+Once in a while, you have to check and remove files that are no longer in use to maintain the speed of your PC.
+Clean registry make pc faster.
+http://registry-computer-cleaner.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>sD67dhCQaa</UserId>
+            <UserNick>Awardshows</UserNick>
+            <Date>2010-03-08 04:29:24</Date>
+            <Timestamp>1268051364</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 22:00:03 PDT 2010 -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323192221AAjjQUp" type="Answered">
+    <Subject>Does the website  &quot;Rapidshare&quot;   cause virus&#039;?</Subject>
+    <Content>i want to get an mp3 that isn&#039;t on itunes
+i&#039;m trying to get stu&#039;s song from &quot;the hangover&quot;
+</Content>
+    <Date>2010-03-23 19:22:21</Date>
+    <Timestamp>1269397341</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323192221AAjjQUp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>su3APbQlaa</UserId>
+    <UserNick>Dylon</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1xunSoDG2AAED_IFRnArVsUg0DB0D.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The website does not cause a virus.  If the content you download is malicious, then you may get a virus.</ChosenAnswer>
+    <ChosenAnswererId>AA11414206</ChosenAnswererId>
+    <ChosenAnswererNick>elpasi2</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269397487</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269917024</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The website does not cause a virus.  If the content you download is malicious, then you may get a virus.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11414206</UserId>
+            <UserNick>elpasi2</UserNick>
+            <Date>2010-03-23 19:24:47</Date>
+            <Timestamp>1269397487</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>no, most of the content on the site does not have a virus</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lWlgLM4Aaa</UserId>
+            <UserNick>Amman</UserNick>
+            <Date>2010-03-23 19:29:17</Date>
+            <Timestamp>1269397757</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:16:56 PDT 2010 -->

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307060917AAT2OTq" type="Answered">
+    <Subject>Skype video calls using Dial-up internet connections?</Subject>
+    <Content>Is it possible to have Skype *VIDEO* calls using Dial-up internet connection? Is that speed sufficient?
+</Content>
+    <Date>2010-03-07 06:09:17</Date>
+    <Timestamp>1267970957</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307060917AAT2OTq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DX44BVlGaa</UserId>
+    <UserNick>Nahi verena verani</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1I5bZmrNTAAIEP4E_8IiEDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I don&#039;t think so,
+you will connect but the video stream will be very slow</ChosenAnswer>
+    <ChosenAnswererId>j0tyLdMIaa</ChosenAnswererId>
+    <ChosenAnswererNick>icavir</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267971080</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268490231</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I don&#039;t think so,
+you will connect but the video stream will be very slow</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>j0tyLdMIaa</UserId>
+            <UserNick>icavir</UserNick>
+            <Date>2010-03-07 06:11:20</Date>
+            <Timestamp>1267971080</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:41:07 PDT 2010 -->

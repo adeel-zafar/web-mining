@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228101714AAtxU1h" type="Answered">
+    <Subject>What&#039;s that website called again?</Subject>
+    <Content>You can sign in with your aim account and videochat and instant messege? It&#039;s free and its NOT oovoo. And it doesnt creat viruses!
+</Content>
+    <Date>2010-02-28 10:17:14</Date>
+    <Timestamp>1267381034</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228101714AAtxU1h</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QPFKlldAaa</UserId>
+    <UserNick>♥ 【ツ】 ♥</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1tmsn8jtGAAEBncJ9kJO2BA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>zwinky</ChosenAnswer>
+    <ChosenAnswererId>x2a252zQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Hana h</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267381156</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268013236</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>skype</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>L1ziwJasaa</UserId>
+            <UserNick>Brian</UserNick>
+            <Date>2010-02-28 10:18:46</Date>
+            <Timestamp>1267381126</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>zwinky</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>x2a252zQaa</UserId>
+            <UserNick>Hana h</UserNick>
+            <Date>2010-02-28 10:19:16</Date>
+            <Timestamp>1267381156</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:51 PDT 2010 -->

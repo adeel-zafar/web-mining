@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302213711AAa4mck" type="Answered">
+    <Subject>how do you make a computer run off of wifi with a wireless adapter usb port?</Subject>
+    <Content>i have a ubs adapter for my vista and it wont work and i would like some help with that
+</Content>
+    <Date>2010-03-02 21:37:11</Date>
+    <Timestamp>1267594631</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302213711AAa4mck</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uu7448dsaa</UserId>
+    <UserNick>stephen f</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/497b82bai18f7zul5sp1/GDJLNvA6crTO1_zZKocpIHyR/1/tn48.jpg?ciAAToMBgxxj6CCs</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>usb wireless adapters normally have software that will get you connected easily. Install the software/drivers for that device.</ChosenAnswer>
+    <ChosenAnswererId>6vglYBbMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267595122</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268114087</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>usb wireless adapters normally have software that will get you connected easily. Install the software/drivers for that device.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6vglYBbMaa</UserId>
+            <UserNick>Rob</UserNick>
+            <Date>2010-03-02 21:45:22</Date>
+            <Timestamp>1267595122</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:21:25 PDT 2010 -->

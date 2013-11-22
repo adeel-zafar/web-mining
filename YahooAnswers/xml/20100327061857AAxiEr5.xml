@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327061857AAxiEr5" type="Answered">
+    <Subject>how do i delete a wordpress blog?</Subject>
+    <Content>where abouts in wordpress.com can i delete a account ?
+</Content>
+    <Date>2010-03-27 06:18:57</Date>
+    <Timestamp>1269695937</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327061857AAxiEr5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4qc9spwAaa</UserId>
+    <UserNick>BuzZ86</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>0</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Settings / Delete Blog, pretty far down on the vertical toolbar on the left.  I&#039;ve had to do this. It works well.</ChosenAnswer>
+    <ChosenAnswererId>fekVc9gmaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ollie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269809663</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269817004</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Settings / Delete Blog, pretty far down on the vertical toolbar on the left.  I&#039;ve had to do this. It works well.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>fekVc9gmaa</UserId>
+            <UserNick>Ollie</UserNick>
+            <Date>2010-03-28 13:54:23</Date>
+            <Timestamp>1269809663</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:22 PDT 2010 -->

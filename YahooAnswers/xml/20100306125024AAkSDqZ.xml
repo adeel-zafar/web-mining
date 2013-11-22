@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306125024AAkSDqZ" type="Answered">
+    <Subject>Have forums like this and social networking become just an excuse for mean/angry people to mistreat others?</Subject>
+    <Content>I&#039;m thinking if you know what I mean, I probably don&#039;t need to elaborate.
+KL:  Am I supposed to take that as ironic?  I mean, was it meant to be humorous?
+</Content>
+    <Date>2010-03-06 12:50:24</Date>
+    <Timestamp>1267908624</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306125024AAkSDqZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>204577ae32c80edc66057923f993dd9aaa</UserId>
+    <UserNick>Jesse M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1XDDBr8y5AAEB9oFAlLKoCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, there are a lot of nuts around who would not have the courage to say out loud the things they write.</ChosenAnswer>
+    <ChosenAnswererId>UwEEHuRcaa</ChosenAnswererId>
+    <ChosenAnswererNick>scoutma53</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267909817</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268013172</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes.  What a stupid question.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>d0nv49tHaa</UserId>
+            <UserNick>kl</UserNick>
+            <Date>2010-03-06 12:51:28</Date>
+            <Timestamp>1267908688</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Not really, it&#039;s done so much more than that.  But hiding behind anonymity certainly does bring to light, certain social aspects one wouldn&#039;t usually encounter in normal face to face conversations.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ULkuGZ5xaa</UserId>
+            <UserNick>NervXT</UserNick>
+            <Date>2010-03-06 12:54:13</Date>
+            <Timestamp>1267908853</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, there are a lot of nuts around who would not have the courage to say out loud the things they write.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>UwEEHuRcaa</UserId>
+            <UserNick>scoutma53</UserNick>
+            <Date>2010-03-06 13:10:17</Date>
+            <Timestamp>1267909817</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:46:51 PDT 2010 -->

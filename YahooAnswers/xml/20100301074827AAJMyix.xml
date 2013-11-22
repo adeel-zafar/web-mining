@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301074827AAJMyix" type="Answered">
+    <Subject>What does this symbol &quot;#&quot; on Twitter mean?</Subject>
+    <Content>I need help on this you guys. Does this &quot;#&quot; mean to send a direct tweet to someone? Or does this symbol &quot;@&quot; mean to send a direct tweet? I need help on what both of those symbols mean. This would be a lot of help guys.
+</Content>
+    <Date>2010-03-01 07:48:27</Date>
+    <Timestamp>1267458507</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301074827AAJMyix</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>T1Z3gPPGaa</UserId>
+    <UserNick>mullenshane</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>@ directs a tweet to someone.
+
+# (the hashtag) denotes a topic, especially one you&#039;d like to see Trending.  (As I type this, there&#039;s a topic called #amitheonlyone.  If you&#039;d like to add something to that topic, you&#039;d add that hashtag to your tweet; someone searching for it will see the tweets, including yours.)</ChosenAnswer>
+    <ChosenAnswererId>dztKGMAQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Windowphobe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267498215</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267554348</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>@ directs a tweet to someone.
+
+# (the hashtag) denotes a topic, especially one you&#039;d like to see Trending.  (As I type this, there&#039;s a topic called #amitheonlyone.  If you&#039;d like to add something to that topic, you&#039;d add that hashtag to your tweet; someone searching for it will see the tweets, including yours.)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dztKGMAQaa</UserId>
+            <UserNick>Windowphobe</UserNick>
+            <Date>2010-03-01 18:50:15</Date>
+            <Timestamp>1267498215</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:30 PDT 2010 -->

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324060607AAVQ9lo" type="Answered">
+    <Subject>How do I get rid of this &quot;Bing&quot; toolbar?</Subject>
+    <Content>Ever since then this Bing toolbar has appeared, I have received pop-ups.  How do I make the toolbar disappear?  Thanks in advance.
+</Content>
+    <Date>2010-03-24 06:06:07</Date>
+    <Timestamp>1269435967</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324060607AAVQ9lo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10419356</UserId>
+    <UserNick>Georgia</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>On your internet web page go to view then Toolbars then uncheck bing.
+
+OR you have to uninstall it from your computer C-Drive</ChosenAnswer>
+    <ChosenAnswererId>orenMWHvaa</ChosenAnswererId>
+    <ChosenAnswererNick>3K</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269436103</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269601309</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The popups are probabbly adware. A good antivirus will rid you of these.
+
+You should be able to uninstall the toolbar from the windows control panel &gt; add or remove programs.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5IQBUT2Waa</UserId>
+            <UserNick>Laurence H</UserNick>
+            <Date>2010-03-24 06:07:45</Date>
+            <Timestamp>1269436065</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>On your internet web page go to view then Toolbars then uncheck bing.
+
+OR you have to uninstall it from your computer C-Drive</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>orenMWHvaa</UserId>
+            <UserNick>Murda 3K</UserNick>
+            <Date>2010-03-24 06:08:23</Date>
+            <Timestamp>1269436103</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>just check out in the web browser in toolbars menu which is present in view menu........</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3IFU6fhnaa</UserId>
+            <UserNick>Asher Royce</UserNick>
+            <Date>2010-03-24 06:11:02</Date>
+            <Timestamp>1269436262</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can uninstall it via the Control Panel (Add/Remove Programs), or directly from the browser. Also make sure you have a good antivirus that offers adware protection, like Auslogics Antivirus.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nvoaxZ8jaa</UserId>
+            <UserNick>Adin</UserNick>
+            <Date>2010-03-24 06:24:50</Date>
+            <Timestamp>1269437090</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In both IE and Fire Fox go to &quot;View&quot; in the menu bar in the upper left hand corner click on &quot;Toolbars&quot; and in the drop-down box uncheck Bing Toolbar</Content>
+            <Reference>Experience</Reference>
+            <Best></Best>
+            <UserId>uiW766mFaa</UserId>
+            <UserNick>Paco</UserNick>
+            <Date>2010-03-24 10:47:17</Date>
+            <Timestamp>1269452837</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:35:39 PDT 2010 -->

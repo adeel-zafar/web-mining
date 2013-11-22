@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322174147AAbGpe6" type="Answered">
+    <Subject>What site does the Military use to get information on people?</Subject>
+    <Content>I am trying to locate my information on the internet (email accounts, myspace, website accounts, ect. what is the site that the Military uses to find that info?
+</Content>
+    <Date>2010-03-22 17:41:47</Date>
+    <Timestamp>1269304907</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322174147AAbGpe6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rmnG1sL2aa</UserId>
+    <UserNick>Yahoo117</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The CIA Database,</ChosenAnswer>
+    <ChosenAnswererId>trBTyFpjaa</ChosenAnswererId>
+    <ChosenAnswererNick>SxE Kodey K</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269304988</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269558158</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The CIA Database,</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>trBTyFpjaa</UserId>
+            <UserNick>SxE Kodey K</UserNick>
+            <Date>2010-03-22 17:43:08</Date>
+            <Timestamp>1269304988</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>They run their own databases. Those aren&#039;t open to public use.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7aqEtfLRaa</UserId>
+            <UserNick>Hawaiian Eskimo</UserNick>
+            <Date>2010-03-22 17:45:20</Date>
+            <Timestamp>1269305120</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:21:03 PDT 2010 -->

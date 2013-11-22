@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225150817AANuh6R" type="Answered">
+    <Subject>Is there a fast virus scanner? Just completed my virus scan(3 HDDs, together about 1.6 TB). My &quot;ESET NOD32 Ant?</Subject>
+    <Content>Is there a fast virus scanner?
+Just completed my virus scan(3 HDDs, together about 1.6 TB). My &quot;ESET NOD32 Antivirus&quot; needed 10 hours and 37 minutes for the scan. Do all virus scanner need that long or are there faster ones?
+
+Thanks for recommendations.
+</Content>
+    <Date>2010-02-25 15:08:17</Date>
+    <Timestamp>1267139297</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225150817AANuh6R</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NGbqld3Haa</UserId>
+    <UserNick>lincoln</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com/anti-virus-avira-avg-computer-tips.html</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267197606</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267198353</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>hm..well i have avg free and i got about 1 TB total filled up and it only takes about 2 hours, but also alot of my hd space is filled with movies and music, so are much quicker to scan than programs or anything like that...so i guess it depends what is filling up that space</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>W4yXL1xFaa</UserId>
+            <UserNick>T-Frex</UserNick>
+            <Date>2010-02-25 15:10:21</Date>
+            <Timestamp>1267139421</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have Webroot on mine and a full sweep and scan takes about 90 minutes.I have renewed this product for the last three years and have not had any problems.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RIPkjBoWaa</UserId>
+            <UserNick>john</UserNick>
+            <Date>2010-02-25 15:11:53</Date>
+            <Timestamp>1267139513</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think you already have one of the best virus scanner, NOD32. You have 1.6 TB hard drive in total, but most important is how many files you have. More files mean longer time to scan. It doesn&#039;t matter what antivirus you are using. Try to scan a hard drive with only a few files, and you would see how fast scan completes. But you will see how slow it would be if the same hard drive if filled with so many files. 
+
+If you are still not satisfied, uninstall NOD32 and install AntiVir personal edition (free) and see if it works for you. This is the second best antivirus.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5fde992f392eb5d68d9051c6efb63fbfaa</UserId>
+            <UserNick>Steve D</UserNick>
+            <Date>2010-02-25 15:21:14</Date>
+            <Timestamp>1267140074</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try avast</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>c2FkjoLMaa</UserId>
+            <UserNick>Ivan</UserNick>
+            <Date>2010-02-25 15:26:51</Date>
+            <Timestamp>1267140411</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com/anti-virus-avira-avg-computer-tips.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-02-26 07:20:06</Date>
+            <Timestamp>1267197606</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:32 PDT 2010 -->

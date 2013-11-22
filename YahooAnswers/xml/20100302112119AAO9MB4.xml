@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302112119AAO9MB4" type="Answered">
+    <Subject>Where are these tweets coming from?</Subject>
+    <Content>For the third time today I logged onto twitter and there were updates from my name that I DID NOT post. They are usually about clicking a link to win a prize. Underneath the tweet it says it was posted from API which I clicked on but I&#039;m not sure what it is. I changed my password and my tweets are already protected. Is there anything else I can do?
+</Content>
+    <Date>2010-03-02 11:21:19</Date>
+    <Timestamp>1267557679</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302112119AAO9MB4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AktTLY0Maa</UserId>
+    <UserNick>JessieCat</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1G-RyZGw8AAEBoCKc4JjCo7ZgGQ==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>When was your last virus scan? I would do a scan and check for trojans, as long as your computer is infected changing your password will do you no good. If you have scanned and its clean, you may have twitter configured to allow blog/website updates to be tweeted through your account. If you look through twitters FAQ you should find information on how to disable this option.</ChosenAnswer>
+    <ChosenAnswererId>NxehGsWjaa</ChosenAnswererId>
+    <ChosenAnswererNick>Yay!Waffles!</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267558033</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268077024</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>When was your last virus scan? I would do a scan and check for trojans, as long as your computer is infected changing your password will do you no good. If you have scanned and its clean, you may have twitter configured to allow blog/website updates to be tweeted through your account. If you look through twitters FAQ you should find information on how to disable this option.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NxehGsWjaa</UserId>
+            <UserNick>Yay!Waffles!</UserNick>
+            <Date>2010-03-02 11:27:13</Date>
+            <Timestamp>1267558033</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:25:56 PDT 2010 -->

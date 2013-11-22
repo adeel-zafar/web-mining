@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301131140AAnPOQH" type="Answered">
+    <Subject>Images don&#039;t show up on websites?</Subject>
+    <Content>every time i go on google images or ebay, the pictures never show up/take absoltutley ages to load.
+Anyone know how to fix this?
+</Content>
+    <Date>2010-03-01 13:11:40</Date>
+    <Timestamp>1267477900</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301131140AAnPOQH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eQxoXH38aa</UserId>
+    <UserNick>Dave</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1-suEVNvkAAECQwFdoA30CQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Pour gasoline into the computer then turn it on.  If it doesn&#039;t blow up, insert a lit match.</ChosenAnswer>
+    <ChosenAnswererId>Lf9dwFApaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kim Jong-il</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267478324</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268664194</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>dont use internet explorer. download opera browser. get a better internet connection, enable cookies, defrag your computer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yruSeEAWaa</UserId>
+            <UserNick>evan c</UserNick>
+            <Date>2010-03-01 13:13:48</Date>
+            <Timestamp>1267478028</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>this happens to me sometimes, what I do is run disk cleanup, then restart the computer.
+
+Also, Internet explorer is about the worst web browser you could use, download Opera if you like customization (like me) or if you want something simple and efficient, download Google Chrome or Safari for Windows.
+hope this helps xD</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gv2DJpZHaa</UserId>
+            <UserNick>Bluehotdog</UserNick>
+            <Date>2010-03-01 13:18:37</Date>
+            <Timestamp>1267478317</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Pour gasoline into the computer then turn it on.  If it doesn&#039;t blow up, insert a lit match.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Lf9dwFApaa</UserId>
+            <UserNick>Kim Jong-il</UserNick>
+            <Date>2010-03-01 13:18:44</Date>
+            <Timestamp>1267478324</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:31:24 PDT 2010 -->

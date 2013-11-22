@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321014155AA2XoZC" type="Answered">
+    <Subject>How to download private torrents from multiple ips?</Subject>
+    <Content>Okay, so its like this, when we download .torrent files from a private tracker, the downloaded .torrent file has some kinda code in it, that allowes us to download it, so if i downloaded it (the .torrent file) at my home, it wont work/let me download (the .torrent file) at my office, right? So i was wondering if we could somehow make it work, perhaps by editing the .torrent file or something....
+</Content>
+    <Date>2010-03-21 01:41:55</Date>
+    <Timestamp>1269160915</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321014155AA2XoZC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dCCzw19taa</UserId>
+    <UserNick>Max</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The .torrent file has a list of trackers and the file you&#039;re wanting to download, so, technically it&#039;s just a link.
+
+You could download the .torrent file at home and then run them on your torrent program at work and it should work just fine.
+
+Make sure you&#039;re using a program like PeerBlock to reduce your chances of getting in trouble.
+http://www.peerblock.com/</ChosenAnswer>
+    <ChosenAnswererId>X7YqLz1uaa</ChosenAnswererId>
+    <ChosenAnswererNick>A.D.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269162821</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269247177</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>the torrent file will work from all places.. i download torrent file from office and download the actual file from home</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FWgGSNHQaa</UserId>
+            <UserNick>Kristi</UserNick>
+            <Date>2010-03-21 01:44:47</Date>
+            <Timestamp>1269161087</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The .torrent file has a list of trackers and the file you&#039;re wanting to download, so, technically it&#039;s just a link.
+
+You could download the .torrent file at home and then run them on your torrent program at work and it should work just fine.
+
+Make sure you&#039;re using a program like PeerBlock to reduce your chances of getting in trouble.
+http://www.peerblock.com/</Content>
+            <Reference>http://www.peerblock.com/</Reference>
+            <Best>4</Best>
+            <UserId>X7YqLz1uaa</UserId>
+            <UserNick>Adam</UserNick>
+            <Date>2010-03-21 02:13:41</Date>
+            <Timestamp>1269162821</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:36 PDT 2010 -->

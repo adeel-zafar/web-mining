@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402034827AAOWP7j" type="Answered">
+    <Subject>Internet Connection Wireless?</Subject>
+    <Content>Is there anyway to find out who has been using my username and password to connect to internet?
+Example...My friend knows my username and password,has wireless equipment the same as mine and goes home types in my UN AND PASS and connects.Is there any way that I find out is someone doing this?
+I know changing the password can do the trick,but I wanted to find out who is the doing this.Eventually I will change my password.
+</Content>
+    <Date>2010-04-02 03:48:27</Date>
+    <Timestamp>1270205307</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402034827AAOWP7j</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PlaWjuZqaa</UserId>
+    <UserNick>Free - T</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b799e6ei1e78zul7re4/oXmlTg4id6nwpAhIzOfz1g--/5/tn48.jpg?ciAAToMBVIhdNP3x</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>why not just change the password</ChosenAnswer>
+    <ChosenAnswererId>qwABZIQVaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jimi Hendrix Guy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270205381</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270291839</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>why not just change the password</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>qwABZIQVaa</UserId>
+            <UserNick>Jimi Hendrix Guy</UserNick>
+            <Date>2010-04-02 03:49:41</Date>
+            <Timestamp>1270205381</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well you try and keep track of your internet usage ( you can probably get that from your internet supplier&#039;s site) if more than what you are downloading has been downloaded then yes someone is using it.
+I don&#039;t really know how to find out who exactly ( i don&#039; t think you can)
+In any case i suggest that you change your password</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fwJpxokmaa</UserId>
+            <UserNick>Play me out johnny!</UserNick>
+            <Date>2010-04-02 03:51:45</Date>
+            <Timestamp>1270205505</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There is most certainly a way to know if someone is in fact accessing your internet, I have had the same problem with the folks next door, but by having certain ports open you could allow just you &amp; your friend to access that wireless router, or if you have a good alert system like Sygate Personal Firewall, you could find out who was using your internet service.</Content>
+            <Reference>Deja vu</Reference>
+            <Best></Best>
+            <UserId>PWNpcVawaa</UserId>
+            <UserNick>NightPhase</UserNick>
+            <Date>2010-04-02 03:52:11</Date>
+            <Timestamp>1270205531</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here is what you could do:
+-CHANGE YOUR PASSWORD.
+-DONOT USE YOUR INTERNET FOR A MONTH AND SEE IF THE USAGE IS BEING EATEN UP.
+-GOTO Start&gt;Network AND SEE IF YOU SEE A COMPUTER WITH AN UNKNOWN NAME
+-SET A PASSWORD
+
+You wernt really specific with the question.
+Hope i helped</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bj8vxGlmaa</UserId>
+            <UserNick>Jacky jay</UserNick>
+            <Date>2010-04-02 03:53:20</Date>
+            <Timestamp>1270205600</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:36 PDT 2010 -->

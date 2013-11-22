@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312193458AASLj76" type="Answered">
+    <Subject>Can you help me with a new name for twitter ?</Subject>
+    <Content>I need a new name for twitter ..can you help me out ?
+people call me ophie ...[i wouldn&#039;t wanna use my favorite color]  
+ ...but if you can&#039;t i&#039;ll still appreciate it ...thanks !
+[also i like names with the word babey in it ....]
+favorie colour ....*pink*
+</Content>
+    <Date>2010-03-12 19:34:58</Date>
+    <Timestamp>1268451298</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312193458AASLj76</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PYrrDfNzaa</UserId>
+    <UserNick>superstar</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can just rename Twitter to &quot;Booglesberg&quot;.</ChosenAnswer>
+    <ChosenAnswererId>AA10024451</ChosenAnswererId>
+    <ChosenAnswererNick>Defender of Truth</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269137326</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269312936</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can just rename Twitter to &quot;Booglesberg&quot;.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10024451</UserId>
+            <UserNick>Defender of Truth</UserNick>
+            <Date>2010-03-20 19:08:46</Date>
+            <Timestamp>1269137326</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:06:55 PDT 2010 -->

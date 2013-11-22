@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322061257AASzwBA" type="Answered">
+    <Subject>Is firefox 3.6 not compatible with realplayer11gold? Or I should go to 3.5.2?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-22 06:12:57</Date>
+    <Timestamp>1269263577</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322061257AASzwBA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Q3U00uV4aa</UserId>
+    <UserNick>saint</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I believe it is. However, RealPlayer is not very good software, there are a lot of good alternatives to it. Also, Google Chrome is a very good browser choice, as someone in this question has stated.</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269608974</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269783210</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go to the newer firefox. firefox is good for your computer.</Content>
+            <Reference>me me me (:</Reference>
+            <Best></Best>
+            <UserId>sUtTjLOyaa</UserId>
+            <UserNick>cowwgiirrll; [:</UserNick>
+            <Date>2010-03-22 06:14:28</Date>
+            <Timestamp>1269263668</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Consider tiring a different browser. Ive been using Google Chrome for years and i have never had a compatibility problem.
+
+http://www.google.com/chrome</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hTR9TfVgaa</UserId>
+            <UserNick>Shawn E</UserNick>
+            <Date>2010-03-22 06:16:07</Date>
+            <Timestamp>1269263767</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I believe it is. However, RealPlayer is not very good software, there are a lot of good alternatives to it. Also, Google Chrome is a very good browser choice, as someone in this question has stated.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>Legion</UserNick>
+            <Date>2010-03-26 06:09:34</Date>
+            <Timestamp>1269608974</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:51 PDT 2010 -->

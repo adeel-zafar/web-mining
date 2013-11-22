@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227165940AAeAI90" type="Answered">
+    <Subject>Does the computer keep all the links or all the stuff you typed in the internet?</Subject>
+    <Content>For example i clicked on an image in google, does the computer keep the link somewhere. How do you delete it?
+</Content>
+    <Date>2010-02-27 16:59:40</Date>
+    <Timestamp>1267318780</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227165940AAeAI90</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Bci7ym7Raa</UserId>
+    <UserNick>╔ᴥᵯᵾᵴᵼᴄ ᴍᴧɴᴉᴀᴄᴥ╗</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, as long as you don&#039;t delete the history in your browser..</ChosenAnswer>
+    <ChosenAnswererId>xWRhhjkSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mat Ming</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267318980</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268576593</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, as long as you don&#039;t delete the history in your browser..</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xWRhhjkSaa</UserId>
+            <UserNick>Mat Ming</UserNick>
+            <Date>2010-02-27 17:03:00</Date>
+            <Timestamp>1267318980</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:41:51 PDT 2010 -->

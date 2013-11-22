@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303233350AAWOSSO" type="Answered">
+    <Subject>When i am on the internet,i have advertizements and music in in back ground, just started?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-03 23:33:50</Date>
+    <Timestamp>1267688030</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303233350AAWOSSO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qDDCXka3aa</UserId>
+    <UserNick>Roy R</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>May be the social profiles or websites which you happen to visit have music on.</ChosenAnswer>
+    <ChosenAnswererId>PryoZ0yAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Oniel Best--The Website Packager</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267689530</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268207565</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>May be the social profiles or websites which you happen to visit have music on.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>PryoZ0yAaa</UserId>
+            <UserNick>Oniel Best</UserNick>
+            <Date>2010-03-03 23:58:50</Date>
+            <Timestamp>1267689530</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:12:56 PDT 2010 -->

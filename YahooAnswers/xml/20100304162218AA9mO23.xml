@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304162218AA9mO23" type="Answered">
+    <Subject>if i have one internet source?</Subject>
+    <Content>if you have one internet source can you use with 2 computers if you have a extension and internet cables
+</Content>
+    <Date>2010-03-04 16:22:18</Date>
+    <Timestamp>1267748538</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304162218AA9mO23</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wt3V2uSVaa</UserId>
+    <UserNick>ramo up in here</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>find a program called win gate and install it,it will make one of your computer server and the other will be a network and both can work together</ChosenAnswer>
+    <ChosenAnswererId>2U6F84t4aa</ChosenAnswererId>
+    <ChosenAnswererNick>major9211</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267749174</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267839990</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>some external modems and routers allow more than one connection.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>47117270d222bc03bb11a9b57fb4e4cfaa</UserId>
+            <UserNick>globeweasel</UserNick>
+            <Date>2010-03-04 16:24:13</Date>
+            <Timestamp>1267748653</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it would be easier to fix the primary comp. with a router, and have the 2nd read from the network.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>06cCap0Oaa</UserId>
+            <UserNick>Anonymous</UserNick>
+            <Date>2010-03-04 16:24:44</Date>
+            <Timestamp>1267748684</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you need a wireless router if you want to connect 2 computers to the internet.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PgZxX9UAaa</UserId>
+            <UserNick>julian b</UserNick>
+            <Date>2010-03-04 16:31:22</Date>
+            <Timestamp>1267749082</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>find a program called win gate and install it,it will make one of your computer server and the other will be a network and both can work together</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2U6F84t4aa</UserId>
+            <UserNick>major9211</UserNick>
+            <Date>2010-03-04 16:32:54</Date>
+            <Timestamp>1267749174</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:08:49 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313144445AAKbWDE" type="Answered">
+    <Subject>How do the mouths get off from the words when i watch a video online?</Subject>
+    <Content>Like when I am watching mega video, it starts fine and the mouths match what they are saying but after the intro the the show plays the mouths are way ahead of the actual sounds i hear. Anyone know why or how I can fix it?
+</Content>
+    <Date>2010-03-13 14:44:45</Date>
+    <Timestamp>1268520285</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313144445AAKbWDE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>X6fioMoYaa</UserId>
+    <UserNick>lee</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1CWjdfw6EAAED5IQzMT4=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Problems like this are usually a result of video codec issues. It&#039;s Megavideo&#039;s fault and the best thing you can do is look for another vid of that particular episode with the audio and video in sync.</ChosenAnswer>
+    <ChosenAnswererId>EfYUzMBWaa</ChosenAnswererId>
+    <ChosenAnswererNick>j d</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268520563</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268750225</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The audio track is not properly synced with the video track.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BgwTxzEFaa</UserId>
+            <UserNick>korgrue</UserNick>
+            <Date>2010-03-13 14:46:05</Date>
+            <Timestamp>1268520365</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Problems like this are usually a result of video codec issues. It&#039;s Megavideo&#039;s fault and the best thing you can do is look for another vid of that particular episode with the audio and video in sync.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EfYUzMBWaa</UserId>
+            <UserNick>j d</UserNick>
+            <Date>2010-03-13 14:49:23</Date>
+            <Timestamp>1268520563</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:58 PDT 2010 -->

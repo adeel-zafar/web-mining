@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308080219AAAVwhu" type="Answered">
+    <Subject>What are some places where you can create a Wiki absolutely free?</Subject>
+    <Content>without having to be a member of an educational institution or studying at one. I just wana create one for an informal group of us studying something.
+thanks
+</Content>
+    <Date>2010-03-08 08:02:19</Date>
+    <Timestamp>1268064139</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308080219AAAVwhu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KYaM65gzaa</UserId>
+    <UserNick>Chorus</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b28c8caifebzul6sp1/cMw0Lk42dLTp7mbTC3WDy2fClw--/12/tn48.jpg?ciAAToMBT6nyTmaM</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Take a look at MediaWiki (the software behind Wikipedia) and the requirements for it (mainly PHP, MySQL, and a web server).  If you can find a hosting service (or host it on your own server or even a desktop), it is easy to setup.</ChosenAnswer>
+    <ChosenAnswererId>KNppmXiXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jim Maryland</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268064592</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268108647</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Take a look at MediaWiki (the software behind Wikipedia) and the requirements for it (mainly PHP, MySQL, and a web server).  If you can find a hosting service (or host it on your own server or even a desktop), it is easy to setup.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>KNppmXiXaa</UserId>
+            <UserNick>Jim Maryland</UserNick>
+            <Date>2010-03-08 08:09:52</Date>
+            <Timestamp>1268064592</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:33:10 PDT 2010 -->

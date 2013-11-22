@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318155721AA2mnJp" type="Answered">
+    <Subject>How to remove a Virus blocked by AVG?</Subject>
+    <Content>hi there. i have AVG 8 year version.i downloaded some files which contained trojans.AVG told me about the trojans.i moved them to vault.then i deleted those files which had trojans.then i scanned the whole computer and there were no virus.the next day,a online shield alert started coming from AVG that a threat was blocked!The information was:
+File name:91.212.226.33/sc.exe
+Threat name:trojan horse BackDoor.Generic9.BBYX.dropper
+then when i clicked Show detalis.it showed:
+Process name:C:\Windows\system32\svchost.exe
+Process ID:1924
+after every 1 or 2 minutes.it shows me this error.i am very angry of this error.i want to get rid of it.is there any way i can remove this error or virus?please help me.please.thanks in advance.good answers gets best answer.
+</Content>
+    <Date>2010-03-18 15:57:21</Date>
+    <Timestamp>1268953041</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318155721AA2mnJp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9pO4WPlpaa</UserId>
+    <UserNick>McVfee</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269008822</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269009465</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Dont remove it manually..that is ur computer hardcore (main setting)
+download the files from here
+
+Come to http://everythingius.webs.com/home.htm
+and follow steps and sign up in the website for thx
+
+It works on viruses too</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>06T1rqJlaa</UserId>
+            <UserNick>sg wanna be2</UserNick>
+            <Date>2010-03-18 15:59:04</Date>
+            <Timestamp>1268953144</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This doesn&#039;t sound like an AVG error, but you may have something the AVG is not picking up.  Try downloading from superantispyware.com
+It has helped me when AVG has failed.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ccc5a1e38522968787d5dc7bda943677aa</UserId>
+            <UserNick>Snowdog</UserNick>
+            <Date>2010-03-18 16:00:36</Date>
+            <Timestamp>1268953236</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-19 07:27:02</Date>
+            <Timestamp>1269008822</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:38:29 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322194444AAM8xf8" type="Answered">
+    <Subject>Will it slow internet connection down if i bought another modem and connected it to another phoneline?</Subject>
+    <Content>I want to hook up another modem in another room to try and speed up my internet connection on my Play Station 3, will be what it is for also.
+</Content>
+    <Date>2010-03-22 19:44:44</Date>
+    <Timestamp>1269312284</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322194444AAM8xf8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Pzh4ICrnaa</UserId>
+    <UserNick>Hal</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You need a router not another modem. Also adding a second modem at  the what ever location to be close to what ever you seek will not speed up the net.</ChosenAnswer>
+    <ChosenAnswererId>TdAC13JAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mick Dick</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269312400</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270007068</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You need a router not another modem. Also adding a second modem at  the what ever location to be close to what ever you seek will not speed up the net.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TdAC13JAaa</UserId>
+            <UserNick>Mick Dick</UserNick>
+            <Date>2010-03-22 19:46:40</Date>
+            <Timestamp>1269312400</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It sounds like you are using a DSL connection. DSL does not work the same way that dial-up worked... you can not have two modems in the same house unless you have a special business account with your service provider.
+
+And on that note.... the reason you have a slow connection is because you are on DSL - it was never made for gaming. Try upgrading your Internet service to cable or fiber.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>e3e9170314039ee1b1bce8b333b27dfdaa</UserId>
+            <UserNick>the.chip</UserNick>
+            <Date>2010-03-22 19:47:33</Date>
+            <Timestamp>1269312453</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:42 PDT 2010 -->

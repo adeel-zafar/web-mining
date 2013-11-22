@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303133422AA1xRT3" type="Answered">
+    <Subject>If a picture is named &quot;GetAttachment.jpg&quot;, where is this picture saved from ? which site(s) in particular ?</Subject>
+    <Content>
+not photobucket :P
+</Content>
+    <Date>2010-03-03 13:34:22</Date>
+    <Timestamp>1267652062</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303133422AA1xRT3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>idW4dIrSaa</UserId>
+    <UserNick>pakiyao</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It sounds like it was saved without manually naming it, so the original file must have been named that. Unfortunately you cannot figure out the website just from a name.</ChosenAnswer>
+    <ChosenAnswererId>tbMHcCE4aa</ChosenAnswererId>
+    <ChosenAnswererNick>Kyle C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267652274</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267825836</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It sounds like it was saved without manually naming it, so the original file must have been named that. Unfortunately you cannot figure out the website just from a name.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>tbMHcCE4aa</UserId>
+            <UserNick>Kyle C</UserNick>
+            <Date>2010-03-03 13:37:54</Date>
+            <Timestamp>1267652274</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>probably photobucket.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wxsB4w0daa</UserId>
+            <UserNick>Lucy Girl</UserNick>
+            <Date>2010-03-03 13:38:01</Date>
+            <Timestamp>1267652281</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:32 PDT 2010 -->

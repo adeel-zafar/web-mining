@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317141543AANzjk0" type="Answered">
+    <Subject>What are some other question and answer sites for internet users?</Subject>
+    <Content>Any good researcher will tell you that multiple sources are better than one.  What are some question and answer websites geared towards internet users, and preferably less so towards the biased media?
+</Content>
+    <Date>2010-03-17 14:15:43</Date>
+    <Timestamp>1268860543</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317141543AANzjk0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>T26hXr4Paa</UserId>
+    <UserNick>anonymous</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go onto chatforums.com its a hoopla of sites like this one</ChosenAnswer>
+    <ChosenAnswererId>AoBbwZDBaa</ChosenAnswererId>
+    <ChosenAnswererNick>EULIND FARVE</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268861382</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269380212</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Askville</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>26EaFllaaa</UserId>
+            <UserNick>☠☣Ĺøøṉεÿ☣☠</UserNick>
+            <Date>2010-03-17 14:16:25</Date>
+            <Timestamp>1268860585</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go onto chatforums.com its a hoopla of sites like this one</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AoBbwZDBaa</UserId>
+            <UserNick>EULIND FARVE</UserNick>
+            <Date>2010-03-17 14:29:42</Date>
+            <Timestamp>1268861382</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>wiki answers.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5HlOEhCkaa</UserId>
+            <UserNick>Fredfredbug4</UserNick>
+            <Date>2010-03-17 14:31:25</Date>
+            <Timestamp>1268861485</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:43:38 PDT 2010 -->

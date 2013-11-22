@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312154817AAcxJxa" type="Answered">
+    <Subject>is it true about formspring?</Subject>
+    <Content>how can they even find out? why are they saying this? that they&#039;re gonna show everyone&#039;s name that posted anonymous. i mean, it&#039;s justa website. i mean, if you just go on the website, you don&#039;t put your name onto it or anything so how would they even know?
+YEAH but they had to have known that making an anonymous website like this would create that kinda stuff. and people have the choice to post the question or not. also, i don&#039;t think they would hack 32156487 people to find out who said &#039;mean stuff&#039;
+</Content>
+    <Date>2010-03-12 15:48:17</Date>
+    <Timestamp>1268437697</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312154817AAcxJxa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oUJ3R1koaa</UserId>
+    <UserNick>JVR</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1QDW1wC99AAED44SiQNgODQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Because it&#039;s anonymous, lots of inappropriate questions get asked and this further tempts people to do this because they think &quot;people won&#039;t find out.&quot; However, you&#039;d be surprised how hackers and people like that spend their time figuring certain things out about you, so I wouldn&#039;t use a social website except Facebook because they actually care about security and privacy.</ChosenAnswer>
+    <ChosenAnswererId>KLO1RSEHaa</ChosenAnswererId>
+    <ChosenAnswererNick>David</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268437819</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269630863</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Really, please elaborate on your question....</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>E9ujfRREaa</UserId>
+            <UserNick>Tom</UserNick>
+            <Date>2010-03-12 15:50:10</Date>
+            <Timestamp>1268437810</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Because it&#039;s anonymous, lots of inappropriate questions get asked and this further tempts people to do this because they think &quot;people won&#039;t find out.&quot; However, you&#039;d be surprised how hackers and people like that spend their time figuring certain things out about you, so I wouldn&#039;t use a social website except Facebook because they actually care about security and privacy.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>KLO1RSEHaa</UserId>
+            <UserNick>David</UserNick>
+            <Date>2010-03-12 15:50:19</Date>
+            <Timestamp>1268437819</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Do you have a question, or are you just ranting?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-12 15:51:17</Date>
+            <Timestamp>1268437877</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:52 PDT 2010 -->

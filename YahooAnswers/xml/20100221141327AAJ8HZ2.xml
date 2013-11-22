@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221141327AAJ8HZ2" type="Answered">
+    <Subject>on twitter, do people have like a photo album?</Subject>
+    <Content>okay so i dont have a twitter, but i was curious, like is it kinda like myspace and facebook where they have pictures they post and people can see them? or is it just updates like you post what your doing? 
+thanks =)
+</Content>
+    <Date>2010-02-21 14:13:27</Date>
+    <Timestamp>1266790407</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221141327AAJ8HZ2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>e98509f4bac5877efa0694962f059f0baa</UserId>
+    <UserNick>Pink</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1DmI1Om_xAAIB-KFTwAxgCV8B.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No, you don&#039;t have a photo album on twitter. You can use http://twitpic.com to post photos.</ChosenAnswer>
+    <ChosenAnswererId>Ld5eKuVOaa</ChosenAnswererId>
+    <ChosenAnswererNick>zoliky</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266790654</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267310068</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, you don&#039;t have a photo album on twitter. You can use http://twitpic.com to post photos.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Ld5eKuVOaa</UserId>
+            <UserNick>zoliky</UserNick>
+            <Date>2010-02-21 14:17:34</Date>
+            <Timestamp>1266790654</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s pretty boring u just post what youre doing facebook and myspace is sooooo much better</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>N5wlk645aa</UserId>
+            <UserNick>Gabrielle</UserNick>
+            <Date>2010-02-21 14:18:35</Date>
+            <Timestamp>1266790715</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Twitter is a free social networking and microblogging  service that enables its users to send and read messages known as tweets. Tweets are text-based posts of up to 140 characters displayed on the author&#039;s profile page and delivered to the author&#039;s subscribers who are known as followers. Senders can restrict delivery to those in their circle of friends or, by default, allow open access. Since late 2009, users can follow lists of authors instead of following individual authors</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ybfCLYp1aa</UserId>
+            <UserNick>zep516</UserNick>
+            <Date>2010-02-21 14:19:58</Date>
+            <Timestamp>1266790798</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:33:31 PDT 2010 -->

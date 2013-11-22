@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224220523AAhSuLh" type="Answered">
+    <Subject>Which is the most used webmail around the world?</Subject>
+    <Content>Which is the most used, and which is available in the most countries? Hotmail? Gmail? Yahoo! Mail, even?
+</Content>
+    <Date>2010-02-24 22:05:23</Date>
+    <Timestamp>1267077923</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224220523AAhSuLh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UjXWVjevaa</UserId>
+    <UserNick>Mini</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Multiple Sources put Hotmail and Yahoo very close to each other with Gmail in 3rd position well behind these two. Since they are web based, they should be available in any country where internet access is available. Countrywise breakup is harder to get other than for the US.</ChosenAnswer>
+    <ChosenAnswererId>zftBCdzPaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jake B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267079750</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267346029</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Think Yahoo is the most used.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YARPqIqIaa</UserId>
+            <UserNick>?</UserNick>
+            <Date>2010-02-24 22:10:10</Date>
+            <Timestamp>1267078210</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>may be its the gmail dude!!!!! but i m using yahoo mail!!!! :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kkdxcOhKaa</UserId>
+            <UserNick>Sumit G</UserNick>
+            <Date>2010-02-24 22:12:42</Date>
+            <Timestamp>1267078362</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Multiple Sources put Hotmail and Yahoo very close to each other with Gmail in 3rd position well behind these two. Since they are web based, they should be available in any country where internet access is available. Countrywise breakup is harder to get other than for the US.</Content>
+            <Reference>http://www.email-marketing-reports.com/metrics/email-statistics.htm</Reference>
+            <Best>4</Best>
+            <UserId>zftBCdzPaa</UserId>
+            <UserNick>Jake B</UserNick>
+            <Date>2010-02-24 22:35:50</Date>
+            <Timestamp>1267079750</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:05:46 PDT 2010 -->

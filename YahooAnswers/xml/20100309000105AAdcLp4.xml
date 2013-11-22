@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309000105AAdcLp4" type="Answered">
+    <Subject>Internet service on the go?</Subject>
+    <Content>So I&#039;m in a band that is thinking about buying a RV and do a summer tour. I&#039;m looking to see if their is anyway of getting the net while driving. My gf has a 3g usb for her laptop, but it sucks! So what would be the best without using 3g crap. Thank You
+</Content>
+    <Date>2010-03-09 00:01:05</Date>
+    <Timestamp>1268121665</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309000105AAdcLp4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>e4266c57e728886dc49feec6957cedf1aa</UserId>
+    <UserNick>Forgesu2</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>3G is the best way to go unfortunately. The technology behind 3G isn&#039;t so bad - it could be your mobile carrier, the placement of the USB or even just signal strength (just like a regular mobile phone).
+
+The sad thing is that in the US the highest 3G speeds you can (currently, commercially) get are about 7.2Mbps. In places like Japan and Hong Kong, 3G speeds go up to 21Mbps :(</ChosenAnswer>
+    <ChosenAnswererId>EhJrgPqPaa</ChosenAnswererId>
+    <ChosenAnswererNick>Yectep</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268121797</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268360264</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>3G is the best way to go unfortunately. The technology behind 3G isn&#039;t so bad - it could be your mobile carrier, the placement of the USB or even just signal strength (just like a regular mobile phone).
+
+The sad thing is that in the US the highest 3G speeds you can (currently, commercially) get are about 7.2Mbps. In places like Japan and Hong Kong, 3G speeds go up to 21Mbps :(</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>EhJrgPqPaa</UserId>
+            <UserNick>Yectep</UserNick>
+            <Date>2010-03-09 00:03:17</Date>
+            <Timestamp>1268121797</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>contact some cell phone company&#039;s and get some prices</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-09 00:03:21</Date>
+            <Timestamp>1268121801</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:27:36 PDT 2010 -->

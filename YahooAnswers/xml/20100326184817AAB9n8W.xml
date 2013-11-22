@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326184817AAB9n8W" type="Answered">
+    <Subject>About the filehippo.com website????</Subject>
+    <Content>I want to download some software from that website. but i would really like to know if that website if safe or not.
+
+has anyone ever used it??????
+</Content>
+    <Date>2010-03-26 18:48:17</Date>
+    <Timestamp>1269654497</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326184817AAB9n8W</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>S0lEH97faa</UserId>
+    <UserNick>animal-goddess</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>its very safe</ChosenAnswer>
+    <ChosenAnswererId>kjtgPzKyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Hassan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269655784</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270173833</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>pretty safe</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BH4sfJwVaa</UserId>
+            <UserNick>brosnanyuen</UserNick>
+            <Date>2010-03-26 18:53:07</Date>
+            <Timestamp>1269654787</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>its very safe</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kjtgPzKyaa</UserId>
+            <UserNick>Hassan</UserNick>
+            <Date>2010-03-26 19:09:44</Date>
+            <Timestamp>1269655784</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:10 PDT 2010 -->

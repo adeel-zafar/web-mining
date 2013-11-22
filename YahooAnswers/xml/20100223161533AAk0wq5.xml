@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223161533AAk0wq5" type="Answered">
+    <Subject>Do you know of an internet site like this?</Subject>
+    <Content>A site for cooking where a person can put in certain ingredients to find recipes, which would be good for cleaning out remaining ingredients in a pantry. Like if a person has tomatoes, apples, and mayonaise, puts it in the search generator, then gets recipes that only has those three ingredients.
+</Content>
+    <Date>2010-02-23 16:15:33</Date>
+    <Timestamp>1266970533</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223161533AAk0wq5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QDrAGIOeaa</UserId>
+    <UserNick>Matt</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Some DS games such as Cooking Guide have incorporated this type of feature - but they&#039;re are extremely limited because they don&#039;t have many recipes in the database. Any internet site will be just as limited and not very useful.
+
+You can always just google all of the items you plan to use and the word recipe in one search and see what recipes come up.</ChosenAnswer>
+    <ChosenAnswererId>9zcRtSsPaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nukkels</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266970995</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266988311</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Some DS games such as Cooking Guide have incorporated this type of feature - but they&#039;re are extremely limited because they don&#039;t have many recipes in the database. Any internet site will be just as limited and not very useful.
+
+You can always just google all of the items you plan to use and the word recipe in one search and see what recipes come up.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>9zcRtSsPaa</UserId>
+            <UserNick>Nukkels</UserNick>
+            <Date>2010-02-23 16:23:15</Date>
+            <Timestamp>1266970995</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:52 PDT 2010 -->

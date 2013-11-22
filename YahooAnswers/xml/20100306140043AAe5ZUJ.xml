@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306140043AAe5ZUJ" type="Answered">
+    <Subject>why does my netzero keep disconnecting every ten minutes?</Subject>
+    <Content>it won&#039;t stay connected and i live way out in the middle of nowhere and don&#039;t have the options of dsl and broadband moving isn&#039;t an option nor is satelite internet too much money for it. This question is 
+
+&quot;why does my netzero keep disconnecting every ten minutes?&quot; 
+
+is there away i can prevent this from happening?
+
+Thanks for any help
+</Content>
+    <Date>2010-03-06 14:00:43</Date>
+    <Timestamp>1267912843</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306140043AAe5ZUJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6db88c358c2ade474c1511f618edfcebaa</UserId>
+    <UserNick>Best S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Because dial up is unreliable.  Call your provider.</ChosenAnswer>
+    <ChosenAnswererId>ULw1777caa</ChosenAnswererId>
+    <ChosenAnswererNick>jasonicus</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267912955</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268523776</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Because dial up is unreliable.  Call your provider.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-06 14:02:35</Date>
+            <Timestamp>1267912955</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Use the 3 scanners in the links and if not better use the troubleshooting guide in the last link...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/SuperAntiSpyware-Free-Edition/3000-8022_4-10523889.html?tag=mncol
+http://download.cnet.com/ccleaner/?tag=mncol
+http://help.netzero.net/support/errors/errors-connection.html</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-06 14:12:07</Date>
+            <Timestamp>1267913527</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:46:18 PDT 2010 -->

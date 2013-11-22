@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221163334AAIRgmz" type="Answered">
+    <Subject>Poll: Country/Area and Internet Connection Speed?</Subject>
+    <Content>You can give as little or as much info as you like, For instance mine will be:
+Kent, UK
+Home: 1.5mbps Bonded ADSL (live in a crappy village, Soon to move out and hopefully get Virgin Media 50mbps)
+Work: 4/4mbps SDSL
+</Content>
+    <Date>2010-02-21 16:33:34</Date>
+    <Timestamp>1266798814</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221163334AAIRgmz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7RCzbxGFaa</UserId>
+    <UserNick>CuriousGeorge</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1dFrNiWE7AAEBQyGbdCme9clEmTVjdA==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Berkshire. Virgin 20 Mb/s
+
+Ping 10 m/s D/L 19.60 Mb/s U/L 0.73 Mb/s
+
+http://www.speedtest.net/result/724757621.png
+
+Don&#039;t work as I&#039;m retired and out to grass!</ChosenAnswer>
+    <ChosenAnswererId>WeZcSZvKaa</ChosenAnswererId>
+    <ChosenAnswererNick>sewrobb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266799893</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267318427</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>London, UK
+Home: 24Mbps down, 2Mbps up Be Pro ADSL 
+Work: not the faintest idea.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ksWyiJJ9aa</UserId>
+            <UserNick>galoku</UserNick>
+            <Date>2010-02-21 16:41:13</Date>
+            <Timestamp>1266799273</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Australia/ Brisbane 
+7.5mb/s bigpond telstra next g</Content>
+            <Reference>experience</Reference>
+            <Best></Best>
+            <UserId>JqeS2JLiaa</UserId>
+            <UserNick>(O_O)</UserNick>
+            <Date>2010-02-21 16:42:06</Date>
+            <Timestamp>1266799326</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Berkshire. Virgin 20 Mb/s
+
+Ping 10 m/s D/L 19.60 Mb/s U/L 0.73 Mb/s
+
+http://www.speedtest.net/result/724757621.png
+
+Don&#039;t work as I&#039;m retired and out to grass!</Content>
+            <Reference>Virgin Cable user from when it first came on line about 
+12/13 years ago when the company was Comtel then.</Reference>
+            <Best>5</Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-02-21 16:51:33</Date>
+            <Timestamp>1266799893</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:32:54 PDT 2010 -->

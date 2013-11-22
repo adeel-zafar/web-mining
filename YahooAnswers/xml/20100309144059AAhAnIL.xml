@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309144059AAhAnIL" type="Answered">
+    <Subject>AOL Mail says invalid user or password even though I signed in this morning just fine with the SAME password?</Subject>
+    <Content>Title says it all; it&#039;s frustrating because that email account had everything in it, including important contacts and emails. And it&#039;s definitely the right password because it&#039;s been the same for YEARS, too. I&#039;ve tried everything... 
+~~~ Is there a number I can call to get AOL to reset my password? ~~~
+Because the password reset questions are from years ago and I cannot remember them...
+OKAY I tried calling AOL support to reset my password, but I don&#039;t have the billing info or zip code since I&#039;ve had this account since I was about 6 years old. HOW TO RESET ?!?
+I definitely didn&#039;t type it in wrong or hit caps, btw
+</Content>
+    <Date>2010-03-09 14:40:59</Date>
+    <Timestamp>1268174459</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309144059AAhAnIL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BHGIf1NAaa</UserId>
+    <UserNick>Anon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Maybe you mistyped it or accidentally hit CAPS LOCK? ..</ChosenAnswer>
+    <ChosenAnswererId>TRf9TUUdaa</ChosenAnswererId>
+    <ChosenAnswererNick>kittycat karin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268174810</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269225300</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe you mistyped it or accidentally hit CAPS LOCK? ..</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TRf9TUUdaa</UserId>
+            <UserNick>kittycat karin</UserNick>
+            <Date>2010-03-09 14:46:50</Date>
+            <Timestamp>1268174810</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:23:56 PDT 2010 -->

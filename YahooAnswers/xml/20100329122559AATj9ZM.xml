@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329122559AATj9ZM" type="Answered">
+    <Subject>I cant check my bank account because of what?</Subject>
+    <Content>my bank website is arionbanki.is
+when i try to go there from home, there are 3 computers in my house, it wont let me. I have tried all 3 computers and the page just wont load. But the internet here is fine and I can go to any other website. So I was thinking that the site is down, but today while I was at work I checked it and it worked just fine. So what could be keeping me from checking it at home? Something with my internet? HELP PLEASE
+</Content>
+    <Date>2010-03-29 12:25:59</Date>
+    <Timestamp>1269890759</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329122559AATj9ZM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CDV6A4lPaa</UserId>
+    <UserNick>Janie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49fa0ec3ic3ezul1sp1/QEhBsjk9eqjdsE7CgFGu9PoRew--/1/tn48.jpg?ciAAToMBQSvIt2W4</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try clearing out your history and cookies folders.</ChosenAnswer>
+    <ChosenAnswererId>R7Y6nzspaa</ChosenAnswererId>
+    <ChosenAnswererNick>fromthegroundup</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269890922</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270074563</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try clearing out your history and cookies folders.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>R7Y6nzspaa</UserId>
+            <UserNick>fromthegroundup</UserNick>
+            <Date>2010-03-29 12:28:42</Date>
+            <Timestamp>1269890922</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Install new window format your old window.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1Xxjrt2Yaa</UserId>
+            <UserNick>john</UserNick>
+            <Date>2010-03-29 13:18:23</Date>
+            <Timestamp>1269893903</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:15:52 PDT 2010 -->

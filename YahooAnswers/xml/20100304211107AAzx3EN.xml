@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304211107AAzx3EN" type="Answered">
+    <Subject>A person commented on a post on my Tumblr. How do I reply?</Subject>
+    <Content>I wrote something and one of my followers commented on it. I would like to reply to her comment but don&#039;t see where I can do so! If she can comment on my Tumblr posts, there MUST be a way that I can too, right?
+</Content>
+    <Date>2010-03-04 21:11:07</Date>
+    <Timestamp>1267765867</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304211107AAzx3EN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QNJNi8YVaa</UserId>
+    <UserNick>samanthaflea</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1z2Q1_YJ9AAEBnKKaWKf8Cw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well.... you could actually do a text post and go @inserttheirusernamehere in the title and then write a reply to them. But if you&#039;re talking about them reblogging and then answering you.... then just reblog the thing they said and then answer from there.</ChosenAnswer>
+    <ChosenAnswererId>QDGP3nkKaa</ChosenAnswererId>
+    <ChosenAnswererNick>Yuna</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267912879</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268285012</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well.... you could actually do a text post and go @inserttheirusernamehere in the title and then write a reply to them. But if you&#039;re talking about them reblogging and then answering you.... then just reblog the thing they said and then answer from there.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>QDGP3nkKaa</UserId>
+            <UserNick>Yuna</UserNick>
+            <Date>2010-03-06 14:01:19</Date>
+            <Timestamp>1267912879</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:59:44 PDT 2010 -->

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308105743AAptuSI" type="Answered">
+    <Subject>Autocomplete will not work on Windows XP, Internet Explorer 8?</Subject>
+    <Content>I had a knarley virus on my computer a couple weeks back, so I gave it to my father in law to fix. When I got it back the Autocomplete had stopped working. I am pretty computer savy so I&#039;ve tried creating a new user profile, editing the registry and whatnot (it will not allow me to delete the subkey I need to delete). Anybody have anything else I can try? All the stupid microsoft sites I&#039;ve gone to haven&#039;t worked for one reason or another.
+</Content>
+    <Date>2010-03-08 10:57:43</Date>
+    <Timestamp>1268074663</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308105743AAptuSI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AUfgtQ5laa</UserId>
+    <UserNick>Beth</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ad79132i114czul7re4/e0AkwnEidqnuZntGlmVT1XIYmBaJ/1/tn48.jpg?ciAAToMBWK592nhh</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Actually you can change the registry of your computer, and then your problem may be solved. 
+But the registry is the most important part of a computer. If it is crashed, you will not be able to use your computer. I suggest you uninstall Internet Explorer 8 because it is not stable. You can uninstall it as the following steps:
+1. Open the Add or Remove Programs window by doing one of the following: 
+For Windows Classic view, click Start and select Settings | Control Panel. Double-click the Add or Remove Programs option. 
+For Windows XP categories view, click Start and select Control Panel. Click the Add or Remove Programs link.
+2. Select Internet Explorer 8 and click Remove. 
+3. Click Yes in the confirmation dialog that appears. 
+4. If the program is running, click Yes to close it and to continue. 
+5. Ensure that all other programs are closed and data is saved, and click Yes to restart your system
+
+Then reinstall Internet Explorer 6 or Internet Explorer 7.
+
+You&#039;d better back up for your registry before making any changes to your registry. Then you can restore it back if there is serious problems happening.  RegistryMum can help you for this. You can know more about it from http://www.registrymum.com . Hope it can be helpful.</ChosenAnswer>
+    <ChosenAnswererId>j1tSHGCdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jim</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268121354</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268590465</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you confirmed that your system contains virus, then you could not delete using anti virus. If you try to install anti virus software is worthless because virus will change your registry key values so you can&#039;t view you hidden files too. 
+   So at first check whether your Registry has been working if it so god saved you little. Click &quot;Windows key+R&quot; then type &quot;regedit&quot; so that registry window will open. Then &quot;HKEY_LOCAL_MACHINE&quot; and then click  &quot;SOFTWARE&quot; then WINDOWS at last click CURRENT VERSION. Then you can see RUN in the tree. Just click on it you can see a list of programs which runs at start up. Delete the file which you suspects.
+Look at this article for full details</Content>
+            <Reference>http://kannanking.blogspot.com/2009/12/deleting-virus-from-computer-manually.html.</Reference>
+            <Best></Best>
+            <UserId>fYEOqgHmaa</UserId>
+            <UserNick>kamal kannan</UserNick>
+            <Date>2010-03-08 11:26:25</Date>
+            <Timestamp>1268076385</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Actually you can change the registry of your computer, and then your problem may be solved. 
+But the registry is the most important part of a computer. If it is crashed, you will not be able to use your computer. I suggest you uninstall Internet Explorer 8 because it is not stable. You can uninstall it as the following steps:
+1. Open the Add or Remove Programs window by doing one of the following: 
+For Windows Classic view, click Start and select Settings | Control Panel. Double-click the Add or Remove Programs option. 
+For Windows XP categories view, click Start and select Control Panel. Click the Add or Remove Programs link.
+2. Select Internet Explorer 8 and click Remove. 
+3. Click Yes in the confirmation dialog that appears. 
+4. If the program is running, click Yes to close it and to continue. 
+5. Ensure that all other programs are closed and data is saved, and click Yes to restart your system
+
+Then reinstall Internet Explorer 6 or Internet Explorer 7.
+
+You&#039;d better back up for your registry before making any changes to your registry. Then you can restore it back if there is serious problems happening.  RegistryMum can help you for this. You can know more about it from http://www.registrymum.com . Hope it can be helpful.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>j1tSHGCdaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-08 23:55:54</Date>
+            <Timestamp>1268121354</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:31:57 PDT 2010 -->

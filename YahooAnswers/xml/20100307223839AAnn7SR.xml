@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307223839AAnn7SR" type="Answered">
+    <Subject>how to close existing skype id?</Subject>
+    <Content>please help
+</Content>
+    <Date>2010-03-07 22:38:39</Date>
+    <Timestamp>1268030319</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307223839AAnn7SR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4tqMEI4kaa</UserId>
+    <UserNick>Amani</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You might find the answer in this post .. 
+http://answers.yahoo.com/question/index?qid=20080114042157AA2x3ei</ChosenAnswer>
+    <ChosenAnswererId>ZpXhSOAdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Shamly</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268030647</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268744607</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You might find the answer in this post .. 
+http://answers.yahoo.com/question/index?qid=20080114042157AA2x3ei</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ZpXhSOAdaa</UserId>
+            <UserNick>Shamly</UserNick>
+            <Date>2010-03-07 22:44:07</Date>
+            <Timestamp>1268030647</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:35:25 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301213334AAlRUFH" type="Answered">
+    <Subject>Why can&#039;t I upload pictures from photoshop to tinypic?</Subject>
+    <Content>I have been trying to upload my photoshop pictures to show my friends but they always fail to upload can you help
+</Content>
+    <Date>2010-03-01 21:33:34</Date>
+    <Timestamp>1267508014</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301213334AAlRUFH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ScofJjDjaa</UserId>
+    <UserNick>peanutbuter</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>make sure you are saving the file as a .jpeg, .jpg, .png, or .gif. if you save a file as a .psd, it will not upload correctly. also make sure the image is not too large.</ChosenAnswer>
+    <ChosenAnswererId>enYbGKrQaa</ChosenAnswererId>
+    <ChosenAnswererNick>clcrazy4horses</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267565861</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268064775</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Make sure the size in MB is small enough. If it isn&#039;t try resizing your pictures.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>t3mjM6L3aa</UserId>
+            <UserNick>Nick</UserNick>
+            <Date>2010-03-01 21:35:07</Date>
+            <Timestamp>1267508107</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>make sure you are saving the file as a .jpeg, .jpg, .png, or .gif. if you save a file as a .psd, it will not upload correctly. also make sure the image is not too large.</Content>
+            <Reference>experienced photoshopper</Reference>
+            <Best>5</Best>
+            <UserId>enYbGKrQaa</UserId>
+            <UserNick>clcrazy4horses</UserNick>
+            <Date>2010-03-02 13:37:41</Date>
+            <Timestamp>1267565861</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:28:23 PDT 2010 -->

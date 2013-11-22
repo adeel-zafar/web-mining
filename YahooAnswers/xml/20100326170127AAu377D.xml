@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326170127AAu377D" type="Answered">
+    <Subject>Why does the wrong website come up?</Subject>
+    <Content>I type what web site I want in my browser and when the results come up I then clink on the link and a different web site comes up. I then have to click the back button and click the link again and then it will take me where I wanted to go in the first place. This is happening a lot now. Why?
+</Content>
+    <Date>2010-03-26 17:01:27</Date>
+    <Timestamp>1269648087</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326170127AAu377D</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4ATNkvobaa</UserId>
+    <UserNick>Raymond S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You may have malware on your computer that is hijacking your browser. Run a scan with Malwarebytes. 
+
+http://www.malwarebytes.org/</ChosenAnswer>
+    <ChosenAnswererId>820baee8aefdfdd0513cebe4d50e0432aa</ChosenAnswererId>
+    <ChosenAnswererNick>cs_gmlynarczyk</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269648312</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270167285</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You may have malware on your computer that is hijacking your browser. Run a scan with Malwarebytes. 
+
+http://www.malwarebytes.org/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>820baee8aefdfdd0513cebe4d50e0432aa</UserId>
+            <UserNick>cs_gmlynarczyk</UserNick>
+            <Date>2010-03-26 17:05:12</Date>
+            <Timestamp>1269648312</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Dear Friend,
+
+Your system may have infected by a Malware, so the problem persits. You may try the following steps:
+
+1. Disconnect to the internet.
+
+2. Open Microsoft Internet Explorer.
+
+3. Click Tools -&gt; Manage Add-Ons.
+
+4. In the &quot;Show&quot; drop-down box, select &quot;All Add-Ons&quot;.
+
+5. Disable all the suspicious add-ons, mostly those who does not have any Publisher Name.
+
+6. Restart Microsoft Internet Explorer and connect to the internet.
+
+* * * * *
+If you need assitance, mail at: vikas.jnpt@yahoo.in
+* * * * *</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>sp1QE9Pjaa</UserId>
+            <UserNick>Vikas</UserNick>
+            <Date>2010-03-26 17:22:11</Date>
+            <Timestamp>1269649331</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:25 PDT 2010 -->

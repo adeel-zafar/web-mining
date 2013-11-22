@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322215046AAH9ROe" type="Answered">
+    <Subject>Internet won&#039;t download anything any help?</Subject>
+    <Content>Okay so no matter what I download it either comes up as a corrupt file or doesn&#039;t download at all. It&#039;s really starting to tick me off. I want to have some things that I need to have to download yet I can&#039;t since my internet is acting up. Firefox won&#039;t even open up much less download after I uninstalled it and then tried reinstalled it. What is going on?
+Okay sorry I wasn&#039;t very descriptive. But I am runing Vista Premium, (came with the computer) when I try downloading anything off the internet such as a tool bar for my internet browswer, (firefox stopped working after getting the vista antivirus pro spyware thing I restored it back before I got it.) But since then I have had nothing but problems with either downloading things off the internet to firefox not even working anymore. And it all worked before. I hope that helps.
+</Content>
+    <Date>2010-03-22 21:50:46</Date>
+    <Timestamp>1269319846</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322215046AAH9ROe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ws3NpeL1aa</UserId>
+    <UserNick>wind.demon_14</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1yfmAO8W5AAEC_oFURBPDdxEnIw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Not too much info to go on here as to what exactly the issue is, but if you have firefox installed, try loading it in safe mode by going to all programs-&gt;mozilla firefox-&gt;mozilla firefox(safe mode) and try resetting all the options. That usually does the trick in these type of issues</ChosenAnswer>
+    <ChosenAnswererId>6ktNzKgSaa</ChosenAnswererId>
+    <ChosenAnswererNick>King Nothing</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269320116</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269939156</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Turn on computer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XE6tND18aa</UserId>
+            <UserNick>Bob Saget</UserNick>
+            <Date>2010-03-22 21:53:41</Date>
+            <Timestamp>1269320021</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Not too much info to go on here as to what exactly the issue is, but if you have firefox installed, try loading it in safe mode by going to all programs-&gt;mozilla firefox-&gt;mozilla firefox(safe mode) and try resetting all the options. That usually does the trick in these type of issues</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6ktNzKgSaa</UserId>
+            <UserNick>King Nothing</UserNick>
+            <Date>2010-03-22 21:55:16</Date>
+            <Timestamp>1269320116</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>microsoft is being chinese because they went democrat, its unilateral.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>f1HP8AKaaa</UserId>
+            <UserNick>William</UserNick>
+            <Date>2010-03-22 21:55:27</Date>
+            <Timestamp>1269320127</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it cud be virus problem...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GlyFnX0laa</UserId>
+            <UserNick>gaurav_594</UserNick>
+            <Date>2010-03-22 21:55:29</Date>
+            <Timestamp>1269320129</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>delete system32 folder in C:\windows\</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1LSiRQfCaa</UserId>
+            <UserNick>Luke</UserNick>
+            <Date>2010-03-22 21:58:03</Date>
+            <Timestamp>1269320283</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:17 PDT 2010 -->

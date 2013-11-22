@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313101619AAZ4EMp" type="Answered">
+    <Subject>How do I remove Antivirus7?</Subject>
+    <Content>ok so it poped up i needed to scan so i did, and it says i have a few viruses but there not that bad, but now that its instaled its wanting me to bad some software but its very expessive and not wroth it, plus it wont let me on some sites (such as networks, myspace, facebook) so dont tell me keep it or buy it THATS NOT AN OPION please tell me how to REMOVE it
+</Content>
+    <Date>2010-03-13 10:16:19</Date>
+    <Timestamp>1268504179</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313101619AAZ4EMp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ywwfkgMiaa</UserId>
+    <UserNick>Haley</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/12ZC5Bga5AAECkiOctJOsQluoFg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it&#039;s not only expensive and annoying, Antivirus 7 is malicious too. here&#039;s how you can delete it http://www.spywarevoid.com/remove-antivirus-7-antivirus7-removal-help.html follow the removal steps</ChosenAnswer>
+    <ChosenAnswererId>60lIvCelaa</ChosenAnswererId>
+    <ChosenAnswererNick>Blue-Eyed-Owl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268650994</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269244961</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try this...
+go to:
+-start
+-control panel 
+-add or remove hardware
+if your lucky, you should find the antiviris somewhere in the list of programs, click it and click remove. thats all you should have to do. hope i helped.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>681Tn7E3aa</UserId>
+            <UserNick>Vladimir</UserNick>
+            <Date>2010-03-13 10:31:13</Date>
+            <Timestamp>1268505073</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it&#039;s not only expensive and annoying, Antivirus 7 is malicious too. here&#039;s how you can delete it http://www.spywarevoid.com/remove-antivirus-7-antivirus7-removal-help.html follow the removal steps</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>60lIvCelaa</UserId>
+            <UserNick>Blue-Eyed-Owl</UserNick>
+            <Date>2010-03-15 04:03:14</Date>
+            <Timestamp>1268650994</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try this program : http://www.adfirewall.com/malware_remover/antivirus7/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WGdnJIOwaa</UserId>
+            <UserNick>Roadatlas</UserNick>
+            <Date>2010-03-15 21:28:24</Date>
+            <Timestamp>1268713704</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:16 PDT 2010 -->

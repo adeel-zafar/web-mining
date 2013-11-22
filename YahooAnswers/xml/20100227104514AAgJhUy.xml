@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227104514AAgJhUy" type="Answered">
+    <Subject>Can they tell your age online if they don&#039;t ask for it?</Subject>
+    <Content>Just curious. Same question with Name,  Phone #, Adress, etc.
+</Content>
+    <Date>2010-02-27 10:45:14</Date>
+    <Timestamp>1267296314</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227104514AAgJhUy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RVsPJOBJaa</UserId>
+    <UserNick>Gio</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1vTuLO5pYAAAC_4FHaHI=.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes. Because they are psuedo-gods.</ChosenAnswer>
+    <ChosenAnswererId>q7WcptSOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Socrates</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267296413</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268015572</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If following correct laws and such no they shouldn&#039;t.
+
+Also if they don&#039;t ask for it how will the know it?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bkA0xLW2aa</UserId>
+            <UserNick>Omar</UserNick>
+            <Date>2010-02-27 10:46:52</Date>
+            <Timestamp>1267296412</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes. Because they are psuedo-gods.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>q7WcptSOaa</UserId>
+            <UserNick>Socrates</UserNick>
+            <Date>2010-02-27 10:46:53</Date>
+            <Timestamp>1267296413</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No, if you don&#039;t tell them they can&#039;t know.
+
+But more powerful organizations can trace your IP address to a specific region in the world.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XHb5xQciaa</UserId>
+            <UserNick>Omar</UserNick>
+            <Date>2010-02-27 10:47:36</Date>
+            <Timestamp>1267296456</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you know your way around google and hacking you can find stuff like that.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>A0c06Uvnaa</UserId>
+            <UserNick>Kyrie F</UserNick>
+            <Date>2010-02-27 11:10:34</Date>
+            <Timestamp>1267297834</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:44:11 PDT 2010 -->

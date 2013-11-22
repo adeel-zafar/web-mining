@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226092432AANEf47" type="Answered">
+    <Subject>How do I add more than one contact to outgoing email in Mozilla Thunderbird?</Subject>
+    <Content>I can&#039;t figure out how to add more than one contact to an outgoing email. I have tried using the cc button. I can add one person but no more. I have tried putting a semi colon and typing another name but autocomplete won&#039;t finish it. Help Please!
+I tried the comma and the drop down menu. The drop down didn&#039;t open a new line.  It didn&#039;t work.  Thanks for trying though.......anybody else have any ideas?
+</Content>
+    <Date>2010-02-26 09:24:32</Date>
+    <Timestamp>1267205072</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226092432AANEf47</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11021864</UserId>
+    <UserNick>layla_743544</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1kjpKgvHSAAEC-IFDpEU3S2cB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>just separate email addresses by a coma. Also you can go to the column below the first one, select &quot;To&quot; from the drop-down menu, type the address, then add another column, etc. But separating addresses by &quot;,&quot; is your best bet.</ChosenAnswer>
+    <ChosenAnswererId>EaUtyMCDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Asphodel B.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267205257</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268827946</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>just separate email addresses by a coma. Also you can go to the column below the first one, select &quot;To&quot; from the drop-down menu, type the address, then add another column, etc. But separating addresses by &quot;,&quot; is your best bet.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EaUtyMCDaa</UserId>
+            <UserNick>Asphodel B.</UserNick>
+            <Date>2010-02-26 09:27:37</Date>
+            <Timestamp>1267205257</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:51:20 PDT 2010 -->

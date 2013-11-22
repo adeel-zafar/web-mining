@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322192037AAoDIxl" type="Answered">
+    <Subject>what is error #124 when I loaded  a website?</Subject>
+    <Content>when http://chatroulette.com/ was loaded i got error #124 Error 124 this is what i got: (net::ERR_WINSOCK_UNEXPECTED_WRITTEN_BYTES): Unknown error.
+</Content>
+    <Date>2010-03-22 19:20:37</Date>
+    <Timestamp>1269310837</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322192037AAoDIxl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0z51V8Poaa</UserId>
+    <UserNick>kickiwi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>this website has now moved to :
+
+www.chatroulette.com</ChosenAnswer>
+    <ChosenAnswererId>2gPo71ckaa</ChosenAnswererId>
+    <ChosenAnswererNick>Christelle B.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269341390</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270161307</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>this website has now moved to :
+
+www.chatroulette.com</Content>
+            <Reference>I hope you don&#039;t masturbate in front of others... pervert!</Reference>
+            <Best>5</Best>
+            <UserId>2gPo71ckaa</UserId>
+            <UserNick>Christelle B.</UserNick>
+            <Date>2010-03-23 03:49:50</Date>
+            <Timestamp>1269341390</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:44 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312165757AAGnZn0" type="Answered">
+    <Subject>How do I get my internet to work again?</Subject>
+    <Content>Last summer I was on the internet (dial up) on my laptop and it was raining, I wasn&#039;t aware it was lightning and all the power went out. Since then when I try to dial up it says &quot;cannot detect a dial tone&quot; when right before and after it worked on my desktop. How can I fix this?
+</Content>
+    <Date>2010-03-12 16:57:57</Date>
+    <Timestamp>1268441877</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312165757AAGnZn0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ITSyia4Naa</UserId>
+    <UserNick>JRW&#039;sGirl</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well call the company and tell them you have not dial tone. Second check your wires and things are tight fit. If not, make sure the company of your dial up know. But to be sure upgrade to some wireless activity man it&#039;s a lot more convenient.</ChosenAnswer>
+    <ChosenAnswererId>4495bbcf7f12bd4832418f975a34ad5daa</ChosenAnswererId>
+    <ChosenAnswererNick>Burt P</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268442286</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268957737</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well call the company and tell them you have not dial tone. Second check your wires and things are tight fit. If not, make sure the company of your dial up know. But to be sure upgrade to some wireless activity man it&#039;s a lot more convenient.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>4495bbcf7f12bd4832418f975a34ad5daa</UserId>
+            <UserNick>Burt P</UserNick>
+            <Date>2010-03-12 17:04:46</Date>
+            <Timestamp>1268442286</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:24 PDT 2010 -->

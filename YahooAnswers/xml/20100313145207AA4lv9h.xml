@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313145207AA4lv9h" type="Answered">
+    <Subject>Computer help! computer virus?</Subject>
+    <Content>my computer wont let me go to the internet...it keep saying internet explorer warning..and want me to purchase a anti virus soft ware...im trying to remove the virus in my computer for free but i think its too late...please help me if you guys have any suggestions that i can try for free....thanks.
+</Content>
+    <Date>2010-03-13 14:52:07</Date>
+    <Timestamp>1268520727</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313145207AA4lv9h</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CrdxPTOzaa</UserId>
+    <UserNick>Everest</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268574775</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268575113</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There are never any guarantees in malware fighting, but try this:
+
+First, boot into Safe Mode With Networking.  That sometimes keeps malware from protecting itself.  Then, if you have an anti-virus, make sure it has the latest virus definitions and run a full scan with it.  If you don’t have one, many people here swear by Malwarebytes (it’s free).
+
+I suggest you also download Ad-Aware Free and Spybot S&amp;D (they’re free), install them, update them and run full scans with them in Safe Mode With Networking. 
+
+Also, turn off System Restore to evict any copies of bad stuff that might be lurking there.  
+
+To get into Safe Mode with Networking:
+
+1.Log out and reboot your machine.
+2.When the machine starts the reboot sequence, press the F8 key repeatedly.
+3.Select Safe Mode with Networking from the resulting menu.
+4.Login.  If the malware has changed your password, try logging in as Administrator.  By default, Administrator has no password.
+5.The machine will continue booting, but the Windows desktop will look different.  
+6.When you&#039;re finished doing what you need to do, log out and reboot back into normal mode.
+
+Another trick that may enable anti-malware and/or its installer program to sneak past the malware is to change the name of the anti-malware program itself.  The names of the files and their locations differ between anti-malware programs, but the procedure is always the same:
+
+1.In Windows Explorer, find the folder with the anti-malware.
+2.Change the name of the program (it always ends with a .exe) to virtually anything else, but keep the “.exe” part.
+3.Run that.
+
+Note that even if the anti-malware programs get rid of the malware, they may not be able to reverse the effects.  Search the Web for possible fixes.
+
+Update and run full scans regularly, not just when you think you already have malware.
+
+Good luck.
+
+
+Note:  There ARE free versions of these programs on the websites listed.  They just may not be obvious.
+
+Ad-Aware Free (free):  http://www.lavasoftusa.com/
+Spybot S &amp; D (free):  http://www.spybot.com/
+
+MalwareBytes (free) http://www.malwarebytes.org/  (If the program doesn’t run, changing its filename from mbam.exe to something else ending in .exe has sometimes proven effective.)
+AVG anti-virus (free): http://free.grisoft.com/doc/2/lng/us/tpl/v5/
+Avast! (free): http://www.avast.com/
+Kaspersky (free trial) (Seems to dislike installing on any machine with just about any other decent anti-malware, including some firewalls.): http://usa.kaspersky.com/downloads/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-13 14:54:40</Date>
+            <Timestamp>1268520880</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-14 06:52:55</Date>
+            <Timestamp>1268574775</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:56 PDT 2010 -->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222045908AAEipzI" type="Answered">
+    <Subject>What is the greatest site name that you know?</Subject>
+    <Content>Something like:
+thisismywebsiteandilikeit.com
+with no &quot;/&quot; after  &quot;.com&quot;.
+Site must be working!
+</Content>
+    <Date>2010-02-22 04:59:08</Date>
+    <Timestamp>1266843548</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222045908AAEipzI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aac0d1a3ce4e238c09954e08ab0cd8c2aa</UserId>
+    <UserNick>Carlos M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ihY0xqDGAAEBKOJp8KRuJ_kA.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www.thinkmcflythink.com
+
+A great website name ... a quote from the Back to the Future movies.</ChosenAnswer>
+    <ChosenAnswererId>d3vujVw7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Colm</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266844054</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267402544</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>alltheothergoodnamesaretaken.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>mgYIGCLOaa</UserId>
+            <UserNick>Tori</UserNick>
+            <Date>2010-02-22 05:01:37</Date>
+            <Timestamp>1266843697</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>www.thinkmcflythink.com
+
+A great website name ... a quote from the Back to the Future movies.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>d3vujVw7aa</UserId>
+            <UserNick>Colm</UserNick>
+            <Date>2010-02-22 05:07:34</Date>
+            <Timestamp>1266844054</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.2advanced.com/
+This is the best flash site you can meet on the Internet.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EcPB2U06aa</UserId>
+            <UserNick>stef</UserNick>
+            <Date>2010-02-22 05:33:53</Date>
+            <Timestamp>1266845633</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:29:38 PDT 2010 -->

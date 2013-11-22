@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312062522AASoJEU" type="Answered">
+    <Subject>Is this possible to get a single internet broadband connection for our 60 offices in India?</Subject>
+    <Content>Hi,
+Our company is having 60 offices all over India. All offices having internet broadband connection separately. Is this possible to get a single connection for all offices? So that we can pay a single bill monthly or yearly once. Also we can reduce our cost. Any suggestion plz
+</Content>
+    <Date>2010-03-12 06:25:22</Date>
+    <Timestamp>1268403922</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312062522AASoJEU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0925c9504bddb216728392d545a24388aa</UserId>
+    <UserNick>rn_saini4u</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/17siaaM7pAAAC_IFHGEU=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Contact your broadband provider.
+=
+They can design a WAN.</ChosenAnswer>
+    <ChosenAnswererId>MZ1DRSflaa</ChosenAnswererId>
+    <ChosenAnswererNick>tbshmkr</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268404716</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269138157</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Contact your broadband provider.
+=
+They can design a WAN.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>MZ1DRSflaa</UserId>
+            <UserNick>tbshmkr</UserNick>
+            <Date>2010-03-12 06:38:36</Date>
+            <Timestamp>1268404716</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>to do this,you have to contact with your ISP(Internet service provider).Also you have to spent some extra money to setup your own server.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Fa4frZfSaa</UserId>
+            <UserNick>dipayan</UserNick>
+            <Date>2010-03-12 07:41:46</Date>
+            <Timestamp>1268408506</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:10:11 PDT 2010 -->

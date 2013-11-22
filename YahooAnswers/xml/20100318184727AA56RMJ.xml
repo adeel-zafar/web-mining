@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318184727AA56RMJ" type="Answered">
+    <Subject>Impact on British ISP&#039;s?</Subject>
+    <Content>What do you all the think the impact on the British internet providers has been since the release of online media streaming, not so much youtube but more BBCi player, they allow streamed content of HD and it is hugely popular... surely this has put a lot of strain on the providers servers.  Have they had to spend a fortune to upgrade?
+
+any views would be great?
+</Content>
+    <Date>2010-03-18 18:47:27</Date>
+    <Timestamp>1268963247</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318184727AA56RMJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8ipr369saa</UserId>
+    <UserNick>Nikon</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b984673ia75zws107ac4/zdtfyEA2aacsUf3d6kCUM44kL9Cg/1/tn48.jpeg?ciAAToMBut5pFaII</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well considering the whole telephone network is owned by BT and everyone has to use it because there is no other, and due to their couldn&#039;t care less attitude for the past 10 years, they suddenly realised that they have been caught out with their knickers well and truly down! Now it&#039;s all panic to try and catch up.
+
+Telecential [the original company that is Virgin now] on the other hand were laying in fibre optic cable way back in 1993/4. BT at that time poo pooed the idea at the time and said it would never take off and it was a total waste of money and we will continue to develop our dial up and broadband services!
+
+The strain hasn&#039;t been that great on Virgin because as fibre optic cable is not affect by anything like copper wire is, the infrastructure is already there. All they have got to is upgrade the servers capacity where as BT has got put in completely new cabling, exchanges, equipment etc just to handle the workload.
+
+That&#039;s why Virgin offer 10 Mb/s as their standard service and offer 20 and 50 Mb/s services as well.
+
+In fact they have just put their 100 Mb/s service on line
+
+http://www.dailymail.co.uk/sciencetech/article-1253703/Virgin-announces-launch-100MB-superfast-broadband.html
+
+This is not to be confused with Virgin&#039;s ADSL service where they have to use the BT network.</ChosenAnswer>
+    <ChosenAnswererId>WeZcSZvKaa</ChosenAnswererId>
+    <ChosenAnswererNick>sewrobb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268988558</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269482751</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think the impact has been immense. I know Virgin Media have had to upgrade there servers repeatedly to contend with the load (from viewing their support tickets) and some of those updates are still ongoing.  In the first 20 days of release VM  reported they had 10 million views on BBC Iplayer and guess what was the top..... yup you guessed it. Eastenders. 
+
+Source: http://www.digitalspy.co.uk/digitaltv/a113434/cable-iplayer-earns-105m-views.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6vm4etHIaa</UserId>
+            <UserNick>SocialCode</UserNick>
+            <Date>2010-03-18 19:03:40</Date>
+            <Timestamp>1268964220</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well considering the whole telephone network is owned by BT and everyone has to use it because there is no other, and due to their couldn&#039;t care less attitude for the past 10 years, they suddenly realised that they have been caught out with their knickers well and truly down! Now it&#039;s all panic to try and catch up.
+
+Telecential [the original company that is Virgin now] on the other hand were laying in fibre optic cable way back in 1993/4. BT at that time poo pooed the idea at the time and said it would never take off and it was a total waste of money and we will continue to develop our dial up and broadband services!
+
+The strain hasn&#039;t been that great on Virgin because as fibre optic cable is not affect by anything like copper wire is, the infrastructure is already there. All they have got to is upgrade the servers capacity where as BT has got put in completely new cabling, exchanges, equipment etc just to handle the workload.
+
+That&#039;s why Virgin offer 10 Mb/s as their standard service and offer 20 and 50 Mb/s services as well.
+
+In fact they have just put their 100 Mb/s service on line
+
+http://www.dailymail.co.uk/sciencetech/article-1253703/Virgin-announces-launch-100MB-superfast-broadband.html
+
+This is not to be confused with Virgin&#039;s ADSL service where they have to use the BT network.</Content>
+            <Reference>Cable user since it first came on line in the UK</Reference>
+            <Best>5</Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-19 01:49:18</Date>
+            <Timestamp>1268988558</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:37:44 PDT 2010 -->

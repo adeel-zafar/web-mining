@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328124923AAeia8J" type="Answered">
+    <Subject>My internet isn&#039;t working. help pleaseee :( best answer best points?</Subject>
+    <Content>I had Linksys chipset or whatever you call it, and it was fine. Today when I turned on my comp it&#039;s not working. idk what&#039;s wrong. there&#039;s a connection but and it say&#039;s I am connected to it but it&#039;s not working. so i clicked Diagnose and it sometimes it says nothing&#039;s wrong but then it says networks aren&#039;t in range. 
+how can i fix it?
+it shows (says) that I&#039;m connected but internet isn&#039;t working.
+</Content>
+    <Date>2010-03-28 12:49:23</Date>
+    <Timestamp>1269805763</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328124923AAeia8J</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JRuLnIwjaa</UserId>
+    <UserNick>just smile</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The first guy has a good suggestion.  Unplug the router for 30 seconds, then plug it back in.  Wait a coupld minutes and turn your computer on.  Sometimes the router can get screwed up internally and benefits from a reboot just like a computer does...</ChosenAnswer>
+    <ChosenAnswererId>TI0cn1feaa</ChosenAnswererId>
+    <ChosenAnswererNick>18 gibbs 20</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269806672</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270325292</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It sounds like this might be a wireless connection. If that is the case, try resetting your router by unplugging it for 10 seconds and then plugging it back in.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ED8xVUM7aa</UserId>
+            <UserNick>Bloogen</UserNick>
+            <Date>2010-03-28 13:02:45</Date>
+            <Timestamp>1269806565</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The first guy has a good suggestion.  Unplug the router for 30 seconds, then plug it back in.  Wait a coupld minutes and turn your computer on.  Sometimes the router can get screwed up internally and benefits from a reboot just like a computer does...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TI0cn1feaa</UserId>
+            <UserNick>18 gibbs 20</UserNick>
+            <Date>2010-03-28 13:04:32</Date>
+            <Timestamp>1269806672</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:18:30 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223191255AAzraOa" type="Answered">
+    <Subject>What is wrong with FORMSPRING ? ! ANSWER ASAP?</Subject>
+    <Content>I tried loging into my formspring but this mdb2 error: unknown error keep coming up...when I finally got into my account and tried to reconfigure it back to my facebook, the message came up again ! can somebody please help me and tell me how do i get rid of this thng and what it is...
+</Content>
+    <Date>2010-02-23 19:12:55</Date>
+    <Timestamp>1266981175</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223191255AAzraOa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lLDuBAnQaa</UserId>
+    <UserNick>LadyDrizzy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1HZYsdAndAAED-SFuUJTY4hQHI-IF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>That seems to happen on Formspring a lot. You can&#039;t really do anything about it except to wait a while and try again. It will probably go away after a while.</ChosenAnswer>
+    <ChosenAnswererId>oIqtkHhPaa</ChosenAnswererId>
+    <ChosenAnswererNick>J&#039;adore...♥</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267270426</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267500803</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>That seems to happen on Formspring a lot. You can&#039;t really do anything about it except to wait a while and try again. It will probably go away after a while.</Content>
+            <Reference>http://www.formspring.me/Beliface</Reference>
+            <Best>5</Best>
+            <UserId>oIqtkHhPaa</UserId>
+            <UserNick>J&#039;adore...♥</UserNick>
+            <Date>2010-02-27 03:33:46</Date>
+            <Timestamp>1267270426</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:16:55 PDT 2010 -->

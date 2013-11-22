@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316020206AApxtPm" type="Answered">
+    <Subject>help needed with twitter.?</Subject>
+    <Content>can i reply to a person in twitter, whom i am following but hes not following me back?
+ will he get to know about it? how will he get my mssg when hes not following me back? as we reply by - @username 
+iam not talking about direct messages.
+but i created 2 accnts and i replied to one by - @username and i loged in  to check if i got the message but i didnt recieved any reply.
+</Content>
+    <Date>2010-03-16 02:02:06</Date>
+    <Timestamp>1268730126</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316020206AApxtPm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HWW7pTfoaa</UserId>
+    <UserNick>sam</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>He will still get it. In order to see your @ messages you have to click the @YourUserName in your right sidebar. If you click there you will see the one you sent to yourself.</ChosenAnswer>
+    <ChosenAnswererId>X6fioMoYaa</ChosenAnswererId>
+    <ChosenAnswererNick>lee</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268750610</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268768869</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yes, he will recieve your @ replies even if you arent following each other</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YOc0RjdDaa</UserId>
+            <UserNick>Lee</UserNick>
+            <Date>2010-03-16 02:05:15</Date>
+            <Timestamp>1268730315</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The &#039;@&#039; symbol is used to make sure that the answer reaches the person whom you are referring to.. So ...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11841801</UserId>
+            <UserNick>whizkris</UserNick>
+            <Date>2010-03-16 03:16:30</Date>
+            <Timestamp>1268734590</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>He will still get it. In order to see your @ messages you have to click the @YourUserName in your right sidebar. If you click there you will see the one you sent to yourself.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>X6fioMoYaa</UserId>
+            <UserNick>lee</UserNick>
+            <Date>2010-03-16 07:43:30</Date>
+            <Timestamp>1268750610</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:50:31 PDT 2010 -->

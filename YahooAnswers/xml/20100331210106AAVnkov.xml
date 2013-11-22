@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331210106AAVnkov" type="Answered">
+    <Subject>I just ordered something off Amazon.com and I got 1 day shipping so will it be here Friday or Saturday?</Subject>
+    <Content>It didn&#039;t say when I will get it but I have 1 day shipping on it so when will it get here?
+</Content>
+    <Date>2010-03-31 21:01:06</Date>
+    <Timestamp>1270094466</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331210106AAVnkov</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wzDMhFRLaa</UserId>
+    <UserNick>BoomDroppinYa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1JS52n5diAAEC2cQ5PUnwCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>That depends on how close you live to an Amazon distribution center. I live about 12 miles from one so my stuff really does arrive the next day. I think you will be very pleased with their fast shipping.</ChosenAnswer>
+    <ChosenAnswererId>EzTPJCdiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Glenn H</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270095109</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270174117</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you ordered today, and they ship it tomorrow then you should get it Friday, however some companies do not ship until 5pm or after, which will mean you get it saturday.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>11aGQtKQaa</UserId>
+            <UserNick>Broggy</UserNick>
+            <Date>2010-03-31 21:03:11</Date>
+            <Timestamp>1270094591</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That depends on how close you live to an Amazon distribution center. I live about 12 miles from one so my stuff really does arrive the next day. I think you will be very pleased with their fast shipping.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EzTPJCdiaa</UserId>
+            <UserNick>Glenn H</UserNick>
+            <Date>2010-03-31 21:11:49</Date>
+            <Timestamp>1270095109</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:01 PDT 2010 -->

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328121536AATbIoz" type="Answered">
+    <Subject>how to trace an email in yahoo and gmail  coming from unknown sender.?</Subject>
+    <Content>i got an email from unknown person, i donno who is that., i want to track that person by email., help me in this :-)
+
+
+thanks in advance
+</Content>
+    <Date>2010-03-28 12:15:36</Date>
+    <Timestamp>1269803736</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328121536AATbIoz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XLNrzyv4aa</UserId>
+    <UserNick>Karunakar</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Emails don&#039;t allow you to do that due to privacy reasons. Trust me I wish I could track people sometimes too. There might be hack programs, that will let you track people, but that is illegal and can permanently delete your email address.</ChosenAnswer>
+    <ChosenAnswererId>s4epDEC2aa</ChosenAnswererId>
+    <ChosenAnswererNick>Joel Joseph</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269804093</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270323307</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Emails don&#039;t allow you to do that due to privacy reasons. Trust me I wish I could track people sometimes too. There might be hack programs, that will let you track people, but that is illegal and can permanently delete your email address.</Content>
+            <Reference>Computer Class, and basic knowledge.</Reference>
+            <Best>5</Best>
+            <UserId>s4epDEC2aa</UserId>
+            <UserNick>Joel Joseph</UserNick>
+            <Date>2010-03-28 12:21:33</Date>
+            <Timestamp>1269804093</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i hear http://www.emailfinder.com/   works good</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eQiABGcRaa</UserId>
+            <UserNick>Davey</UserNick>
+            <Date>2010-03-28 12:27:32</Date>
+            <Timestamp>1269804452</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>helooo</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OkPWZmfGaa</UserId>
+            <UserNick>Siti Z</UserNick>
+            <Date>2010-03-30 18:44:38</Date>
+            <Timestamp>1269999878</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:18:37 PDT 2010 -->

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306045038AA6A0B5" type="Answered">
+    <Subject>What does the error message, &quot;Tracking information is not available yet for this shipment&quot; mean?</Subject>
+    <Content>I ordered an item from eBay back in February, my payment cleared on the 10th, yet when I follow the tracking number 9101128882300025468945, I keep getting that error message. Shouldn&#039;t the item have been here by now? It was located in Roscoe, IL and was shipped First Class to DP, TX -- how long should that take? And what can I do if I never receive this small item? I&#039;ve tried contacting the seller, but have not yet gotten a reply. What gives?
+</Content>
+    <Date>2010-03-06 04:50:38</Date>
+    <Timestamp>1267879838</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306045038AA6A0B5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BE0mawwjaa</UserId>
+    <UserNick>Alice in Blunderland</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1HbF2e7LyAAEBXcE-gJiUCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The USPS is not required to scan the package along the way.  This message means the USPS has been notified a shipping label with your tracking number has been created, but they don&#039;t know where it is.  I can create a label and take the package directly to the counter that same day.  The package label may not be scanned until it reaches a large distribution postal center along the way.  The only requirement for the USPS is to show the package was DELIVERED.  There have been delays in shipments due to weather across the US, but I would think you should have received your package by now.
+
+If you have contacted the seller and have received no response, file a dispute with eBay.  The longer you wait, the longer it takes to get your refund.  In fact, if you wait too long you won&#039;t get your package or your money back.  You could also take the tracking number to your Post Office and see if it is in their carrier&#039;s vehicle.  That has happened to me, too.  GL!</ChosenAnswer>
+    <ChosenAnswererId>cTJPjHrFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Marnie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267883813</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268070149</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They haven&#039;t dispatched it yet. Perhaps they&#039;re out of stock, perhaps they&#039;re trying to rip you off.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6SULUYAxaa</UserId>
+            <UserNick>Mr Zeb</UserNick>
+            <Date>2010-03-06 04:52:47</Date>
+            <Timestamp>1267879967</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It means that your item probably hasn&#039;t been shipped yet. 
+
+As it is over a month and the seller is not responding you should contact eBay to help resolve your problem. If you paid by PayPal you may well be protected and be able to get your money back. If you go to My eBay &gt; Won Items &gt; and select Resolve a Problem. You will get step-by-step instructions from there.</Content>
+            <Reference>eBay</Reference>
+            <Best></Best>
+            <UserId>oOBvcLBBaa</UserId>
+            <UserNick>bodlang81</UserNick>
+            <Date>2010-03-06 04:54:25</Date>
+            <Timestamp>1267880065</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Which carrier did the seller use,UPS,USPS,Fed-EX?Contact the shipper,give them your tracking #.If the seller did indeed ship your item you should already have it. How did you pay for your item Paypal,credit card?Just about every merchant on e-bay accepts paypal,most of them only accept paypal.I would contact the seller once more,inform him of your intentions to contact paypal and ask for a refund on your $$ because of you have not recieved your merchandise.Paypal will make an attempt to comtact the seller and find out whats going on.If they are unsuccesful usually you can get your $$ back through them but it will take 30-45 days for them to issue a refund,but at least you get your $$ back.I buy things on e-bay for my Mustang all the time and never been taken.Most people are very honest and when you pay for something they get it out to you that day.E-bay has a rating system for people who sell and buy.Based on the feedback that people give you can see what kind of person he or she is based on their feedback.Usually before I purchase anything,especially from a private seller,I e-mail them and inquire about the item.You can also see how long they&#039;ve been selling or buying on e-bay so you know there legit.Sorry to hear about your trouble,most people on e-bay are honest but it only takes one to screw it up for everyone else.Contact paypal or your credit card company,what ever card you used and they will help you get your $$ back,good luck.</Content>
+            <Reference>Buyer and seller on e-bay,5 years.</Reference>
+            <Best></Best>
+            <UserId>NDUD6sDUaa</UserId>
+            <UserNick>vinniebag</UserNick>
+            <Date>2010-03-06 05:10:24</Date>
+            <Timestamp>1267881024</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The USPS is not required to scan the package along the way.  This message means the USPS has been notified a shipping label with your tracking number has been created, but they don&#039;t know where it is.  I can create a label and take the package directly to the counter that same day.  The package label may not be scanned until it reaches a large distribution postal center along the way.  The only requirement for the USPS is to show the package was DELIVERED.  There have been delays in shipments due to weather across the US, but I would think you should have received your package by now.
+
+If you have contacted the seller and have received no response, file a dispute with eBay.  The longer you wait, the longer it takes to get your refund.  In fact, if you wait too long you won&#039;t get your package or your money back.  You could also take the tracking number to your Post Office and see if it is in their carrier&#039;s vehicle.  That has happened to me, too.  GL!</Content>
+            <Reference>buyer and seller on eBay since 2003</Reference>
+            <Best>3</Best>
+            <UserId>cTJPjHrFaa</UserId>
+            <UserNick>Marnie</UserNick>
+            <Date>2010-03-06 05:56:53</Date>
+            <Timestamp>1267883813</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:50:07 PDT 2010 -->

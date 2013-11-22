@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302165844AAfRMe8" type="Answered">
+    <Subject>Can we do video conference with more than one people at the same moment using skype?</Subject>
+    <Content>I am still very new at using Skype and I want to video conference with maybe 2 or 3 friends at the same time. I tried last night but it seemed I didn&#039;t find the way. My friends and I can do the call together but not the video. So is that possible to video conference with more than 1 person at the same time? Thanks for answering.
+</Content>
+    <Date>2010-03-02 16:58:44</Date>
+    <Timestamp>1267577924</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302165844AAfRMe8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nbFIB9rJaa</UserId>
+    <UserNick>Vani</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1gvfIrmR0AAEC9AFQcKZjabwB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Skype, on and by itself, currenlty offers one to one &quot;video conference&quot; (that is, actually , a video call)
+If you want to extend those capabilities, you can resort to add ons for Skype.
+ViVu Inc offers a plug in that apparently does what you asked, at 9.95 a month (see first link)
+
+There are other networks that allow you to do video conferencing but don&#039;t work with Skype (so that all of the friends have to sign up there) You might want to check Yuuguu, since it has a free service that works from a web browser (see second link) or iMundo, that uses the free Adobe Collaboration Software (third link). ooVoo has a service that allows your frinds to see you from a web page without having to sign up, but it will be obviously complicated to implement. They have a basic free service though (see fourth link)
+
+MeBeam does something like what you are looking for, and it is apparently free. You add it to your friends list (and so do your friends) Whenever you want to have a video conference, all the participants consult MeBeam on Skype, and they will see a link to a web address where they can see the video conference. If it does what it says, it starts  in Skype and it works in the web (see the article in the fifth link)
+
+I did not try any of these solutions myself, but I do know that Skype can be extended in many ways.</ChosenAnswer>
+    <ChosenAnswererId>CRZC9ZIMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Marc</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267737598</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267759501</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Unfortunately, video conference is not yet available with Skype. This feature is rumored to be coming up in a later version.</Content>
+            <Reference>www.skype.com</Reference>
+            <Best></Best>
+            <UserId>8h71bPjBaa</UserId>
+            <UserNick>Judit</UserNick>
+            <Date>2010-03-04 03:59:33</Date>
+            <Timestamp>1267703973</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Skype, on and by itself, currenlty offers one to one &quot;video conference&quot; (that is, actually , a video call)
+If you want to extend those capabilities, you can resort to add ons for Skype.
+ViVu Inc offers a plug in that apparently does what you asked, at 9.95 a month (see first link)
+
+There are other networks that allow you to do video conferencing but don&#039;t work with Skype (so that all of the friends have to sign up there) You might want to check Yuuguu, since it has a free service that works from a web browser (see second link) or iMundo, that uses the free Adobe Collaboration Software (third link). ooVoo has a service that allows your frinds to see you from a web page without having to sign up, but it will be obviously complicated to implement. They have a basic free service though (see fourth link)
+
+MeBeam does something like what you are looking for, and it is apparently free. You add it to your friends list (and so do your friends) Whenever you want to have a video conference, all the participants consult MeBeam on Skype, and they will see a link to a web address where they can see the video conference. If it does what it says, it starts  in Skype and it works in the web (see the article in the fifth link)
+
+I did not try any of these solutions myself, but I do know that Skype can be extended in many ways.</Content>
+            <Reference>http://vivu.tv/vivuweb/
+http://www.yuuguu.com/pricing/yuuguu-pricing
+http://escale.net/mundo/
+http://www.oovoo.com/Buy.aspx?pname=Free
+http://www.voip-sol.com/free-multi-person-skype-video-conferencing-chat/</Reference>
+            <Best>4</Best>
+            <UserId>CRZC9ZIMaa</UserId>
+            <UserNick>Marc</UserNick>
+            <Date>2010-03-04 13:19:58</Date>
+            <Timestamp>1267737598</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:33 PDT 2010 -->

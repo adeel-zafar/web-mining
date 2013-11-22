@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327202447AAa97DF" type="Answered">
+    <Subject>Why do i keep getting directed to Aol video when i try to go to Amazon.com?</Subject>
+    <Content>No matter what, i type in the adress, google amazon.com, any form of amazon. I keep getting Aol video!
+</Content>
+    <Date>2010-03-27 20:24:47</Date>
+    <Timestamp>1269746687</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327202447AAa97DF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3TsTdvxRaa</UserId>
+    <UserNick>zinc55</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try clearing your cookies or using a different web browser.</ChosenAnswer>
+    <ChosenAnswererId>sGYPSyUwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Omnipotent W.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269747178</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269797620</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try clearing your cookies or using a different web browser.</Content>
+            <Reference>Amazon is loading fine for me http://www.amazon.com/b?_encoding=UTF8&amp;site-redirect=&amp;node=1055398&amp;tag=b000xpc5eg-20&amp;category=home&amp;garden-20</Reference>
+            <Best>1</Best>
+            <UserId>sGYPSyUwaa</UserId>
+            <UserNick>Omnipotent W.</UserNick>
+            <Date>2010-03-27 20:32:58</Date>
+            <Timestamp>1269747178</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:02 PDT 2010 -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308064336AAhROet" type="Answered">
+    <Subject>WINDOWS 7 keeps disconnecting internet?</Subject>
+    <Content>i have a problem with windows7 . mt internet connection keeps disconnecting after 15 minutes how to remove this problem ? in this a box appear in which there is displayed that ur connection is idle u want to connect ? how to get rid of this?plzz help .. thanks
+</Content>
+    <Date>2010-03-08 06:43:36</Date>
+    <Timestamp>1268059416</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308064336AAhROet</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sREZhgxBaa</UserId>
+    <UserNick>Karan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1gSIdBqZgAAEC_GH6yNsBDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Normally, you can check the following settings.
+Click on internet option &amp; under connection tab, click on setting after highlighting the connection name.
+Click on advanced &amp; uncheck the box which says disconnect when connection may no longer be needed.
+Another way is to click on the connection icon in my network connections &amp; click on properties.
+Under option tab, put &quot; never&quot; in the box which says idle time before hang up.
+I am sure you will find this information of some help to you.</ChosenAnswer>
+    <ChosenAnswererId>vB3bbHIvaa</ChosenAnswererId>
+    <ChosenAnswererNick>bish</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268059696</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268211314</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Normally, you can check the following settings.
+Click on internet option &amp; under connection tab, click on setting after highlighting the connection name.
+Click on advanced &amp; uncheck the box which says disconnect when connection may no longer be needed.
+Another way is to click on the connection icon in my network connections &amp; click on properties.
+Under option tab, put &quot; never&quot; in the box which says idle time before hang up.
+I am sure you will find this information of some help to you.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>vB3bbHIvaa</UserId>
+            <UserNick>bish</UserNick>
+            <Date>2010-03-08 06:48:16</Date>
+            <Timestamp>1268059696</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:33:48 PDT 2010 -->

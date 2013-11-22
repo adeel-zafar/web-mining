@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314141511AA0BtQO" type="Answered">
+    <Subject>my internet explore work but why wont anything else internet related work?</Subject>
+    <Content>so its been liike this for awhile and i just dont know what to do, my internet explorer works fine but the problem is everything else says im not connected to internet. all time i download something and try to open it it says the same thing. like when i try to get an update on java or adobe it wont let me and i cant get onn lime wire without it. pleeaasseee plleaassee help me
+</Content>
+    <Date>2010-03-14 14:15:11</Date>
+    <Timestamp>1268601311</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314141511AA0BtQO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hIXqUPt1aa</UserId>
+    <UserNick>Griffin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Check your settings of your firewall and your security certificate. Also, make sure you&#039;re on your page, if you&#039;re sharing the computer with someone else make sure you&#039;re not on their log in page.</ChosenAnswer>
+    <ChosenAnswererId>l42sjTbWaa</ChosenAnswererId>
+    <ChosenAnswererNick>Veronica</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268601664</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269120926</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Change your firewall settings to allow them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lyDppNmzaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-14 14:17:42</Date>
+            <Timestamp>1268601462</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Check your settings of your firewall and your security certificate. Also, make sure you&#039;re on your page, if you&#039;re sharing the computer with someone else make sure you&#039;re not on their log in page.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>l42sjTbWaa</UserId>
+            <UserNick>Veronica</UserNick>
+            <Date>2010-03-14 14:21:04</Date>
+            <Timestamp>1268601664</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:58:16 PDT 2010 -->

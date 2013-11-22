@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320233319AA22nIR" type="Answered">
+    <Subject>How can I get new proxy sites?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-20 23:33:19</Date>
+    <Timestamp>1269153199</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320233319AA22nIR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Sbt5HUIwaa</UserId>
+    <UserNick>ali_jopht</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here are some:
+
+http://www.usaproxy.org
+http://www.australiaproxy.com
+http://www.germanproxy.org
+http://www.franceproxy.org
+http://www.schoolchan.com
+http://www.newzealandproxy.com
+http://www.canadaproxy.org
+http://www.proxyuk.org
+http://www.proxyus.org</ChosenAnswer>
+    <ChosenAnswererId>3lwUijYPaa</ChosenAnswererId>
+    <ChosenAnswererNick>Captain Lolz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269170663</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269170970</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>find in google search</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1ctLmZUUaa</UserId>
+            <UserNick>Harris</UserNick>
+            <Date>2010-03-20 23:56:53</Date>
+            <Timestamp>1269154613</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here are some:
+
+http://www.usaproxy.org
+http://www.australiaproxy.com
+http://www.germanproxy.org
+http://www.franceproxy.org
+http://www.schoolchan.com
+http://www.newzealandproxy.com
+http://www.canadaproxy.org
+http://www.proxyuk.org
+http://www.proxyus.org</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3lwUijYPaa</UserId>
+            <UserNick>Captain Lolz</UserNick>
+            <Date>2010-03-21 04:24:23</Date>
+            <Timestamp>1269170663</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:45 PDT 2010 -->

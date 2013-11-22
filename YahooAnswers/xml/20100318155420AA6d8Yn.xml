@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318155420AA6d8Yn" type="Answered">
+    <Subject>Safari and IE won&#039;t display web pages even though I&#039;m connected to the internet?</Subject>
+    <Content>Okay, I&#039;m having an issue. My Firefox browser works. It lets me browse web pages, no web problems. 
+
+However, Safari and IE don&#039;t. Safari will say &quot;Safari can’t open the page “http://www.apple.com/startpage/”. The error is: “There was a problem communicating with the web proxy server (HTTP).” (CFURLErrorDomain:306)&quot; IE does something similar. 
+
+I&#039;ve also noticed that I can&#039;t get on iTunes store. It says the connection has timed out. 
+
+What is going on?!
+I&#039;ve updated both, neither are working.
+Nevermind, I figured it out. You were all wrong. NO POINTS FO YOU! Hahaha, just kidding.
+</Content>
+    <Date>2010-03-18 15:54:20</Date>
+    <Timestamp>1268952860</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318155420AA6d8Yn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Vh89Zsu2aa</UserId>
+    <UserNick>Destynee</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a5e73f5i1634zul1sp1/0vlh35o1frVQGrkvgU9L/106/tn48.jpg?ciAAToMBZlfV7_dk</UserPhotoURL>
+    <NumAnswers>12</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If this is a home or personal notebook computer, you shouldn&#039;t need a proxy server.  If you didn&#039;t install one, and your parents haven&#039;t installed content-blocking software, then you may have contracted some kind of malware.
+
+In Firefox 3, try:
+
+1. On the &quot;Tools&quot; menu, click &quot;Options...&quot;
+
+2. Click the &quot;Advanced&quot; toolbar button, then click on the &quot;Network&quot; tab.
+
+3. Under &quot;Connection&quot;, click the &quot;Settings...&quot; button.
+
+4. If the &quot;No proxy&quot; radio button is selected, then you don&#039;t need a proxy for web operation.  If it is, write down or screen capture (see below) the list of proxy settings that are known to work.
+
+5. Click OK twice to close the Connection Settings and Options dialog boxes.
+
+Then, for IE and Safari (which uses IE settings) open IE and:
+
+1. On the &quot;Tools&quot; menu, click &quot;Internet Options&quot;
+
+2. Click the &quot;Connections&quot; tab, and then click the &quot;LAN Settings&quot; button.
+
+3. If the &quot;Use a proxy server for your LAN&quot; is not checked, I don&#039;t know what&#039;s going on.  If it is, click on the &quot;Advanced&quot; button and write down or screen capture every setting (just in case).  Then click &quot;Cancel&quot; to close the &quot;Proxy Settings&quot; dialog.
+
+4. Check the &quot;Automatically detect settings&quot; box and clear the &quot;Use a proxy server for your LAN&quot; check box. and click &quot;OK&quot; to close the LAN Settings dialog.  Click OK to close the Internet options.
+
+6. Close ALL Internet Explorer windows and restart IE to see if it works.  This may take a LONG time to display the first page.
+
+Malicious software or installed parental control software may not let you change these settings, though.  If you are connecting through a school or work network, you may not be able to get to the net at all without using a proxy. (That&#039;s part of what the &quot;just in case&quot; was about.)
+
+*** Screen Shot:  To take a screen shot of one window on Windows, while the window is active, click Ctrl+PrintScrn.  This will copy an image of the screen to the clipboard.  Then launch an image editor program like Paint (Start&gt;All Programs&gt;Accessories&gt;Paint) or a word processing program like MS Word or WordPad, and use Edit&gt;Paste or Ctrl+V to paste the image into the new image file or document.  Save the image/document and/or print it.</ChosenAnswer>
+    <ChosenAnswererId>EuN4zRCLaa</ChosenAnswererId>
+    <ChosenAnswererNick>husoski</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268955256</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269006359</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>if it works,why fix it? just use firefox</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UjHmppv5aa</UserId>
+            <UserNick>Pyramid Head ☭ ☢ ☣</UserNick>
+            <Date>2010-03-18 15:57:44</Date>
+            <Timestamp>1268953064</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You need to probly update your computer for the itunes and safari is bad bad safri use fire fox</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>H5CUBw1Vaa</UserId>
+            <UserNick>Greenough</UserNick>
+            <Date>2010-03-18 15:58:07</Date>
+            <Timestamp>1268953087</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Does your computer have a virus?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>464e816f852b5bae2ce8d38fde1d8270aa</UserId>
+            <UserNick>Puhhh-Tr!c3</UserNick>
+            <Date>2010-03-18 15:59:20</Date>
+            <Timestamp>1268953160</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>call your internet company</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Oev1rz9Daa</UserId>
+            <UserNick>Logan</UserNick>
+            <Date>2010-03-18 15:59:33</Date>
+            <Timestamp>1268953173</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>u probably have over used it and for the firefox thing you just need to renew your connection</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iTtG6S81aa</UserId>
+            <UserNick>Ruben</UserNick>
+            <Date>2010-03-18 16:00:35</Date>
+            <Timestamp>1268953235</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It maybe to do with safaris server itself, i don&#039;t think it is the browser personally, try clearing your cache/cookies and all history, If you don&#039;t really need to use safari then i would just use firefox, you could try it again some other time, probably itunes is full of traffic at the moment (too many people going on it), if safari doesn&#039;t work the next time you go on it, try downloading the browser again.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Cg7yWSo9aa</UserId>
+            <UserNick>Goku(Kacarot)/ Ultraman Tiga fan</UserNick>
+            <Date>2010-03-18 16:02:11</Date>
+            <Timestamp>1268953331</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>maybe try to download firefox again...what u need to do uninstalled the first one then reinstalled it again.
+
+then after you did that..try to do your things again check it did work.....sometimes some software don&#039;t work properly if they didn&#039;t get installed properly.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>da497ea7749d6b78f031c2d25fb8b526aa</UserId>
+            <UserNick>angel</UserNick>
+            <Date>2010-03-18 16:02:33</Date>
+            <Timestamp>1268953353</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ok. The first thing I need to tell you is that I don&#039;t like safari! Google chrome is way better! It&#039;s fast! Anyway.... Try reinstalling Safari.
+Thats all I have to say..........</Content>
+            <Reference>www.tipsandtricks101.com</Reference>
+            <Best></Best>
+            <UserId>zCgyFhiVaa</UserId>
+            <UserNick>David Piluso</UserNick>
+            <Date>2010-03-18 16:03:46</Date>
+            <Timestamp>1268953426</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>When is the last time you restarted your computer?
+
+Your internet controller in your mother board might be bogged down by way to much RAM. Restart your computer. If that doesn&#039;t work try restarting your router as well. Updating may help to.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EUox6ZqMaa</UserId>
+            <UserNick>Jacob</UserNick>
+            <Date>2010-03-18 16:04:16</Date>
+            <Timestamp>1268953456</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That&#039;s very odd, you can try this...
+But honestly if Firefox is working then I&#039;d leave it alone and just stick with that as your main browser.
+You should also try re-installing Safari and make sure your Internet Explorer is up to date and not an old version.
+
+If you have Windows XP
+System Preferences -&gt; Network -&gt; Advanced -&gt; Proxies and make sure HTTP proxy is not checked.
+
+For Vista
+Start -&gt; Internet Explorer -&gt; Tools -&gt; Internet Options -&gt; Connections -&gt; LAN Settings -&gt; Select Use a proxy server for your LAN -&gt; Advanced
+
+Type your address in but reverse the slashes so instead of http://apple.com/startpage/ change it to http:\\apple.com\startpage</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>l4RVsDRNaa</UserId>
+            <UserNick>Alex</UserNick>
+            <Date>2010-03-18 16:22:25</Date>
+            <Timestamp>1268954545</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If this is a home or personal notebook computer, you shouldn&#039;t need a proxy server.  If you didn&#039;t install one, and your parents haven&#039;t installed content-blocking software, then you may have contracted some kind of malware.
+
+In Firefox 3, try:
+
+1. On the &quot;Tools&quot; menu, click &quot;Options...&quot;
+
+2. Click the &quot;Advanced&quot; toolbar button, then click on the &quot;Network&quot; tab.
+
+3. Under &quot;Connection&quot;, click the &quot;Settings...&quot; button.
+
+4. If the &quot;No proxy&quot; radio button is selected, then you don&#039;t need a proxy for web operation.  If it is, write down or screen capture (see below) the list of proxy settings that are known to work.
+
+5. Click OK twice to close the Connection Settings and Options dialog boxes.
+
+Then, for IE and Safari (which uses IE settings) open IE and:
+
+1. On the &quot;Tools&quot; menu, click &quot;Internet Options&quot;
+
+2. Click the &quot;Connections&quot; tab, and then click the &quot;LAN Settings&quot; button.
+
+3. If the &quot;Use a proxy server for your LAN&quot; is not checked, I don&#039;t know what&#039;s going on.  If it is, click on the &quot;Advanced&quot; button and write down or screen capture every setting (just in case).  Then click &quot;Cancel&quot; to close the &quot;Proxy Settings&quot; dialog.
+
+4. Check the &quot;Automatically detect settings&quot; box and clear the &quot;Use a proxy server for your LAN&quot; check box. and click &quot;OK&quot; to close the LAN Settings dialog.  Click OK to close the Internet options.
+
+6. Close ALL Internet Explorer windows and restart IE to see if it works.  This may take a LONG time to display the first page.
+
+Malicious software or installed parental control software may not let you change these settings, though.  If you are connecting through a school or work network, you may not be able to get to the net at all without using a proxy. (That&#039;s part of what the &quot;just in case&quot; was about.)
+
+*** Screen Shot:  To take a screen shot of one window on Windows, while the window is active, click Ctrl+PrintScrn.  This will copy an image of the screen to the clipboard.  Then launch an image editor program like Paint (Start&gt;All Programs&gt;Accessories&gt;Paint) or a word processing program like MS Word or WordPad, and use Edit&gt;Paste or Ctrl+V to paste the image into the new image file or document.  Save the image/document and/or print it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EuN4zRCLaa</UserId>
+            <UserNick>husoski</UserNick>
+            <Date>2010-03-18 16:34:16</Date>
+            <Timestamp>1268955256</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here&#039;s a free proxy created today:
+http://ipmasks.info
+
+-Unblock ANY Website
+-watch youtube videos
+-download up to 50 MB
+-hide you IP and stay anonymous
+-Fast and hosted on a dedicated server
+
+I get new proxies here everyday:
+http://tech.groups.yahoo.com/group/NewFastWorkingProxies/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oZydD2rsaa</UserId>
+            <UserNick>Mike D</UserNick>
+            <Date>2010-03-19 01:07:45</Date>
+            <Timestamp>1268986065</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:38:30 PDT 2010 -->

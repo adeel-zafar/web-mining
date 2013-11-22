@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309154404AA8yH5M" type="Answered">
+    <Subject>When would one use a database to answer a query on the internet?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-09 15:44:04</Date>
+    <Timestamp>1268178244</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309154404AA8yH5M</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Lk0m6M9taa</UserId>
+    <UserNick>Miss Lockhart</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1p6auoqe_AAEDVKJl9IxuEl0-U1pUnw==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Not very clear.. but will answer any way..
+
+When you posted yur question 10 mins ago... you used a database that was connected to one of Yahoo&#039;s many servers. Just like that, when i will answer, my answer will get stord in one of the many databases of yahoo.. 
+
+Its everywhere and ppl use it everytym... every command that you give, everything that you search in your google, is checked for records that are stored in the database.. They are checked through the index of every database, and the indexes are in the form of trees..[I mean the data structure - tree[not the conventional one]]
+
+Really not sure if that&#039;s what you asked.</ChosenAnswer>
+    <ChosenAnswererId>K05gcqRHaa</ChosenAnswererId>
+    <ChosenAnswererNick>wiz_kid 2006</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268179225</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268222945</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Not very clear.. but will answer any way..
+
+When you posted yur question 10 mins ago... you used a database that was connected to one of Yahoo&#039;s many servers. Just like that, when i will answer, my answer will get stord in one of the many databases of yahoo.. 
+
+Its everywhere and ppl use it everytym... every command that you give, everything that you search in your google, is checked for records that are stored in the database.. They are checked through the index of every database, and the indexes are in the form of trees..[I mean the data structure - tree[not the conventional one]]
+
+Really not sure if that&#039;s what you asked.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>K05gcqRHaa</UserId>
+            <UserNick>wiz_kid 2006</UserNick>
+            <Date>2010-03-09 16:00:25</Date>
+            <Timestamp>1268179225</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:23:30 PDT 2010 -->

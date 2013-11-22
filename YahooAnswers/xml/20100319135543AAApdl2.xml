@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319135543AAApdl2" type="Answered">
+    <Subject>why is webshots doing this?</Subject>
+    <Content>when ever i go to webshots the page looks like this http://www.webshots.com/ why
+</Content>
+    <Date>2010-03-19 13:55:43</Date>
+    <Timestamp>1269032143</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319135543AAApdl2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yYrLQW5Gaa</UserId>
+    <UserNick>jacob</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1pG1sODtnAAIC4wJhCI7eUU4CDw==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Looks the same as always to me.</ChosenAnswer>
+    <ChosenAnswererId>RCU8qmx0aa</ChosenAnswererId>
+    <ChosenAnswererNick>ValerieB</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269032268</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269551655</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Seems pretty normal to me!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8YZ8tJeTaa</UserId>
+            <UserNick>jeanmarcberard</UserNick>
+            <Date>2010-03-19 13:57:15</Date>
+            <Timestamp>1269032235</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Looks the same as always to me.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RCU8qmx0aa</UserId>
+            <UserNick>ValerieB</UserNick>
+            <Date>2010-03-19 13:57:48</Date>
+            <Timestamp>1269032268</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:35:00 PDT 2010 -->

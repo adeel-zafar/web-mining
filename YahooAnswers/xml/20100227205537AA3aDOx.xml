@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227205537AA3aDOx" type="Answered">
+    <Subject>Why is my internet broken? Is it because I&#039;m a Mad Dawg, and just outright awesome?</Subject>
+    <Content>My internet is not working, and Im not sure why. Is it because i&#039;m heaps awesome and stuff, and, maybe it&#039;s put up by the fact that I&#039;m a professional mad dawg?
+I can&#039;t connect to any web page!
+</Content>
+    <Date>2010-02-27 20:55:37</Date>
+    <Timestamp>1267332937</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227205537AA3aDOx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>R29jNxaFaa</UserId>
+    <UserNick>Grant K</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, i think thats the problem.</ChosenAnswer>
+    <ChosenAnswererId>90MtAZTlaa</ChosenAnswererId>
+    <ChosenAnswererNick>L i n x</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267333006</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268247901</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, i think thats the problem.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>90MtAZTlaa</UserId>
+            <UserNick>L i n x</UserNick>
+            <Date>2010-02-27 20:56:46</Date>
+            <Timestamp>1267333006</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes you;re definitely right! you got it!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bgcRcJ1Qaa</UserId>
+            <UserNick>ChocolateCakeLady</UserNick>
+            <Date>2010-02-27 20:56:54</Date>
+            <Timestamp>1267333014</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yo, you the man now dawg!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6G2GzSuWaa</UserId>
+            <UserNick>Trent Strong</UserNick>
+            <Date>2010-02-27 20:57:00</Date>
+            <Timestamp>1267333020</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:41:02 PDT 2010 -->

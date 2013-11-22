@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301000627AAFiLKP" type="Answered">
+    <Subject>Are these the same website? Chatroulette?</Subject>
+    <Content>i see there is one www.chatroulette.com &amp; chatroulette.com. Which one is the right one?
+</Content>
+    <Date>2010-03-01 00:06:27</Date>
+    <Timestamp>1267430787</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301000627AAFiLKP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hqDY9vQ4aa</UserId>
+    <UserNick>enegue</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Same site, you just don&#039;t have www in front of one of those. The same site can also be accessed by chatrt.com</ChosenAnswer>
+    <ChosenAnswererId>7uLbck8raa</ChosenAnswererId>
+    <ChosenAnswererNick>Matt H.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267434124</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267950194</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They are the same sites</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KzfQdl61aa</UserId>
+            <UserNick>Starcraft 2 fan</UserNick>
+            <Date>2010-03-01 00:09:26</Date>
+            <Timestamp>1267430966</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Same site, you just don&#039;t have www in front of one of those. The same site can also be accessed by chatrt.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7uLbck8raa</UserId>
+            <UserNick>Matt H.</UserNick>
+            <Date>2010-03-01 01:02:04</Date>
+            <Timestamp>1267434124</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:33:56 PDT 2010 -->

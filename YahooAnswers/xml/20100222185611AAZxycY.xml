@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222185611AAZxycY" type="Answered">
+    <Subject>Can you name this 4chan meme for me?</Subject>
+    <Content>It has a chubby redhead marching band kid and then a faded image of his face over the picture of his body. Then it has a saying around it like, &quot;We went to war to fight the monsters... now we&#039;re the monsters.&quot;
+</Content>
+    <Date>2010-02-22 18:56:11</Date>
+    <Timestamp>1266893771</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222185611AAZxycY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>l9DQMZkMaa</UserId>
+    <UserNick>Ian</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i beleve that would be followed with a traditiona &quot;lolwut?&quot;</ChosenAnswer>
+    <ChosenAnswererId>8b8d8b5e8aa0f3f5e2181d7c427eb793aa</ChosenAnswererId>
+    <ChosenAnswererNick>ineedacar</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266894234</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266981428</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i beleve that would be followed with a traditiona &quot;lolwut?&quot;</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>8b8d8b5e8aa0f3f5e2181d7c427eb793aa</UserId>
+            <UserNick>ineedacar</UserNick>
+            <Date>2010-02-22 19:03:54</Date>
+            <Timestamp>1266894234</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you search for it on Google and it comes up with 2 results, both being the question you asked, it&#039;s hardly a meme.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ehIbj9N7aa</UserId>
+            <UserNick>Razeth</UserNick>
+            <Date>2010-02-22 19:04:16</Date>
+            <Timestamp>1266894256</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:18 PDT 2010 -->

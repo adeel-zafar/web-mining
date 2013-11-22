@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304175223AA0UFUm" type="Answered">
+    <Subject>What is your favorite how to book?</Subject>
+    <Content>When it comes to computers mainly?
+</Content>
+    <Date>2010-03-04 17:52:23</Date>
+    <Timestamp>1267753943</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304175223AA0UFUm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8veEaquxaa</UserId>
+    <UserNick>inim o</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>compupeter mainly....none
+
+when i was a kid i loved this how to draw book and tried to draw every page in there</ChosenAnswer>
+    <ChosenAnswererId>Ir4hXVisaa</ChosenAnswererId>
+    <ChosenAnswererNick>banana66</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267754035</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268352777</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>compupeter mainly....none
+
+when i was a kid i loved this how to draw book and tried to draw every page in there</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>Ir4hXVisaa</UserId>
+            <UserNick>banana66</UserNick>
+            <Date>2010-03-04 17:53:55</Date>
+            <Timestamp>1267754035</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 22:01:07 PDT 2010 -->

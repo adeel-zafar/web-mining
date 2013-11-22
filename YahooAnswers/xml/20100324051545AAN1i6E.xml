@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324051545AAN1i6E" type="Answered">
+    <Subject>Private blog that shows up on google, and seen when cached?</Subject>
+    <Content>I&#039;ve got a private blogger blog, and being the worried person that I am, looked it up online and found it. If someone just clicks on the link, it says the blog is restricted and won&#039;t let them read it. But if someone clicks on the &quot;cached&quot; button underneath the link, it takes them to a cache of a page of my blog that they can read (but they can&#039;t click to see more entries)
+
+I don&#039;t put full names, and I doubt anyone would even be able to get a specific phrase from my blog to find it in a search, but I still find it creepy. Any way to stop this?
+</Content>
+    <Date>2010-03-24 05:15:45</Date>
+    <Timestamp>1269432945</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324051545AAN1i6E</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>78c33d47fef626fed067b2b7d6002a9eaa</UserId>
+    <UserNick>bookgirlx3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1kMXJi7HrAAEB9KFpHA7PcVpwDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you want to hide the &quot;Cached&quot; link on search results pages for your website(s)then Put this code into the &lt;head&gt; tag of your website: &lt;meta name=&quot;robots&quot; content=&quot;noarchive&quot;&gt; If you just want to hide the &quot;Cached&quot; link on Google but not on other search engines, use this code: &lt;meta name=&quot;googlebot&quot; cont...ent=&quot;noarchive&quot;&gt;
+
+Jason
+http://autocarloans.net</ChosenAnswer>
+    <ChosenAnswererId>kv0WU4ugaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jason Z</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269433350</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269486981</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You might want to use a robots.txt file. 
+
+It doesn&#039;t always work, but it&#039;s pretty effective in most cases.
+
+Read this.
+
+http://en.wikipedia.org/wiki/Robots_exclusion_standard</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BhNP2P8Xaa</UserId>
+            <UserNick>joe.attaboy</UserNick>
+            <Date>2010-03-24 05:18:20</Date>
+            <Timestamp>1269433100</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>cached files are local to your machine. If your blog is private then no one can access it, unless you open it on another machine then it would be cached there too, best thing is to clear all cached files before moving on, but if it&#039;s you personal computer then you are the only one who has access to it unless you let someone else use your computer then you have a problem with cache files.
+
+I hope this helps,
+
+http://prodigalconcepts.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TP9DOCvlaa</UserId>
+            <UserNick>xzykho</UserNick>
+            <Date>2010-03-24 05:20:09</Date>
+            <Timestamp>1269433209</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you want to hide the &quot;Cached&quot; link on search results pages for your website(s)then Put this code into the &lt;head&gt; tag of your website: &lt;meta name=&quot;robots&quot; content=&quot;noarchive&quot;&gt; If you just want to hide the &quot;Cached&quot; link on Google but not on other search engines, use this code: &lt;meta name=&quot;googlebot&quot; cont...ent=&quot;noarchive&quot;&gt;
+
+Jason
+http://autocarloans.net</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kv0WU4ugaa</UserId>
+            <UserNick>Jason Z</UserNick>
+            <Date>2010-03-24 05:22:30</Date>
+            <Timestamp>1269433350</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:35:47 PDT 2010 -->

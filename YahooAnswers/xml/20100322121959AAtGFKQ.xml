@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322121959AAtGFKQ" type="Answered">
+    <Subject>how do i retrieve deleted comments on blogger?</Subject>
+    <Content>Does anyone know how to recover comments deleted in Blogger / Blogspot comments by the blog owner?
+I tried using Google or Yahoo! cache but they&#039;ve cached the newer versions of the blog posts with comments.
+I&#039;m trying to find a comment I know was deleted on a blog I follow.
+</Content>
+    <Date>2010-03-22 12:19:59</Date>
+    <Timestamp>1269285599</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322121959AAtGFKQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xDdUgI1Saa</UserId>
+    <UserNick>Albi Nice</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1gevslEQjAAMC_CF2FLBeCA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If it is deleted and not seen in the cache, you can not retrieve it, sorry.</ChosenAnswer>
+    <ChosenAnswererId>eeZdtPZFaa</ChosenAnswererId>
+    <ChosenAnswererNick>nailyener</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269328518</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269616488</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If it is deleted and not seen in the cache, you can not retrieve it, sorry.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>eeZdtPZFaa</UserId>
+            <UserNick>nailyener</UserNick>
+            <Date>2010-03-23 00:15:18</Date>
+            <Timestamp>1269328518</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:39 PDT 2010 -->

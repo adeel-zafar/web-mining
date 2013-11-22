@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228114623AA5gcD1" type="Answered">
+    <Subject>Firefox default Search Engine help?</Subject>
+    <Content>Ok, so I&#039;m hoping here that some of the tech-savvy people out there can help with this one, because god knows I&#039;ve tried as hard as I can
+
+Recently, I download this stupid piece of software (I can&#039;t even remember the name of it anymore) and while I was installing it, I changed the default search engine for Firefox. Now, when I say the default search engine, I mean when you type something into the address bar and a search comes up matching the words from Google. After installing this software, It&#039;s been changed to some &quot;Freecause&quot; crap, and it bugs the hell outta me because it never turns up anything useful, whereas I can count on google to give me a decent result. 
+
+So basicly,  Does anyone know how to change the search engine that&#039;s used when you type something into the address bar in Firefox? I&#039;d use the search bar at the side, but I&#039;m used to using to address bar..
+
+Thanks A LOT for any help in advance :)
+Thank you so much Will that worked like a charm, If I ever meet you in the real world, i&#039;m going to give you a million dollars!
+Or whichever currency you&#039;re using :P
+</Content>
+    <Date>2010-02-28 11:46:23</Date>
+    <Timestamp>1267386383</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228114623AA5gcD1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Z0tQDaQraa</UserId>
+    <UserNick>Ian R</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Found a page on it:
+
+http://blog.taragana.com/index.php/archive/how-to-change-your-firefox-location-bar-search-engine/
+
+hope it helps!</ChosenAnswer>
+    <ChosenAnswererId>kCiXCKkLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Will</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267386771</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267460987</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Found a page on it:
+
+http://blog.taragana.com/index.php/archive/how-to-change-your-firefox-location-bar-search-engine/
+
+hope it helps!</Content>
+            <Reference>google</Reference>
+            <Best>5</Best>
+            <UserId>kCiXCKkLaa</UserId>
+            <UserNick>Will</UserNick>
+            <Date>2010-02-28 11:52:51</Date>
+            <Timestamp>1267386771</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:32 PDT 2010 -->

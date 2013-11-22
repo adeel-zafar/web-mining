@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312235817AAMHLU5" type="Answered">
+    <Subject>Is it possible to ONLY get Cox internet?</Subject>
+    <Content>Is it possible to only get Cox internet, without getting their cable?
+
+Currently I have Qwest DSL, and DirecTV.
+We love our DirecTV, so we want to keep it, but get faster internet.
+
+Is it possible?
+And how much would it be for medium speed?
+Thank you
+</Content>
+    <Date>2010-03-12 23:58:17</Date>
+    <Timestamp>1268467097</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312235817AAMHLU5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GiM4LZy3aa</UserId>
+    <UserNick>tylar112</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1_26g5PIoAAEBQYE_nIrZZvgA.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>$34 a month for the 1st 5 months. $70 a month after that.</ChosenAnswer>
+    <ChosenAnswererId>BgwTxzEFaa</ChosenAnswererId>
+    <ChosenAnswererNick>korgrue</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268467380</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268982807</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>$34 a month for the 1st 5 months. $70 a month after that.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BgwTxzEFaa</UserId>
+            <UserNick>korgrue</UserNick>
+            <Date>2010-03-13 00:03:00</Date>
+            <Timestamp>1268467380</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:06:06 PDT 2010 -->

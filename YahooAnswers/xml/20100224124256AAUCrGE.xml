@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224124256AAUCrGE" type="Answered">
+    <Subject>Jeopardy mentioned 4chan? Safe to go there?</Subject>
+    <Content>I was browsing youtube today and aw that one of the videos being watched was about 4chan being mentioned on jeopardy. ( http://www.youtube.com/watch?v=N7BiaTz_6gI )
+
+I had heard of 4chan before but it was always bad things. If it got onto jeopardy it cant be that bad, is it safe to go there?
+</Content>
+    <Date>2010-02-24 12:42:56</Date>
+    <Timestamp>1267044176</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224124256AAUCrGE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6TujZbDaaa</UserId>
+    <UserNick>Krista</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>4chan is an anonymous image board.  Lots of perverted stuff there.  So if you don&#039;t mind the pervserion yes it is safe to visit as long as you don&#039;t download anything...</ChosenAnswer>
+    <ChosenAnswererId>gHDcV5fNaa</ChosenAnswererId>
+    <ChosenAnswererNick>Frank</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267044266</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267563829</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>4chan is an anonymous image board.  Lots of perverted stuff there.  So if you don&#039;t mind the pervserion yes it is safe to visit as long as you don&#039;t download anything...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gHDcV5fNaa</UserId>
+            <UserNick>Frank</UserNick>
+            <Date>2010-02-24 12:44:26</Date>
+            <Timestamp>1267044266</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Avoid /b/.
+You could accidentally look at pictures that would make you a criminal.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>L3gWyaG1aa</UserId>
+            <UserNick>Arrogant John</UserNick>
+            <Date>2010-02-24 12:50:25</Date>
+            <Timestamp>1267044625</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:14:10 PDT 2010 -->

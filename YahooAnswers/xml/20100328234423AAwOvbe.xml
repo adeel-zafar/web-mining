@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328234423AAwOvbe" type="Answered">
+    <Subject>what are the top 3 used widely email services in America?</Subject>
+    <Content>what are the top 3 used widely email services in America?
+</Content>
+    <Date>2010-03-28 23:44:23</Date>
+    <Timestamp>1269845063</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328234423AAwOvbe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1LchvyKyaa</UserId>
+    <UserNick>Kate</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4acc17b3i12eazul5sp1/Vf.JGns8brVUUapAWykxUj4-/2/tn48.jpg?ciAAToMBywmr5FdL</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yahoo
+Gmail
+Hotmail.
+
+Mainly because they are all free.</ChosenAnswer>
+    <ChosenAnswererId>Vy2ri030aa</ChosenAnswererId>
+    <ChosenAnswererNick>alex</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269845235</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269871389</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yahoo
+Gmail
+Hotmail.
+
+Mainly because they are all free.</Content>
+            <Reference>http://hubpages.com/hub/Top-3-Email-Providers</Reference>
+            <Best>5</Best>
+            <UserId>Vy2ri030aa</UserId>
+            <UserNick>alex</UserNick>
+            <Date>2010-03-28 23:47:15</Date>
+            <Timestamp>1269845235</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:16:48 PDT 2010 -->

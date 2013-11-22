@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221172225AAIG5r3" type="Answered">
+    <Subject>Every time I try to print a card on Yahoo American greetings while I&#039;m using Firefox, explorer pops but nocard?</Subject>
+    <Content>I don&#039;t understand why explorer takes over and then doesn&#039;t show the card to personalize and print.
+</Content>
+    <Date>2010-02-21 17:22:25</Date>
+    <Timestamp>1266801745</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221172225AAIG5r3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3kyfiGnZaa</UserId>
+    <UserNick>flyawayd</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Do you mean a popup window will open when you select an ecard, but nothing shows in the popup?
+
+If so, it may be due to lack of  Adobe Flash Player extension in your firefox. You can download the latest version of this product from :
+
+ http://get.adobe.com/shockwave/ 
+
+and 
+
+http://www.adobe.com/products/flashplayer/
+
+Download and install them. Then restart your computer and reopen your firefox.
+
+Good Luck</ChosenAnswer>
+    <ChosenAnswererId>JLr3UcEHaa</ChosenAnswererId>
+    <ChosenAnswererNick>MS</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266912627</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268065374</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you have explorer still set as the default to open .htm and .html files ( not default browser) so every time a .htm file or link pops up it opens explorer instead of firefox, look in folder options to reset the default or right click on an htm file and click open with then choose firefox and make it the default, mozilla should make this automatic but they are not actually very good at what they do</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-02-21 17:33:26</Date>
+            <Timestamp>1266802406</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Do you mean a popup window will open when you select an ecard, but nothing shows in the popup?
+
+If so, it may be due to lack of  Adobe Flash Player extension in your firefox. You can download the latest version of this product from :
+
+ http://get.adobe.com/shockwave/ 
+
+and 
+
+http://www.adobe.com/products/flashplayer/
+
+Download and install them. Then restart your computer and reopen your firefox.
+
+Good Luck</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JLr3UcEHaa</UserId>
+            <UserNick>MS</UserNick>
+            <Date>2010-02-23 00:10:27</Date>
+            <Timestamp>1266912627</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:32:28 PDT 2010 -->

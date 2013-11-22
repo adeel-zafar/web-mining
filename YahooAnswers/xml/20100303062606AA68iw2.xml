@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303062606AA68iw2" type="Answered">
+    <Subject>Is this colleges internet connection fast/good enough?</Subject>
+    <Content>I&#039;m trying to pick a college to go to, and the internet connection will be a big part to me seeing as how I play online games  a whole lot (WoW, tf2, Battlefield Bad Company 2 etc, but mainly WoW).
+
+Anyways, I know very little about connection and bandwidth and how they relate. Heres the direct quote from the schools website about their bandwidth
+
+&quot;At the present time, **** University maintains two DS3 connections to the Internet. One DS3 connection is through Network Virginia and the other is through COVANET. This provides a maximum Internet Connection capacity of 90 megabits per second.
+
+Of the 55 megabits of bandwidth **** University has available, the residence halls are guaranteed 20 megabits of burstable bandwidth. (This means that if other campus users are not using the remaining 35 megabits that the residence hall users can take up to the full 55 megabits.) Within that 20 megabit guarantee, there is a 10 megabit hard limit that keeps incoming P2P traffic from exceeding 10 megabits of our total bandwidth. There is also 5 megabit limit on outgoing P2P traffic. The outgoing P2P traffic is primarily composed of off campus users connecting to student computers and downloading files from residence hall computers&quot;
+
+So yea, should this be good enough?
+</Content>
+    <Date>2010-03-03 06:26:06</Date>
+    <Timestamp>1267626366</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303062606AA68iw2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vYUFStOUaa</UserId>
+    <UserNick>JaineBo</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1Cj2COZ0VAAAD_IFHaFk=.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>How sad...picking a college based on its internet connection for gaming! LOL</ChosenAnswer>
+    <ChosenAnswererId>W6aAncRIaa</ChosenAnswererId>
+    <ChosenAnswererNick>JT Tech</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267626519</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268145865</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>How sad...picking a college based on its internet connection for gaming! LOL</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>W6aAncRIaa</UserId>
+            <UserNick>JT Tech</UserNick>
+            <Date>2010-03-03 06:28:39</Date>
+            <Timestamp>1267626519</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:19:19 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307171006AAEnwOP" type="Answered">
+    <Subject>AIM video chat keeps getting disconnected?</Subject>
+    <Content>I go on video chat with my friend and i dont have a webcam, though, But we always seem to disconnect by itself. When i do this with my other friends, it doesnt disconnect by itself. Could it be my account, or what?
+</Content>
+    <Date>2010-03-07 17:10:06</Date>
+    <Timestamp>1268010606</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307171006AAEnwOP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3VvmLpCdaa</UserId>
+    <UserNick>Kasey</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1LH3HUs2nAAEB9OGOHT-6aHcB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try Tokbox.com, just a suggestion. It can&#039;t be your account but it&#039;s probably of a bad connection.</ChosenAnswer>
+    <ChosenAnswererId>mfjtF21saa</ChosenAnswererId>
+    <ChosenAnswererNick>Hushi</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268290067</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268530067</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try Tokbox.com, just a suggestion. It can&#039;t be your account but it&#039;s probably of a bad connection.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mfjtF21saa</UserId>
+            <UserNick>Hushi</UserNick>
+            <Date>2010-03-10 22:47:47</Date>
+            <Timestamp>1268290067</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:36:59 PDT 2010 -->

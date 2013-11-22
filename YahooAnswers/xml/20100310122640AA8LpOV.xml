@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310122640AA8LpOV" type="Answered">
+    <Subject>Good twitter name??? Help?</Subject>
+    <Content>I want a twitter name like something with ambermarie, but I don&#039;t want any numbers. any ideas?
+</Content>
+    <Date>2010-03-10 12:26:40</Date>
+    <Timestamp>1268252800</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310122640AA8LpOV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oERPzpbWaa</UserId>
+    <UserNick>raspberrybrunette19</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Le22YaFiAAEC5GTF2LFQtjo7NA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>raspberrybrunette</ChosenAnswer>
+    <ChosenAnswererId>WisWSuIwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Cameron</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268252879</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268343683</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>raspberrybrunette</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>WisWSuIwaa</UserId>
+            <UserNick>Cameron</UserNick>
+            <Date>2010-03-10 12:27:59</Date>
+            <Timestamp>1268252879</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Twat!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wKeCFJejaa</UserId>
+            <UserNick>donaskme</UserNick>
+            <Date>2010-03-10 12:28:55</Date>
+            <Timestamp>1268252935</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:18:25 PDT 2010 -->

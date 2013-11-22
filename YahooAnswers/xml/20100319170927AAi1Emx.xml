@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319170927AAi1Emx" type="Answered">
+    <Subject>Is there a way to make my post on tumblr, not double spaced?</Subject>
+    <Content>Every time I hit &quot;enter&quot; on my text tumblr post, it always skips a line,
+is there a way to fix or prevent this?
+</Content>
+    <Date>2010-03-19 17:09:27</Date>
+    <Timestamp>1269043767</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319170927AAi1Emx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DdhHyVTAaa</UserId>
+    <UserNick>drop pants not bombs!.♥</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b85e6b8ie07zul8re4/arXj3NMhaa_Tz0A1uifMTAcPpSbXjzQ-/31/tn48.jpg?ciAAToMBfvTpsqzK</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Shift + Enter
+
+works on MS word, give it a try</ChosenAnswer>
+    <ChosenAnswererId>28vHvLkMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Army Dude</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269271090</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269275125</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>nope
+
+follow me, reblog me
+http://smokingfish.tumblr.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XtshWw4Kaa</UserId>
+            <UserNick>Geneinde T</UserNick>
+            <Date>2010-03-20 23:59:34</Date>
+            <Timestamp>1269154774</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Shift + Enter
+
+works on MS word, give it a try</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>28vHvLkMaa</UserId>
+            <UserNick>Army Dude</UserNick>
+            <Date>2010-03-22 08:18:10</Date>
+            <Timestamp>1269271090</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:04 PDT 2010 -->

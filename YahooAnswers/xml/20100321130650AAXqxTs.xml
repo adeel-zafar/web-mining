@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321130650AAXqxTs" type="Answered">
+    <Subject>Why would you use BIT.LY instead of TINYURL?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-21 13:06:50</Date>
+    <Timestamp>1269202010</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321130650AAXqxTs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>65109cb8f29d34e3d6fc411bd1edae58aa</UserId>
+    <UserNick>Mere Mortal</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1E_Fmgr1zAAECSyObvKNUdvyoHw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>That would be a tough answer. Bit.ly has a tracking system, but tinyurl has a custom link tool. So you can change tinyurl.com/29388fh9 to -----&gt; tinyurl.com/exampleforyou
+
+The cruddy thing is they don&#039;t permanently HIDE the link. They disguise it but then when they click it it shows the actual website link. In my opinion it doesn&#039;t matter.  
+
+I will have some even better ones below, go check it out.</ChosenAnswer>
+    <ChosenAnswererId>NQ28oom2aa</ChosenAnswererId>
+    <ChosenAnswererNick>Javi</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269202775</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269219823</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i guess it really doesn&#039;t matter.
+both of them offer the same features, making long URLs short, they both offer custom addresses, they both work fine in my opinion.
+i personally use Tinyurl, its one of my most visited sites (according to Firefox) and both sites are very useful for Twitter.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tmV217YFaa</UserId>
+            <UserNick>Kyle</UserNick>
+            <Date>2010-03-21 13:09:53</Date>
+            <Timestamp>1269202193</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Making short link</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oVZ2hQLmaa</UserId>
+            <UserNick>john</UserNick>
+            <Date>2010-03-21 13:16:19</Date>
+            <Timestamp>1269202579</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Does it matter? Whatever site will get the job done.
+
+
+
+Cheers</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11851185</UserId>
+            <UserNick>MistCreek</UserNick>
+            <Date>2010-03-21 13:17:17</Date>
+            <Timestamp>1269202637</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That would be a tough answer. Bit.ly has a tracking system, but tinyurl has a custom link tool. So you can change tinyurl.com/29388fh9 to -----&gt; tinyurl.com/exampleforyou
+
+The cruddy thing is they don&#039;t permanently HIDE the link. They disguise it but then when they click it it shows the actual website link. In my opinion it doesn&#039;t matter.  
+
+I will have some even better ones below, go check it out.</Content>
+            <Reference>http://techtalktonight.blogspot.com/</Reference>
+            <Best>5</Best>
+            <UserId>NQ28oom2aa</UserId>
+            <UserNick>Javi</UserNick>
+            <Date>2010-03-21 13:19:35</Date>
+            <Timestamp>1269202775</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:26:53 PDT 2010 -->

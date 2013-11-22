@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304163742AA7yAXG" type="Answered">
+    <Subject>Fastest web browser for macbook pro?</Subject>
+    <Content>I have safari, google chrome, opera, camino, firefox, and flock on my mac. Are there any other REALLY fast web browsers? 
+And dont say safari. it sucks!
+</Content>
+    <Date>2010-03-04 16:37:42</Date>
+    <Timestamp>1267749462</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304163742AA7yAXG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ax0KXG9Baa</UserId>
+    <UserNick>Jennifer S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>andr0x is right; your browser will only go so fast, and thus far I&#039;d have to say I like Chrome when it comes to loading things quickly.</ChosenAnswer>
+    <ChosenAnswererId>eeEhdeRWaa</ChosenAnswererId>
+    <ChosenAnswererNick>Porter</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267749616</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268268975</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Those are the best of the best, you might try upgrading your internet, at a certain point the browser is only going to make the internet go so fast.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xdK0cTNVaa</UserId>
+            <UserNick>andr0x</UserNick>
+            <Date>2010-03-04 16:39:07</Date>
+            <Timestamp>1267749547</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i have WOWD which is good for me! or mabey its just the reception you have.</Content>
+            <Reference>WOWD</Reference>
+            <Best></Best>
+            <UserId>PnPFIv43aa</UserId>
+            <UserNick>shaan</UserNick>
+            <Date>2010-03-04 16:39:54</Date>
+            <Timestamp>1267749594</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>andr0x is right; your browser will only go so fast, and thus far I&#039;d have to say I like Chrome when it comes to loading things quickly.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>eeEhdeRWaa</UserId>
+            <UserNick>Porter</UserNick>
+            <Date>2010-03-04 16:40:16</Date>
+            <Timestamp>1267749616</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s your internet connection, not the browsers. 
+I&#039;m on a MacBook pro too and Safari is really fast on mine.
+
+Go to Speedtest.net to check your connection speed then if it&#039;s not at the speed you want, call your internet provider.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zX8QN7rQaa</UserId>
+            <UserNick>Nathaniel</UserNick>
+            <Date>2010-03-04 16:43:31</Date>
+            <Timestamp>1267749811</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:08:37 PDT 2010 -->

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306072252AAzg4yN" type="Answered">
+    <Subject>How do I disable the &quot;Congratulations - You have been chosen&quot;, etc. that come up on my screen many times a day?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-06 07:22:52</Date>
+    <Timestamp>1267888972</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306072252AAzg4yN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MVvycfTsaa</UserId>
+    <UserNick>Jodie</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1oRcYgKJFAAECngKbOF0=.medium.png</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>These are good Freeware programs for your problem and help protect you in the future:
+
+Avast Antivirus: http://www.avast.com for viruses, trojans and such
+
+Spybot Search and Destroy: http://www.safer-networking.org/index2.h… for browser hijackers and bots
+
+Malwarebytes: http://www.malwarebytes.org/ for malware and bots and dns hijackers
+
+Put all three on your computer and you will be protected well.
+Spybot and/or Malwarebytes will be the ones to take care of your problem.  Avast would be if you do not have antivirus.</ChosenAnswer>
+    <ChosenAnswererId>QNj7EPuFaa</ChosenAnswererId>
+    <ChosenAnswererNick>Liquid Emeralds</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267890240</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268408687</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Scan for malware you are infected</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3LHsCLVFaa</UserId>
+            <UserNick>vulcan</UserNick>
+            <Date>2010-03-06 07:24:00</Date>
+            <Timestamp>1267889040</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>get a pop up blocker</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jrNNkKQ6aa</UserId>
+            <UserNick>Jekissa</UserNick>
+            <Date>2010-03-06 07:24:13</Date>
+            <Timestamp>1267889053</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to &quot;tools&quot;.
+Then Select &quot;Options&quot;.
+Go to the &quot;content tab&quot;.
+Tick the button which says &quot;Block pop ups&quot;.
+Then click ok.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>glOdKBVCaa</UserId>
+            <UserNick>Internet Person</UserNick>
+            <Date>2010-03-06 07:25:51</Date>
+            <Timestamp>1267889151</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>These are good Freeware programs for your problem and help protect you in the future:
+
+Avast Antivirus: http://www.avast.com for viruses, trojans and such
+
+Spybot Search and Destroy: http://www.safer-networking.org/index2.h… for browser hijackers and bots
+
+Malwarebytes: http://www.malwarebytes.org/ for malware and bots and dns hijackers
+
+Put all three on your computer and you will be protected well.
+Spybot and/or Malwarebytes will be the ones to take care of your problem.  Avast would be if you do not have antivirus.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>QNj7EPuFaa</UserId>
+            <UserNick>Liquid Emeralds</UserNick>
+            <Date>2010-03-06 07:44:00</Date>
+            <Timestamp>1267890240</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1. Scan your computer with a good antivirus
+2. Use firefox. download it from: http://www.mozilla.com/en-US/firefox/personal.html
+3. Get AddBlockPlus for firefox from here.. : http://adblockplus.org/en/installation
+Install it and you&#039;re ready to go..</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10149727</UserId>
+            <UserNick>Sunny Sran</UserNick>
+            <Date>2010-03-06 08:21:09</Date>
+            <Timestamp>1267892469</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:49:36 PDT 2010 -->

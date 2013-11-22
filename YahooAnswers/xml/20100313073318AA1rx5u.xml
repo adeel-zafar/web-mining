@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313073318AA1rx5u" type="Answered">
+    <Subject>What&#039;s going on with Babblesex now?</Subject>
+    <Content>It won&#039;t even pull up the site for me, it goes to a godaddy.com page and says this website is parked for free. I checked throughout the day and the site came up twice for me but it still won&#039;t come up. Does anyone else have this problem?
+</Content>
+    <Date>2010-03-13 07:33:18</Date>
+    <Timestamp>1268494398</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313073318AA1rx5u</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eyV5QQ1naa</UserId>
+    <UserNick>Miss Femme</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UfmdlPY5AAMDdIKclc73iUEB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Edit: The issue has been resolved but may still temporarily affect you locally. 
+
+If you have made the temporary change I gave, I would suggest removing it and seeing if you can still connect to the site. (You may want to reboot to clear out any local caching.) 
+
+The WHOIS registration on GoDaddy (the domain registrar) for the babblesex.com domain is cited below. It shows that the domain was renewed 15-Mar-2010. Using Kloth.Net&#039;s NSLOOKUP for babblesex.com returned the correct IP address -- 174.37.22.18. (server: localhost, Query: A (IP address))
+
+Original answer:
+The domain expired.
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: BABBLESEX.COM
+      Created on: 11-Mar-07
+      Expires on: 11-Mar-10
+      Last Updated on: 14-Oct-08
+
+Add these three lines temporarily to your hosts file under C:\WINDOWS\system32\drivers\etc\
+
+174.37.22.18 www.babblesex.com
+174.36.228.186 babblesex.com
+174.36.228.186 livehubs.com</ChosenAnswer>
+    <ChosenAnswererId>pZ2LfM6Baa</ChosenAnswererId>
+    <ChosenAnswererNick>Satyr</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268532049</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269010433</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yea I&#039;m having the same problem. Maybe they forgot to pay their bills. Guess all we can do is check back every now and then to see if anything has changed. Dunno what else to do...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cXgKd7Gbaa</UserId>
+            <UserNick>S</UserNick>
+            <Date>2010-03-13 07:47:30</Date>
+            <Timestamp>1268495250</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yeah i&#039;m having the exact same problem, really fricken annoying to be honest :3
+hope it&#039;s fixed soon =/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SZplmzETaa</UserId>
+            <UserNick>Max</UserNick>
+            <Date>2010-03-13 14:17:11</Date>
+            <Timestamp>1268518631</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Edit: The issue has been resolved but may still temporarily affect you locally. 
+
+If you have made the temporary change I gave, I would suggest removing it and seeing if you can still connect to the site. (You may want to reboot to clear out any local caching.) 
+
+The WHOIS registration on GoDaddy (the domain registrar) for the babblesex.com domain is cited below. It shows that the domain was renewed 15-Mar-2010. Using Kloth.Net&#039;s NSLOOKUP for babblesex.com returned the correct IP address -- 174.37.22.18. (server: localhost, Query: A (IP address))
+
+Original answer:
+The domain expired.
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: BABBLESEX.COM
+      Created on: 11-Mar-07
+      Expires on: 11-Mar-10
+      Last Updated on: 14-Oct-08
+
+Add these three lines temporarily to your hosts file under C:\WINDOWS\system32\drivers\etc\
+
+174.37.22.18 www.babblesex.com
+174.36.228.186 babblesex.com
+174.36.228.186 livehubs.com</Content>
+            <Reference>http://who.godaddy.com/WhoIs.aspx?domain=babblesex.com&amp;prog_id=godaddy
+http://www.kloth.net/services/nslookup.php
+http://www.networksolutions.com/whois-search/babblesex.com
+http://www.networksolutions.com/whois/registry-data.jsp?domain=babblesex.com</Reference>
+            <Best>5</Best>
+            <UserId>pZ2LfM6Baa</UserId>
+            <UserNick>Satyr</UserNick>
+            <Date>2010-03-13 18:00:49</Date>
+            <Timestamp>1268532049</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:55 PDT 2010 -->

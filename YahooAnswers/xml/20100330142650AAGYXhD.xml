@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330142650AAGYXhD" type="Answered">
+    <Subject>i have Internet Explorer and Firefox is it possible to have a home page on each?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-30 14:26:50</Date>
+    <Timestamp>1269984410</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330142650AAGYXhD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2iUswMyAaa</UserId>
+    <UserNick>GT</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/17UfYdZH-AAECQEEo4IcPVJkA.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your &quot;Home Page&quot; is just the first page that your web browser (like IE and Firefox) open up to. So yes you can have a different home page on each browser. 
+
+The only thing you cannot do is have both of them be your default browser at the same time.</ChosenAnswer>
+    <ChosenAnswererId>Pe8wnyRjaa</ChosenAnswererId>
+    <ChosenAnswererNick>Veronica</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269984533</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270041381</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your &quot;Home Page&quot; is just the first page that your web browser (like IE and Firefox) open up to. So yes you can have a different home page on each browser. 
+
+The only thing you cannot do is have both of them be your default browser at the same time.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Pe8wnyRjaa</UserId>
+            <UserNick>Veronica</UserNick>
+            <Date>2010-03-30 14:28:53</Date>
+            <Timestamp>1269984533</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have to change the Homepage option in the Preferences option window to set your favorite site as homepage.
+
+Btw this is a nice plugin to try out for firefox
+http://www.internetdramasblog.com/2010/03/awesome-firefox-plugin-cooliris.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YhoovUiRaa</UserId>
+            <UserNick>DeathByLight</UserNick>
+            <Date>2010-03-30 15:09:46</Date>
+            <Timestamp>1269986986</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sure, the settings are separate for each browser...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TI0cn1feaa</UserId>
+            <UserNick>18 gibbs 20</UserNick>
+            <Date>2010-03-30 16:56:58</Date>
+            <Timestamp>1269993418</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:01 PDT 2010 -->

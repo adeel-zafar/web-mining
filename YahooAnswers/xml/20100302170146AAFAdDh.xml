@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302170146AAFAdDh" type="Answered">
+    <Subject>Why is z-index working in Firefox and Chrome but not in IE?</Subject>
+    <Content>I have a DIV that &quot;drops down&quot; when you click on a link using JavaScript. It works exactly as it is supposed to in Firefox and Chrome. In IE, the DIV displays beneath the elements after it in the markup.
+
+The Z-index is set to 10000...
+
+This is the URL
+http://www.calientetropics.com/palm-springs-pool.php
+Click on the navigation link that says &quot;Site Search&quot; and notice the white box that appears beneath it.
+
+Any suggestions?
+***I haven&#039;t tried in Safari or Opera because I don&#039;t have those browsers installed on my work comp, so would also be great if someone could let me know how it looks in them.
+</Content>
+    <Date>2010-03-02 17:01:46</Date>
+    <Timestamp>1267578106</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302170146AAFAdDh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FTRkvlUlaa</UserId>
+    <UserNick>Tacit Knowledge</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>OK listen up everyone! Micro$oft IE is a piece of Sh!t, but people still use it, so developers have to adapt. We don&#039;t like it and IE users don&#039;t ether because most website look like when you are using IE. Why does Micro$ft do it to us? Because they can!!! Why don&#039;t they just adopt Web-Kit (like everyone else) I don&#039;t know. They have a fully functional IE with web-kit. But they won&#039;t release it. IE 9 lets hope. As for the answer to your question try this http://brenelz.com/blog/squish-the-internet-explorer-z-index-bug/ I apologize for my rant.</ChosenAnswer>
+    <ChosenAnswererId>3SPv0CTeaa</ChosenAnswererId>
+    <ChosenAnswererNick>Hunter</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267578608</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267636403</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I looked at your source.
+
+Have you tried just changing the positioning to relative and then positioning it with a relative position with your JS call?  I see you are using absolute positioning and this might cause an issue with IE even though you are Z indexing it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BgwTxzEFaa</UserId>
+            <UserNick>korgrue</UserNick>
+            <Date>2010-03-02 17:07:04</Date>
+            <Timestamp>1267578424</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Watch out with the javascript in Opera. The word on th street (okay, maybe not the street, the forums) is that they&#039;re gonna be using a different engine than they have in the past. It should be a non-issue,,but you never know.
+
+I don&#039;t have the technical knwledge of javascript to help you with your problem, but I just thought I&#039;d give you the heads-up.
+
+Regards,
+
+Lucien Briscoe</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>543c169d68a85f5a6bd0da31e1621ff5aa</UserId>
+            <UserNick>LBriscoe</UserNick>
+            <Date>2010-03-02 17:09:37</Date>
+            <Timestamp>1267578577</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>OK listen up everyone! Micro$oft IE is a piece of Sh!t, but people still use it, so developers have to adapt. We don&#039;t like it and IE users don&#039;t ether because most website look like when you are using IE. Why does Micro$ft do it to us? Because they can!!! Why don&#039;t they just adopt Web-Kit (like everyone else) I don&#039;t know. They have a fully functional IE with web-kit. But they won&#039;t release it. IE 9 lets hope. As for the answer to your question try this http://brenelz.com/blog/squish-the-internet-explorer-z-index-bug/ I apologize for my rant.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3SPv0CTeaa</UserId>
+            <UserNick>Hunter</UserNick>
+            <Date>2010-03-02 17:10:08</Date>
+            <Timestamp>1267578608</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:28 PDT 2010 -->

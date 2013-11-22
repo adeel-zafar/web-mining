@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313201256AAE8ORU" type="Answered">
+    <Subject>Problem with internet browsing?</Subject>
+    <Content>Hey i have been having problems with my internet on one of my computers.  I have a LAN set up between my 2 desktop computers and then my laptop.  The 2nd of the 2 desktops and the laptop always work fine however my main desktop computer sometimes will just be unable to load pages.  It will be running fine and then suddenly it will time out and i won&#039;t be able to browse anymore.  I know it isn&#039;t my ISP or a virus issue.  I have a feeling i am forgetting to open up some firewall ports or something but i don&#039;t really know how to do that.  Any help is greatly appreciated
+
+Also, i have been using Mozilla Firefox for about a month but i was still having a problem when using Explorer.
+</Content>
+    <Date>2010-03-13 20:12:56</Date>
+    <Timestamp>1268539976</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313201256AAE8ORU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oRByEjtNaa</UserId>
+    <UserNick>Jacob</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Jacob, it is really hard to determine without looking at the machine.
+
+However considering the other computers are OK - I suspect your ISP is OK, your router / switch is OK.
+
+It&#039;s likely not the firewall as it stops browsing everything suddenly
+
+Try changing the network cable that goes from your bad desktop to the router.The cable may be bad
+If that fails, then try connecting the network cable to another free port on the back of the router - the port may be bad
+
+The problem could be deeper with that one machine but hard to troubleshoot online
+
+Worst case - back up your data and re-install everything
+
+Good luck</ChosenAnswer>
+    <ChosenAnswererId>bb7296b8e531908cdebee51108b46e93aa</ChosenAnswererId>
+    <ChosenAnswererNick>digidaddy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268541038</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269055988</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>your computer hates you, you have to love it for it to work
+
+
+LOVE YOUR SUCKY COMPUTER, LOVE IT!</Content>
+            <Reference>I LOVE WINDOWS 95</Reference>
+            <Best></Best>
+            <UserId>Af742FANaa</UserId>
+            <UserNick>Jordan</UserNick>
+            <Date>2010-03-13 20:15:38</Date>
+            <Timestamp>1268540138</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Jacob, it is really hard to determine without looking at the machine.
+
+However considering the other computers are OK - I suspect your ISP is OK, your router / switch is OK.
+
+It&#039;s likely not the firewall as it stops browsing everything suddenly
+
+Try changing the network cable that goes from your bad desktop to the router.The cable may be bad
+If that fails, then try connecting the network cable to another free port on the back of the router - the port may be bad
+
+The problem could be deeper with that one machine but hard to troubleshoot online
+
+Worst case - back up your data and re-install everything
+
+Good luck</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bb7296b8e531908cdebee51108b46e93aa</UserId>
+            <UserNick>digidaddy</UserNick>
+            <Date>2010-03-13 20:30:38</Date>
+            <Timestamp>1268541038</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:44 PDT 2010 -->

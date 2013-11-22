@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221144734AAqu8x3" type="Answered">
+    <Subject>How do you zoom in on safari internet explorer?</Subject>
+    <Content>the text is so small is there a way to zoom in on Safari Internet Explorer
+</Content>
+    <Date>2010-02-21 14:47:34</Date>
+    <Timestamp>1266792454</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221144734AAqu8x3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IoZYlkVVaa</UserId>
+    <UserNick>Pdog</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b02b4d2i123czul5re4/Ec7y0f41dKJU5qtLw9lIkRPvGP4-/1/tn48.jpg?ciAAToMBqqyhSxB0</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>first decide what browser you&#039;re using. What kind of computer are you using. Holding the Control button and scrolling up with the scroll wheel is one way. command + is another way. or go to view-zoom-in</ChosenAnswer>
+    <ChosenAnswererId>25bdd7c71a4cfd32ff8c7bcb66e8b4faaa</ChosenAnswererId>
+    <ChosenAnswererNick>Eric</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266792615</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266846423</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>first decide what browser you&#039;re using. What kind of computer are you using. Holding the Control button and scrolling up with the scroll wheel is one way. command + is another way. or go to view-zoom-in</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>25bdd7c71a4cfd32ff8c7bcb66e8b4faaa</UserId>
+            <UserNick>Eric</UserNick>
+            <Date>2010-02-21 14:50:15</Date>
+            <Timestamp>1266792615</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Internet explorer:
+Hold down the control (CTRL) key and roll your mouse wheel or press the + key.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MxculX2Daa</UserId>
+            <UserNick>Marvin</UserNick>
+            <Date>2010-02-21 14:50:28</Date>
+            <Timestamp>1266792628</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>To embiggen the text in Safari, hit Apple-+ until it gets to a size you like. in Internet Explorer I&#039;m fairly sure you can do the Windows equivalent Ctrl-+.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bBAUKNstaa</UserId>
+            <UserNick>Robert S</UserNick>
+            <Date>2010-02-21 15:27:23</Date>
+            <Timestamp>1266794843</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:33:18 PDT 2010 -->

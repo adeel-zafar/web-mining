@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228135420AACnYzX" type="Answered">
+    <Subject>my firefox back, previous, refresh, and stop button is unclickable?</Subject>
+    <Content>Help!! I have no idea what happened to my firefox!
+
+My Previous, Back, Refresh and Stop Button is unclikable.
+
+They&#039;re all faded.. I tried to click so many times but... no good.  PLEASE HELP!!
+</Content>
+    <Date>2010-02-28 13:54:20</Date>
+    <Timestamp>1267394060</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228135420AACnYzX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oM632IjNaa</UserId>
+    <UserNick>Kevyn S</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1lNKFf1w8AAEDVAJchBPpgkH1Lw==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>have you recently installed a new theme or plug in? or maybe this is just an internal software malfunction(but I honestly doubt that) so you can try to reinstall firefox.</ChosenAnswer>
+    <ChosenAnswererId>aP6OPoQaaa</ChosenAnswererId>
+    <ChosenAnswererNick>C-Note</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267395011</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267583598</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>have you recently installed a new theme or plug in? or maybe this is just an internal software malfunction(but I honestly doubt that) so you can try to reinstall firefox.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>aP6OPoQaaa</UserId>
+            <UserNick>Costin</UserNick>
+            <Date>2010-02-28 14:10:11</Date>
+            <Timestamp>1267395011</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:02 PDT 2010 -->

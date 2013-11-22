@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303023634AASrhfZ" type="Answered">
+    <Subject>Weird problems going on in FormSpring.Me?</Subject>
+    <Content>I have this weird problem where I log into my account and when I just press on &#039;Following&#039; or &#039;Profile&#039;, it just turns into someone else&#039;s account! This has happened so many times and I&#039;m really confused... it&#039;s just breaking into other people&#039;s accounts without me doing anything. I really want to see the answers people put to my questions but whenever I press &#039;Following&#039; it just turns into a complete stranger&#039;s account. Please help!
+</Content>
+    <Date>2010-03-03 02:36:34</Date>
+    <Timestamp>1267612594</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303023634AASrhfZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9d4EctdLaa</UserId>
+    <UserNick>JDeppAddict</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1fak4MKRZAAEBMwE_RBdjte4C3wYF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>formspring.me is having issues, mine wont even take me to the page. it&#039;s been getting worked on for a while now because i remember logging in and it saying it was having technical difficulties. give it time.</ChosenAnswer>
+    <ChosenAnswererId>vZfFaUpkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dr.Dr.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267665541</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268132011</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>formspring.me is having issues, mine wont even take me to the page. it&#039;s been getting worked on for a while now because i remember logging in and it saying it was having technical difficulties. give it time.</Content>
+            <Reference>life(:</Reference>
+            <Best>5</Best>
+            <UserId>vZfFaUpkaa</UserId>
+            <UserNick>Dr.Dr.</UserNick>
+            <Date>2010-03-03 17:19:01</Date>
+            <Timestamp>1267665541</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:20:14 PDT 2010 -->

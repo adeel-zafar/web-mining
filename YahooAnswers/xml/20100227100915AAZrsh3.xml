@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227100915AAZrsh3" type="Answered">
+    <Subject>Why are proxies not working for me?</Subject>
+    <Content>Ok, I know how to put in proxies, I think. It used to work for me fine a year ago but now for some reason everytime I put one in it just brings me to the IE page failed screen. Could this be my ISP or what, I dont get it.
+
+I use Internet Explorer I go to Tools -&gt; Ineternet Options -&gt; Connections -&gt; LAN Settings -&gt; Check Proxy Box -&gt; Input Number 212.158.160.96 -&gt; Import Port 80 -&gt; Press OK
+
+What am I doing wrong? Why are none working I tried about 20 different ones. I saw on the proxy selection that it said doesn&#039;t work on VPN connetion. How do I know if I have a VPN connetion? My ISP is through Pavlov and is pretty slow at my apartment at school.
+
+Thanks
+</Content>
+    <Date>2010-02-27 10:09:15</Date>
+    <Timestamp>1267294155</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227100915AAZrsh3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Jk078DKbaa</UserId>
+    <UserNick>Op</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There is considerable risk in using free proxies from unknown sources. Many of these free proxies are what are called hacker pots. They are there waiting for you to fall into their trap so they can steal your information and plant bots on your computer. Once a bot is planted the hacker has control of your machine and can steal credit cards, attack web sites and send out tons of spam all from your IP address.
+
+Some of the free proxies are run by people out to make money. There is nothing wrong with that in principle. However the best case here is that you will get a proxy loaded with advertisements with no real speed to it. The amount of money the owner can make with advertising clicks is really only pennies. Many of these owners supplement their income by key logging everything you do and selling your personal information to advertising companies. Since you have no way to know what the owner is actually doing you need to assume the worst case is true.
+
+Read some more about free proxy servers below:
+
+http://www.personalvpn.org/danger_proxy_servers.htm</ChosenAnswer>
+    <ChosenAnswererId>dfldrUPEaa</ChosenAnswererId>
+    <ChosenAnswererNick>ds</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267331124</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267813476</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There is considerable risk in using free proxies from unknown sources. Many of these free proxies are what are called hacker pots. They are there waiting for you to fall into their trap so they can steal your information and plant bots on your computer. Once a bot is planted the hacker has control of your machine and can steal credit cards, attack web sites and send out tons of spam all from your IP address.
+
+Some of the free proxies are run by people out to make money. There is nothing wrong with that in principle. However the best case here is that you will get a proxy loaded with advertisements with no real speed to it. The amount of money the owner can make with advertising clicks is really only pennies. Many of these owners supplement their income by key logging everything you do and selling your personal information to advertising companies. Since you have no way to know what the owner is actually doing you need to assume the worst case is true.
+
+Read some more about free proxy servers below:
+
+http://www.personalvpn.org/danger_proxy_servers.htm</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dfldrUPEaa</UserId>
+            <UserNick>ds</UserNick>
+            <Date>2010-02-27 20:25:24</Date>
+            <Timestamp>1267331124</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>here are some random proxies
+
+freelight.ueuo.com
+
+
+lovelywind.orgfree.com
+
+littlestar.freeoda.com
+
+
+
+I hope it would be helpfully for you</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>l7ugCMLuaa</UserId>
+            <UserNick>Kalsjhd</UserNick>
+            <Date>2010-03-01 05:00:18</Date>
+            <Timestamp>1267448418</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Facebook, Myspace and other Proxy address that changes daily.
+
+Today&#039;s address (3/1) is: 184.73.22.3 port 80
+
+Get the daily free proxy address here:
+
+
+http://www.wildtunnel.com
+http://www.ippredator.com
+http://www.countersurf.com
+http://www.personalvpn.biz</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QHdEwZEBaa</UserId>
+            <UserNick>ds</UserNick>
+            <Date>2010-03-01 11:04:16</Date>
+            <Timestamp>1267470256</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:44:35 PDT 2010 -->

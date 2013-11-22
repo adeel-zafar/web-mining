@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303104950AA9fBg8" type="Answered">
+    <Subject>Whats causing this problem?</Subject>
+    <Content>ok when i try to run a java chat it just shows a white area where the chat is supposed to be and it has a lil red x in the top left corner.also i&#039;m trying to take some online class&#039;s for my job but when i click to launch the test it says object doesn&#039;t support this property or method.i know its not the website cuz it all works fine on my brothers laptop.if you can help i&#039;d really appreciate it.thanks to you all
+already reinstalled java.didn&#039;t help
+i tryed everything you guys suggested but nothing worked :(
+</Content>
+    <Date>2010-03-03 10:49:50</Date>
+    <Timestamp>1267642190</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303104950AA9fBg8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>f0yHJQK5aa</UserId>
+    <UserNick>codename47</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your Browser Could be Blocking the Application From running but more than likely you need to install and update your Java and Flash Player Applications. You can get Java and Flash at there websites below. 
+
+http://www.java.com/en/download/
+
+Click the red button that says Free java Download.
+
+http://get.adobe.com/flashplayer/
+
+uncheck install google toolbar and agree to the terms and install.
+
+Lastly this could be a shockwave problem. You can get it here.
+
+http://get.adobe.com/shockwave/</ChosenAnswer>
+    <ChosenAnswererId>89acwDbXaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kyle M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267642780</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267894427</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Reinstall Java.
+
+www.java.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Bp8XG2lJaa</UserId>
+            <UserNick>-=Seta San=-</UserNick>
+            <Date>2010-03-03 10:53:38</Date>
+            <Timestamp>1267642418</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>sorry i can&#039;t think of anything to contribute here</Content>
+            <Reference>your welcome</Reference>
+            <Best></Best>
+            <UserId>aSRgCXH8aa</UserId>
+            <UserNick>imawsoem</UserNick>
+            <Date>2010-03-03 10:54:20</Date>
+            <Timestamp>1267642460</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Do you have Java installed not just the one that comes with your computer? If not click no the &quot;Free Java Download&quot; button on this site: http://www.java.com/en/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gHDcV5fNaa</UserId>
+            <UserNick>Frank</UserNick>
+            <Date>2010-03-03 10:55:37</Date>
+            <Timestamp>1267642537</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your Browser Could be Blocking the Application From running but more than likely you need to install and update your Java and Flash Player Applications. You can get Java and Flash at there websites below. 
+
+http://www.java.com/en/download/
+
+Click the red button that says Free java Download.
+
+http://get.adobe.com/flashplayer/
+
+uncheck install google toolbar and agree to the terms and install.
+
+Lastly this could be a shockwave problem. You can get it here.
+
+http://get.adobe.com/shockwave/</Content>
+            <Reference>Computer Programmer and IT for Ten Years.</Reference>
+            <Best>5</Best>
+            <UserId>89acwDbXaa</UserId>
+            <UserNick>Kyle M</UserNick>
+            <Date>2010-03-03 10:59:40</Date>
+            <Timestamp>1267642780</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:17:40 PDT 2010 -->

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328084218AAtCswn" type="Answered">
+    <Subject>My brother set my internet to disconnect at a certain time everynight, can someone tell me how to change it ?</Subject>
+    <Content>
+How do I change it in the settings?
+</Content>
+    <Date>2010-03-28 08:42:19</Date>
+    <Timestamp>1269790939</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328084218AAtCswn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2o5sUCZfaa</UserId>
+    <UserNick>Tommy L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If your brother is the &quot;master&quot; on your internet then he will have to change it back, if not then you can find it by looking under settings.</ChosenAnswer>
+    <ChosenAnswererId>V0jVjHt8aa</ChosenAnswererId>
+    <ChosenAnswererNick>Orange Julius</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269791075</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270310641</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If your brother is the &quot;master&quot; on your internet then he will have to change it back, if not then you can find it by looking under settings.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>V0jVjHt8aa</UserId>
+            <UserNick>Orange Julius</UserNick>
+            <Date>2010-03-28 08:44:35</Date>
+            <Timestamp>1269791075</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You cannot if he set up it in antivirus(eg kaspersky).</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dkdWcmHnaa</UserId>
+            <UserNick>sonu j</UserNick>
+            <Date>2010-03-28 08:45:11</Date>
+            <Timestamp>1269791111</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Tell your mom.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tk3iw3cGaa</UserId>
+            <UserNick>skeddy13</UserNick>
+            <Date>2010-03-28 08:45:50</Date>
+            <Timestamp>1269791150</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:19:42 PDT 2010 -->

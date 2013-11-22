@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327230725AAbyRSL" type="Answered">
+    <Subject>What are caches and cookies on web browsers?</Subject>
+    <Content>lol i never knew
+</Content>
+    <Date>2010-03-27 23:07:25</Date>
+    <Timestamp>1269756445</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327230725AAbyRSL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2bPVGiiraa</UserId>
+    <UserNick>Victor</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b063435i1e11zul5sp1/4mNuxjs6crSDcouVQ8Mbng--/2/tn48.png?ciAAToMBrQ.Uff2v</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>they are temp text files that store the history of the websites and some other info, such as the URL that you have visited</ChosenAnswer>
+    <ChosenAnswererId>zbYURALGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Johnny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269756608</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269931922</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>they are temp text files that store the history of the websites and some other info, such as the URL that you have visited</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>zbYURALGaa</UserId>
+            <UserNick>Johnny</UserNick>
+            <Date>2010-03-27 23:10:08</Date>
+            <Timestamp>1269756608</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>cookies are simply bits of software placed on your computer when you browse websites. Not all websites have these, but many do, especially the large well-known websites. Websites use cookies so they can track what you are viewing, and although they won&#039;t necessarily know you by name (lets hope it never gets to that point), the website will recognize your computer when you come back to visit again. 
+
+Cookies have some beneficial things. For example, when you log on to certain sites, did you ever notice that when you return again you do not have to sign on the next time? Thats because it stored your password and id on your machine in a cookie. The same holds true when you purchase goods online, you can return later and your goods are still in your shopping cart (in a cookie!). Cookies are also very beneficial to websites trying to market to you. (Some consider this bad for the consumer as many do not want websites tracking what you like to view online!). For example, if you go to one of the major search engines, like yahoo.com, google.com, search.aol.com, etc. and search for &quot;web cookies&quot;, the next time you come back to the website to search again, you may see a large picture or cookie advertisement at the top of your screen. This is NOT what everyone sees, only you! They know you like this alot because you searched for it last time you were there, so they now show you advertisements because it may be something targeted towards your buying habits.
+
+Cache files help your browser go faster since it caches the files to be used. These are also left behind on your pc and includes everything, including pictures, sound files, video files, and text that you have browsed. If you share your pc in any way, you probably want to keep these cleaned when you get done browsing</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DIkUpkQOaa</UserId>
+            <UserNick>Crush</UserNick>
+            <Date>2010-03-27 23:14:32</Date>
+            <Timestamp>1269756872</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:23 PDT 2010 -->

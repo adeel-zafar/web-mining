@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223190631AAHfuzR" type="Answered">
+    <Subject>I hit the F7 button by mistake?</Subject>
+    <Content>I hit the F7 button and now my Internet screen is bigger. How do I fix this? Hitting F7 again doesn&#039;t work.
+</Content>
+    <Date>2010-02-23 19:06:31</Date>
+    <Timestamp>1266980791</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223190631AAHfuzR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7SsdK08Naa</UserId>
+    <UserNick>choose_juicy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/11PctIG3MAAED4ySD6l8=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try hitting F11</ChosenAnswer>
+    <ChosenAnswererId>CVpM4VqGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Computer Tech</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266981822</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267500331</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try hitting F11</Content>
+            <Reference>Computer Tech</Reference>
+            <Best>5</Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-02-23 19:23:42</Date>
+            <Timestamp>1266981822</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It would help to know what browser you&#039;re using and on what operating system (e.g., &quot;Firefox 3 on Windows Vista)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bBAUKNstaa</UserId>
+            <UserNick>Robert S</UserNick>
+            <Date>2010-02-23 19:40:49</Date>
+            <Timestamp>1266982849</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:08 PDT 2010 -->

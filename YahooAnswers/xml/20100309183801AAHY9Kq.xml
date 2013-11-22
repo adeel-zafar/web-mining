@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309183801AAHY9Kq" type="Answered">
+    <Subject>Mega Video Download, know it won&#039;t play?</Subject>
+    <Content>I downloaded a video from mega video and it downloaded completely but know it won&#039;t play, it says it&#039;s in a MKV file if that matters, but I downloaded it twice both times I can&#039;t play it on anything?
+Anyone know what&#039;s the matter/how I can fix it?
+Thanks!
+</Content>
+    <Date>2010-03-09 18:38:01</Date>
+    <Timestamp>1268188681</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309183801AAHY9Kq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iAxdAvSraa</UserId>
+    <UserNick>Shalimar</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1yA-kuFBbAAMD4aQOl-LGDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>what&#039;s your video player?
+you can try to convert MKV to other formats that your player support by using a program.
+i recently found a strong power hd video converter--its WinX HD Video Converter Deluxe,it can support Multi-track HD video, such as BDAV, M2TS, MKV, AVCHD, HDTV and MPEG-TS video movies.and of course portable and console players.
+free download here: http://www.winxdvd.com/hd-video-converte…
+
+btw,its given away until March 15.
+hope it helps you.^-^</ChosenAnswer>
+    <ChosenAnswererId>rsZU2PoQaa</ChosenAnswererId>
+    <ChosenAnswererNick>endy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268296406</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268364681</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>First, which media player do u use? Maybe your player cant support mkv format.
+Try VCL or Gom player which can both play mkv files.</Content>
+            <Reference>google</Reference>
+            <Best></Best>
+            <UserId>aepOgC18aa</UserId>
+            <UserNick>Daniel</UserNick>
+            <Date>2010-03-09 21:42:46</Date>
+            <Timestamp>1268199766</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>what&#039;s your video player?
+you can try to convert MKV to other formats that your player support by using a program.
+i recently found a strong power hd video converter--its WinX HD Video Converter Deluxe,it can support Multi-track HD video, such as BDAV, M2TS, MKV, AVCHD, HDTV and MPEG-TS video movies.and of course portable and console players.
+free download here: http://www.winxdvd.com/hd-video-converte…
+
+btw,its given away until March 15.
+hope it helps you.^-^</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rsZU2PoQaa</UserId>
+            <UserNick>endy</UserNick>
+            <Date>2010-03-11 00:33:26</Date>
+            <Timestamp>1268296406</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:22:34 PDT 2010 -->

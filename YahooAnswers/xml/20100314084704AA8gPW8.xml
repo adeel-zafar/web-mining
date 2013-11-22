@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314084704AA8gPW8" type="Answered">
+    <Subject>unblock websites from internet options?</Subject>
+    <Content>if any one has at&amp;t internet how do you unblock websites from internet options tell me what to go to in internet potions to unblock websites
+</Content>
+    <Date>2010-03-14 08:47:04</Date>
+    <Timestamp>1268581624</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314084704AA8gPW8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>k2pvKCj5aa</UserId>
+    <UserNick>baldman50</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here&#039;s what to do: go to Tools &gt; Internet Options, click the Security tab, 
+click Restricted Sites, click Sites button, find the site to unblock &amp; 
+click it once to highlight it then click Remove, when finished click Close, 
+click OK. Done!
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268900331</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269101121</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Here&#039;s what to do: go to Tools &gt; Internet Options, click the Security tab, 
+click Restricted Sites, click Sites button, find the site to unblock &amp; 
+click it once to highlight it then click Remove, when finished click Close, 
+click OK. Done!
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-03-18 01:18:51</Date>
+            <Timestamp>1268900331</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:59:39 PDT 2010 -->

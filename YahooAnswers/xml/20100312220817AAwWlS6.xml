@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312220817AAwWlS6" type="Answered">
+    <Subject>What do you think of the Trololo guy?</Subject>
+    <Content>Personally I think the song is hilarious.
+
+Thanks!
+</Content>
+    <Date>2010-03-12 22:08:17</Date>
+    <Timestamp>1268460497</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312220817AAwWlS6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rdgTFdMzaa</UserId>
+    <UserNick>Jamie</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1ONGH0c-dAAECQgGcnJaSBJkA.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>He makes me want to shave my eyebrows.</ChosenAnswer>
+    <ChosenAnswererId>PBys4M2laa</ChosenAnswererId>
+    <ChosenAnswererNick>short_pale_n_ugly</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268460592</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268523879</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>He makes me want to shave my eyebrows.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>PBys4M2laa</UserId>
+            <UserNick>short_pale_n_ugly</UserNick>
+            <Date>2010-03-12 22:09:52</Date>
+            <Timestamp>1268460592</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:06:20 PDT 2010 -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224170857AAlYCdA" type="Answered">
+    <Subject>How does shadyurl.com work?</Subject>
+    <Content>Would be cool if someone could tell me how all these links are relatet to the web pages...
+</Content>
+    <Date>2010-02-24 17:08:57</Date>
+    <Timestamp>1267060137</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224170857AAlYCdA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>p1rPSYMwaa</UserId>
+    <UserNick>y.he17</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It creates a page that does nothing more than redirects you to another page.
+
+They were created because of the need for shorter links in things like twitter.
+
+An example page would contain just the single line of html:
+&lt;meta HTTP-EQUIV=&quot;REFRESH&quot; content=&quot;0; url=www.yourdomain.com/index.html&quot;&gt;</ChosenAnswer>
+    <ChosenAnswererId>EO3Efx4Daa</ChosenAnswererId>
+    <ChosenAnswererNick>Kenny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267060657</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267374044</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It creates a page that does nothing more than redirects you to another page.
+
+They were created because of the need for shorter links in things like twitter.
+
+An example page would contain just the single line of html:
+&lt;meta HTTP-EQUIV=&quot;REFRESH&quot; content=&quot;0; url=www.yourdomain.com/index.html&quot;&gt;</Content>
+            <Reference>http://www.google.com/search?hl=en&amp;q=what+is+the+html+to+redirect+a+link</Reference>
+            <Best>5</Best>
+            <UserId>EO3Efx4Daa</UserId>
+            <UserNick>Kenny</UserNick>
+            <Date>2010-02-24 17:17:37</Date>
+            <Timestamp>1267060657</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:12:31 PDT 2010 -->

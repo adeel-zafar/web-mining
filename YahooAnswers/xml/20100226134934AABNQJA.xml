@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226134934AABNQJA" type="Answered">
+    <Subject>What does it mean to trade pictures? i do want to know?</Subject>
+    <Content>tell me 
+honestly and truley
+</Content>
+    <Date>2010-02-26 13:49:34</Date>
+    <Timestamp>1267220974</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226134934AABNQJA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xQwzGsODaa</UserId>
+    <UserNick>Katie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It means you exchange pictures.
+You send him yours, he sends you his.</ChosenAnswer>
+    <ChosenAnswererId>FWdRFet0aa</ChosenAnswererId>
+    <ChosenAnswererNick>mr.grumpygit</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267221169</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267740379</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It means you exchange pictures.
+You send him yours, he sends you his.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FWdRFet0aa</UserId>
+            <UserNick>mr.grumpygit</UserNick>
+            <Date>2010-02-26 13:52:49</Date>
+            <Timestamp>1267221169</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:50:07 PDT 2010 -->

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302183647AAAednU" type="Answered">
+    <Subject>Why is my internet connection very slow periodically?</Subject>
+    <Content>Recently for the past month, I&#039;ve been getting weird internet connections. Everything will be fine for a few hours, then it would slow down, and appear to have over a second of latency for everything (eg. Firefox, IE, downloads, gaming). And about 40mins~1 hour or so after, it goes back to normal, then the cycle repeats. This happens to both of my wired and wireless connections.
+
+When this happens, restarting my router or modem brings the speed back up, but it doesn&#039;t seem like there&#039;s anything wrong on my end since the latency goes away after a period of time. I&#039;ve also not found any viruses that could potentially use up all my bandwidth.
+
+I tried calling my internet provider, and they have failed to find the root of the problem. Their suggestions were 1) Restarting the router/modem, 2) Someone might be using my internet, and 3) A virus might be causing this. But since this happens so often, simply restarting my router or modem everytime it happens is not an efficient solution. I have also double checked, my internet is secure with a difficult password, and nobody seems to be using judging it from the list of active+inactive MAC addresses.
+
+Could someone please help me out? Thanks!
+Edit:
+
+Like I said, it doesn&#039;t seem to be a problem with my router or modem, since the latency goes away and my internet connections go back to normal after a while even without having to restart the router+modem. &gt;&lt;
+</Content>
+    <Date>2010-03-02 18:36:47</Date>
+    <Timestamp>1267583807</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302183647AAAednU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mbB1DK3Taa</UserId>
+    <UserNick>SNaiLs</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/10Tj-r0o-AAICTcNwPJNuAluiy0UMlhgU3TZk.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Have check you pc make sure why is your pc is slow.
+ http://registry.tp5pro.com/Slow_PC</ChosenAnswer>
+    <ChosenAnswererId>lZIaR8o3aa</ChosenAnswererId>
+    <ChosenAnswererNick>JamesCameronsAvatar</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267895904</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268103269</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Get either a new modem or wifi adapter</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>i4MOCxgeaa</UserId>
+            <UserNick>Dan</UserNick>
+            <Date>2010-03-02 18:48:47</Date>
+            <Timestamp>1267584527</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Have check you pc make sure why is your pc is slow.
+ http://registry.tp5pro.com/Slow_PC</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>lZIaR8o3aa</UserId>
+            <UserNick>JamesCameronsAvatar</UserNick>
+            <Date>2010-03-06 09:18:24</Date>
+            <Timestamp>1267895904</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:04 PDT 2010 -->

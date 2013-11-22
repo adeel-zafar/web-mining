@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303101550AAdx8bg" type="Answered">
+    <Subject>Strange Internet Explorer?</Subject>
+    <Content>My friend have just joined the internet through a program called alfa awus036h wireless lan utility but his internet appears like for example youtube Its All Blank page with Some very Big highlited blue words and undelined and most of it are large black words and rarely pictures and it is very disorganised how can i fix this ?
+He is using WinXP
+please tell me sstep by step cause i dont know really much about computers
+</Content>
+    <Date>2010-03-03 10:15:50</Date>
+    <Timestamp>1267640150</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303101550AAdx8bg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4rF1fVLUaa</UserId>
+    <UserNick>William</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1xG_Dc-GtAAEC_IFHeG8=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Please download and install adobe flash player, microsoft silver light plugins. Also try internet explorer 8.</ChosenAnswer>
+    <ChosenAnswererId>O5X6F5FMaa</ChosenAnswererId>
+    <ChosenAnswererNick>NITHIN C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267640331</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268159753</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Please download and install adobe flash player, microsoft silver light plugins. Also try internet explorer 8.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>O5X6F5FMaa</UserId>
+            <UserNick>NITHIN C</UserNick>
+            <Date>2010-03-03 10:18:51</Date>
+            <Timestamp>1267640331</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:18:19 PDT 2010 -->

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222150346AAnWJYY" type="Answered">
+    <Subject>what are the best free sites to stream US TV shows?</Subject>
+    <Content>i used to get my episodes of lost season 6 from the pirate bay, but now whenever i go there i get warnings from avast about malware and viruses.
+i must add that i live in the uk and some us sites will not play over here
+</Content>
+    <Date>2010-02-22 15:03:46</Date>
+    <Timestamp>1266879826</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222150346AAnWJYY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>N8KAwv1Saa</UserId>
+    <UserNick>PHIL</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try
+www.surfthechannel.com
+and 
+www.tv-links.eu
+for tv shows
+and
+www.movies-links.tv
+for films</ChosenAnswer>
+    <ChosenAnswererId>FtmIilQUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Drusan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266906461</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267399492</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://tvshack.net/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ptR5gLmCaa</UserId>
+            <UserNick>J</UserNick>
+            <Date>2010-02-22 15:06:27</Date>
+            <Timestamp>1266879987</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I hope you know its illegal to download copyrighted content using bittorrent or even limewire</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gX2z0M2Waa</UserId>
+            <UserNick>Nick003</UserNick>
+            <Date>2010-02-22 15:06:42</Date>
+            <Timestamp>1266880002</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.sidereel.com/_home</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fC3JznlDaa</UserId>
+            <UserNick>Peter</UserNick>
+            <Date>2010-02-22 15:09:44</Date>
+            <Timestamp>1266880184</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try
+www.surfthechannel.com
+and 
+www.tv-links.eu
+for tv shows
+and
+www.movies-links.tv
+for films</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FtmIilQUaa</UserId>
+            <UserNick>Drusan</UserNick>
+            <Date>2010-02-22 22:27:41</Date>
+            <Timestamp>1266906461</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:26:11 PDT 2010 -->

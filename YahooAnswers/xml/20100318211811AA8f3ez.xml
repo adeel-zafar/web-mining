@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318211811AA8f3ez" type="Answered">
+    <Subject>i added a visitor counter to my ebay listing, and it tells me there is one, but i cannot see it! help please?</Subject>
+    <Content>i selected the option, but i cannot see a counter anywhere.... maybe im looking in the wrong place?
+croc&#039;s suggestion did not work, unfortunately =(
+thank you though
+any other ideas??
+</Content>
+    <Date>2010-03-18 21:18:11</Date>
+    <Timestamp>1268972291</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318211811AA8f3ez</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WNKx2Bp7aa</UserId>
+    <UserNick>princess_kitty</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1wXl75tEkAAIB-oF6hLKdiTgxKA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>Try clearing your cache/temporary internet files and cookies and log back into eBay.
+
+Edit:  Try eBay&#039;s answer center.  I think your question should probably be posted under &#039;Technical Issues&#039;.
+
+
+http://pages.ebay.com/community/answercenter/index.html?ssPageName=comm:f:f:US</ChosenAnswer>
+    <ChosenAnswererId>r49T7zQlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Croc</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268973036</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269491770</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try clearing your cache/temporary internet files and cookies and log back into eBay.
+
+Edit:  Try eBay&#039;s answer center.  I think your question should probably be posted under &#039;Technical Issues&#039;.
+
+
+http://pages.ebay.com/community/answercenter/index.html?ssPageName=comm:f:f:US</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>r49T7zQlaa</UserId>
+            <UserNick>Croc</UserNick>
+            <Date>2010-03-18 21:30:36</Date>
+            <Timestamp>1268973036</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>WNKx2Bp7aa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-25 06:10:29</Date>
+            <Timestamp>1268973036</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:37:24 PDT 2010 -->

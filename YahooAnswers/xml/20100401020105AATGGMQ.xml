@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401020105AATGGMQ" type="Answered">
+    <Subject>What can I do about this imageshack problem?</Subject>
+    <Content>I uploaded a few images on imageshack when I had no account so I could not delete them. I want to delete them now and you can do that when you have an account. Is there any way I can claim the images I uploaded when I had no account, as mine?
+
+Thanks
+</Content>
+    <Date>2010-04-01 02:01:05</Date>
+    <Timestamp>1270112465</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401020105AATGGMQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0s7Wbrnqaa</UserId>
+    <UserNick>Deeh</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>They will be automatically deleted if nobody accesses it for a year. Says so in the FAQ.</ChosenAnswer>
+    <ChosenAnswererId>4ef505315e6714cd6a174d1beb0546f0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Swibs</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270113107</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270282195</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They will be automatically deleted if nobody accesses it for a year. Says so in the FAQ.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>4ef505315e6714cd6a174d1beb0546f0aa</UserId>
+            <UserNick>Swibs</UserNick>
+            <Date>2010-04-01 02:11:47</Date>
+            <Timestamp>1270113107</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:56 PDT 2010 -->

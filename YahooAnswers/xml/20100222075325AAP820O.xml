@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222075325AAP820O" type="Answered">
+    <Subject>Which is the best Template at Webs.com?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-22 07:53:25</Date>
+    <Timestamp>1266854005</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222075325AAP820O</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TNrrow2Uaa</UserId>
+    <UserNick>Cricket bOmb</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b947341i1e84zws108sp2/zNxWVFsjeqifqkSNO0UsLQxf/3/tn48.jpeg?ciAAToMB7Xch3CSL</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Depends what type of site you want the template for.
+
+Some more details would help a lot.</ChosenAnswer>
+    <ChosenAnswererId>54cd0b34634c0b8422b332706e39eed2aa</ChosenAnswererId>
+    <ChosenAnswererNick>wrighty</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266855295</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266993253</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Depends what type of site you want the template for.
+
+Some more details would help a lot.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>54cd0b34634c0b8422b332706e39eed2aa</UserId>
+            <UserNick>wrighty</UserNick>
+            <Date>2010-02-22 08:14:55</Date>
+            <Timestamp>1266855295</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:29:01 PDT 2010 -->

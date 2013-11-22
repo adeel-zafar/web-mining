@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321213725AAZ2xFT" type="Answered">
+    <Subject>How can you delete the tumblr blog by the staff?</Subject>
+    <Content>When I try to delete the tumblr blogs by the staff, I cant. There&#039;s no &quot;delete button&quot; or such.
+</Content>
+    <Date>2010-03-21 21:37:25</Date>
+    <Timestamp>1269232645</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321213725AAZ2xFT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hon8YGiZaa</UserId>
+    <UserNick>Ixscream</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1MiQSLVGkAAEC2-KZVBOlaH8B.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can&#039;t delete them. Click on their icon, which should lead you to their tumblr profile. Wait until the page is fully loaded, and then you should see 2 gray, rectangular buttons. One should say &#039;unfollow&#039; and the other &#039;dashboard&#039;. Click the &#039;unfollow&#039; button. After you click it, the button will change to &#039;follow&#039;. Click on dashboard to go home, and the staff blog should be gone.</ChosenAnswer>
+    <ChosenAnswererId>l2SOmdsraa</ChosenAnswererId>
+    <ChosenAnswererNick>MJEEEEEZY</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269232912</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269407469</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can&#039;t delete them. Click on their icon, which should lead you to their tumblr profile. Wait until the page is fully loaded, and then you should see 2 gray, rectangular buttons. One should say &#039;unfollow&#039; and the other &#039;dashboard&#039;. Click the &#039;unfollow&#039; button. After you click it, the button will change to &#039;follow&#039;. Click on dashboard to go home, and the staff blog should be gone.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>l2SOmdsraa</UserId>
+            <UserNick>MJEEEEEZY</UserNick>
+            <Date>2010-03-21 21:41:52</Date>
+            <Timestamp>1269232912</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:55 PDT 2010 -->

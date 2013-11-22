@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318092417AAHEovN" type="Answered">
+    <Subject>Netflix Problem--Help!?</Subject>
+    <Content>When I try to watch a Netflix &quot;Watch Instantly&quot; Movie on the computer, it works well for about 5 seconds, but then it quits and a message pops up: &quot;Media Playback Error/ Error Code: 
+N8156-4001/ We were unable to load this title for playback.&quot; etc. Here&#039;s the thing--I have used Netflix&#039; instant streaming service for over 2 months and have never had a problem like this before. The day before this happened I watched a movie that was two hours and ten minutes long. The next day I tried to watch a two hour movie, and this happened for the first time. Now every single movie I try to watch, even a 20 minute TV episode, this same thing happens. Has anyone had a problem like this? How did they fix it? And please don&#039;t suggest calling customer service--already tried it and they said it was my internet connection which makes no sense at all.
+</Content>
+    <Date>2010-03-18 09:24:17</Date>
+    <Timestamp>1268929457</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318092417AAHEovN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vyZFmaRsaa</UserId>
+    <UserNick>Mikey</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;m getting the same thing, but with no luck thus far as to how to fix it.</ChosenAnswer>
+    <ChosenAnswererId>TAQ1RoHvaa</ChosenAnswererId>
+    <ChosenAnswererNick>Moobert</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268971180</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269449090</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m getting the same thing, but with no luck thus far as to how to fix it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TAQ1RoHvaa</UserId>
+            <UserNick>Moobert</UserNick>
+            <Date>2010-03-18 20:59:40</Date>
+            <Timestamp>1268971180</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:40:12 PDT 2010 -->

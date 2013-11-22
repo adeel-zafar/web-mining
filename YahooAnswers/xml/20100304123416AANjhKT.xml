@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304123416AANjhKT" type="Answered">
+    <Subject>Why cant I browse the internet while Utorrent is open even if it has no activity?</Subject>
+    <Content>This is a recent problem. I was always able to browse the web before regardless of the bandwidth it was using.  Now, if it is just open and isn&#039;t doing any transfers i still cannot browse the internet.  All the pages time out.  When I close the application i can browse again.
+</Content>
+    <Date>2010-03-04 12:34:16</Date>
+    <Timestamp>1267734856</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304123416AANjhKT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>42c02441bdc85304b49900f36b607accaa</UserId>
+    <UserNick>Bashful Bondage Bunny</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bb456ci2a8bz/cL9OCH44b7XRnLKinpKlXLVg4fQ-/100/tn48.jpg?ciAAToMBPnikpnO2</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try resetting your Utorrent settings and maybe checking your firewall.</ChosenAnswer>
+    <ChosenAnswererId>VTvEak25aa</ChosenAnswererId>
+    <ChosenAnswererNick>Minda</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267735012</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268019808</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try resetting your Utorrent settings and maybe checking your firewall.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>VTvEak25aa</UserId>
+            <UserNick>Minda</UserNick>
+            <Date>2010-03-04 12:36:52</Date>
+            <Timestamp>1267735012</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:10:33 PDT 2010 -->

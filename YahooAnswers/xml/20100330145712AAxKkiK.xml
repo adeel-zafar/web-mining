@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330145712AAxKkiK" type="Answered">
+    <Subject>How does http://tiny.cc work?</Subject>
+    <Content>tiny.cc is a website that transforms long URLs to shortened ones.  I&#039;m just curious how that works conceptually.  Is it similar logic behind an image host like imageshack?  Or is it more like an indexed database?  Your thoughts?
+</Content>
+    <Date>2010-03-30 14:57:12</Date>
+    <Timestamp>1269986232</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330145712AAxKkiK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HrbXZKV9aa</UserId>
+    <UserNick>Tomba53</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a62a257i15a5zul6sp1/TRzI5pc2bqgT2tF2nB0L4Heg/1/tn48.png?ciAAToMBQ5yPbkXf</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Basically, URL shorteners such as http://tiny.cc or http://bit.ly or http://nhe1.com create a key with which the long URL is associated in the database.  The URL generated with the key redirects the user to the long URL in the database.  The key is usually the part after the TLD/, normally around 6 alpha-numeric characters.  Some permit their own keys to be used, though those are often with paid services.  Not all URI schemes are supported by all services.</ChosenAnswer>
+    <ChosenAnswererId>O78DY2d5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Lance</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270168626</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270169689</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Basically, URL shorteners such as http://tiny.cc or http://bit.ly or http://nhe1.com create a key with which the long URL is associated in the database.  The URL generated with the key redirects the user to the long URL in the database.  The key is usually the part after the TLD/, normally around 6 alpha-numeric characters.  Some permit their own keys to be used, though those are often with paid services.  Not all URI schemes are supported by all services.</Content>
+            <Reference>http://nhe1.com/310b67</Reference>
+            <Best>5</Best>
+            <UserId>O78DY2d5aa</UserId>
+            <UserNick>Lance</UserNick>
+            <Date>2010-04-01 17:37:06</Date>
+            <Timestamp>1270168626</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:56 PDT 2010 -->

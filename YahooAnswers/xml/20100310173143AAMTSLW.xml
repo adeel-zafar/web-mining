@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310173143AAMTSLW" type="Answered">
+    <Subject>iamwired.net redirect for any website. how do i get it to go away?</Subject>
+    <Content>the only thing that i can think of that would cause this would be a download, but the only thing that was downloaded was a chacha toolbar, but, i undownloaded this and it still redirects any page i go to to that website.  any kind of help would be appreciated. also there could be something else downloaded that i am unaware of but i do not know
+</Content>
+    <Date>2010-03-10 17:31:43</Date>
+    <Timestamp>1268271103</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310173143AAMTSLW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7xDqWV0Paa</UserId>
+    <UserNick>Xander</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You&#039;ve been hit by adware.
+
+First place to check is your HOSTS file:
+Notepad &gt; Open &gt; %SYSTEMROOT%\System32\drivers\etc
+
+The only entry should be the one with &#039;localhost&#039; (unless you have SpyBot, which also adds &#039;immunization&#039; entries here).
+
+If you can download and run SpyBot, it can help clean up other bad Internet settings:
+http://www.safer-networking.org/
+
+May also help to follow the steps here:
+http://answers.yahoo.com/question/index?qid=20090901222421AAzEfch
+http://www.threatexpert.com/report.aspx?md5=a486e305394923a7d189d1ea7106c26a</ChosenAnswer>
+    <ChosenAnswererId>bR3Wa5t5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Nahum</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268272125</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268786858</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You&#039;ve been hit by adware.
+
+First place to check is your HOSTS file:
+Notepad &gt; Open &gt; %SYSTEMROOT%\System32\drivers\etc
+
+The only entry should be the one with &#039;localhost&#039; (unless you have SpyBot, which also adds &#039;immunization&#039; entries here).
+
+If you can download and run SpyBot, it can help clean up other bad Internet settings:
+http://www.safer-networking.org/
+
+May also help to follow the steps here:
+http://answers.yahoo.com/question/index?qid=20090901222421AAzEfch
+http://www.threatexpert.com/report.aspx?md5=a486e305394923a7d189d1ea7106c26a</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bR3Wa5t5aa</UserId>
+            <UserNick>Nahum</UserNick>
+            <Date>2010-03-10 17:48:45</Date>
+            <Timestamp>1268272125</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:16:27 PDT 2010 -->

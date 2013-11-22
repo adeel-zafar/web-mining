@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304003509AAzoG99" type="Answered">
+    <Subject>How do i set Safari to Refresh automatically?</Subject>
+    <Content>I have a Mac Mini with OSX.
+</Content>
+    <Date>2010-03-04 00:35:09</Date>
+    <Timestamp>1267691709</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304003509AAzoG99</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>30uqyWJlaa</UserId>
+    <UserNick>jack</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here are some links to give you a hand by the way it is easier to refresh in &quot;Opera&quot; many Mac users use it and love it as it gives you more control overall.
+
+Safari.
+http://forums.macosxhints.com/showthread.php?t=41358
+
+http://forums.macrumors.com/showthread.php?t=244296</ChosenAnswer>
+    <ChosenAnswererId>QJD9v64Haa</ChosenAnswererId>
+    <ChosenAnswererNick>John Thom</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267697302</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267976274</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Here are some links to give you a hand by the way it is easier to refresh in &quot;Opera&quot; many Mac users use it and love it as it gives you more control overall.
+
+Safari.
+http://forums.macosxhints.com/showthread.php?t=41358
+
+http://forums.macrumors.com/showthread.php?t=244296</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>QJD9v64Haa</UserId>
+            <UserNick>John Thom</UserNick>
+            <Date>2010-03-04 02:08:22</Date>
+            <Timestamp>1267697302</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:12:47 PDT 2010 -->

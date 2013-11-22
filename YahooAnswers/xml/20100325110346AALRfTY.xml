@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325110346AALRfTY" type="Answered">
+    <Subject>What internet browser allows you NOT to delete history?</Subject>
+    <Content>I had Google Chrome, but I noticed you could still delete or be &quot;secret&quot; about the history with the &#039;incognito&quot; tool. So, I want that gone. 
+What internet browser won&#039;t let you delete the history?
+Or what is a good tool to make sure you can 100% see what a person is looking at.
+thank you :)
+</Content>
+    <Date>2010-03-25 11:03:46</Date>
+    <Timestamp>1269540226</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325110346AALRfTY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7Djh6JFqaa</UserId>
+    <UserNick>Megan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.netnanny.com/ will log all internet activity, regardless of what browser you use, whether you delete the history, or even with &quot;incognito&quot; mode.</ChosenAnswer>
+    <ChosenAnswererId>qiUrtMdqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Toby</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269540702</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270059891</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no browser stops that. however you can write scrips that stop users from having the option. you could write a script to back up all the history to another location for your review and i do believe checking logs in your router and DNS server will also do the trick</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KOyvuKhOaa</UserId>
+            <UserNick>ItachisXeyes</UserNick>
+            <Date>2010-03-25 11:08:39</Date>
+            <Timestamp>1269540519</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.netnanny.com/ will log all internet activity, regardless of what browser you use, whether you delete the history, or even with &quot;incognito&quot; mode.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qiUrtMdqaa</UserId>
+            <UserNick>Toby</UserNick>
+            <Date>2010-03-25 11:11:42</Date>
+            <Timestamp>1269540702</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:31:00 PDT 2010 -->

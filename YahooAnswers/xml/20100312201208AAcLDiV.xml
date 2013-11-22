@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312201208AAcLDiV" type="Answered">
+    <Subject>internet explorer for windows 7?</Subject>
+    <Content>I have windows 7 and I was wondering how I can remove internet explorer from my computer? I went to add/remove programs and it wasn&#039;t listed and when I searched it on my file menu it didn&#039;t come up as a folder so I could not select the option of uninstalling it. I downloaded firefox and I don&#039;t want internet explorer anymore.
+</Content>
+    <Date>2010-03-12 20:12:08</Date>
+    <Timestamp>1268453528</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312201208AAcLDiV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RqUwmEpWaa</UserId>
+    <UserNick>psychadelicfunk</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Its one of those things that you just should have. Not everything runs with firefox, and IE is a good backup for some programs.</ChosenAnswer>
+    <ChosenAnswererId>j1BvhTB3aa</ChosenAnswererId>
+    <ChosenAnswererNick>revolution2718</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268453693</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269272602</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Its one of those things that you just should have. Not everything runs with firefox, and IE is a good backup for some programs.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>j1BvhTB3aa</UserId>
+            <UserNick>revolution2718</UserNick>
+            <Date>2010-03-12 20:14:53</Date>
+            <Timestamp>1268453693</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:06:41 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310023836AA8URbW" type="Answered">
+    <Subject>Is there a way for someone to tell if you go through their internet history?</Subject>
+    <Content>Just curious, if they delete the page that says they loaded an internet homepage to check it out, can you tell if someone went through your history?
+Haha sorry... And thanks... :)
+</Content>
+    <Date>2010-03-10 02:38:36</Date>
+    <Timestamp>1268217516</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310023836AA8URbW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nW6WtQtlaa</UserId>
+    <UserNick>Ally</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bab2677i11c3zws137sp2/yTvS0sYwd6rIcAZtpbGu.Y0i7A--/3/tn48.jpeg?ciAAToMBU1nS2S8f</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>People can&#039;t tell if u went through their history unless u open up one of the things in the history becuz then it will come up on the drop down menu in your internet address box a.k.a. where you type in a website. (unless that person already had it in their drop down menu)</ChosenAnswer>
+    <ChosenAnswererId>Ou56kWjZaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sun Li</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268218060</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268308496</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Its not possible.
+And this is just answer the main question, the question details are confusing i read it like 10 times.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>020hborlaa</UserId>
+            <UserNick>deadking_dag</UserNick>
+            <Date>2010-03-10 02:41:31</Date>
+            <Timestamp>1268217691</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>People can&#039;t tell if u went through their history unless u open up one of the things in the history becuz then it will come up on the drop down menu in your internet address box a.k.a. where you type in a website. (unless that person already had it in their drop down menu)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Ou56kWjZaa</UserId>
+            <UserNick>Sun Li</UserNick>
+            <Date>2010-03-10 02:47:40</Date>
+            <Timestamp>1268218060</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:20:23 PDT 2010 -->

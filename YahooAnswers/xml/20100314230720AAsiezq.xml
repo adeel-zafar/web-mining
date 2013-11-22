@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314230720AAsiezq" type="Answered">
+    <Subject>MY INTERNET EXPLORER AND FIREFOX WON&#039;T WORK?</Subject>
+    <Content>my internet explorer and firefox wont work on my computer after had a virus attack, luckily antivirus removed from my pc,( windows vista.TOSHIBA) 
+when i double click on internet explorer &amp; firefox , showing a message that : Windows cannot access the specific devise, path or file you may not have appopriate permission to access the item &quot;
+but when i right click on internet explorer firefox  i can open inernet if i click run as administrator 
+hep me
+</Content>
+    <Date>2010-03-14 23:07:20</Date>
+    <Timestamp>1268633240</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314230720AAsiezq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IkFwck0Eaa</UserId>
+    <UserNick>Sayikuttan</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4aa626e2i19dezul5sp1/xIcJM5QicqyIs1FT7fwFRX5MevGCdnz4/1/tn48.jpg?ciAAToMBQw8CcFRP</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ah, Windows Vista and it&#039;s ownership issues... Unfortunately, it would take too long to explain here, but simply google your error message, and you should be greeted with user-friendly guides.</ChosenAnswer>
+    <ChosenAnswererId>yRiuRbQMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Blake</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268633391</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268756910</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ah, Windows Vista and it&#039;s ownership issues... Unfortunately, it would take too long to explain here, but simply google your error message, and you should be greeted with user-friendly guides.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>yRiuRbQMaa</UserId>
+            <UserNick>Blake</UserNick>
+            <Date>2010-03-14 23:09:51</Date>
+            <Timestamp>1268633391</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Okay. I&#039;ll &#039;hep&#039; you.
+Redownload the umm browser</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6iPr1BKSaa</UserId>
+            <UserNick>Maplestoria</UserNick>
+            <Date>2010-03-14 23:13:27</Date>
+            <Timestamp>1268633607</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I lost my Internet after the Antivirus Soft malware attack. Follow this guide for getting it back:
+http://www.2-spyware.com/remove-antivirus-soft.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bBU5XgcDaa</UserId>
+            <UserNick>Markus</UserNick>
+            <Date>2010-03-15 07:03:41</Date>
+            <Timestamp>1268661821</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try to uninstall firfox and redownload !
+first try to do a restore ! good luck !</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kXPHGwEhaa</UserId>
+            <UserNick>farm girl</UserNick>
+            <Date>2010-03-15 08:16:17</Date>
+            <Timestamp>1268666177</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:55:33 PDT 2010 -->

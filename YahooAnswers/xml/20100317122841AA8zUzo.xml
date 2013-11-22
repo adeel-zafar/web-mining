@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317122841AA8zUzo" type="Answered">
+    <Subject>What does &#039;pic heavy&#039; mean?</Subject>
+    <Content>I keep seeing the term pop up in posts that include pictures.  I googled it and that didn&#039;t help much.
+</Content>
+    <Date>2010-03-17 12:28:41</Date>
+    <Timestamp>1268854121</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317122841AA8zUzo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HAEIpcAraa</UserId>
+    <UserNick>LittleDino</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Om7aHeXQAAEB9IFT7Eo=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It means there&#039;s a lot of pictures in the post, so if you&#039;re on a slow connection you shouldn&#039;t view the thread as the pictures will eat up a lot of bandwidth.</ChosenAnswer>
+    <ChosenAnswererId>XlyLakYAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mercuri</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268854386</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268884841</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It means there&#039;s a lot of pictures in the post, so if you&#039;re on a slow connection you shouldn&#039;t view the thread as the pictures will eat up a lot of bandwidth.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XlyLakYAaa</UserId>
+            <UserNick>Mercuri</UserNick>
+            <Date>2010-03-17 12:33:06</Date>
+            <Timestamp>1268854386</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:01 PDT 2010 -->

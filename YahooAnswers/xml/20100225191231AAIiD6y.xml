@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225191231AAIiD6y" type="Answered">
+    <Subject>How do I keep two windows open, but be able to click on one without the other closing?</Subject>
+    <Content>Im trying to be able to keep Skype open, but still be able to be on the internet, without having to keep clicking it when it minimizes, after I click on something. Make Sense? No ahah sorry
+</Content>
+    <Date>2010-02-25 19:12:31</Date>
+    <Timestamp>1267153951</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225191231AAIiD6y</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vOggRsoXaa</UserId>
+    <UserNick>Hayley</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1S2pdIj8DAAEBXkN6jBNT1vgA.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;ve never used skype before, but if it is what I think it is, then press the button next to the x button that closes the window, and put them both side by side (not overlapping)</ChosenAnswer>
+    <ChosenAnswererId>wGmZnu3maa</ChosenAnswererId>
+    <ChosenAnswererNick>Kurt</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267154143</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267673597</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just size both windows to fit on half the screen and move one to the left and the other to the right and they shouldn&#039;t close.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oqZzE4lQaa</UserId>
+            <UserNick>Tanner.R</UserNick>
+            <Date>2010-02-25 19:14:59</Date>
+            <Timestamp>1267154099</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Shrink the browser Window so that it doesn&#039;t overlap your skype window.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>abOrk5CVaa</UserId>
+            <UserNick>Josh</UserNick>
+            <Date>2010-02-25 19:15:14</Date>
+            <Timestamp>1267154114</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;ve never used skype before, but if it is what I think it is, then press the button next to the x button that closes the window, and put them both side by side (not overlapping)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wGmZnu3maa</UserId>
+            <UserNick>Kurt</UserNick>
+            <Date>2010-02-25 19:15:43</Date>
+            <Timestamp>1267154143</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:54:05 PDT 2010 -->

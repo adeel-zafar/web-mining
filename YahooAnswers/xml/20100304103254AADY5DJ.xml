@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304103254AADY5DJ" type="Answered">
+    <Subject>What&#039;s a good ad blocker program that works on deviantart and myspace?</Subject>
+    <Content>I&#039;d be willing to pay if it&#039;s decent.
+I already have AdBlock Plus for Firefox, but it&#039;s not working on deviantart
+</Content>
+    <Date>2010-03-04 10:32:54</Date>
+    <Timestamp>1267727574</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304103254AADY5DJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uirWKjavaa</UserId>
+    <UserNick>Brad B, Three Timer</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4af6317di21b8zul8re4/AgIH.skzaaeAgxXgGPUuTQ.p8_Ku/1/tn48.jpg?ciAAToMB2Faq29bp</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here is what you want to do:
+1. Install Firefox browser:
+http://www.mozilla.com/en-US/firefox/personal.html
+2. Install adblock plus(open link in firefox):
+https://addons.mozilla.org/en-US/firefox/addon/1865
+3. select easylist and then ok.
+
+Done, 99% ads gone and for free
+
+
+Please select the best answer, kinda sucks to give a good answer and have it go to a vote where people just end up voting for themselves.
+-----------------------------------------------------------------------------------
+
+Works just fine for me, do you have the latest update?
+Also are you talking about the page they send you to when you have viewed a few pages? You can&#039;t get around being sent to that page. It would normally have a big advertisement on it but ad block plus does block that.
+
+Also adblock plus removes the advertisement from the top of the page.  (i have tested it on deviant art)
+
+You can also go into your addons menu, go to the options of adblock plus and then go to filters and then go update all subscriptions
+
+Do you have Deviant art under the &quot;My exception rules&quot;?
+
+What lists are you subscribed to?
+
+
+I can assure you that it does work on that site and there must be a problem with your configuration. If all else fails try uninstalling and reinstalling adblock.</ChosenAnswer>
+    <ChosenAnswererId>y659R5mwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ryan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267728089</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267830064</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Here is what you want to do:
+1. Install Firefox browser:
+http://www.mozilla.com/en-US/firefox/personal.html
+2. Install adblock plus(open link in firefox):
+https://addons.mozilla.org/en-US/firefox/addon/1865
+3. select easylist and then ok.
+
+Done, 99% ads gone and for free
+
+
+Please select the best answer, kinda sucks to give a good answer and have it go to a vote where people just end up voting for themselves.
+-----------------------------------------------------------------------------------
+
+Works just fine for me, do you have the latest update?
+Also are you talking about the page they send you to when you have viewed a few pages? You can&#039;t get around being sent to that page. It would normally have a big advertisement on it but ad block plus does block that.
+
+Also adblock plus removes the advertisement from the top of the page.  (i have tested it on deviant art)
+
+You can also go into your addons menu, go to the options of adblock plus and then go to filters and then go update all subscriptions
+
+Do you have Deviant art under the &quot;My exception rules&quot;?
+
+What lists are you subscribed to?
+
+
+I can assure you that it does work on that site and there must be a problem with your configuration. If all else fails try uninstalling and reinstalling adblock.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>y659R5mwaa</UserId>
+            <UserNick>Ryan</UserNick>
+            <Date>2010-03-04 10:41:29</Date>
+            <Timestamp>1267728089</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:10:48 PDT 2010 -->

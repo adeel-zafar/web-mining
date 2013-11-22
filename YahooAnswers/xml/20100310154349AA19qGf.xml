@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310154349AA19qGf" type="Answered">
+    <Subject>How do I unhide the Menu etc. bars in Firefox after I&#039;ve hidden them all?</Subject>
+    <Content>I have the latest version of Firefox and I hid all of the bars above tabs thinking I could reverse it easily, but now I realize I can&#039;t.
+
+I right-clicked everywhere on the tabs bar and the window including the bottom, but the right-click menu only has options about tabs...
+
+I want to avoid having to reinstall Firefox, so do any of you know what I should do?
+Thanks, that was quick! +1
+</Content>
+    <Date>2010-03-10 15:43:49</Date>
+    <Timestamp>1268264629</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310154349AA19qGf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tf6W36E1aa</UserId>
+    <UserNick>flash designer</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1OuAPv_wiAAACPyGbrCZEBw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Press ALT + V ( both keys together) 
+
+When the menu bar comes up , select View &gt;.Toolbars&gt;. and double click on Menu Bar until the tick appears next to it
+
+Or are you in Full Screen Mode ?..If so press F11 to return to normal</ChosenAnswer>
+    <ChosenAnswererId>ylyDSpb7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Sexy Scottish Kool Aid Man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268264982</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268406900</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Press ALT + V ( both keys together) 
+
+When the menu bar comes up , select View &gt;.Toolbars&gt;. and double click on Menu Bar until the tick appears next to it
+
+Or are you in Full Screen Mode ?..If so press F11 to return to normal</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ylyDSpb7aa</UserId>
+            <UserNick>Sexy Scottish Kool Aid Man</UserNick>
+            <Date>2010-03-10 15:49:42</Date>
+            <Timestamp>1268264982</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>^ Thank you, that was a life saver. =)
+
+(I did the same thing lol).</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1MLIYilNaa</UserId>
+            <UserNick>mcr {zombie}</UserNick>
+            <Date>2010-03-11 22:08:05</Date>
+            <Timestamp>1268374085</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:17:34 PDT 2010 -->

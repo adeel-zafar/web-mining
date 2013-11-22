@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313103627AAa64RU" type="Answered">
+    <Subject>I can&#039;t log onto aim with pidgin..help!!!?</Subject>
+    <Content>So for some reason, i cant log into pidgin using my aim account..this is weird because i downloaded it before on a another computer, and it worked just fine..when i try logging in, it gives me this message: Received unexpected response from http://api.oscar.aol.com/aim/startOSCARSession: useTLS=1 is not allowed for non secure requests.   help, por favor??
+</Content>
+    <Date>2010-03-13 10:36:27</Date>
+    <Timestamp>1268505387</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313103627AAa64RU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>li7zs4WIaa</UserId>
+    <UserNick>kitty</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>See pidgin&#039;s main site:  http://pidgin.im
+
+Here is a copy in case it goes away:
+
+Having trouble with AIM/ICQ? Uncheck &#039;Use clientLogin&#039; on the advanced tab of the account settings.</ChosenAnswer>
+    <ChosenAnswererId>erFvVdPqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Matt</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268826195</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269021346</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>See pidgin&#039;s main site:  http://pidgin.im
+
+Here is a copy in case it goes away:
+
+Having trouble with AIM/ICQ? Uncheck &#039;Use clientLogin&#039; on the advanced tab of the account settings.</Content>
+            <Reference>http://old.nabble.com/-11494:-Received-unexpected-response-from-http:--api.oscar.aol.com-aim-startOSCARSession:-useTLS%3D1-is-not-allowed-for-non-secure-requests.-td27770038.html</Reference>
+            <Best>5</Best>
+            <UserId>erFvVdPqaa</UserId>
+            <UserNick>Matt</UserNick>
+            <Date>2010-03-17 04:43:15</Date>
+            <Timestamp>1268826195</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:09 PDT 2010 -->

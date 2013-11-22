@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324110818AASg6nJ" type="Answered">
+    <Subject>How do I send a &quot;tweet&quot; directly to someone on Twitter?</Subject>
+    <Content>....Like, if my tweet is only intended &amp; directed towards only one of my &#039;friends&#039; and not everybody else, how do I do that, or rather, how do I send that? Thank you in advance &amp; ~~God bless!~~
+</Content>
+    <Date>2010-03-24 11:08:18</Date>
+    <Timestamp>1269454098</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324110818AASg6nJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sPDOMTTjaa</UserId>
+    <UserNick>kjcamel</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1saHbDqubAAAB96FKZIpn0u7CKN9FvA==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>@thepersonsusername</ChosenAnswer>
+    <ChosenAnswererId>2VUt6BFxaa</ChosenAnswererId>
+    <ChosenAnswererNick>Anette</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269454199</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269616986</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>@thepersonsusername</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>2VUt6BFxaa</UserId>
+            <UserNick>Anette</UserNick>
+            <Date>2010-03-24 11:09:59</Date>
+            <Timestamp>1269454199</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have to make sure you are following them or they are following you first ~ I&#039;m pretty sure there is a private message section ~ I don&#039;t use it much and what I have to say, well I don&#039;t care who sees it :)</Content>
+            <Reference>DA</Reference>
+            <Best></Best>
+            <UserId>AA12367392</UserId>
+            <UserNick>Debbie&#039;s angel</UserNick>
+            <Date>2010-03-24 17:45:37</Date>
+            <Timestamp>1269477937</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:35:07 PDT 2010 -->

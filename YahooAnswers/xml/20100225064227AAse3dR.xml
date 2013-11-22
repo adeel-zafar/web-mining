@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225064227AAse3dR" type="Answered">
+    <Subject>Help me with my internet connection problem, please?</Subject>
+    <Content>OK i&#039;m using adls cable with modem. When i connect this model to my laptop, internet is fine. But when i connect it to my pc, the connection is good at all. Like when i press a link, a page that says i don&#039;t have internet connection appears as though i don&#039;t i&#039;m not connected, now i can refress a few to get the page to load, but i dont have this problem with my laptop. Help.
+</Content>
+    <Date>2010-02-25 06:42:27</Date>
+    <Timestamp>1267108947</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225064227AAse3dR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6c2c201f9819affe21b1db73381a4d9baa</UserId>
+    <UserNick>Nurra Nurra</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try loading you internet servers cdrom into your pc again and reload as per instructions</ChosenAnswer>
+    <ChosenAnswererId>BG3g0k4naa</ChosenAnswererId>
+    <ChosenAnswererNick>Brian</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267109795</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267628602</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try loading you internet servers cdrom into your pc again and reload as per instructions</Content>
+            <Reference>bigpond.com</Reference>
+            <Best>5</Best>
+            <UserId>BG3g0k4naa</UserId>
+            <UserNick>Brian</UserNick>
+            <Date>2010-02-25 06:56:35</Date>
+            <Timestamp>1267109795</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:59:11 PDT 2010 -->

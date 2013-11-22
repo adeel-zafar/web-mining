@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316075236AA67nxq" type="Answered">
+    <Subject>Why won&#039;t pandora open on my mac...?</Subject>
+    <Content>It use to work perfectly and now Pandora won&#039;t load on firefox or safari. Anyone have an idea of what&#039;s going on and how to fix it!?
+No PCS suck...and that wasn&#039;t the question. Thanks for wasting my time!! ;)
+</Content>
+    <Date>2010-03-16 07:52:36</Date>
+    <Timestamp>1268751156</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316075236AA67nxq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jzAAzAbjaa</UserId>
+    <UserNick>Vintage Glamour</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bae5d0i25c9z/mZ3l._U9RKBFB8Pj1uOY6Zci/100/tn48.jpg?ciAAToMBMp0MJlH1</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well... first try clearing out the cache. You can find it in the Safari menu... then click on Empty Cache...</ChosenAnswer>
+    <ChosenAnswererId>NZDY5IJxaa</ChosenAnswererId>
+    <ChosenAnswererNick>froinlavin7</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268752382</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268770804</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Macs suck dick</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>E1yPC8J9aa</UserId>
+            <UserNick>chester stone</UserNick>
+            <Date>2010-03-16 07:53:20</Date>
+            <Timestamp>1268751200</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well... first try clearing out the cache. You can find it in the Safari menu... then click on Empty Cache...</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>NZDY5IJxaa</UserId>
+            <UserNick>froinlavin7</UserNick>
+            <Date>2010-03-16 08:13:02</Date>
+            <Timestamp>1268752382</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:59 PDT 2010 -->

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325003120AAdN8m7" type="Answered">
+    <Subject>How do you check your twitter replies?</Subject>
+    <Content>apart from going onto the other persons rage
+</Content>
+    <Date>2010-03-25 00:31:20</Date>
+    <Timestamp>1269502280</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325003120AAdN8m7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mLK2Rg9Vaa</UserId>
+    <UserNick>Mcmhairix</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1) You should feel free to @reply people and not worry about it being out of context to some of your followers. In general, they won&#039;t see it.
+
+2) If you&#039;re seeing @replies directed to people you don&#039;t follow and don&#039;t want to, check your setting. 
+
+3) This is obviously too confusing. We want to make some changes to make it more clear. We could clarify the setting. But my preference is to take out the setting altogether and just make it work like the default. That way, it works the same for everyone. (If you have strong opinions on this, leave a comment.)</ChosenAnswer>
+    <ChosenAnswererId>xAjgBuYhaa</ChosenAnswererId>
+    <ChosenAnswererNick>Aaron Smith</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269506319</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270021403</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>1) You should feel free to @reply people and not worry about it being out of context to some of your followers. In general, they won&#039;t see it.
+
+2) If you&#039;re seeing @replies directed to people you don&#039;t follow and don&#039;t want to, check your setting. 
+
+3) This is obviously too confusing. We want to make some changes to make it more clear. We could clarify the setting. But my preference is to take out the setting altogether and just make it work like the default. That way, it works the same for everyone. (If you have strong opinions on this, leave a comment.)</Content>
+            <Reference>==&gt; http://bit.ly/ckkgbN &lt;==</Reference>
+            <Best>5</Best>
+            <UserId>xAjgBuYhaa</UserId>
+            <UserNick>Aaron Smith</UserNick>
+            <Date>2010-03-25 01:38:39</Date>
+            <Timestamp>1269506319</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:03 PDT 2010 -->

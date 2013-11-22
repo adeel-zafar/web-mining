@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222080224AA9ZmE5" type="Answered">
+    <Subject>Can anyone answer this please? about internet copyright...?</Subject>
+    <Content>If there&#039;s a video of me online and i don&#039;t want anyone to see it, am i allowed to report and ask for it to be deleted... thanks
+</Content>
+    <Date>2010-02-22 08:02:24</Date>
+    <Timestamp>1266854544</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222080224AA9ZmE5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5aovUgNAaa</UserId>
+    <UserNick>John</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>not unless you have a copyright on it
+google copyright&gt; and find the laws</ChosenAnswer>
+    <ChosenAnswererId>3L5ucj1Raa</ChosenAnswererId>
+    <ChosenAnswererNick>Tony</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266854722</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267374236</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>not unless you have a copyright on it
+google copyright&gt; and find the laws</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-02-22 08:05:22</Date>
+            <Timestamp>1266854722</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes potentially. Contact the hosting company or owners of the website and tell them the video is there without your permission and they may remove it,but the law is not clear about information in the public domain</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>54cd0b34634c0b8422b332706e39eed2aa</UserId>
+            <UserNick>wrighty</UserNick>
+            <Date>2010-02-22 08:05:29</Date>
+            <Timestamp>1266854729</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:29:00 PDT 2010 -->

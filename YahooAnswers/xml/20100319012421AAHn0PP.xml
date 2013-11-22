@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319012421AAHn0PP" type="Answered">
+    <Subject>How do I check my internet download speed?</Subject>
+    <Content>I don&#039;t want speedtest.net because I don&#039;t think it&#039;s reliable. So will someone give me the link for a site.
+</Content>
+    <Date>2010-03-19 01:24:21</Date>
+    <Timestamp>1268987061</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319012421AAHn0PP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DhAMNVi7aa</UserId>
+    <UserNick>Rob</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://lmgtfy.com/?q=speed+test</ChosenAnswer>
+    <ChosenAnswererId>ul06EmNTaa</ChosenAnswererId>
+    <ChosenAnswererNick>▐▀▀▼▀▀▌ ►ʞɯɐpɐ◄ ▐▄▄▲▄▄▌</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268987130</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269083960</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://lmgtfy.com/?q=speed+test</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ul06EmNTaa</UserId>
+            <UserNick>▐▀▀▼▀▀▌ ►ʞɯɐpɐ◄ ▐▄▄▲▄▄▌</UserNick>
+            <Date>2010-03-19 01:25:30</Date>
+            <Timestamp>1268987130</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.dslreports.com/speedtest
+
+There are tons of speed testing sites here.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JB7uzfT6aa</UserId>
+            <UserNick>Old Fogey</UserNick>
+            <Date>2010-03-19 01:27:08</Date>
+            <Timestamp>1268987228</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.speakeasy.net/speedtest
+
+This one is usually the most accurate for me.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QkDNt2KEaa</UserId>
+            <UserNick>been there done that got shirt</UserNick>
+            <Date>2010-03-19 01:33:34</Date>
+            <Timestamp>1268987614</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.internetfrog.com/mypc/speedtest/
+Always remember that these tests are what give you actual download/upload speeds. The ones your internet Co advertises to you are per second speeds.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cxfqKJZJaa</UserId>
+            <UserNick>realm_wrecker</UserNick>
+            <Date>2010-03-19 01:46:08</Date>
+            <Timestamp>1268988368</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:52 PDT 2010 -->

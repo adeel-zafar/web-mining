@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317151936AAmAI07" type="Answered">
+    <Subject>deleted my twitter accidentally?</Subject>
+    <Content>i accidentally deleted my twitter account and i need it back :(
+how can i do that?
+is there anyway
+it said restoring is not possible NOW
+if so when will it be possible
+</Content>
+    <Date>2010-03-17 15:19:36</Date>
+    <Timestamp>1268864376</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317151936AAmAI07</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>M8ITwwNTaa</UserId>
+    <UserNick>Zereptv</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1CHqUwH20AAQCPGKb1GM=.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>that happened to me TWICE haha i reopened
+it before and now i&#039;m trying again but it also
+says its unavailable at the moment, soo i keep
+checking this link, to see when its availablee ;
+http://help.twitter.com/entries/16807-i-can-t-restore-my-account
+just check it like everyday until it says available :)</ChosenAnswer>
+    <ChosenAnswererId>kpMxRStpaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasmine</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268878876</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268879284</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>When you delete an account, the site assumes you no longer want it and so delete the information from their database.  Your account is gone</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-17 15:21:44</Date>
+            <Timestamp>1268864504</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Its not possible maybe you wont delete it next time</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hlu4Zhaqaa</UserId>
+            <UserNick>Jordan</UserNick>
+            <Date>2010-03-17 15:21:55</Date>
+            <Timestamp>1268864515</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>that happened to me TWICE haha i reopened
+it before and now i&#039;m trying again but it also
+says its unavailable at the moment, soo i keep
+checking this link, to see when its availablee ;
+http://help.twitter.com/entries/16807-i-can-t-restore-my-account
+just check it like everyday until it says available :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kpMxRStpaa</UserId>
+            <UserNick>Jasmine</UserNick>
+            <Date>2010-03-17 19:21:16</Date>
+            <Timestamp>1268878876</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:43:19 PDT 2010 -->

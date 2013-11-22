@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224150941AAVMcWV" type="Answered">
+    <Subject>ie use to much memory!?</Subject>
+    <Content>does anyone know why internet explorer is using 90,000k of memory in task manager?
+appreciate the answer, but i mean it does it even if i only have google open.
+</Content>
+    <Date>2010-02-24 15:09:41</Date>
+    <Timestamp>1267052981</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224150941AAVMcWV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dnhKpcZsaa</UserId>
+    <UserNick>Adam M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1qIR_7OrlAAAB6Axv8ls=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>because it&#039;s a memory hog, It depends on the pages you go to, a lot of them have so much dynamic content that it&#039;s constantly loading something or running animations, so it&#039;s not necessarily Internet explorers fault, you can blame the web developers also. because as internet speeds get faster, developers put more content on their site. and advertisements don&#039;t help either....lol</ChosenAnswer>
+    <ChosenAnswererId>BLH0shZraa</ChosenAnswererId>
+    <ChosenAnswererNick>Frank</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267053261</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267572394</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>because it&#039;s a memory hog, It depends on the pages you go to, a lot of them have so much dynamic content that it&#039;s constantly loading something or running animations, so it&#039;s not necessarily Internet explorers fault, you can blame the web developers also. because as internet speeds get faster, developers put more content on their site. and advertisements don&#039;t help either....lol</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BLH0shZraa</UserId>
+            <UserNick>Frank</UserNick>
+            <Date>2010-02-24 15:14:21</Date>
+            <Timestamp>1267053261</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:13:08 PDT 2010 -->

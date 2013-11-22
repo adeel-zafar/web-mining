@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227100847AA8hgXX" type="Answered">
+    <Subject>Why is Mozilla Firefox my default browser?</Subject>
+    <Content>Quick question! On my laptop i have IE and Firefox. If i click IE then i can browse with IE. If I click Firefox then I can browse with firefox, so i have a choice which browser i want to use. I just installed firefox on my parents computer, but when i click IE to browse firefox pops up. How do i make it so that they can choose which browser to use?
+</Content>
+    <Date>2010-02-27 10:08:47</Date>
+    <Timestamp>1267294127</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227100847AA8hgXX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zGSYrp9xaa</UserId>
+    <UserNick>rocksta.r.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>When you installed Mozilla it asked you if you wanted it to be your default web browser and you probably either checked the box or forgot to uncheck it which made it your default web browser.
+
+If you would prefer a different web browser as your default (ex; Internet Explorer), than you can open it up, update it or install it and it should ask you if you want it to be your default, click yes.
+
+If you don&#039;t feel like re-installing or updating your preferred web browser than just go to internet options and change it from there.</ChosenAnswer>
+    <ChosenAnswererId>N7ujBu0paa</ChosenAnswererId>
+    <ChosenAnswererNick>Matt H</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267294355</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267319159</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>When you installed Mozilla it asked you if you wanted it to be your default web browser and you probably either checked the box or forgot to uncheck it which made it your default web browser.
+
+If you would prefer a different web browser as your default (ex; Internet Explorer), than you can open it up, update it or install it and it should ask you if you want it to be your default, click yes.
+
+If you don&#039;t feel like re-installing or updating your preferred web browser than just go to internet options and change it from there.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>N7ujBu0paa</UserId>
+            <UserNick>Matt H</UserNick>
+            <Date>2010-02-27 10:12:35</Date>
+            <Timestamp>1267294355</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:44:37 PDT 2010 -->

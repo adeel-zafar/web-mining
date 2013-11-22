@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312180628AAYCCYr" type="Answered">
+    <Subject>The page cannot be displayed?</Subject>
+    <Content>Server cannot be found.             
+
+ What does all that exactly mean?  I know the web site is real(it is the local news station website and they just gave it less than 15 minutes ago.      I first tried to find it with FireFox, then I.E., then Opera.   Results are always the same .      I have always let it go (normally because I can find the web site (in this case I refer to other web sites that give me a problem- not many, but there is a few.)
+     I am running Win XP Pro
+
+Also, I am typing  in the web site address ( in this case chbcnews.ca) (and then varied it by typing in http://www.chbcnews.ca and still the same problem)
+</Content>
+    <Date>2010-03-12 18:06:28</Date>
+    <Timestamp>1268445988</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312180628AAYCCYr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>EmgiGg17aa</UserId>
+    <UserNick>Xavwieztsky</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1-v0-h52LAAACPEJwMKsmhs4A.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I was able to go to the website. It is possible that it had been temporarily down. I recommend that you try again.</ChosenAnswer>
+    <ChosenAnswererId>5ySFwNuGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Junic</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268446123</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268612132</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try searching it in Google and clicking on the link provided by it.</Content>
+            <Reference>A guess?</Reference>
+            <Best></Best>
+            <UserId>JYSoom60aa</UserId>
+            <UserNick>Nicdecdel</UserNick>
+            <Date>2010-03-12 18:08:09</Date>
+            <Timestamp>1268446089</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I was able to go to the website. It is possible that it had been temporarily down. I recommend that you try again.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>5ySFwNuGaa</UserId>
+            <UserNick>Junic</UserNick>
+            <Date>2010-03-12 18:08:43</Date>
+            <Timestamp>1268446123</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:17 PDT 2010 -->

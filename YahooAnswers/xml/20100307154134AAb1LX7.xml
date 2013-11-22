@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307154134AAb1LX7" type="Answered">
+    <Subject>embed flash works in firefox not in IE?</Subject>
+    <Content>in IE this just pretends its loading forever
+also, i got the width and the height to adjust to the window size and its working great (in firefox anyways)
+but thats not what im really after, i want the height to be 100% but i want the width to adjust based on either the height of the window or the height of the object. anyone know a trick for that? i cant seem to find a way to do it in SWFobject
+
+[CODE]&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Strict//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;en&quot; xml:lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;title&gt;SWFObject - step 1&lt;/title&gt;
+    &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=iso-8859-1&quot; /&gt;
+    &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
+    html, body, #containerA { width:100%; height:100%; }
+    body { margin:0; padding:0;  overflow:hidden;}
+    &lt;/style&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;div id=&quot;containerA&quot;&gt;
+      &lt;object classid=&quot;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+        &lt;param name=&quot;movie&quot; value=&quot;myContent.swf&quot; /&gt;
+        &lt;!--[if !IE]&gt;--&gt;
+        &lt;object type=&quot;application/x-shockwave-flash&quot; data=&quot;yankeeScreenMenu.swf&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;
+    &lt;param name=&quot;quality&quot; value=&quot;autohigh&quot; /&gt;
+    &lt;param name=&quot;menu&quot; value=&quot;false&quot; /&gt;
+        &lt;!--&lt;![endif]--&gt;
+          &lt;p&gt;Alternative content&lt;/p&gt;
+        &lt;!--[if !IE]&gt;--&gt;
+        &lt;/object&gt;
+        &lt;!--&lt;![endif]--&gt;
+      &lt;/object&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;[/CODE]
+</Content>
+    <Date>2010-03-07 15:41:34</Date>
+    <Timestamp>1268005294</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307154134AAb1LX7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Nts0pTEvaa</UserId>
+    <UserNick>plebian m</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Moyea Web Player ( http://www.playerdiy.com/ ) is a quick solution to add flash video ( FLV ) to website and an easy-to-use Web FLV player creator, with which, creating custom FLV player (flash video player) with scrollable thumbnail playlist for website only needs a few mouse-clicks. And the skin of the web player can be easily customized.
+
+This is an example for easily customizing the flash video player - 
+http://www.playerdiy.com/support/tutorial/customize-flash-video-player.html
+
+Customize the skin and playback options of web FLV player:
+http://www.playerdiy.com/configuration/</ChosenAnswer>
+    <ChosenAnswererId>dZn1GcBCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dream dancer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268012681</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268543542</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>IE is not open source and I don&#039;t think you can alter the settings.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VbP8YWonaa</UserId>
+            <UserNick>comtech391</UserNick>
+            <Date>2010-03-07 15:48:37</Date>
+            <Timestamp>1268005717</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Moyea Web Player ( http://www.playerdiy.com/ ) is a quick solution to add flash video ( FLV ) to website and an easy-to-use Web FLV player creator, with which, creating custom FLV player (flash video player) with scrollable thumbnail playlist for website only needs a few mouse-clicks. And the skin of the web player can be easily customized.
+
+This is an example for easily customizing the flash video player - 
+http://www.playerdiy.com/support/tutorial/customize-flash-video-player.html
+
+Customize the skin and playback options of web FLV player:
+http://www.playerdiy.com/configuration/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dZn1GcBCaa</UserId>
+            <UserNick>Dream dancer</UserNick>
+            <Date>2010-03-07 17:44:41</Date>
+            <Timestamp>1268012681</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:37:25 PDT 2010 -->

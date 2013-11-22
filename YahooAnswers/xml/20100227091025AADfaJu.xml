@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227091025AADfaJu" type="Answered">
+    <Subject>How do you find your twitter account without signing in?</Subject>
+    <Content>I lost the password to my twitter account and I really want to see the things I posted on there. Sadly, no one followed me except me and a couple of my friends. Now I want to find my twitter page but there&#039;s no real twitter user search. What can I do?
+</Content>
+    <Date>2010-02-27 09:10:25</Date>
+    <Timestamp>1267290625</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227091025AADfaJu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HR3YlXvaaa</UserId>
+    <UserNick>P</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you have forgotten your password, go onto the homepage and click the sign in drop down button. There will be a link saying &#039;Forgotten your password?&#039;. Click it and type in your email address or username and they will send you instructions to get your password via email.
+If for some reason you do not want to/can not do this then if you can remember your twitter username, you can type in www.twitter.com/[your username] and that will be your page. If not you may have to make another twitter account with a different email (which can be easily made on www.msn.com) and then search for your old account on there using the &#039;Find People&#039; button.</ChosenAnswer>
+    <ChosenAnswererId>0Gj6wddIaa</ChosenAnswererId>
+    <ChosenAnswererNick>Scarzii</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267295198</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267964595</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you have forgotten your password, go onto the homepage and click the sign in drop down button. There will be a link saying &#039;Forgotten your password?&#039;. Click it and type in your email address or username and they will send you instructions to get your password via email.
+If for some reason you do not want to/can not do this then if you can remember your twitter username, you can type in www.twitter.com/[your username] and that will be your page. If not you may have to make another twitter account with a different email (which can be easily made on www.msn.com) and then search for your old account on there using the &#039;Find People&#039; button.</Content>
+            <Reference>www.twitter.com</Reference>
+            <Best>5</Best>
+            <UserId>0Gj6wddIaa</UserId>
+            <UserNick>Scarzii</UserNick>
+            <Date>2010-02-27 10:26:38</Date>
+            <Timestamp>1267295198</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:44:56 PDT 2010 -->

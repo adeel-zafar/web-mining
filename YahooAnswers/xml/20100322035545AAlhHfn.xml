@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322035545AAlhHfn" type="Answered">
+    <Subject>Everytime i click to view a question or next on Y/A i get.....?</Subject>
+    <Content>this page with writing on it from sonys search page how can i get rid of this?
+its really annoying!! haha x
+please help (:
+</Content>
+    <Date>2010-03-22 03:55:45</Date>
+    <Timestamp>1269255345</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322035545AAlhHfn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dG4egXiEaa</UserId>
+    <UserNick>♥</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b9bb017i1830zws109ac4/CHQ1JOk2dKkrPiisIYQQhn.nsQ--/15/tn48.jpeg?ciAAToMBe86w9Amh</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try  restarting your browser.</ChosenAnswer>
+    <ChosenAnswererId>U24UeE3taa</ChosenAnswererId>
+    <ChosenAnswererNick>X X</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269256406</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269300468</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try  restarting your browser.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>U24UeE3taa</UserId>
+            <UserNick>X X</UserNick>
+            <Date>2010-03-22 04:13:26</Date>
+            <Timestamp>1269256406</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:05 PDT 2010 -->

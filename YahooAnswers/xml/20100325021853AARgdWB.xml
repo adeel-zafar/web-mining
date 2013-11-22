@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325021853AARgdWB" type="Answered">
+    <Subject>Why does my search engine redirect me to another search engine?</Subject>
+    <Content>My search engine is picking up the links I am looking for, but when I click on the link I am being redirected to another obscure search engine. This happens however I search - using Yahoo, Google etc. I have cleaned my hard drive until it sparkles using Adaware, Spybot Search and Destroy, Spyware Terminator, Malwarebites, AVG, Kaspersky, AVS and others. When I get into the websites they work fine and the computer is very fast. It just seems to be the search engines.
+Any ideas would be much appreciated.
+</Content>
+    <Date>2010-03-25 02:18:53</Date>
+    <Timestamp>1269508733</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325021853AARgdWB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11954677</UserId>
+    <UserNick>axely1</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1k7G2GqoSAAECXoE_vKOyNMAA.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Because the engine sucks?</ChosenAnswer>
+    <ChosenAnswererId>OKCiKN2xaa</ChosenAnswererId>
+    <ChosenAnswererNick>MRMUMFORD</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269508847</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270028022</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Because the engine sucks?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OKCiKN2xaa</UserId>
+            <UserNick>MRMUMFORD</UserNick>
+            <Date>2010-03-25 02:20:47</Date>
+            <Timestamp>1269508847</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi, 
+
+have you tried scanning in Safe Mode with Malwarebytes? To do that, tap F8 on reboot and select Safe Mode. Try SUPERAntiSpyware too. I also suggest you scan your computer with Auslogics Antivirus in Safe Mode. It&#039;s very good.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nvoaxZ8jaa</UserId>
+            <UserNick>Adin</UserNick>
+            <Date>2010-03-25 02:43:24</Date>
+            <Timestamp>1269510204</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>sorry</Content>
+            <Reference>so</Reference>
+            <Best></Best>
+            <UserId>WHCPVzvDaa</UserId>
+            <UserNick>Rahul</UserNick>
+            <Date>2010-03-25 03:05:31</Date>
+            <Timestamp>1269511531</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:31:51 PDT 2010 -->

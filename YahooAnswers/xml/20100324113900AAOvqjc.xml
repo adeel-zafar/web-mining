@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324113900AAOvqjc" type="Answered">
+    <Subject>I cannot access internet but can call with skype.What is the problem?</Subject>
+    <Content>I use Windows Vista in my Compaq laptop.Last time I am going to install Norton anti-virus I failed.After that time I cannot access internet but can call with Skype.What is the problem?Please solve my problem.
+</Content>
+    <Date>2010-03-24 11:39:00</Date>
+    <Timestamp>1269455940</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324113900AAOvqjc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VoyHnGJtaa</UserId>
+    <UserNick>Mitul</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The network connections can be &#039;repaired&#039;. There is an option in Windows Vista to solve problems with connections. If you apply it to the network connection you use to access the internet, it will most surely solve your problem.</ChosenAnswer>
+    <ChosenAnswererId>CRZC9ZIMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Marc</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269502501</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269701726</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sometimes Skype is just showing you that you are online and you can chat or call someone but the real think is that your internet is down.It might be a bug from Skype Co.
+For the internet you should try going to My Computer&gt;My Network Places&gt;Network Connections 
+and click on the network connection than you go to support and press repair.If this won&#039;t work you should call your internet co.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1xdV9h0xaa</UserId>
+            <UserNick>Alex 13</UserNick>
+            <Date>2010-03-24 11:53:55</Date>
+            <Timestamp>1269456835</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I installed Skype awhile back to check it out. Everything started acting up. I did a little research and found out it my be the Skype. Uninstalled it and sure enough that was the problem. Hope this helps. Good Luck.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lEQCD3Pyaa</UserId>
+            <UserNick>Ralph</UserNick>
+            <Date>2010-03-24 11:56:01</Date>
+            <Timestamp>1269456961</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The network connections can be &#039;repaired&#039;. There is an option in Windows Vista to solve problems with connections. If you apply it to the network connection you use to access the internet, it will most surely solve your problem.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>CRZC9ZIMaa</UserId>
+            <UserNick>Marc</UserNick>
+            <Date>2010-03-25 00:35:01</Date>
+            <Timestamp>1269502501</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:35:01 PDT 2010 -->

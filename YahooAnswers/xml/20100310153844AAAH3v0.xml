@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310153844AAAH3v0" type="Answered">
+    <Subject>How do I uninstall internet explorer?</Subject>
+    <Content>I have windows vista and I installed Google chrome and now I want to uninstall Internet Explorer. I do not know which one it is (7 or 8) and it is not in the uninstall list.
+</Content>
+    <Date>2010-03-10 15:38:44</Date>
+    <Timestamp>1268264324</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310153844AAAH3v0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gHmzQzb8aa</UserId>
+    <UserNick>Emilaayy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1-B78MXZjAAEBnOKa0F8BDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s impossible. It is an integrated part of the operating system, and does not show up in the add or remove program list. Leave it be, just remove it as the default web browser.</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268912124</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269129246</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s an integrated part of Windows and cannot be uninstalled. Just ignore it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-10 15:39:23</Date>
+            <Timestamp>1268264363</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can&#039;t remove it completely as it is a standard part of Windows.
+
+Additionally, if something goes wrong with Chrome, you&#039;ll have a backup.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11313114</UserId>
+            <UserNick>bac_1976</UserNick>
+            <Date>2010-03-10 15:41:30</Date>
+            <Timestamp>1268264490</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Don&#039;t bother.
+
+Some websites can&#039;t be accessed by other browsers still and its always good to have a backup.</Content>
+            <Reference>My bank tells me Chrome is a no no =`[</Reference>
+            <Best></Best>
+            <UserId>gKkmNm6Xaa</UserId>
+            <UserNick>AllStar™</UserNick>
+            <Date>2010-03-10 15:42:11</Date>
+            <Timestamp>1268264531</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Steps for Windows Vista or for Windows Server 2008
+To uninstall Internet Explorer 8, follow these steps:
+
+   1. Close all programs.
+   2. Click Start, and then click Control Panel.
+   3. Click Uninstall a Program under the Programs category
+   4. In the Tasks pane, click View installed updates.
+   5. In the list of installed updates, double-click Windows Internet Explorer 8.</Content>
+            <Reference>http://support.microsoft.com/kb/957700</Reference>
+            <Best></Best>
+            <UserId>oXjomSXAaa</UserId>
+            <UserNick>Win.XP.76</UserNick>
+            <Date>2010-03-10 15:56:22</Date>
+            <Timestamp>1268265382</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s impossible. It is an integrated part of the operating system, and does not show up in the add or remove program list. Leave it be, just remove it as the default web browser.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>Legion</UserNick>
+            <Date>2010-03-18 04:35:24</Date>
+            <Timestamp>1268912124</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:17:37 PDT 2010 -->

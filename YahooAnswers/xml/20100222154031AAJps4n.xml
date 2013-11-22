@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222154031AAJps4n" type="Answered">
+    <Subject>Where is the Paypal Plus credit card login?</Subject>
+    <Content>I used to access my account from the Paypal Plus/GE Money website. Now when you go to this website it redirects you to Paypal.com. When I log in there is no sign of my credit card statement or activity. Paypal&#039;s &quot;Help&quot; section says you should go to Account Overview and click on See Statement Activity. There is no link that says that. Paypal&#039;s entire site is nothing but a mess! I just want to know where to go to log into my CC account. Has anyone else had this problem? Thank you!
+</Content>
+    <Date>2010-02-22 15:40:31</Date>
+    <Timestamp>1266882031</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222154031AAJps4n</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fW0UPqq4aa</UserId>
+    <UserNick>QuestionToAsk</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>I&#039;m having the same issue! I&#039;ve been on the line with them for a while and no one seems to have a resolution. My best solution would be to pay off the remaining balance through the phone and cancel the card.</ChosenAnswer>
+    <ChosenAnswererId>bPUcY32Saa</ChosenAnswererId>
+    <ChosenAnswererNick>Stingray</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266942783</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267060169</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m having the same issue! I&#039;ve been on the line with them for a while and no one seems to have a resolution. My best solution would be to pay off the remaining balance through the phone and cancel the card.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bPUcY32Saa</UserId>
+            <UserNick>Stingray</UserNick>
+            <Date>2010-02-23 08:33:03</Date>
+            <Timestamp>1266942783</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>4UHNTRrdaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-02-25 15:45:19</Date>
+            <Timestamp>1266942783</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:59 PDT 2010 -->

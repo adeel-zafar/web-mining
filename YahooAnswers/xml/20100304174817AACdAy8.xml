@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304174817AACdAy8" type="Answered">
+    <Subject>is there way update firefox spell checker?</Subject>
+    <Content>is there a way to go into fire fox spell check and update it or remove words that you told the system that is right but isn&#039;t
+</Content>
+    <Date>2010-03-04 17:48:17</Date>
+    <Timestamp>1267753697</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304174817AACdAy8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>EW7kRrWxaa</UserId>
+    <UserNick>joevsyou</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1hNcsL5w_AAEC_oFHEM5D623RLQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your personal dictionary, persdict.dat, seems to be in this directory
+
+In Windows XP:
+
+C:\Documents and Settings\your username\Application Data\Mozilla\ Firefox\Profiles\your profile
+
+In Windows Vista:
+
+C:\Users\your username\Appdata\Roaming\Mozilla\ Firefox\Profiles\ your profile
+
+(Note: If the directory Appdata doesn’t appear in Windows Explorer, enter the full path name in Explorer’s address window.)
+
+The file seems to be editable with Wordpad.
+
+Hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267770164</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268273103</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your personal dictionary, persdict.dat, seems to be in this directory
+
+In Windows XP:
+
+C:\Documents and Settings\your username\Application Data\Mozilla\ Firefox\Profiles\your profile
+
+In Windows Vista:
+
+C:\Users\your username\Appdata\Roaming\Mozilla\ Firefox\Profiles\ your profile
+
+(Note: If the directory Appdata doesn’t appear in Windows Explorer, enter the full path name in Explorer’s address window.)
+
+The file seems to be editable with Wordpad.
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-04 22:22:44</Date>
+            <Timestamp>1267770164</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 22:01:11 PDT 2010 -->

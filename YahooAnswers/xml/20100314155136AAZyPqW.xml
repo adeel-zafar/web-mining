@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314155136AAZyPqW" type="Answered">
+    <Subject>Firefox is acting weird?</Subject>
+    <Content>I&#039;m trying to view a page on www.ultimate-guitar.com, but firefox refuses to load it. Does anyone know what&#039;s wrong?
+</Content>
+    <Date>2010-03-14 15:51:36</Date>
+    <Timestamp>1268607096</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314155136AAZyPqW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d8JmTs3gaa</UserId>
+    <UserNick>Chad</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it&#039;s not FF it&#039;s the site, it must be down or closed because I just check with 3 browsers and no luck. I used FF, IE and Chrome .....no luck it&#039;s the site</ChosenAnswer>
+    <ChosenAnswererId>5991586b22046a25e6c14b30424b53c6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jim W</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268607416</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268787839</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It has virus on the website and firefox is blocking it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IV8PhNP4aa</UserId>
+            <UserNick>Katherine</UserNick>
+            <Date>2010-03-14 15:53:11</Date>
+            <Timestamp>1268607191</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it&#039;s not FF it&#039;s the site, it must be down or closed because I just check with 3 browsers and no luck. I used FF, IE and Chrome .....no luck it&#039;s the site</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5991586b22046a25e6c14b30424b53c6aa</UserId>
+            <UserNick>Jim W</UserNick>
+            <Date>2010-03-14 15:56:56</Date>
+            <Timestamp>1268607416</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:47 PDT 2010 -->

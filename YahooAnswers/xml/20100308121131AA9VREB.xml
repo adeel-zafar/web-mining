@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308121131AA9VREB" type="Answered">
+    <Subject>how to get rid of comcast navigation toolbar from my mac firefox?</Subject>
+    <Content>because their navigation toolbar really sucks and never return anything searchable at all.
+</Content>
+    <Date>2010-03-08 12:11:31</Date>
+    <Timestamp>1268079091</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308121131AA9VREB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pVvHZhHwaa</UserId>
+    <UserNick>heigill</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1AqWS928uAAEB4UTHALvBeL4B.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Look at the main menu. Click View. There should be a toolbar selection there. Click that and deselect the toolbar you don&#039;t want to see. If you click add-ons on the tools menu, you should find a way to remove it.</ChosenAnswer>
+    <ChosenAnswererId>BhNP2P8Xaa</ChosenAnswererId>
+    <ChosenAnswererNick>joe.attaboy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268081537</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268594809</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Look at the main menu. Click View. There should be a toolbar selection there. Click that and deselect the toolbar you don&#039;t want to see. If you click add-ons on the tools menu, you should find a way to remove it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BhNP2P8Xaa</UserId>
+            <UserNick>joe.attaboy</UserNick>
+            <Date>2010-03-08 12:52:17</Date>
+            <Timestamp>1268081537</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:31:28 PDT 2010 -->

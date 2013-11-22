@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326023955AAJz10Q" type="Answered">
+    <Subject>what happened to mangahut?</Subject>
+    <Content>it loads as a blank page thanks for help
+</Content>
+    <Date>2010-03-26 02:39:55</Date>
+    <Timestamp>1269596395</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326023955AAJz10Q</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qDoDg8KAaa</UserId>
+    <UserNick>what</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Owner of the site probably erased it from existence..</ChosenAnswer>
+    <ChosenAnswererId>OqI9kASKaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ronald Wangdra</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269596973</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269656145</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Owner of the site probably erased it from existence..</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>OqI9kASKaa</UserId>
+            <UserNick>Ronald Wangdra</UserNick>
+            <Date>2010-03-26 02:49:33</Date>
+            <Timestamp>1269596973</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:04 PDT 2010 -->

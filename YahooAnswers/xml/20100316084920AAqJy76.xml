@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316084920AAqJy76" type="Answered">
+    <Subject>I changed my ip address and fcked up my modem.. Help me?</Subject>
+    <Content>I bought mw2 on ps3 today and could not play online, I had to open some ports... Then I found that could DMZ my ps3... I followed instuctions and changed something in the medem menu... I went to 192.168.1.1 and I have beetel 220bx1... I remember that I changed something like ip address, I changed it to 192.168.1.101... Now I can&#039;t connect to 192.168.1.1 to change it back... I am doomed... I can connect to internet but not to 192.168.1.1, I tried 192.168.1.101 and other, but to no avail... And now I can&#039;t cnnect to it and change poerts... Please I&#039;m dying, Help me
+</Content>
+    <Date>2010-03-16 08:49:20</Date>
+    <Timestamp>1268754560</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316084920AAqJy76</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>m2LpbN3Aaa</UserId>
+    <UserNick>Dasa Sadda</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to start =&gt; Run then in the box that appears, type cmd to open the command prompt.  Once it&#039;s loaded, type ipconfig and press return.  You&#039;ll get a whole load of text appears but you&#039;re looking for the line that says Default Gateway.  This is what you really changed your router to.
+
+If that doesn&#039;t work, it should have a hard reset button, usually next to the power switch.  Hold this in until the lights all flash then wait until the modem restarts itself fully before re-connecting on 192.168.1.1</ChosenAnswer>
+    <ChosenAnswererId>jOljnsulaa</ChosenAnswererId>
+    <ChosenAnswererNick>DMsView</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268755306</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269273874</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I got the same problem, lemme know when u get the answer k?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4tW5nqHbaa</UserId>
+            <UserNick>navarone_chaos</UserNick>
+            <Date>2010-03-16 08:50:53</Date>
+            <Timestamp>1268754653</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it needs to be un-fcked</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RM7yhZYSaa</UserId>
+            <UserNick>Michael</UserNick>
+            <Date>2010-03-16 08:51:13</Date>
+            <Timestamp>1268754673</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That is sooo funny!!!
+
+Ha ha ha ha....
+
+ps. your a prick</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>I5qHpQT5aa</UserId>
+            <UserNick>Donna</UserNick>
+            <Date>2010-03-16 08:51:30</Date>
+            <Timestamp>1268754690</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>very funny</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zk3dPPhMaa</UserId>
+            <UserNick>Lucky</UserNick>
+            <Date>2010-03-16 08:55:21</Date>
+            <Timestamp>1268754921</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You should be able to reset your modem to factory setting. There is probably a recessed button somewhere on the modem that you can push and make it reset itself.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JB7uzfT6aa</UserId>
+            <UserNick>Old Fogey</UserNick>
+            <Date>2010-03-16 08:58:07</Date>
+            <Timestamp>1268755087</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to start =&gt; Run then in the box that appears, type cmd to open the command prompt.  Once it&#039;s loaded, type ipconfig and press return.  You&#039;ll get a whole load of text appears but you&#039;re looking for the line that says Default Gateway.  This is what you really changed your router to.
+
+If that doesn&#039;t work, it should have a hard reset button, usually next to the power switch.  Hold this in until the lights all flash then wait until the modem restarts itself fully before re-connecting on 192.168.1.1</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>jOljnsulaa</UserId>
+            <UserNick>DMsView</UserNick>
+            <Date>2010-03-16 09:01:46</Date>
+            <Timestamp>1268755306</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:44 PDT 2010 -->

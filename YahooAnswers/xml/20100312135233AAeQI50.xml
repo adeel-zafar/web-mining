@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312135233AAeQI50" type="Answered">
+    <Subject>If i decide to make an account and sell some items on ebay and not buy anything...?</Subject>
+    <Content>will i have to give out my credit card number
+</Content>
+    <Date>2010-03-12 13:52:33</Date>
+    <Timestamp>1268430753</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312135233AAeQI50</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FLYcHIm4aa</UserId>
+    <UserNick>Austin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You will if you decide to receive payments through Paypal, which is the most widely used form of payment on eBay. If you decide not to use Paypal, you will likely lose many customers, so it is to your advantage to use a credit card.</ChosenAnswer>
+    <ChosenAnswererId>AA11338622</ChosenAnswererId>
+    <ChosenAnswererNick>soccersobczyk</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268430920</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269140724</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You will if you decide to receive payments through Paypal, which is the most widely used form of payment on eBay. If you decide not to use Paypal, you will likely lose many customers, so it is to your advantage to use a credit card.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11338622</UserId>
+            <UserNick>soccersobczyk</UserNick>
+            <Date>2010-03-12 13:55:20</Date>
+            <Timestamp>1268430920</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes.  Your credit card number is safe with PayPal.  The only risk you take is if you have a password that someone else knows, or it is so easy ANYONE could figure it out.  If you think your account has been accessed by someone, it is easy to change the password.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cTJPjHrFaa</UserId>
+            <UserNick>Marnie</UserNick>
+            <Date>2010-03-16 05:50:12</Date>
+            <Timestamp>1268743812</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:08:21 PDT 2010 -->

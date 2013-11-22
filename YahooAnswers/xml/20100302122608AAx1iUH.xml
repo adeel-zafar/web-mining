@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302122608AAx1iUH" type="Answered">
+    <Subject>If I&#039;m following someone on twitter that are set to private do they see my @replies to them?</Subject>
+    <Content>If I&#039;m following someone on twitter that are set to private, but they&#039;re not following me... Do they see my @replies to them
+</Content>
+    <Date>2010-03-02 12:26:08</Date>
+    <Timestamp>1267561568</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302122608AAx1iUH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2EztYinnaa</UserId>
+    <UserNick>Rashelly</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Nope... here&#039;s the official explanation from Twitter: &quot;If your account is protected, we assume that you only want your followers to see your updates. @replies sent to people who aren&#039;t following you will not be seen.  If you want to interact with everyone on Twitter, you should not protect your account.&quot;</ChosenAnswer>
+    <ChosenAnswererId>HIYLlHz0aa</ChosenAnswererId>
+    <ChosenAnswererNick>peacefullyoptimistic</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267683416</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268961206</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7bVIj1Pdaa</UserId>
+            <UserNick>iluvchocolate</UserNick>
+            <Date>2010-03-02 12:27:10</Date>
+            <Timestamp>1267561630</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nope... here&#039;s the official explanation from Twitter: &quot;If your account is protected, we assume that you only want your followers to see your updates. @replies sent to people who aren&#039;t following you will not be seen.  If you want to interact with everyone on Twitter, you should not protect your account.&quot;</Content>
+            <Reference>http://help.twitter.com/entries/14016-public-vs-protected-accounts</Reference>
+            <Best>5</Best>
+            <UserId>HIYLlHz0aa</UserId>
+            <UserNick>peacefullyoptimistic</UserNick>
+            <Date>2010-03-03 22:16:56</Date>
+            <Timestamp>1267683416</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:25:48 PDT 2010 -->

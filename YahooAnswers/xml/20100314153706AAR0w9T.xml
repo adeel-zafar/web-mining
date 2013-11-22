@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314153706AAR0w9T" type="Answered">
+    <Subject>is there a way to trace the origins of a picture...?</Subject>
+    <Content>I don&#039;t really know how to ask this...but...I suppose I&#039;ll start by trying to give a scenario;
+
+let&#039;s say...someone steals a picture of mine of off facebook or myspace or WHATEVER. they show it to someone else who has no connections to me whatsoever.
+
+is there a way for that person to trace that picture and find it somewhere on the internet? only having that said picture as a resource.
+
+
+like...you know?
+</Content>
+    <Date>2010-03-14 15:37:06</Date>
+    <Timestamp>1268606226</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314153706AAR0w9T</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hQWxCg2faa</UserId>
+    <UserNick>missymell123</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try http://tineye.com. It will do a reverse image search for you.</ChosenAnswer>
+    <ChosenAnswererId>JZtfF3auaa</ChosenAnswererId>
+    <ChosenAnswererNick>Howie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268606510</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269125781</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try http://tineye.com. It will do a reverse image search for you.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JZtfF3auaa</UserId>
+            <UserNick>Howie</UserNick>
+            <Date>2010-03-14 15:41:50</Date>
+            <Timestamp>1268606510</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:54 PDT 2010 -->

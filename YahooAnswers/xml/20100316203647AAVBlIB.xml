@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316203647AAVBlIB" type="Answered">
+    <Subject>why isn&#039;t formspring.me working?</Subject>
+    <Content>i answered a few questions and its not showing up on my profile? whats going on.
+</Content>
+    <Date>2010-03-16 20:36:47</Date>
+    <Timestamp>1268797007</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316203647AAVBlIB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>YSDcPZN9aa</UserId>
+    <UserNick>Christine loves you</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/16AWEHT7SAAED-uEDyU4ICw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Its been working really slow lately. If your talking about Facebook, you have to go to settings and make sure youre allowing Formspring to post.</ChosenAnswer>
+    <ChosenAnswererId>IJ8CTkqyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jason</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268797218</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269316538</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Its been working really slow lately. If your talking about Facebook, you have to go to settings and make sure youre allowing Formspring to post.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>IJ8CTkqyaa</UserId>
+            <UserNick>Jason</UserNick>
+            <Date>2010-03-16 20:40:18</Date>
+            <Timestamp>1268797218</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:46:28 PDT 2010 -->

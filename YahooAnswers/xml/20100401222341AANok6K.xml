@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401222341AANok6K" type="Answered">
+    <Subject>Read this, i want to know what you think?</Subject>
+    <Content>http://hubpages.com/profile/dance476
+</Content>
+    <Date>2010-04-01 22:23:41</Date>
+    <Timestamp>1270185821</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401222341AANok6K</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>A3MPbSHlaa</UserId>
+    <UserNick>Bree</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1B2RTEulKAAEC4IRGYlA=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>WOW. That&#039;s a really great comparison.
+If you wrote that, that&#039;s amazing. :)</ChosenAnswer>
+    <ChosenAnswererId>qrcs1Ippaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gimme dat pl0x</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270186328</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270322294</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>WOW. That&#039;s a really great comparison.
+If you wrote that, that&#039;s amazing. :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qrcs1Ippaa</UserId>
+            <UserNick>Gimme dat pl0x</UserNick>
+            <Date>2010-04-01 22:32:08</Date>
+            <Timestamp>1270186328</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:46 PDT 2010 -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327052016AA9YLDr" type="Answered">
+    <Subject>i have al shamil internet connection 512kbps speed but i checked with the net supply company etisalat they?</Subject>
+    <Content>checked and told me that on their side no problem, but could be some virus in my pc. i have k7 anti virus and it is updated every 5 second. the download speed is like 1kb or 2kb or 3kb, can anybody help me pls. i have XPRO os in my laptop acer 6600. thank you in advance
+</Content>
+    <Date>2010-03-27 05:20:16</Date>
+    <Timestamp>1269692416</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327052016AA9YLDr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xKhuWAO5aa</UserId>
+    <UserNick>dyran_lavson</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you are trying to download anything while there is an updating going on; the download speed will be very low.Change the automatic update to manual update in Your antivirus(k7) settings.
+Your download speed will improve.Moreover you can never get the exact speed specified by the company because the internet connection supply speed depends on various factors like distance,
+system config etc.But try this: Change automatic update settings to manual for any software on your system.Also there are softwares like speed bit that can increase download speed.</ChosenAnswer>
+    <ChosenAnswererId>AWWAtFlPaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rakesh</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269693424</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270211704</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you are trying to download anything while there is an updating going on; the download speed will be very low.Change the automatic update to manual update in Your antivirus(k7) settings.
+Your download speed will improve.Moreover you can never get the exact speed specified by the company because the internet connection supply speed depends on various factors like distance,
+system config etc.But try this: Change automatic update settings to manual for any software on your system.Also there are softwares like speed bit that can increase download speed.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AWWAtFlPaa</UserId>
+            <UserNick>Rakesh</UserNick>
+            <Date>2010-03-27 05:37:04</Date>
+            <Timestamp>1269693424</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:28 PDT 2010 -->

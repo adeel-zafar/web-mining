@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304064030AAtPFhV" type="Answered">
+    <Subject>ebay help!!!! about shopping bag!?</Subject>
+    <Content>Hi!
+i know it&#039;s  stupid question, but how do i add mere stuff to my shopping back? or can i only buy one thing at time!
+</Content>
+    <Date>2010-03-04 06:40:30</Date>
+    <Timestamp>1267713630</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304064030AAtPFhV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>n5KpV59Daa</UserId>
+    <UserNick>KawaiiGirl280</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You deal with each Ebay listing individually.  Ebay does not have a shopping cart.  If a listing has multiple quantities for sale, there&#039;s a box for you to enter the quantity you want to buy before you click the buy button.  If you buy multiple items from the same seller, request an invoice before you pay them.  They can and usually will combine shipping costs, saving you a lot of money.  Also, that way you only have to enter your payment information once instead of for all of the individual listings.</ChosenAnswer>
+    <ChosenAnswererId>7rBWVpsuaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chris Cureton</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267717330</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268232895</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You deal with each Ebay listing individually.  Ebay does not have a shopping cart.  If a listing has multiple quantities for sale, there&#039;s a box for you to enter the quantity you want to buy before you click the buy button.  If you buy multiple items from the same seller, request an invoice before you pay them.  They can and usually will combine shipping costs, saving you a lot of money.  Also, that way you only have to enter your payment information once instead of for all of the individual listings.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7rBWVpsuaa</UserId>
+            <UserNick>Chris Cureton</UserNick>
+            <Date>2010-03-04 07:42:10</Date>
+            <Timestamp>1267717330</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:12:03 PDT 2010 -->

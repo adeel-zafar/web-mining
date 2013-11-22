@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305185701AA5Nfz8" type="Answered">
+    <Subject>Can someone do something bad with yor picture on public chatrooms?</Subject>
+    <Content>
+i mean like can they steal you identity or find you
+</Content>
+    <Date>2010-03-05 18:57:01</Date>
+    <Timestamp>1267844221</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305185701AA5Nfz8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>t3SeCqbXaa</UserId>
+    <UserNick>Sakura</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1Nzoy_RITAAICQEEo0AcMAQ==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Define Bad</ChosenAnswer>
+    <ChosenAnswererId>sEJoIVG9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jacoby</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267844324</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268363785</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Define Bad</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>sEJoIVG9aa</UserId>
+            <UserNick>Jacoby</UserNick>
+            <Date>2010-03-05 18:58:44</Date>
+            <Timestamp>1267844324</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>YES..don&#039;t ever use your real picture where everyone can see it. You never know who they will be and what they&#039;ll do with it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kpHX5axlaa</UserId>
+            <UserNick>Ash C</UserNick>
+            <Date>2010-03-05 18:59:46</Date>
+            <Timestamp>1267844386</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:53:14 PDT 2010 -->

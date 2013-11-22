@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222190743AAS5c1h" type="Answered">
+    <Subject>Internet Browsers not working!!?</Subject>
+    <Content>I was just online not more than 15 mins ago and IE was working perfectly. I closed the windows and restarted my computer because Firefox had messed up (like usual) and now NEITHER of my web browsers will work. I click on them and it looks like they&#039;re going to work and then it just doesn&#039;t do a thing! I have no clue what is going on. Im connected to the internet. I can get on my messengers I can open my anti-virus software. but its just the web browsers that arent working! Please help :(
+I am obviously on a different computer for those of you who do not have brains... I am on my families desktop computer and it is my laptop that is not working
+</Content>
+    <Date>2010-02-22 19:07:43</Date>
+    <Timestamp>1266894463</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222190743AAS5c1h</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>axBB4Canaa</UserId>
+    <UserNick>Marissa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1AkjOY_d2AAED-KEcfSYGCA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If your internet explorer is messing up, you probably have some sort of spyware on your computer. I&#039;d try running Malwarebytes&#039; Anti-Malware. You can get it from http://www.filehippo.com/download_malwarebytes_anti_malware/ 
+
+if you would like to reset your internet explorer to it&#039;s default settings, press the windows button and r on he keyboard and  type &quot;inetcpl.cpl&quot; into the run command that shows up. Once there, click the advanced tab and then click the reset button to reset internet explorer to the default settings.</ChosenAnswer>
+    <ChosenAnswererId>8e886667c4b68a1a95991456cef176acaa</ChosenAnswererId>
+    <ChosenAnswererNick>david11717</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266894940</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267047835</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>then how r u online</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8sS32gdPaa</UserId>
+            <UserNick>Cole</UserNick>
+            <Date>2010-02-22 19:08:39</Date>
+            <Timestamp>1266894519</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if you have lime wire you can acess the bowser just click on lime wire store and u can type any url on the top</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>u5TW9MZuaa</UserId>
+            <UserNick>Johnny</UserNick>
+            <Date>2010-02-22 19:10:48</Date>
+            <Timestamp>1266894648</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your internet explorer is messing up, you probably have some sort of spyware on your computer. I&#039;d try running Malwarebytes&#039; Anti-Malware. You can get it from http://www.filehippo.com/download_malwarebytes_anti_malware/ 
+
+if you would like to reset your internet explorer to it&#039;s default settings, press the windows button and r on he keyboard and  type &quot;inetcpl.cpl&quot; into the run command that shows up. Once there, click the advanced tab and then click the reset button to reset internet explorer to the default settings.</Content>
+            <Reference>experience.</Reference>
+            <Best>4</Best>
+            <UserId>8e886667c4b68a1a95991456cef176acaa</UserId>
+            <UserNick>david11717</UserNick>
+            <Date>2010-02-22 19:15:40</Date>
+            <Timestamp>1266894940</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:01 PDT 2010 -->

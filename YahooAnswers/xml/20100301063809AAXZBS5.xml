@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301063809AAXZBS5" type="Answered">
+    <Subject>Can an error in a wireless internet connection slow down a computer?</Subject>
+    <Content>i have windows 7 home premium and it is slowing down can my internet connection cause this?
+</Content>
+    <Date>2010-03-01 06:38:09</Date>
+    <Timestamp>1267454289</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301063809AAXZBS5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gz8ZG8Ybaa</UserId>
+    <UserNick>Steven</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1vD96bXUQAAIC_IFHLA3H0UwMXxokog==.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Not by itself. Try using a program to search for spyware and viruses. You could try something free like AVG, but if it comes up with nothing (and your computer is still significantly slower) you may need something along the lines of Norton or McAfee. You could also upgrade your RAM. I wouldn&#039;t suggest laying out the money for a new GPU or CPU unless it&#039;s really important to you.</ChosenAnswer>
+    <ChosenAnswererId>CcnIbHf1aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jason</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267488713</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269204777</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If by Internet connection you mean the inherent ability for Windows to download viruses through it and have the viruses slow down your computer, then yes.
+
+Otherwise, no.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-01 06:40:29</Date>
+            <Timestamp>1267454429</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Not by itself. Try using a program to search for spyware and viruses. You could try something free like AVG, but if it comes up with nothing (and your computer is still significantly slower) you may need something along the lines of Norton or McAfee. You could also upgrade your RAM. I wouldn&#039;t suggest laying out the money for a new GPU or CPU unless it&#039;s really important to you.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>CcnIbHf1aa</UserId>
+            <UserNick>Jason</UserNick>
+            <Date>2010-03-01 16:11:53</Date>
+            <Timestamp>1267488713</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That may cause your computer slow. Tell the internet connection supplier the detailed information about the error and ask for help from them. If your computer is still slow, you can use RegistryMum to clean the registry and defrag the disk. This kind of software is designed to fix registry errors and free up disk space, some of my friends said it was good. You can try.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>j1tSHGCdaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-02 00:29:46</Date>
+            <Timestamp>1267518586</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It can be on the reason. But not mostly... as Windows 7 has firewall configured for internet.
+Spywares and torzans are free to hit our machines.
+Please configure good antivirus and firewall for your pc like eset nod or eset smart security.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Srk3udCFaa</UserId>
+            <UserNick>Niraj R</UserNick>
+            <Date>2010-03-04 03:05:36</Date>
+            <Timestamp>1267700736</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your PC is running slow and you want to make it faster, I recommend you to check your pc heath online first, then you can know why it is slow
+ and  fix easily..
+
+Recommended website:
+ http://slowpc-checking.com/Slow_PC</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XBdMIVBHaa</UserId>
+            <UserNick>Importe</UserNick>
+            <Date>2010-03-04 13:46:09</Date>
+            <Timestamp>1267739169</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:44 PDT 2010 -->

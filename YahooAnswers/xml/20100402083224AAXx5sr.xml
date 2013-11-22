@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402083224AAXx5sr" type="Answered">
+    <Subject>Is miniclip safe? Does it have any viruses/spyware/adware?</Subject>
+    <Content>
+</Content>
+    <Date>2010-04-02 08:32:24</Date>
+    <Timestamp>1270222344</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402083224AAXx5sr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eDv2rgBwaa</UserId>
+    <UserNick>soccer_str</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>nah, its pretty safe, unless you click on the ads.</ChosenAnswer>
+    <ChosenAnswererId>UGKYNb58aa</ChosenAnswererId>
+    <ChosenAnswererNick>mmmm291</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270223435</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270307342</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Safe</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eW539ZlZaa</UserId>
+            <UserNick>Devious</UserNick>
+            <Date>2010-04-02 08:34:57</Date>
+            <Timestamp>1270222497</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>nah, its pretty safe, unless you click on the ads.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UGKYNb58aa</UserId>
+            <UserNick>mmmm291</UserNick>
+            <Date>2010-04-02 08:50:35</Date>
+            <Timestamp>1270223435</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:25 PDT 2010 -->

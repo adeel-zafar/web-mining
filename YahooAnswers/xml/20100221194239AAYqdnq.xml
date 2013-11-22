@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221194239AAYqdnq" type="Answered">
+    <Subject>Is there a way to make VoIP (Voice over Internet Protocol) calls for free?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-21 19:42:39</Date>
+    <Timestamp>1266810159</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221194239AAYqdnq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5BmlctmRaa</UserId>
+    <UserNick>Mitch</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1J1ffF-77AAEB_EFkXCCZlL4B.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>computer-to-computer is free, e.g., if you both use Yahoo IM.  Computer-to-phone is not free, but Skype is SO cheap, I recommend it.</ChosenAnswer>
+    <ChosenAnswererId>IBDPGahnaa</ChosenAnswererId>
+    <ChosenAnswererNick>CinderBlock</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266810571</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267049879</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, but a magic jack is $40</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TQgyjlbsaa</UserId>
+            <UserNick>wehomeschool2</UserNick>
+            <Date>2010-02-21 19:43:45</Date>
+            <Timestamp>1266810225</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes, use yahoo messenger, it can call your friend yahoo messenger for free.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>57DVNdw3aa</UserId>
+            <UserNick>riple</UserNick>
+            <Date>2010-02-21 19:47:42</Date>
+            <Timestamp>1266810462</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>computer-to-computer is free, e.g., if you both use Yahoo IM.  Computer-to-phone is not free, but Skype is SO cheap, I recommend it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>IBDPGahnaa</UserId>
+            <UserNick>CinderBlock</UserNick>
+            <Date>2010-02-21 19:49:31</Date>
+            <Timestamp>1266810571</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:31:38 PDT 2010 -->

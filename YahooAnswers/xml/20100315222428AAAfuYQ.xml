@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315222428AAAfuYQ" type="Answered">
+    <Subject>How to enable JavaScript into your browser?</Subject>
+    <Content>Hi,
+so I was wanting to go on this website that converts youtube videos into mp3 files and it hasn&#039;t been working out. Link: http://www.video2mp3.net/about.php
+I tried it in two different... well now three browsers and nothing is happening. I read on the website that it needs to have JavaScript enabled... so is mine already not? My main browser is Safari, then I used FireFox and then Google Chrome. Thanks!
+</Content>
+    <Date>2010-03-15 22:24:28</Date>
+    <Timestamp>1268717068</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315222428AAAfuYQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cLpUo8sTaa</UserId>
+    <UserNick>Elli</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi,
+
+Here is how to enable JavaScript for various browsers: http://www.php-etc.com/tutorials/how-to-turn-on-javascript.php</ChosenAnswer>
+    <ChosenAnswererId>sugb6cikaa</ChosenAnswererId>
+    <ChosenAnswererNick>Robin T</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268717201</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269236636</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hi,
+
+Here is how to enable JavaScript for various browsers: http://www.php-etc.com/tutorials/how-to-turn-on-javascript.php</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>sugb6cikaa</UserId>
+            <UserNick>Robin T</UserNick>
+            <Date>2010-03-15 22:26:41</Date>
+            <Timestamp>1268717201</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>at the top of your bar-well on the bar,click on tools,then internet options,and then content--there will be a box you can either check or uncheck to load java</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ble2lrEEaa</UserId>
+            <UserNick>Stella</UserNick>
+            <Date>2010-03-15 23:27:19</Date>
+            <Timestamp>1268720839</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:50:59 PDT 2010 -->

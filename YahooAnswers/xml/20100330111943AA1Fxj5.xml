@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330111943AA1Fxj5" type="Answered">
+    <Subject>Websites telling me I need Firefox 3.0+...But I have 3.6?</Subject>
+    <Content>Numerous websites I go to keep giving me warnings like this:
+(remove spaces)
+http://i44.tiny   pic.com/2r7ad14.jpg
+http://i40.tiny   pic.com/fjnjns.jpg
+http://i39.tiny   pic.com/14dlm3m.jpg
+
+
+But I&#039;ve downloaded Firefox 3.6 over and over again, and before 3.6 came out I still had the latest version, I always download when there&#039;s an update. But now it&#039;s saying I have an older version? I don&#039;t understand. Also, when I go to my Help--&gt;About Mozilla Firefox I get:
+http ://i39.tiny   pic.com/ay8whg.jpg
+
+
+Saying that I have 3.6?
+I don&#039;t understand, what am I doing wrong?
+
+-I don&#039;t want to switch browsers, I really prefer firefox.
+-I&#039;ve uninstalled and reinstalled - No help
+-I&#039;ve gone to the site and tried to update manually, still no luck
+-Tried the alternate shortcut-Nothing
+-No Updates Available
+-Bitdefender- No Infections found
+:(
+-I&#039;ve always downloaded it from the Mozilla site
+
+Thank you for the tips so far
+</Content>
+    <Date>2010-03-30 11:19:43</Date>
+    <Timestamp>1269973183</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330111943AA1Fxj5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7ROHOlvzaa</UserId>
+    <UserNick>Ashley R</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49c86d27i13b1zul8sp1/DDsdOQgic7.KsKbBfR0-/1/tn48.jpg?ciAAToMBC_2Ca_gu</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>when Firefox is saying that you got latest , then it is latest one for sure )) *grins*
+
+or another possible thing could be that the shortcut link on desktop you have got is pointing to old version firefox&#039;s folder. the new version should have the shortcut here:
+
+C:\Program Files\Mozilla Firefox\firefox.exe
+
+also try to update it via : Firefox&#039;s Help menu &gt;&gt;Check for updates . 
+
+or might be you&#039;re infected by any botnet or virus.
+
+http://www.bitdefender.com/scanner/online/free.html
+
+Hope this help
+
+Edit:
+looking at this image i can see 
+http://i39.tin ypic.com/ay8whg.jpg
+this is a yahoo edition (although never heard of it)
+
+1.So uninstall any version of mozilla installed from control panel , also remove any yahoo toolbar.
+2.Now go to program files : C:\Program Files\
+and remove any firefox folder e.g : Mozilla Firefox , yahoo firefox , or look in any yahoo folder that has firefox folder inside or not
+3. Go to C:\Documents and Settings\[YOUR_USER_NAME]\Application Data\
+and
+C:\Documents and Settings\[YOUR_USER_NAME]\Local Settings\Application Data
+and delete the Mozilla folder.
+
+4.Download the firefox from the given links:
+http://hyperion.zih.tu-dresden.de/moz/firefox/releases/3.6.3/win32/en-US/Firefox%20Setup%203.6.3.exe 
+
+http://www.mozilla.com/products/download.html?product=firefox-3.6.3&amp;os=win〈=en-US
+
+P.S : please take any bookmarks backup before doing this , also you can do step 4th as 1st step , download it first.
+
+i hope this time it should help</ChosenAnswer>
+    <ChosenAnswererId>aANrVEJEaa</ChosenAnswererId>
+    <ChosenAnswererNick>M3taSpl0it™</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269973524</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270303234</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>when Firefox is saying that you got latest , then it is latest one for sure )) *grins*
+
+or another possible thing could be that the shortcut link on desktop you have got is pointing to old version firefox&#039;s folder. the new version should have the shortcut here:
+
+C:\Program Files\Mozilla Firefox\firefox.exe
+
+also try to update it via : Firefox&#039;s Help menu &gt;&gt;Check for updates . 
+
+or might be you&#039;re infected by any botnet or virus.
+
+http://www.bitdefender.com/scanner/online/free.html
+
+Hope this help
+
+Edit:
+looking at this image i can see 
+http://i39.tin ypic.com/ay8whg.jpg
+this is a yahoo edition (although never heard of it)
+
+1.So uninstall any version of mozilla installed from control panel , also remove any yahoo toolbar.
+2.Now go to program files : C:\Program Files\
+and remove any firefox folder e.g : Mozilla Firefox , yahoo firefox , or look in any yahoo folder that has firefox folder inside or not
+3. Go to C:\Documents and Settings\[YOUR_USER_NAME]\Application Data\
+and
+C:\Documents and Settings\[YOUR_USER_NAME]\Local Settings\Application Data
+and delete the Mozilla folder.
+
+4.Download the firefox from the given links:
+http://hyperion.zih.tu-dresden.de/moz/firefox/releases/3.6.3/win32/en-US/Firefox%20Setup%203.6.3.exe 
+
+http://www.mozilla.com/products/download.html?product=firefox-3.6.3&amp;os=win〈=en-US
+
+P.S : please take any bookmarks backup before doing this , also you can do step 4th as 1st step , download it first.
+
+i hope this time it should help</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>aANrVEJEaa</UserId>
+            <UserNick>M3taSpl0it™</UserNick>
+            <Date>2010-03-30 11:25:24</Date>
+            <Timestamp>1269973524</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>might have something to do with being a yahoo edition, try uninstalling again and download Firefox 3.6.2 from mozilla
+
+http://www.mozilla.com/en-US/firefox/personal.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>r2Oybjg1aa</UserId>
+            <UserNick>soupfine</UserNick>
+            <Date>2010-03-30 11:36:37</Date>
+            <Timestamp>1269974197</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:09 PDT 2010 -->

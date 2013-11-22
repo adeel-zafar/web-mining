@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402233511AA4Y4Et" type="Answered">
+    <Subject>Im looking for a forum that gets into deep talks about theories and..?</Subject>
+    <Content>conspiracys and stuff like that. No crazy like metal strainer on the head alien nut kinda things. Just people who have ideas that want to talk about them.
+</Content>
+    <Date>2010-04-02 23:35:11</Date>
+    <Timestamp>1270276511</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402233511AA4Y4Et</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0nN44sjzaa</UserId>
+    <UserNick>Zag</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1agI7Lta0AAADHIE_NBKhqE6NNw==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>Where do we sign up?</ChosenAnswer>
+    <ChosenAnswererId>95058d0c013db8f0454cd0c98bf8ebf7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Ray</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270277939</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270302144</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Where do we sign up?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>95058d0c013db8f0454cd0c98bf8ebf7aa</UserId>
+            <UserNick>Ray</UserNick>
+            <Date>2010-04-02 23:58:59</Date>
+            <Timestamp>1270277939</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>m9g2ypbIaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-04-03 10:17:29</Date>
+            <Timestamp>1270277939</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:09:33 PDT 2010 -->

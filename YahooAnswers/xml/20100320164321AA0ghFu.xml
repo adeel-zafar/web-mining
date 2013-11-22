@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320164321AA0ghFu" type="Answered">
+    <Subject>How exactly does the internet work?</Subject>
+    <Content>It is amazing how we can contact people so far away.
+</Content>
+    <Date>2010-03-20 16:43:21</Date>
+    <Timestamp>1269128601</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320164321AA0ghFu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>asAmBrS9aa</UserId>
+    <UserNick>katya ღ {Кати}</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba091d1i7f4zws125ac4/lZP8fiU6erLwCwweAtgB_FKp0.yxc_kCeg--/1/tn48.jpeg?ciAAToMBQzm121lq</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>It&#039;s pretty simple if you think about it. Every time you connect to a website, you&#039;re connecting to another computer that&#039;s hosting that site. Your modem does all the work. It provides you with a IP address (like a telephone number) which is unique to you. When you connect to a website, the website recognizes your IP address and sends information back to you, thus giving you entrance. If you had no IP address, the website you are connecting to would have no idea as to whom it will send its info back to because you&#039;re not registering anything. This is a very simple overview of what the Internet is all about.</ChosenAnswer>
+    <ChosenAnswererId>Yh79ovjHaa</ChosenAnswererId>
+    <ChosenAnswererNick>TekkenLord666</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269129118</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269215822</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s a series of Tubes!
+
+All kidding aside, read this:
+http://en.wikipedia.org/wiki/Internet</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>H3Va1OKqaa</UserId>
+            <UserNick>Spilt F</UserNick>
+            <Date>2010-03-20 16:45:20</Date>
+            <Timestamp>1269128720</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s pretty simple if you think about it. Every time you connect to a website, you&#039;re connecting to another computer that&#039;s hosting that site. Your modem does all the work. It provides you with a IP address (like a telephone number) which is unique to you. When you connect to a website, the website recognizes your IP address and sends information back to you, thus giving you entrance. If you had no IP address, the website you are connecting to would have no idea as to whom it will send its info back to because you&#039;re not registering anything. This is a very simple overview of what the Internet is all about.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Yh79ovjHaa</UserId>
+            <UserNick>TekkenLord666</UserNick>
+            <Date>2010-03-20 16:51:58</Date>
+            <Timestamp>1269129118</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>Yh79ovjHaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-21 19:34:17</Date>
+            <Timestamp>1269129118</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:03 PDT 2010 -->

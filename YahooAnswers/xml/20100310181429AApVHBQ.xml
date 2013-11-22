@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310181429AApVHBQ" type="Answered">
+    <Subject>Question about eBay shipping/payment?</Subject>
+    <Content>Hi,
+
+I recently bought something off eBay from India, (I reside in Canada) and used Paypal.  Everything has been confirmed payment wise.  Should I be okay?  Also, how long does it usually take to ship something from India to Canada in general?
+
+Thanks a lot.
+</Content>
+    <Date>2010-03-10 18:14:29</Date>
+    <Timestamp>1268273669</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310181429AApVHBQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RoJlzrRhaa</UserId>
+    <UserNick>ToRoNtOGuYY</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b5393e2i1e1fzul4re4/JZI6HjQ7eqt7hOUeV0Z6zM8oNYQ-/1/tn48.jpg?ciAAToMBM5EGRsi9</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>hey! im a huge eBay fan! if you used Paypal for your payment method. You are VERY safe and you are okay. How long does it take to ship? that depends on how quickly the seller ships it but you can ask the seller yourself if you would like exact answer. But generally, your seller should send you the tracking id, which allows you to check where you item is at and when it will be delivered. So check your eBay inbox daily. Hope that helped. :] Good Luck</ChosenAnswer>
+    <ChosenAnswererId>tsnf4SBRaa</ChosenAnswererId>
+    <ChosenAnswererNick>papyrus</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268273859</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268789669</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>hey! im a huge eBay fan! if you used Paypal for your payment method. You are VERY safe and you are okay. How long does it take to ship? that depends on how quickly the seller ships it but you can ask the seller yourself if you would like exact answer. But generally, your seller should send you the tracking id, which allows you to check where you item is at and when it will be delivered. So check your eBay inbox daily. Hope that helped. :] Good Luck</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tsnf4SBRaa</UserId>
+            <UserNick>papyrus</UserNick>
+            <Date>2010-03-10 18:17:39</Date>
+            <Timestamp>1268273859</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>international shipping usually takes at least 2 weeks and you should be find since you completed the transaction using paypal</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tsgJjiJ9aa</UserId>
+            <UserNick>Leter</UserNick>
+            <Date>2010-03-10 18:24:57</Date>
+            <Timestamp>1268274297</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:16:08 PDT 2010 -->

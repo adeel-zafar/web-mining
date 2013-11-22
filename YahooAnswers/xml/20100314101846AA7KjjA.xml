@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314101846AA7KjjA" type="Answered">
+    <Subject>wireless internet keeps actin up?</Subject>
+    <Content>every now and then my wireless will not work. It will seem to get disconnected or have like limited access. could it be the actual connection from the company or possibly the router and i need a new one.
+change channels?
+</Content>
+    <Date>2010-03-14 10:18:46</Date>
+    <Timestamp>1268587126</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314101846AA7KjjA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>l65Kjwzfaa</UserId>
+    <UserNick>thecooldeal69</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>had this problem for months until i was told to change channels,worked a treat
+worth a try.</ChosenAnswer>
+    <ChosenAnswererId>bPOIGkpKaa</ChosenAnswererId>
+    <ChosenAnswererNick>Alex</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268587391</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268714282</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>had this problem for months until i was told to change channels,worked a treat
+worth a try.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>bPOIGkpKaa</UserId>
+            <UserNick>Alex</UserNick>
+            <Date>2010-03-14 10:23:11</Date>
+            <Timestamp>1268587391</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:59:28 PDT 2010 -->

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224161614AAwQpXe" type="Answered">
+    <Subject>Question about Tumblr.com?</Subject>
+    <Content>When you first get an account, on the main screen, it says e-mail address. Is it asking for your e-mail (e.g. blahblahblah@aol.com) or is it asking for your username that your going by on the site. Thanks.
+</Content>
+    <Date>2010-02-24 16:16:14</Date>
+    <Timestamp>1267056974</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224161614AAwQpXe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IsA6uj3Saa</UserId>
+    <UserNick>Mari</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1a0KhBqonAAEB98GlWKdpl0EB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>your e-mail</ChosenAnswer>
+    <ChosenAnswererId>KNFTlgpSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Anonymous</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267057150</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268511881</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s asking for an existing e-mail address, which you will then afterwards also use to log in on the site.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pixvwEPSaa</UserId>
+            <UserNick>Tim</UserNick>
+            <Date>2010-02-24 16:18:30</Date>
+            <Timestamp>1267057110</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>your e-mail</Content>
+            <Reference>Um... Email?</Reference>
+            <Best>5</Best>
+            <UserId>KNFTlgpSaa</UserId>
+            <UserNick>Anonymous</UserNick>
+            <Date>2010-02-24 16:19:10</Date>
+            <Timestamp>1267057150</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s just asking for your email. Your username is different. 
+
+I hope you enjoy tumblr. Mine is weirb.tumblr.com send me an ask when you get yours set up and I&#039;ll give you a shoutout =)</Content>
+            <Reference>My tumblr</Reference>
+            <Best></Best>
+            <UserId>8oHcL9sSaa</UserId>
+            <UserNick>Bryan</UserNick>
+            <Date>2010-02-24 16:24:03</Date>
+            <Timestamp>1267057443</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:12:41 PDT 2010 -->

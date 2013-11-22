@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309072655AAa64om" type="Answered">
+    <Subject>How can I create multiple email accounts quickly?</Subject>
+    <Content>I need to create around 10-20 email accounts for a project I&#039;m working on, but I don&#039;t want to sit down and go through the tedious process of finding a valid username and password, filling out the captcha, etc. Is there any way I can do this quickly and easily, or at least an email hosting service that doesn&#039;t take 10 minutes to create an account?
+</Content>
+    <Date>2010-03-09 07:26:55</Date>
+    <Timestamp>1268148415</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309072655AAa64om</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bFuauvJLaa</UserId>
+    <UserNick>Josh</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try otherinbox.com
+
+There, you setup one e-mail account, then can use multiple names for instance if 
+
+MyEmail is your user name, then you can use
+
+NASCAR@MyEmail.otherinbox.com and
+AmerAirlines@MyEmail.otherinbox.com and
+FromMom@MyEmail.otherinbox.com
+
+It is free - for limited use - messages only kept 30 days. But you can have them forwarded to another e-mail address.</ChosenAnswer>
+    <ChosenAnswererId>iuY0sIL9aa</ChosenAnswererId>
+    <ChosenAnswererNick>rmm</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268148710</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268677331</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>When ya do let us know! lol</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EKBo1VFLaa</UserId>
+            <UserNick>Vic the stinker</UserNick>
+            <Date>2010-03-09 07:29:37</Date>
+            <Timestamp>1268148577</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try otherinbox.com
+
+There, you setup one e-mail account, then can use multiple names for instance if 
+
+MyEmail is your user name, then you can use
+
+NASCAR@MyEmail.otherinbox.com and
+AmerAirlines@MyEmail.otherinbox.com and
+FromMom@MyEmail.otherinbox.com
+
+It is free - for limited use - messages only kept 30 days. But you can have them forwarded to another e-mail address.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>iuY0sIL9aa</UserId>
+            <UserNick>rmm</UserNick>
+            <Date>2010-03-09 07:31:50</Date>
+            <Timestamp>1268148710</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Call WHOEVER YOUR SERVER PROVIDER IS THEY WILL BE GLAFD TO HELP YOU OVER THE PHONE!!!!!!!!!!!!!!!!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uCQQdDXfaa</UserId>
+            <UserNick>mgo316</UserNick>
+            <Date>2010-03-09 07:38:18</Date>
+            <Timestamp>1268149098</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:26:00 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313074020AAqAuzZ" type="Answered">
+    <Subject>Do you like GoDaddy.com for registering a domain name?</Subject>
+    <Content>If so, why? If not, why not?
+</Content>
+    <Date>2010-03-13 07:40:20</Date>
+    <Timestamp>1268494820</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313074020AAqAuzZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zP1D8ltsaa</UserId>
+    <UserNick>Em</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b9c7904i2138zws130ac4/YcBehEwhbqg3kohQNVje3GH7CJKc/2/tn48.jpeg?ciAAToMBcuzcsoaR</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes. Because the price is good, especially when it has a special offer of $1.99 for a dot com domain.</ChosenAnswer>
+    <ChosenAnswererId>ZrHBnmXaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Lucky</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268542733</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268665032</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes. Because the price is good, especially when it has a special offer of $1.99 for a dot com domain.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>ZrHBnmXaaa</UserId>
+            <UserNick>Lucky</UserNick>
+            <Date>2010-03-13 20:58:53</Date>
+            <Timestamp>1268542733</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:54 PDT 2010 -->

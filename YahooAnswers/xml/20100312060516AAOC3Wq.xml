@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312060516AAOC3Wq" type="Answered">
+    <Subject>I need an online world clock to help me set appointments.?</Subject>
+    <Content>I don&#039;t need a clock that tells me what time it is right now in another time zone. I need something that can calculate appointment times in multiple time zones (future time).  Also,  I have to be able to use it online because I can&#039;t download anything on to my work computer.
+</Content>
+    <Date>2010-03-12 06:05:16</Date>
+    <Timestamp>1268402716</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312060516AAOC3Wq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zxKNdMu1aa</UserId>
+    <UserNick>may31st</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>YOU COULD TRY :-
+
+       http://www.sanza.co.uk/apps/worldclock/timezone.asp</ChosenAnswer>
+    <ChosenAnswererId>NXrj93QWaa</ChosenAnswererId>
+    <ChosenAnswererNick>Roger H</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268404442</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269004926</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.timeanddate.com/worldclock/meeting.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zu3rqpIyaa</UserId>
+            <UserNick>The Doyen</UserNick>
+            <Date>2010-03-12 06:06:19</Date>
+            <Timestamp>1268402779</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>YOU COULD TRY :-
+
+       http://www.sanza.co.uk/apps/worldclock/timezone.asp</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NXrj93QWaa</UserId>
+            <UserNick>Roger H</UserNick>
+            <Date>2010-03-12 06:34:02</Date>
+            <Timestamp>1268404442</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:10:17 PDT 2010 -->

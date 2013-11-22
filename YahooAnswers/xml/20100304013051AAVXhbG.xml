@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304013051AAVXhbG" type="Answered">
+    <Subject>How do you make a picture non-savable?</Subject>
+    <Content>I remember one time I was on Flickr and I tried to right-click and save a picture and it&#039;s saved this empty file titled &quot;Spaceball&quot;. I was wondering if there&#039;s a way (or a different way to get the same effect) to do this on a site other than Flickr and if so, how? Thanks :)
+</Content>
+    <Date>2010-03-04 01:30:51</Date>
+    <Timestamp>1267695051</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304013051AAVXhbG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ejS0J1lGaa</UserId>
+    <UserNick>hollylynnFTW</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b7ea377i1a2azul5re4/X_mORXw5dKqB.c1Kbm5LWE8_/1/tn48.jpg?ciAAToMBj6.rZZxo</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I am going to take a stab at this even though I am not certain.
+
+I would say that this is not completely possible.
+You can use scripts to try and block right clicks.
+You can use a flash-based viewer to prevent direct access.
+etc
+However, the browser&#039;s cache (temporary storage) can always be exploited to grab the images.</ChosenAnswer>
+    <ChosenAnswererId>QUQ0Qv4yaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bobdarshy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267696696</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267791971</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I am going to take a stab at this even though I am not certain.
+
+I would say that this is not completely possible.
+You can use scripts to try and block right clicks.
+You can use a flash-based viewer to prevent direct access.
+etc
+However, the browser&#039;s cache (temporary storage) can always be exploited to grab the images.</Content>
+            <Reference>Personal Experience</Reference>
+            <Best>2</Best>
+            <UserId>QUQ0Qv4yaa</UserId>
+            <UserNick>Bobdarshy</UserNick>
+            <Date>2010-03-04 01:58:16</Date>
+            <Timestamp>1267696696</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:12:41 PDT 2010 -->

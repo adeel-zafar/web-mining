@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315000656AAirIHJ" type="Answered">
+    <Subject>I can&#039;t access a certain website and i don&#039;t understand why..?</Subject>
+    <Content>.. there&#039;s a website for a radio station that i was trying to access but i can&#039;t.. the first time, everything was fine, i could check the website and everything in it and all was going smooth and great, then the next day, i try to access it again and what i get is this page:
+
+_____________________________
+
+Server Error in &#039;/&#039; Application.
+
+Index was outside the bounds of the array. 
+
+Description: An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code. 
+
+Exception Details: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+
+_______________
+
+Then a Source Error, Source File, and Stack Track all with a bunch of a codes..
+
+what does that mean? and can i ever access this site again? i don&#039;t have a radio, this is my
+only source for this station
+what should i do?
+thanks
+</Content>
+    <Date>2010-03-15 00:06:56</Date>
+    <Timestamp>1268636816</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315000656AAirIHJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IlO26rXIaa</UserId>
+    <UserNick>May</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>That is an error in the code for the site. It is nothing to do with your computer, it means that the developers of the site have accidentally made a bug in their code.
+
+Nothing can be done until the developers fix the site. I would suggest emailing them.</ChosenAnswer>
+    <ChosenAnswererId>pVGY9myOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Firzen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268636997</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268790645</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>That is an error in the code for the site. It is nothing to do with your computer, it means that the developers of the site have accidentally made a bug in their code.
+
+Nothing can be done until the developers fix the site. I would suggest emailing them.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>pVGY9myOaa</UserId>
+            <UserNick>Firzen</UserNick>
+            <Date>2010-03-15 00:09:57</Date>
+            <Timestamp>1268636997</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:55:18 PDT 2010 -->

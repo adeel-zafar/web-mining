@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323100513AAO75yP" type="Answered">
+    <Subject>wheres my tracking number??</Subject>
+    <Content>it shows me the order number  and my information and at the bottom it says USPS Tracking No (TBD) but doesnt show me the number  so where is it??
+</Content>
+    <Date>2010-03-23 10:05:13</Date>
+    <Timestamp>1269363913</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323100513AAO75yP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HbujqLjpaa</UserId>
+    <UserNick>jks</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>TBD = To Be Determined.
+They haven&#039;t shipped it yet.</ChosenAnswer>
+    <ChosenAnswererId>nsiN6E3zaa</ChosenAnswererId>
+    <ChosenAnswererNick>Excessive MHz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269364026</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269524225</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Call the company you ordered your package from.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Vh8RA9MUaa</UserId>
+            <UserNick>Jeff P</UserNick>
+            <Date>2010-03-23 10:06:18</Date>
+            <Timestamp>1269363978</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>TBD = To Be Determined.
+They haven&#039;t shipped it yet.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>nsiN6E3zaa</UserId>
+            <UserNick>Excessive MHz</UserNick>
+            <Date>2010-03-23 10:07:06</Date>
+            <Timestamp>1269364026</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In my pocket dear!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OWuSxVTBaa</UserId>
+            <UserNick>roaf girl</UserNick>
+            <Date>2010-03-23 10:07:10</Date>
+            <Timestamp>1269364030</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:18:41 PDT 2010 -->

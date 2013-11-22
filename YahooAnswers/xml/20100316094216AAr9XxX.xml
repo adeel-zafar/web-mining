@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316094216AAr9XxX" type="Answered">
+    <Subject>dsi internet connection problem please help?</Subject>
+    <Content>well my dsi usually connects to the internet no problem but today im having trouble connecting. iv checked the internet settings and there all fine but it wont connect. well it connected earlier but now it wont. any suggestions?
+</Content>
+    <Date>2010-03-16 09:42:16</Date>
+    <Timestamp>1268757736</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316094216AAr9XxX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WH7BTHxFaa</UserId>
+    <UserNick>Chanzo</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b938f0fi26e3zws139ac4/pyIvEYAyc6drzQQTj6WvCA--/1/tn48.jpeg?ciAAToMBrGaWWsNl</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>are you using router/home gateway? If so go to 192.168.1.254 or your routers IP</ChosenAnswer>
+    <ChosenAnswererId>R1eGReT1aa</ChosenAnswererId>
+    <ChosenAnswererNick>Josh</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268758511</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269281743</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it could be your dsl company is having problems not your computer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>A9An0HNBaa</UserId>
+            <UserNick>spiders</UserNick>
+            <Date>2010-03-16 09:52:37</Date>
+            <Timestamp>1268758357</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>are you using router/home gateway? If so go to 192.168.1.254 or your routers IP</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>R1eGReT1aa</UserId>
+            <UserNick>Joshua</UserNick>
+            <Date>2010-03-16 09:55:11</Date>
+            <Timestamp>1268758511</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:39 PDT 2010 -->

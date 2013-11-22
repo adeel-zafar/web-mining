@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327021709AAEVQQS" type="Answered">
+    <Subject>Cannot stream videos or play games on sites like miniclip etc.!!?</Subject>
+    <Content>I don&#039;t know what happened, but one fine day - yesterday - I turned my computer on, went on Firefox
+(I have version 3.6.2) and wanted to watch a YouTube Video... Firefox just crashed.
+
+Then I went on Miniclip.com, tried to play a game, and Firefox just crashed again.
+
+On ANY site I go, if there is any flash game or a video, Firefox crashes. The same goes with the Internet Explorer.
+
+I thought it could be a problem with the Adobe Flash Player, so I downloaded it again, successfully installed it(at least that&#039;s what it said)...
+but still the same is happening!
+
+Can anyone please help me?
+
+Thanks a lot!
+Dude I&#039;m on Windows 7, not Ubuntu, sorry.
+</Content>
+    <Date>2010-03-27 02:17:09</Date>
+    <Timestamp>1269681429</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327021709AAEVQQS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4d40chp6aa</UserId>
+    <UserNick>Wandi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The problem lies with a bug in firefox that is triggered by flash programs. 
+
+Check out this site for a fix 
+
+http://www.ubuntugeek.com/fix-for-firefox-crashes-on-flash-contents-when-using-libflashsupport-in-hardy.html
+
+Download the nspluginwrapper and run the commands shown on that page 
+
+Hope it helps</ChosenAnswer>
+    <ChosenAnswererId>OclCuhyRaa</ChosenAnswererId>
+    <ChosenAnswererNick>slipy8787</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269681832</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270200787</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The problem lies with a bug in firefox that is triggered by flash programs. 
+
+Check out this site for a fix 
+
+http://www.ubuntugeek.com/fix-for-firefox-crashes-on-flash-contents-when-using-libflashsupport-in-hardy.html
+
+Download the nspluginwrapper and run the commands shown on that page 
+
+Hope it helps</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OclCuhyRaa</UserId>
+            <UserNick>slipy8787</UserNick>
+            <Date>2010-03-27 02:23:52</Date>
+            <Timestamp>1269681832</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Make sure the followings are installed on your computer
+*Adobe Flash Player 10- Active X
+*Adobe Flash Player 10- Plugin</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aSMLeponaa</UserId>
+            <UserNick>M3</UserNick>
+            <Date>2010-03-31 00:39:18</Date>
+            <Timestamp>1270021158</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:57 PDT 2010 -->

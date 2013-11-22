@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318123121AAaJosc" type="Answered">
+    <Subject>Question about Xat group chatboxes?</Subject>
+    <Content>I&#039;ve seen several boxes with scrolling text in the bottom of the area where you type your message, how can I do this with mine?
+</Content>
+    <Date>2010-03-18 12:31:21</Date>
+    <Timestamp>1268940681</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318123121AAaJosc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2GO6oMTQaa</UserId>
+    <UserNick>Kei</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b60a219i206dzul4re4/Lzo3rfs6fq.CYi6Q0fNu8Wo-/10/tn48.png?ciAAToMBIMX8ZNvT</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you&#039;re an owner type /s then the scrolled message. Example
+
+/sHello everyone, follow the rules</ChosenAnswer>
+    <ChosenAnswererId>77NRIkSaaa</ChosenAnswererId>
+    <ChosenAnswererNick>phsycical</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268986339</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269033607</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you&#039;re an owner type /s then the scrolled message. Example
+
+/sHello everyone, follow the rules</Content>
+            <Reference>http://util.xat.com/wiki/index.php/OwnerGuide</Reference>
+            <Best>5</Best>
+            <UserId>77NRIkSaaa</UserId>
+            <UserNick>phsycical</UserNick>
+            <Date>2010-03-19 01:12:19</Date>
+            <Timestamp>1268986339</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:39:30 PDT 2010 -->

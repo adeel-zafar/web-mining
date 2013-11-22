@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224130316AAHsRLZ" type="Answered">
+    <Subject>Using someone else&#039;s internet connection, what can they see?</Subject>
+    <Content>I&#039;ve been allowed access to my neighbours internet connection which is unsecured...it&#039;s in the middle of no where so no one else will be able to get on but i was wondering if my nieghbours could see what i&#039;m doing, my email, the sites i&#039;m on and stuff like that? 
+They are not computer whizzes and have no need to do anything like that, they wouldn&#039;t want to and they are my friends so i don&#039;t see in any reason why they would go to the trouble, but is it like automatic..or right there everytime i&#039;m on..if you get me? 
+
+Thanks x
+</Content>
+    <Date>2010-02-24 13:03:16</Date>
+    <Timestamp>1267045396</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224130316AAHsRLZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kN14B6v6aa</UserId>
+    <UserNick>Vicky</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Z0VfpojzAAICQqGbtEgpCQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Thier router does not keep a listing of what you do or where you go. They would need software that monitored the router and kept a log, which I&#039;m pretty sure they do not.</ChosenAnswer>
+    <ChosenAnswererId>f841afbad67e2febaf16f5f41aea6d1eaa</ChosenAnswererId>
+    <ChosenAnswererNick>Marvinator</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267045874</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267129673</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Negative. As long you have a firewall going, and you got a spyware/mal-ware going your in a clear!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UnFGledAaa</UserId>
+            <UserNick>John the smart guy</UserNick>
+            <Date>2010-02-24 13:05:11</Date>
+            <Timestamp>1267045511</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well, they would have to have some advanced knowledge to hack into your system. So, if they don&#039;t, and they&#039;re not of that mindset, you don&#039;t have to worry.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BhNP2P8Xaa</UserId>
+            <UserNick>joe.attaboy</UserNick>
+            <Date>2010-02-24 13:05:16</Date>
+            <Timestamp>1267045516</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you both share a connection, it doesn&#039;t imply that your sharing files unless they have the mad skill, which means they baught junky hardware.  They could make it in cuda and connect it with the other video cards RGB connectors, watch out.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>f1HP8AKaaa</UserId>
+            <UserNick>William</UserNick>
+            <Date>2010-02-24 13:08:33</Date>
+            <Timestamp>1267045713</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Thier router does not keep a listing of what you do or where you go. They would need software that monitored the router and kept a log, which I&#039;m pretty sure they do not.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>f841afbad67e2febaf16f5f41aea6d1eaa</UserId>
+            <UserNick>Marvinator</UserNick>
+            <Date>2010-02-24 13:11:14</Date>
+            <Timestamp>1267045874</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Same here. When I am visiting a friend, I access an open wireless router to connect to a neighbour&#039;s broadband. The neighbour would not be aware, although the connection would slow down when both of us are using it at the same time.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>26c3882c8862fb989b196c0d5e86733aaa</UserId>
+            <UserNick>Alex G</UserNick>
+            <Date>2010-02-24 13:12:35</Date>
+            <Timestamp>1267045955</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well if it is unsecured I do not suggest doing anything incredibly private, someone could sit on the sidewalk and packet sniff you, it is a risk you take though so good luck to you.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QWXsdVcGaa</UserId>
+            <UserNick>Sam</UserNick>
+            <Date>2010-02-24 13:32:51</Date>
+            <Timestamp>1267047171</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>make sure you have your comp set to not allow file sharing or local connection and ur ok</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>v3fZBo9maa</UserId>
+            <UserNick>roger678</UserNick>
+            <Date>2010-02-24 14:18:22</Date>
+            <Timestamp>1267049902</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:13:57 PDT 2010 -->

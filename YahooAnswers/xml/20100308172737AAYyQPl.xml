@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308172737AAYyQPl" type="Answered">
+    <Subject>why won&#039;t my internet explorer play internet radio station PANDORA?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-08 17:27:37</Date>
+    <Timestamp>1268098057</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308172737AAYyQPl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>17c0b79e87f5278fb123889f9f98c540aa</UserId>
+    <UserNick>dexter p</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Use another browser.
+Go to filehippo.com and download Firefox</ChosenAnswer>
+    <ChosenAnswererId>0od5FmAkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bozo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268165112</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268614026</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Download, run Malwarebytes, ccleaner, reset IE8 to Default in Options, Advanced and restart PC...Go to Adobe Flash Player website and make sure you have it installed and it&#039;s working...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/ccleaner/?tag=mncol
+http://www.adobe.com/downloads/</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-08 18:57:27</Date>
+            <Timestamp>1268103447</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Use another browser.
+Go to filehippo.com and download Firefox</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0od5FmAkaa</UserId>
+            <UserNick>Bozo</UserNick>
+            <Date>2010-03-09 12:05:12</Date>
+            <Timestamp>1268165112</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:28:49 PDT 2010 -->

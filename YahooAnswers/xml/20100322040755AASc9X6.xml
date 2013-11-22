@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322040755AASc9X6" type="Answered">
+    <Subject>Is it illegal to change your IP through the command prompt?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-22 04:07:55</Date>
+    <Timestamp>1269256075</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322040755AASc9X6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>U24UeE3taa</UserId>
+    <UserNick>X X</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes it is LEGAL.
+Because it will just log onto your IP list and keep a track of all your IP&#039;s used, completely and utterly, LEGAL :)</ChosenAnswer>
+    <ChosenAnswererId>BLD49mFXaa</ChosenAnswererId>
+    <ChosenAnswererNick>danny without the ny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269256448</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270312559</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes it is LEGAL.
+Because it will just log onto your IP list and keep a track of all your IP&#039;s used, completely and utterly, LEGAL :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BLD49mFXaa</UserId>
+            <UserNick>danny without the ny</UserNick>
+            <Date>2010-03-22 04:14:08</Date>
+            <Timestamp>1269256448</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:04 PDT 2010 -->

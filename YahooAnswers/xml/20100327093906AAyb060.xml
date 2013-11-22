@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327093906AAyb060" type="Answered">
+    <Subject>question about blogtv?</Subject>
+    <Content>why dont people talk? i have 10 &quot;viewers&quot; and 0 &quot;chatters&quot; 
+who arent the viewers &quot;chatters&quot; ??
+</Content>
+    <Date>2010-03-27 09:39:06</Date>
+    <Timestamp>1269707946</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327093906AAyb060</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lgJIysrmaa</UserId>
+    <UserNick>Ellen</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well, people can be watching your broadcast without being signed into the chat. I have noticed the view count  often lags behind the number of actual chatters. This could be a glitch or a way for blogtv to keep broadcasters happy.</ChosenAnswer>
+    <ChosenAnswererId>b0Hy0VOyaa</ChosenAnswererId>
+    <ChosenAnswererNick>JKuL</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269834669</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270227325</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well, people can be watching your broadcast without being signed into the chat. I have noticed the view count  often lags behind the number of actual chatters. This could be a glitch or a way for blogtv to keep broadcasters happy.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>b0Hy0VOyaa</UserId>
+            <UserNick>JKuL</UserNick>
+            <Date>2010-03-28 20:51:09</Date>
+            <Timestamp>1269834669</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:01 PDT 2010 -->

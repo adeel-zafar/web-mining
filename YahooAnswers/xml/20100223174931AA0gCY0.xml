@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223174931AA0gCY0" type="Answered">
+    <Subject>firefox doesnt completer my download?</Subject>
+    <Content>i download a file and it download then it finishes but the full file is not downloaded.. lets say it 100mb it downloads but when i look at the downloaded file it says 75 mb. not 100
+</Content>
+    <Date>2010-02-23 17:49:31</Date>
+    <Timestamp>1266976171</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223174931AA0gCY0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dJMsY8KAaa</UserId>
+    <UserNick>Mark</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It could just be a firefox thing, I had the same problem, then if i want to download something, I use internet explorer, but for regular browsing i use Firefox</ChosenAnswer>
+    <ChosenAnswererId>UX4ysFzGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Livefree123</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266976498</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267495686</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It could just be a firefox thing, I had the same problem, then if i want to download something, I use internet explorer, but for regular browsing i use Firefox</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UX4ysFzGaa</UserId>
+            <UserNick>Dillon</UserNick>
+            <Date>2010-02-23 17:54:58</Date>
+            <Timestamp>1266976498</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:30 PDT 2010 -->

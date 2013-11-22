@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223145848AABoPJT" type="Answered">
+    <Subject>Is the site www.movies-links.tv not working for anyone else?</Subject>
+    <Content>EVery time i attempt to click on a link to watch a movie, www.movies-links.tv just reloads and i get nowhere.
+</Content>
+    <Date>2010-02-23 14:58:48</Date>
+    <Timestamp>1266965928</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223145848AABoPJT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kscWCqcWaa</UserId>
+    <UserNick>moderatorlinkfromgaiaisgay</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it is working for me, but that site gives you a lot of spy and other shit, dont use it dude</ChosenAnswer>
+    <ChosenAnswererId>52332e62000ac0a2cad78200a89d809aaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rhett</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266968026</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267210932</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it is working for me, but that site gives you a lot of spy and other shit, dont use it dude</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>52332e62000ac0a2cad78200a89d809aaa</UserId>
+            <UserNick>Rhett</UserNick>
+            <Date>2010-02-23 15:33:46</Date>
+            <Timestamp>1266968026</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:18:31 PDT 2010 -->

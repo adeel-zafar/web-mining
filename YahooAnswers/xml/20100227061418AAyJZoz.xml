@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227061418AAyJZoz" type="Answered">
+    <Subject>I brought something on ebay and its says he didnt ship it does it mean he really didnt ship it yet?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-27 06:14:18</Date>
+    <Timestamp>1267280058</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227061418AAyJZoz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZXNaPRkLaa</UserId>
+    <UserNick>DJ Traine</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/19aiv6kNrAAEE_AF7zF3BCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You should check with the seller. If its a new seller, you may have been scammed. But don&#039;t worry. If you paid with PayPal.
+
+You can just open a dispute with PayPal. Either the seller will then send you the item or PayPal will take the money back from his account.</ChosenAnswer>
+    <ChosenAnswererId>UaiQ2sreaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bozonessinc</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267281110</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267799661</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe and maybe not.  He needs to manually update the status as shipped (on both PayPal and Ebay) including possibly entering tracking information.  Lots of sellers forget to do this so it shows as unshipped even though it is on its way.  
+
+If it fails to arrive for a few more days you can submit a User Information Request which will give you his telephone number and email address allowing you to contact him directly and see what is going on.  Also, if you paid via PayPal you can send a message to the address he used on PayPal.
+
+This is a very common situation and usually means nothing at all.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GHTdKnn0aa</UserId>
+            <UserNick>George</UserNick>
+            <Date>2010-02-27 06:21:54</Date>
+            <Timestamp>1267280514</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You should check with the seller. If its a new seller, you may have been scammed. But don&#039;t worry. If you paid with PayPal.
+
+You can just open a dispute with PayPal. Either the seller will then send you the item or PayPal will take the money back from his account.</Content>
+            <Reference>http://www.microwaveturntable.org</Reference>
+            <Best>5</Best>
+            <UserId>UaiQ2sreaa</UserId>
+            <UserNick>Bozonessinc</UserNick>
+            <Date>2010-02-27 06:31:50</Date>
+            <Timestamp>1267281110</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:45:37 PDT 2010 -->

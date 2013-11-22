@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320220104AAVJa1C" type="Answered">
+    <Subject>NEED HELP PLEASE! WITH FIREFOX? POSSIBLE VIRUS?</Subject>
+    <Content>when i try to run firefox the window keeps on popping up, and it wont stop, and i have to us etask manager to end it. it only works safe mode. it happened right when i installe dthe megaupload toolbar, which i tried to uninstall btu it still shows up, 
+can soemoen tell em where the addons/toolbars for firefox asre stored so i can manually delte them? i tried uninstalling firefox and reinstalling it, no good. virus scan turned up nada. 
+please helP!
+its firefox homepage, in tis case google, yea once i click to open it once more windows keeo popping up and i cnat stop it unless i end the process via task mngr
+</Content>
+    <Date>2010-03-20 22:01:04</Date>
+    <Timestamp>1269147664</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320220104AAVJa1C</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dZR1V3CNaa</UserId>
+    <UserNick>ADMIRAL ACKBAR</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b8da356i5c4zws108ac4/1gIpR501aZlqz8CoRu6p2M4-/1/tn48.jpeg?ciAAToMBmNV.B5UD</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Does it keep telling you that firefox is unsafe and that it is running a scan and finding viruses? It looks like a windows program. The only way to get rid of it is to buy, install and run malware. It costs about $50.00. I hated this virus as it&#039;s one of the most difficult to get rid of.</ChosenAnswer>
+    <ChosenAnswererId>9EKecl3Daa</ChosenAnswererId>
+    <ChosenAnswererNick>Emma F</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269147956</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269304706</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Does it keep telling you that firefox is unsafe and that it is running a scan and finding viruses? It looks like a windows program. The only way to get rid of it is to buy, install and run malware. It costs about $50.00. I hated this virus as it&#039;s one of the most difficult to get rid of.</Content>
+            <Reference>Had the vrius</Reference>
+            <Best>4</Best>
+            <UserId>9EKecl3Daa</UserId>
+            <UserNick>Emma F</UserNick>
+            <Date>2010-03-20 22:05:56</Date>
+            <Timestamp>1269147956</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Is it Firefox that keeps popping up or a pop up Window. If it&#039;s a pop up Window, it probably isn&#039;t Firefox causing this. Scan for Malware, not virus scan.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VbP8YWonaa</UserId>
+            <UserNick>comtech391</UserNick>
+            <Date>2010-03-20 23:37:41</Date>
+            <Timestamp>1269153461</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:58 PDT 2010 -->

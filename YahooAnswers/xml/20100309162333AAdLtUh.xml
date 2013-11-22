@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309162333AAdLtUh" type="Answered">
+    <Subject>Twitter Username problem?</Subject>
+    <Content>I need a username, but my brain is being uncooperative. help me out pls. name would preferably have something to do with &quot;dusk&quot; or &quot;infinity&quot;. please and thank you!
+</Content>
+    <Date>2010-03-09 16:23:33</Date>
+    <Timestamp>1268180613</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309162333AAdLtUh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>US1yOl0laa</UserId>
+    <UserNick>Jamie</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/16KllnHyoAAABMiErhBPMRMoEHw==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>duskyinfint</ChosenAnswer>
+    <ChosenAnswererId>7gVAi41Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>i like smoothies</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268181242</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268696646</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>InfinityDusky124</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>l5LaJeJkaa</UserId>
+            <UserNick>Dakota L</UserNick>
+            <Date>2010-03-09 16:24:27</Date>
+            <Timestamp>1268180667</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>@infinitedusk</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>sGYPSyUwaa</UserId>
+            <UserNick>Omnipotent W.</UserNick>
+            <Date>2010-03-09 16:25:25</Date>
+            <Timestamp>1268180725</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>duskyinfint</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7gVAi41Gaa</UserId>
+            <UserNick>i like smoothies</UserNick>
+            <Date>2010-03-09 16:34:02</Date>
+            <Timestamp>1268181242</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:23:12 PDT 2010 -->

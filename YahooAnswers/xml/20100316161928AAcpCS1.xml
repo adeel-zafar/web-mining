@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316161928AAcpCS1" type="Answered">
+    <Subject>Connect phone to Wi-Fi?</Subject>
+    <Content>I&#039;ve just bought a samsung gino slide and i connected it to my WiFi but now it wont connect anymore it says no response from AP how do i get it connected again.
+i have just bought a samsung geino slide and i connected by wi-fi to my BT Home hub (my wireless router for my laptop) but now when i try to connect it its says no response from AP what does that mean and how do i fix it ?
+</Content>
+    <Date>2010-03-16 16:19:28</Date>
+    <Timestamp>1268781568</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316161928AAcpCS1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>I2n4xngwaa</UserId>
+    <UserNick>L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It looks like there&#039;s a full user guide on the cd that came with your phone according to this video here:
+http://www.youtube.com/watch?v=DHvrRfH1iPQ&amp;feature=channel
+
+Also, could you be more specific? Connection issues are a dime a dozen thousand. There are usually so many possibilities that without a good understanding of the problem (i.e. the step by step process it took to derive the problem) it becomes nearly impossible to offer a solution.</ChosenAnswer>
+    <ChosenAnswererId>Ebyy39Efaa</ChosenAnswererId>
+    <ChosenAnswererNick>Adam T</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268782295</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269301052</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It looks like there&#039;s a full user guide on the cd that came with your phone according to this video here:
+http://www.youtube.com/watch?v=DHvrRfH1iPQ&amp;feature=channel
+
+Also, could you be more specific? Connection issues are a dime a dozen thousand. There are usually so many possibilities that without a good understanding of the problem (i.e. the step by step process it took to derive the problem) it becomes nearly impossible to offer a solution.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Ebyy39Efaa</UserId>
+            <UserNick>Adam T</UserNick>
+            <Date>2010-03-16 16:31:35</Date>
+            <Timestamp>1268782295</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:47:47 PDT 2010 -->

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227201256AAalrZz" type="Answered">
+    <Subject>Can you find a picture of Dexter Morgan...?</Subject>
+    <Content>....in the fsjal meme?
+</Content>
+    <Date>2010-02-27 20:12:56</Date>
+    <Timestamp>1267330376</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227201256AAalrZz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>V9OcOR48aa</UserId>
+    <UserNick>rebecca</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb10e94i27dfzws139sp2/sphjAoA6crTqDhqrxOCysMTPwVIg.i0CEltNDfOdlw--/5/tn48.jpeg?ciAAToMB1.5y3k_R</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www.seriesla.com/
+category/series/
+dexter
+
+?</ChosenAnswer>
+    <ChosenAnswererId>87b2f8ae49f1453d1bbbef16ce9e9a81aa</ChosenAnswererId>
+    <ChosenAnswererNick>And i heard as it were a thunder</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267331391</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267454226</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.seriesla.com/
+category/series/
+dexter
+
+?</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>87b2f8ae49f1453d1bbbef16ce9e9a81aa</UserId>
+            <UserNick>And i heard as it were a thunder</UserNick>
+            <Date>2010-02-27 20:29:51</Date>
+            <Timestamp>1267331391</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:41:07 PDT 2010 -->

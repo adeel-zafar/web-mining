@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324165225AAg3eYE" type="Answered">
+    <Subject>Cant &quot;view more&quot; on formspring.me?</Subject>
+    <Content>fyi im using google chrome. plz help
+</Content>
+    <Date>2010-03-24 16:52:25</Date>
+    <Timestamp>1269474745</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324165225AAg3eYE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JOgWK1Yeaa</UserId>
+    <UserNick>~Bytchin2009~</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1tGbGn4OnAAEE-gFlRJcVc-2mLA==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>everyone is having that problem, formspring is just having some issues</ChosenAnswer>
+    <ChosenAnswererId>hXNk8Q4Qaa</ChosenAnswererId>
+    <ChosenAnswererNick>missmaydusa</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269484679</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269609172</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>everyone is having that problem, formspring is just having some issues</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>hXNk8Q4Qaa</UserId>
+            <UserNick>missmaydusa</UserNick>
+            <Date>2010-03-24 19:37:59</Date>
+            <Timestamp>1269484679</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yeah i cant either! someone should message them!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qhYvz4bfaa</UserId>
+            <UserNick>imagirl</UserNick>
+            <Date>2010-03-25 19:15:35</Date>
+            <Timestamp>1269569735</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:33:38 PDT 2010 -->

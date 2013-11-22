@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223103819AA6VCc5" type="Answered">
+    <Subject>uStream producer screencast sound?</Subject>
+    <Content>I just started using ustream producer and I want know if i can stream the sound with the window i&#039;m streaming. like, if i broadcast me playing a game, i dont know how to make it broadcast the games sound as well. can anybody help me?
+</Content>
+    <Date>2010-02-23 10:38:19</Date>
+    <Timestamp>1266950299</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223103819AA6VCc5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Y3CJPvkfaa</UserId>
+    <UserNick>Marshall</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hello
+On this page you&#039;ll get
+the requested information.
+
+http://www.ustream.tv/forum/showthread.php?t=2861</ChosenAnswer>
+    <ChosenAnswererId>dSaDG765aa</ChosenAnswererId>
+    <ChosenAnswererNick>ԃДɳїƐԼ ԃüֆƐɳՇЯїƐβ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267293921</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267469778</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hello
+On this page you&#039;ll get
+the requested information.
+
+http://www.ustream.tv/forum/showthread.php?t=2861</Content>
+            <Reference>http://www.google.de/search?q=ustream+producer+and+I+want+know+if+i+can+stream+the+sound+with+the+window+i%27m+streaming.+&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:de:official&amp;client=firefox-a</Reference>
+            <Best>5</Best>
+            <UserId>dSaDG765aa</UserId>
+            <UserNick>ԃДɳїƐԼ ԃüֆƐɳՇЯїƐβ</UserNick>
+            <Date>2010-02-27 10:05:21</Date>
+            <Timestamp>1267293921</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:20:40 PDT 2010 -->

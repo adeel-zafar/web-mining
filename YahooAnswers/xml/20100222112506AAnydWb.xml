@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222112506AAnydWb" type="Answered">
+    <Subject>Has anyone ever used the Opera Browser for their computer?</Subject>
+    <Content>And if so, is it worth downloading?  I have been having issues with Firefox (no sound, but sound on IE or Google Chrome?)
+</Content>
+    <Date>2010-02-22 11:25:06</Date>
+    <Timestamp>1266866706</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222112506AAnydWb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Fvo757M4aa</UserId>
+    <UserNick>ki-ki</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/157tm4DHaAAECQEEo4Ad1hUEXMw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yeah it pretty fast, but I&#039;d rather use firefox.</ChosenAnswer>
+    <ChosenAnswererId>AI50GngGaa</ChosenAnswererId>
+    <ChosenAnswererNick>MBZ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266866836</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267386354</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yeah it pretty fast, but I&#039;d rather use firefox.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AI50GngGaa</UserId>
+            <UserNick>MBZ</UserNick>
+            <Date>2010-02-22 11:27:16</Date>
+            <Timestamp>1266866836</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:27:39 PDT 2010 -->

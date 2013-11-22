@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323063959AAPwZ7C" type="Answered">
+    <Subject>Help about tabs in Firefox 3.6?</Subject>
+    <Content>I have just installed the latest Firefox, however, I don&#039;t like how when you are on a &#039;middle tab&#039; and you open a new link, a new tab opens next to the tab you are on. I preferred it when the new tab was opened as the last tab!
+
+I&#039;ve gone on to Tools, Options, and Tabs, but there is no setting there for me to change this. Is there any was I CAN change this?!
+</Content>
+    <Date>2010-03-23 06:39:59</Date>
+    <Timestamp>1269351599</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323063959AAPwZ7C</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TQcp0lP3aa</UserId>
+    <UserNick>Tin Pan Alice</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You have to change the code
+
+in the url bar type about:config
+click &quot;I&#039;ll be careful&quot;
+go to browser.tabs.insertrelatedaftercurrent
+double click it to false
+
+This will make new tabs appear last</ChosenAnswer>
+    <ChosenAnswererId>AA11077726</ChosenAnswererId>
+    <ChosenAnswererNick>Cat formerly known as Thunder</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269351901</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269870971</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Tools &gt; Options &gt; Tabs &gt; Tick open new windows in a new tab instead.
+
+Hope this helps!</Content>
+            <Reference>Firefox user</Reference>
+            <Best></Best>
+            <UserId>nnfMjbnQaa</UserId>
+            <UserNick>Rikki</UserNick>
+            <Date>2010-03-23 06:42:14</Date>
+            <Timestamp>1269351734</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have to change the code
+
+in the url bar type about:config
+click &quot;I&#039;ll be careful&quot;
+go to browser.tabs.insertrelatedaftercurrent
+double click it to false
+
+This will make new tabs appear last</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11077726</UserId>
+            <UserNick>Thundercat</UserNick>
+            <Date>2010-03-23 06:45:01</Date>
+            <Timestamp>1269351901</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:19:01 PDT 2010 -->

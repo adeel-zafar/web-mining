@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306110206AAcGmro" type="Answered">
+    <Subject>Is ventones.com a free website?</Subject>
+    <Content>i&#039;ve been using ventones.com for ringtones.  it says its totally free but is that true?
+oh yeah i have unlimitd texting and i only use the audio text that it sends, not the website URL.
+</Content>
+    <Date>2010-03-06 11:02:06</Date>
+    <Timestamp>1267902126</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306110206AAcGmro</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uGEZeF85aa</UserId>
+    <UserNick>Lauren</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/19eqqin0FAAEC-AFQ3D0MCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The website itself is free, but you may be receiving charges from your wireless carrier every time you upload a file to your phone. Check with your provider.</ChosenAnswer>
+    <ChosenAnswererId>OjBREbmOaa</ChosenAnswererId>
+    <ChosenAnswererNick>JohnnyHeaven.com</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267902255</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268421840</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The website itself is free, but you may be receiving charges from your wireless carrier every time you upload a file to your phone. Check with your provider.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OjBREbmOaa</UserId>
+            <UserNick>JohnnyHeaven.com</UserNick>
+            <Date>2010-03-06 11:04:15</Date>
+            <Timestamp>1267902255</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:47:58 PDT 2010 -->

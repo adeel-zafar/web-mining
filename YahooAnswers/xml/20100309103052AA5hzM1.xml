@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309103052AA5hzM1" type="Answered">
+    <Subject>How much space will i need?</Subject>
+    <Content>Hi there.
+How much space will i need to for a site say with about 10 000 users, doing stuff like uploading pictures, chatting, posting comments ect?
+Any help or links would be much appreciated!
+</Content>
+    <Date>2010-03-09 10:30:52</Date>
+    <Timestamp>1268159452</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309103052AA5hzM1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tG6FZQLUaa</UserId>
+    <UserNick>Zhu</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What you have asked here can&#039;t be certain. If you are looking at opening a chat room or site like face book think how much space a user has and what each pic/vid/what ever each person should have. Like googlemail, this constantly is expanding its users space and capacity of what can be stored. I would reckon around 100gb for a good size that&#039;s 10mb each person. But for you to set the web up around 3gb depending whats going on the page</ChosenAnswer>
+    <ChosenAnswererId>SYArdBqUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Romz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268204676</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268325676</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s not possible to give a definite answer, but you shouldn&#039;t buy more space than is needed. When you are reaching the limit, add another few gigabytes into the server or upgrade your hosting plan.
+
+I can say, no shared hosting account will allow that many users posting content, so either a dedicated server or VPS will be needed.</Content>
+            <Reference>Myself =)</Reference>
+            <Best></Best>
+            <UserId>qqWAC9YDaa</UserId>
+            <UserNick>Jay</UserNick>
+            <Date>2010-03-09 10:34:22</Date>
+            <Timestamp>1268159662</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What you have asked here can&#039;t be certain. If you are looking at opening a chat room or site like face book think how much space a user has and what each pic/vid/what ever each person should have. Like googlemail, this constantly is expanding its users space and capacity of what can be stored. I would reckon around 100gb for a good size that&#039;s 10mb each person. But for you to set the web up around 3gb depending whats going on the page</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>SYArdBqUaa</UserId>
+            <UserNick>Romz</UserNick>
+            <Date>2010-03-09 23:04:36</Date>
+            <Timestamp>1268204676</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:25:02 PDT 2010 -->

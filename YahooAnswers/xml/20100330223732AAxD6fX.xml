@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330223732AAxD6fX" type="Answered">
+    <Subject>how do i delete the history of things i typed on the computer?</Subject>
+    <Content>when im on myspace and i type in people i searched and then i delete the history the list still shows up how do i delete those names? i have a mac apple laptop.
+</Content>
+    <Date>2010-03-30 22:37:32</Date>
+    <Timestamp>1270013852</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330223732AAxD6fX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UOdkVd2taa</UserId>
+    <UserNick>meeee</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1qnD_2ijNAAEC3cTFWDa7CA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if you are talking about the Finder:
+  then go to Recent Items then all the way down it says &quot;Clear Menu&quot;
+but i think you are talking about Internet so:
+Look for History in your browser and hit Reset, or delete each file one by one 
+in the same menu, if you are using Safari, go up to Safari in the menu, then Reset Safari, also Empty Cache... and you are done!</ChosenAnswer>
+    <ChosenAnswererId>nevkJ9uSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Terry G</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270014146</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270055071</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>if you are talking about the Finder:
+  then go to Recent Items then all the way down it says &quot;Clear Menu&quot;
+but i think you are talking about Internet so:
+Look for History in your browser and hit Reset, or delete each file one by one 
+in the same menu, if you are using Safari, go up to Safari in the menu, then Reset Safari, also Empty Cache... and you are done!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nevkJ9uSaa</UserId>
+            <UserNick>Terry G</UserNick>
+            <Date>2010-03-30 22:42:26</Date>
+            <Timestamp>1270014146</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Look, see, we don&#039;t know how you can delete names on My Space.. but if you&#039;re browser is Firefox, go to &quot;History&quot;, &quot;Show all History&quot;, find the day, week, or month when you went to &quot;my space&quot; cause there lot of options if you go to &quot;show all history&quot;</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>M5i90dZqaa</UserId>
+            <UserNick>peter</UserNick>
+            <Date>2010-03-30 22:44:00</Date>
+            <Timestamp>1270014240</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:18 PDT 2010 -->

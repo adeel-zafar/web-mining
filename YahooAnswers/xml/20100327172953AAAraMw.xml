@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327172953AAAraMw" type="Answered">
+    <Subject>Trying to sign up for desitorrents.com?</Subject>
+    <Content>Every time i try to register i recieve this message:
+&quot;Proxy detected
+Please disable your proxy server in your browser preferences or internet settings, and try again. We do not allow proxies at registration but free to use it on the site once registered.&quot;
+I am using firefox and have my setting at &quot;Direct Connection to Internet&quot; but it still does not work.
+</Content>
+    <Date>2010-03-27 17:29:53</Date>
+    <Timestamp>1269736193</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327172953AAAraMw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GV80P3zGaa</UserId>
+    <UserNick>Firejay</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1iS4yrCjJAAEC_AFHLA3XsuzaHTKEsg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;m not sure how to fix that but,
+
+I would suggest using a different torrent site such as:
+
+http://isohunt.com/
+
+or
+
+http://www.kickasstorrents.com/</ChosenAnswer>
+    <ChosenAnswererId>f140486ab8a7f797486f9caad04b98a4aa</ChosenAnswererId>
+    <ChosenAnswererNick>toadstool m</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269736374</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269935332</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m not sure how to fix that but,
+
+I would suggest using a different torrent site such as:
+
+http://isohunt.com/
+
+or
+
+http://www.kickasstorrents.com/</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>f140486ab8a7f797486f9caad04b98a4aa</UserId>
+            <UserNick>toadstool m</UserNick>
+            <Date>2010-03-27 17:32:54</Date>
+            <Timestamp>1269736374</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:39 PDT 2010 -->

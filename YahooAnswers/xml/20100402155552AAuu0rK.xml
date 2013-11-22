@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402155552AAuu0rK" type="Answered">
+    <Subject>What is a Proxy and how do I get rid of it?</Subject>
+    <Content>Okay..I go to this site all of the time, and just recently I clicked and it said &quot;No proxies allowed.&quot; How can I get back onto that site? I just want step by step instructions...not a whole explanation about what those dang things are.
+</Content>
+    <Date>2010-04-02 15:55:52</Date>
+    <Timestamp>1270248952</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402155552AAuu0rK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GQFjvdlqaa</UserId>
+    <UserNick>Sophia</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>proxy tips and info:
+http://merakit-komputer.com/proxies-anonymity-anonymous.html
+http://merakit-komputer.com/proxies-anonymity-anonymous.html</ChosenAnswer>
+    <ChosenAnswererId>wsZtB0xhaa</ChosenAnswererId>
+    <ChosenAnswererNick>google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270293293</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270294692</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Its not something you get rid of.
+
+In computer networks, a proxy server is a server (a computer system or an application program) that acts as an intermediary for requests from clients seeking resources from other servers. 
+
+Seems like you may be confused?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yfZYNkxOaa</UserId>
+            <UserNick>Karli</UserNick>
+            <Date>2010-04-02 16:00:35</Date>
+            <Timestamp>1270249235</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://bypassall.blogspot.com and http://cl0ak.info will do the trick</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BjAEIqBuaa</UserId>
+            <UserNick>Traced</UserNick>
+            <Date>2010-04-02 18:17:08</Date>
+            <Timestamp>1270257428</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>proxy tips and info:
+http://merakit-komputer.com/proxies-anonymity-anonymous.html
+http://merakit-komputer.com/proxies-anonymity-anonymous.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wsZtB0xhaa</UserId>
+            <UserNick>google</UserNick>
+            <Date>2010-04-03 04:14:53</Date>
+            <Timestamp>1270293293</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:09:56 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225064939AAcgNsy" type="Answered">
+    <Subject>Internet explorer problems, Please help me!?</Subject>
+    <Content>Ok so i tried using my internet explorer and it shows up as a connection error.... now i have tried firefox also and the same thing happens but when i use safari like i am now i can connect but its really slow. how can i fix this? i already tryed to recover my computer and it still didn&#039;t work. Is their a way for me to fix this.
+</Content>
+    <Date>2010-02-25 06:49:39</Date>
+    <Timestamp>1267109379</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225064939AAcgNsy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>91bx01Gpaa</UserId>
+    <UserNick>thekid</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Check your antivirus and firewall software.  It may be choking off your internet connection or giving limited permission to IE and Firefox but letting Safari through.</ChosenAnswer>
+    <ChosenAnswererId>sqAxhTblaa</ChosenAnswererId>
+    <ChosenAnswererNick>SaM4842</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267114235</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267147614</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Check your antivirus and firewall software.  It may be choking off your internet connection or giving limited permission to IE and Firefox but letting Safari through.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>sqAxhTblaa</UserId>
+            <UserNick>SaM4842</UserNick>
+            <Date>2010-02-25 08:10:35</Date>
+            <Timestamp>1267114235</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:59:10 PDT 2010 -->

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306142155AAzLrJj" type="Answered">
+    <Subject>I have a &quot;virus and my Rogers AntiVirus can&#039;t delete it please help?</Subject>
+    <Content>The virus is called Security AntiVirus and it&#039;s not exactly a virus but it says that its an antiVirus but its realy not i scanned with rogers anti virus then this and this says there are like 100 virus and rogers says i dont have any.Ok i tried deleting i tried recycle deleting it i tried using rogers online protection to remove it but nothing works PLEASE tell me how to remove its not dangerous but VERY annoying i cant even play a video game for 10 minutes without it popping up and saying &quot;Security antivirus has spotted 87 viruses&quot; or &quot;89 Infected mail recieved&quot;
+</Content>
+    <Date>2010-03-06 14:21:55</Date>
+    <Timestamp>1267914115</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306142155AAzLrJj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BFefoF3Daa</UserId>
+    <UserNick>prostat</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267975313</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267975638</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Rogers Antivirus??  whatever that is, you&#039;ll want to get rid of that too.  Go here and download Malwarebytes Antimalware and do a full scan, you may have to boot up in safe mode first.  Get rid of the Rogers thing, and download a good free AV like Avira or Avast</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gnrMKlo5aa</UserId>
+            <UserNick>Malkin</UserNick>
+            <Date>2010-03-06 14:26:14</Date>
+            <Timestamp>1267914374</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go here for the step by step instructions to remove this virus:
+
+http://www.bleepingcomputer.com/virus-removal/remove-security-antivirus</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HWoEiKPMaa</UserId>
+            <UserNick>Sattamander</UserNick>
+            <Date>2010-03-06 14:36:49</Date>
+            <Timestamp>1267915009</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Download, update, run these scanners...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/Dr-Web-CureIt/3000-2239_4-128071.html?tag=mncol
+http://www.surfright.nl/en/hitmanpro
+http://download.cnet.com/ccleaner/</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-06 14:38:05</Date>
+            <Timestamp>1267915085</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-07 07:21:53</Date>
+            <Timestamp>1267975313</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:46:06 PDT 2010 -->

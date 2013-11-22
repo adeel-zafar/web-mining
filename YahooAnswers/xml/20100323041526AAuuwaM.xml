@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323041526AAuuwaM" type="Answered">
+    <Subject>blog name sugestions please!!?</Subject>
+    <Content>im going to create a new blog its going to be about geeky stuff like software,hardware geeky movies and what not.
+
+i need a name for it to start creating it. it needs to be geeky but a bit professional 
+
+any ideas ??????
+</Content>
+    <Date>2010-03-23 04:15:26</Date>
+    <Timestamp>1269342926</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323041526AAuuwaM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4qc9spwAaa</UserId>
+    <UserNick>BuzZ86</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>geepree</ChosenAnswer>
+    <ChosenAnswererId>AA11104354</ChosenAnswererId>
+    <ChosenAnswererNick>nobody100</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269343275</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269862456</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>geepree</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11104354</UserId>
+            <UserNick>nobody100</UserNick>
+            <Date>2010-03-23 04:21:15</Date>
+            <Timestamp>1269343275</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:19:19 PDT 2010 -->

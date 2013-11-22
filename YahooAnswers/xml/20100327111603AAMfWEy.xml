@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327111603AAMfWEy" type="Answered">
+    <Subject>mozilla firefox crashes at certain websites?</Subject>
+    <Content>I&#039;m using Windows XP SP2 and my browser in Firefox, after i installed FF, some websites are always crashing. it always show about the send to microsoft or don&#039;t send then it automatically closes FF. I updated my flash player, but still it crashes. even IE8 crashes.. what should I do ? my FF version is 3.6.2
+
+Websites that crashes:
+nba.com
+yahoo.com
+gmanews.tv
+</Content>
+    <Date>2010-03-27 11:16:04</Date>
+    <Timestamp>1269713764</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327111603AAMfWEy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0FkqCaw4aa</UserId>
+    <UserNick>Joseph Darwin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try install windows service pack 3</ChosenAnswer>
+    <ChosenAnswererId>uCQQdDXfaa</ChosenAnswererId>
+    <ChosenAnswererNick>mgo316</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269714018</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269785969</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try install windows service pack 3</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>uCQQdDXfaa</UserId>
+            <UserNick>mgo316</UserNick>
+            <Date>2010-03-27 11:20:18</Date>
+            <Timestamp>1269714018</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:22:49 PDT 2010 -->

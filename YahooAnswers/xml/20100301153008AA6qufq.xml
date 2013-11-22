@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301153008AA6qufq" type="Answered">
+    <Subject>question about blogging at (blogspot)?</Subject>
+    <Content>hello
+please tell me. when some one posts a blog on 27th February for example. and then he edits the post again on 28th February. would the date of posting the blog change to 28th feb, or would remain 27th feb?
+
+im talking about blogspot pls
+
+thank you
+</Content>
+    <Date>2010-03-01 15:30:08</Date>
+    <Timestamp>1267486208</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301153008AA6qufq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>px4Yn2NVaa</UserId>
+    <UserNick>darkeyes_eros</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4996d7a5i1be2zul6re4/_NHbS2M1erTaUt4o2nR1fRyg_Xmx/103/tn48.jpg?ciAAToMBDwMOhqfY</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The date and time will stay the same when you edit the post, no change at all. Additionally, you can change the date and time of any post to anything you want, so you pretty much have complete control.</ChosenAnswer>
+    <ChosenAnswererId>g7yaZm28aa</ChosenAnswererId>
+    <ChosenAnswererNick>John FTM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267746136</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268005574</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The date and time will stay the same when you edit the post, no change at all. Additionally, you can change the date and time of any post to anything you want, so you pretty much have complete control.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>g7yaZm28aa</UserId>
+            <UserNick>John FTM</UserNick>
+            <Date>2010-03-04 15:42:16</Date>
+            <Timestamp>1267746136</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:30:01 PDT 2010 -->

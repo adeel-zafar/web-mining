@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317101307AAirRgb" type="Answered">
+    <Subject>What Is A &#039;Timeline&#039; On Twitter?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-17 10:13:07</Date>
+    <Timestamp>1268845987</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317101307AAirRgb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4zV6dAFHaa</UserId>
+    <UserNick>-BlackBarbie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1OxSryQG9AAEE5OSiDFIPDQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it&#039;s your home page on twitter where you see the people you are followings&#039; tweets</ChosenAnswer>
+    <ChosenAnswererId>Ko92yKgRaa</ChosenAnswererId>
+    <ChosenAnswererNick>lanloosh</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268948021</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269365710</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Twitter timeline is a twitter visualization tool that allows you to view your twitter feed in a timeline format.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>16jvfwMUaa</UserId>
+            <UserNick>Taimur Kazmi</UserNick>
+            <Date>2010-03-17 10:18:30</Date>
+            <Timestamp>1268846310</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it&#039;s your home page on twitter where you see the people you are followings&#039; tweets</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Ko92yKgRaa</UserId>
+            <UserNick>lanloosh</UserNick>
+            <Date>2010-03-18 14:33:41</Date>
+            <Timestamp>1268948021</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:37 PDT 2010 -->

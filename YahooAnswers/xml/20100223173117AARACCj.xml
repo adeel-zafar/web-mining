@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223173117AARACCj" type="Answered">
+    <Subject>what is the right program or default program to open other programs like yahoomessenger,powerdesk,mozilla fir?</Subject>
+    <Content>i think i mistakenly clicked something and now i cannot open my programs...i tried almost all the programs to open the programs that i want to use but to no avail...what&#039;s my default program that opens other programs like yahoo messenger,powerdesk,google earth,firefox,internet explorer etc once i click the programs&#039; icons twice?
+</Content>
+    <Date>2010-02-23 17:31:17</Date>
+    <Timestamp>1266975077</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223173117AARACCj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zelPkzkxaa</UserId>
+    <UserNick>loloy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/19bZIwfy1AAEC_IFHwD0RCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>windows opens them i guess, try windows restore to a date before you messed it up</ChosenAnswer>
+    <ChosenAnswererId>47117270d222bc03bb11a9b57fb4e4cfaa</ChosenAnswererId>
+    <ChosenAnswererNick>globeweasel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266975230</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269485107</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>windows opens them i guess, try windows restore to a date before you messed it up</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>47117270d222bc03bb11a9b57fb4e4cfaa</UserId>
+            <UserNick>globeweasel</UserNick>
+            <Date>2010-02-23 17:33:50</Date>
+            <Timestamp>1266975230</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you screwed up your associations dude.
+
+try to system restore back a few days.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>o3vXdQDlaa</UserId>
+            <UserNick>jason</UserNick>
+            <Date>2010-02-23 17:33:57</Date>
+            <Timestamp>1266975237</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:31 PDT 2010 -->

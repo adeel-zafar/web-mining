@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313151031AA3L8iA" type="Answered">
+    <Subject>Firefox 3.5 browsing history problem?</Subject>
+    <Content>I have tried deleting my browsing history on Firefox,yet when i go to type a website in the bar, websites that I have not been on appear. I have not been on &#039;dirty&#039; websites, I just don&#039;t want others to see what websites I use etc when they borrow my laptop.
+</Content>
+    <Date>2010-03-13 15:10:31</Date>
+    <Timestamp>1268521831</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313151031AA3L8iA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cLGx7HEhaa</UserId>
+    <UserNick>Cameron L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to Options ---&gt; Privacy  ---&gt;  Location bar and set it to Nothing.</ChosenAnswer>
+    <ChosenAnswererId>UFqEZl5qaa</ChosenAnswererId>
+    <ChosenAnswererNick>ಠ̯ಠ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268522006</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269972738</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You are probably only clearing the past hour. Goto tools &gt; clear recent history. Ensure that EVERYTHING is selected in the top drop down box.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JyZhYmlUaa</UserId>
+            <UserNick>gavsto1998</UserNick>
+            <Date>2010-03-13 15:11:57</Date>
+            <Timestamp>1268521917</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to Options ---&gt; Privacy  ---&gt;  Location bar and set it to Nothing.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UFqEZl5qaa</UserId>
+            <UserNick>ϟ</UserNick>
+            <Date>2010-03-13 15:13:26</Date>
+            <Timestamp>1268522006</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>To clear cache, cookies, history, and other rubbish your computer stores download and use ccleaner.
+
+its free here
+http://www.filehippo.com/download_ccleaner/
+
+Once downloaded click run cleaner.
+
+Be warned it will also remove any saved passwords you use for websites.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rugZxDXbaa</UserId>
+            <UserNick>Devastation Assistant</UserNick>
+            <Date>2010-03-13 15:13:28</Date>
+            <Timestamp>1268522008</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:46 PDT 2010 -->

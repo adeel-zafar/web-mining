@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320141714AAmzBSB" type="Answered">
+    <Subject>How do you change your nickname on stumbleupon.com?</Subject>
+    <Content>I foolishly chose my real name for my stumbleupon nickname. I would like to change this to something else now. How do I do it? Or will I have to delete my account and make a new one?
+</Content>
+    <Date>2010-03-20 14:17:14</Date>
+    <Timestamp>1269119834</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320141714AAmzBSB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JZ5e0jPKaa</UserId>
+    <UserNick>Chris</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if by nickname you mean the username you use to log in, then yes you have to delete your account and make a new one. When you first sign up for an account a pop up shows up when you&#039;re filling in the username saying &quot;be careful, this is permanent&quot; or something like that....
+
+here&#039;s how you delete your account http://www.stumbleupon.com/delete_account.php</ChosenAnswer>
+    <ChosenAnswererId>Aq3yrCBaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Cyril</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269129992</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269137326</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>if by nickname you mean the username you use to log in, then yes you have to delete your account and make a new one. When you first sign up for an account a pop up shows up when you&#039;re filling in the username saying &quot;be careful, this is permanent&quot; or something like that....
+
+here&#039;s how you delete your account http://www.stumbleupon.com/delete_account.php</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>Aq3yrCBaaa</UserId>
+            <UserNick>Cyril</UserNick>
+            <Date>2010-03-20 17:06:32</Date>
+            <Timestamp>1269129992</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:28 PDT 2010 -->

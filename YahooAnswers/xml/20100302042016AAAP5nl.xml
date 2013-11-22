@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302042016AAAP5nl" type="Answered">
+    <Subject>we are unable to install new internet explorer 8-9?</Subject>
+    <Content>we are trying to install internet explorer 8 what to do?
+</Content>
+    <Date>2010-03-02 04:20:16</Date>
+    <Timestamp>1267532416</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302042016AAAP5nl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>185995af37eb1d626c23f8c0a1e1d859aa</UserId>
+    <UserNick>sumit s</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1NSBSpBDDAAIB7uLDnCQoxsm0Gbtrdw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://support.microsoft.com/kb/956586  try here</ChosenAnswer>
+    <ChosenAnswererId>bs4EQtkvaa</ChosenAnswererId>
+    <ChosenAnswererNick>liketolisten</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267534079</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268051641</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you&#039;re on an older computer like myself (Windows 2000), you won&#039;t be able to install.  The platform won&#039;t support it.  I had to load Firefox.  My only other option was to update my platform to XP.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5de22561694187c04bf160c86a774aeeaa</UserId>
+            <UserNick>kch05</UserNick>
+            <Date>2010-03-02 04:26:47</Date>
+            <Timestamp>1267532807</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I never uninstalled my present one, I just downloaded this one.
+
+                       Internet Explorer 8
+ http://www.microsoft.com/windows/internet-explorer/</Content>
+            <Reference>Computer Tech</Reference>
+            <Best></Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-03-02 04:29:03</Date>
+            <Timestamp>1267532943</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://support.microsoft.com/kb/956586  try here</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bs4EQtkvaa</UserId>
+            <UserNick>liketolisten</UserNick>
+            <Date>2010-03-02 04:47:59</Date>
+            <Timestamp>1267534079</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I read some where that xp is out dated and IE 8 will not run on it If you are bumping in to dynamic link library, it is refusing to download, and until you pass the WGA, it wont download.
+ IE6 will download, though, and with fire fox, I get plenty of speed.</Content>
+            <Reference>me</Reference>
+            <Best></Best>
+            <UserId>Z4sH97Vcaa</UserId>
+            <UserNick>mr.dfleming57</UserNick>
+            <Date>2010-03-02 07:02:43</Date>
+            <Timestamp>1267542163</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It would help to know what version of Windows you are running, and if you have a previous version of IE already installed.  Then we can diagnose the problem more succesfully.
+Thanks,
+Kyler
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0BzipcAfaa</UserId>
+            <UserNick>Kyler_IE8_Team</UserNick>
+            <Date>2010-03-05 12:32:28</Date>
+            <Timestamp>1267821148</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:27:32 PDT 2010 -->

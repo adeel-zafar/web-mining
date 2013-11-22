@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221171512AAryTdO" type="Answered">
+    <Subject>Can my parents see that I am using their internet connection?</Subject>
+    <Content>I am currently using a computer that I enabled with a wifi adapter that he doesn&#039;t know has internet connectivity. I&#039;m afraid to log onto our house&#039;s network (I know the password) that has the best signal strength just because when I was on the computer I&#039;m supposed to be using he could enable or disenable internet via *his* computer. Does this give him the ability to see what computers are on the connection, including foreign computers? He is using Windows Vista Parental Controls (or something that comes with windows Vista)
+</Content>
+    <Date>2010-02-21 17:15:12</Date>
+    <Timestamp>1266801312</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221171512AAryTdO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zBUxEVT7aa</UserId>
+    <UserNick>Mika M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes.
+
+Why don&#039;t you just talk to him?  What are you afraid of???</ChosenAnswer>
+    <ChosenAnswererId>zZBCOVFZaa</ChosenAnswererId>
+    <ChosenAnswererNick>Karlrein S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266801735</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267320884</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>He will be able to see the IP address and the computer name of computers using it but not what you are looking at on the web.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iP1xa32vaa</UserId>
+            <UserNick>Matthew</UserNick>
+            <Date>2010-02-21 17:20:48</Date>
+            <Timestamp>1266801648</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well I have uverse and the wireless gateway, I can see who&#039;s on my network, so yes he probably could. And he could also lock you out, which you probably deserve being such a sneaky little b_____d.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RPzbqhmAaa</UserId>
+            <UserNick>Craig</UserNick>
+            <Date>2010-02-21 17:22:06</Date>
+            <Timestamp>1266801726</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes.
+
+Why don&#039;t you just talk to him?  What are you afraid of???</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>zZBCOVFZaa</UserId>
+            <UserNick>Karlrein S</UserNick>
+            <Date>2010-02-21 17:22:15</Date>
+            <Timestamp>1266801735</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:32:30 PDT 2010 -->

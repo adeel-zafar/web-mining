@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307181125AAu9gH6" type="Answered">
+    <Subject>Does Megaupload work in all countries?</Subject>
+    <Content>I just moved to Dubai, U.A.E from the US. And I wanted to download a file from Megaupload, but it does not work. It gives me this message:
+
+Your IP address (I&#039;m not going to post it) has just downloaded 82197731 bytes. Please wait 2 minutes, then try your download again.
+
+But I did not download anything. Can someone help here, I really want this file.
+</Content>
+    <Date>2010-03-07 18:11:25</Date>
+    <Timestamp>1268014285</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307181125AAu9gH6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ci47EyM4aa</UserId>
+    <UserNick>Tom L</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b85cf2ei10e8zul5re4/RGVBqxo_eqyLeK4QUYZbKSdo5DW0qoFv.8rL7yw-/1/tn48.jpg?ciAAToMB1cUTz5y3</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>They have a download limit, just wait for 2 min.</ChosenAnswer>
+    <ChosenAnswererId>JC56qxcVaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rossy Boy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268014405</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268147052</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They have a download limit, just wait for 2 min.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>JC56qxcVaa</UserId>
+            <UserNick>Rossy Boy</UserNick>
+            <Date>2010-03-07 18:13:25</Date>
+            <Timestamp>1268014405</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:36:28 PDT 2010 -->

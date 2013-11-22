@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313193350AADIRzu" type="Answered">
+    <Subject>Can You Solve The Riddle Of The Weird Address?</Subject>
+    <Content>A college classroom is filled with students for the 1st day of the course. The professor walks into the room for the first time. He hands out some paperwork for them to complete, including their names, addresses, and telephone numbers, and level (freshman, sophomore, junior, or senior).
+
+The students complete the paperwork and the professor collects it. The professor looks puzzled. One paper says, under &quot;Address&quot;, it says. . .
+
+&quot;128.112.203.#  LOL !!&quot;
+
+The professor says, &quot;OK, who&#039;s the smart aleck in here? No jokes, please.&quot;
+
+What kind of course is the teacher probably teaching?
+
+And, for the smart ppl in here, which university is probably hosting this course?
+</Content>
+    <Date>2010-03-13 19:33:50</Date>
+    <Timestamp>1268537630</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313193350AADIRzu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>l5oPvNfUaa</UserId>
+    <UserNick>todd</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1HD9fMPs6AAEB_AFVvM9bCw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Princeton owns the 128.112.203.xxx IP address block.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268538801</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269053601</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>computer science, and MIT or harvard</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Ij8bPSgwaa</UserId>
+            <UserNick>frozilla_likes_food</UserNick>
+            <Date>2010-03-13 19:36:45</Date>
+            <Timestamp>1268537805</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Princeton owns the 128.112.203.xxx IP address block.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-13 19:53:21</Date>
+            <Timestamp>1268538801</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:53 PDT 2010 -->

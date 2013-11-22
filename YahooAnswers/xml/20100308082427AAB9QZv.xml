@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308082427AAB9QZv" type="Answered">
+    <Subject>What happened to ICEFILMS?</Subject>
+    <Content>Possibly the best website ever has disapeared!!
+</Content>
+    <Date>2010-03-08 08:24:27</Date>
+    <Timestamp>1268065467</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308082427AAB9QZv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2fdb153d3a336e9e446d8dbe940447a1aa</UserId>
+    <UserNick>Donkey_kong</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1LCjpPhiYAAEDPUFA8Agr8TQA.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>According to their mods the admin are aware of the problem - read this: http://forum.icefilms.info/viewtopic.php?f=24&amp;t=9182 that should tell you that there is problems and no ETA on the sites return.
+
+ Oh yeah and &quot;Icefilms hasn&#039;t used godaddy for a bit, and this is not a problem with them&quot; that&#039;s from the post of a mod on their forums.</ChosenAnswer>
+    <ChosenAnswererId>9xGzpUndaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nick</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268098158</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268805130</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;ve heard from a friend that they ran into problems with godaddy as their server and are currently looking for another one to replace it. Don&#039;t know if this 100% true though</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RcMKuW4Laa</UserId>
+            <UserNick>Cory</UserNick>
+            <Date>2010-03-08 15:22:01</Date>
+            <Timestamp>1268090521</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>According to their mods the admin are aware of the problem - read this: http://forum.icefilms.info/viewtopic.php?f=24&amp;t=9182 that should tell you that there is problems and no ETA on the sites return.
+
+ Oh yeah and &quot;Icefilms hasn&#039;t used godaddy for a bit, and this is not a problem with them&quot; that&#039;s from the post of a mod on their forums.</Content>
+            <Reference>icefilms forum</Reference>
+            <Best>5</Best>
+            <UserId>9xGzpUndaa</UserId>
+            <UserNick>Nick</UserNick>
+            <Date>2010-03-08 17:29:18</Date>
+            <Timestamp>1268098158</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:33:07 PDT 2010 -->

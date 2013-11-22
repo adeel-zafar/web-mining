@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313040920AANU3A6" type="Answered">
+    <Subject>Do you use more facebook or msn ?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-13 04:09:20</Date>
+    <Timestamp>1268482160</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313040920AANU3A6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>o3dBsF5jaa</UserId>
+    <UserNick>Pinco</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>um well i use msn instead of facebook chat because I like it better and im normally always signed into msn so msn (:</ChosenAnswer>
+    <ChosenAnswererId>nVwWsWboaa</ChosenAnswererId>
+    <ChosenAnswererNick>estella~~~</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268483803</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268997846</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>um well i use msn instead of facebook chat because I like it better and im normally always signed into msn so msn (:</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nVwWsWboaa</UserId>
+            <UserNick>estella~~~</UserNick>
+            <Date>2010-03-13 04:36:43</Date>
+            <Timestamp>1268483803</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>MSN</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2m2aejiaaa</UserId>
+            <UserNick>geemm</UserNick>
+            <Date>2010-03-13 04:47:12</Date>
+            <Timestamp>1268484432</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:05:29 PDT 2010 -->

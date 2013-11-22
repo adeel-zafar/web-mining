@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315194733AApKV22" type="Answered">
+    <Subject>What do I do about this Internet Explorer error?</Subject>
+    <Content>So when I am online in Internet Exploer (not IE 8) I have not updated. 
+I get this error messege saying: Close programs to prevent information loss. Your computer is low on memory. Save your files and close programs: Internet Explorer.
+
+I also get this low memory messege also and my IE shuts down and sometimes recovers it but not all the time. I have reset the Internet Explorer still does not fix the problem also done Delete temp files, cookies etc.
+</Content>
+    <Date>2010-03-15 19:47:33</Date>
+    <Timestamp>1268707653</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315194733AApKV22</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>A2DjzwAYaa</UserId>
+    <UserNick>★ JUICY ★</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1itxhuOlmAAQDgicgQSZytk7hKw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Recover deleted files, Recover deleted files directories,recover deleted files hard drive,recover deleted directories
+
+http://www.diskgetor.com/recover-deleted-files-directories.htm</ChosenAnswer>
+    <ChosenAnswererId>h2ppJot0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Dreamsoul</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268749409</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269227196</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://windows.microsoft.com/en-CA/windows-vista/Preventing-low-memory-problems</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DeiuAuwyaa</UserId>
+            <UserNick>Brenda</UserNick>
+            <Date>2010-03-15 19:52:45</Date>
+            <Timestamp>1268707965</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Wrong type of memory, there is primarty memory and secondary memory. You seen to confuse the two ( quite common actually from some people)
+
+primary memory refers to the RAM memory, not hard drive memory. RAM memory is used for programs that are currently running, while the memory on the hard drive means programs that are not in use.
+
+In otherwords, see what happen you close a few programs and some background processes. (icons on the bottom right)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YESUhp8gaa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-15 19:53:20</Date>
+            <Timestamp>1268708000</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Recover deleted files, Recover deleted files directories,recover deleted files hard drive,recover deleted directories
+
+http://www.diskgetor.com/recover-deleted-files-directories.htm</Content>
+            <Reference>http://www.diskgetor.com</Reference>
+            <Best>5</Best>
+            <UserId>h2ppJot0aa</UserId>
+            <UserNick>Dreamsoul</UserNick>
+            <Date>2010-03-16 07:23:29</Date>
+            <Timestamp>1268749409</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:48 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303214457AALCwLn" type="Answered">
+    <Subject>WHY DOES THE £ (Pound) symbol always turn into a question mark (?) in my Hotmail emails? Im from the UK?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-03 21:44:57</Date>
+    <Timestamp>1267681497</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303214457AALCwLn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QZ8J45avaa</UserId>
+    <UserNick>J</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I don&#039;t know; that is weird. You should try another e-mail service (i.e. Yahoo Mail).</ChosenAnswer>
+    <ChosenAnswererId>nSwpVrW4aa</ChosenAnswererId>
+    <ChosenAnswererNick>amnesiac</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267684795</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268201035</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I don&#039;t know; that is weird. You should try another e-mail service (i.e. Yahoo Mail).</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>nSwpVrW4aa</UserId>
+            <UserNick>amnesiac</UserNick>
+            <Date>2010-03-03 22:39:55</Date>
+            <Timestamp>1267684795</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:13:19 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303131324AADyroM" type="Answered">
+    <Subject>Mozilla Firefox problem.?</Subject>
+    <Content>I have Mozilla Firefox as my default web browser. So sometimes when i go on the internet, i get this little message that says that 7 new add-ons were installed, and then my Speed Dial add-on is gone. Could someone maybe give me some insight to why this is happening? 
+Please, and Thanks.
+</Content>
+    <Date>2010-03-03 13:13:24</Date>
+    <Timestamp>1267650804</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303131324AADyroM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>56695099d86d783220ea817433a947a4aa</UserId>
+    <UserNick>yellowdagger</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1QyRRHfLRAAAD1cSllBZ1dJmyFg==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Read about problems in Firefox here
+
+http://www.mozilla.org/security/known-vulnerabilities/
+
+Report your problems to the people that make the software so they can fix it;-)</ChosenAnswer>
+    <ChosenAnswererId>ZQAhWrFnaa</ChosenAnswererId>
+    <ChosenAnswererNick>Michael</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267653564</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268170405</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Read about problems in Firefox here
+
+http://www.mozilla.org/security/known-vulnerabilities/
+
+Report your problems to the people that make the software so they can fix it;-)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ZQAhWrFnaa</UserId>
+            <UserNick>Michael</UserNick>
+            <Date>2010-03-03 13:59:24</Date>
+            <Timestamp>1267653564</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:39 PDT 2010 -->

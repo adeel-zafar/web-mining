@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331193531AATNP6C" type="Answered">
+    <Subject>How do I make a Livejournal Layout?</Subject>
+    <Content>Where can I find a website that will help me create a Livejournal layout, or maybe a place where some can make it for me? I&#039;ve tried googling it, but the tutorials I&#039;ve looked at are confusing and I wasn&#039;t able to do anything with them orz
+I want a Simple/Clean layout. I&#039;d also like to stick with S2!
+</Content>
+    <Date>2010-03-31 19:35:31</Date>
+    <Timestamp>1270089331</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331193531AATNP6C</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lHWJljNPaa</UserId>
+    <UserNick>Blank</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1.Login to your account and go to &quot;Journal Display.&quot; This page can be reached by going to &quot;Customize&quot; under &quot;Your Settings.&quot;
+
+
+2.Set your Journal to &quot;S1 System Style.&quot; This is found on the first page of the &quot;Journal Settings&quot; page at the bottom of the text box. This allows you to change the HTML of your journal.
+
+
+
+3.Click on the &quot;Custom Options&quot; tab. This will take you to the area for the HTML code for your journal. The HTML Code is in the &quot;Overrides&quot; box.
+
+
+4.Carefully read through the HTML Code. Most of the Code is self explanatory. Text-family deals with the text style you want to use. Background-color or background-image deals with how the background behind the text is going to look.
+
+
+5.Take the picture that you want to use for the Journal. With a website like Photobucket, create your own http:// link to the picture. Don&#039;t link to pictures on other people&#039;s web pages.
+
+
+6.Create a theme around the picture that you&#039;ve chosen. The comment links on each Journal entry can be changed to fit this theme. For example if your using the picture of a star you can make the background color around the picture black, use a star color for the text, like white or gold, and have your &quot;Friends Comment Link&quot; say &quot;Catch a Shooting Star&quot; and the Link to comments be &quot;# Star Caught.&quot;
+
+
+7.Change your Journal HTML bit by bit. Change something and then view your Journal to see how that change affected the Journal and the theme.
+
+
+Hope I Helped. Good Luck! :)</ChosenAnswer>
+    <ChosenAnswererId>0ef08e7dfbd5b72e78ab62ff6f29a1a8aa</ChosenAnswererId>
+    <ChosenAnswererNick>Bobbie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270089666</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270196232</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>1.Login to your account and go to &quot;Journal Display.&quot; This page can be reached by going to &quot;Customize&quot; under &quot;Your Settings.&quot;
+
+
+2.Set your Journal to &quot;S1 System Style.&quot; This is found on the first page of the &quot;Journal Settings&quot; page at the bottom of the text box. This allows you to change the HTML of your journal.
+
+
+
+3.Click on the &quot;Custom Options&quot; tab. This will take you to the area for the HTML code for your journal. The HTML Code is in the &quot;Overrides&quot; box.
+
+
+4.Carefully read through the HTML Code. Most of the Code is self explanatory. Text-family deals with the text style you want to use. Background-color or background-image deals with how the background behind the text is going to look.
+
+
+5.Take the picture that you want to use for the Journal. With a website like Photobucket, create your own http:// link to the picture. Don&#039;t link to pictures on other people&#039;s web pages.
+
+
+6.Create a theme around the picture that you&#039;ve chosen. The comment links on each Journal entry can be changed to fit this theme. For example if your using the picture of a star you can make the background color around the picture black, use a star color for the text, like white or gold, and have your &quot;Friends Comment Link&quot; say &quot;Catch a Shooting Star&quot; and the Link to comments be &quot;# Star Caught.&quot;
+
+
+7.Change your Journal HTML bit by bit. Change something and then view your Journal to see how that change affected the Journal and the theme.
+
+
+Hope I Helped. Good Luck! :)</Content>
+            <Reference>http://www.ehow.com/how_2087491_design-live-journal-layout-html.html</Reference>
+            <Best>4</Best>
+            <UserId>0ef08e7dfbd5b72e78ab62ff6f29a1a8aa</UserId>
+            <UserNick>angelzbeans</UserNick>
+            <Date>2010-03-31 19:41:06</Date>
+            <Timestamp>1270089666</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:13 PDT 2010 -->

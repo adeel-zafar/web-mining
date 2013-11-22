@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331201115AAV7yEz" type="Answered">
+    <Subject>I need a good blog url?</Subject>
+    <Content>I&#039;m going to focus on tutorials, hauls, tags, requests and random little updates.
+
+I need a good URL name! Help?
+</Content>
+    <Date>2010-03-31 20:11:15</Date>
+    <Timestamp>1270091475</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331201115AAV7yEz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kIXRoqHXaa</UserId>
+    <UserNick>AJ</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>How about KingTutor ... like a play on King Tut?</ChosenAnswer>
+    <ChosenAnswererId>Phr5s8gKaa</ChosenAnswererId>
+    <ChosenAnswererNick>cillamcgowan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270091609</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270154837</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>How about KingTutor ... like a play on King Tut?</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>Phr5s8gKaa</UserId>
+            <UserNick>cillamcgowan</UserNick>
+            <Date>2010-03-31 20:13:29</Date>
+            <Timestamp>1270091609</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:10 PDT 2010 -->

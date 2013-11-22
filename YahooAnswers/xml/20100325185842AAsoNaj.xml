@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325185842AAsoNaj" type="Answered">
+    <Subject>Outlook email isn&#039;t working properly?</Subject>
+    <Content>Seriously I&#039;m stressing out right now, over spring break we had to do a little math powerpoint and we have to send it to our teacher when we we&#039;re finished but there&#039;s no way I could do that because when I try too a message comes up.
+
+&quot;Outlook Web Access is currently unavailable. If the problem continues, contact technical support for your organization and tell them the following: No Client Access servers of the appropriate version can be accessed from the Internet.&quot;
+
+You see, we can&#039;t just email it from our regular email. It has to be our school email on outlook.
+
+It&#039;s due on Monday and if we don&#039;t have it in we get an F. (It&#039;s worth more than 300 points.)
+
+Now I&#039;m stressed. Is there anyway I can get it back?
+</Content>
+    <Date>2010-03-25 18:58:42</Date>
+    <Timestamp>1269568722</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325185842AAsoNaj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qlgsyv2Laa</UserId>
+    <UserNick>&lt;3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1i45w-M8LAAEB5ASaZVA=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It sounds like your school turned off their email server over the break. If there is anyone at the school tomorrow, call the office and tell them you need to send an email.</ChosenAnswer>
+    <ChosenAnswererId>mLs3rMnKaa</ChosenAnswererId>
+    <ChosenAnswererNick>David N</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269569304</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270088220</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It sounds like your school turned off their email server over the break. If there is anyone at the school tomorrow, call the office and tell them you need to send an email.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mLs3rMnKaa</UserId>
+            <UserNick>David N</UserNick>
+            <Date>2010-03-25 19:08:24</Date>
+            <Timestamp>1269569304</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:29:35 PDT 2010 -->

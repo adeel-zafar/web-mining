@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322184028AAhkxF4" type="Answered">
+    <Subject>Is there a way to find out everything I&#039;ve ever registered for online?</Subject>
+    <Content>I&#039;ve been online for over a decade and it&#039;s near impossible to remember everything I&quot;ve ever registered for using my email address, but I would be interested to know. Is there anyway to do this? Like a website registery or something?
+</Content>
+    <Date>2010-03-22 18:40:28</Date>
+    <Timestamp>1269308428</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322184028AAhkxF4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gYNMCJRLaa</UserId>
+    <UserNick>Ms Dahlia</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1C8hXxeXHAAEEXQGNhBOP13QB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ha ha, no.</ChosenAnswer>
+    <ChosenAnswererId>ULw1777caa</ChosenAnswererId>
+    <ChosenAnswererNick>jasonicus</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269308549</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269827826</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ha ha, no.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ULw1777caa</UserId>
+            <UserNick>jasonicus</UserNick>
+            <Date>2010-03-22 18:42:29</Date>
+            <Timestamp>1269308549</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:53 PDT 2010 -->

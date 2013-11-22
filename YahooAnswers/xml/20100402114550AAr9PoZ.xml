@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402114550AAr9PoZ" type="Answered">
+    <Subject>What could this pop up mean?</Subject>
+    <Content>i was on youtube (not important) and a little box popped up (it looked like a small internet explorer window) and read &quot;hi&quot;. that&#039;s all it had, so i pressed ok and it went away and nothing else happened. ??????????????
+</Content>
+    <Date>2010-04-02 11:45:50</Date>
+    <Timestamp>1270233950</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402114550AAr9PoZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6vC1M7jUaa</UserId>
+    <UserNick>Snowman</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes it is Malware, When you are on the internet you can get a lot of pop ups so its actually normal.</ChosenAnswer>
+    <ChosenAnswererId>yhDXiroAaa</ChosenAnswererId>
+    <ChosenAnswererNick>VanSync</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270234422</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270254046</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>that what happened to me too.. only on youtube.. but im using a mac so i think its normal.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TxG9Rxuyaa</UserId>
+            <UserNick>lexi :D</UserNick>
+            <Date>2010-04-02 11:47:01</Date>
+            <Timestamp>1270234021</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have no idea what it means, but scan your computer for viruses, just in case. It&#039;s possible that it installed a virus, even though it&#039;s unlikely.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SbycmGZ7aa</UserId>
+            <UserNick>James</UserNick>
+            <Date>2010-04-02 11:48:04</Date>
+            <Timestamp>1270234084</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it&#039;s usually a sucker move to install malware. I suggest you run a full scan with your anti-virus</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5991586b22046a25e6c14b30424b53c6aa</UserId>
+            <UserNick>Jim W</UserNick>
+            <Date>2010-04-02 11:48:14</Date>
+            <Timestamp>1270234094</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes it is Malware, When you are on the internet you can get a lot of pop ups so its actually normal.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>yhDXiroAaa</UserId>
+            <UserNick>VanSync</UserNick>
+            <Date>2010-04-02 11:53:42</Date>
+            <Timestamp>1270234422</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It just happened to me (I&#039;m on a Mac).</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hsWOnvAiaa</UserId>
+            <UserNick>sweetbee13</UserNick>
+            <Date>2010-04-02 16:54:22</Date>
+            <Timestamp>1270252462</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:14 PDT 2010 -->

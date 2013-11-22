@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305221952AAb5xXz" type="Answered">
+    <Subject>Why can&#039;t I connect to the internet anymore?</Subject>
+    <Content>This is a little embarrassing because I am an I.T. Professional (software developer for both the Mac and the PC). Anyway, my daughter&#039;s computer got hit by a virus tonight, so bad the Task Manager was at full tilt and I literally had to pull the plug. No dice on the reboot, it was a registry level infection, so the only option was to use ERD  Commander to wipe the disk, then reinstall the Operating System (Windows XP, 32 bit, on an older machine).
+
+Anyway, I can see plain as day the &quot;1394 Connection&quot; by going through:
+
+Control Panel -&gt; Network and Internet -&gt; Network Connections
+
+and it says &quot;Connected, Firewalled&quot; and the window shows the speed at 400.0 Mbps but nothing is being &quot;transferred&quot;, so this rate is no doubt optimistically high.
+
+Even as I write this on the machine next to it, it shows &quot;Connected 00:07:24&quot; so it looks like it is working.
+
+Just to drive myself to madness, I unplugged the ethernet cable and plugged it into my ANCIENT Macintosh G4 I bought in 1999, and it was able to launch the fossil known as Mozilla and connect to the internet with no problem!
+
+So, I know it&#039;s not the port on my router, it&#039;s not the Broadband service provider, and it is not my &quot;machine&quot; since the thing was working fine before the virus knocked us out.
+
+The only thing left is the software, but it was the XP version (service pack 3) that came with the box.
+
+Is there anyway to resolve this perplexing issue? Why won&#039;t this machine connect to the internet?
+Ah ha, now we are getting somewhere.
+
+Yes, under &quot;Other Devices&quot; the &quot;Ethernet Controller&quot; has a yellow question mark.
+</Content>
+    <Date>2010-03-05 22:19:52</Date>
+    <Timestamp>1267856392</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305221952AAb5xXz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uhUdiq2Yaa</UserId>
+    <UserNick>Mike</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ugh, I run into these kinds of problems after I wipe a hard drive. I can ask you to try something and you can let me know what you find.
+
+Its possible the software could not all be there when you reinstalled so check your devices. Go to the Device Manager and let me know if you see any Yellow Question Marks. I don&#039;t know how experienced you are with this though. If there are some, then what are they? You may need to download drivers for it.
+
+My email is DominicS48@hotmailcom if you want to further discuss.</ChosenAnswer>
+    <ChosenAnswererId>BvrncO25aa</ChosenAnswererId>
+    <ChosenAnswererNick>Dominic S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267856802</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268375632</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Have to disconnect and reconnet the software drivers, then they will renegotiate.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>f1HP8AKaaa</UserId>
+            <UserNick>William</UserNick>
+            <Date>2010-03-05 22:23:55</Date>
+            <Timestamp>1267856635</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ugh, I run into these kinds of problems after I wipe a hard drive. I can ask you to try something and you can let me know what you find.
+
+Its possible the software could not all be there when you reinstalled so check your devices. Go to the Device Manager and let me know if you see any Yellow Question Marks. I don&#039;t know how experienced you are with this though. If there are some, then what are they? You may need to download drivers for it.
+
+My email is DominicS48@hotmailcom if you want to further discuss.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BvrncO25aa</UserId>
+            <UserNick>Dominic S</UserNick>
+            <Date>2010-03-05 22:26:42</Date>
+            <Timestamp>1267856802</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:52:05 PDT 2010 -->

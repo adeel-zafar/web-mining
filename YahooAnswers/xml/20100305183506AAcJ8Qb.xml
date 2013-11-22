@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305183506AAcJ8Qb" type="Answered">
+    <Subject>Formspring.me question...?</Subject>
+    <Content>Ok, so I made asked a few questions to people on formspring.me. And now I want to make an account. But when I make an account. Will the person who I asked the questions KNOW I sent them it? So it will no longer be anon but show my profile next to question
+</Content>
+    <Date>2010-03-05 18:35:06</Date>
+    <Timestamp>1267842906</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305183506AAcJ8Qb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pTa4KhgVaa</UserId>
+    <UserNick>William</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>nope, It can&#039;t track anon questions, it won&#039;t even know it was the same person who asked those questions...</ChosenAnswer>
+    <ChosenAnswererId>AA11487401</ChosenAnswererId>
+    <ChosenAnswererNick>sivart7555</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267843041</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268362457</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>nope, It can&#039;t track anon questions, it won&#039;t even know it was the same person who asked those questions...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11487401</UserId>
+            <UserNick>sivart7555</UserNick>
+            <Date>2010-03-05 18:37:21</Date>
+            <Timestamp>1267843041</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>When you get an account you can still choose to put your account name or use anon.</Content>
+            <Reference>Personal experience</Reference>
+            <Best></Best>
+            <UserId>sEJoIVG9aa</UserId>
+            <UserNick>Jacoby</UserNick>
+            <Date>2010-03-05 18:54:34</Date>
+            <Timestamp>1267844074</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:53:20 PDT 2010 -->

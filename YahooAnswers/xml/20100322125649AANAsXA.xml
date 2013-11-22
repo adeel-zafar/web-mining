@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322125649AANAsXA" type="Answered">
+    <Subject>Internet Service Providers &amp; Internet History Records?</Subject>
+    <Content>I have my own computer, and have been pretty tech savvy, learning all about stuff on it. Recently though, I&#039;ve thought about keeping things WAY more simple. I have a smart phone as well. I&#039;d just like to downgrade to a small laptop, check my email once a week, and have a simple flip phone. I don&#039;t like how technology reliable we as humans are getting. But, I&#039;m not surrendering my technology yet.
+
+I&#039;ve recently been researching privacy, and it turns out, the Internet is not near as secure as I thought it was (and I thought it was pretty insecure!). I understand that my ISP has records of, well, pretty much my Internet usage, time, date, history, etc. This doesn&#039;t scare me, I just, honestly, think it&#039;s weird.
+
+It&#039;s like having a drawer of clothing. There&#039;s nothing bad in there, and I wouldn&#039;t care if someone looked at it, but that&#039;s just kind of weird, right?
+
+My question (more like a few, all this is confusing to me, it&#039;s like learning something new in a math class.): My ISP has records of all the stuff, can they just access it and whip it out? Obviously, I&#039;m one of MANY customers, so I don&#039;t see why they&#039;d just go snooping through mine specifically. They&#039;d most likely go for peoples&#039; dealing with legal problems. 
+
+As TL said &quot;Now about your ISP: Your ISP can only surrender what you&#039;ve visited online for court orders and the like so unless your friends have any LEGAL reasons to find out what you&#039;ve visited, they can&#039;t just go and freely check the server.&quot;
+
+Second question: Do they hold EVERYTHING of mine in there? Do they ever go about deleting some things to make space? If I left their service, would they still keep my records? It seems like a big waste of space if they don&#039;t. Why keep clothes that are too small?
+
+I&#039;m sure after I get answers to these, I&#039;ll end up having more questions. Maybe someone could supply me with an article explaining more? This topic is very interesting to me. Thanks!  :]
+</Content>
+    <Date>2010-03-22 12:56:49</Date>
+    <Timestamp>1269287809</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322125649AANAsXA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vEsdtukIaa</UserId>
+    <UserNick>Unknown Questioner</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/15Dg2vxhLAAID_IFULBJPZviMYbgE.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There are many ISP&#039;s that categorically state that they do not log user activity. That does not mean the data is unavailable, but it is harder to access.  Most ISP&#039;s only keep records for so long, due to space limitations, anyway. If you accessed &quot;IloveAlQuaeda.org&quot; or &quot;Illegalunderagegirls.net&quot; &amp; the Feds show up with a subpoena, they will get your data at most ISP&#039;s. There are proxy sites you can use to muddy your internet trail. Google &quot;proxies&quot; for more info. Don&#039;t pay for an anonymous proxy or service, there are too many free ones out there. Check the links.</ChosenAnswer>
+    <ChosenAnswererId>Ef7ftfixaa</ChosenAnswererId>
+    <ChosenAnswererNick>Herbli</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269290996</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269387210</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There are many ISP&#039;s that categorically state that they do not log user activity. That does not mean the data is unavailable, but it is harder to access.  Most ISP&#039;s only keep records for so long, due to space limitations, anyway. If you accessed &quot;IloveAlQuaeda.org&quot; or &quot;Illegalunderagegirls.net&quot; &amp; the Feds show up with a subpoena, they will get your data at most ISP&#039;s. There are proxy sites you can use to muddy your internet trail. Google &quot;proxies&quot; for more info. Don&#039;t pay for an anonymous proxy or service, there are too many free ones out there. Check the links.</Content>
+            <Reference>http://www.w3privacy.com/
+http://netsecurity.about.com/cs/generalsecurity/g/def_proxy.htm
+http://www.proxyblind.org/
+http://en.wikipedia.org/wiki/Internet_privacy</Reference>
+            <Best>5</Best>
+            <UserId>Ef7ftfixaa</UserId>
+            <UserNick>Herbli</UserNick>
+            <Date>2010-03-22 13:49:56</Date>
+            <Timestamp>1269290996</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:25 PDT 2010 -->

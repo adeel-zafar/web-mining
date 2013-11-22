@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310092036AA5OsYz" type="Answered">
+    <Subject>My computer will not go to hotmail and will not work on other sites...?</Subject>
+    <Content>I just bought an anti-virus for my computer because the old one ran out and now when I try to go to hotmail the page is completely blank! Also when I try to go on Pogo to try to play games it won&#039;t let me play. And when I get on myspace it won&#039;t let me see updates, accept comments, or anything! I also cannot veiw videos and some pictures and things on certain websites. The old anti-virus was uninstalled and I have adobe and everything that I should need. I have even called the anti-virus company several times and they have said they would fix it but they have yet to do so. Can anyone help????
+</Content>
+    <Date>2010-03-10 09:20:36</Date>
+    <Timestamp>1268241636</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310092036AA5OsYz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WAJViTKUaa</UserId>
+    <UserNick>Concerned</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think re installing the anti-virus program may help.</ChosenAnswer>
+    <ChosenAnswererId>D2hDCWHKaa</ChosenAnswererId>
+    <ChosenAnswererNick>s.m</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268241782</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269274426</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think re installing the anti-virus program may help.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>D2hDCWHKaa</UserId>
+            <UserNick>s.m</UserNick>
+            <Date>2010-03-10 09:23:02</Date>
+            <Timestamp>1268241782</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try checking your Add-Ons.  Go to the IE &#039;Tools&#039; menu, click on &#039;Manage Add-Ons&#039;, then choose &#039;Toolbars and Extensions&#039;, and then choose &#039;Run Without Permission&#039; in the option box in the lower left corner.  You might see Windows Live Sign-In Control&#039; disabled.  Make sure it is enabled.  There are 3 &#039;Windows Live&#039; selections you may want to disable to stop the delay in opening Hotmail, but that&#039;s your choice.</Content>
+            <Reference>Personal experience in slow Hotmail opening.</Reference>
+            <Best></Best>
+            <UserId>AA10838208</UserId>
+            <UserNick>pakchangkeun</UserNick>
+            <Date>2010-03-12 20:28:45</Date>
+            <Timestamp>1268454525</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:19:03 PDT 2010 -->

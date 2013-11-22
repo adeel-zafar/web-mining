@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328104432AAkpNOa" type="Answered">
+    <Subject>Can you keep an orange email address after leaving orange broadband?</Subject>
+    <Content>I&#039;m changing internet provider and wanted to know if i will lose the email address i have with them
+</Content>
+    <Date>2010-03-28 10:44:32</Date>
+    <Timestamp>1269798272</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328104432AAkpNOa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wQzDLAYBaa</UserId>
+    <UserNick>Ed H</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No you can&#039;t! Yes you will!</ChosenAnswer>
+    <ChosenAnswererId>kxsvjGmTaa</ChosenAnswererId>
+    <ChosenAnswererNick>John C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269798464</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270059994</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No you can&#039;t! Yes you will!</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-28 10:47:44</Date>
+            <Timestamp>1269798464</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:19:12 PDT 2010 -->

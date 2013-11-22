@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319162126AAdQIAz" type="Answered">
+    <Subject>I need help with a Firefox problem?</Subject>
+    <Content>I have Firefox 3.6 and I have the Smart Bookmarks Bar add-on and it doesn&#039;t work on the initial start-up. I have to go to tools&gt;add-ons&gt;find updates&gt;then restart firefox for it to work.
+
+Things I have tried:
+1. reinstall Smart Bookmarks Bar
+2. reinstall Firefox 3.6
+
+Thanks.
+</Content>
+    <Date>2010-03-19 16:21:26</Date>
+    <Timestamp>1269040886</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319162126AAdQIAz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Dt49FRk9aa</UserId>
+    <UserNick>CaneFan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i think smart bookmarks bar is not suitable for firefox 3.6</ChosenAnswer>
+    <ChosenAnswererId>cAKVSOpzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Idham</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269041131</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269560295</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>00</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>L6THTOhfaa</UserId>
+            <UserNick>R. Reagan had class &amp; integrity</UserNick>
+            <Date>2010-03-19 16:22:22</Date>
+            <Timestamp>1269040942</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i think smart bookmarks bar is not suitable for firefox 3.6</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cAKVSOpzaa</UserId>
+            <UserNick>Idham</UserNick>
+            <Date>2010-03-19 16:25:31</Date>
+            <Timestamp>1269041131</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:21 PDT 2010 -->

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225060621AAWCO1K" type="Answered">
+    <Subject>Where can I create a forum with liberal censorship policies?</Subject>
+    <Content>I spent a considerable time creating a completely inoffensive forum on xobor.com for a group I run and just when it was getting established I found that xobor had deleted it, presumably because in one of the posts there was a joking reference to pornography - not a link - just the word &#039;porn&#039;. This really gets on my nerves
+
+So does anyone know of a website where I can start a free forum, with the freedom to make it look the way I want - uploading own backgrounds, html banner etc., but also one that allows users to say more or less whatever they want?
+
+This being the internet, I shouldn&#039;t really have to ask - I thought this was the last remaining &#039;pirate utopia&#039; so to speak - but there we go. Censors 1, us 0.
+</Content>
+    <Date>2010-02-25 06:06:21</Date>
+    <Timestamp>1267106781</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225060621AAWCO1K</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wsLRg6yMaa</UserId>
+    <UserNick>Ed</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1B54X1I_KAAMB_gEA1lU=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Based on the boards I&#039;ve seen hosted there, proboards.com seems reasonable in terms of censorship, but I can&#039;t comment on the ease of customization since I only used it as a regular member, not an admin.</ChosenAnswer>
+    <ChosenAnswererId>BGeHHQzLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Couman</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267254999</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267626266</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You should ask Xobor why they deleted your forum.  It is unlikely to be for the reason you cite.  I am several music forums - membership predominately male - and there is often passing reference to porn, although the members are basically respectable middle aged males</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-02-25 06:12:28</Date>
+            <Timestamp>1267107148</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Based on the boards I&#039;ve seen hosted there, proboards.com seems reasonable in terms of censorship, but I can&#039;t comment on the ease of customization since I only used it as a regular member, not an admin.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BGeHHQzLaa</UserId>
+            <UserNick>Couman</UserNick>
+            <Date>2010-02-26 23:16:39</Date>
+            <Timestamp>1267254999</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:59:12 PDT 2010 -->

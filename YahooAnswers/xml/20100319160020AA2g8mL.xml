@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319160020AA2g8mL" type="Answered">
+    <Subject>Help I have a virus - Dracur - how do I get rid of it for good ?</Subject>
+    <Content>I keep getting a virus on my pc called Dracur. No matter what I do it keeps coming back everyday. I run my anti-virus/anti spyware everyday to get rid of it, but it still comes back. How do I stop it infecting my computer? (Note: Avast does isolate the virus.)
+
+The virus attempts to enter my computer even when my browser is closed? How is this happening?
+</Content>
+    <Date>2010-03-19 16:00:20</Date>
+    <Timestamp>1269039620</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319160020AA2g8mL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FlvmzgqSaa</UserId>
+    <UserNick>Emirates</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269096518</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269096810</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>DO...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>L6THTOhfaa</UserId>
+            <UserNick>R. Reagan had class &amp; integrity</UserNick>
+            <Date>2010-03-19 16:23:27</Date>
+            <Timestamp>1269041007</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The reason why it keeps coming back is possibly because it is in your system,possibly a file in your startup sequence. You so right about Avast not isolating it. The virus or whatever it is no longer coming from the internet as it has been imbedded into your system somewhere.
+you can try the following. 
+Download a copy of spybot-search and destroy --&gt;http://download.cnet.com/Spybot-Search-amp-Destroy/3000-8022_4-10122137.html and malwarebytes anti-malware software from--&gt;http://www.malwarebytes.org/ open them, update them and run them 
+
+Run an online scan from the official site of Norton Antivirus, Panda,AVG and BitDefender(http://www.bitdefender.com/scanner/online/free.html) and see if they come up with anything.
+
+Hope this has been helpful. 
+BTW, what were you doing/what did you do prior to getting this infection? (i.e. updates,new installations etc)</Content>
+            <Reference>me. got a virus that avast did not stop.</Reference>
+            <Best></Best>
+            <UserId>mIsa8bMgaa</UserId>
+            <UserNick>leigh j</UserNick>
+            <Date>2010-03-19 16:42:36</Date>
+            <Timestamp>1269042156</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Turn off your computer, then call a computer maintenance place you can trust.
+Last time we had a virus, the computer place we barely heard of had it for 5 months then said he couldn&#039;t do anything. Ask some people or look on the web for high performance maintenance places around your area.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8fM8HSzlaa</UserId>
+            <UserNick>Jig</UserNick>
+            <Date>2010-03-19 16:45:36</Date>
+            <Timestamp>1269042336</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-20 07:48:38</Date>
+            <Timestamp>1269096518</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:27 PDT 2010 -->

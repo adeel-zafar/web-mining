@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310205350AAN9gK2" type="Answered">
+    <Subject>What are some good (not sure what they&#039;re called) parent locks for firefox?</Subject>
+    <Content>I&#039;m looking for something where you can chose what you want it to filter.
+Most ones that I&#039;ve found are mostly for blocking out porn.
+I&#039;m looking for something where you decide what you want it to filter.
+Do you know any?
+</Content>
+    <Date>2010-03-10 20:53:50</Date>
+    <Timestamp>1268283230</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310205350AAN9gK2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9fcdd674cc0260e33942adf9ee0b7c25aa</UserId>
+    <UserNick>Katarzyna ‡  Starbreeze</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b4bfbddi6e6zul8sp1/q8EiJK8_cqEkPZo6TQGhqrNvRIrtzCgS/5/tn48.jpg?ciAAToMB4kyAhYn8</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I personally dont use blockers, however i have heard good things about;
+
+1. Suricate
+2. FoxFilter
+
+I think in FoxFilter, you can choose to block keywords as well;  so they cant search it up in google. I installed them on several peoples computers, and they&#039;re happy with it so i dont know...
+
+good luck! ;)</ChosenAnswer>
+    <ChosenAnswererId>j7QUfqhfaa</ChosenAnswererId>
+    <ChosenAnswererNick>Lucifer In Tears</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268283477</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268363583</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I downloaded something called leech block for firefox that lets you set which websites are blocked for certain times of day or after a certain amount of time....it&#039;s for my own good....yay procrastination</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>isMSjATgaa</UserId>
+            <UserNick>Mad Spinach</UserNick>
+            <Date>2010-03-10 20:56:53</Date>
+            <Timestamp>1268283413</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I personally dont use blockers, however i have heard good things about;
+
+1. Suricate
+2. FoxFilter
+
+I think in FoxFilter, you can choose to block keywords as well;  so they cant search it up in google. I installed them on several peoples computers, and they&#039;re happy with it so i dont know...
+
+good luck! ;)</Content>
+            <Reference>Me. Computer Science Major</Reference>
+            <Best>4</Best>
+            <UserId>j7QUfqhfaa</UserId>
+            <UserNick>Lucifer In Tears</UserNick>
+            <Date>2010-03-10 20:57:57</Date>
+            <Timestamp>1268283477</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try Aobo Blocker. http://www.aobo-porn-filter.com
+It is easy.You can add the websites and programs you don&#039;t want to blacklist. And it works in stealth mode, and won&#039;t show in the task manager. With password protection so that no one can change your settings without password.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TOYU8ZzUaa</UserId>
+            <UserNick>ihope</UserNick>
+            <Date>2010-03-11 01:34:05</Date>
+            <Timestamp>1268300045</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:15:12 PDT 2010 -->

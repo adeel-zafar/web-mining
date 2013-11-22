@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322150358AAwZylx" type="Answered">
+    <Subject>what is the website name that you can put your picture and friends picture to dance?</Subject>
+    <Content>when you go to the site its like two guys that are dressed up as those red suits like in the circus or something like that... i dont seem to remember what the website was called but i think it had a J or Jinks or something like that in it . HELP ? (:
+</Content>
+    <Date>2010-03-22 15:03:58</Date>
+    <Timestamp>1269295438</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322150358AAwZylx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4PQpTbI2aa</UserId>
+    <UserNick>Victoria</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>JibJab</ChosenAnswer>
+    <ChosenAnswererId>Rd3kLcHEaa</ChosenAnswererId>
+    <ChosenAnswererNick>Amanda</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269295572</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269999757</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>JibJab</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Rd3kLcHEaa</UserId>
+            <UserNick>Amanda</UserNick>
+            <Date>2010-03-22 15:06:12</Date>
+            <Timestamp>1269295572</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://sendables.jibjab.com/ i think thats it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>44c9122b539c0ccabd9615dd214afd82aa</UserId>
+            <UserNick>b-man</UserNick>
+            <Date>2010-03-22 15:07:53</Date>
+            <Timestamp>1269295673</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:04 PDT 2010 -->

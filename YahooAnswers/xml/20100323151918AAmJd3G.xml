@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323151918AAmJd3G" type="Answered">
+    <Subject>All my internet browsers have stopped working?</Subject>
+    <Content>All my internet browsers except for Internet Explorer have stopped working? I have tried as many things as i could think of to fix it such as turning off the firewall, system restore and updates and nothing seems to work. I was using Google Chrome but it stopped working so i checked IE and that worked but it keeps crashing randomly, so i tried Firefox and that doesnt work, neither does Opera or Safari, please help i hate using IE its crap.
+</Content>
+    <Date>2010-03-23 15:19:18</Date>
+    <Timestamp>1269382758</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323151918AAmJd3G</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xCJJbchKaa</UserId>
+    <UserNick>musician x</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Every file present in your registry contains a command or direction for every program and application on your computer. Registry files are the files that give your computer the instructions for what to do next. If these registry files get corrupt or misplaced, your computer fails to understand what to do. In these instances, your computer loses control, eventually leading to a crash.At this stage the priority is to fix these registry files. In such situations it is suggested that you do not try to fix the registry yourself. Immediately find registry cleaner software and scan your computer to locate any errors. This software will identify all the missing entries or errors, restoring them right away. In many cases, your computer will be back to normal. It is recommended that you run this software once a month for best results. I should like to commend Registry Easy http://cleanup-comuter-run-perfectly.com
+  to you !</ChosenAnswer>
+    <ChosenAnswererId>ChjKL8nlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Buyts</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269387667</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269553966</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Every file present in your registry contains a command or direction for every program and application on your computer. Registry files are the files that give your computer the instructions for what to do next. If these registry files get corrupt or misplaced, your computer fails to understand what to do. In these instances, your computer loses control, eventually leading to a crash.At this stage the priority is to fix these registry files. In such situations it is suggested that you do not try to fix the registry yourself. Immediately find registry cleaner software and scan your computer to locate any errors. This software will identify all the missing entries or errors, restoring them right away. In many cases, your computer will be back to normal. It is recommended that you run this software once a month for best results. I should like to commend Registry Easy http://cleanup-comuter-run-perfectly.com
+  to you !</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ChjKL8nlaa</UserId>
+            <UserNick>Buyts</UserNick>
+            <Date>2010-03-23 16:41:07</Date>
+            <Timestamp>1269387667</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I would suggest you to use Chrome. You can fix chrome crashes very easily. Use http://www.reginout.com/</Content>
+            <Reference>http://ezinearticles.com/?Chrome-Crash---Personal-Experience-to-Fix-Google-Chrome-Crash-in-Minutes&amp;id=3747251</Reference>
+            <Best></Best>
+            <UserId>fakBT9YXaa</UserId>
+            <UserNick>faust 7</UserNick>
+            <Date>2010-03-24 05:11:38</Date>
+            <Timestamp>1269432698</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:45 PDT 2010 -->

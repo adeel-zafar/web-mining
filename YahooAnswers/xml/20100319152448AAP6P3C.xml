@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319152448AAP6P3C" type="Answered">
+    <Subject>Chat Roulette not working?</Subject>
+    <Content>This is the first time I&#039;ve tried to use chat roulette and when it asks me if i want to allow webcams, on the left hand side of the page in a little box, i click allow and firefox shuts down. I&#039;ve also tried with IE and the same happens. Help anyone?
+</Content>
+    <Date>2010-03-19 15:24:48</Date>
+    <Timestamp>1269037488</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319152448AAP6P3C</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rpt1qww0aa</UserId>
+    <UserNick>Bob</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try the following:
+-different web-browsers
+-re-install flash player
+-disable antispyware, antiamalware, firewall temporarily</ChosenAnswer>
+    <ChosenAnswererId>OsgZmgqmaa</ChosenAnswererId>
+    <ChosenAnswererNick>Stream Recorder</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269252667</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269557094</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try the following:
+-different web-browsers
+-re-install flash player
+-disable antispyware, antiamalware, firewall temporarily</Content>
+            <Reference>http://stream-recorder.com/forum/chat-roulette-flash-problem-t6135.html</Reference>
+            <Best>5</Best>
+            <UserId>OsgZmgqmaa</UserId>
+            <UserNick>Stream Recorder</UserNick>
+            <Date>2010-03-22 03:11:07</Date>
+            <Timestamp>1269252667</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:43 PDT 2010 -->

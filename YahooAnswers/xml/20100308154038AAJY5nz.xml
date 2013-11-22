@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308154038AAJY5nz" type="Answered">
+    <Subject>Wireless computer router question?</Subject>
+    <Content>I&#039;m stealing my neighbors wireless internet connection, but it&#039;s not giving me enough signal to connect. I don&#039;t have my own internet and do not wish to puchase it. I was told I can buy a wireless router and get signal that way for my Wii and DS Lite. My question is i want to know if I need my own internet connection to use a wireless router? Will the router just pick up his signal and make the signal to me stronger? I need to know if it will work before I buy a router. thx
+</Content>
+    <Date>2010-03-08 15:40:38</Date>
+    <Timestamp>1268091638</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308154038AAJY5nz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ryqFTCpeaa</UserId>
+    <UserNick>Joshua M.</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1vMZsVy8kAAAC_OE1zbY-Cw==.medium.png</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The wireless router will not make your signal stronger because it won&#039;t pick up your neighbor&#039;s signal. The router comes with it&#039;s own IP address, but it needs to be connected to a modem (either DSL or cable) in order to work. Also, I have learned that with the DS lite, it&#039;s possible that your neighbor&#039;s wireless router needs the MAC address of your DS in order to gain any type of connection. But in order for you to get the best signal, you need to be closer to the router in your neighbor&#039;s house. Preferably within the same building. And if you live in an apartment building, then your neighbor&#039;s modem should be directly next door to you where there is only a wall separating the two of you, or right on top or below you.</ChosenAnswer>
+    <ChosenAnswererId>CVb4rn0laa</ChosenAnswererId>
+    <ChosenAnswererNick>Rubette73</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268092239</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268861584</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, you need internet service. No, the router won&#039;t make your neighbor&#039;s signal stronger.
+
+And you are committing a crime. It&#039;s called &quot;theft of services&quot;, and you can go to jail for it.
+
+Get you own service.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BhNP2P8Xaa</UserId>
+            <UserNick>joe.attaboy</UserNick>
+            <Date>2010-03-08 15:42:56</Date>
+            <Timestamp>1268091776</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go in their house and sit right next to the router, or go buy your own</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Igg1qTnTaa</UserId>
+            <UserNick>Synthetiic</UserNick>
+            <Date>2010-03-08 15:43:37</Date>
+            <Timestamp>1268091817</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes you need your own internet connection.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jtfotEdEaa</UserId>
+            <UserNick>James</UserNick>
+            <Date>2010-03-08 15:43:44</Date>
+            <Timestamp>1268091824</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nope! you can buy a router type thing to increase the signal that you are getting!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>63V1cvzxaa</UserId>
+            <UserNick>Matt</UserNick>
+            <Date>2010-03-08 15:44:44</Date>
+            <Timestamp>1268091884</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The wireless router will not make your signal stronger because it won&#039;t pick up your neighbor&#039;s signal. The router comes with it&#039;s own IP address, but it needs to be connected to a modem (either DSL or cable) in order to work. Also, I have learned that with the DS lite, it&#039;s possible that your neighbor&#039;s wireless router needs the MAC address of your DS in order to gain any type of connection. But in order for you to get the best signal, you need to be closer to the router in your neighbor&#039;s house. Preferably within the same building. And if you live in an apartment building, then your neighbor&#039;s modem should be directly next door to you where there is only a wall separating the two of you, or right on top or below you.</Content>
+            <Reference>Personal experience with routers and neighbors.</Reference>
+            <Best>5</Best>
+            <UserId>CVb4rn0laa</UserId>
+            <UserNick>Rubette73</UserNick>
+            <Date>2010-03-08 15:50:39</Date>
+            <Timestamp>1268092239</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:29:31 PDT 2010 -->

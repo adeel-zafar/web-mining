@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305053025AAi1jdd" type="Answered">
+    <Subject>hey, i cannot access the site documentingreality.com and i was wondering whether the site is down or if they a?</Subject>
+    <Content>hey, i cannot access the site documentingreality.com and i was wondering whether the site is down or if they are not allowing access in australia. Can someone in america check if they can get in or if it says error 502
+</Content>
+    <Date>2010-03-05 05:30:25</Date>
+    <Timestamp>1267795825</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305053025AAi1jdd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8XQcjLV6aa</UserId>
+    <UserNick>GiganticDick</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I know what your talking about i tried going on and it wont let me, some error thing pops up.This happened a few months back but they got the site back up hopefully it would be back in a week.But i heard it shutdown in Germany so maybe there shouting down everywhere because the site&#039;s content.</ChosenAnswer>
+    <ChosenAnswererId>TvS0jT7Naa</ChosenAnswererId>
+    <ChosenAnswererNick>Z-BOY</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267797970</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268133524</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I know what your talking about i tried going on and it wont let me, some error thing pops up.This happened a few months back but they got the site back up hopefully it would be back in a week.But i heard it shutdown in Germany so maybe there shouting down everywhere because the site&#039;s content.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>TvS0jT7Naa</UserId>
+            <UserNick>Z-BOY</UserNick>
+            <Date>2010-03-05 06:06:10</Date>
+            <Timestamp>1267797970</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ya here in india also same problem.....it says&quot;502 Bad Gateway&quot;,may be every country start blocking this site...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LjYUEUzoaa</UserId>
+            <UserNick>Rembert</UserNick>
+            <Date>2010-03-05 08:04:13</Date>
+            <Timestamp>1267805053</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:58:07 PDT 2010 -->

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325130447AABSndu" type="Answered">
+    <Subject>On Twitter, will people see my @replies?</Subject>
+    <Content>If I @reply someone, it doesn&#039;t show up if I go and search @thatperson to see all their @replies. Will they still see my reply anyways even though it doesn&#039;t show up on the timeline when I search it? It should still be under their @replies, right?
+okay, here&#039;s what i mean. for example, i sent a reply to Jeffrey Sparkman. So I sent @jeffreysparkman blahblahblahblah. I searched @jeffreysparkman to see all the people that replied to him, and it&#039;s only been a few in the past few hours, but my reply did not show up when i searched it. will he still see my reply to him?
+</Content>
+    <Date>2010-03-25 13:04:47</Date>
+    <Timestamp>1269547487</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325130447AABSndu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WGrDXAhcaa</UserId>
+    <UserNick>christzmyangel</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1kuhOfRaMAAEC-oFTqNsBnIlDMQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>an @reply can be seen by anyone who follows the person your @replying 
+
+or if anyone was to view your twitter feed.</ChosenAnswer>
+    <ChosenAnswererId>2fnavbnKaa</ChosenAnswererId>
+    <ChosenAnswererNick>whatanidname</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269547954</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269658899</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>When you reply to someone with an @, people can see it by viewing your page. It will not show in their feed. Other people will NOT see your replies to other people on THEIR pages, however.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hSAjfkqqaa</UserId>
+            <UserNick>Liznasty</UserNick>
+            <Date>2010-03-25 13:07:21</Date>
+            <Timestamp>1269547641</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>well if you put @(person) it will be in your twiiter cause you twittered it not them.</Content>
+            <Reference>i have a twitter to and i love it personly!!!!</Reference>
+            <Best></Best>
+            <UserId>hjMTYRODaa</UserId>
+            <UserNick>Maylinn</UserNick>
+            <Date>2010-03-25 13:10:53</Date>
+            <Timestamp>1269547853</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>an @reply can be seen by anyone who follows the person your @replying 
+
+or if anyone was to view your twitter feed.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>2fnavbnKaa</UserId>
+            <UserNick>whatanidname</UserNick>
+            <Date>2010-03-25 13:12:34</Date>
+            <Timestamp>1269547954</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:30:47 PDT 2010 -->

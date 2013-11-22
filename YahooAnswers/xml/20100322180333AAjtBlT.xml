@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322180333AAjtBlT" type="Answered">
+    <Subject>Can you use Chat Roulette without a webcam?</Subject>
+    <Content>If so, how?
+</Content>
+    <Date>2010-03-22 18:03:33</Date>
+    <Timestamp>1269306213</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322180333AAjtBlT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jc9k78gwaa</UserId>
+    <UserNick>Jacob</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Virtual webcam software allows to put a video or an image instead of your real web-cam. So you can use it without showing your real face.</ChosenAnswer>
+    <ChosenAnswererId>OsgZmgqmaa</ChosenAnswererId>
+    <ChosenAnswererNick>Stream Recorder</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269335038</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269850957</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, of course. When you get on Chat Roulette, and it asks you for permission to use your webcam and microphone you just deny it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kzuTGJbGaa</UserId>
+            <UserNick>ERSP</UserNick>
+            <Date>2010-03-22 18:04:53</Date>
+            <Timestamp>1269306293</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes you can chat without webcam and if it is asking for webcam mandatory they use virtual webcam</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Jq20wB1Vaa</UserId>
+            <UserNick>Henry</UserNick>
+            <Date>2010-03-22 18:07:16</Date>
+            <Timestamp>1269306436</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yhcyvBOHaa</UserId>
+            <UserNick>दुर्गाश्री शक्तिदिव्याDURGASHREE</UserNick>
+            <Date>2010-03-22 18:07:55</Date>
+            <Timestamp>1269306475</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Virtual webcam software allows to put a video or an image instead of your real web-cam. So you can use it without showing your real face.</Content>
+            <Reference>http://stream-recorder.com/forum/webcam-alternative-virtual-web-cam-do-webcamming-t964.html</Reference>
+            <Best>5</Best>
+            <UserId>OsgZmgqmaa</UserId>
+            <UserNick>Stream Recorder</UserNick>
+            <Date>2010-03-23 02:03:58</Date>
+            <Timestamp>1269335038</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:21:01 PDT 2010 -->

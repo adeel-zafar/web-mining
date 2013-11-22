@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313092028AAHCL73" type="Answered">
+    <Subject>Who do you recommend for VPS hosting?</Subject>
+    <Content>I have a shared web hosting account right now.  My host is complaining I am using too much CPU.  They want me to upgrade to their VPS but it costs several hundred per month.  I would like a reliable and affordable virtual private server solution, preferably some outfit with USA based support.
+</Content>
+    <Date>2010-03-13 09:20:28</Date>
+    <Timestamp>1268500828</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313092028AAHCL73</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0Se6fp8Daa</UserId>
+    <UserNick>Bridgette</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I had the same problem as you.  My webhost at the time wanted to squeeze me off of their server and upsell their VPS package.  You can actually find reliable and affordable virtual private server hosting for cheap.  When this happened to me a few years back, I used http://www.ApacheVPS.com and nver looked back.  24 x 7 USA support, USA based, only $12 per month.  Good luck!</ChosenAnswer>
+    <ChosenAnswererId>PhY6UmjLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rena</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268501171</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268589302</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I had the same problem as you.  My webhost at the time wanted to squeeze me off of their server and upsell their VPS package.  You can actually find reliable and affordable virtual private server hosting for cheap.  When this happened to me a few years back, I used http://www.ApacheVPS.com and nver looked back.  24 x 7 USA support, USA based, only $12 per month.  Good luck!</Content>
+            <Reference>http://www.ApacheVPS.com</Reference>
+            <Best>5</Best>
+            <UserId>PhY6UmjLaa</UserId>
+            <UserNick>Rena</UserNick>
+            <Date>2010-03-13 09:26:11</Date>
+            <Timestamp>1268501171</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Refer to:
+http://www.threehosts.com/tell-me-more/hg,html
+
+Hope this helps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YsXKcAgbaa</UserId>
+            <UserNick>David M</UserNick>
+            <Date>2010-03-13 09:26:59</Date>
+            <Timestamp>1268501219</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I recommend:
+http://www.slicehost.com
+http://www.linode.com
+
+They are great cheap VPS.
+Both have plans starting from $20/month.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wxk9vTfCaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-13 14:38:50</Date>
+            <Timestamp>1268519930</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:33 PDT 2010 -->

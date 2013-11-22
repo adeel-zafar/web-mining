@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315144456AAHA5gK" type="Answered">
+    <Subject>I&#039;m searching for random best...things. Is there such a site?</Subject>
+    <Content>Is there a site where people can post any knowledge they think is great to have. And other people can rate the posts on how great the knowledge is. 
+
+hmm, how to make this really clear..
+For example:
+I find a great way to learn how to play guitar, and want to share that technique. I can post it on that site and my technique will be rated.
+But also when I find a very useful piece of software, or a very beautiful picture, a great restaurant in hawaï, anything. 
+I guess I&#039;m basically looking for a site that rates the entire internet.
+</Content>
+    <Date>2010-03-15 14:44:56</Date>
+    <Timestamp>1268689496</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315144456AAHA5gK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WUyG7Uztaa</UserId>
+    <UserNick>hmm, peculiar</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think this is the site you are looking for. Registration is free, add the details of what you find interesting to begin.
+
+http://www.stumbleupon.com/su/4VA6Ti/www.tastespotting.com/
+
+Cheers</ChosenAnswer>
+    <ChosenAnswererId>AA11048518</ChosenAnswererId>
+    <ChosenAnswererNick>WyattEarp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268772571</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270070724</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think this is the site you are looking for. Registration is free, add the details of what you find interesting to begin.
+
+http://www.stumbleupon.com/su/4VA6Ti/www.tastespotting.com/
+
+Cheers</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11048518</UserId>
+            <UserNick>WyattEarp</UserNick>
+            <Date>2010-03-16 13:49:31</Date>
+            <Timestamp>1268772571</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:53:18 PDT 2010 -->

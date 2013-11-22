@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315200536AA5CgEf" type="Answered">
+    <Subject>Why is Acornrack not working?</Subject>
+    <Content>Acornrack is not working. I&#039;ve tried to get on the site multiple times and the site will not work. My friend had also tried to connect to the site with her computer and the same thing happened. Is there something wrong with Acornracks server? Did they shut down the site for good or is it just under-construction?
+</Content>
+    <Date>2010-03-15 20:05:36</Date>
+    <Timestamp>1268708736</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315200536AA5CgEf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nsyiyonjaa</UserId>
+    <UserNick>Jemrulz99</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Xav_e2bWAAEBQsFgfBNgp2f3MA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>People actually thought this had to do with the AR sale which happened last month but according to Olly (founder of the site) this has nothing to do with the sale, it&#039;s a hardware issue and he&#039;s trying to fix it.</ChosenAnswer>
+    <ChosenAnswererId>DXDzp6Fxaa</ChosenAnswererId>
+    <ChosenAnswererNick>Therese</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268740793</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268749550</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>AcornRack was sold. The time of selling and swapping over has, apparently, coincided with the maintenance.
+Soo... I HOPE it&#039;s just under construction with the new people.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fIYqwWxaaa</UserId>
+            <UserNick>Kimmy</UserNick>
+            <Date>2010-03-16 00:07:12</Date>
+            <Timestamp>1268723232</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>People actually thought this had to do with the AR sale which happened last month but according to Olly (founder of the site) this has nothing to do with the sale, it&#039;s a hardware issue and he&#039;s trying to fix it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DXDzp6Fxaa</UserId>
+            <UserNick>Therese</UserNick>
+            <Date>2010-03-16 04:59:53</Date>
+            <Timestamp>1268740793</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:38 PDT 2010 -->

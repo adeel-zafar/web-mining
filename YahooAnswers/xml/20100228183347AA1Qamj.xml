@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228183347AA1Qamj" type="Answered">
+    <Subject>What program is a quick free video editor for cutting a long video into a size for YouTube (9 minutes)?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-28 18:33:47</Date>
+    <Timestamp>1267410827</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228183347AA1Qamj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SiAljCevaa</UserId>
+    <UserNick>Rtrxygr</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>windows movie maker. should be installed on your comp unless you bought a mac...</ChosenAnswer>
+    <ChosenAnswererId>pchmL1AYaa</ChosenAnswererId>
+    <ChosenAnswererNick>lordbios</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267411299</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267930476</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>windows movie maker...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6VFHhLNkaa</UserId>
+            <UserNick>josh</UserNick>
+            <Date>2010-02-28 18:35:59</Date>
+            <Timestamp>1267410959</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>free video cutter:
+http://www.freevideocutter.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ckWahBY2aa</UserId>
+            <UserNick>m</UserNick>
+            <Date>2010-02-28 18:37:48</Date>
+            <Timestamp>1267411068</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ya Windows Movie Maker
+
+Downloads:
+
+Windows XP-  http://download.cnet.com/Windows-Movie-Maker-Windows-XP/3000-13631_4-10165075.html
+
+Windows Vista-  http://download.cnet.com/Windows-Movie-Maker-Windows-Vista/3000-13631_4-10729231.html
+
+Windows 7-  http://download.cnet.com/Windows-Live-Movie-Maker/3000-13631_4-10965753.html?tag=mncol
+
+Hope this helps!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aqti4tlmaa</UserId>
+            <UserNick>Da-Pwn3r3r</UserNick>
+            <Date>2010-02-28 18:41:36</Date>
+            <Timestamp>1267411296</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>windows movie maker. should be installed on your comp unless you bought a mac...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>pchmL1AYaa</UserId>
+            <UserNick>lordbios</UserNick>
+            <Date>2010-02-28 18:41:39</Date>
+            <Timestamp>1267411299</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:35:30 PDT 2010 -->

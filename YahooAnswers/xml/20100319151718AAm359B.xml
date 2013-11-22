@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319151718AAm359B" type="Answered">
+    <Subject>I have a question about eBay...?</Subject>
+    <Content>If the bidding is really low on an item, say... $1, and it looks as if that low price is going to win the auction, what is there to stop the seller removing the listing from eBay before he/she makes a loss?
+</Content>
+    <Date>2010-03-19 15:17:18</Date>
+    <Timestamp>1269037038</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319151718AAm359B</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lbwST1KEaa</UserId>
+    <UserNick>S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Some sellers use a &quot;reserve price&quot;, which must be met in order to seal the deal. If it isn&#039;t met, the seller can keep the item.
+http://pages.ebay.com/help/buy/reserve-price.html
+
+Otherwise, the seller can cancel the auction at any time, but incurs significant penalties if this is done in the 12 hours before the auction ends.
+http://pages.ebay.com/help/sell/questions/endlist-now.html</ChosenAnswer>
+    <ChosenAnswererId>bR3Wa5t5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Nahum</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269039983</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269375227</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Really nothing, you just should set the starting bid at a reasonable price that won&#039;t hurt your sale, so they HAVE to bid that or higher.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>s1dDakrCaa</UserId>
+            <UserNick>non-existant</UserNick>
+            <Date>2010-03-19 15:20:51</Date>
+            <Timestamp>1269037251</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>NOT THAT I KNOW I GOT A 3 DOLLAR IPOD NANO!!!! IT DID WORK!!!!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>x2r6RloKaa</UserId>
+            <UserNick>N1TR0</UserNick>
+            <Date>2010-03-19 15:21:10</Date>
+            <Timestamp>1269037270</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Some sellers use a &quot;reserve price&quot;, which must be met in order to seal the deal. If it isn&#039;t met, the seller can keep the item.
+http://pages.ebay.com/help/buy/reserve-price.html
+
+Otherwise, the seller can cancel the auction at any time, but incurs significant penalties if this is done in the 12 hours before the auction ends.
+http://pages.ebay.com/help/sell/questions/endlist-now.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bR3Wa5t5aa</UserId>
+            <UserNick>Nahum</UserNick>
+            <Date>2010-03-19 16:06:23</Date>
+            <Timestamp>1269039983</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:44 PDT 2010 -->

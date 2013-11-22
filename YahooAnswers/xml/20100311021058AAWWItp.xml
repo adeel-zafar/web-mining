@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311021058AAWWItp" type="Answered">
+    <Subject>What alternatives do you recommend to istockphoto.com?</Subject>
+    <Content>I&#039;m looking for a better value.
+</Content>
+    <Date>2010-03-11 02:10:58</Date>
+    <Timestamp>1268302258</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311021058AAWWItp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ysp0ayI1aa</UserId>
+    <UserNick>josh.rofl</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1EY5fZqxGAAEB_WF4xuGGDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Dreamstime.com is a good one.  Also Artbreak.com includes very good photography and other art work and you are able to work out the price with the photographer.</ChosenAnswer>
+    <ChosenAnswererId>BQgW3B0kaa</ChosenAnswererId>
+    <ChosenAnswererNick>monkeyali25</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268501743</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268817788</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>sxc.hu 
+
+this is a free stock photo website.  They don&#039;t have quite as many photos, but still a lot.  Plus they are all free.  just sign up for a free account.  You can&#039;t complain about that right?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZMYq07iwaa</UserId>
+            <UserNick>smikk</UserNick>
+            <Date>2010-03-11 02:13:47</Date>
+            <Timestamp>1268302427</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Dreamstime.com is a good one.  Also Artbreak.com includes very good photography and other art work and you are able to work out the price with the photographer.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BQgW3B0kaa</UserId>
+            <UserNick>monkeyali25</UserNick>
+            <Date>2010-03-13 09:35:43</Date>
+            <Timestamp>1268501743</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:14:20 PDT 2010 -->

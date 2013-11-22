@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322114847AAAcy1z" type="Answered">
+    <Subject>how do i delete browsing history on firefox?</Subject>
+    <Content>when i go to TOOLS the &quot;clear browsing history doesnt let me click it because its a gray color.
+Ctrl+shift+delete doesnt even work either.
+</Content>
+    <Date>2010-03-22 11:48:47</Date>
+    <Timestamp>1269283727</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322114847AAAcy1z</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>P7YxCxiMaa</UserId>
+    <UserNick>winnie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1adt6y901AAEC4GKcRJfJNBe_5moF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Goto : Tools-options-privacy-&quot;clean your recent history&quot;.
+done.</ChosenAnswer>
+    <ChosenAnswererId>Mi7RaSTqaa</ChosenAnswererId>
+    <ChosenAnswererNick>kris</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269283993</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269803275</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Goto : Tools-options-privacy-&quot;clean your recent history&quot;.
+done.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Mi7RaSTqaa</UserId>
+            <UserNick>kris</UserNick>
+            <Date>2010-03-22 11:53:13</Date>
+            <Timestamp>1269283993</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:56 PDT 2010 -->

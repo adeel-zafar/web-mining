@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301150136AAokqmD" type="Answered">
+    <Subject>Where can I host a file for free on the internet?</Subject>
+    <Content>So I need to make a 140 minutes mp3 recording file available for download on the internet. What is a good website for this?
+</Content>
+    <Date>2010-03-01 15:01:36</Date>
+    <Timestamp>1267484496</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301150136AAokqmD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>be9323d81cca0ae11fe21ba5181cf61faa</UserId>
+    <UserNick>ovi.schi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hello, i tried for free web hosting site ,but there is no chance ,if it is any ,that also makes problem .so for that i found a very cheap rate hosting service provider in this http://www.thewebpole.com/ site ,here i got my domain at just $1.99 per year.</ChosenAnswer>
+    <ChosenAnswererId>QGL1P1Sjaa</ChosenAnswererId>
+    <ChosenAnswererNick>guru</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267614244</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267617141</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://fastfreefilehosting.com/ is a file hosting service for files &lt; 50MB in size</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Ve8zzRjAaa</UserId>
+            <UserNick>Paul</UserNick>
+            <Date>2010-03-02 15:49:31</Date>
+            <Timestamp>1267573771</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>maybe you can find it here
+
+http://freehostingcompany.blogspot.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gSid4BL4aa</UserId>
+            <UserNick>ucilelek</UserNick>
+            <Date>2010-03-02 19:32:45</Date>
+            <Timestamp>1267587165</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hello, i tried for free web hosting site ,but there is no chance ,if it is any ,that also makes problem .so for that i found a very cheap rate hosting service provider in this http://www.thewebpole.com/ site ,here i got my domain at just $1.99 per year.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>QGL1P1Sjaa</UserId>
+            <UserNick>guru</UserNick>
+            <Date>2010-03-03 03:04:04</Date>
+            <Timestamp>1267614244</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:30:21 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226090248AALWkmk" type="Answered">
+    <Subject>how do I find my browing history on IE 8?</Subject>
+    <Content>Internet explorer used to have a link to browing history of sites I had visited. I can seem to find that link on the internet explorer 8  version
+</Content>
+    <Date>2010-02-26 09:02:48</Date>
+    <Timestamp>1267203768</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226090248AALWkmk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LDgrDXoOaa</UserId>
+    <UserNick>jeandbean</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>See if the Favorites bar (with a yellow starred icon) appears to the left on the top menu bar. If not, right click on it and check &#039;Favorites&#039; in the options list. Now Favorites should appear. Click Favorites and you can find the History tab containing all your browsing history. Easy, isn&#039;t it?</ChosenAnswer>
+    <ChosenAnswererId>1fe8c3417d30dbd3369f80a864da7f67aa</ChosenAnswererId>
+    <ChosenAnswererNick>sidentity</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267204364</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267241710</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ctrl + Shift + H
+
+or Click the &quot;Gear&quot;/&quot;Cogwheel&quot; icon and select Explorer Bars -&gt; History</Content>
+            <Reference>tried it out on browser</Reference>
+            <Best></Best>
+            <UserId>jH01A2qVaa</UserId>
+            <UserNick>mohaps</UserNick>
+            <Date>2010-02-26 09:05:08</Date>
+            <Timestamp>1267203908</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>See if the Favorites bar (with a yellow starred icon) appears to the left on the top menu bar. If not, right click on it and check &#039;Favorites&#039; in the options list. Now Favorites should appear. Click Favorites and you can find the History tab containing all your browsing history. Easy, isn&#039;t it?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>1fe8c3417d30dbd3369f80a864da7f67aa</UserId>
+            <UserNick>sidentity</UserNick>
+            <Date>2010-02-26 09:12:44</Date>
+            <Timestamp>1267204364</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:51:28 PDT 2010 -->

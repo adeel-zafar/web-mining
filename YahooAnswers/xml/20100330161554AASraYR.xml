@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330161554AASraYR" type="Answered">
+    <Subject>I am looking at red xbox 360 controllers on eBay and it says condition: As-is, what does that mean?</Subject>
+    <Content>What does the as-is mean?
+</Content>
+    <Date>2010-03-30 16:15:54</Date>
+    <Timestamp>1269990954</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330161554AASraYR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wzDMhFRLaa</UserId>
+    <UserNick>BoomDroppinYa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1JS52n5diAAEC2cQ5PUnwCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It means what you see is what you get. Look at the description. Gently used? Used once? Not working?</ChosenAnswer>
+    <ChosenAnswererId>LBrjSDiWaa</ChosenAnswererId>
+    <ChosenAnswererNick>Steve B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269991267</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270091508</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It means what you see is what you get. Look at the description. Gently used? Used once? Not working?</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>LBrjSDiWaa</UserId>
+            <UserNick>Steve B</UserNick>
+            <Date>2010-03-30 16:21:07</Date>
+            <Timestamp>1269991267</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:46 PDT 2010 -->

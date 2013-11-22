@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301114805AAyifh5" type="Answered">
+    <Subject>How much do you pay for your high speed dsl internet service?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-01 11:48:05</Date>
+    <Timestamp>1267472885</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301114805AAyifh5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zwaXYoRbaa</UserId>
+    <UserNick>antonio andolini</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Meid4MJ7AAEDQWEo8Ah0Bg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>About $45 for the fastest that Earthlink offers.</ChosenAnswer>
+    <ChosenAnswererId>P9YRajn9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Allison</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267472956</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267540557</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>About $45 for the fastest that Earthlink offers.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>P9YRajn9aa</UserId>
+            <UserNick>Allison</UserNick>
+            <Date>2010-03-01 11:49:16</Date>
+            <Timestamp>1267472956</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I don&#039;t pay for my high speed DSL Internet service, my parents do.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vNVA4TOFaa</UserId>
+            <UserNick>Wrong Category Police!(aka Bree)</UserNick>
+            <Date>2010-03-01 12:00:37</Date>
+            <Timestamp>1267473637</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:31:46 PDT 2010 -->

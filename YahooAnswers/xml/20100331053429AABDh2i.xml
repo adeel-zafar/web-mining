@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331053429AABDh2i" type="Answered">
+    <Subject>How to know my internet connection&#039;s username and password?</Subject>
+    <Content>I have Tata photon+ internet connection but they did not gave me information about username and password. when I plug my wireless modem,automatically stats Huawei Access Manager and show me if i want to connect. It do not ask my username and password. Please advise me
+</Content>
+    <Date>2010-03-31 05:34:29</Date>
+    <Timestamp>1270038869</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331053429AABDh2i</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xWUIfS0Yaa</UserId>
+    <UserNick>Sunny V</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You Modem is all you need. Whoever owns the modem owns the connection. You do not need any username or password. 
+
+Username and password are needed in connections which can be accessed from more than one location or device.
+
+As far as I know mobile internet connections do not need username and password. But you should call the customer support to confirm that.</ChosenAnswer>
+    <ChosenAnswererId>NoXKluIcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Working_Hard</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270039097</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270100759</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You Modem is all you need. Whoever owns the modem owns the connection. You do not need any username or password. 
+
+Username and password are needed in connections which can be accessed from more than one location or device.
+
+As far as I know mobile internet connections do not need username and password. But you should call the customer support to confirm that.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NoXKluIcaa</UserId>
+            <UserNick>Working_Hard</UserNick>
+            <Date>2010-03-31 05:38:17</Date>
+            <Timestamp>1270039097</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your using a mac, go to keychain access and then passwords, find the name, double click on it, type in administrative pw and then click show password!  and there you have it, password and name. but for PC&#039;s idk..sorry</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yItYQ4tDaa</UserId>
+            <UserNick>Bean Frando</UserNick>
+            <Date>2010-03-31 05:39:41</Date>
+            <Timestamp>1270039181</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:01 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312154916AAHOZZv" type="Answered">
+    <Subject>Internet in rural areas?</Subject>
+    <Content>So i live in the country and i am on satellite internet but it is not fast enough for gaming or anything, so i was wondering do you think the rogers rocket stick would provide me with fast enough internet to play online games and how much would it cost? i have decent cell phone coverage if that helps any
+</Content>
+    <Date>2010-03-12 15:49:16</Date>
+    <Timestamp>1268437756</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312154916AAHOZZv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3K1IKQ2gaa</UserId>
+    <UserNick>Invert12</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You could look into 3G usb mobile card,that has the coverage of a cell phone,there are pre-paid and contract,so check with your isp and get the best deal,using your phone as a modem can be costly if you went that way,I hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>xB584j59aa</ChosenAnswererId>
+    <ChosenAnswererNick>galaxydreamer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268439659</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269382348</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you can get a 3G cell phone, and patch it into your computer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xkZ9ZX3Caa</UserId>
+            <UserNick>trailerman_66</UserNick>
+            <Date>2010-03-12 15:56:56</Date>
+            <Timestamp>1268438216</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You could look into 3G usb mobile card,that has the coverage of a cell phone,there are pre-paid and contract,so check with your isp and get the best deal,using your phone as a modem can be costly if you went that way,I hope that helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xB584j59aa</UserId>
+            <UserNick>galaxydreamer</UserNick>
+            <Date>2010-03-12 16:20:59</Date>
+            <Timestamp>1268439659</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:46 PDT 2010 -->

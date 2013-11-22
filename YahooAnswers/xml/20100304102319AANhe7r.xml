@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304102319AANhe7r" type="Answered">
+    <Subject>does any body know what cleanmypc.com is worth using or is it a piece of crap?</Subject>
+    <Content>please no stupied answers
+</Content>
+    <Date>2010-03-04 10:23:19</Date>
+    <Timestamp>1267726999</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304102319AANhe7r</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cM4bA10Uaa</UserId>
+    <UserNick>andy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>You can do the same thing yourself for free!</ChosenAnswer>
+    <ChosenAnswererId>kxsvjGmTaa</ChosenAnswererId>
+    <ChosenAnswererNick>John C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267727086</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268015135</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can do the same thing yourself for free!</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-04 10:24:46</Date>
+            <Timestamp>1267727086</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>ex0u9Piiaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-24 10:53:09</Date>
+            <Timestamp>1267727086</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:10:49 PDT 2010 -->

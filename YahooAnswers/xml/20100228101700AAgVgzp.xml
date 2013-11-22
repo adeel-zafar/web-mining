@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228101700AAgVgzp" type="Answered">
+    <Subject>My firefox got stuck please help quickly!!!!?</Subject>
+    <Content>I was on youtube and clicked on a new video when it just stopped and it started loading with that circle thingy and I don&#039;t know what to do. I can&#039;t turn off the computer because we hve stuff that needs to be saved in other windows up. How do I get the page to go away? PLEASE HELP BEFORE MY DAD GETS HOME
+</Content>
+    <Date>2010-02-28 10:17:00</Date>
+    <Timestamp>1267381020</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228101700AAgVgzp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oUzL2QlVaa</UserId>
+    <UserNick>Essie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/14SOSDriEAAIEn6KbpBaTNBcB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hmmm.  Were you looking at something that you shouldn&#039;t have been?  Maybe take this as a lesson learned?
+
+Anyway, you didn&#039;t say if this was a Mac or a Windows machine.  Here&#039;s what I&#039;d do for each (sorry, I don&#039;t know Vista or Windows 7):
+
+WindowsXP:
+Hit control-alt-delete to bring up the Windows Task Manager.  
+Click on the &quot;Applications&quot; button.
+Highlight Firefox
+Hit the &quot;End Task&quot; button
+
+Mac:
+Click on the Firefox icon
+Hit apple-Q to force-quit FF
+
+If none of that works and your computer isn&#039;t completely hung, another option is to go save the other stuff and simply reboot the machine.</ChosenAnswer>
+    <ChosenAnswererId>AA10000757</ChosenAnswererId>
+    <ChosenAnswererNick>Dave R</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267381334</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267490250</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You obviously unfroze it in order to be able to post this</Content>
+            <Reference>problem solved top answer me now plox</Reference>
+            <Best></Best>
+            <UserId>aSRgCXH8aa</UserId>
+            <UserNick>imawsoem</UserNick>
+            <Date>2010-02-28 10:21:57</Date>
+            <Timestamp>1267381317</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hmmm.  Were you looking at something that you shouldn&#039;t have been?  Maybe take this as a lesson learned?
+
+Anyway, you didn&#039;t say if this was a Mac or a Windows machine.  Here&#039;s what I&#039;d do for each (sorry, I don&#039;t know Vista or Windows 7):
+
+WindowsXP:
+Hit control-alt-delete to bring up the Windows Task Manager.  
+Click on the &quot;Applications&quot; button.
+Highlight Firefox
+Hit the &quot;End Task&quot; button
+
+Mac:
+Click on the Firefox icon
+Hit apple-Q to force-quit FF
+
+If none of that works and your computer isn&#039;t completely hung, another option is to go save the other stuff and simply reboot the machine.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>AA10000757</UserId>
+            <UserNick>Dave R</UserNick>
+            <Date>2010-02-28 10:22:14</Date>
+            <Timestamp>1267381334</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:52 PDT 2010 -->

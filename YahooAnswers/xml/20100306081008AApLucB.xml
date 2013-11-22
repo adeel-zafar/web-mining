@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306081008AApLucB" type="Answered">
+    <Subject>How do I ask somebody a question or make a comment on somebody&#039;s twitter page?</Subject>
+    <Content>1. What does &quot;RT&quot; mean before somebody&#039;s comment
+2. What does &quot;@name&quot; mean in a comment and how come sometimes it says &quot;@name&quot; in the middle of the comment and sometimes at the begining
+3. How do I tell which comments are from the person whose page I&#039;m on and which ones are another person&#039;s comment
+4.  How do I respond to a specific comment in the list?
+</Content>
+    <Date>2010-03-06 08:10:08</Date>
+    <Timestamp>1267891808</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306081008AApLucB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10816466</UserId>
+    <UserNick>V for Vendetta</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1P-7CiwxPAAEC5cQmxmHIDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1. RT means to &#039;re-tweet&#039; somebody&#039;s comment, so all of your friends can see it too.
+2. @&#039;name&#039; is just tagging somebody in a comment and if @&#039;name&#039; is at the start it means that the comment was directed towards that one person.
+3.if your on your friends profile, only there comments [tweets] will be on there page. 
+4. if you want to respond to something that someone has said move your mouse over there comment and in the bottom right hand corner theirs a small &#039;reply&#039; button click on it and just start typing what you want to say then  press update.
+i hope i helped  =D</ChosenAnswer>
+    <ChosenAnswererId>PLXsQYiwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Courtney Bieber</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267924332</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268450650</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>1. RT means to &#039;re-tweet&#039; somebody&#039;s comment, so all of your friends can see it too.
+2. @&#039;name&#039; is just tagging somebody in a comment and if @&#039;name&#039; is at the start it means that the comment was directed towards that one person.
+3.if your on your friends profile, only there comments [tweets] will be on there page. 
+4. if you want to respond to something that someone has said move your mouse over there comment and in the bottom right hand corner theirs a small &#039;reply&#039; button click on it and just start typing what you want to say then  press update.
+i hope i helped  =D</Content>
+            <Reference>www.twitter.com</Reference>
+            <Best>5</Best>
+            <UserId>PLXsQYiwaa</UserId>
+            <UserNick>Courtney Bieber</UserNick>
+            <Date>2010-03-06 17:12:12</Date>
+            <Timestamp>1267924332</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:49:15 PDT 2010 -->

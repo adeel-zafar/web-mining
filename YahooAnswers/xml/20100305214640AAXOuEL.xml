@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305214640AAXOuEL" type="Answered">
+    <Subject>What happened to Icefilms.info?</Subject>
+    <Content>www.icefilms.info isn&#039;t working any more and I can&#039;t get it to! Does anyone know what happened or how to make it work again? Thanks!
+</Content>
+    <Date>2010-03-05 21:46:40</Date>
+    <Timestamp>1267854400</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305214640AAXOuEL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Fnyxr6Iqaa</UserId>
+    <UserNick>?</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1bjHEKi5MAAEDPiGcRJeviUEB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>they&#039;re moving to http://www.icefilmstube.com. Apparently the switch is still in process.</ChosenAnswer>
+    <ChosenAnswererId>KFgdNFn1aa</ChosenAnswererId>
+    <ChosenAnswererNick>42</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267932123</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268013438</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>they&#039;re moving to http://www.icefilmstube.com. Apparently the switch is still in process.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>KFgdNFn1aa</UserId>
+            <UserNick>42</UserNick>
+            <Date>2010-03-06 19:22:03</Date>
+            <Timestamp>1267932123</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yeah its icefilmstube.com but you have to fill out a survey to axcess it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TRxQWRceaa</UserId>
+            <UserNick>MorganMassacre</UserNick>
+            <Date>2010-03-07 02:57:22</Date>
+            <Timestamp>1267959442</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:52:18 PDT 2010 -->

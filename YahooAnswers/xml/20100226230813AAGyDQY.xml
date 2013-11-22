@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226230813AAGyDQY" type="Answered">
+    <Subject>is there a way for me to view my daughter&#039;s pictures?</Subject>
+    <Content>I am getting suspicious of my daughter and want to know if there is a way that i can view the pictures she has sent and received via text messaging. i have at&amp;t.. please help!
+</Content>
+    <Date>2010-02-26 23:08:13</Date>
+    <Timestamp>1267254493</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226230813AAGyDQY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>r6BGj6uCaa</UserId>
+    <UserNick>Briana</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you pay for the account call at&amp;t they can give you any info you request.</ChosenAnswer>
+    <ChosenAnswererId>2HwThay2aa</ChosenAnswererId>
+    <ChosenAnswererNick>ryan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267255090</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267773810</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Call and ask the at&amp;t store.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>beTBfCkTaa</UserId>
+            <UserNick>Britt</UserNick>
+            <Date>2010-02-26 23:11:23</Date>
+            <Timestamp>1267254683</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you pay for the account call at&amp;t they can give you any info you request.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2HwThay2aa</UserId>
+            <UserNick>ryan</UserNick>
+            <Date>2010-02-26 23:18:10</Date>
+            <Timestamp>1267255090</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:46:54 PDT 2010 -->

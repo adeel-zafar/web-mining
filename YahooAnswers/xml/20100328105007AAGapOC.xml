@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328105007AAGapOC" type="Answered">
+    <Subject>Does anyone know why toonsurfer.50webs.com isn&#039;t working?</Subject>
+    <Content>Does anyone know why toonsurfer.50webs.com isn&#039;t working?
+I&#039;m trying to watch Danny Phantom, and that is the only site I can find it on, and now the site isn&#039;t working.
+</Content>
+    <Date>2010-03-28 10:50:07</Date>
+    <Timestamp>1269798607</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328105007AAGapOC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>aIpxlqJGaa</UserId>
+    <UserNick>Aspen</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/13TfjlMtSAAEC-EFybtA9DA==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I do. 50webs is doing some updates to its servers so many of the 50webs sites are unavailable or somehow disabled for the moment. The 50webs sites will be back in time and toonsurfer.50webs.com will be available again. IN the mean time, though, this is the &quot;temporary site.&quot; http://toonsurfer.megabyet.net/</ChosenAnswer>
+    <ChosenAnswererId>Dsfqida3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Troy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269974349</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270011218</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it says the host isn&#039;t active yet. probably means that they havent renewed their contract to publish the site or something.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>09D7pGmiaa</UserId>
+            <UserNick>Rick</UserNick>
+            <Date>2010-03-28 10:56:14</Date>
+            <Timestamp>1269798974</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I do. 50webs is doing some updates to its servers so many of the 50webs sites are unavailable or somehow disabled for the moment. The 50webs sites will be back in time and toonsurfer.50webs.com will be available again. IN the mean time, though, this is the &quot;temporary site.&quot; http://toonsurfer.megabyet.net/</Content>
+            <Reference>I am Toonsurfer</Reference>
+            <Best>5</Best>
+            <UserId>Dsfqida3aa</UserId>
+            <UserNick>Troy</UserNick>
+            <Date>2010-03-30 11:39:09</Date>
+            <Timestamp>1269974349</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:19:10 PDT 2010 -->

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325154204AAQUQan" type="Answered">
+    <Subject>Twitter question help please?</Subject>
+    <Content>Hey guys, here&#039;s the situation. This post says:
+
+@AlterBridgeFans hey guys! i havent heard what you all will do for an AB blu ray/dvd. use #wwyd4AB the winners get picked tomorrow!
+
+I understand everything apart from &quot;use #wwyd4AB&quot;
+
+I don&#039;t really understand what is meant by &quot;use it&quot;. It is highlighted in the post and when I click it, it brings me to a page with everyone&#039;s responses, but when I type in the box to try and respond, and post, it just comes up with a status update and doesn&#039;t put my response in the list. Any help?
+</Content>
+    <Date>2010-03-25 15:42:04</Date>
+    <Timestamp>1269556924</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325154204AAQUQan</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3bvVizC1aa</UserId>
+    <UserNick>Macca</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1q6McCgwuAAEB_oEfIUMaCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Tell him the craziest thing that you would do for a bluray/dvd player. Try to use that code at the end of your tweet so he knows you are doing it for the contest. Give it a shot! :)</ChosenAnswer>
+    <ChosenAnswererId>OXdsPBvLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Steve</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269557131</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269797498</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Tell him the craziest thing that you would do for a bluray/dvd player. Try to use that code at the end of your tweet so he knows you are doing it for the contest. Give it a shot! :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OXdsPBvLaa</UserId>
+            <UserNick>Steve</UserNick>
+            <Date>2010-03-25 15:45:31</Date>
+            <Timestamp>1269557131</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:30:19 PDT 2010 -->

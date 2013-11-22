@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326214942AAcwGiN" type="Answered">
+    <Subject>How to create buttons in HTML code?</Subject>
+    <Content>I have a blog, but it doesnt have enough buttons in the layout. Its missing a home button and the next and last blog buttons. You know to go to the persons blog before you or after you? The home for your profile log in thingy place lol
+Does anyone know how to edit HTML code to add buttons for this?
+How do I know where to place it within the code, to correspond to the place I want it on the page?
+Also, how does it know I want it to take me Home? Do I have to upload text for that too?
+</Content>
+    <Date>2010-03-26 21:49:42</Date>
+    <Timestamp>1269665382</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326214942AAcwGiN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vriIX8kyaa</UserId>
+    <UserNick>~I &lt;3 Music Boxes~</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bbaae3cie31zws141mud/Vg5bPwA8brWjF43S35lkimx1yg--/6/tn48.jpeg?ciAAToMBunzGv8SY</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well you are NOT creating buttons in HTML. You can draw them in PAINT and then use html to load them into your page. Here&#039;s how.
+
+Let&#039;s say we made a HOME button. and we named it HOMEBUTTON.JPG or BMP, the way we would use this image as a button is like this.
+
+&lt;a href=&quot;http://yourlinkhere&quot;&gt;&lt;img src=&quot;homebutton.jpg&quot;&gt;&lt;/a&gt;
+The first part (A HREF tag) sets the link. Then anything in between the &lt;a href and &lt;/a&gt; tag will be a clickable link. The IMG tag tells the computer to load your minage as a clickable link instead of using text.</ChosenAnswer>
+    <ChosenAnswererId>71Lq1qpkaa</ChosenAnswererId>
+    <ChosenAnswererNick>ComStar Computers</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269666881</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269745093</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well you are NOT creating buttons in HTML. You can draw them in PAINT and then use html to load them into your page. Here&#039;s how.
+
+Let&#039;s say we made a HOME button. and we named it HOMEBUTTON.JPG or BMP, the way we would use this image as a button is like this.
+
+&lt;a href=&quot;http://yourlinkhere&quot;&gt;&lt;img src=&quot;homebutton.jpg&quot;&gt;&lt;/a&gt;
+The first part (A HREF tag) sets the link. Then anything in between the &lt;a href and &lt;/a&gt; tag will be a clickable link. The IMG tag tells the computer to load your minage as a clickable link instead of using text.</Content>
+            <Reference>FOLLOW UP: In my example, where I have the &lt;A HREF tag, that target of HOME should be entered in the form of a URL.
+
+Next, it&#039;s kinda hard to know exactly where to place the button. If you send me a copy of your html document, I can try to figure out where to place it. It&#039;s more of an art than science at that point.</Reference>
+            <Best>5</Best>
+            <UserId>71Lq1qpkaa</UserId>
+            <UserNick>ComStar Computers</UserNick>
+            <Date>2010-03-26 22:14:41</Date>
+            <Timestamp>1269666881</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>r u my mommy
+yea i said it again, WUT UP</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LvDVhSBOaa</UserId>
+            <UserNick>Steve</UserNick>
+            <Date>2010-03-27 14:55:52</Date>
+            <Timestamp>1269726952</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:24:33 PDT 2010 -->

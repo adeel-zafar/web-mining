@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325050755AA0NZlk" type="Answered">
+    <Subject>How to get share button to work on a weebly blog?</Subject>
+    <Content>Just can&#039;t get any kind of share button to work on at the bottom of each post on a weebly blog. Am I missing something really easy?
+</Content>
+    <Date>2010-03-25 05:07:55</Date>
+    <Timestamp>1269518875</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325050755AA0NZlk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>s1SVTtWbaa</UserId>
+    <UserNick>The Cranky Hominid</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4baae089i141czws121sp2/QkfakrAlc6Pl2Gtk9xNAg2isNyKc3EvY/1/tn48.jpeg?ciAAToMBVegyKDtd</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go to www.addthis.com</ChosenAnswer>
+    <ChosenAnswererId>uDufEQvdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Andy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269521174</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270038205</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go to www.addthis.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>uDufEQvdaa</UserId>
+            <UserNick>Andy</UserNick>
+            <Date>2010-03-25 05:46:14</Date>
+            <Timestamp>1269521174</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:31:28 PDT 2010 -->

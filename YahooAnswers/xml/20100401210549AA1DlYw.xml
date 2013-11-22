@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401210549AA1DlYw" type="Answered">
+    <Subject>Is it illegal to use other peoples routers to connect to the internet for free?</Subject>
+    <Content>I have 2 of my own connection but when looking for my router i saw tons of other peoples routers. Is it illegal to connect to someones unprotected router? I heard it&#039;s legal if they&#039;re not protected. Also can someone fiddle with my routers settings if they tap off of it. I&#039;m thinking about securing it i just hate the password thing.
+</Content>
+    <Date>2010-04-01 21:05:49</Date>
+    <Timestamp>1270181149</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401210549AA1DlYw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nMub6JJEaa</UserId>
+    <UserNick>Hot zombies</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1LiWI_VVEAAEC_kF02L7jBw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Get your router secured right away.  You have to remember that whatever you&#039;re considering for your neighbor&#039;s unsecured network, they are probably considering about you.  Also, it takes away one problem for anyone who is trying to mess with your settings.  You shouldn&#039;t have to worry about the password; for most devices, you only have to tell it the password once.  Another thing: don&#039;t use WEP encryption.  It only takes about 5 minutes for somebody to crack it (with free online tools, too).  Use WPA or WPA2.</ChosenAnswer>
+    <ChosenAnswererId>4f7qltl8aa</ChosenAnswererId>
+    <ChosenAnswererNick>answerer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270182394</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270253107</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes it is, it is called theft of service!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-04-01 21:07:45</Date>
+            <Timestamp>1270181265</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, plus I heard you need a password and you need to know people settings to do this.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>96OURQVqaa</UserId>
+            <UserNick>nene</UserNick>
+            <Date>2010-04-01 21:11:17</Date>
+            <Timestamp>1270181477</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, but hardly anyones gonna go after you for it. Its like downloading music on limewire. It free, illegal, but who gives a shit.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7xEu2Ceyaa</UserId>
+            <UserNick>Flex</UserNick>
+            <Date>2010-04-01 21:11:25</Date>
+            <Timestamp>1270181485</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, it is actually. They are in effect stealing your internet if they connect to yours.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DY8YYluqaa</UserId>
+            <UserNick>Williams</UserNick>
+            <Date>2010-04-01 21:14:20</Date>
+            <Timestamp>1270181660</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Get your router secured right away.  You have to remember that whatever you&#039;re considering for your neighbor&#039;s unsecured network, they are probably considering about you.  Also, it takes away one problem for anyone who is trying to mess with your settings.  You shouldn&#039;t have to worry about the password; for most devices, you only have to tell it the password once.  Another thing: don&#039;t use WEP encryption.  It only takes about 5 minutes for somebody to crack it (with free online tools, too).  Use WPA or WPA2.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>4f7qltl8aa</UserId>
+            <UserNick>answerer</UserNick>
+            <Date>2010-04-01 21:26:34</Date>
+            <Timestamp>1270182394</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:52 PDT 2010 -->

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325215414AAh7rW3" type="Answered">
+    <Subject>My Internet Does Not Work, plz help?</Subject>
+    <Content>I have Vista and a Linksys Router.I was on Youtube with Chrome and it stopped working. I check with Internet Explorer but it didnt work either. But the strange thing is my IPod touch internet work fine. plz help Im not good with computer.
+</Content>
+    <Date>2010-03-25 21:54:14</Date>
+    <Timestamp>1269579254</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325215414AAh7rW3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RddKppmVaa</UserId>
+    <UserNick>Khang Vu</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1SPcf34wMAAED_OGBhBA=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I had a problem where Internet explorer wasn&#039;t working or when it did it would look for the home page but got so far and stuck.
+
+To fix my internet explorer I
+
+Click on Start button
+Go to All Programs
+Go to Accessories
+I double Clicked on Command Prompt
+
+This will bring up a Black window
+
+Type netsh 
+press enter
+type winsock reset catalog
+press enter
+
+I rebooted my computer and my frends internet explorer now works.
+
+Hope this works</ChosenAnswer>
+    <ChosenAnswererId>b7xWMiYLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sean</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269630711</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270100669</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>may be something wrong with your internet connection. 
+try another browser</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>C0daJzN8aa</UserId>
+            <UserNick>sicksycle</UserNick>
+            <Date>2010-03-25 22:27:56</Date>
+            <Timestamp>1269581276</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I had a problem where Internet explorer wasn&#039;t working or when it did it would look for the home page but got so far and stuck.
+
+To fix my internet explorer I
+
+Click on Start button
+Go to All Programs
+Go to Accessories
+I double Clicked on Command Prompt
+
+This will bring up a Black window
+
+Type netsh 
+press enter
+type winsock reset catalog
+press enter
+
+I rebooted my computer and my frends internet explorer now works.
+
+Hope this works</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>b7xWMiYLaa</UserId>
+            <UserNick>Sean</UserNick>
+            <Date>2010-03-26 12:11:51</Date>
+            <Timestamp>1269630711</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:41 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228203507AAmWhz4" type="Answered">
+    <Subject>How do you use videos or pictures for chat roulette?</Subject>
+    <Content>I have a funny idea for the site but don&#039;t know how to upload pics or videos.
+</Content>
+    <Date>2010-02-28 20:35:07</Date>
+    <Timestamp>1267418107</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228203507AAmWhz4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11926414</UserId>
+    <UserNick>dspawadjie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1x2v3PB9gAAQErwJdBBd1emAB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The web-site doesn&#039;t allow to upload anything! You can use virtual web-cam software to show videos and pics instead of your web-cam.</ChosenAnswer>
+    <ChosenAnswererId>OsgZmgqmaa</ChosenAnswererId>
+    <ChosenAnswererNick>Stream Recorder</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267515073</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267937642</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The web-site doesn&#039;t allow to upload anything! You can use virtual web-cam software to show videos and pics instead of your web-cam.</Content>
+            <Reference>http://stream-recorder.com/forum/webcam-alternative-virtual-web-cam-do-webcamming-t964.html</Reference>
+            <Best>5</Best>
+            <UserId>OsgZmgqmaa</UserId>
+            <UserNick>Stream Recorder</UserNick>
+            <Date>2010-03-01 23:31:13</Date>
+            <Timestamp>1267515073</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:34:36 PDT 2010 -->

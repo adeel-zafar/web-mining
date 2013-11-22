@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303173257AArG1OH" type="Answered">
+    <Subject>Slooooooooowwwwwww internet :(?</Subject>
+    <Content>OK usually the internet is very high speed and you can stream videos on it no problem.
+Four days ago it slowed right down, then two days ago it died completely.  It was recommended that I get a new modem, so I did and the internet works again but only at about 70% capacity.
+
+I can&#039;t stream videos online at all, even short youtube vids.
+
+The ISP says they&#039;re not having any problems in this area.
+
+Any help with how to fix this?
+</Content>
+    <Date>2010-03-03 17:32:57</Date>
+    <Timestamp>1267666377</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303173257AArG1OH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FoNh0utlaa</UserId>
+    <UserNick>Simon</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1wtxwKAMeAAEB3YSDfnA=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Even if there&#039;s no problem on the ISP&#039;s end, there could still be a problem in how your internet signal is coming in. You should ask them to send someone to check out your connection.
+
+Other possibilities are:
+
+1. Someone who is permitted to access your internet connection might just be using up way too much of your bandwidth.
+
+2. If you are using a wireless card, there might be something that&#039;s blocking or interfering your wireless signal.
+
+3. It&#039;s possible a computer accessing your net connection is compromised and it&#039;s using some of your internet connection for some hackers purposes. Running an Antivirus scan like AVG should tell you if this is the case. http://free.avg.com/us-en/homepage
+
+4. If your wireless connection is unprotected, or using WEP security/encryption someone can use your internet connection without your permission. In this case changing your wireless security to WPA or WPA2, or just disabling it should do the trick.
+
+5. The hardware you use to access the internet (could be either the LAN card, or your wireless card) is damaged.
+
+And of course it&#039;s possible it&#039;s some or all of the above (but not all that likely).</ChosenAnswer>
+    <ChosenAnswererId>rISfKUrUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bork</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267667901</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268186091</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Run Malwarebytes, Hitman Pro, Ccleaner, Reset IE8 to Default in Options, Advanced and restart PC...You might need to also reset Router or unplug it for 10 sec and plug it back in and restart PC...
+You can also try OpenDNS...You can uninstall your anti virus or suite, enabling Win firewall and see if that makes a difference and if so use another product...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://www.surfright.nl/en/hitmanpro
+http://download.cnet.com/ccleaner/?tag=mncol
+http://www.opendns.com/</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-03 17:56:37</Date>
+            <Timestamp>1267667797</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Even if there&#039;s no problem on the ISP&#039;s end, there could still be a problem in how your internet signal is coming in. You should ask them to send someone to check out your connection.
+
+Other possibilities are:
+
+1. Someone who is permitted to access your internet connection might just be using up way too much of your bandwidth.
+
+2. If you are using a wireless card, there might be something that&#039;s blocking or interfering your wireless signal.
+
+3. It&#039;s possible a computer accessing your net connection is compromised and it&#039;s using some of your internet connection for some hackers purposes. Running an Antivirus scan like AVG should tell you if this is the case. http://free.avg.com/us-en/homepage
+
+4. If your wireless connection is unprotected, or using WEP security/encryption someone can use your internet connection without your permission. In this case changing your wireless security to WPA or WPA2, or just disabling it should do the trick.
+
+5. The hardware you use to access the internet (could be either the LAN card, or your wireless card) is damaged.
+
+And of course it&#039;s possible it&#039;s some or all of the above (but not all that likely).</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rISfKUrUaa</UserId>
+            <UserNick>Bork</UserNick>
+            <Date>2010-03-03 17:58:21</Date>
+            <Timestamp>1267667901</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:14:54 PDT 2010 -->

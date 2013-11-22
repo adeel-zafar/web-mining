@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222150045AAB5zzS" type="Answered">
+    <Subject>How do i get my links from photobucket to work on yahoo answers?</Subject>
+    <Content>i logged in, went to account settings, went to album settings and made it public. I then copy pasted the URL here to each pic and no one can see the pix. I then went to each pic individually and clicked &quot;share&quot; then &quot;get link code&quot; then copy pasted the thing from &quot;get HTML codes &amp;blogs&quot; that doesnt work =(
+
+
+what do i do to get them to work???
+
+thanks!
+but ive seen others do it. ive clicked the links even when i didnt have an account with P. bucket
+</Content>
+    <Date>2010-02-22 15:00:45</Date>
+    <Timestamp>1266879645</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222150045AAB5zzS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LPvYZUaJaa</UserId>
+    <UserNick>John</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your pictures from Photobucket cannot be shown here in Answers, only the link can be put here. e.g. http://www.allora-and-district-historical-society-inc.com/</ChosenAnswer>
+    <ChosenAnswererId>aeadabc6cbb8f9d20e48ee5c17d9318daa</ChosenAnswererId>
+    <ChosenAnswererNick>Rowen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266879983</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266955372</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your pictures from Photobucket cannot be shown here in Answers, only the link can be put here. e.g. http://www.allora-and-district-historical-society-inc.com/</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>aeadabc6cbb8f9d20e48ee5c17d9318daa</UserId>
+            <UserNick>Rowen</UserNick>
+            <Date>2010-02-22 15:06:23</Date>
+            <Timestamp>1266879983</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:26:16 PDT 2010 -->

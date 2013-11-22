@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304113941AAVw09Z" type="Answered">
+    <Subject>Tom, should I uninstall IE first. My IP address says that my browser is IE7.?</Subject>
+    <Content>I do have IE8 installed and it shows in my control panel add/cancel screen. However, it does not show that I have IE7. How can my browser be IE7 if I do not even have it insalled?
+</Content>
+    <Date>2010-03-04 11:39:41</Date>
+    <Timestamp>1267731581</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304113941AAVw09Z</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tp0bbpdmaa</UserId>
+    <UserNick>Kell</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your IP address can&#039;t possibly say that your browser is IE7. The IP address is independent of the browser.
+
+ Please add more details as to what you are trying to do, so that we can help you.</ChosenAnswer>
+    <ChosenAnswererId>AA11374679</ChosenAnswererId>
+    <ChosenAnswererNick>...o(_this life is strange_)</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267731923</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268963533</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your IP address can&#039;t possibly say that your browser is IE7. The IP address is independent of the browser.
+
+ Please add more details as to what you are trying to do, so that we can help you.</Content>
+            <Reference>3 years fixing PCs, and users.</Reference>
+            <Best>5</Best>
+            <UserId>AA11374679</UserId>
+            <UserNick>...o(_this life is strange_)</UserNick>
+            <Date>2010-03-04 11:45:23</Date>
+            <Timestamp>1267731923</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:10:35 PDT 2010 -->

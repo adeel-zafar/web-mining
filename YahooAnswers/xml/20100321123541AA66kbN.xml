@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321123541AA66kbN" type="Answered">
+    <Subject>Is there a way to have Firefox tabs listed at the bottom of the browser window instead of the top?</Subject>
+    <Content>I&#039;ve heard it&#039;s easier for your computer to run one window with multiple tabs then to have ever page in its own window, but I can&#039;t seem to break the habit of looking towards the bottom of the screen to switch to another page I have open. It&#039;d be great if anyone could tell me how to have the tabs at the bottom of the browser instead of the top.
+</Content>
+    <Date>2010-03-21 12:35:41</Date>
+    <Timestamp>1269200141</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321123541AA66kbN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ojhw68sJaa</UserId>
+    <UserNick>YeahIknowright</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb2b1e7i1705zws123ac4/JDCCYvc1eqhJvAqc904TCzrjpljT/3/tn48.jpeg?ciAAToMBgOXSCgyg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you need to add to your UserChrome.css file to get this to work:
+
+/* Display the tabbar at the bottom */
+#content &gt; tabbox { -moz-box-direction: reverse; }
+
+
+go on the link for more info: http://www.firefoxfacts.com/2008/01/15/move-firefox-tabs-to-the-bottom/</ChosenAnswer>
+    <ChosenAnswererId>bMgl2mHvaa</ChosenAnswererId>
+    <ChosenAnswererNick>caffy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269200264</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269719683</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you need to add to your UserChrome.css file to get this to work:
+
+/* Display the tabbar at the bottom */
+#content &gt; tabbox { -moz-box-direction: reverse; }
+
+
+go on the link for more info: http://www.firefoxfacts.com/2008/01/15/move-firefox-tabs-to-the-bottom/</Content>
+            <Reference>http://www.firefoxfacts.com/2008/01/15/move-firefox-tabs-to-the-bottom/</Reference>
+            <Best>5</Best>
+            <UserId>bMgl2mHvaa</UserId>
+            <UserNick>caffy</UserNick>
+            <Date>2010-03-21 12:37:44</Date>
+            <Timestamp>1269200264</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:01 PDT 2010 -->

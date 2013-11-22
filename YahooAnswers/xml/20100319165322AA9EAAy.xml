@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319165322AA9EAAy" type="Answered">
+    <Subject>what happen to watch-movies.tv?</Subject>
+    <Content>i just tried going on the site and it said access denied for user...a link to the server could not be established
+</Content>
+    <Date>2010-03-19 16:53:22</Date>
+    <Timestamp>1269042802</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319165322AA9EAAy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QSacmWT6aa</UserId>
+    <UserNick>city-girl</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1T8U8wzFjAAED-IFDbFk=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.watch-movies.net.in/</ChosenAnswer>
+    <ChosenAnswererId>4nckzqSgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Stop asking me ?&#039;s</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269058922</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269562399</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.watch-movies.net.in/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>4nckzqSgaa</UserId>
+            <UserNick>Stop asking me ?&#039;s</UserNick>
+            <Date>2010-03-19 21:22:02</Date>
+            <Timestamp>1269058922</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:10 PDT 2010 -->

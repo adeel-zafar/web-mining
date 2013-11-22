@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324202136AABk0Xc" type="Answered">
+    <Subject>should I just stop going online?</Subject>
+    <Content>because it is getting increasingly dissapointing. 
+
+or am I looking inthe wrong places?
+elclinch, or whatever, lol thank you.
+smokies I agree though, 
+
+I&#039;m starting to think their&#039;s better things in life than this. or hell even books.
+</Content>
+    <Date>2010-03-24 20:21:36</Date>
+    <Timestamp>1269487296</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324202136AABk0Xc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>D1EltHdZaa</UserId>
+    <UserNick>Number Three</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yes. read a book</ChosenAnswer>
+    <ChosenAnswererId>cfVlMjnOaa</ChosenAnswererId>
+    <ChosenAnswererNick>elclinch</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269487381</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270006532</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yes. read a book</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cfVlMjnOaa</UserId>
+            <UserNick>elclinch</UserNick>
+            <Date>2010-03-24 20:23:01</Date>
+            <Timestamp>1269487381</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Naw! Just hang in there! Things are bound to get better! At least the government hasn&#039;t taken over the internet....yet!</Content>
+            <Reference>Just my opinion.</Reference>
+            <Best></Best>
+            <UserId>dna6JMaJaa</UserId>
+            <UserNick>Smokies Hiker</UserNick>
+            <Date>2010-03-24 20:30:01</Date>
+            <Timestamp>1269487801</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:33:00 PDT 2010 -->

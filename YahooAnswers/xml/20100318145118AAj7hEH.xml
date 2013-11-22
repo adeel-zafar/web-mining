@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318145118AAj7hEH" type="Answered">
+    <Subject>How do you get past website ad blockers?</Subject>
+    <Content>I took a screen-shot of what I&#039;m talking about. I didn&#039;t plan on asking any questions on Yahoo but this pissed me off too much to not ask. Here&#039;s the link to the screen-shot: http://i621.photobucket.com/albums/tt293/zachm1995/ADBLOCKER.jpg
+</Content>
+    <Date>2010-03-18 14:51:18</Date>
+    <Timestamp>1268949078</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318145118AAj7hEH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ac2UEv3Baa</UserId>
+    <UserNick>Zach M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UtqTLBFeAAEB_EFxdDuziHhPMQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Actually it is possible. Save the file to your hard drive, remove the JavaScript code for the blocker thing,change everything to an absolute URL and open the file.</ChosenAnswer>
+    <ChosenAnswererId>pVGY9myOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Firzen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268949403</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269213407</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can&#039;t.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6r0u5yunaa</UserId>
+            <UserNick>Chemistry</UserNick>
+            <Date>2010-03-18 14:54:34</Date>
+            <Timestamp>1268949274</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Actually it is possible. Save the file to your hard drive, remove the JavaScript code for the blocker thing,change everything to an absolute URL and open the file.</Content>
+            <Reference>I used to do it for a TV watching website</Reference>
+            <Best>3</Best>
+            <UserId>pVGY9myOaa</UserId>
+            <UserNick>Firzen</UserNick>
+            <Date>2010-03-18 14:56:43</Date>
+            <Timestamp>1268949403</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hm</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OlT5sWCkaa</UserId>
+            <UserNick>Nora</UserNick>
+            <Date>2010-03-18 15:07:06</Date>
+            <Timestamp>1268950026</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:38:41 PDT 2010 -->

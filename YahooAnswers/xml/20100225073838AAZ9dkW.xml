@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225073838AAZ9dkW" type="Answered">
+    <Subject>How to do I keep that menu bars at the top and at the bottom, stay in it&#039;s place?</Subject>
+    <Content>I use Internet Explorer and on any site that I go on, the bar at the top and the bottom of my screen (I think they are called status bars) are not visible unless I put my mouse on it. I want it visible all the time. How do I change this?
+</Content>
+    <Date>2010-02-25 07:38:38</Date>
+    <Timestamp>1267112318</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225073838AAZ9dkW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10567932</UserId>
+    <UserNick>lady_just_chilling</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1VlZKkIN7AAEEPoErbI5q8lykizpSZQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Click on the Menu item View and in Toolbars check the items you want to see.
+
+If your browser in in full screen mode, press F11 to restore it.
+If you don&#039;t see the menu, press Alt to make it appear.</ChosenAnswer>
+    <ChosenAnswererId>EO3Efx4Daa</ChosenAnswererId>
+    <ChosenAnswererNick>Kenny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267114197</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267631713</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Click on the Menu item View and in Toolbars check the items you want to see.
+
+If your browser in in full screen mode, press F11 to restore it.
+If you don&#039;t see the menu, press Alt to make it appear.</Content>
+            <Reference>http://en.kioskea.net/forum/affich-6843-no-tool-bars-or-address-bar-on-my-browser</Reference>
+            <Best>5</Best>
+            <UserId>EO3Efx4Daa</UserId>
+            <UserNick>Kenny</UserNick>
+            <Date>2010-02-25 08:09:57</Date>
+            <Timestamp>1267114197</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:58:29 PDT 2010 -->

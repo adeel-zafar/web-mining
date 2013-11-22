@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223180313AAbNVjh" type="Answered">
+    <Subject>Some help meeeeeeeeee ps it&#039;s a computer question?</Subject>
+    <Content>Ok iv tryed to connect to the iTunes store but it says I have no Internet and then I got this thing called steam and it sated the same thing no Internet!!!!!!! But clearly I have Internet so if I could get some help on what to step by step that would be cool :)
+</Content>
+    <Date>2010-02-23 18:03:13</Date>
+    <Timestamp>1266976993</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223180313AAbNVjh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XsHeZAiMaa</UserId>
+    <UserNick>Omar S</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/17JUJevyFAAEC_IFH8KOjCA==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>tools, options, privacy, allow cookies?</ChosenAnswer>
+    <ChosenAnswererId>NRQXmIcwaa</ChosenAnswererId>
+    <ChosenAnswererNick>tim g</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266977560</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267496588</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Steam is easy just connect to internet...in menu</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4ift55sUaa</UserId>
+            <UserNick>Ben</UserNick>
+            <Date>2010-02-23 18:04:37</Date>
+            <Timestamp>1266977077</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>tools, options, privacy, allow cookies?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NRQXmIcwaa</UserId>
+            <UserNick>tim g</UserNick>
+            <Date>2010-02-23 18:12:40</Date>
+            <Timestamp>1266977560</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Have you&#039;ve tried to restart the computer or just log off. Once you go through with one, try and then check if you have internet in you&#039;re browser. If none of them work, repair the installation of iTunes by going to Control Panel&gt;Programs&gt;Look for iTunes&gt;Select Un-install&gt;Select Repair.</Content>
+            <Reference>Experience and Knowledge . . .</Reference>
+            <Best></Best>
+            <UserId>PJH8ggUeaa</UserId>
+            <UserNick>Vincent M</UserNick>
+            <Date>2010-02-23 18:14:50</Date>
+            <Timestamp>1266977690</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:27 PDT 2010 -->

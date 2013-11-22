@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326164634AAY18Fk" type="Answered">
+    <Subject>Is auctioning domains on GoDaddy worth it?</Subject>
+    <Content>Please only answer this question if you have auctioned domains on GoDaddy.
+
+Here is the story. On GoDaddy, there is a feature where you can auction your domains. I have a pretty generic domain. Will it sell? How often to domains actually sell?
+</Content>
+    <Date>2010-03-26 16:46:34</Date>
+    <Timestamp>1269647194</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326164634AAY18Fk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9Rl0DuSyaa</UserId>
+    <UserNick>Amphitrite</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49e5466ai16f6zul5sp1/9G0lI0E8erSQ05vBORT8v3A-/2/tn48.jpg?ciAAToMBky7XpCvK</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, it is, however I would suggest being patient. Some domains don&#039;t sell for months.</ChosenAnswer>
+    <ChosenAnswererId>RSfraVSDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Calla</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269978264</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269978306</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, not worth it!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>o0f9bLUDaa</UserId>
+            <UserNick>HammeringOracle</UserNick>
+            <Date>2010-03-26 16:49:57</Date>
+            <Timestamp>1269647397</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, it is, however I would suggest being patient. Some domains don&#039;t sell for months.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RSfraVSDaa</UserId>
+            <UserNick>Calla</UserNick>
+            <Date>2010-03-30 12:44:24</Date>
+            <Timestamp>1269978264</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:32 PDT 2010 -->

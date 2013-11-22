@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325110912AAyym6X" type="Answered">
+    <Subject>Can you explain these blogging directions more clearly?</Subject>
+    <Content>I&#039;m trying to post a podcast using a certain player on my blog. I&#039;m using the directions from this web page: http://www.macloo.com/examples/audio_player/
+
+I don&#039;t understand this important part of it:
+To use this player with a blog hosted at Blogger, take out all the code above the &lt;object&gt; tag and place it in your Blogger template (instead). In the Blogger template, place it above the &lt;/head&gt; tag, as shown: 
+
+&lt;script language=&quot;JavaScript&quot; src=&quot;http://www.fakedomain.com/myname/audio/audio-player.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt; 
+Then each time you use the player in a blog post, you will paste only the &lt;object&gt; code into your blog post. 
+
+Can someone please explain how to do this? Any help would be appreciated! I&#039;ve spent so much time on this and I&#039;m really hoping that somebody out there can help me out with this. :) Thank you!
+I have a Blogger blog.
+</Content>
+    <Date>2010-03-25 11:09:12</Date>
+    <Timestamp>1269540552</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325110912AAyym6X</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oYKRzYJXaa</UserId>
+    <UserNick>Isabella</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1fyHJH880AAEDcYycYVA=.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Basically you need to edit the HTML template in Blogger.
+
+Look for the closing head tag i.e. &lt;/HEAD&gt; and paste the following code just before it.
+
+&lt;script language=&quot;JavaScript&quot; src=&quot;http://www.fakedomain.com/myname/audio/audio-player.js&quot;&gt;&lt;/script&gt;
+
+Of course, change the fakedomain.com to your domain name (you need your own webspace for this).  Remember to upload the files player.swf and audio-player.js to the audio folder.
+
+Then paste the object code to where you want the player to be.  Again you need to edit the HTML template for your blogger blog.
+
+&lt;object type=&quot;application/x-shockwave-flash&quot; data=&quot;http://www.fakedomain.com/myname/audio/player.swf&quot; id=&quot;audioplayer1&quot; height=&quot;24&quot; width=&quot;290&quot;&gt;
+&lt;param name=&quot;movie&quot; value=&quot;http://www.fakedomain.com/myname/audio/player.swf&quot;&gt;
+&lt;param name=&quot;FlashVars&quot; value=&quot;playerID=audioplayer1&amp;soundFile=http://www.fakedomain.com/myname/audio/music.mp3&quot;&gt;
+&lt;param name=&quot;quality&quot; value=&quot;high&quot;&gt;
+&lt;param name=&quot;menu&quot; value=&quot;false&quot;&gt;
+&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;&gt;
+&lt;/object&gt;</ChosenAnswer>
+    <ChosenAnswererId>y22cximiaa</ChosenAnswererId>
+    <ChosenAnswererNick>DG</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269542681</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269882554</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Basically you need to edit the HTML template in Blogger.
+
+Look for the closing head tag i.e. &lt;/HEAD&gt; and paste the following code just before it.
+
+&lt;script language=&quot;JavaScript&quot; src=&quot;http://www.fakedomain.com/myname/audio/audio-player.js&quot;&gt;&lt;/script&gt;
+
+Of course, change the fakedomain.com to your domain name (you need your own webspace for this).  Remember to upload the files player.swf and audio-player.js to the audio folder.
+
+Then paste the object code to where you want the player to be.  Again you need to edit the HTML template for your blogger blog.
+
+&lt;object type=&quot;application/x-shockwave-flash&quot; data=&quot;http://www.fakedomain.com/myname/audio/player.swf&quot; id=&quot;audioplayer1&quot; height=&quot;24&quot; width=&quot;290&quot;&gt;
+&lt;param name=&quot;movie&quot; value=&quot;http://www.fakedomain.com/myname/audio/player.swf&quot;&gt;
+&lt;param name=&quot;FlashVars&quot; value=&quot;playerID=audioplayer1&amp;soundFile=http://www.fakedomain.com/myname/audio/music.mp3&quot;&gt;
+&lt;param name=&quot;quality&quot; value=&quot;high&quot;&gt;
+&lt;param name=&quot;menu&quot; value=&quot;false&quot;&gt;
+&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;&gt;
+&lt;/object&gt;</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>y22cximiaa</UserId>
+            <UserNick>DG</UserNick>
+            <Date>2010-03-25 11:44:41</Date>
+            <Timestamp>1269542681</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:30:59 PDT 2010 -->

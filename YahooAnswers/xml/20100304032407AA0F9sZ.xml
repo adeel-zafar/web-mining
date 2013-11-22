@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304032407AA0F9sZ" type="Answered">
+    <Subject>Accessing Youtube with the Firefox browser Question?</Subject>
+    <Content>Hi.....
+I normally use Firefox and normally have no problem accessing Youtube. However, for the first time, today, I have got this pop-up screen:
+&quot;Opening watch&quot;, 
+file watch:
+
+ which is a : application/octet-stream
+ from: http://www.youtube.com
+
+It asks: What should Firefox do with this file?
+Open with
+Save File
+
+I have never had this problem before!! 
+Can anyone explain this and how to fix this situation. 
+Thank you. 
+Salaams.
+Thanks Bill :)
+</Content>
+    <Date>2010-03-04 03:24:07</Date>
+    <Timestamp>1267701847</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304032407AA0F9sZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>P7rI4f6Taa</UserId>
+    <UserNick>▫*</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You got a malicious cookie.  I had the same thing.octet-stream
+
+
+I had to clean my system&gt;Un-tick accept third party cookies only in Tools/Privacy and ad these ad-dons to firefox: Add blocker/Script blocker and Flash blocker t make it more secure.
+
+Follow the instructions and use the addons.
+
+Maintaining your computer
+1. Left click on C drive&gt; properties/run windows disc cleaner
+2. Download Ccleaner from here: http://www.filehippo.com/
+3. Install Ccleaner and run the cleaner top left, then run the registry cleaner below it on the left. you don’t need to backup the registry
+4. Left click on C drive&gt; properties&gt;Tools&gt;disc scanner or in the case of Vista it’s called something else, but it’s the top tab you click on&gt; Prompt the scanner to scan upon next reboot and REBOOT COMPUTER)
+#(Prepare to wait up to an hour)#
+5. After Disk scan/Disk check has finished run windows Disc Cleaner again, Ccleaner again and registry cleaner again.
+6.  Then you must do a DEFRAGMENTAION of C drive which is START&gt;ALL PROGRAMS&gt;ACCESSORIES&gt;TOOLS&gt;DEFRAGMENTATION.   
+Additional options:
+You can also run adware 2008:  http://www.lavasoft.com/single/trialpay.php
+AVG Anti-virus:     http://free.avg.com/download 
+Download and install this browser: http://www.mozilla-europe.org/en/firefox/
+Flash blocker https://addons.mozilla.org/en-US/firefox/addon/433
+Script blocker https://addons.mozilla.org/en-US/firefox/addon/722
+supper add blocker plus. https://addons.mozilla.org/en-US/firefox/addon/1865
+This is the flash player  for fire fox https://addons.mozilla.org/en-US/firefox/browse/type:7</ChosenAnswer>
+    <ChosenAnswererId>Sdf4gA9Aaa</ChosenAnswererId>
+    <ChosenAnswererNick>▐▀▀☟▀▀▌ ☞βḭŁŁ☜ ▐▄▄☝▄▄▌</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267702192</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267820888</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You got a malicious cookie.  I had the same thing.octet-stream
+
+
+I had to clean my system&gt;Un-tick accept third party cookies only in Tools/Privacy and ad these ad-dons to firefox: Add blocker/Script blocker and Flash blocker t make it more secure.
+
+Follow the instructions and use the addons.
+
+Maintaining your computer
+1. Left click on C drive&gt; properties/run windows disc cleaner
+2. Download Ccleaner from here: http://www.filehippo.com/
+3. Install Ccleaner and run the cleaner top left, then run the registry cleaner below it on the left. you don’t need to backup the registry
+4. Left click on C drive&gt; properties&gt;Tools&gt;disc scanner or in the case of Vista it’s called something else, but it’s the top tab you click on&gt; Prompt the scanner to scan upon next reboot and REBOOT COMPUTER)
+#(Prepare to wait up to an hour)#
+5. After Disk scan/Disk check has finished run windows Disc Cleaner again, Ccleaner again and registry cleaner again.
+6.  Then you must do a DEFRAGMENTAION of C drive which is START&gt;ALL PROGRAMS&gt;ACCESSORIES&gt;TOOLS&gt;DEFRAGMENTATION.   
+Additional options:
+You can also run adware 2008:  http://www.lavasoft.com/single/trialpay.php
+AVG Anti-virus:     http://free.avg.com/download 
+Download and install this browser: http://www.mozilla-europe.org/en/firefox/
+Flash blocker https://addons.mozilla.org/en-US/firefox/addon/433
+Script blocker https://addons.mozilla.org/en-US/firefox/addon/722
+supper add blocker plus. https://addons.mozilla.org/en-US/firefox/addon/1865
+This is the flash player  for fire fox https://addons.mozilla.org/en-US/firefox/browse/type:7</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Sdf4gA9Aaa</UserId>
+            <UserNick>▐▀▀☟▀▀▌ ☞βḭŁŁ☜ ▐▄▄☝▄▄▌</UserNick>
+            <Date>2010-03-04 03:29:52</Date>
+            <Timestamp>1267702192</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:12:25 PDT 2010 -->

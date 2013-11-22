@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221194703AA6gbWI" type="Answered">
+    <Subject>Sanrio question? Images not working?</Subject>
+    <Content>Whenever I go online to www.sanrio.com, the images never function. For example, if I want to look at the shop section, it won&#039;t show a picture of the items!!! Do you have any idea how I might fix this?
+</Content>
+    <Date>2010-02-21 19:47:03</Date>
+    <Timestamp>1266810423</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221194703AA6gbWI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d4JSYsneaa</UserId>
+    <UserNick>I Am The Walrus</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1w-5kW0jCAAECVQJbhBOQIl2Y4YEG.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No, it&#039;s because of a server issue on their site. Leave it a few days till it gets fixed. This is the time of year many websites get upgraded.</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267152524</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267329824</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, it&#039;s because of a server issue on their site. Leave it a few days till it gets fixed. This is the time of year many websites get upgraded.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>⚡Static⚡ ⚡Shock⚡</UserNick>
+            <Date>2010-02-25 18:48:44</Date>
+            <Timestamp>1267152524</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:31:34 PDT 2010 -->

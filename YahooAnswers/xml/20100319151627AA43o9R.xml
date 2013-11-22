@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319151627AA43o9R" type="Answered">
+    <Subject>Problems with Firefox before and after the 3.6 update?</Subject>
+    <Content>Has anyone else&#039;s browsers been messing up in the last month?
+It&#039;s driving me mad!  I have to send emails to professors sometimes at deadlines that are quickly approaching, and I write a good solid email and then... &quot;whoops.&quot;  So I learned to keep copying my letter just in case.  Well, for whatever reason, when I restart the browser, I can&#039;t paste...
+
+This is starting to get to the point of irritation.  I love firefox&#039;s customizable options and I&#039;m considering switching to another browser that is similar.  Which one should I choose?  I&#039;m not interested in the bare simplicity of &quot;Opera&quot; nor the stupidity of &quot;Safari.&quot;  I definitely don&#039;t want &quot;Explorer&quot; again.
+EDIT:
+I have Windows 7.
+</Content>
+    <Date>2010-03-19 15:16:27</Date>
+    <Timestamp>1269036987</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319151627AA43o9R</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UbWiV2Tkaa</UserId>
+    <UserNick>Sans Culture</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb2f081i2893zws122ac4/wwMhQw0ieqgBoL0GfdK1UfJJqw--/7/tn48.jpeg?ciAAToMBsgZ1AVFc</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I was getting that issue also but my problem had to do with the security system I had, it had incompatibility issues with it. I would definitely advise reverting back to the earlier version of firefox and it most likely will rectify the issue.
+REM: When uninstalling 3.6 keep your cookies,history etc so that when you install back the 3.5.8 you would be able to find your information.
+
+Google chrome I hear is good, however it depends on what you use the browsers to do. If you are building websites in languages like asp, it is not advisable.</ChosenAnswer>
+    <ChosenAnswererId>mIsa8bMgaa</ChosenAnswererId>
+    <ChosenAnswererNick>leigh j</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269039769</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269124985</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I haven&#039;t had any issues with Firefox 3.6 on my Windows install. I&#039;m still using 3.5 on my Linux partition, no trouble there either. 
+
+Been experimenting with Chrome of late.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>i444oWjjaa</UserId>
+            <UserNick>eric k</UserNick>
+            <Date>2010-03-19 15:20:39</Date>
+            <Timestamp>1269037239</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes you are not the only one with this problem. 3.6 seems to run great with windows 7 but not so well with XP. You should be able to sort this problem by completely un-installing 3.6 and get 3.58. here.http://www.oldapps.com/firefox.php?old_firefox=75
+Save your bookmarks first.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TJFdqQzGaa</UserId>
+            <UserNick>IBMGuy</UserNick>
+            <Date>2010-03-19 15:22:09</Date>
+            <Timestamp>1269037329</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;m still using version 3.5 because I&#039;m using Linux. But everyone who I know that is using Windows and upgraded to 3.6 has been having troubles. 
+
+You could always try Chrome as a browser.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>64554a8e1157e502654f643d0ffe309baa</UserId>
+            <UserNick>Boɳɛs, Ɍεαpϋrr Ӄittεӊ</UserNick>
+            <Date>2010-03-19 15:43:48</Date>
+            <Timestamp>1269038628</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I was getting that issue also but my problem had to do with the security system I had, it had incompatibility issues with it. I would definitely advise reverting back to the earlier version of firefox and it most likely will rectify the issue.
+REM: When uninstalling 3.6 keep your cookies,history etc so that when you install back the 3.5.8 you would be able to find your information.
+
+Google chrome I hear is good, however it depends on what you use the browsers to do. If you are building websites in languages like asp, it is not advisable.</Content>
+            <Reference>me.</Reference>
+            <Best>5</Best>
+            <UserId>mIsa8bMgaa</UserId>
+            <UserNick>leigh j</UserNick>
+            <Date>2010-03-19 16:02:49</Date>
+            <Timestamp>1269039769</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>One wonders, 3.6 is the best I have had with my version of xp, and its multitudinous updates, prior to that it kept crashing but was still quicker than extra</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qVUSg7hsaa</UserId>
+            <UserNick>Too much Bubble Gum 2</UserNick>
+            <Date>2010-03-19 16:05:43</Date>
+            <Timestamp>1269039943</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:46 PDT 2010 -->

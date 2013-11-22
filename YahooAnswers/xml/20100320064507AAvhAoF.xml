@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320064507AAvhAoF" type="Answered">
+    <Subject>Tumblr &#039;ask&#039; page problem?</Subject>
+    <Content>Hi,
+
+I&#039;m trying to set up an &#039;ask&#039; page. I&#039;ve done everything it says like make the URL /ask
+
+But I can&#039;t see anything on this page.
+
+http://bryonie.tumblr.com/ask (that&#039;s the page, I think it&#039;s blank.)
+
+So, any idea what has gone wrong?
+What is the html code for an ask box?
+
+There isn&#039;t anything when I click html.
+So can you see the Ask Box? Or not?
+</Content>
+    <Date>2010-03-20 06:45:07</Date>
+    <Timestamp>1269092707</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320064507AAvhAoF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GkLlGqQDaa</UserId>
+    <UserNick>Bryonie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a282ab2i1532zul4re4/.6fIgW4zab8.05owwL0jZ81YVounr9PBpQl3oeM-/1/tn48.jpg?ciAAToMBkuGFErJJ</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>its not blank for me.
+theres a picture at the top, the tumblr into @ the right, little text in bottom left.
+Something is done wrong. I suggest pasting html code on microsoft word and checking it piece by piece</ChosenAnswer>
+    <ChosenAnswererId>hAGJzEaxaa</ChosenAnswererId>
+    <ChosenAnswererNick>__A_YAHOO_USER__</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269093186</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269795728</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>its not blank for me.
+theres a picture at the top, the tumblr into @ the right, little text in bottom left.
+Something is done wrong. I suggest pasting html code on microsoft word and checking it piece by piece</Content>
+            <Reference>http://answers.yahoo.com/question/index;_ylt=Ai2DCbpYkH3ZNcGBFo8Yp30y53NG;_ylv=3?qid=20100320064123AAFYoZn</Reference>
+            <Best>5</Best>
+            <UserId>hAGJzEaxaa</UserId>
+            <UserNick>Shannon</UserNick>
+            <Date>2010-03-20 06:53:06</Date>
+            <Timestamp>1269093186</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>its not blank for me either
+
+follow me, reblog me
+http://smokingfish.tumblr.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XtshWw4Kaa</UserId>
+            <UserNick>Geneinde T</UserNick>
+            <Date>2010-03-20 23:56:20</Date>
+            <Timestamp>1269154580</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:31:58 PDT 2010 -->

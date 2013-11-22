@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328102127AAYQ8t7" type="Answered">
+    <Subject>My internet keeps disconnecting?</Subject>
+    <Content>Yesterday there was a minor power outage. Ever since then my internet keeps disconnecting and connecting back every 30-60 seconds. How can I fix this? This is really starting to piss me off :|
+</Content>
+    <Date>2010-03-28 10:21:27</Date>
+    <Timestamp>1269796887</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328102127AAYQ8t7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>N0CBWWXtaa</UserId>
+    <UserNick>PedoBear</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b7329e5i2511zul4re4/6L43TCEjYrVwcwUJvWerKUE-/3/tn48.jpg?ciAAToMBKZkqRxu6</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Shut down your system...pull out the adaptor for your modem and router (if you have one), wait for a minute or two.  Plug back the adaptor(s) and Boot up your system.
+
+If this does not resolve things...call your Service Provider...and explain the problem and what you did to resolve it...it is now their turn to check the connection on their end...maybe jump start it.  
+
+It may be something to do with clearing your connection at their end from the power outage so they may have to release IP etc.  Be sure to tell them what you did on your end to fix it...because they will likely want you to do it again so they can watch it on their end.  
+
+Ohhh, and if you get someone who does not appear to know what they are doing...ask for a supervisor.... I will not suffer idiocy from call centers who hire untrained techies, nor should you.
+Be nice about it though...some are on the job training and may need help to help you which may not help their ego much. If I get some arrogant person who claims it is on my end...thats when I am firm about a supervisor intervention.</ChosenAnswer>
+    <ChosenAnswererId>UQRPG31Oaa</ChosenAnswererId>
+    <ChosenAnswererNick>ginger</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269799324</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269917954</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>check all your connections, if they are all secure and your internet is still not working call your isp (internet service provider).</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RjACWAO5aa</UserId>
+            <UserNick>Tristian7Fire</UserNick>
+            <Date>2010-03-28 10:23:44</Date>
+            <Timestamp>1269797024</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Shut down your system...pull out the adaptor for your modem and router (if you have one), wait for a minute or two.  Plug back the adaptor(s) and Boot up your system.
+
+If this does not resolve things...call your Service Provider...and explain the problem and what you did to resolve it...it is now their turn to check the connection on their end...maybe jump start it.  
+
+It may be something to do with clearing your connection at their end from the power outage so they may have to release IP etc.  Be sure to tell them what you did on your end to fix it...because they will likely want you to do it again so they can watch it on their end.  
+
+Ohhh, and if you get someone who does not appear to know what they are doing...ask for a supervisor.... I will not suffer idiocy from call centers who hire untrained techies, nor should you.
+Be nice about it though...some are on the job training and may need help to help you which may not help their ego much. If I get some arrogant person who claims it is on my end...thats when I am firm about a supervisor intervention.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UQRPG31Oaa</UserId>
+            <UserNick>ginger</UserNick>
+            <Date>2010-03-28 11:02:04</Date>
+            <Timestamp>1269799324</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:19:20 PDT 2010 -->

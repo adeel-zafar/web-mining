@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302052450AATIZoF" type="Answered">
+    <Subject>how can I retrieve deleted email?</Subject>
+    <Content>my provider is yahoo and I accidentally deleted an email I wanted to save which is very important for my work,,,help please!
+</Content>
+    <Date>2010-03-02 05:24:50</Date>
+    <Timestamp>1267536290</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302052450AATIZoF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sJpwnY5Oaa</UserId>
+    <UserNick>steely</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you deleted it completely, including from the trash, then you can&#039;t retrieve it again. You need to have the e-mail sent to you again. Sorry.</ChosenAnswer>
+    <ChosenAnswererId>wXE33leeaa</ChosenAnswererId>
+    <ChosenAnswererNick>ElizabethC</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267536582</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268055802</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can see that in ur Trash</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11719097</UserId>
+            <UserNick>Macho</UserNick>
+            <Date>2010-03-02 05:28:59</Date>
+            <Timestamp>1267536539</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you deleted it completely, including from the trash, then you can&#039;t retrieve it again. You need to have the e-mail sent to you again. Sorry.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wXE33leeaa</UserId>
+            <UserNick>ElizabethC</UserNick>
+            <Date>2010-03-02 05:29:42</Date>
+            <Timestamp>1267536582</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>look in your trash, or MAYBE your my computer, you might get from &quot; Rover &quot; the search dog, at search on your start up page.</Content>
+            <Reference>me</Reference>
+            <Best></Best>
+            <UserId>Z4sH97Vcaa</UserId>
+            <UserNick>mr.dfleming57</UserNick>
+            <Date>2010-03-02 06:49:54</Date>
+            <Timestamp>1267541394</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:27:15 PDT 2010 -->

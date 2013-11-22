@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307191859AAwmhsv" type="Answered">
+    <Subject>what would you say to this?</Subject>
+    <Content>someone asked me on formspring:
+why does your face look like a fist?
+
+lmao what&#039;s something funny that you would say to that?
+</Content>
+    <Date>2010-03-07 19:18:59</Date>
+    <Timestamp>1268018339</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307191859AAwmhsv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ob1wPDDHaa</UserId>
+    <UserNick>Tessa</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b6e2de8i154dzul4re4/1Ded264hc6mvZQtdh698japu2wMg/1/tn48.jpg?ciAAToMBaxmOnVQw</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>f off NOT FUNNy</ChosenAnswer>
+    <ChosenAnswererId>2WUHFD5xaa</ChosenAnswererId>
+    <ChosenAnswererNick>Philip P</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268018429</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268537758</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>f off NOT FUNNy</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2WUHFD5xaa</UserId>
+            <UserNick>Philip P</UserNick>
+            <Date>2010-03-07 19:20:29</Date>
+            <Timestamp>1268018429</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:36:03 PDT 2010 -->

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310104443AARfoHi" type="Answered">
+    <Subject>What are some of the best &quot;Blog&quot; websites?</Subject>
+    <Content>I would like to start my own blog
+</Content>
+    <Date>2010-03-10 10:44:43</Date>
+    <Timestamp>1268246683</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310104443AARfoHi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PpWHHg1naa</UserId>
+    <UserNick>B</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Qr7IcjtiAAAFL-NwhJPPxAYB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hey B,
+
+I lean toward Wordpress.com simply for the ease and simplicity.
+
+There&#039;s also Blogger.com. Not one of my favorites because it&#039;s owned by Google and they have a history of locking people out of their own blogs.
+
+Now, in fairness I nave to say they do this because of an appearance of violation of the terms of service.
+That said, they don&#039;t warn you and ask for an explanation. They just lock you out without warning and wait for you to find them.
+
+So, as a newby I recommend Wordpress.com</ChosenAnswer>
+    <ChosenAnswererId>a10d3Kpoaa</ChosenAnswererId>
+    <ChosenAnswererNick>bakersfieldbob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268248481</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268762802</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Wordpress, Livejournal, Blogger - in that order.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>375d1325c1d17771600418c293e86d4aaa</UserId>
+            <UserNick>Jewelle</UserNick>
+            <Date>2010-03-10 10:46:44</Date>
+            <Timestamp>1268246804</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hey B,
+
+I lean toward Wordpress.com simply for the ease and simplicity.
+
+There&#039;s also Blogger.com. Not one of my favorites because it&#039;s owned by Google and they have a history of locking people out of their own blogs.
+
+Now, in fairness I nave to say they do this because of an appearance of violation of the terms of service.
+That said, they don&#039;t warn you and ask for an explanation. They just lock you out without warning and wait for you to find them.
+
+So, as a newby I recommend Wordpress.com</Content>
+            <Reference>Your can check them out here:
+
+http://www.worldostuff.com/recommendswordpress-ya.html
+http://www.worldostuff.com/blogger-ya.html</Reference>
+            <Best>5</Best>
+            <UserId>a10d3Kpoaa</UserId>
+            <UserNick>bakersfieldbob</UserNick>
+            <Date>2010-03-10 11:14:41</Date>
+            <Timestamp>1268248481</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:18:50 PDT 2010 -->

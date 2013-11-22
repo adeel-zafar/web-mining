@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227225836AAy7sdp" type="Answered">
+    <Subject>how to fix &quot;Generic Host Process for Win32 Services encountered a problem and needed to close.&quot;?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-27 22:58:36</Date>
+    <Timestamp>1267340316</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227225836AAy7sdp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4S3pPLO2aa</UserId>
+    <UserNick>Mojtaba</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If u have internet access download Trojan Scanner from the Net.It&#039;s got free trial. It should rid of the problem. However I&#039;d suggest downloading via another comp. and install it in a flash drive. There&#039;s no problem wid direct download but it&#039;s safer the other way.ty.</ChosenAnswer>
+    <ChosenAnswererId>B00EK1Tcaa</ChosenAnswererId>
+    <ChosenAnswererNick>The Executer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267341809</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267625074</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>hi there,
+
+to solve the problem of generic host process, u need to repair your current OS.
+i am not saying to format...... just repair i.e. reinstall your OS.
+
+and then the your problem is solved as never. 
+
+hope that helps.</Content>
+            <Reference>my knowledge.</Reference>
+            <Best></Best>
+            <UserId>l1YrY9Utaa</UserId>
+            <UserNick>arjun c</UserNick>
+            <Date>2010-02-27 23:17:26</Date>
+            <Timestamp>1267341446</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If u have internet access download Trojan Scanner from the Net.It&#039;s got free trial. It should rid of the problem. However I&#039;d suggest downloading via another comp. and install it in a flash drive. There&#039;s no problem wid direct download but it&#039;s safer the other way.ty.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>B00EK1Tcaa</UserId>
+            <UserNick>The Executer</UserNick>
+            <Date>2010-02-27 23:23:29</Date>
+            <Timestamp>1267341809</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:40:36 PDT 2010 -->

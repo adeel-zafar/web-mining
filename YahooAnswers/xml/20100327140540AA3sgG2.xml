@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327140540AA3sgG2" type="Answered">
+    <Subject>a website where i can find some one who look like me!!?</Subject>
+    <Content>i knew a website but i forgot the name of that!
+i can upload my picture and then is shows me some one who look like me!! do you know the name of that? i mean the address?!? can someone tell me please????
+</Content>
+    <Date>2010-03-27 14:05:40</Date>
+    <Timestamp>1269723940</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327140540AA3sgG2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DZLGFxtVaa</UserId>
+    <UserNick>Maximus D</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try this link
+http://celebrity.myheritage.com/FP/Company/try-face-recognition.php</ChosenAnswer>
+    <ChosenAnswererId>cShLfbPHaa</ChosenAnswererId>
+    <ChosenAnswererNick>buzz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269724095</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270243425</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try this link
+http://celebrity.myheritage.com/FP/Company/try-face-recognition.php</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cShLfbPHaa</UserId>
+            <UserNick>buzz</UserNick>
+            <Date>2010-03-27 14:08:15</Date>
+            <Timestamp>1269724095</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi There,
+Is it the site below?
+Al</Content>
+            <Reference>http://www.facedouble.com/</Reference>
+            <Best></Best>
+            <UserId>wkLTTr06aa</UserId>
+            <UserNick>Albert W</UserNick>
+            <Date>2010-03-27 14:11:55</Date>
+            <Timestamp>1269724315</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:22:11 PDT 2010 -->

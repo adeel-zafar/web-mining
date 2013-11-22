@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222162843AAEtHDF" type="Answered">
+    <Subject>Can I call my ISP to get my internet history?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-22 16:28:43</Date>
+    <Timestamp>1266884923</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222162843AAEtHDF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0mrbE0Qbaa</UserId>
+    <UserNick>noidea</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1VTNClSOJAAEF_IFH8AoBDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>they have it but theres no way to get it from them.</ChosenAnswer>
+    <ChosenAnswererId>7uLbck8raa</ChosenAnswererId>
+    <ChosenAnswererNick>Matt H.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266887314</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267404524</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>they have it but theres no way to get it from them.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7uLbck8raa</UserId>
+            <UserNick>Matt H.</UserNick>
+            <Date>2010-02-22 17:08:34</Date>
+            <Timestamp>1266887314</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:50 PDT 2010 -->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325161019AAmAoJx" type="Answered">
+    <Subject>dsi pink internet connection problem?</Subject>
+    <Content>ive just brought the missus a dsi pink ,weve got wireless virgin broadband but the dsi wont connect any ideas why not and does anyone know how to sort it thanks
+</Content>
+    <Date>2010-03-25 16:10:19</Date>
+    <Timestamp>1269558619</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325161019AAmAoJx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4CSfbU4Yaa</UserId>
+    <UserNick>jake d</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>what connection steps is it doing, or not doing?  is it finding your router?
+
+general troubleshooting here:
+http://www.ehow.com/how_4890413_connect-nintendo-dsi-internet.html
+
+good luck!</ChosenAnswer>
+    <ChosenAnswererId>wz0HdlL1aa</ChosenAnswererId>
+    <ChosenAnswererNick>grandfather raven</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269583701</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270077948</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>what connection steps is it doing, or not doing?  is it finding your router?
+
+general troubleshooting here:
+http://www.ehow.com/how_4890413_connect-nintendo-dsi-internet.html
+
+good luck!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wz0HdlL1aa</UserId>
+            <UserNick>grandfather raven</UserNick>
+            <Date>2010-03-25 23:08:21</Date>
+            <Timestamp>1269583701</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>My ds was not connecting to the internet but i got all my help from this site:
+
+http://www.nintendo.co.uk/NOE/en_GB/support/nintendo_wi-fi_connection_12495_12498.html
+
+when you get to this page, scroll down and click Auto Search. thewn follow the instructions.
+
+now i  have no problem with it. its working perfectly.</Content>
+            <Reference>http://www.nintendo.co.uk/NOE/en_GB/support/nintendo_wi-fi_connection_12495_12498.html</Reference>
+            <Best></Best>
+            <UserId>Mip4lm1Vaa</UserId>
+            <UserNick>Aine</UserNick>
+            <Date>2010-03-26 03:37:53</Date>
+            <Timestamp>1269599873</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:30:07 PDT 2010 -->

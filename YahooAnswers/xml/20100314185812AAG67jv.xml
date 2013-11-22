@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314185812AAG67jv" type="Answered">
+    <Subject>Is there anything similar to top sites that safari has, for internet explorer?</Subject>
+    <Content>You know how Apple&#039;s Safari has the top sites feature? Is there anything similar to that for PC, internet explorer? I know you have your favorites bar but I want something big and visual that I can just click on when i open the internet.
+</Content>
+    <Date>2010-03-14 18:58:12</Date>
+    <Timestamp>1268618292</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314185812AAG67jv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SQnKJ4rRaa</UserId>
+    <UserNick>Ashley</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Should have. You should check out firefox plugin and check</ChosenAnswer>
+    <ChosenAnswererId>tMcIcpQIaa</ChosenAnswererId>
+    <ChosenAnswererNick>Hellodelli</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268618699</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269137815</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Should have. You should check out firefox plugin and check</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tMcIcpQIaa</UserId>
+            <UserNick>Hellodelli</UserNick>
+            <Date>2010-03-14 19:04:59</Date>
+            <Timestamp>1268618699</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The easiest way to do this in IE8 is just press Ctrl+Shift+H, (to bring up history), and they you can select to view your History by &quot;Most Visited&quot;.  Hope that helps!
+
+Kyler
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0BzipcAfaa</UserId>
+            <UserNick>Kyler_IE8_Team</UserNick>
+            <Date>2010-03-16 12:58:09</Date>
+            <Timestamp>1268769489</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:02 PDT 2010 -->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316211922AATgTLm" type="Answered">
+    <Subject>I have several e-mail addresses on different websites is there a program that would check them all?</Subject>
+    <Content>I have this problem, you see i use a lot of e-mails such as Yahoo, Google, Hotmail and str.... The thing i am searching for a program like AIM only so that i could add all of my e-mails and so that it would check them all and also work like skype or AIM for chatting. Well not chatting maybe but for a quick replies. The thing i just installed Windows Live Mail, Windows Live Messenger and AIM and i don&#039;t know if these programs can already do that because i never used them before, but if they do than can someone please explain to me how do i add more of my e-mails to it?
+</Content>
+    <Date>2010-03-16 21:19:22</Date>
+    <Timestamp>1268799562</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316211922AATgTLm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DtMgzp0zaa</UserId>
+    <UserNick>CrashHead</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4baf8c18i923zws135ac4/Xo3pa.M3d6dvSunS2orhXgaKqA--/4/tn48.jpeg?ciAAToMBHBLr6w4f</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Windows Live mail is an email client that can access web email accounts using what is called POP3
+http://www.freeemailtutorials.com/windowsLiveMail/setupEmailAccounts/
+
+if you want a free all in one solution that does email  and instant messaging, try Digsby
+http://www.digsby.com/</ChosenAnswer>
+    <ChosenAnswererId>c59aa0746b771ce4755726e1da6772d1aa</ChosenAnswererId>
+    <ChosenAnswererNick>zoomjet</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268815594</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269682931</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>there is a quick fix 4 you in windows live. on the left hand side click on manage e:mail accounts and you can put all your e:mails in there. i do it all the time</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bQc0iiHeaa</UserId>
+            <UserNick>kellie</UserNick>
+            <Date>2010-03-16 21:28:11</Date>
+            <Timestamp>1268800091</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can add other emails from other providers in Gmail.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5282c46d37ed4261baa201fca221a8e5aa</UserId>
+            <UserNick>Spongeluv11</UserNick>
+            <Date>2010-03-16 21:51:45</Date>
+            <Timestamp>1268801505</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Windows Live mail is an email client that can access web email accounts using what is called POP3
+http://www.freeemailtutorials.com/windowsLiveMail/setupEmailAccounts/
+
+if you want a free all in one solution that does email  and instant messaging, try Digsby
+http://www.digsby.com/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>c59aa0746b771ce4755726e1da6772d1aa</UserId>
+            <UserNick>zoomjet</UserNick>
+            <Date>2010-03-17 01:46:34</Date>
+            <Timestamp>1268815594</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:46:17 PDT 2010 -->

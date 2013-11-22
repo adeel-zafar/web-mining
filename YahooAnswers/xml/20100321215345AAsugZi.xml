@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321215345AAsugZi" type="Answered">
+    <Subject>As Anarki on a forum I got a reply from a female saying &quot;jel tips briski at anarki.&quot; What does that mean?</Subject>
+    <Content>I am not sure what to make of this reply I received on a forum &quot;jel tips briski at anarki.&quot; Maybe someone here can tell me what she meant. Anarki is my name on a forum.
+</Content>
+    <Date>2010-03-21 21:53:45</Date>
+    <Timestamp>1269233625</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321215345AAsugZi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AG5QPnHeaa</UserId>
+    <UserNick>TestTubeBaby</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Jane Fonda.</ChosenAnswer>
+    <ChosenAnswererId>TRLMIgrEaa</ChosenAnswererId>
+    <ChosenAnswererNick>kinamyen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269250211</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269753209</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Jane Fonda.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TRLMIgrEaa</UserId>
+            <UserNick>kinamyen</UserNick>
+            <Date>2010-03-22 02:30:11</Date>
+            <Timestamp>1269250211</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:50 PDT 2010 -->

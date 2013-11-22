@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314183744AABSZmY" type="Answered">
+    <Subject>comcast 250gb a month limit?</Subject>
+    <Content>my mom received an e-mail from comcast talking about a 250gb a month limit meter. but i really dont have a clue as to what it means so can someone tell me what exactly it means. i know that the meter will allow u to track how much uve used but thats all i get about it.
+</Content>
+    <Date>2010-03-14 18:37:44</Date>
+    <Timestamp>1268617064</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314183744AABSZmY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>65QXwpKWaa</UserId>
+    <UserNick>big_c_2009</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you download more than 250GB in data in a month, they can ban you or force you to purchase a more expensive internet package.  Since you are using their service, you are at the mercy of their usage policies.
+
+The fact that your Mom has received an email, that means you have exceeded this amount in recent months and are on their potential abuse list.</ChosenAnswer>
+    <ChosenAnswererId>dc9b38b71a42f0a0ae62534aafc286c9aa</ChosenAnswererId>
+    <ChosenAnswererNick>techman2000</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268617452</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269136447</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You&#039;re capped at 250GB a month of bandwidth. That&#039;s what it means.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-14 18:38:48</Date>
+            <Timestamp>1268617128</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you download more than 250GB in data in a month, they can ban you or force you to purchase a more expensive internet package.  Since you are using their service, you are at the mercy of their usage policies.
+
+The fact that your Mom has received an email, that means you have exceeded this amount in recent months and are on their potential abuse list.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dc9b38b71a42f0a0ae62534aafc286c9aa</UserId>
+            <UserNick>techman2000</UserNick>
+            <Date>2010-03-14 18:44:12</Date>
+            <Timestamp>1268617452</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you don&#039;t know about download limits you probably don&#039;t need to worry about them.
+
+That is a very very high limit, if it is 250 Gigabytes, for example I watched 2.5 hours of the Grand Prix feed from the BBC in excellent quality today, about 20 ten minute long you tube videos and downloaded 4 new albums from amazon and my download for the day was about 4.5GB, so even in a month if I continued at that rate, I&#039;d only be reaching 135GB (I average about 2GB a day normally, today was busy) 
+A high quality 3 minute you tube video might be 50MB (0.05GB) at worst. 
+250 GB is enough to download over 350 feature length movies, as long as there not in High Def. 
+So basically you won&#039;t hit the limit. 
+
+Comcast&#039;s just saying either if you exceed that limit you&#039;ll be charged. Or more likely that when you reach the limit you won&#039;t be able to download anymore for the remainder of the month.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>w6xYjd4Paa</UserId>
+            <UserNick>Cjeam</UserNick>
+            <Date>2010-03-14 19:07:20</Date>
+            <Timestamp>1268618840</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:06 PDT 2010 -->

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302163315AAwNru3" type="Answered">
+    <Subject>Is there a way to watch movies from your computer on your tv?</Subject>
+    <Content>I watch movies online. I don&#039;t download them. But a computer screen can only show so well. I was wondering if there is a cable or something that can connect to the tv so that you can use the tv to watch the movie.
+</Content>
+    <Date>2010-03-02 16:33:15</Date>
+    <Timestamp>1267576395</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302163315AAwNru3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11320794</UserId>
+    <UserNick>SANDJOY54</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/149AcfOV0AAIDX8OapCOfCV8B.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There is a USB adapter made to import and export TV signals from a computer and into it. Consult a GOOD computer store for the info. One side of  it is the USB connection, the other is like on the back of a VCR. There is software to assist it too. You can then import to a  VCR or TV. 
+
+Be forewarned.... The TV quality will not look as good as the PC screen. Reason being, the PC screen usually uses a differing size picture than a TV set. TV&#039;s use a larger picture. Since the &quot;movie&quot; is on a computer, it may not be very clear on the TV, since that picture is made to be smaller. That&#039;s why on TV, they show &quot;youtube&quot; videos to be less clear, than on Youtube, itself.</ChosenAnswer>
+    <ChosenAnswererId>G3ZLkvyAaa</ChosenAnswererId>
+    <ChosenAnswererNick>M G</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267577353</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268803956</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hey there!
+
+You can do this by making sure the computer has a TV out or S-Video plug. You may want to check your computer specifications for this. Once you get that ironed out then all you would need is an rca video cable. If you want to get audio to your tv then go to the site below for the full tutorial.</Content>
+            <Reference>http://www.jasonbakerwebconsultant.com</Reference>
+            <Best></Best>
+            <UserId>y3GqDUStaa</UserId>
+            <UserNick>Jay</UserNick>
+            <Date>2010-03-02 16:39:54</Date>
+            <Timestamp>1267576794</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There is a USB adapter made to import and export TV signals from a computer and into it. Consult a GOOD computer store for the info. One side of  it is the USB connection, the other is like on the back of a VCR. There is software to assist it too. You can then import to a  VCR or TV. 
+
+Be forewarned.... The TV quality will not look as good as the PC screen. Reason being, the PC screen usually uses a differing size picture than a TV set. TV&#039;s use a larger picture. Since the &quot;movie&quot; is on a computer, it may not be very clear on the TV, since that picture is made to be smaller. That&#039;s why on TV, they show &quot;youtube&quot; videos to be less clear, than on Youtube, itself.</Content>
+            <Reference>Video guru, who deals with video</Reference>
+            <Best>5</Best>
+            <UserId>G3ZLkvyAaa</UserId>
+            <UserNick>M G</UserNick>
+            <Date>2010-03-02 16:49:13</Date>
+            <Timestamp>1267577353</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:56 PDT 2010 -->

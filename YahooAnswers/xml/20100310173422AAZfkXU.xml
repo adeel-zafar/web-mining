@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310173422AAZfkXU" type="Answered">
+    <Subject>how can you look at someones tweets if their page is private lol?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-10 17:34:22</Date>
+    <Timestamp>1268271262</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310173422AAZfkXU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dGPlsNNNaa</UserId>
+    <UserNick>brittany</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Respect their privacy you would want the same in return.</ChosenAnswer>
+    <ChosenAnswererId>59Ksz7rDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jason</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268274766</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268787314</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Respect their privacy you would want the same in return.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>59Ksz7rDaa</UserId>
+            <UserNick>Jason</UserNick>
+            <Date>2010-03-10 18:32:46</Date>
+            <Timestamp>1268274766</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:16:26 PDT 2010 -->

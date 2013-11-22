@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225152523AAd3FSk" type="Answered">
+    <Subject>is there a for which how I can internet?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-25 15:25:23</Date>
+    <Timestamp>1267140323</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225152523AAd3FSk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3SFOsMYgaa</UserId>
+    <UserNick>I_AM_PHONE</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>???
+
+probably</ChosenAnswer>
+    <ChosenAnswererId>y6ERkUtiaa</ChosenAnswererId>
+    <ChosenAnswererNick>nikkai</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267140403</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267659885</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>???
+
+probably</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>y6ERkUtiaa</UserId>
+            <UserNick>nikkai</UserNick>
+            <Date>2010-02-25 15:26:43</Date>
+            <Timestamp>1267140403</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>sorry, i&#039;m not clear on your question.  please explain what exactly your question is.</Content>
+            <Reference>http://www.compare-top-web-hosts.com/</Reference>
+            <Best></Best>
+            <UserId>zlrn7S2Caa</UserId>
+            <UserNick>Yoman</UserNick>
+            <Date>2010-02-25 15:27:53</Date>
+            <Timestamp>1267140473</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dKBygIu7aa</UserId>
+            <UserNick>Monkey</UserNick>
+            <Date>2010-02-25 15:36:34</Date>
+            <Timestamp>1267140994</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:24 PDT 2010 -->

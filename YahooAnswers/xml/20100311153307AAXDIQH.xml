@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311153307AAXDIQH" type="Answered">
+    <Subject>Are anti-virus companies the real culprits?</Subject>
+    <Content>It seems to me that anti-virus software companies have the most to gain from the proliferation of viruses across the Internet. I have seen virus-like malware that actually tries to get you to buy anti-virus software after it messes up your computer.
+</Content>
+    <Date>2010-03-11 15:33:07</Date>
+    <Timestamp>1268350387</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311153307AAXDIQH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NXipcqC7aa</UserId>
+    <UserNick>Yahee</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268406000</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268406784</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>That is an interesting theory.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GxSxTc2haa</UserId>
+            <UserNick>lostdog</UserNick>
+            <Date>2010-03-11 16:05:46</Date>
+            <Timestamp>1268352346</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-12 07:00:00</Date>
+            <Timestamp>1268406000</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:12:45 PDT 2010 -->

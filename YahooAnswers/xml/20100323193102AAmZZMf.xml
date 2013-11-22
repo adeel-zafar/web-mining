@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323193102AAmZZMf" type="Answered">
+    <Subject>faster than chatroulette?</Subject>
+    <Content>website better than chat roulette? it freezes on the cams I&#039;m watching. I&#039;m no perv btw. It&#039;s just fat people wanking off.. :/
+</Content>
+    <Date>2010-03-23 19:31:02</Date>
+    <Timestamp>1269397862</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323193102AAmZZMf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GkbT4NhZaa</UserId>
+    <UserNick>Luis</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>hey luis. normally chatroulette works fine for me, but a few times I had the same problem and I tried http://www.chathopper.com/ instead. was ok.</ChosenAnswer>
+    <ChosenAnswererId>C3ikaac3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Poolboy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269447952</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269478126</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>hey luis. normally chatroulette works fine for me, but a few times I had the same problem and I tried http://www.chathopper.com/ instead. was ok.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>C3ikaac3aa</UserId>
+            <UserNick>Poolboy</UserNick>
+            <Date>2010-03-24 09:25:52</Date>
+            <Timestamp>1269447952</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:16:55 PDT 2010 -->

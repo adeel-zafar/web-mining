@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327180246AAypoNV" type="Answered">
+    <Subject>when i go to youtube.useing internet explorer or mozilla firefox,they both crash..anybody got any ideas?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-27 18:02:46</Date>
+    <Timestamp>1269738166</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327180246AAypoNV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uK7SSADsaa</UserId>
+    <UserNick>david</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you should install Google chrome. it&#039;s much much much better!</ChosenAnswer>
+    <ChosenAnswererId>Tcdi6zpqaa</ChosenAnswererId>
+    <ChosenAnswererNick>WelshBabe2010</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269738227</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270257777</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you should install Google chrome. it&#039;s much much much better!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Tcdi6zpqaa</UserId>
+            <UserNick>WelshBabe2010</UserNick>
+            <Date>2010-03-27 18:03:47</Date>
+            <Timestamp>1269738227</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Make sure the followings are installed on your computer
+*Adobe Flash Player 10- Active X
+*Adobe Flash Player 10- Plugin</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aSMLeponaa</UserId>
+            <UserNick>M3</UserNick>
+            <Date>2010-03-31 00:35:28</Date>
+            <Timestamp>1270020928</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:37 PDT 2010 -->

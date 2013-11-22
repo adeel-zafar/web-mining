@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301115706AAL565W" type="Answered">
+    <Subject>can i know the ip address of the person through an email he has sent me?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-01 11:57:06</Date>
+    <Timestamp>1267473426</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301115706AAL565W</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pvcu5QgQaa</UserId>
+    <UserNick>vivek24aggarwal</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can find out the IP address of the server that it was sent from, but I don&#039;t think that you can find the IP address of the person&#039;s computer that it was sent from.  To see it, you have to display the full headers of the email.   How to do this can vary depending on which email client and/or service provider you use for email.  There should be documentation on how to find this for your email client and/or service provider.</ChosenAnswer>
+    <ChosenAnswererId>W36nEwITaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tha Ram</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267473712</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267992870</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well i know on yahoo you can, on the bottom of the email click on full headers.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pbrL2mJaaa</UserId>
+            <UserNick>albino_the_whino</UserNick>
+            <Date>2010-03-01 12:00:11</Date>
+            <Timestamp>1267473611</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nah</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nbG4pGEyaa</UserId>
+            <UserNick>Kevin Fuck</UserNick>
+            <Date>2010-03-01 12:00:33</Date>
+            <Timestamp>1267473633</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>no unless you are the FBI</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>h41LSPtraa</UserId>
+            <UserNick>ANDY</UserNick>
+            <Date>2010-03-01 12:00:37</Date>
+            <Timestamp>1267473637</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can find out the IP address of the server that it was sent from, but I don&#039;t think that you can find the IP address of the person&#039;s computer that it was sent from.  To see it, you have to display the full headers of the email.   How to do this can vary depending on which email client and/or service provider you use for email.  There should be documentation on how to find this for your email client and/or service provider.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>W36nEwITaa</UserId>
+            <UserNick>Tha Ram</UserNick>
+            <Date>2010-03-01 12:01:52</Date>
+            <Timestamp>1267473712</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, the key is to look at the email header information.  the header contains information such as the sent date, sender and recipient etc.. as well as a full trace of where the email came from.  Since most people arent interested in the detailed header information, most email programs will &quot;hide&quot; the tracking information from you and just show you the sender, recipient and sent date.
+
+However, they still make it available for your to view if you wanted to.  See this website for instructions on viewing the full email header:
+
+http://www.spamcop.net/fom-serve/cache/19.html
+
+I looked at their instructions for gmail and sure enough.. I was able to find the full detailed header.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wtaVfhVnaa</UserId>
+            <UserNick>Scott</UserNick>
+            <Date>2010-03-01 12:04:42</Date>
+            <Timestamp>1267473882</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes you can unless IP address is hidden. You can use email tracing tools below and track email from sender:
+http://www.ipaddresslocation.org/email-tracking/email-header.php
+http://www.find-ip-address.org/email-search/find-email.php
+
+Just copy/paste email header into email tracking tools above and you will get all information&#039;s.</Content>
+            <Reference>http://www.ipaddresslocation.org
+http://www.find-ip-address.org</Reference>
+            <Best></Best>
+            <UserId>N16coDrUaa</UserId>
+            <UserNick>Miha L</UserNick>
+            <Date>2010-03-02 07:05:56</Date>
+            <Timestamp>1267542356</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:31:39 PDT 2010 -->

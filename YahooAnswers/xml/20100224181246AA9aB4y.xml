@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224181246AA9aB4y" type="Answered">
+    <Subject>What is this website?</Subject>
+    <Content>I remember a website I went on quite a while ago, and i don&#039;t remember the name of it. The entire website was games where you&#039;d have to type things in for a category. There were ones like the digits of pi, elements of the periodic table, songs for different bands. Anyone know this website? It&#039;d be great if you do!
+And it&#039;s not on a regular gaming site. It&#039;s an entire website with the same thing
+You have a category, like one I remember is Adam sandler movies. You have a certain amount of time to get all teh different answers. You type it in, and if it&#039;s there it comes up, if not it doesn&#039;t
+</Content>
+    <Date>2010-02-24 18:12:46</Date>
+    <Timestamp>1267063966</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224181246AA9aB4y</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>v8tE8jwYaa</UserId>
+    <UserNick>Lauri_Lover x</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bacab5i189dz/1mTLaNs9erME8PlsiFIc9kxaig--/2/tn48.jpg?ciAAToMBYuM7xaA.</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think there are a couple of websites that do that, but heres one http://www.sporcle.com/</ChosenAnswer>
+    <ChosenAnswererId>lEx7ki3paa</ChosenAnswererId>
+    <ChosenAnswererNick>xperiencerock</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267064505</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267286020</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think there are a couple of websites that do that, but heres one http://www.sporcle.com/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>lEx7ki3paa</UserId>
+            <UserNick>xperiencerock</UserNick>
+            <Date>2010-02-24 18:21:45</Date>
+            <Timestamp>1267064505</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:12:08 PDT 2010 -->

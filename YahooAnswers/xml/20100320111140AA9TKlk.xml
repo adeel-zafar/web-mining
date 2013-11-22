@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320111140AA9TKlk" type="Answered">
+    <Subject>Where do emails go after you permanently delete them?</Subject>
+    <Content>Been wondering this for a while. Do they still exist somewhere? When you delete them, where do they go? They don&#039;t get stored in your computer; they have to go to some place online don&#039;t they? Thanks ;)
+</Content>
+    <Date>2010-03-20 11:11:40</Date>
+    <Timestamp>1269108700</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320111140AA9TKlk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IIluqzNRaa</UserId>
+    <UserNick>Eric</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes. When you delete them off of your computer, they are only removed from the filesystem index. This means that through an undeleter application, any and all emails/files can be restored. Over time though, these deleted files are overwritten with new files.
+
+Online though, deleted emails could be stored on some server, somewhere... basically forever. They are only deleted from your inbox. Remember, on the internet, nothing is truly safe.</ChosenAnswer>
+    <ChosenAnswererId>VktnoVG6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Caleb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269109045</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269302635</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Email heaven?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>mFrgARBPaa</UserId>
+            <UserNick>Mark</UserNick>
+            <Date>2010-03-20 11:12:38</Date>
+            <Timestamp>1269108758</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes some1 i know said they can last 4 like 5 years</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>avgVXIkVaa</UserId>
+            <UserNick>scream 4 life</UserNick>
+            <Date>2010-03-20 11:12:49</Date>
+            <Timestamp>1269108769</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>E-mail hell</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RX9PbUYpaa</UserId>
+            <UserNick>Ratnayesu</UserNick>
+            <Date>2010-03-20 11:17:25</Date>
+            <Timestamp>1269109045</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes. When you delete them off of your computer, they are only removed from the filesystem index. This means that through an undeleter application, any and all emails/files can be restored. Over time though, these deleted files are overwritten with new files.
+
+Online though, deleted emails could be stored on some server, somewhere... basically forever. They are only deleted from your inbox. Remember, on the internet, nothing is truly safe.</Content>
+            <Reference>Me</Reference>
+            <Best>5</Best>
+            <UserId>VktnoVG6aa</UserId>
+            <UserNick>Caleb</UserNick>
+            <Date>2010-03-20 11:17:25</Date>
+            <Timestamp>1269109045</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>They get deleted.  However, if the email provider you use does caching (server wide copy just incase of a catastrophic server failure where they need to restore it to a previous point), it&#039;s possible for them to exist until their cache expires.  I don&#039;t think any email provider reveals how long the cache is kept.  But don&#039;t worry, no-one can see them unless they have access to the server itself.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Iczovh15aa</UserId>
+            <UserNick>mattimcmillan</UserNick>
+            <Date>2010-03-20 11:18:57</Date>
+            <Timestamp>1269109137</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>the government stores them in a file they keep on you . 
+
+really , by default they are sent to the trash folder in your email client . Unless you check in the options for them not to be sent there. You can also have them deleted from the trash folder when you shut down the email client . you can also right click on the trash folder and click Empty Trash . They are gone .
+ They are like any other data on your hard drive . they just get written over when you delete them permanently . If your email client is set to leave a copy on the server than there will be on there. 
+this all assumes that you are downloading your email to your pc . If you are using web based email like yahoo then it is on their server and the same all applies except it is not on your drive.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>u2w40ptEaa</UserId>
+            <UserNick>marcus</UserNick>
+            <Date>2010-03-20 11:22:43</Date>
+            <Timestamp>1269109363</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:31:05 PDT 2010 -->

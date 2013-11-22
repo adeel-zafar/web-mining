@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311013943AAf0Gms" type="Answered">
+    <Subject>How can I stop Internet Explorer displaying history in new tabs?</Subject>
+    <Content>I know how to delete the history afterwards, but how do I prevent the history being shown in the first place? I have Internet Explorer 8 and whenever I open a new tab, the page always shows the history under the guise of: &quot;View tabs that you&#039;ve closed since starting Internet Explorer.&quot; Without even trying, anyone can see exactly what I&#039;ve been looking at. How can I stop it showing a list or previously visited websites? The information is quite detailed; for example, it doesn&#039;t just show answers.yahoo.com; rather it shows the exact title of the question I was looking at. Bah, it&#039;s annoying the h*ll out of me. Thanks.
+I tried browsing  using the &quot;InPrivate&quot; function but it doesn&#039;t solve the problem.
+I don&#039;t have google toolbar; the problem is with internet explorer 8 itself.
+</Content>
+    <Date>2010-03-11 01:39:43</Date>
+    <Timestamp>1268300383</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311013943AAf0Gms</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vDmfHcP7aa</UserId>
+    <UserNick>Answers</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>use firefox instead. and choose to never remember history. nothing will ever be saved.
+or look for a similar setting in internet explorer.</ChosenAnswer>
+    <ChosenAnswererId>3Qk0rxWYaa</ChosenAnswererId>
+    <ChosenAnswererNick>R</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268300528</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268816012</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>use firefox instead. and choose to never remember history. nothing will ever be saved.
+or look for a similar setting in internet explorer.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3Qk0rxWYaa</UserId>
+            <UserNick>R</UserNick>
+            <Date>2010-03-11 01:42:08</Date>
+            <Timestamp>1268300528</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Open your internet explore, go to internet options in general tabs on browsing history click setting
+Then set Temporary internet file to never and day to keep history set to 0</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OnF2vzOcaa</UserId>
+            <UserNick>Arkady</UserNick>
+            <Date>2010-03-11 01:51:29</Date>
+            <Timestamp>1268301089</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go into Tools&gt;Internet Options&gt;Tabs&gt;Settings
+From there you can control what the new tab opens with.
+
+For future reference, check out InPrivate Browsing, a feature that allows you to browse without leaving a trace:
+http://windows.microsoft.com/en-GB/windows-vista/What-is-InPrivate-Browsing
+
+Cheers,
+Kyler
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0BzipcAfaa</UserId>
+            <UserNick>Kyler_IE8_Team</UserNick>
+            <Date>2010-03-12 16:42:13</Date>
+            <Timestamp>1268440933</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:14:22 PDT 2010 -->

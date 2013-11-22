@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316164444AAUg8JJ" type="Answered">
+    <Subject>Question about tumblr.com?</Subject>
+    <Content>If you&#039;re logged into your account and you go on someone else&#039;s tumblr, can they see that you have been on it, if you don&#039;t &quot;follow&quot; them?
+</Content>
+    <Date>2010-03-16 16:44:44</Date>
+    <Timestamp>1268783084</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316164444AAUg8JJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>YumnMIo3aa</UserId>
+    <UserNick>You Just Hope ... That It Lasts</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba420e5icb9zws106ac4/vpFFONcwdaESiKGwRKsSU1Q-/2/tn48.jpeg?ciAAToMBR.rLBCqW</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no it doesnt work like that.</ChosenAnswer>
+    <ChosenAnswererId>JVbD8M0Laa</ChosenAnswererId>
+    <ChosenAnswererNick>mrs.patches</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268783170</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268873342</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no it doesnt work like that.</Content>
+            <Reference>i have a tumblr.</Reference>
+            <Best>5</Best>
+            <UserId>JVbD8M0Laa</UserId>
+            <UserNick>mrs.patches</UserNick>
+            <Date>2010-03-16 16:46:10</Date>
+            <Timestamp>1268783170</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nope</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BkeGPtHqaa</UserId>
+            <UserNick>Jake</UserNick>
+            <Date>2010-03-16 16:56:00</Date>
+            <Timestamp>1268783760</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>noooo... not possible
+
+follow me, reblog me
+http://smokingfish.tumblr.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XtshWw4Kaa</UserId>
+            <UserNick>Geneinde T</UserNick>
+            <Date>2010-03-17 06:30:26</Date>
+            <Timestamp>1268832626</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:47:37 PDT 2010 -->

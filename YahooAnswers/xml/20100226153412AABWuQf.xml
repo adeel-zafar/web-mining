@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226153412AABWuQf" type="Answered">
+    <Subject>what is the website for the yahoo vs google thingerr ?</Subject>
+    <Content>alskdfjlskdjf;asedklfj
+</Content>
+    <Date>2010-02-26 15:34:12</Date>
+    <Timestamp>1267227252</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226153412AABWuQf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>87cb178e24f281ed39ba7bae627297dfaa</UserId>
+    <UserNick>Erica:D</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1jMEDWFMTAAIC-oHEvDUUSUGLKcQF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>not quite understand your question try this:
+
+http://www.googleguy.de/google-yahoo/</ChosenAnswer>
+    <ChosenAnswererId>AA11932598</ChosenAnswererId>
+    <ChosenAnswererNick>Demeer 007</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267227795</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267746874</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>not quite understand your question try this:
+
+http://www.googleguy.de/google-yahoo/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11932598</UserId>
+            <UserNick>Demeer 007</UserNick>
+            <Date>2010-02-26 15:43:15</Date>
+            <Timestamp>1267227795</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:48:55 PDT 2010 -->

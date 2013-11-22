@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224182521AAxFptc" type="Answered">
+    <Subject>Try to log into a web sight that I have been using and this error is what I get, HELP?</Subject>
+    <Content>http://www.therapy247.com/index.php
+
+What did I do?  How can I fix this and log on?  I&#039;ve even tried to join again and got same message.  What does it mean?  I am not the owner of the web sight so I don&#039;t know why it offers me the 500.
+Yeah, I can get to the sight, I just can&#039;t log in.  Every time I try, I get that error.  Would some one else try login or join and let me know if it is me or their sight?
+</Content>
+    <Date>2010-02-24 18:25:21</Date>
+    <Timestamp>1267064721</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224182521AAxFptc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4xsAQBZuaa</UserId>
+    <UserNick>Somewhere</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You may want to check your FTP and make sure you all files are the way you had them when it was working. check permissions, check your index file, your configuration. if this is a CMS you are using try to search the error in support.
+
+ACTUALLY Your site works OK to me just don&#039;t place Index.php at the end 
+
+http://www.therapy247.com/</ChosenAnswer>
+    <ChosenAnswererId>Z7uPNqtcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mangi</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267064932</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267239929</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You may want to check your FTP and make sure you all files are the way you had them when it was working. check permissions, check your index file, your configuration. if this is a CMS you are using try to search the error in support.
+
+ACTUALLY Your site works OK to me just don&#039;t place Index.php at the end 
+
+http://www.therapy247.com/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Z7uPNqtcaa</UserId>
+            <UserNick>Mangi</UserNick>
+            <Date>2010-02-24 18:28:52</Date>
+            <Timestamp>1267064932</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:12:05 PDT 2010 -->

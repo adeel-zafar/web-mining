@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223205810AA1vC5d" type="Answered">
+    <Subject>Why does my firefox take so long to load?</Subject>
+    <Content>I am a tech guru, but I cannot figure out why firefox takes so long to load! It takes 45 seconds!!!!
+
+i7 860 2.93GHz
+4GB DDR3 1600MHz
+x2 (crossfire) HD 2600 Pro 512MB
+firefox just takes forever to open up as in the program itself. Internet is 20Mbps down, no prob there. IE is much faster.
+</Content>
+    <Date>2010-02-23 20:58:10</Date>
+    <Timestamp>1266987490</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223205810AA1vC5d</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cx6IwGiiaa</UserId>
+    <UserNick>david_sonnen2000</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>maybe its ur computer my firefox only takes 15 seconds to open</ChosenAnswer>
+    <ChosenAnswererId>qW8A7XiUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Money</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266988123</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267506842</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>THAT IS ALMOST NORMAL USE SAFARI</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ohQKINs2aa</UserId>
+            <UserNick>MASTERUDY</UserNick>
+            <Date>2010-02-23 21:00:06</Date>
+            <Timestamp>1266987606</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nice specs. I used to have a dell Inspiron 5100 that took about 5 minutes to open anything. Does everything else open properly? You could try re installing firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>W15gBzZ0aa</UserId>
+            <UserNick>Matt</UserNick>
+            <Date>2010-02-23 21:01:45</Date>
+            <Timestamp>1266987705</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>is it actually firefox doesn&#039;t appear or that ur net&#039;s uber slow?
+in the latter case check ur modem/router, net connection an firewall,
+also may wanna reset ur tcp ip stack
+
+try using ie? any difference? once positive firefox is screwed, attempt a re-install (backup bookmarks/add ons b4 doing this).</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>z7GIIesAaa</UserId>
+            <UserNick>VE9A</UserNick>
+            <Date>2010-02-23 21:03:48</Date>
+            <Timestamp>1266987828</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>maybe its ur computer my firefox only takes 15 seconds to open</Content>
+            <Reference>myself</Reference>
+            <Best>5</Best>
+            <UserId>qW8A7XiUaa</UserId>
+            <UserNick>Money</UserNick>
+            <Date>2010-02-23 21:08:43</Date>
+            <Timestamp>1266988123</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:16:33 PDT 2010 -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227053039AAmDq7T" type="Answered">
+    <Subject>Where and how can I create a live stream to talk to people like on youtube?</Subject>
+    <Content>The YouTube Streams were retired and I need a new stream somewhere which is like youtube so that I can talk to my youtube friends. Please help us.
+We need to be able to play youtube videos to each other and talk to each other.
+</Content>
+    <Date>2010-02-27 05:30:39</Date>
+    <Timestamp>1267277439</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227053039AAmDq7T</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>q3oD5G2vaa</UserId>
+    <UserNick>mcgalaptopisthebest</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1KyWsl-TRAAACQWEo8AceAQ==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ustream.tv is one of the most popular places to do this. It works quite well.</ChosenAnswer>
+    <ChosenAnswererId>U86bILN9aa</ChosenAnswererId>
+    <ChosenAnswererNick>RaycerX</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267277651</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267796734</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ustream.tv is one of the most popular places to do this. It works quite well.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>U86bILN9aa</UserId>
+            <UserNick>RaycerX</UserNick>
+            <Date>2010-02-27 05:34:11</Date>
+            <Timestamp>1267277651</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Stickam.com i dont know if you have to purchase anything but i figured it out last night cause i watch FridayNightCranks every friday night LIVE on this website</Content>
+            <Reference>www.stickam.com</Reference>
+            <Best></Best>
+            <UserId>tfqQWshnaa</UserId>
+            <UserNick>Eminem and Drake Fan Since 09</UserNick>
+            <Date>2010-02-27 05:34:56</Date>
+            <Timestamp>1267277696</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:45:53 PDT 2010 -->

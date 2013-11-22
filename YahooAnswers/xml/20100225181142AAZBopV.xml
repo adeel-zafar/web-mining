@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225181142AAZBopV" type="Answered">
+    <Subject>how do i contact the webmaster for wwwcomedycentral.com or does anybody know the contact information?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-25 18:11:42</Date>
+    <Timestamp>1267150302</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225181142AAZBopV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TRhHelRFaa</UserId>
+    <UserNick>codeeagle</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hello,
+
+If you need to contact them just use the following form that I attached in the Source section of my answer to get support on the website.
+
+Regards,
+New York City Police Department
+NYPD@Hargray.com</ChosenAnswer>
+    <ChosenAnswererId>Bm6DBay9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Gregory Miller</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267150650</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267829560</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hello,
+
+If you need to contact them just use the following form that I attached in the Source section of my answer to get support on the website.
+
+Regards,
+New York City Police Department
+NYPD@Hargray.com</Content>
+            <Reference>http://www.comedycentral.com/help/questionsWeb.jhtml</Reference>
+            <Best>5</Best>
+            <UserId>Bm6DBay9aa</UserId>
+            <UserNick>New York City Police Department</UserNick>
+            <Date>2010-02-25 18:17:30</Date>
+            <Timestamp>1267150650</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:54:25 PDT 2010 -->

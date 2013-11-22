@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315190503AAAAvpv" type="Answered">
+    <Subject>Why am I not signed in to certain websites after clicking &#039;remember me&#039;?</Subject>
+    <Content>It&#039;s kind of hard to explain.. But, like I click &#039;remember me&#039; or &#039;stay signed in&#039; And every time I exit out, I have to keep reentering my user name/password etc..
+
+ALSO, why doesn&#039;t my computer save my previously typed in websites in my browser? [I use Mozilla Firefox and have Windows XP]
+
+Thanks again.
+</Content>
+    <Date>2010-03-15 19:05:03</Date>
+    <Timestamp>1268705103</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315190503AAAAvpv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nz5yM0WEaa</UserId>
+    <UserNick>YanYan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sounds like you&#039;re using privacy browsing or something similar. The website aren&#039;t &quot;remembering&quot; you because your cookies aren&#039;t being saved. The history isn&#039;t tracking because your browser is set up for private browsing.</ChosenAnswer>
+    <ChosenAnswererId>XfNmI8nRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Alex</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268705347</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268796235</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You must allow cookies in your browser....and don&#039;t delete them.
+
+It is cookies that allow your computer to &quot;&#039;remember me&#039; and &#039;stay signed in&#039;.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2ce047bPaa</UserId>
+            <UserNick>TempoOne</UserNick>
+            <Date>2010-03-15 19:08:58</Date>
+            <Timestamp>1268705338</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sounds like you&#039;re using privacy browsing or something similar. The website aren&#039;t &quot;remembering&quot; you because your cookies aren&#039;t being saved. The history isn&#039;t tracking because your browser is set up for private browsing.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>XfNmI8nRaa</UserId>
+            <UserNick>Alex</UserNick>
+            <Date>2010-03-15 19:09:07</Date>
+            <Timestamp>1268705347</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:57 PDT 2010 -->

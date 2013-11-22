@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402131035AATgmIs" type="Answered">
+    <Subject>How do I upload a moving avatar with a file type .gif?</Subject>
+    <Content>every time i upload it, it stops moving....plz help.
+</Content>
+    <Date>2010-04-02 13:10:35</Date>
+    <Timestamp>1270239035</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402131035AATgmIs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>byHsmbFSaa</UserId>
+    <UserNick>Tom_129</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If it stops moving then the most likely answer is that whatever site you are uploading to does not support gif&#039;s. They may let you upload them yes, but most forums and stuff have the option in the background to disable moving pictures.</ChosenAnswer>
+    <ChosenAnswererId>mfVJeogWaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ek49ten</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270239785</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270339598</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If it stops moving then the most likely answer is that whatever site you are uploading to does not support gif&#039;s. They may let you upload them yes, but most forums and stuff have the option in the background to disable moving pictures.</Content>
+            <Reference>Need more direct assistance or maybe someone to remote in and do it for you? Visit my profile and chat with me while I&#039;m online or send me a message to setup a good time for us to talk.  http://www.crossloop.com/JoshStephens</Reference>
+            <Best>5</Best>
+            <UserId>mfVJeogWaa</UserId>
+            <UserNick>Ek49ten</UserNick>
+            <Date>2010-04-02 13:23:05</Date>
+            <Timestamp>1270239785</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:10 PDT 2010 -->

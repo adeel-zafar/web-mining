@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312204929AACiyUX" type="Answered">
+    <Subject>Keepvid.com isn&#039;t working?</Subject>
+    <Content>I&#039;ve been using Keepvid.com for years to download videos from YouTube. For some reason, when I pasted the link into the &quot;download&quot; bar, it comes up with a bunch of percentage signs and said, &quot;Firefox cannot download this file.&quot; Is anyone else having this problem? And if so, how can this be fixed?
+</Content>
+    <Date>2010-03-12 20:49:29</Date>
+    <Timestamp>1268455769</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312204929AACiyUX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sLBZGU4Raa</UserId>
+    <UserNick>Rascal</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1x2Ft3JN4AAIB3QT_AcNMHIoB.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>ClipNabber is a similar site which still works for downloading youtube videos.</ChosenAnswer>
+    <ChosenAnswererId>mOM4rZmjaa</ChosenAnswererId>
+    <ChosenAnswererNick>moleproject5</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268497371</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268971520</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hi Rascal. Keepvid doesn&#039;t work with the latest YouTube changes. You could try VDownloader instead.</Content>
+            <Reference>http://vdownloader.com</Reference>
+            <Best></Best>
+            <UserId>0LyE9pLuaa</UserId>
+            <UserNick>Ken</UserNick>
+            <Date>2010-03-13 02:37:13</Date>
+            <Timestamp>1268476633</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ClipNabber is a similar site which still works for downloading youtube videos.</Content>
+            <Reference>http://clipnabber.com</Reference>
+            <Best>5</Best>
+            <UserId>mOM4rZmjaa</UserId>
+            <UserNick>moleproject5</UserNick>
+            <Date>2010-03-13 08:22:51</Date>
+            <Timestamp>1268497371</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:06:28 PDT 2010 -->

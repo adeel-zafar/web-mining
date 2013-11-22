@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316152438AAEVXKY" type="Answered">
+    <Subject>Beat anti-virus softwares?</Subject>
+    <Content>my computer is infected with viruses....plz provide me the links of the best anti-virus software downloads dat are at the same time also free.
+plz asap...
+thanx..
+</Content>
+    <Date>2010-03-16 15:24:38</Date>
+    <Timestamp>1268778278</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316152438AAEVXKY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>E7wiPIFxaa</UserId>
+    <UserNick>La Begude de Mazenc</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268831892</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268832528</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Kaspersky.
+
+www.kaspersky.co.uk</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>09Z48u5oaa</UserId>
+            <UserNick>Mike</UserNick>
+            <Date>2010-03-16 15:32:36</Date>
+            <Timestamp>1268778756</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I would Recommend Malwarebytes Anti-malware Though you might want to try downloading it on another computer and put the set up on a usb-drive (so the viruses don&#039;t screw up the set up), and then rebooting your infected computer into safe mode (Done by pressing F8 when you first turn it on) and then installing it. After that, run the scanner (takes awhile) and then it should show what viruses are on your computer.
+
+Heres the link: http://www.malwarebytes.org/
+
+Hope it works ;)</Content>
+            <Reference>I used it for my computer and it scanned 87 viruses on my computer and got rid of them all for free (unlike Windows One-care, that found 0 for $50 a year. Fail Microsoft, FAIL).</Reference>
+            <Best></Best>
+            <UserId>LtwCiEB9aa</UserId>
+            <UserNick>marthian0</UserNick>
+            <Date>2010-03-16 15:33:59</Date>
+            <Timestamp>1268778839</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ah yes i have the perfect one for you
+Microsoft security essentials is one of the best free anti-viruses out there !
+it is made by microsoft !
+i remeber this one time there was this virus on my friend&#039;s flash drive and as soon as he put it into my computer without even scanning it picked up a virus and alerted me.
+
+here is the link for Microsoft security essentials download :http://www.microsoft.com/security_essentials/default.aspx
+
+if that does not work you can download avg anti virus from download.cnet.com
+good luck :)</Content>
+            <Reference>http://www.microsoft.com/security_essentials/default.aspx</Reference>
+            <Best></Best>
+            <UserId>YNv5uRu5aa</UserId>
+            <UserNick>Shock10003</UserNick>
+            <Date>2010-03-16 15:34:43</Date>
+            <Timestamp>1268778883</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can use SpywareNoMore. 
+As we all know Computer hackers seeking financial gain rather than thrills or notoriety are increasingly flooding the Internet with malicious software code (spyware, adware, key loggers, trojans). They are infecting computers with highly sophisticated programs that record surfing habits, bank passwords and other key financial data and send them to crooks over the Internet. These programs can be hard to spot, disguised in downloads such as toolbars, search engines, browser accessories, screen savers and other seemingly helpful utilities.
+
+SpyNoMore anti-spyware safeguards your identity and restores system performance through fast, smart and powerful spyware protection.
+http://www.dvd-rip-software.com/Other-Software/Other_Tools/SpyNoMore.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ALbLOYeYaa</UserId>
+            <UserNick>Mark</UserNick>
+            <Date>2010-03-16 18:38:31</Date>
+            <Timestamp>1268789911</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-17 06:18:12</Date>
+            <Timestamp>1268831892</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:48:05 PDT 2010 -->

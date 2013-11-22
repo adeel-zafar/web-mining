@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223141414AA67lGx" type="Answered">
+    <Subject>My Internet Explorer and Firefox programs don&#039;t work....help?</Subject>
+    <Content>Hey...
+So I just used HouseCall to remove a malware/virus program on my laptop.
+It got rid of the virus....but completely removed Firefox and Internet Explorer with it, leaving only the shortcuts and the buttons on my program list.
+
+What do I do to get internet back on my laptop?
+But I don&#039;t have internet to download them....so I&#039;m kind of stuck....I&#039;m on someone else&#039;s pc asking this.
+</Content>
+    <Date>2010-02-23 14:14:14</Date>
+    <Timestamp>1266963254</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223141414AA67lGx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yeQhP3Zbaa</UserId>
+    <UserNick>Goldie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can do IE restore with RegTOOL.
+More benifit, With RegTOOL you can safely clean and repair the windows registry with a few simple clicks.
+
+http://www.keep-pc-clean.com/</ChosenAnswer>
+    <ChosenAnswererId>Gfz9n8Knaa</ChosenAnswererId>
+    <ChosenAnswererNick>Newspa</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266978803</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267482941</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>u can try to download the firefox or internet explorer. do one of them. it may cause a virus if u download both. hope this info. helped.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1EjitjXTaa</UserId>
+            <UserNick>Karen</UserNick>
+            <Date>2010-02-23 14:22:03</Date>
+            <Timestamp>1266963723</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can do IE restore with RegTOOL.
+More benifit, With RegTOOL you can safely clean and repair the windows registry with a few simple clicks.
+
+http://www.keep-pc-clean.com/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Gfz9n8Knaa</UserId>
+            <UserNick>Newspa</UserNick>
+            <Date>2010-02-23 18:33:23</Date>
+            <Timestamp>1266978803</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:18:58 PDT 2010 -->

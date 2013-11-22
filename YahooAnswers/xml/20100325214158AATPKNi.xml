@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325214158AATPKNi" type="Answered">
+    <Subject>Why does my Firefox keep crashing -__- ?</Subject>
+    <Content>It keeps freezing and then it says:
+
+A script on this page may be busy, or it may have stopped responding. You can stop the script now, or you can continue to see if the script will complete.
+
+It happens like every five-ten minutes. It&#039;s reaaaaally annoying me now. How can I stop this?
+I just had a chocolate chip cookie a couple hours ago! :D And I always delete cookies and history. =/
+</Content>
+    <Date>2010-03-25 21:41:58</Date>
+    <Timestamp>1269578518</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325214158AATPKNi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VWpmbf2xaa</UserId>
+    <UserNick>:] [:</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4af607aci13a6zul5sp1/iKrfkwsibqvhXYeNXca4Be3RJ4A-/8/tn48.jpg?ciAAToMBFKDAdacA</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Delete some cookies and restart firefox. 
+
+This used to happen to me a lot so I started using google chrome. It&#039;s really fast and it doesn&#039;t crash a lot.</ChosenAnswer>
+    <ChosenAnswererId>04qI9hUhaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jedi Master Padfoot ϟ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269580561</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269722504</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you should clear out some space by deleting cookies, no not chocolate chip cookies.
+
+just go to tools&gt;internet tools&gt;browsing history&gt;cookies</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hIPLbQ5raa</UserId>
+            <UserNick>Assistant Manager Man</UserNick>
+            <Date>2010-03-25 21:58:53</Date>
+            <Timestamp>1269579533</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Delete some cookies and restart firefox. 
+
+This used to happen to me a lot so I started using google chrome. It&#039;s really fast and it doesn&#039;t crash a lot.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>04qI9hUhaa</UserId>
+            <UserNick>Padfoot ϟ</UserNick>
+            <Date>2010-03-25 22:16:01</Date>
+            <Timestamp>1269580561</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>A computer&#039;s registry is one big database that has numerous files, options, and settings. These settings and options keep changing with every second of you using your PC and can lead to the damage of some of these settings. This causes errors to show up and the computer to crash.  Registry cleaners http://make-a-computer-run-better.com      software scan the computer&#039;s errors and matches all files and settings with the applications that use them. If it identifies any file or setting to be damaged, missing, or corrupted, it provides you with an updated list of the same and also repairs these errors.  Therefore, if your computer keeps crashing and need to fix blue screen of death a good registry cleaner is all you need. Your computer can also cause problems because of redundant files in its registry. Reg cleaners identify all these redundant and junk files that were left over during the uninstalling process of hardware of software and delete them. This makes sure that the &quot;computer keeps crashing&quot; issue is taken care of.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tVDKms8Saa</UserId>
+            <UserNick>Gfmjkk</UserNick>
+            <Date>2010-03-26 07:22:27</Date>
+            <Timestamp>1269613347</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:44 PDT 2010 -->

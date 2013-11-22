@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317015442AA8TgM1" type="Answered">
+    <Subject>Why does youtube look different in Internet Explorer to how it looks in Firefox?</Subject>
+    <Content>For some reason, youtube looks like this in Explorer: http://s925.photobucket.com/albums/ad93/thisisme272/Youtube/
+
+and it looks like this in Firefox: http://s925.photobucket.com/albums/ad93/thisisme272/Youtube/Youtube%20in%20Firefox/?action=view&amp;current=CapturefromFirefox.jpg
+</Content>
+    <Date>2010-03-17 01:54:42</Date>
+    <Timestamp>1268816082</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317015442AA8TgM1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kBAo4DNYaa</UserId>
+    <UserNick>thisisme272</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1a1zDLDprAAEC2GKcON0SDg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Youtube just updated their website layout. The updated look is on the Explorer, and it will probably be the same in Firefox after some time.</ChosenAnswer>
+    <ChosenAnswererId>Nf3L0DLiaa</ChosenAnswererId>
+    <ChosenAnswererNick>poisonmagic</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268819407</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268867911</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Youtube just updated their website layout. The updated look is on the Explorer, and it will probably be the same in Firefox after some time.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Nf3L0DLiaa</UserId>
+            <UserNick>poisonmagic</UserNick>
+            <Date>2010-03-17 02:50:07</Date>
+            <Timestamp>1268819407</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:45:45 PDT 2010 -->

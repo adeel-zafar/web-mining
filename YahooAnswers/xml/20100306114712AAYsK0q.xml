@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306114712AAYsK0q" type="Answered">
+    <Subject>Another Paypal/Bank Account Question?</Subject>
+    <Content>Ok, so if I have $30 directly in my paypal account and I wanted to buy something from eBay that is $34.99 but the rest of my money resides in my Chase online bank account, will the eBay system first drain the $30 from my paypal account and then take the $4.99 out of my Chase online bank account to pay for the rest? I mean before I got a refund for an item on eBay, I actually never put any money into my paypal account, it always just took the money directly from my Chase online account and it was very easy. I just don&#039;t want any problems that&#039;s all.
+</Content>
+    <Date>2010-03-06 11:47:12</Date>
+    <Timestamp>1267904832</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306114712AAYsK0q</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rRU0CL40aa</UserId>
+    <UserNick>dnlbottemiller</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Paypal always takes a remaining balance first to pay for your items. So yes, you will pay the $30 from your Paypal account and the balance of $4.99 from either your bank account or credit card, however you have it set up.</ChosenAnswer>
+    <ChosenAnswererId>DQkDQraOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sandy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267904994</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268128064</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Paypal always takes a remaining balance first to pay for your items. So yes, you will pay the $30 from your Paypal account and the balance of $4.99 from either your bank account or credit card, however you have it set up.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DQkDQraOaa</UserId>
+            <UserNick>Sandy</UserNick>
+            <Date>2010-03-06 11:49:54</Date>
+            <Timestamp>1267904994</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>When you checkout it will tell you exactly where the funds are coming from, and let you change that. The PayPal balance is always used first so y ou can pick where the $4.99 comes from</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>CD0nky0Uaa</UserId>
+            <UserNick>EJ</UserNick>
+            <Date>2010-03-06 11:58:57</Date>
+            <Timestamp>1267905537</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:47:38 PDT 2010 -->

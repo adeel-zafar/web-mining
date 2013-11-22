@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304154247AAkW9Vp" type="Answered">
+    <Subject>Whats the Wiki Answers website?</Subject>
+    <Content>well i found this wiki answers site and it was very useful but i cant find it! i know it was like a wiki something website and it was like gray the website was grayish beige and it sometimes it has like a howcast video under it so if u cN HELP ME THAT WOULD BE GREAT THANKS!!! oh srry caps
+its not the website all green and orange and stuff
+</Content>
+    <Date>2010-03-04 15:42:47</Date>
+    <Timestamp>1267746167</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304154247AAkW9Vp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Fj4gHPYwaa</UserId>
+    <UserNick>Abbi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>http://en.wikipedia.org/wiki/Main_Page
+
+go to this link....and choose my answer for the best answer...because it is the best.</ChosenAnswer>
+    <ChosenAnswererId>2U6F84t4aa</ChosenAnswererId>
+    <ChosenAnswererNick>major9211</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267748400</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268082058</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://wiki.answers.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VzSpV4Xoaa</UserId>
+            <UserNick>Dave L</UserNick>
+            <Date>2010-03-04 15:44:42</Date>
+            <Timestamp>1267746282</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://wiki.answers.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>euQRhsY9aa</UserId>
+            <UserNick>s</UserNick>
+            <Date>2010-03-04 16:15:05</Date>
+            <Timestamp>1267748105</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://en.wikipedia.org/wiki/Main_Page
+
+go to this link....and choose my answer for the best answer...because it is the best.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>2U6F84t4aa</UserId>
+            <UserNick>major9211</UserNick>
+            <Date>2010-03-04 16:20:00</Date>
+            <Timestamp>1267748400</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>2U6F84t4aa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-18 13:20:14</Date>
+            <Timestamp>1267748400</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:09:14 PDT 2010 -->

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330154833AAv87U7" type="Answered">
+    <Subject>I need help with a virus problem!? Ok, right now my virus protection will only let me know if there are virus?</Subject>
+    <Content>I need help with a virus problem!?
+Ok, right now my virus protection will only let me know if there are virus on my computer. I have to register to remove them. Does anyone know a free virus scan, and remover I can download? I don&#039;t want to buy it.
+</Content>
+    <Date>2010-03-30 15:48:33</Date>
+    <Timestamp>1269989313</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330154833AAv87U7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1LRBY3EVaa</UserId>
+    <UserNick>Plato</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>wsZtB0xhaa</ChosenAnswererId>
+    <ChosenAnswererNick>google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270074059</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270075095</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>avg anti virus 
+or
+avast</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JGac70YDaa</UserId>
+            <UserNick>Jade Inc.</UserNick>
+            <Date>2010-03-30 15:50:49</Date>
+            <Timestamp>1269989449</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>For anti malware, I suggest using a cocktail of anti malware programs as each of them find things the others don&#039;t.
+
+Here is a video reference guide on how to use these anti malware programs from start to finish: http://www.youtube.com/watch?v=8Ah3efRdWes 
+
+Avira Anti Virus (free, high detection rate, and light on system resources): http://download.cnet.com/Avira-AntiVir-Personal-Free-Antivirus/3000-2239_4-10322935.html?tag=mncol 
+
+Malwarebytes (free, very good cleaner): http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html?tag=mncol 
+
+Super Anti Spyware (free, does a pretty good job of cleaning whatever is left over, good detection rate, especially in combination with other programs): http://download.cnet.com/SuperAntiSpyware-Free-Edition/3000-8022_4-10523889.html?tag=mncol</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UrUElKojaa</UserId>
+            <UserNick>Bruno</UserNick>
+            <Date>2010-03-30 15:51:10</Date>
+            <Timestamp>1269989470</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wsZtB0xhaa</UserId>
+            <UserNick>google</UserNick>
+            <Date>2010-03-31 15:20:59</Date>
+            <Timestamp>1270074059</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:49 PDT 2010 -->

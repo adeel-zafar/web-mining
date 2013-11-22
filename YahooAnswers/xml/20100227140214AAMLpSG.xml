@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227140214AAMLpSG" type="Answered">
+    <Subject>Is there a FireFox extension/hack to do this?</Subject>
+    <Content>I want to delete files from downloads window.
+I use Mac.
+I DON&#039;T WANT TO CLEAR THE DOWNLOAD MANAGER, I WANT TO DELETE THE FILES COMPLETELY FROM HE COMPUTER!!!
+</Content>
+    <Date>2010-02-27 14:02:14</Date>
+    <Timestamp>1267308134</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227140214AAMLpSG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>YoEiIxeHaa</UserId>
+    <UserNick>Chris</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1J70Exg-1AAIBfYOcFKs91zUB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>On Windows you hit Control+J to open the download manager and there should be a button at the bottom to clear the list. Maybe MAC version works different.
+
+I don&#039;t have a MAC but I find this is the easiest way on Windows to keep the download manager clean.
+
+In the address bar for Firefox type:
+
+about:config
+
+and press enter.
+
+You&#039;ll have a page full of text.
+In the filter box at the top type:
+
+browser.download.manager.retention
+
+you should see the entry pop up as you type.
+Double click the entry. The current value should be set to 2. Change it to 1 and click Okay.
+
+Now every time you close Firefox it will clear the download manager.
+
+Edit: Looking back on it, it almost seems like you are asking if you can somehow delete the downloaded file itself from the Firefox download window. If this is the case, I&#039;m not sure I&#039;ve ever seen an extension to do this.</ChosenAnswer>
+    <ChosenAnswererId>eI3Kgfi8aa</ChosenAnswererId>
+    <ChosenAnswererNick>GideonD</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267308857</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267827800</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>On Windows you hit Control+J to open the download manager and there should be a button at the bottom to clear the list. Maybe MAC version works different.
+
+I don&#039;t have a MAC but I find this is the easiest way on Windows to keep the download manager clean.
+
+In the address bar for Firefox type:
+
+about:config
+
+and press enter.
+
+You&#039;ll have a page full of text.
+In the filter box at the top type:
+
+browser.download.manager.retention
+
+you should see the entry pop up as you type.
+Double click the entry. The current value should be set to 2. Change it to 1 and click Okay.
+
+Now every time you close Firefox it will clear the download manager.
+
+Edit: Looking back on it, it almost seems like you are asking if you can somehow delete the downloaded file itself from the Firefox download window. If this is the case, I&#039;m not sure I&#039;ve ever seen an extension to do this.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>eI3Kgfi8aa</UserId>
+            <UserNick>GideonD</UserNick>
+            <Date>2010-02-27 14:14:17</Date>
+            <Timestamp>1267308857</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try OnyX to delete all your temporary downloaded files ( which in fact the contents of download window are the same).
+
+You can download it from (http://www.versiontracker.com/dyn/moreinfo/macosx/20070)
+
+and there are also many other Optimization Softwares for Mac : Look at here (http://www.versiontracker.com/macosx/systemutilities/maintenance-optimization)
+
+Good Luck</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JLr3UcEHaa</UserId>
+            <UserNick>MS</UserNick>
+            <Date>2010-03-01 03:49:04</Date>
+            <Timestamp>1267444144</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:42:53 PDT 2010 -->

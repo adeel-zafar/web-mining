@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323060337AApZysp" type="Answered">
+    <Subject>How do I delete contacts from my LinkedIn account that I previously added?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-23 06:03:37</Date>
+    <Timestamp>1269349417</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323060337AApZysp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>r5ck3vaEaa</UserId>
+    <UserNick>DMR</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bc0b9fi29e9z/_UHYT3k1eqiVrRRd4FOGMypSvbw-/100/tn48.jpg?ciAAToMBmnrkde5c</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>After logging on, point to Contacts, select Profile Organizer.  On the right, you will see Remove Connections.</ChosenAnswer>
+    <ChosenAnswererId>QYqE96X4aa</ChosenAnswererId>
+    <ChosenAnswererNick>Bayne (infoworks-llc.com)</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269349915</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269869118</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>After logging on, point to Contacts, select Profile Organizer.  On the right, you will see Remove Connections.</Content>
+            <Reference>http://www.on-site-computer-repair-service.com/index.html</Reference>
+            <Best>5</Best>
+            <UserId>QYqE96X4aa</UserId>
+            <UserNick>Bayne (infoworks-llc.com)</UserNick>
+            <Date>2010-03-23 06:11:55</Date>
+            <Timestamp>1269349915</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:19:04 PDT 2010 -->

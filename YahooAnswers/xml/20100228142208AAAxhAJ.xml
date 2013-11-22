@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228142208AAAxhAJ" type="Answered">
+    <Subject>Can someone give me a weeworld prepaid card?</Subject>
+    <Content>Give me a weeworld prepaid card,and I will give you a free weeworld account.
+</Content>
+    <Date>2010-02-28 14:22:08</Date>
+    <Timestamp>1267395728</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228142208AAAxhAJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LkeHdIXyaa</UserId>
+    <UserNick>Cassie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no</ChosenAnswer>
+    <ChosenAnswererId>AA10503899</ChosenAnswererId>
+    <ChosenAnswererNick>neil</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267395772</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267915439</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10503899</UserId>
+            <UserNick>neil</UserNick>
+            <Date>2010-02-28 14:22:52</Date>
+            <Timestamp>1267395772</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Dude Thats Not Worth It
+Do Surveys 
+Stupid -.-</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6knW9tpOaa</UserId>
+            <UserNick>xxjappgirlxx</UserNick>
+            <Date>2010-03-01 07:54:28</Date>
+            <Timestamp>1267458868</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:36:51 PDT 2010 -->

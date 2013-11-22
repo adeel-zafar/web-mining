@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311121250AAqw4A7" type="Answered">
+    <Subject>Why does internet explorer keep going offline &amp; I have to keep connecting &amp; then it comes back on?</Subject>
+    <Content>I keep having to connect
+</Content>
+    <Date>2010-03-11 12:12:50</Date>
+    <Timestamp>1268338370</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311121250AAqw4A7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lf3OcG5Eaa</UserId>
+    <UserNick>Susan U</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb0b835i559zws123mud/6pGBpWQibrTtJpcU4UV6A.R3q6DuocPHysBulZiUQpg-/2/tn48.jpeg?ciAAToMB6YPF..1e</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>solve your problem and quit using internet explorer - use firefox fire fox is more stable</ChosenAnswer>
+    <ChosenAnswererId>AA11767225</ChosenAnswererId>
+    <ChosenAnswererNick>bert_beer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268422469</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268513777</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>solve your problem and quit using internet explorer - use firefox fire fox is more stable</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>AA11767225</UserId>
+            <UserNick>bert_beer</UserNick>
+            <Date>2010-03-12 11:34:29</Date>
+            <Timestamp>1268422469</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:13:16 PDT 2010 -->

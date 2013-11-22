@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314160214AAq4NEV" type="Answered">
+    <Subject>how come my friends on aim say i randomly message them when i dont?</Subject>
+    <Content>they always say that i send this 2 them,     Tell me if you think I look hot in these pics they are on my profile Click Here.. Wtf is happening... occasionally it says that i have been signed on to aim from a different location
+</Content>
+    <Date>2010-03-14 16:02:14</Date>
+    <Timestamp>1268607734</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314160214AAq4NEV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eKyDXirhaa</UserId>
+    <UserNick>J</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sounds like maybe a spammer virus has hijacked your login information and sent it to a third party. Try to run a full system scan for viruses and change your login information.</ChosenAnswer>
+    <ChosenAnswererId>JB5oviApaa</ChosenAnswererId>
+    <ChosenAnswererNick>longjim71</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268608436</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268652682</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sounds like maybe a spammer virus has hijacked your login information and sent it to a third party. Try to run a full system scan for viruses and change your login information.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>JB5oviApaa</UserId>
+            <UserNick>longjim71</UserNick>
+            <Date>2010-03-14 16:13:56</Date>
+            <Timestamp>1268608436</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:45 PDT 2010 -->

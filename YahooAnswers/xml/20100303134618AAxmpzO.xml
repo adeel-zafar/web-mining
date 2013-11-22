@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303134618AAxmpzO" type="Answered">
+    <Subject>Question about Skype please help?</Subject>
+    <Content>Okay well since you can call another Skype user for free if you both have Skype, is it the same with Video Calls being free for two Skype users from Skype to Skype?
+</Content>
+    <Date>2010-03-03 13:46:18</Date>
+    <Timestamp>1267652778</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303134618AAxmpzO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ibh1NAk1aa</UserId>
+    <UserNick>Aspiring Actress</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1AnR-5ORmAAEDVIJdUJSBZH8B.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes the video call is also free. Everything skype to skype is always free. Happy skyping...</ChosenAnswer>
+    <ChosenAnswererId>NlbNZhEzaa</ChosenAnswererId>
+    <ChosenAnswererNick>U A</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267652880</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267840281</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes the video call is also free. Everything skype to skype is always free. Happy skyping...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NlbNZhEzaa</UserId>
+            <UserNick>U A</UserNick>
+            <Date>2010-03-03 13:48:00</Date>
+            <Timestamp>1267652880</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:16:18 PDT 2010 -->

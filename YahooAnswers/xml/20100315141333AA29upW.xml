@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315141333AA29upW" type="Answered">
+    <Subject>My Firefox history won&#039;t delete!?</Subject>
+    <Content>I&#039;ve tried to delete a site off my address bar, and it won&#039;t remove. It lets me delete other sites off the address bar but not this one. I&#039;ve tried deleting EVERYTHING and that doesn&#039;t work! I usually just hit the arrow button down on the address bar and hit &#039;delete&#039; but it keeps popping up. I also tried going to  &quot;Tools&quot; then &quot;Clear recent history&quot; and delete it all, but it keeps coming back! Help!
+</Content>
+    <Date>2010-03-15 14:13:33</Date>
+    <Timestamp>1268687613</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315141333AA29upW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NXL4bGNjaa</UserId>
+    <UserNick>Paiten</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1lf5odJ8gAAIB1yS6dCbbOmvLNw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try running the free, downloadable tool CCleaner: http://download.cnet.com/ccleaner/?tag=mncol
+It removes temporary files put in place by browsers like Firefox, Internet Explorer, Safari and Chrome. It also cleans unwanted files that Windows leaves behind.</ChosenAnswer>
+    <ChosenAnswererId>YXmN1VPZaa</ChosenAnswererId>
+    <ChosenAnswererNick>Micman</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268687874</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269233048</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try running the free, downloadable tool CCleaner: http://download.cnet.com/ccleaner/?tag=mncol
+It removes temporary files put in place by browsers like Firefox, Internet Explorer, Safari and Chrome. It also cleans unwanted files that Windows leaves behind.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>YXmN1VPZaa</UserId>
+            <UserNick>Micman</UserNick>
+            <Date>2010-03-15 14:17:54</Date>
+            <Timestamp>1268687874</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If it is in the Address Bar then it is your Home page and cannot be deleted until you change it.
+Run CCleaner and all History will be gone from all browsers.
+
+http://www.filehippo.com/download_ccleaner/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>F3ITpTcwaa</UserId>
+            <UserNick>Arther</UserNick>
+            <Date>2010-03-15 14:17:58</Date>
+            <Timestamp>1268687878</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Might be a virus? If you still can&#039;t delete it / it deletes and regenerates try a) launching Firefox in safe mode and deleting b) boot WINDOWS into safe mode and delete c) run Avast and AVG, restart, try again. And I think the other post said CCleaner, thats a really good app.</Content>
+            <Reference>Mah noggin.</Reference>
+            <Best></Best>
+            <UserId>HbQ5xLOPaa</UserId>
+            <UserNick>Austin</UserNick>
+            <Date>2010-03-15 14:26:48</Date>
+            <Timestamp>1268688408</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:53:27 PDT 2010 -->

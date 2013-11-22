@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326091313AASNXFd" type="Answered">
+    <Subject>Can&#039;t connect to internet?</Subject>
+    <Content>My desktop cannot connect thru the internet from the ethernet cord in the wall. This cord is good cause I used it to connect my laptop to go online and the internet works. I think my desktop might have a virus that is preventing me from going online. It is a dell. Does anyone know how to fix it and make it read the network connection and go online?
+</Content>
+    <Date>2010-03-26 09:13:13</Date>
+    <Timestamp>1269619993</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326091313AASNXFd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Cp5Sw3YYaa</UserId>
+    <UserNick>Brett B</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Maybe internet access is blocked on one way or another? When you plug in the cord, find &quot;Network and Sharing Centre&quot; or &quot;My Network&quot; or whatever it is called on your computer. You can sometimes get to it through the start menu, but if not then it will be in the control panel.
+
+See if anything appears in this window. If there is a connection appearing, then go through the options to find any hints on why it is unable to connect.</ChosenAnswer>
+    <ChosenAnswererId>tKkegjWCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ross G.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269620135</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269908285</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe internet access is blocked on one way or another? When you plug in the cord, find &quot;Network and Sharing Centre&quot; or &quot;My Network&quot; or whatever it is called on your computer. You can sometimes get to it through the start menu, but if not then it will be in the control panel.
+
+See if anything appears in this window. If there is a connection appearing, then go through the options to find any hints on why it is unable to connect.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>tKkegjWCaa</UserId>
+            <UserNick>Ross G.</UserNick>
+            <Date>2010-03-26 09:15:35</Date>
+            <Timestamp>1269620135</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can use a network diagnostic tool which comes with all computers, go to control panel: Network and sharing center and click &quot;diagnose and repair&quot; It&#039;s probably not a virus.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KS0VWvDFaa</UserId>
+            <UserNick>David</UserNick>
+            <Date>2010-03-26 09:16:16</Date>
+            <Timestamp>1269620176</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Only thing I can think of is to double check your that your network isn&#039;t disabled on your desktop.  Start&gt;Connect To&gt;Show All Connections.  Try right clicking on your landline, disable, then enable.   
+
+I&#039;m assuming you&#039;ve already tried a reboot.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>f092f9b0b0f77b45728689bf0a1bbbdaaa</UserId>
+            <UserNick>ScaredToDrive</UserNick>
+            <Date>2010-03-26 09:17:13</Date>
+            <Timestamp>1269620233</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:27:06 PDT 2010 -->

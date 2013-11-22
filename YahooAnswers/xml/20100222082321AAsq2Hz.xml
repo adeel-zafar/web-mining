@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222082321AAsq2Hz" type="Answered">
+    <Subject>Trouble downloading on Firefox?</Subject>
+    <Content>When I download something on Firefox, it begins to download, but after it completes, it is no longer in the little &quot;Downloads box&quot; that pops up on the screen (the one with a &quot;clear list&quot; option on the bottom less).
+
+Where, then do I manually find the program I&#039;m trying to download to complete the installation?  It&#039;s an updated anti-spyware program.
+</Content>
+    <Date>2010-02-22 08:23:21</Date>
+    <Timestamp>1266855801</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222082321AAsq2Hz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zzebri5iaa</UserId>
+    <UserNick>Mark</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b0cc85di4d2zul8sp1/j.hSbWE8erTy81JVsw74Ar3epA--/4/tn48.jpg?ciAAToMBm4XJ4u.q</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>in option select show download when done,u can also check from tools and also pres ctrl and j.</ChosenAnswer>
+    <ChosenAnswererId>a9KVZLhiaa</ChosenAnswererId>
+    <ChosenAnswererNick>Help</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267201308</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267375509</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Locate the file:
+Tools&gt; Options&gt; General tab: Downloads section.  
+Tick the &quot;browse&quot; button, look through the folder index; your current location of downloaded files will be highlighted.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>14d0ad3dfdb4dd36a9f896b96a702e69aa</UserId>
+            <UserNick>Dunbar Pappy ϟϟ</UserNick>
+            <Date>2010-02-22 15:53:52</Date>
+            <Timestamp>1266882832</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>in option select show download when done,u can also check from tools and also pres ctrl and j.</Content>
+            <Reference>me</Reference>
+            <Best>5</Best>
+            <UserId>a9KVZLhiaa</UserId>
+            <UserNick>Help</UserNick>
+            <Date>2010-02-26 08:21:48</Date>
+            <Timestamp>1267201308</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:28:44 PDT 2010 -->

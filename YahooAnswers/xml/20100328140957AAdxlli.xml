@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328140957AAdxlli" type="Answered">
+    <Subject>chatroulette not working?</Subject>
+    <Content>whenever i try to go on chatroulette, nomatter how many times i try to go on, the brower doesnt respond and then i have to close the browser i was on. Anyone help?
+</Content>
+    <Date>2010-03-28 14:09:57</Date>
+    <Timestamp>1269810597</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328140957AAdxlli</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BkNnRkrFaa</UserId>
+    <UserNick>JunJou fan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1sf5PK0s8AAECQqGbkJjPCQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s not related to your computer nor to your browser. Chatroulette server is too busy. Wait till tomorrow : it&#039;ll be less crowded. It&#039;s sunday : people want to show their dicks before going back to work on monday.</ChosenAnswer>
+    <ChosenAnswererId>2gPo71ckaa</ChosenAnswererId>
+    <ChosenAnswererNick>Christelle B.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269818458</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270329896</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>not working... for troubleshooting steps go to this blog.
+
+www.computernett.blogspot.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>KWHgbXGNaa</UserId>
+            <UserNick>nokia 3110c</UserNick>
+            <Date>2010-03-28 14:15:07</Date>
+            <Timestamp>1269810907</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s not related to your computer nor to your browser. Chatroulette server is too busy. Wait till tomorrow : it&#039;ll be less crowded. It&#039;s sunday : people want to show their dicks before going back to work on monday.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2gPo71ckaa</UserId>
+            <UserNick>Christelle B.</UserNick>
+            <Date>2010-03-28 16:20:58</Date>
+            <Timestamp>1269818458</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:18:07 PDT 2010 -->

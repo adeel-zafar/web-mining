@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309131832AAhseGh" type="Answered">
+    <Subject>Why does Internet explorer, when I try to play a downloaded game, keep saying. we have encountered a problem?</Subject>
+    <Content>
+and it needs to close down? It really is annoying...
+Does firefox really make that much difference?
+If I change to firefox,how can I keep favourites? Sorry, not very computer savvy!!!
+</Content>
+    <Date>2010-03-09 13:18:32</Date>
+    <Timestamp>1268169512</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309131832AAhseGh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1f679bc58770e6dd444bf7da2ce83727aa</UserId>
+    <UserNick>lightfootfourteenth</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1qV1XV--pAAID9qFryJay08QumShbd_4S.medium.jpg</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Internet Explorer is a pain, I had problems for years before I discovered Mozilla Firefox I was always having to use the Task Manager to get out of hung screens. 
+
+Just download Firefox, its free. Your computer will be faster with no more &quot;we have encountered a problem and need to close&quot; or &quot;the page is not responding&quot;.</ChosenAnswer>
+    <ChosenAnswererId>6JYnwZCwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Trust me I&#039;m a Doctor</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268172509</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269212750</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>because it&#039;s Explorer. Use Mozilla Firefox instead.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>roVgQLI4aa</UserId>
+            <UserNick>Skibbs</UserNick>
+            <Date>2010-03-09 13:19:33</Date>
+            <Timestamp>1268169573</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Get Firefox. It&#039;s much better. ;)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4OLDamoVaa</UserId>
+            <UserNick>Exaskryz</UserNick>
+            <Date>2010-03-09 13:19:51</Date>
+            <Timestamp>1268169591</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Because Internet Explorer is crappy..use Firefox or Opera 10..Opera 10 is the best</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8AShljhDaa</UserId>
+            <UserNick>sdotk</UserNick>
+            <Date>2010-03-09 13:20:22</Date>
+            <Timestamp>1268169622</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Does IE work when you just try and go on regular websites? If it doesn&#039;t then it could be a connection problem. 
+
+Check all cables are in and that your broadband is working. Click on tool and make sure it is online within the options and not currently working offline.
+
+If you can get on other sites then it may be a problem with the game download you are trying to play. Make sure it is not a virus that you are downloading. 
+
+If it is a game within internet explorer not something you have downloaded and saved then check you are up to date with the latest explorer version and any add ons you need for the game such as java and/or ActiveX controls. 
+
+If not any of this check your securuty setting within Internet Explorer. They may be on the highest setting preventing that particular game from working. Tools&gt;Internet options&gt;Security. 
+
+Also check your firewall as it could be blocking that application or game. 
+
+In fact those last two things I have suggested I should really have suggested first as they&#039;d be the first two things to check. Hope this helps.
+
+You can keep your favourites if you install firefox, it gives you the option of copying all your present favourites from Internet Explorer. The only trouble then is that if you use firefox for a while and decide you don&#039;t like it, it can be difficult to then get any newly added favourites back to IE.
+
+I&#039;m not a big fan of Firefox I think Internet Explorer is much better. You just have to be sure to keep it updated. The game should work in Explorer so there must be some issue as to why you get the error message. Try asking the company that provides the online game what the cause may be, they may be able to troubleshoot it better for you.
+
+When it says it has encountered a problem and needs to close that must signify something more seriously wrong with the program as to why it doesn&#039;t work. I would recommend you update to the latest version of Internet Explorer and download and install any add on&#039;s that you need to play the game e.g. Java and/or ActiveX. If you still have the same error message it could be a hardware problem. Have you made any recent changes to your computer with its hardware and what is connected?  What are your system specs e.g. Cpu, Memory, Graphics Card, Direct X version?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jMkWH4MGaa</UserId>
+            <UserNick>john10001</UserNick>
+            <Date>2010-03-09 13:24:54</Date>
+            <Timestamp>1268169894</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Question is a bit too brief to give an answer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XkycjorQaa</UserId>
+            <UserNick>Ds34</UserNick>
+            <Date>2010-03-09 14:03:51</Date>
+            <Timestamp>1268172231</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Internet Explorer is a pain, I had problems for years before I discovered Mozilla Firefox I was always having to use the Task Manager to get out of hung screens. 
+
+Just download Firefox, its free. Your computer will be faster with no more &quot;we have encountered a problem and need to close&quot; or &quot;the page is not responding&quot;.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6JYnwZCwaa</UserId>
+            <UserNick>Trust Me I&#039;m a Doctor ♥</UserNick>
+            <Date>2010-03-09 14:08:29</Date>
+            <Timestamp>1268172509</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:24:17 PDT 2010 -->

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324052737AAG0h5A" type="Answered">
+    <Subject>I am neither able downlaod nor attach the file b,coz of Internet Securities, Will Somebody give me the way?</Subject>
+    <Content>I have recelntly Broughted a Lenovo Laptop. I am not able to Either Download nor able to attach file from My yahoo Mail Account. Is somebuddy there to help me in this Regards, who can tell me how to Enable the Security Settings?
+</Content>
+    <Date>2010-03-24 05:27:37</Date>
+    <Timestamp>1269433657</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324052737AAG0h5A</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>04jH4X81aa</UserId>
+    <UserNick>sunil v</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1zMGFvyTiAAICQWEo8AceAQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>open ur internet explorer, in the &quot;tools&quot; , click &quot;internet options&quot;, and then click the security tab !!
+set the &quot;security level&quot; for ur internet zone to the &quot;medium level&quot; ( u can also set it to low level at ur own risk, but medium level is recommended )!!
+
+i hope this will help u. . .</ChosenAnswer>
+    <ChosenAnswererId>MFdPBLNoaa</ChosenAnswererId>
+    <ChosenAnswererNick>bhupi</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269438093</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269953024</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>click tools, internet options security, set to medium</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DeiuAuwyaa</UserId>
+            <UserNick>Brenda</UserNick>
+            <Date>2010-03-24 06:41:09</Date>
+            <Timestamp>1269438069</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>open ur internet explorer, in the &quot;tools&quot; , click &quot;internet options&quot;, and then click the security tab !!
+set the &quot;security level&quot; for ur internet zone to the &quot;medium level&quot; ( u can also set it to low level at ur own risk, but medium level is recommended )!!
+
+i hope this will help u. . .</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>MFdPBLNoaa</UserId>
+            <UserNick>bhupi</UserNick>
+            <Date>2010-03-24 06:41:33</Date>
+            <Timestamp>1269438093</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:35:43 PDT 2010 -->

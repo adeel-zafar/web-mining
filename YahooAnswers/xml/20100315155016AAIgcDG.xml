@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315155016AAIgcDG" type="Answered">
+    <Subject>I delete the file containing the virus, will my computer still be infected with the virus?</Subject>
+    <Content>I stored a file from my pen-drive onto my pc even though the usb had a virus...after i was done using the file(which took about a minute)i deleted it and even formatted my usb...will my computer be infected by the virus?
+</Content>
+    <Date>2010-03-15 15:50:16</Date>
+    <Timestamp>1268693416</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315155016AAIgcDG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8VqhaaiXaa</UserId>
+    <UserNick>Prudential</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268751650</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268752017</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>most likely not unless it spread and infected files which is very rare now days</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wIqAXTxEaa</UserId>
+            <UserNick>jessejayd@yahoo.com</UserNick>
+            <Date>2010-03-15 15:56:39</Date>
+            <Timestamp>1268693799</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well it probably is gone but make sure you run a virus scan.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qyY3nMNfaa</UserId>
+            <UserNick>I am cOw</UserNick>
+            <Date>2010-03-15 16:05:22</Date>
+            <Timestamp>1268694322</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-16 08:00:50</Date>
+            <Timestamp>1268751650</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:47 PDT 2010 -->

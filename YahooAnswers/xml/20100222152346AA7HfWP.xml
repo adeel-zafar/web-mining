@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222152346AA7HfWP" type="Answered">
+    <Subject>How do I get my internet explorer working again since its in &quot;Working Offline&quot; mode?</Subject>
+    <Content>I can&#039;t get on the internet because of this. P.S. I do not have a file button on my browser.
+</Content>
+    <Date>2010-02-22 15:23:46</Date>
+    <Timestamp>1266881026</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222152346AA7HfWP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8X64tie8aa</UserId>
+    <UserNick>William M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Since you don&#039;t have file try tools and when you scroll down it has work offlline and it will either be checked or not. Uncheck it.</ChosenAnswer>
+    <ChosenAnswererId>xFAoQAImaa</ChosenAnswererId>
+    <ChosenAnswererNick>Love that dog</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266881132</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268322853</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>In IE 8
+
+click on tools and work online</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iU2e8dsRaa</UserId>
+            <UserNick>Pirates of Hell</UserNick>
+            <Date>2010-02-22 15:25:15</Date>
+            <Timestamp>1266881115</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Since you don&#039;t have file try tools and when you scroll down it has work offlline and it will either be checked or not. Uncheck it.</Content>
+            <Reference>Hope I helped</Reference>
+            <Best>5</Best>
+            <UserId>xFAoQAImaa</UserId>
+            <UserNick>Love that dog</UserNick>
+            <Date>2010-02-22 15:25:32</Date>
+            <Timestamp>1266881132</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Click on file &lt;&gt; uncheck work off line.</Content>
+            <Reference>Computer Tech</Reference>
+            <Best></Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-02-22 15:28:11</Date>
+            <Timestamp>1266881291</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Are you running Internet Explorer 8?
+
+If not, here is a link to get you started: 
+http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie8_sm_a
+
+In IE8 go to Tools then click Work Offline (so that there is an X over the globe)
+
+I hope this helps!
+
+Cheers,
+
+Bryn
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5A9mfbA3aa</UserId>
+            <UserNick>Bryn</UserNick>
+            <Date>2010-02-23 09:41:32</Date>
+            <Timestamp>1266946892</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:26:06 PDT 2010 -->

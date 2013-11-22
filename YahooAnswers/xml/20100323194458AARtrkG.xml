@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323194458AARtrkG" type="Answered">
+    <Subject>What website can I watch episodes of The Hills on?</Subject>
+    <Content>I live in Australia by the way so not every site works, eg MTV wont work..
+</Content>
+    <Date>2010-03-23 19:44:58</Date>
+    <Timestamp>1269398698</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323194458AARtrkG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hcV6wlgSaa</UserId>
+    <UserNick>Katie</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try hulu, youtube or tv.com</ChosenAnswer>
+    <ChosenAnswererId>8w0YnbZgaa</ChosenAnswererId>
+    <ChosenAnswererNick>J-MAN</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269398791</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270105933</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try hulu, youtube or tv.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>8w0YnbZgaa</UserId>
+            <UserNick>Joe L</UserNick>
+            <Date>2010-03-23 19:46:31</Date>
+            <Timestamp>1269398791</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try www.fancast.com maybe? not too sure but I know they have television shows on there.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SsdhHuZDaa</UserId>
+            <UserNick>shelbyysmackdown</UserNick>
+            <Date>2010-03-23 19:47:08</Date>
+            <Timestamp>1269398828</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try this website it should work http://www.free-tv-video-online.info/internet/the_hills/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>A0w69OQAaa</UserId>
+            <UserNick>apocalipse1909</UserNick>
+            <Date>2010-03-23 19:55:25</Date>
+            <Timestamp>1269399325</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:16:50 PDT 2010 -->

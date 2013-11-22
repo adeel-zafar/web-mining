@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311182651AABXimQ" type="Answered">
+    <Subject>What other search engines exist besides...?</Subject>
+    <Content>You know, Google, Bing, Ask, and of course, Yahoo? What others are out there, past, present or future ones coming out?
+</Content>
+    <Date>2010-03-11 18:26:51</Date>
+    <Timestamp>1268360811</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311182651AABXimQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0vE0m1lnaa</UserId>
+    <UserNick>Brian</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ajCZ3F5TAAEBPCKbuBYOdC0B.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>Swagbucks. Its a search engine where you can win free prizes for just searching. Its 100% legit. Sign up here:
+http://www.swagbucks.com/refer/Packers199515</ChosenAnswer>
+    <ChosenAnswererId>JDuT9ypCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Joe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268363289</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268378954</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Swagbucks. Its a search engine where you can win free prizes for just searching. Its 100% legit. Sign up here:
+http://www.swagbucks.com/refer/Packers199515</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>JDuT9ypCaa</UserId>
+            <UserNick>Joe</UserNick>
+            <Date>2010-03-11 19:08:09</Date>
+            <Timestamp>1268363289</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>JDuT9ypCaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-12 12:46:16</Date>
+            <Timestamp>1268363289</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:12:24 PDT 2010 -->

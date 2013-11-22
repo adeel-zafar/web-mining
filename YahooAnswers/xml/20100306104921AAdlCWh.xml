@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306104921AAdlCWh" type="Answered">
+    <Subject>If I get an account on Formspringme, will I still be able to ask people questions anonymously?</Subject>
+    <Content>Some people on that website have their question posted on someone else&#039;s site, with their username next to it. Will that happen to me if I make an account? Because for now, without making an account no one knows it is me asking the question.
+</Content>
+    <Date>2010-03-06 10:49:21</Date>
+    <Timestamp>1267901361</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306104921AAdlCWh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iZtT72dfaa</UserId>
+    <UserNick>Travis</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yess. 
+theres an option where it says 
+&quot;Include Your User Info&quot;
+or
+anonymous.</ChosenAnswer>
+    <ChosenAnswererId>CdkVlNRFaa</ChosenAnswererId>
+    <ChosenAnswererNick>jennaa! // (:</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267901791</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268045840</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yess. 
+theres an option where it says 
+&quot;Include Your User Info&quot;
+or
+anonymous.</Content>
+            <Reference>:D</Reference>
+            <Best>4</Best>
+            <UserId>CdkVlNRFaa</UserId>
+            <UserNick>Jenna;;♥</UserNick>
+            <Date>2010-03-06 10:56:31</Date>
+            <Timestamp>1267901791</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:48:02 PDT 2010 -->

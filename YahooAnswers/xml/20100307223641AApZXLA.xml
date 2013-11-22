@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307223641AApZXLA" type="Answered">
+    <Subject>Why do none of my browsers work except firefox?</Subject>
+    <Content>I have IE, Chrome, and Safari and none of them work. They all say that they can&#039;t load the page. Same thing with apps like Yahoo. The only thing that works is Firefox. I thought it might be a virus, but I&#039;ve scanned (with trial version of Norton) and found nothing. I&#039;ve also tried to install SpyBot but it won&#039;t install without connecting to the internet. Any ideas as to what&#039;s going on and how to fix it?
+</Content>
+    <Date>2010-03-07 22:36:41</Date>
+    <Timestamp>1268030201</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307223641AApZXLA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AElpCNxgaa</UserId>
+    <UserNick>jsj_rules</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it&#039;s not virous because i had the same problem. i think somewhere in the internet option it says proxy server and i think it&#039;s enabled so you can&#039;t use it. just go to internet option and then connections and lan setting and where it says use a proxy server for your lan jus unmark it. nd there you go.</ChosenAnswer>
+    <ChosenAnswererId>c5PrNQivaa</ChosenAnswererId>
+    <ChosenAnswererNick>aqi</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268031420</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268556767</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your computer does not have Internet access. It only has web access, and that only through a proxy. Firefox is configured to use the proxy and the other applications aren&#039;t.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ebuxHnScaa</UserId>
+            <UserNick>JoelKatz</UserNick>
+            <Date>2010-03-07 22:41:36</Date>
+            <Timestamp>1268030496</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it&#039;s not virous because i had the same problem. i think somewhere in the internet option it says proxy server and i think it&#039;s enabled so you can&#039;t use it. just go to internet option and then connections and lan setting and where it says use a proxy server for your lan jus unmark it. nd there you go.</Content>
+            <Reference>personal experience</Reference>
+            <Best>5</Best>
+            <UserId>c5PrNQivaa</UserId>
+            <UserNick>aqi</UserNick>
+            <Date>2010-03-07 22:57:00</Date>
+            <Timestamp>1268031420</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:35:26 PDT 2010 -->

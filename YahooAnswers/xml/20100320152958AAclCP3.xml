@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320152958AAclCP3" type="Answered">
+    <Subject>Why can&#039;t I right-click in Firefox anymore?</Subject>
+    <Content>Every now and then, I lose the ability to right-click in Firefox. Usually restarting FF or my computer solves the problem, but now it&#039;s not working. It&#039;s definitely not a problem with my computer itself because right-click works fine in all my programs and Google Chrome. What should I do?
+Yes, I mean I can&#039;t right-click to open a new tab, save pictures, view properties, etc.
+
+I&#039;ll try the Yahoo toolbar thing, thanks.
+</Content>
+    <Date>2010-03-20 15:29:58</Date>
+    <Timestamp>1269124198</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320152958AAclCP3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9qXHUkf2aa</UserId>
+    <UserNick>♥ Sprinkles</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/14JpEJ1VzAAECnCKcqLJ2xwzzrwAG.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>do u have yahoo toolbar?
+
+go to tools add-ons and uninstall yahoo toolbar 
+
+its a bug on yahoo toolbar</ChosenAnswer>
+    <ChosenAnswererId>oGCaU38Paa</ChosenAnswererId>
+    <ChosenAnswererNick>pelon</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269130113</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269235236</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Do you mean right click to show all the options on the menu like Open, properties etc? If so try reinstalling firefox remember to make a backup of your favourites.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fSOMG9Q9aa</UserId>
+            <UserNick>Az</UserNick>
+            <Date>2010-03-20 16:20:29</Date>
+            <Timestamp>1269127229</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>do u have yahoo toolbar?
+
+go to tools add-ons and uninstall yahoo toolbar 
+
+its a bug on yahoo toolbar</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>oGCaU38Paa</UserId>
+            <UserNick>pelon</UserNick>
+            <Date>2010-03-20 17:08:33</Date>
+            <Timestamp>1269130113</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I concur with pelon. I fixed this on a friend&#039;s computer yesterday. He had Yahoo toolbar.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lMrqFtbTaa</UserId>
+            <UserNick>Phillip</UserNick>
+            <Date>2010-03-20 18:14:56</Date>
+            <Timestamp>1269134096</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:18 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227135110AAsjIow" type="Answered">
+    <Subject>Help, please! Little circles on my page?</Subject>
+    <Content>I was looking on this &#039;Status Shuffle&#039; app on Facebook, and it told me to press up, up, down, down, left, right, left, right, B, A, ENTER.  I did. Now, whenever I scroll, click, or type, circles keep appearing. HELP ME GET THEM OFF!
+</Content>
+    <Date>2010-02-27 13:51:10</Date>
+    <Timestamp>1267307470</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227135110AAsjIow</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>y7r4jm8Oaa</UserId>
+    <UserNick>Annie K</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1xX1ogaRmAAEC-IFToIzhcxGhNw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Delete your account and get a new one.!</ChosenAnswer>
+    <ChosenAnswererId>3rZsq27Qaa</ChosenAnswererId>
+    <ChosenAnswererNick>Brandyn</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267307780</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267882962</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Delete your account and get a new one.!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3rZsq27Qaa</UserId>
+            <UserNick>Brandyn</UserNick>
+            <Date>2010-02-27 13:56:20</Date>
+            <Timestamp>1267307780</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:43:04 PDT 2010 -->

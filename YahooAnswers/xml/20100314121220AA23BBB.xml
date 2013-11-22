@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314121220AA23BBB" type="Answered">
+    <Subject>myminilife.com doesn&#039;t work for me...?</Subject>
+    <Content>whenever I go to myminilife.com this message comes up:
+&quot;You are seeing this page because the current domain is not configured in the current set of name servers or your domain is being parked. This is usually just a temporary error while the domain is being added. Once the domain is configured this page will expire and your correct site will be shown. 
+
+If your system administrator is having you use the wrong resolving name servers you will want to notify them of this mistake right away.
+If you are looking for free resolving name servers (for desktop and personal computers) we suggest you use the free service at Resolving Name Server.&quot;
+
+It use to always work.. can someone help me fix this ??
+</Content>
+    <Date>2010-03-14 12:12:20</Date>
+    <Timestamp>1268593940</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314121220AA23BBB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qKy18wGWaa</UserId>
+    <UserNick>DreaminGirl</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you cant fix it the whole website has a glitch it shows me that too the website is broken or experiencing a large glitch. if there is a way email the creator of the website its basically all you can do sorry best of luck</ChosenAnswer>
+    <ChosenAnswererId>GYbYo6Lpaa</ChosenAnswererId>
+    <ChosenAnswererNick>Debbie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268594118</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269113675</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you cant fix it the whole website has a glitch it shows me that too the website is broken or experiencing a large glitch. if there is a way email the creator of the website its basically all you can do sorry best of luck</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>GYbYo6Lpaa</UserId>
+            <UserNick>Debbie</UserNick>
+            <Date>2010-03-14 12:15:18</Date>
+            <Timestamp>1268594118</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Unfortunaly theres nothing that you can do...........apart from one thing.........well first let me tell you whats wrong with the site. the webmaster has a dns server to keep the site running. this stores all of the website informaiton. this website cant do anything because theres a problem with the dns server.
+so the dns server could have
+broke down
+have a virus
+no power
+
+there is one thing you can do though.... try to contact the webmaster(the company/person who own the site.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SWFAL1uUaa</UserId>
+            <UserNick>Cameron</UserNick>
+            <Date>2010-03-14 12:24:01</Date>
+            <Timestamp>1268594641</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:59:06 PDT 2010 -->

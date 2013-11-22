@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307091938AAKo76M" type="Answered">
+    <Subject>Do I Have to have a Paypal account in order to buy off of Ebay?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-07 09:19:38</Date>
+    <Timestamp>1267982378</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307091938AAKo76M</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GbKGbvZraa</UserId>
+    <UserNick>Mika C</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You do not need a paypal account but you may be restricted in buying items - Most sellers only accept payments from verified paypal users
+Paypal offers buyer protection should you not receive your item or its not as described.  The buyer protection is only valid if you have a account (not 100% sure on this, check paypals FAQs or contact them if concerned)
+So I guess what Im saying is while you do not have to have one, it is recommended.</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268306636</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268501685</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, you have to use paypal, but not have an account with them. It will just ask you for credit card info, etc and you use it as a checkout site..If you know what I mean?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11487401</UserId>
+            <UserNick>sivart7555</UserNick>
+            <Date>2010-03-07 09:22:01</Date>
+            <Timestamp>1267982521</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You do not need a paypal account but you may be restricted in buying items - Most sellers only accept payments from verified paypal users
+Paypal offers buyer protection should you not receive your item or its not as described.  The buyer protection is only valid if you have a account (not 100% sure on this, check paypals FAQs or contact them if concerned)
+So I guess what Im saying is while you do not have to have one, it is recommended.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-11 03:23:56</Date>
+            <Timestamp>1268306636</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:40:10 PDT 2010 -->

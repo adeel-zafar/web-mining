@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315225838AAP8CmX" type="Answered">
+    <Subject>What is the best journal/blogging site?</Subject>
+    <Content>I&#039;m looking for an online journal/blog site that has an option where only registered users of that website can read and comment posts.
+
+I tried livejournal but their options for who can read posts are: Everyone, Private, or Friends. Not registered users who are not friends.
+
+Is there a site that has this option for sure?
+I just tried wordpress and it doesn&#039;t have that option. There&#039;s only Private, Public, and Password Protected =/
+</Content>
+    <Date>2010-03-15 22:58:38</Date>
+    <Timestamp>1268719118</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315225838AAP8CmX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tTKRyD0baa</UserId>
+    <UserNick>JD</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This can be accomplished in Blogger.com. So give it a try.</ChosenAnswer>
+    <ChosenAnswererId>PryoZ0yAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Oniel Best--The Website Packager</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268765146</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269238473</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Have you tried wordpress dot com I believe you will be able to choose the option you need. If you host your own blog you will be able to set this option for sure, please you will be able to advertise to generate a few clicks that over time may help supplement hosting fees. 
+
+Good Luck 
+
+I Believe</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SMO8UETSaa</UserId>
+            <UserNick>IBelieve</UserNick>
+            <Date>2010-03-16 10:36:30</Date>
+            <Timestamp>1268760990</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This can be accomplished in Blogger.com. So give it a try.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>PryoZ0yAaa</UserId>
+            <UserNick>Oniel Best--The Website Packager</UserNick>
+            <Date>2010-03-16 11:45:46</Date>
+            <Timestamp>1268765146</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:50:51 PDT 2010 -->

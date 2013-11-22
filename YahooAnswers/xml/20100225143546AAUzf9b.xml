@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225143546AAUzf9b" type="Answered">
+    <Subject>I&#039;ve got an Ebay Question?</Subject>
+    <Content>I bought something on Ebay that i just can&#039;t keep but they don&#039;t have returns. I bought a software that isn&#039;t compatable with my computer. Should i try to re-sell it on ebay?
+</Content>
+    <Date>2010-02-25 14:35:46</Date>
+    <Timestamp>1267137346</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225143546AAUzf9b</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VbcS2DGtaa</UserId>
+    <UserNick>sportskid</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>well you can try, why not</ChosenAnswer>
+    <ChosenAnswererId>DGFbK0oeaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dino D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267137502</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267419520</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>well you can try, why not</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>DGFbK0oeaa</UserId>
+            <UserNick>Dino D</UserNick>
+            <Date>2010-02-25 14:38:22</Date>
+            <Timestamp>1267137502</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:48 PDT 2010 -->

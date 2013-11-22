@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327055721AA4lUCH" type="Answered">
+    <Subject>Why is pirate bay not working at the moment?</Subject>
+    <Content>(27/03/2010 - 12:57)
+http://www.thepiratebay.org is currently not working for me... Is it working for you? Or do you have to solution to solve the problem?
+</Content>
+    <Date>2010-03-27 05:57:21</Date>
+    <Timestamp>1269694641</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327055721AA4lUCH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tfxblkTJaa</UserId>
+    <UserNick>smifson2008</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1GxRtNRaqAAIB_MFUiAvD9y3RJRgF.medium.jpg</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s working for me too, although I thought it wasn&#039;t for awhile. This is the trick: You have to wait a few minutes before you connect to peers. At first all of the torrents were sitting at 0/0 and I would assume they weren&#039;t going to work. But then I left one instead of deleting it while I went to look for alternates, and it started up. It went nice and quick, too. Just be patient for a few minutes, and it should work for you. 
+
+Although, I have heard that the service has been completely blocked from several countries, most of them European. I&#039;m in Canada, so this doesn&#039;t effect me. Wikipedia has more information on the matter.</ChosenAnswer>
+    <ChosenAnswererId>SAF4XrQpaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rahrah</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269721554</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269903521</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s probably been taken offline for being illegal.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YEUX3H2Yaa</UserId>
+            <UserNick>freakdayfriday</UserNick>
+            <Date>2010-03-27 05:58:14</Date>
+            <Timestamp>1269694694</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Maybe your ISP blocked it.Use a proxy or use tor.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UmXalLmzaa</UserId>
+            <UserNick>ssj6akshat</UserNick>
+            <Date>2010-03-27 05:58:59</Date>
+            <Timestamp>1269694739</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Most probably taken offline as will all torrent/P2P sites eventually.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-27 05:59:40</Date>
+            <Timestamp>1269694780</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it&#039;s currently working for me. Up and running!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0KIKFRBYaa</UserId>
+            <UserNick>Hanfree3</UserNick>
+            <Date>2010-03-27 06:04:39</Date>
+            <Timestamp>1269695079</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s working for me too, although I thought it wasn&#039;t for awhile. This is the trick: You have to wait a few minutes before you connect to peers. At first all of the torrents were sitting at 0/0 and I would assume they weren&#039;t going to work. But then I left one instead of deleting it while I went to look for alternates, and it started up. It went nice and quick, too. Just be patient for a few minutes, and it should work for you. 
+
+Although, I have heard that the service has been completely blocked from several countries, most of them European. I&#039;m in Canada, so this doesn&#039;t effect me. Wikipedia has more information on the matter.</Content>
+            <Reference>http://en.wikipedia.org/wiki/The_Pirate_Bay</Reference>
+            <Best>2</Best>
+            <UserId>SAF4XrQpaa</UserId>
+            <UserNick>Rahrah</UserNick>
+            <Date>2010-03-27 13:25:54</Date>
+            <Timestamp>1269721554</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>some say it&#039;s infected with a virus of some sort.i know a couple of times it redirected me to another site.also a pop up would show up asking you to run a anti-virus program and that your computer is infected,don&#039;t run it!!! i had a hell of time getting rid of it!! when it pops up it is best to close your browser. i think the banners or adds might be the problem too. try googling is pirate bay infected?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>huSPoyq4aa</UserId>
+            <UserNick>sinnin</UserNick>
+            <Date>2010-03-28 11:12:35</Date>
+            <Timestamp>1269799955</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:23 PDT 2010 -->

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306230555AA7dJCF" type="Answered">
+    <Subject>How to copy web page content properly?</Subject>
+    <Content>I want to copy web page content with lot of images in it into a editor. But I am just not able select proper amount of content . More content then required is selected.Also when I paste this content into editor like fckeditor all images get scattered and it shows some HTML tags scattered after I save pasted data.Please answer as it is getting really frustrating.
+</Content>
+    <Date>2010-03-06 23:05:55</Date>
+    <Timestamp>1267945555</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306230555AA7dJCF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1n7a3kVlaa</UserId>
+    <UserNick>Angela</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What you are copying is not from another web page, correct? If you copy content from Word or another program, it is not in the web format. You will need to reformat it in the fckeditor. Some editors allow you to important or past from a Word doc. Look at the icons in the editor to see if that is the case.
+
+If you are using images for your web content, make sure you upload them first. You can&#039;t just paste images from your computer into the editor. After it&#039;s uploaded, you&#039;ll need to insert the image into the editor using the appropriate icon. 
+
+Haven&#039;t used fck in awhile. It may be you can upload the image with insert image icon, not sure.
+
+If you are pasting content from a web page, you can copy the html source and paste it directly into fckeditor using the html view, rather than wysiwyg.</ChosenAnswer>
+    <ChosenAnswererId>VzEMR3Euaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tiggur</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267946372</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268464995</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What you are copying is not from another web page, correct? If you copy content from Word or another program, it is not in the web format. You will need to reformat it in the fckeditor. Some editors allow you to important or past from a Word doc. Look at the icons in the editor to see if that is the case.
+
+If you are using images for your web content, make sure you upload them first. You can&#039;t just paste images from your computer into the editor. After it&#039;s uploaded, you&#039;ll need to insert the image into the editor using the appropriate icon. 
+
+Haven&#039;t used fck in awhile. It may be you can upload the image with insert image icon, not sure.
+
+If you are pasting content from a web page, you can copy the html source and paste it directly into fckeditor using the html view, rather than wysiwyg.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>VzEMR3Euaa</UserId>
+            <UserNick>Tiggur</UserNick>
+            <Date>2010-03-06 23:19:32</Date>
+            <Timestamp>1267946372</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:43:16 PDT 2010 -->

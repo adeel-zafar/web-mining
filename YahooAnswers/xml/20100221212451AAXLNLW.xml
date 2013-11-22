@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221212451AAXLNLW" type="Answered">
+    <Subject>Internet is &#039;stuck&#039; on one site, help?</Subject>
+    <Content>My sister&#039;s computer will connect to the internet and says it has a good connection. When she tries to use the internet though it will open to one page and we cannot get it to go to any other website. We tried firefox as well and it would only stay on that one website. I have ran virus scans and checked the connection several times and I have restarted her computer. My laptop is working fine with the same network work connection, so it must be something on her computer. Any ideas?
+</Content>
+    <Date>2010-02-21 21:24:51</Date>
+    <Timestamp>1266816291</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221212451AAXLNLW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>52e7089b53aa889f80a1ab916c458a5daa</UserId>
+    <UserNick>Andy</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1qptWhlnuAAED9KFyJBCUFMpwIg==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Restart PC in safe mode by tapping F-8 key, choosing &quot;Last Known good Configuration&quot; from menu. Next download, update, run Malwarebytes, ccleaner, Reset IE8 to Default in Options, Advanced and Restart PC...You might have to Reset Router or unplug it for 10 sec and plug it back in and Restart PC, but try the above first...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266818113</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267253006</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>check your router.  it might have a default setting where only x number of computer can be connected</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BzzuuYx3aa</UserId>
+            <UserNick>Sky King</UserNick>
+            <Date>2010-02-21 21:30:09</Date>
+            <Timestamp>1266816609</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>HAve you tried turning Your laptop off.. and seeing then if she can connect?
+
+are the pc&#039;s set up on DHCP.. so they can not use the same IP addr?..
+
+Shell to dos and type IPCONFIG.. this will show the router addr.. and pc IP addr.. check them both out.. on both pcs&#039;&#039;&#039;
+
+this &quot;ONE&quot; website.. how did u figure out which one?... the odds are a billion to one :).. is it just her home page?.. my guess is its just Cached.. and you dont really have any internet connectivity... can u click a Link on the said &quot;one&quot; website... and does it work?.. can u refresh and see NEW data?.. maybe clear the web cache on the nonworking pc and see if said website still works..Does email work on your sisters pc?.. try to prove network connectivity other than using the web... my guess is you dont really have connectivity on that one machine...
+
+You may have to change your router to DHCP.. and tell it to allocate IP&#039;s for more pcs... 2 or more..etc</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lQU21NM8aa</UserId>
+            <UserNick>Bob</UserNick>
+            <Date>2010-02-21 21:51:04</Date>
+            <Timestamp>1266817864</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Restart PC in safe mode by tapping F-8 key, choosing &quot;Last Known good Configuration&quot; from menu. Next download, update, run Malwarebytes, ccleaner, Reset IE8 to Default in Options, Advanced and Restart PC...You might have to Reset Router or unplug it for 10 sec and plug it back in and Restart PC, but try the above first...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/ccleaner/?tag=mncol</Reference>
+            <Best>5</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-21 21:55:13</Date>
+            <Timestamp>1266818113</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:31:07 PDT 2010 -->

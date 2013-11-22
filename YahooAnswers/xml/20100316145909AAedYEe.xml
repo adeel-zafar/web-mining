@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316145909AAedYEe" type="Answered">
+    <Subject>Changing address on PayPal (10 points)?</Subject>
+    <Content>I am trying, unsucessfully, to edit my address on PayPal. Whenever I try to edit it, all it does is add a new address right above the old one, and it gives the message &quot;(!) To make a change to your address, please select the address you&#039;d like to update and click the &quot;Edit&quot; button below.&quot;. Every time I try editing it, it gives this same stupid answer.
+
+I&#039;m thinking it has something to do with the old address being linked to my bank card or something, but I have already updated my address with the bank. Do I just have to wait a few days and then try again? Am I doing something wrong?
+
+10 points to the person who solves my frustration! :-D
+</Content>
+    <Date>2010-03-16 14:59:09</Date>
+    <Timestamp>1268776749</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316145909AAedYEe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>P7G0CnT3aa</UserId>
+    <UserNick>JP</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1gNtTnMVsAAEB_IE1Sdk-Cw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Can you delete all the other addresses you have added (including your previous address) and just leave the one you want on there as your primary address?  If this doesn&#039;t work just ring them, their contact number is on the help pages, I&#039;ve rung them a few times, very helpful usually.</ChosenAnswer>
+    <ChosenAnswererId>6JYnwZCwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Trust me I&#039;m a Doctor</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268780396</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268971022</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Can you delete all the other addresses you have added (including your previous address) and just leave the one you want on there as your primary address?  If this doesn&#039;t work just ring them, their contact number is on the help pages, I&#039;ve rung them a few times, very helpful usually.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>6JYnwZCwaa</UserId>
+            <UserNick>Trust Me I&#039;m a Doctor ♥</UserNick>
+            <Date>2010-03-16 15:59:56</Date>
+            <Timestamp>1268780396</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:48:15 PDT 2010 -->

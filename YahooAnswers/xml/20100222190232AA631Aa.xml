@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222190232AA631Aa" type="Answered">
+    <Subject>Can you help me choose a domain?</Subject>
+    <Content>Which URL would be a nice pick for a blog about a teen guys life, aimed towards guys to read.
+
+AnotherDude.com
+AnotherBro.com
+AnotherGuysEyes.com
+DudeSup.com
+WutsupDude.com
+GuysLifeInaBlog.com
+StepThroughLife.com
+</Content>
+    <Date>2010-02-22 19:02:32</Date>
+    <Timestamp>1266894152</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222190232AA631Aa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PjMkDEVIaa</UserId>
+    <UserNick>Kevin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Picking a domain name just because it sounds good is not the best approach.  Your domain name should be a keyword that will attract traffic or visitors to your site.
+
+You need to do keyword analysis using Google Adword Discovery tool:
+
+https://adwords.google.com/select/KeywordToolExternal
+
+if you want traffic to your domain.
+
+I entered the following:
+guys life
+step through life
+another guys eyes
+another dude
+
+And got lots of possibilities.  Go for a name that has less than 100K global searches and is a long tail keyword (a phrase with 3 or more words).
+
+You can also use the free Wordtracker tool:
+
+http://freekeywords.wordtracker.com/.  Just enter a keyword and it will return ideas for you.</ChosenAnswer>
+    <ChosenAnswererId>94Swskucaa</ChosenAnswererId>
+    <ChosenAnswererNick>Walter B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266895699</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266956521</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>GuysLifeBlog.com</Content>
+            <Reference>me</Reference>
+            <Best></Best>
+            <UserId>GscO9YDhaa</UserId>
+            <UserNick>Jose I</UserNick>
+            <Date>2010-02-22 19:03:48</Date>
+            <Timestamp>1266894228</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I would recommend leaving a suicide note, that way nobody else would get in trouble when they find your decomposing corpse.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZgAn9kowaa</UserId>
+            <UserNick>Maxrubs</UserNick>
+            <Date>2010-02-22 19:04:28</Date>
+            <Timestamp>1266894268</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>how bout     whatsupguidetolifethruanotherguyseyes.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10485763</UserId>
+            <UserNick>jng_911</UserNick>
+            <Date>2010-02-22 19:05:16</Date>
+            <Timestamp>1266894316</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Picking a domain name just because it sounds good is not the best approach.  Your domain name should be a keyword that will attract traffic or visitors to your site.
+
+You need to do keyword analysis using Google Adword Discovery tool:
+
+https://adwords.google.com/select/KeywordToolExternal
+
+if you want traffic to your domain.
+
+I entered the following:
+guys life
+step through life
+another guys eyes
+another dude
+
+And got lots of possibilities.  Go for a name that has less than 100K global searches and is a long tail keyword (a phrase with 3 or more words).
+
+You can also use the free Wordtracker tool:
+
+http://freekeywords.wordtracker.com/.  Just enter a keyword and it will return ideas for you.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>94Swskucaa</UserId>
+            <UserNick>Walter B</UserNick>
+            <Date>2010-02-22 19:28:19</Date>
+            <Timestamp>1266895699</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:13 PDT 2010 -->

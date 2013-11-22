@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317200216AAHcEot" type="Answered">
+    <Subject>*NEED SPEEDY ANSWER* What is the color in Funnyjunk that is around the picture?</Subject>
+    <Content>I need the color code number (six digit with letters and/or numbers)
+</Content>
+    <Date>2010-03-17 20:02:16</Date>
+    <Timestamp>1268881336</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317200216AAHcEot</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VZcW7Jigaa</UserId>
+    <UserNick>Epic Win Guy</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b4bd375i2409zul6re4/h8KESyowd6MI56TETJTOZLRIew--/2/tn48.png?ciAAToMBHs0Ay2Cn</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>okay . there is a lot of pics on funny junk . 
+but here is what you can do . if it is just a pic and not a whole web page . just open it up in an editor it should tell you. If it is part of a web page open it up in html editor like front page . it will be in the html code but most likely take some looking to find it .</ChosenAnswer>
+    <ChosenAnswererId>u2w40ptEaa</ChosenAnswererId>
+    <ChosenAnswererNick>marcus</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268881906</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269401039</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>okay . there is a lot of pics on funny junk . 
+but here is what you can do . if it is just a pic and not a whole web page . just open it up in an editor it should tell you. If it is part of a web page open it up in html editor like front page . it will be in the html code but most likely take some looking to find it .</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>u2w40ptEaa</UserId>
+            <UserNick>marcus</UserNick>
+            <Date>2010-03-17 20:11:46</Date>
+            <Timestamp>1268881906</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:42:06 PDT 2010 -->

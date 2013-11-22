@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313105805AAbASob" type="Answered">
+    <Subject>Which is the better internet browser?</Subject>
+    <Content>Safari or Google Chrome? I know neither of them have add-ons and that&#039;s not what i&#039;m looking for so don&#039;t make any other suggestions, please. Which one is faster? Easiest to use? Thanks in advance?
+</Content>
+    <Date>2010-03-13 10:58:05</Date>
+    <Timestamp>1268506685</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313105805AAbASob</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1261wCp1aa</UserId>
+    <UserNick>Nave M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I prefer google chrome because it is simple. Its fast and basically is just good. Google Chrome even has extensions if you really want them. Safari and Google Chrome both use the same engine. I think google chrome is faster though because in a lot of speed tests on youtube chrome wins.</ChosenAnswer>
+    <ChosenAnswererId>YfwUId5Daa</ChosenAnswererId>
+    <ChosenAnswererNick>Ian</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268514450</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269883486</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Both are WebKit based and both are virtually identical with speed. Between these two, it&#039;s a matter of personal choice alone.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-13 10:59:08</Date>
+            <Timestamp>1268506748</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Google chrome. But i suggest firefox. It works like a charm!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Dxe94uNIaa</UserId>
+            <UserNick>xPazazzx</UserNick>
+            <Date>2010-03-13 10:59:35</Date>
+            <Timestamp>1268506775</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox is fast, but i have recently started using Safari which is faster than that!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dWqucwTPaa</UserId>
+            <UserNick>Taylor M</UserNick>
+            <Date>2010-03-13 12:09:30</Date>
+            <Timestamp>1268510970</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I prefer google chrome because it is simple. Its fast and basically is just good. Google Chrome even has extensions if you really want them. Safari and Google Chrome both use the same engine. I think google chrome is faster though because in a lot of speed tests on youtube chrome wins.</Content>
+            <Reference>Knowledge.</Reference>
+            <Best>5</Best>
+            <UserId>YfwUId5Daa</UserId>
+            <UserNick>Ian</UserNick>
+            <Date>2010-03-13 13:07:30</Date>
+            <Timestamp>1268514450</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:03:59 PDT 2010 -->

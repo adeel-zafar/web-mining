@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315215126AAnaFuD" type="Answered">
+    <Subject>What&#039;s the best URL shortener on the web?</Subject>
+    <Content>My personal favorite is http://rddd.it
+
+I like rddd.it because it&#039;s the best looking URL shortening website on the web. It&#039;s got a space theme that I think works really well. Who doesn&#039;t like space, right? Which ones do you use?
+</Content>
+    <Date>2010-03-15 21:51:26</Date>
+    <Timestamp>1268715086</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315215126AAnaFuD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cYJFE7dhaa</UserId>
+    <UserNick>YAT</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ha! You answered your own question!
+Why do you even need a URL shortner?</ChosenAnswer>
+    <ChosenAnswererId>q2nM0OO1aa</ChosenAnswererId>
+    <ChosenAnswererNick>Christina Xzyle [GINGER]</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268715367</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268865873</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ha! You answered your own question!
+Why do you even need a URL shortner?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>q2nM0OO1aa</UserId>
+            <UserNick>Christina Xzyle [GINGER]</UserNick>
+            <Date>2010-03-15 21:56:07</Date>
+            <Timestamp>1268715367</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:10 PDT 2010 -->

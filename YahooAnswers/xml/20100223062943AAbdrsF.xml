@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223062943AAbdrsF" type="Answered">
+    <Subject>AOL log in problem? help?</Subject>
+    <Content>im having a problem logging in with aol like the log in screen disappears everytme i start logging in my username? can someone help
+ me?(:
+</Content>
+    <Date>2010-02-23 06:29:43</Date>
+    <Timestamp>1266935383</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223062943AAbdrsF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JUoXn8Thaa</UserId>
+    <UserNick>jackie.zombiexcore</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>AOL Help
+AOL Member Services at 1-800-478-1539..</ChosenAnswer>
+    <ChosenAnswererId>zVu19UBCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Topi jerami</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267264940</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267454628</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I hate to say this, but I guess in order to solve your problem you need to uninstall, and reinstall the AOL software.
+
+AOL Help
+AOL Member Services at 1-800-478-1539.</Content>
+            <Reference>Computer Tech</Reference>
+            <Best></Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-02-23 06:35:21</Date>
+            <Timestamp>1266935721</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Wow I haven&#039;t used AOHell in forever.  Good luck with that!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10475596</UserId>
+            <UserNick>♥Puppy Toes</UserNick>
+            <Date>2010-02-23 06:37:36</Date>
+            <Timestamp>1266935856</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>AOL Help
+AOL Member Services at 1-800-478-1539..</Content>
+            <Reference>..................</Reference>
+            <Best>5</Best>
+            <UserId>zVu19UBCaa</UserId>
+            <UserNick>Topi jerami</UserNick>
+            <Date>2010-02-27 02:02:20</Date>
+            <Timestamp>1267264940</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:22:31 PDT 2010 -->

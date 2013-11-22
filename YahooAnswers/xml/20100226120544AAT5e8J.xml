@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226120544AAT5e8J" type="Answered">
+    <Subject>How do I make a suggestion for improving the usability of Internet Explorer?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-26 12:05:44</Date>
+    <Timestamp>1267214744</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226120544AAT5e8J</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qRGIWiz6aa</UserId>
+    <UserNick>Justus</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1dTWSV0xgAAECPwErdAUAwSMA.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Via Microsoft Connect at http://connect.microsoft.com and the Internet Explorer newsgroup at http://go.microsoft.com/fwlink/?LinkId=110585</ChosenAnswer>
+    <ChosenAnswererId>RVflvbRoaa</ChosenAnswererId>
+    <ChosenAnswererNick>Arie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267215092</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267395662</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well mine would be to unmark it as the default browser and install firefox or chrome</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tMp89d7Baa</UserId>
+            <UserNick>Dynamo Duck</UserNick>
+            <Date>2010-02-26 12:07:12</Date>
+            <Timestamp>1267214832</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Don&#039;t. Internet Explorer is a horrible web browser with a lot of vulnerabilites and glitches. Switch to latest version of Firefox.</Content>
+            <Reference>I use firefox.
+ Personal Exp</Reference>
+            <Best></Best>
+            <UserId>SGRTFwseaa</UserId>
+            <UserNick>dechev30</UserNick>
+            <Date>2010-02-26 12:07:58</Date>
+            <Timestamp>1267214878</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Via Microsoft Connect at http://connect.microsoft.com and the Internet Explorer newsgroup at http://go.microsoft.com/fwlink/?LinkId=110585</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RVflvbRoaa</UserId>
+            <UserNick>Arie</UserNick>
+            <Date>2010-02-26 12:11:32</Date>
+            <Timestamp>1267215092</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:50:34 PDT 2010 -->

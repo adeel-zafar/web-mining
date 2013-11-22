@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227080816AARekK7" type="Answered">
+    <Subject>Which is the best internet shopping giftcard?</Subject>
+    <Content>More for UK peeps, but I want to get my friend a giftcard that lets you buy anything online (like a prepaid visa), which ones the best generally? ive heard of 3v and the mastercard ones, but are there ones i can get in like, whsmith that are good? any tips?
+</Content>
+    <Date>2010-02-27 08:08:16</Date>
+    <Timestamp>1267286896</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227080816AARekK7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>F3dtXal2aa</UserId>
+    <UserNick>Andrew</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1kO-LkornAAIDXIE_CJZ3BJAA.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>amazon, my uncle got me one, choices were a joyyyy</ChosenAnswer>
+    <ChosenAnswererId>05cCYdL1aa</ChosenAnswererId>
+    <ChosenAnswererNick>Sashy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267287414</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268341408</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>ebay is always good. its fun bidding on things and they can get what they want for cheaper</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>baez7Bovaa</UserId>
+            <UserNick>Ethan</UserNick>
+            <Date>2010-02-27 08:11:52</Date>
+            <Timestamp>1267287112</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>amazon, my uncle got me one, choices were a joyyyy</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>05cCYdL1aa</UserId>
+            <UserNick>Sashy</UserNick>
+            <Date>2010-02-27 08:16:54</Date>
+            <Timestamp>1267287414</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:45:10 PDT 2010 -->

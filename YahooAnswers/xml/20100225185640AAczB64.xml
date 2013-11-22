@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225185640AAczB64" type="Answered">
+    <Subject>What happens to my bookmarked sites if I uninstall my internet explorer ?</Subject>
+    <Content>I am switching to Safari and I have Internet Explorer and Mozilla Firefox. I have favourites for both. I know that Safari copies your favourites from the two but what if i uninstall internet explorer and mozilla? will my favourites be uninstalled too ?
+</Content>
+    <Date>2010-02-25 18:56:40</Date>
+    <Timestamp>1267153000</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225185640AAczB64</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>D6ucP0TVaa</UserId>
+    <UserNick>Katherine</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can sabe ur bookmarks, just go to The favourite filder in ur computer and copyright The links to ur desktop as backup. That way if ur favourites don&#039;t show up, u only have to copy them into the favourite folder.</ChosenAnswer>
+    <ChosenAnswererId>JtkN5Xs2aa</ChosenAnswererId>
+    <ChosenAnswererNick>azukah</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267154590</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267253092</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can sabe ur bookmarks, just go to The favourite filder in ur computer and copyright The links to ur desktop as backup. That way if ur favourites don&#039;t show up, u only have to copy them into the favourite folder.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>JtkN5Xs2aa</UserId>
+            <UserNick>azukah</UserNick>
+            <Date>2010-02-25 19:23:10</Date>
+            <Timestamp>1267154590</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:54:07 PDT 2010 -->

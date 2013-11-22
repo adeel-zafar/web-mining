@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224114326AAQJu2p" type="Answered">
+    <Subject>if you are a /b/tard...?</Subject>
+    <Content>What do you think about the new XXX enabled to end the cancer?
+</Content>
+    <Date>2010-02-24 11:43:26</Date>
+    <Timestamp>1267040606</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224114326AAQJu2p</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>R8nhTX4Qaa</UserId>
+    <UserNick>Elly</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Please stop the drugs.</ChosenAnswer>
+    <ChosenAnswererId>tdyQmkHDaa</ChosenAnswererId>
+    <ChosenAnswererNick>txconserv</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267041345</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267639537</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Please stop the drugs.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tdyQmkHDaa</UserId>
+            <UserNick>txconserv</UserNick>
+            <Date>2010-02-24 11:55:45</Date>
+            <Timestamp>1267041345</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:14:24 PDT 2010 -->

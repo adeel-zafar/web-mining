@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328063749AAM6nYb" type="Answered">
+    <Subject>Is anyone else having trouble signing into Formspring.me?</Subject>
+    <Content>It&#039;s not allowing me to enter my email address. Even if I type it out I can only type half of it in and then it stops.
+</Content>
+    <Date>2010-03-28 06:37:49</Date>
+    <Timestamp>1269783469</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328063749AAM6nYb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>48gw0QExaa</UserId>
+    <UserNick>John</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b107180i1405zul7re4/3ajgyJg7dK6vg7TTABcdTwvFUaJRXz8-/1/tn48.jpg?ciAAToMBJOUkTqpm</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i checked mine and it worked perfectly, try restarted the system or logging off, then back on...also check other web pages, are you having trouble with only that website?</ChosenAnswer>
+    <ChosenAnswererId>GpeLXNLfaa</ChosenAnswererId>
+    <ChosenAnswererNick>mikey</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269783942</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269829956</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i checked mine and it worked perfectly, try restarted the system or logging off, then back on...also check other web pages, are you having trouble with only that website?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>GpeLXNLfaa</UserId>
+            <UserNick>mikey</UserNick>
+            <Date>2010-03-28 06:45:42</Date>
+            <Timestamp>1269783942</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:19:56 PDT 2010 -->

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315132613AAcFuvK" type="Answered">
+    <Subject>I need arrow key and scroll bar help?</Subject>
+    <Content>Ok so I am very frustrated with my arrow keys! I play games online that use the arrow keys on my keyboard but every once in a while when I press the up arrow my page will scroll up, and when I press the down arrow my page will go down. This has happened a lot before but it  is making me very angry and frustrated! I need to know how to get it to stop doing that! And maybe what causes it so I can see if I can prevent it from happening again. Please and thank you!
+</Content>
+    <Date>2010-03-15 13:26:13</Date>
+    <Timestamp>1268684773</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315132613AAcFuvK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vgYU3tagaa</UserId>
+    <UserNick>Hunny-Senpai</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1NYhgT2_bAAEBH4KcWK0PnsIB.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What kind of games are you playing, ones that are just played in your internet browser window? Because anytime you accidentally click outside of your game in the browser window, then that means your game is no longer your selection and using the arrow key will scroll your browser window instead. I am not sure if there is a way to turn off your page scrolling, I suppose it depends on what browser you use.</ChosenAnswer>
+    <ChosenAnswererId>wO7eMjRUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Janelle</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268685282</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268862391</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you do realise that the up arrow key does make it go up right? 
+its supposed to do that</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gLxgdOaWaa</UserId>
+            <UserNick>doc</UserNick>
+            <Date>2010-03-15 13:28:11</Date>
+            <Timestamp>1268684891</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you click off the games screen then that will cause it. Also the up arrow... well makes things go up.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>A6gCMavmaa</UserId>
+            <UserNick>Silly man</UserNick>
+            <Date>2010-03-15 13:30:22</Date>
+            <Timestamp>1268685022</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What kind of games are you playing, ones that are just played in your internet browser window? Because anytime you accidentally click outside of your game in the browser window, then that means your game is no longer your selection and using the arrow key will scroll your browser window instead. I am not sure if there is a way to turn off your page scrolling, I suppose it depends on what browser you use.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>wO7eMjRUaa</UserId>
+            <UserNick>Janelle</UserNick>
+            <Date>2010-03-15 13:34:42</Date>
+            <Timestamp>1268685282</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:53:38 PDT 2010 -->

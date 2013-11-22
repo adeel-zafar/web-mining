@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322094858AAKQq4k" type="Answered">
+    <Subject>why doesn&#039;t my internet explorer work?</Subject>
+    <Content>I&#039;m trying to download an anti-virus software through internet explorer but my explorer is not working.  Because of that I can&#039;t scan my computer and it&#039;s now filled with viruses I can&#039;t get rid of.  Meanwhile I keep getting warnings that my computer is infected asking me to download the software I can&#039;t do. Is there anything I can do?  Any advice would be helpful.
+</Content>
+    <Date>2010-03-22 09:48:58</Date>
+    <Timestamp>1269276538</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322094858AAKQq4k</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>t7i8qBwXaa</UserId>
+    <UserNick>jtakyi56</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>the warnings is a scam to get you to download and buy their software don&#039;t do it. do system restore if you cant do anything. turn off your computer and turn it back on holding down the R key until you hear clicking and the system restore comes on, do full system restore with no back up</ChosenAnswer>
+    <ChosenAnswererId>DeiuAuwyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Brenda</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269277175</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269473310</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The viruses may have already infected it, but try a system restore to a point before you got the virus. At the very least, you should be able to download some effective software.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10788435</UserId>
+            <UserNick>Cannibal Ox</UserNick>
+            <Date>2010-03-22 09:52:35</Date>
+            <Timestamp>1269276755</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>the warnings is a scam to get you to download and buy their software don&#039;t do it. do system restore if you cant do anything. turn off your computer and turn it back on holding down the R key until you hear clicking and the system restore comes on, do full system restore with no back up</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>DeiuAuwyaa</UserId>
+            <UserNick>Brenda</UserNick>
+            <Date>2010-03-22 09:59:35</Date>
+            <Timestamp>1269277175</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:26 PDT 2010 -->

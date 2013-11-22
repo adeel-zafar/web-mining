@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317125141AA8JtZZ" type="Answered">
+    <Subject>If i follow somebody on twitter can they see my twits?</Subject>
+    <Content>If i follow somebody on twitter can they see my twits even though they are not following me back?
+thanks guys!
+</Content>
+    <Date>2010-03-17 12:51:41</Date>
+    <Timestamp>1268855501</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317125141AA8JtZZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fwWznwOYaa</UserId>
+    <UserNick>Spic and Span</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If your twitter is public, yes, and it has nothing to do with the fact you follow them- everyone will be able to see your tweets.
+If it is private, no :) Only people you accept to follow you can see your tweets.</ChosenAnswer>
+    <ChosenAnswererId>AI39GXSgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kate</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268855875</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269374748</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If your twitter profile is private then they can&#039;t unless they&#039;re following you(:
+
+&lt;3 peanut butter &amp; jelly beans</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aD1no2cWaa</UserId>
+            <UserNick>Peanut Butter and Jelly Beans</UserNick>
+            <Date>2010-03-17 12:55:09</Date>
+            <Timestamp>1268855709</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your twitter is public, yes, and it has nothing to do with the fact you follow them- everyone will be able to see your tweets.
+If it is private, no :) Only people you accept to follow you can see your tweets.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AI39GXSgaa</UserId>
+            <UserNick>Kate</UserNick>
+            <Date>2010-03-17 12:57:55</Date>
+            <Timestamp>1268855875</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>They can but your tweets wont be in their stream. You can make your your tweets private in settings so your have to accept whoever follows you and sees your tweets.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8cAaCxamaa</UserId>
+            <UserNick>esthe4th</UserNick>
+            <Date>2010-03-17 15:10:49</Date>
+            <Timestamp>1268863849</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>everyone can see your page but on their timeline ( on their homepage) they can only see people they are following)</Content>
+            <Reference>i&#039;m twitexpert</Reference>
+            <Best></Best>
+            <UserId>Ko92yKgRaa</UserId>
+            <UserNick>lanloosh</UserNick>
+            <Date>2010-03-18 14:25:08</Date>
+            <Timestamp>1268947508</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:43:57 PDT 2010 -->

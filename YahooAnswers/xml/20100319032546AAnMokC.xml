@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319032546AAnMokC" type="Answered">
+    <Subject>How do i turn off firefox word fixer spelling mistake error thing?</Subject>
+    <Content>The red underline of most words gets very annoying...
+</Content>
+    <Date>2010-03-19 03:25:46</Date>
+    <Timestamp>1268994346</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319032546AAnMokC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NVZfICYvaa</UserId>
+    <UserNick>this is the end</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1oSFQjNXIAAIBQEEojJPNBA==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Do this:
+
+1.Click the Tools-&gt;Options menu item.
+2.Click the Advanced Page.
+3.Click the General tab.
+4.Uncheck the Check my spelling as I type checkbox.
+5.Click OK.
+
+Hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269058011</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269208686</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Tools -&gt; Add-ons -&gt; Find the dictionary in the list of addons and click Disable.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>4diUchuCaa</UserId>
+            <UserNick>Martin</UserNick>
+            <Date>2010-03-19 05:20:58</Date>
+            <Timestamp>1269001258</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Do this:
+
+1.Click the Tools-&gt;Options menu item.
+2.Click the Advanced Page.
+3.Click the General tab.
+4.Uncheck the Check my spelling as I type checkbox.
+5.Click OK.
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-19 21:06:51</Date>
+            <Timestamp>1269058011</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:36:27 PDT 2010 -->

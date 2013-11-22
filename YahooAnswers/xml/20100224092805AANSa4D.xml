@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224092805AANSa4D" type="Answered">
+    <Subject>How much does eBay Charge?</Subject>
+    <Content>For a Mobile Phone
+For a Car
+HOW MUCH
+Cash on collection
+</Content>
+    <Date>2010-02-24 09:28:05</Date>
+    <Timestamp>1267032485</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224092805AANSa4D</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RbTo3wNhaa</UserId>
+    <UserNick>Tom</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>have a look here it tells you everything
+http://pages.ebay.co.uk/help/sell/questions/what-fees.html</ChosenAnswer>
+    <ChosenAnswererId>3e34f165ad30f58bf7f1417310ff9c96aa</ChosenAnswererId>
+    <ChosenAnswererNick>manxbiker</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267032734</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267123185</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://pages.ebay.co.uk/help/sell/fees.html some common sence would be goto ebay site and check yourself just another person to lazy to look for it themselves.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA12180741</UserId>
+            <UserNick>Paultech</UserNick>
+            <Date>2010-02-24 09:30:18</Date>
+            <Timestamp>1267032618</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>have a look here it tells you everything
+http://pages.ebay.co.uk/help/sell/questions/what-fees.html</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>3e34f165ad30f58bf7f1417310ff9c96aa</UserId>
+            <UserNick>manxbiker</UserNick>
+            <Date>2010-02-24 09:32:14</Date>
+            <Timestamp>1267032734</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That&#039;s up to you - whatever you&#039;re willing to pay for one.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GxSxTc2haa</UserId>
+            <UserNick>lostdog</UserNick>
+            <Date>2010-02-24 10:16:53</Date>
+            <Timestamp>1267035413</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:14:46 PDT 2010 -->

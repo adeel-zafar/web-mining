@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222065059AAu2niO" type="Answered">
+    <Subject>why I couldn&#039;t enter the forum?</Subject>
+    <Content>one day I couldn&#039;t enter a specific forum, which I usually could. I can enter it from other PC 
+i tried other forums, it is Ok
+ 
+What is the solution for that??
+</Content>
+    <Date>2010-02-22 06:50:59</Date>
+    <Timestamp>1266850259</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222065059AAu2niO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2zyAJgRVaa</UserId>
+    <UserNick>Abou M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Some of the forum have make it clear that they will block you through the IP you are connecting with, it might be possible that your IP was blocked by the moderator thats why you couldnt enter.</ChosenAnswer>
+    <ChosenAnswererId>TeINO9IAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dexter T.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266851215</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267923455</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you can&#039;t enter into a specific forum from your computer and trying from another PC you can, probably you are banned by that community.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EcPB2U06aa</UserId>
+            <UserNick>stef</UserNick>
+            <Date>2010-02-22 07:03:05</Date>
+            <Timestamp>1266850985</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Some of the forum have make it clear that they will block you through the IP you are connecting with, it might be possible that your IP was blocked by the moderator thats why you couldnt enter.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TeINO9IAaa</UserId>
+            <UserNick>Dexter T.</UserNick>
+            <Date>2010-02-22 07:06:55</Date>
+            <Timestamp>1266851215</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:29:21 PDT 2010 -->

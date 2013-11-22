@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303051514AA4x906" type="Answered">
+    <Subject>Is JavaScript turned on? (mozilla firefox)?</Subject>
+    <Content>I wanna know if JaveScript is turned on. How can I check it? (&lt;- on mozilla firefox)
+</Content>
+    <Date>2010-03-03 05:15:14</Date>
+    <Timestamp>1267622114</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303051514AA4x906</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xhb4SKCQaa</UserId>
+    <UserNick>a last shadow puppet.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/12Pf9Qm4hAAEC4YQg6T--Cw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>by doing this ...
+
+Select &#039;Tools&#039; from the top menu 
+Choose &#039;Options&#039; 
+Choose &#039;Web Features&#039; from the left navigation panel 
+Select the checkbox next to &#039;Enable JavaScript&#039; and click &#039;OK&#039;
+
+gl</ChosenAnswer>
+    <ChosenAnswererId>QbPoOfIOaa</ChosenAnswererId>
+    <ChosenAnswererNick>darren w</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267622352</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267700516</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>by doing this ...
+
+Select &#039;Tools&#039; from the top menu 
+Choose &#039;Options&#039; 
+Choose &#039;Web Features&#039; from the left navigation panel 
+Select the checkbox next to &#039;Enable JavaScript&#039; and click &#039;OK&#039;
+
+gl</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>QbPoOfIOaa</UserId>
+            <UserNick>darren w</UserNick>
+            <Date>2010-03-03 05:19:12</Date>
+            <Timestamp>1267622352</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>windows: tools&gt;options&gt;content&gt;(check) Enable Javascript
+
+check out http://www.mediascape.com/clientdetect/cd1.html to see if its working!!!</Content>
+            <Reference>experience!</Reference>
+            <Best></Best>
+            <UserId>f0oSYw8saa</UserId>
+            <UserNick>akshay</UserNick>
+            <Date>2010-03-03 05:26:07</Date>
+            <Timestamp>1267622767</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>by default it will be ON</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DxzFVuNuaa</UserId>
+            <UserNick>bobby</UserNick>
+            <Date>2010-03-03 05:31:48</Date>
+            <Timestamp>1267623108</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:19:46 PDT 2010 -->

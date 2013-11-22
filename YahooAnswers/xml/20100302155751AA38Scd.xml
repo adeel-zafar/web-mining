@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302155751AA38Scd" type="Answered">
+    <Subject>What does Putting a filter on your phone have anything to do with Internet speed?</Subject>
+    <Content>I have Verizon High Speed. They said that I have to put Phone Filters on on the phone cords. My dad did Put them on and now its faster. And improved a lot. I don&#039;t get it, whast the conncetion between it, what caused this. My dd cound&#039;t explain.
+
+And honestly They don&#039;t teach these stuff in School.
+</Content>
+    <Date>2010-03-02 15:57:51</Date>
+    <Timestamp>1267574271</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302155751AA38Scd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2q8uCjF3aa</UserId>
+    <UserNick>Twilight &amp; Harry Potter Lover</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1O_jMQudgAAEDMQE_RJfPpMpsKw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It probably blocked all of the things that were holding your internet back.</ChosenAnswer>
+    <ChosenAnswererId>eeh9KMlFaa</ChosenAnswererId>
+    <ChosenAnswererNick>calvinzhanger</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267574573</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270002952</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The phones are more than likely using the same signal as the modem sends out to your computers. This means that the signal coming into the phone and broadcasting out of it interrupts the modems signal and takes it longer to reach your computer. The filter modifies the signal given off so that your phones signal doesn&#039;t interrupt the modem anymore.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2mskfdHaaa</UserId>
+            <UserNick>MikeB214</UserNick>
+            <Date>2010-03-02 16:01:26</Date>
+            <Timestamp>1267574486</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It probably blocked all of the things that were holding your internet back.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>eeh9KMlFaa</UserId>
+            <UserNick>calvinzhanger</UserNick>
+            <Date>2010-03-02 16:02:53</Date>
+            <Timestamp>1267574573</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I cannot imagine why it is faster.
+
+For DSL, the filters allow only the voice part to go to your phone.  In fact, if you put a filter before your modem, you will not be able to connect at all.  With no filters, you hear a loud &quot;hiss&quot; in the ear piece.  
+
+So, the filters will improve you phone (voice), but should have no affect on the DSL line itself, unless you had a filter on in the wrong place (between the phone line, and the DSL modem).</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>msNXomjTaa</UserId>
+            <UserNick>capitalgentleman</UserNick>
+            <Date>2010-03-02 16:04:27</Date>
+            <Timestamp>1267574667</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It don&#039;t make your internet speed any faster. But it keeps you from getting kicked off of the internet every time your phone rings.</Content>
+            <Reference>Computer Tech</Reference>
+            <Best></Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-03-02 16:11:29</Date>
+            <Timestamp>1267575089</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:24:14 PDT 2010 -->

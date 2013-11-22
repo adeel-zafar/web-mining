@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228041716AAJKdNW" type="Answered">
+    <Subject>[FIREFOX] The browser you&#039;re using refuses to sign in. (cookies rejected)?</Subject>
+    <Content>I&#039;m trying to login to yahoo on FIREFOX 3.6, and it won&#039;t let me. It will either bring me back to the login page, or say &quot;The browser you&#039;re using refuses to sign in. (cookies rejected).&quot; How do I fix this? PLEASE HELP ME! I have to now use Internet Explorer now because firefox wont let me login to ANYTHING!!
+how do u enable cookies
+Troy Boy: How do you import your bookmarks to a profile on firefox
+</Content>
+    <Date>2010-02-28 04:17:16</Date>
+    <Timestamp>1267359436</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228041716AAJKdNW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MrY2mSDjaa</UserId>
+    <UserNick>Daniela</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You may want to try to create a new profile.  Here&#039;s a link a guy posted with a similar issue:
+
+http://support.mozilla.com/en-US/forum/1/247959?s=cookie%20rejected&amp;as=q
+
+Within this link there is another link posted by the-edmeister that shows how to create a new profile.  Make sure you export your bookmarks first, then import them after you create the profile.  This way you don&#039;t lose your bookmarks.
+
+EDIT: To answer your question:
+
+Before you create a new profile, you want to back up your bookmarks.  You do this by exporting them to another location on your computer (i.e., another folder).  After you create a new profile, you import the bookmarks back into Firefox from the folder you originally exported them to.
+
+First export the bookmarks.  Open up Firefox and click on Bookmarks&gt;Organize Bookmarks&gt;Import and Backup&gt;Export HTML&gt;Save. 
+ 
+Second, create your new profile (see link posted by Ed-meister for directions).
+
+Lastly, import the bookmarks back into Firefox (in your new profile).  Do this by clicking on Bookmarks&gt;Organize Bookmarks&gt;Import and Backup&gt;Import HTML.   When Firefox asks where to import from, select From an HTML file and click Next.  Select the bookmarks.html file and click on Open.  This will bring your bookmarks into your new profile.
+
+Everything I have explained here is also explained in the ed-meister&#039;s link.  The whole process takes only a few minutes and should resolve your issue.</ChosenAnswer>
+    <ChosenAnswererId>Fs0WUQtyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Troy Boy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267361869</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267444712</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try clearing the cookies and browser cache in firefox. Tools/Clear Recent History. Once you have done that restart firefox and try again.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fcSav16uaa</UserId>
+            <UserNick>cj</UserNick>
+            <Date>2010-02-28 04:32:17</Date>
+            <Timestamp>1267360337</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here&#039;s what you can do:
+1. Open Firefox
+2. Go to tools -&gt; Options
+3. On the &quot;Privacy&quot; tab. On the History, Go to &quot;use custom settings for history&quot; on the drop-down menu.
+4. You should see &quot;Accept cookies from sites&quot; - Check it
+5. Check as well &quot;Accept third-party cookies&quot;.
+
+Note: most of it are self explanatory... Check what ever you want.
+
+That should solve it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bpxloG5Iaa</UserId>
+            <UserNick>ronald</UserNick>
+            <Date>2010-02-28 04:47:59</Date>
+            <Timestamp>1267361279</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You may want to try to create a new profile.  Here&#039;s a link a guy posted with a similar issue:
+
+http://support.mozilla.com/en-US/forum/1/247959?s=cookie%20rejected&amp;as=q
+
+Within this link there is another link posted by the-edmeister that shows how to create a new profile.  Make sure you export your bookmarks first, then import them after you create the profile.  This way you don&#039;t lose your bookmarks.
+
+EDIT: To answer your question:
+
+Before you create a new profile, you want to back up your bookmarks.  You do this by exporting them to another location on your computer (i.e., another folder).  After you create a new profile, you import the bookmarks back into Firefox from the folder you originally exported them to.
+
+First export the bookmarks.  Open up Firefox and click on Bookmarks&gt;Organize Bookmarks&gt;Import and Backup&gt;Export HTML&gt;Save. 
+ 
+Second, create your new profile (see link posted by Ed-meister for directions).
+
+Lastly, import the bookmarks back into Firefox (in your new profile).  Do this by clicking on Bookmarks&gt;Organize Bookmarks&gt;Import and Backup&gt;Import HTML.   When Firefox asks where to import from, select From an HTML file and click Next.  Select the bookmarks.html file and click on Open.  This will bring your bookmarks into your new profile.
+
+Everything I have explained here is also explained in the ed-meister&#039;s link.  The whole process takes only a few minutes and should resolve your issue.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Fs0WUQtyaa</UserId>
+            <UserNick>Troy Boy</UserNick>
+            <Date>2010-02-28 04:57:49</Date>
+            <Timestamp>1267361869</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:39:57 PDT 2010 -->

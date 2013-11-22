@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401060410AAiJpsS" type="Answered">
+    <Subject>A website where people bid for jobs like transcribing a video or typing a document?</Subject>
+    <Content>Someone told me about a website where you could do the above.  You have a job you want done and you go to this website and people will bid to do it and then you can pick the lowest price.  Does anyone know this website?  Thanks.
+</Content>
+    <Date>2010-04-01 06:04:10</Date>
+    <Timestamp>1270127050</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401060410AAiJpsS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>K18hpGcuaa</UserId>
+    <UserNick>Rae</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1PxNqIZaoAAEBBOKbXKe5J0EB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>elance.com, Freelancer.com</ChosenAnswer>
+    <ChosenAnswererId>rvPzjEn4aa</ChosenAnswererId>
+    <ChosenAnswererNick>Charlie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270127206</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270300916</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>elance.com, Freelancer.com</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>rvPzjEn4aa</UserId>
+            <UserNick>Charlie</UserNick>
+            <Date>2010-04-01 06:06:46</Date>
+            <Timestamp>1270127206</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:43 PDT 2010 -->

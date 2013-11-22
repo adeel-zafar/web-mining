@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320223437AAA0c0l" type="Answered">
+    <Subject>What is the best online collaboration solution for me?</Subject>
+    <Content>I&#039;m going to be working on an online, multiplayer game with two other people.  In the future, I would like the team to be able to expand.  I am looking for certain key pieces of functionality, and I just can&#039;t find anything that offers what I want.
+
+For example, I like MediaWiki because it will allow me to put all of our docs in one place and intelligently get them all linked together, and it can be personalized easily enough.  BUT, it has no permissions system, so as soon as I use it everyone and their brother with an internet connection can come read our secrets. ;P  There are a few &quot;security&quot; modules, but they are all just hacked together or difficult to install.  It also has no integrated forum software.
+
+So, something..
+
++  Functions like a wiki, but is clean-looking
++  Has powerful integrated forums software
++  Has good security controls so I keep out the baddies and the nosey people
++  Has live-chat capabilities (optional)
+</Content>
+    <Date>2010-03-20 22:34:37</Date>
+    <Timestamp>1269149677</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320223437AAA0c0l</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jqcbkwd7aa</UserId>
+    <UserNick>Sarah</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hello Sarah, 
+
+there is an extension for MediaWiki called HaloAccessControlList. This extension provides powerful access control for protecting single wiki pages, articles of categories or namespaces and values of semantic properties. Access can be restricted for individual users and entire user groups. An intuitive GUI allows easy administration of the access rights. 
+
+The installation is not very difficult, because you can use the Deployment Framework extension to install this feature. 
+
+
+Empowers the convenient administration and automatic setup of extensions for MW and SMW (comparable to APT). The deployment framework can also download and apply the latest patches of installed extensions.</ChosenAnswer>
+    <ChosenAnswererId>AYdcbNJEaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dominika</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269341215</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269669180</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hello Sarah, 
+
+there is an extension for MediaWiki called HaloAccessControlList. This extension provides powerful access control for protecting single wiki pages, articles of categories or namespaces and values of semantic properties. Access can be restricted for individual users and entire user groups. An intuitive GUI allows easy administration of the access rights. 
+
+The installation is not very difficult, because you can use the Deployment Framework extension to install this feature. 
+
+
+Empowers the convenient administration and automatic setup of extensions for MW and SMW (comparable to APT). The deployment framework can also download and apply the latest patches of installed extensions.</Content>
+            <Reference>http://smwforum.ontoprise.com/smwforum/index.php/List_of_Extensions#Access_Control_extension
+http://smwforum.ontoprise.com/smwforum/index.php/List_of_Extensions#Deployment_Framework_extension</Reference>
+            <Best>5</Best>
+            <UserId>AYdcbNJEaa</UserId>
+            <UserNick>Dominika</UserNick>
+            <Date>2010-03-23 03:46:55</Date>
+            <Timestamp>1269341215</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:55 PDT 2010 -->

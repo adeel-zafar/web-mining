@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310162705AAKJWuW" type="Answered">
+    <Subject>Why do websites like walmart or bestbuy always lag?</Subject>
+    <Content>walmart.ca/com and bestbuy.ca/com always lag
+There are many other websites that lag and I find this very annoying. Is it only me?
+Also the toys r us website does this as well as many other store websites.
+</Content>
+    <Date>2010-03-10 16:27:05</Date>
+    <Timestamp>1268267225</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310162705AAKJWuW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vAEEYZz2aa</UserId>
+    <UserNick>Dog Lover :D</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Perhaps you should try clearing your browser&#039;s cookies and cache and then try to visit the websites again.
+
+If that doesn&#039;t work, perhaps you should try repairing your connection by going tot he Control Panel and then to Network and Internet Connections.
+
+From there, you should right click on your connection and choose &quot;Repair&quot;.
+
+If that still doesn&#039;t work, perhaps you should try resetting your router by unplugging it for about fifteen seconds or so and then plugging it back in.
+
+Good luck and I hope I helped you!</ChosenAnswer>
+    <ChosenAnswererId>7fd15b7507af7da3c6ae3fb710bbdd1aaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jamie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268267453</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268535377</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Perhaps you should try clearing your browser&#039;s cookies and cache and then try to visit the websites again.
+
+If that doesn&#039;t work, perhaps you should try repairing your connection by going tot he Control Panel and then to Network and Internet Connections.
+
+From there, you should right click on your connection and choose &quot;Repair&quot;.
+
+If that still doesn&#039;t work, perhaps you should try resetting your router by unplugging it for about fifteen seconds or so and then plugging it back in.
+
+Good luck and I hope I helped you!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7fd15b7507af7da3c6ae3fb710bbdd1aaa</UserId>
+            <UserNick>Jamie</UserNick>
+            <Date>2010-03-10 16:30:53</Date>
+            <Timestamp>1268267453</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:17:13 PDT 2010 -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310165610AAPmqks" type="Answered">
+    <Subject>website defaced how do i report it to someone?</Subject>
+    <Content>The website i visit has been defaced http://spacetospace.org/
+how can i report this?.
+</Content>
+    <Date>2010-03-10 16:56:10</Date>
+    <Timestamp>1268268970</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310165610AAPmqks</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pKqHZVQjaa</UserId>
+    <UserNick>Thrillz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>They probably already know!</ChosenAnswer>
+    <ChosenAnswererId>kxsvjGmTaa</ChosenAnswererId>
+    <ChosenAnswererNick>John C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268269063</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268785007</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>They probably already know!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-10 16:57:43</Date>
+            <Timestamp>1268269063</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:17:06 PDT 2010 -->

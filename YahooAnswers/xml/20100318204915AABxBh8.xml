@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318204915AABxBh8" type="Answered">
+    <Subject>What&#039;s the protocol in eBay for an item to be shipped after you won and paid for it?</Subject>
+    <Content>I recently won an item on eBay. And paid for it within the hour. I was wondering if there is any protocol that dictates that a seller must ship an item within certain hours/days of payment.
+</Content>
+    <Date>2010-03-18 20:49:15</Date>
+    <Timestamp>1268970555</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318204915AABxBh8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>l4DqP0KKaa</UserId>
+    <UserNick>shoxell</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The deal is between you and the seller. eBay doesn&#039;t step in unless you file a complaint.  For example you bought something, waited for a reasonable amount of time, your item never arrived and you couldn&#039;t make contact with the seller.  eBay assumes a potential buyer will check the sellers feedback before they place a bid.  So if your asking if eBay requires a seller to ship within a specified time frame,  the answer is no.</ChosenAnswer>
+    <ChosenAnswererId>r49T7zQlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Croc</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268972724</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269489964</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The deal is between you and the seller. eBay doesn&#039;t step in unless you file a complaint.  For example you bought something, waited for a reasonable amount of time, your item never arrived and you couldn&#039;t make contact with the seller.  eBay assumes a potential buyer will check the sellers feedback before they place a bid.  So if your asking if eBay requires a seller to ship within a specified time frame,  the answer is no.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>r49T7zQlaa</UserId>
+            <UserNick>Croc</UserNick>
+            <Date>2010-03-18 21:25:24</Date>
+            <Timestamp>1268972724</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:37:28 PDT 2010 -->

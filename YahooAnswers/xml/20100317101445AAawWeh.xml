@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317101445AAawWeh" type="Answered">
+    <Subject>How can I block the internet from the properties on Internet Explorer 8?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-17 10:14:45</Date>
+    <Timestamp>1268846085</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317101445AAawWeh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10025383</UserId>
+    <UserNick>CharWiz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1YyPHZC3SAAIB_IFHqKQRCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Right click an area of your toolbar and tickmark Menu Bar. Then click on File and select &quot;Work Offline&quot;.</ChosenAnswer>
+    <ChosenAnswererId>gPzLD9gmaa</ChosenAnswererId>
+    <ChosenAnswererNick>MLM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268846223</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269041852</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Right click an area of your toolbar and tickmark Menu Bar. Then click on File and select &quot;Work Offline&quot;.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>gPzLD9gmaa</UserId>
+            <UserNick>MLM</UserNick>
+            <Date>2010-03-17 10:17:03</Date>
+            <Timestamp>1268846223</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:44:34 PDT 2010 -->

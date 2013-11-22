@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315162700AAxWEpz" type="Answered">
+    <Subject>How to send photos from the internet to your iPhone?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-15 16:27:00</Date>
+    <Timestamp>1268695620</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315162700AAxWEpz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ijqzWRhzaa</UserId>
+    <UserNick>That Sleeping Panda™</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b42ec65ic92zul5sp1/_GBLo4Ayd6diwADsvmdW11Jbi7E-/1/tn48.jpg?ciAAToMBy2nJTioc</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>the way I do it is via blue tooth you can buy a blue tooth adapter for your computer for as little as £10 check this out and see what I mean http://www.amazon.co.uk/Belkin-Class-Bluetooth-Adapter-Version/dp/B000CI2QLQ</ChosenAnswer>
+    <ChosenAnswererId>UQjUpqG3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Bomber</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268695893</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269279742</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>E-mail them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-15 16:28:09</Date>
+            <Timestamp>1268695689</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>the way I do it is via blue tooth you can buy a blue tooth adapter for your computer for as little as £10 check this out and see what I mean http://www.amazon.co.uk/Belkin-Class-Bluetooth-Adapter-Version/dp/B000CI2QLQ</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UQjUpqG3aa</UserId>
+            <UserNick>Bomber</UserNick>
+            <Date>2010-03-15 16:31:33</Date>
+            <Timestamp>1268695893</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:34 PDT 2010 -->

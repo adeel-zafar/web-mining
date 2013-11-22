@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313064257AAJ2pht" type="Answered">
+    <Subject>Hi, while trying to open Mozilla Firefox for browsing my system is taking too much time to open and some?</Subject>
+    <Content>times it is not responding,i am facing this problem frequently.Kindly suggest me some solution to open Firefox to browse internet immediately.thank u
+</Content>
+    <Date>2010-03-13 06:42:57</Date>
+    <Timestamp>1268491377</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313064257AAJ2pht</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>D4laAGERaa</UserId>
+    <UserNick>Keshav Kumar Gunda</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sometimes an easier way than reinstalling firefox is clearing the downloads list. When it is being launched, firefox scans the entire list, so the smaller the list, the better.</ChosenAnswer>
+    <ChosenAnswererId>6eaf1bfc0b4a79e12a35da940eff5398aa</ChosenAnswererId>
+    <ChosenAnswererNick>astrokid</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268506666</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269007463</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>hi keshav, what has happened is due to the time your mozilla firefox was installed on your computer due to ware mozilla on your computer drivers is not working correctly so to correct this problem hit start settings control panel hit the add/remove icon or programs&amp;features scrol down and unionstall then when it is removed reboot then go online and in the search bar search for mozilla firefox and download it and reinstall it on your computer your drivers will work now. good luck hope i was helpful to you</Content>
+            <Reference>new commandment thou shalt not look for files cause when you find them they are corrupted anyway so if you are having a problem then remove and replace no matter what the problem is except fat or fat32 or kernel or kernel32 this is a corrupt system and format is neccessory</Reference>
+            <Best></Best>
+            <UserId>6XYxCk6taa</UserId>
+            <UserNick>hemppy</UserNick>
+            <Date>2010-03-13 06:56:37</Date>
+            <Timestamp>1268492197</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>check ur pc ram may be u shud upgrade it!!
+u can also download ram booster for ur pc also check for viruses....
+if u hav sufficient ram then i think the software is corrupted try reinstalling it..
+gud luck!! :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XX4zbDfdaa</UserId>
+            <UserNick>Abhi B</UserNick>
+            <Date>2010-03-13 07:04:27</Date>
+            <Timestamp>1268492667</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i am also facing the same kind problem with firefox.
+what i suggest you,just reinstall firefox if possible then install current version.
+your problem with firefox will be sorted out.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8phOprpPaa</UserId>
+            <UserNick>Ashish</UserNick>
+            <Date>2010-03-13 07:36:53</Date>
+            <Timestamp>1268494613</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sometimes an easier way than reinstalling firefox is clearing the downloads list. When it is being launched, firefox scans the entire list, so the smaller the list, the better.</Content>
+            <Reference>this worked for me once.</Reference>
+            <Best>5</Best>
+            <UserId>6eaf1bfc0b4a79e12a35da940eff5398aa</UserId>
+            <UserNick>astrokid</UserNick>
+            <Date>2010-03-13 10:57:46</Date>
+            <Timestamp>1268506666</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:59 PDT 2010 -->

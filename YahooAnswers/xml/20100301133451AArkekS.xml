@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301133451AArkekS" type="Answered">
+    <Subject>Do you prefer skype or icq?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-01 13:34:51</Date>
+    <Timestamp>1267479291</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301133451AArkekS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ynslUx4saa</UserId>
+    <UserNick>Eleni</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>skype</ChosenAnswer>
+    <ChosenAnswererId>iae5HmBOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mike</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267479396</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267634658</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>skype</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>iae5HmBOaa</UserId>
+            <UserNick>Mike</UserNick>
+            <Date>2010-03-01 13:36:36</Date>
+            <Timestamp>1267479396</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>icq?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>K3nIbHG0aa</UserId>
+            <UserNick>=)</UserNick>
+            <Date>2010-03-01 13:46:00</Date>
+            <Timestamp>1267479960</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:31:07 PDT 2010 -->

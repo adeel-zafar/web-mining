@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303095250AALlJsE" type="Answered">
+    <Subject>Where can you download the latest Netscape browser ?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-03 09:52:50</Date>
+    <Timestamp>1267638770</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303095250AALlJsE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1QHukTCqaa</UserId>
+    <UserNick>__A_YAHOO_USER__</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1bkHI3R-6AAEC-IFD4Ao=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The actual Netscape browser page can be found at http://browser.netscape.com/
+
+Please note that Netscape is no longer supported as a browser, as version 9.0.0.6 was released in February 2008. You can still download this by clicking on the &quot;Releases Page&quot; link above. Version 9 was based on Firefox though, so using Firefox or Flock will give you much of the behavior that the old Netscape had.
+
+The successor to the Netscape that had the browser, email, and webpage creator all in one would be Seamonkey, as seen at http://www.seamonkey-project.org/</ChosenAnswer>
+    <ChosenAnswererId>d2H9hCQDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ashley</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267640391</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268158401</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Here you go
+http://download-netscapebrowser.tk/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>42699f3529f6d5910dec35a00566a0e1aa</UserId>
+            <UserNick>lauren</UserNick>
+            <Date>2010-03-03 09:53:42</Date>
+            <Timestamp>1267638822</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The actual Netscape browser page can be found at http://browser.netscape.com/
+
+Please note that Netscape is no longer supported as a browser, as version 9.0.0.6 was released in February 2008. You can still download this by clicking on the &quot;Releases Page&quot; link above. Version 9 was based on Firefox though, so using Firefox or Flock will give you much of the behavior that the old Netscape had.
+
+The successor to the Netscape that had the browser, email, and webpage creator all in one would be Seamonkey, as seen at http://www.seamonkey-project.org/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>d2H9hCQDaa</UserId>
+            <UserNick>Ashley</UserNick>
+            <Date>2010-03-03 10:19:51</Date>
+            <Timestamp>1267640391</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:18:29 PDT 2010 -->

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330070840AAM8Elz" type="Answered">
+    <Subject>Computer problem? My computer keeps opening lots of IE pages! Why is this?</Subject>
+    <Content>It keeps opening page after page and sounds like a hair dryer. What is happening?
+I have anti virus programmes telling me I have no virus, what can I do?
+</Content>
+    <Date>2010-03-30 07:08:40</Date>
+    <Timestamp>1269958120</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330070840AAM8Elz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ufdFei1jaa</UserId>
+    <UserNick>GeeCee</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a4d13d7i1688z/brqynZU2frSYn5P4Bari0jQ-/3/tn48.jpg?ciAAToMBnpWrcuje</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Oh, sweetie, that happens to me sometimes. By pages you mean tabs, right? You have malware and/or spyware. Norton Anti-virus won&#039;t pick this up. I&#039;m not sure how to fix it (my father usually does, haha), but call tech support or Geek Squad or something. Next time, do Windows Update (start&gt;&gt;Windows update) every once in a while to get the newest anti-spy/malware protection.
+Good luck!!</ChosenAnswer>
+    <ChosenAnswererId>3LCRJK9saa</ChosenAnswererId>
+    <ChosenAnswererNick>Samantha</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269959240</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270140616</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You might have a spy-ware. Is there ads on the pages you see?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uQYJxb9baa</UserId>
+            <UserNick>Alexander Nilsson</UserNick>
+            <Date>2010-03-30 07:14:29</Date>
+            <Timestamp>1269958469</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You most likely have a virus.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jHyefk2aaa</UserId>
+            <UserNick>PCPrime</UserNick>
+            <Date>2010-03-30 07:15:17</Date>
+            <Timestamp>1269958517</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>in that case, it should be a virus or malware</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UEEcxHaZaa</UserId>
+            <UserNick>Jason</UserNick>
+            <Date>2010-03-30 07:15:32</Date>
+            <Timestamp>1269958532</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>system restore</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FcaDJlHYaa</UserId>
+            <UserNick>Shad App</UserNick>
+            <Date>2010-03-30 07:23:16</Date>
+            <Timestamp>1269958996</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Oh, sweetie, that happens to me sometimes. By pages you mean tabs, right? You have malware and/or spyware. Norton Anti-virus won&#039;t pick this up. I&#039;m not sure how to fix it (my father usually does, haha), but call tech support or Geek Squad or something. Next time, do Windows Update (start&gt;&gt;Windows update) every once in a while to get the newest anti-spy/malware protection.
+Good luck!!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3LCRJK9saa</UserId>
+            <UserNick>Samantha</UserNick>
+            <Date>2010-03-30 07:27:20</Date>
+            <Timestamp>1269959240</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:25 PDT 2010 -->

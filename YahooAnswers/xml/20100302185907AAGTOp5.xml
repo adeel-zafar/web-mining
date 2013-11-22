@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302185907AAGTOp5" type="Answered">
+    <Subject>My login account on sites not remembered in firefox?</Subject>
+    <Content>When I sign in to youtube I would always check the box always sign in, also with my yahoo account etc.  but when I shut down the computer and turn it back on I would always have to sign in again which I don&#039;t want, it started happening about a day ago, I never did anything on the firefox options, anyway to fix this?
+</Content>
+    <Date>2010-03-02 18:59:07</Date>
+    <Timestamp>1267585147</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302185907AAGTOp5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8a28ed60ad8bc258641c9d32bcd68e9baa</UserId>
+    <UserNick>NiNes</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/190UBBhAwAAED_IFUsCRj1-4A.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can see at: Tool --&gt; Option --&gt; Security --&gt; Setting and you uncheck at &quot;I leave an encrypted page for one that isn&#039;t encrypted&quot;.</ChosenAnswer>
+    <ChosenAnswererId>UARxSgG5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Quang Chính</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267586438</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267695147</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can see at: Tool --&gt; Option --&gt; Security --&gt; Setting and you uncheck at &quot;I leave an encrypted page for one that isn&#039;t encrypted&quot;.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>UARxSgG5aa</UserId>
+            <UserNick>Quang Chính</UserNick>
+            <Date>2010-03-02 19:20:38</Date>
+            <Timestamp>1267586438</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:22:40 PDT 2010 -->

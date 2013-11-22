@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327073537AApM8TD" type="Answered">
+    <Subject>If you are paying for fiber-optic but getting copper, how chuffed are you?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-27 07:35:37</Date>
+    <Timestamp>1269700537</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327073537AApM8TD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eLedl03Naa</UserId>
+    <UserNick>Future OFCOM Equity</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1gHPxMlVNAAEC_OGgOLqj2C8B.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>EXTREMELY CHUFFED!
+To put it in perspective, copper wire can handle about 400 phone calls at the same time.  The amount of phone calls that fiber-optics can handle hasn&#039;t even come close to being used.
+
+If you paid for fiber-optic but get copper, I&#039;d be very upset.</ChosenAnswer>
+    <ChosenAnswererId>0BoDF6iBaa</ChosenAnswererId>
+    <ChosenAnswererNick>holly</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269701271</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269944684</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>EXTREMELY CHUFFED!
+To put it in perspective, copper wire can handle about 400 phone calls at the same time.  The amount of phone calls that fiber-optics can handle hasn&#039;t even come close to being used.
+
+If you paid for fiber-optic but get copper, I&#039;d be very upset.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0BoDF6iBaa</UserId>
+            <UserNick>holly</UserNick>
+            <Date>2010-03-27 07:47:51</Date>
+            <Timestamp>1269701271</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Unless you have FTTH, then it will always be copper that connect you to the internet.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>I26K54MHaa</UserId>
+            <UserNick>Dicky Bubble</UserNick>
+            <Date>2010-03-27 15:10:26</Date>
+            <Timestamp>1269727826</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:15 PDT 2010 -->

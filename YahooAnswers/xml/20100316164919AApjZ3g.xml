@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316164919AApjZ3g" type="Answered">
+    <Subject>Omgpop isn&#039;t loading?</Subject>
+    <Content>i was literally on the site 10 minutes ago, got off, and then went back to the website and now it won&#039;t load... all i get is a blank white screen. i&#039;ve tried restarting my computer, deleting all cookies, reloading my browser, refreshing.... idk what&#039;s wrong with it?
+</Content>
+    <Date>2010-03-16 16:49:19</Date>
+    <Timestamp>1268783359</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316164919AApjZ3g</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>YwfE2bHZaa</UserId>
+    <UserNick>Jimena</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>same thing here.
+but i&#039;m using windows 7 and the newest internet explorer so i chose the &quot;view in compatibility mode&quot; option and it shows up fine now.</ChosenAnswer>
+    <ChosenAnswererId>c13bb8104c1f77fae33849a078e5a2e3aa</ChosenAnswererId>
+    <ChosenAnswererNick>LadyJ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268784111</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269302791</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>there might be something wrong with the WEBSITE not your computer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BkeGPtHqaa</UserId>
+            <UserNick>Jake</UserNick>
+            <Date>2010-03-16 16:52:10</Date>
+            <Timestamp>1268783530</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>works for me...
+try this
+
+lockerzinvitz.tk/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HwsVRAYPaa</UserId>
+            <UserNick>P</UserNick>
+            <Date>2010-03-16 16:57:48</Date>
+            <Timestamp>1268783868</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>same thing here.
+but i&#039;m using windows 7 and the newest internet explorer so i chose the &quot;view in compatibility mode&quot; option and it shows up fine now.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>c13bb8104c1f77fae33849a078e5a2e3aa</UserId>
+            <UserNick>LadyJ</UserNick>
+            <Date>2010-03-16 17:01:51</Date>
+            <Timestamp>1268784111</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:47:32 PDT 2010 -->

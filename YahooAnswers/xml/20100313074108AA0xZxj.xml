@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313074108AA0xZxj" type="Answered">
+    <Subject>Stop internet explorer becoming the default browser?</Subject>
+    <Content>For some reason IE8 on Win7 keeps been set to default browser. U use FireFox and whenever I open it I get the &quot;Set firefox as default browser message&quot; and I always click yes but when I open it again I get the same message. Also If I open a hyperlink in word/msn etc. it opens IE even if firefox is already open.
+</Content>
+    <Date>2010-03-13 07:41:08</Date>
+    <Timestamp>1268494868</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313074108AA0xZxj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TlDn8FBEaa</UserId>
+    <UserNick>☃ Mr.Snowman ☃</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Start&gt; Control Panel&gt;Default Programs&gt;Set Default Programs&gt; Select Firefox&gt; Set This Program As Default&gt; Click OK</ChosenAnswer>
+    <ChosenAnswererId>lyDppNmzaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268495308</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268588031</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Start&gt; Control Panel&gt;Default Programs&gt;Set Default Programs&gt; Select Firefox&gt; Set This Program As Default&gt; Click OK</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>lyDppNmzaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-13 07:48:28</Date>
+            <Timestamp>1268495308</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>about that microsoft word /  msn, that means that your default browser is your internet explorer browser.. to change that, go to your mozilla firefox browser,
+
+1. At the top of the Firefox windowOn the menu bar, click on the ToolsFirefoxEdit menu, and select Options...Preferences.... 
+2. Select the Advanced panel, then click the General tab, and then click Check Now.
+3. Select Yes to set Firefox as your default browser. 
+4. and if you dont want the prompt from mozilla firefox that always check if its your default browser, &quot;uncheck&quot; the thing under System Default on your mozilla firefox setting, then click OK
+
+and if your having problem in windows 7, do some of this steps:
+
+1.  Click on the Windows logo to open the Start menu, then select Control Panel. The Control Panel window will open.
+2. Click on the link labeled Programs. The Programs panel will open. 
+3. Click on the link labeled Set your default programs. The Set your default programs panel will open. 
+4. In the Programs list on the left side of the window, click Firefox.
+5. In the right side of the window, click Set this program as default. 
+
+hope that helps..</Content>
+            <Reference>http://support.mozilla.com/en-US/kb/How+to+make+Firefox+the+default+browser
+http://support.mozilla.com/en-US/kb/Setting+Firefox+as+the+default+browser+does+not+work#Windows_7_and_Vista</Reference>
+            <Best></Best>
+            <UserId>DWH3kUt4aa</UserId>
+            <UserNick>ت christian ت</UserNick>
+            <Date>2010-03-13 07:50:09</Date>
+            <Timestamp>1268495409</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:51 PDT 2010 -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321165823AAnWC1h" type="Answered">
+    <Subject>Is this a good internet connection speed for Eircom at 7mb download speed with 50gb per month between 5 people?</Subject>
+    <Content>My mother &amp; her partner rarely use the internet I download a lot of torrents &amp; my two brothers use youtube a lot.
+
+Download 6048kps
+
+upload 309kps
+</Content>
+    <Date>2010-03-21 16:58:23</Date>
+    <Timestamp>1269215903</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321165823AAnWC1h</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mFno3AtSaa</UserId>
+    <UserNick>Nathalia Ruiz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/11kc8A272AAEDGQJaFI1qosqiHQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>the speed is acceptable but I&#039;d be careful how much you download, I can get through that in a week.</ChosenAnswer>
+    <ChosenAnswererId>H85vS6Hxaa</ChosenAnswererId>
+    <ChosenAnswererNick>Flux</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269215993</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269951786</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>the speed is acceptable but I&#039;d be careful how much you download, I can get through that in a week.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>H85vS6Hxaa</UserId>
+            <UserNick>Flux</UserNick>
+            <Date>2010-03-21 16:59:53</Date>
+            <Timestamp>1269215993</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:25:49 PDT 2010 -->

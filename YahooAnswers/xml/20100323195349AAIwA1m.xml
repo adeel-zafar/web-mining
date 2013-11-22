@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323195349AAIwA1m" type="Answered">
+    <Subject>How is Flock Browser?</Subject>
+    <Content>I want opinions from users of Flock, how is the security, style, how usable, etc
+</Content>
+    <Date>2010-03-23 19:53:49</Date>
+    <Timestamp>1269399229</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323195349AAIwA1m</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gKqOxvGJaa</UserId>
+    <UserNick>TomCat</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1ZNJHds_UAAEC_CEO1-X0DQ==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I installed Flock 2.5.6 (the latest version) yesterday.  I uninstalled a few minutes later after discovering it was based on an old version of Firefox (3.0.1.6) which was released in December 2009.  There have been no updates (security or otherwise) to Flock since version 2.5.6 was released in January 2010.  That is ridiculous, they are leaving their users open to security exploits.
+
+The style was ok. I can&#039;t tell you about usability since I didn&#039;t use it for very long.
+
+There are many reported and unsolved problems with Flock&#039;s features.  I won&#039;t try Flock again until it&#039;s based on a current version of Firefox.  If a new version of Flock isn&#039;t released by the end of April at the latest, then I say Flock is dead.
+
+Check it out for yourself and decide.</ChosenAnswer>
+    <ChosenAnswererId>tkTHntf8aa</ChosenAnswererId>
+    <ChosenAnswererNick>john</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269442650</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269490712</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I installed Flock 2.5.6 (the latest version) yesterday.  I uninstalled a few minutes later after discovering it was based on an old version of Firefox (3.0.1.6) which was released in December 2009.  There have been no updates (security or otherwise) to Flock since version 2.5.6 was released in January 2010.  That is ridiculous, they are leaving their users open to security exploits.
+
+The style was ok. I can&#039;t tell you about usability since I didn&#039;t use it for very long.
+
+There are many reported and unsolved problems with Flock&#039;s features.  I won&#039;t try Flock again until it&#039;s based on a current version of Firefox.  If a new version of Flock isn&#039;t released by the end of April at the latest, then I say Flock is dead.
+
+Check it out for yourself and decide.</Content>
+            <Reference>http://www.flock.com
+http://www.getsatisfaction.com/flock</Reference>
+            <Best>5</Best>
+            <UserId>tkTHntf8aa</UserId>
+            <UserNick>john</UserNick>
+            <Date>2010-03-24 07:57:30</Date>
+            <Timestamp>1269442650</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:16:48 PDT 2010 -->

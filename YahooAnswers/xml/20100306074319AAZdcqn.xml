@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306074319AAZdcqn" type="Answered">
+    <Subject>Firefox text is shown in gibberish?</Subject>
+    <Content>Here&#039;s a picture:
+
+http://i223.photobucket.com/albums/dd272/noadove/xx.png
+
+Why is it shown like that? (I think it has something to do with the Helvetica font; it shows up like that on other sites)
+
+I&#039;ve tried reinstalling Firefox, but nothing changed. I had the latest FF installment for a while, but this started happening about 2 days ago.
+
+Any help? ):
+</Content>
+    <Date>2010-03-06 07:43:19</Date>
+    <Timestamp>1267890199</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306074319AAZdcqn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1VwKIvpxaa</UserId>
+    <UserNick>cccc</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to your fonts folder: c:\windows\fonts.
+
+Delete the following fonts: Arial (all forms), Tahoma, Times New Roman, Trebuchet, Microsoft Sans Serif, Helvettica (if defined).
+
+Re-download and re-install these fonts from any free fonts site like http://www.downloadfreefonts.com/, http://www.1001freefonts.com/. [To install, just copy the fonts (the fonts are occassionally downloaded in .rar formats so you&#039;ll need to extract with winrar) and paste in the Fonts folder]
+
+Launch Firefox again. If it still remains the same, then its most likely an issue with viruses and malware. Scan your whole drives with an updated antimalware like BitDefender or Avast. 
+
+Hope this helps.</ChosenAnswer>
+    <ChosenAnswererId>HKMCtSUCaa</ChosenAnswererId>
+    <ChosenAnswererNick>medium4</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267890945</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268797964</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Did you make sure you uninstalled the whole program before you reinstalled it?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GPpjnFGVaa</UserId>
+            <UserNick>Jason K</UserNick>
+            <Date>2010-03-06 07:48:09</Date>
+            <Timestamp>1267890489</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to your fonts folder: c:\windows\fonts.
+
+Delete the following fonts: Arial (all forms), Tahoma, Times New Roman, Trebuchet, Microsoft Sans Serif, Helvettica (if defined).
+
+Re-download and re-install these fonts from any free fonts site like http://www.downloadfreefonts.com/, http://www.1001freefonts.com/. [To install, just copy the fonts (the fonts are occassionally downloaded in .rar formats so you&#039;ll need to extract with winrar) and paste in the Fonts folder]
+
+Launch Firefox again. If it still remains the same, then its most likely an issue with viruses and malware. Scan your whole drives with an updated antimalware like BitDefender or Avast. 
+
+Hope this helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>HKMCtSUCaa</UserId>
+            <UserNick>medium4</UserNick>
+            <Date>2010-03-06 07:55:45</Date>
+            <Timestamp>1267890945</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:49:27 PDT 2010 -->

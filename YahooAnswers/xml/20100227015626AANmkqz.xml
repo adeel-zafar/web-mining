@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227015626AANmkqz" type="Answered">
+    <Subject>import videos from the internet?</Subject>
+    <Content>how to import videos from animal.discovery.com to your computer like....example this video 
+http://animal.discovery.com/videos/dogs-101-first-four-weeks.html
+</Content>
+    <Date>2010-02-27 01:56:26</Date>
+    <Timestamp>1267264586</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227015626AANmkqz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WuUEbo0faa</UserId>
+    <UserNick>ngm</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>use dap</ChosenAnswer>
+    <ChosenAnswererId>FZpCw3Bnaa</ChosenAnswererId>
+    <ChosenAnswererNick>neeraj</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267266044</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268662429</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>use dap</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FZpCw3Bnaa</UserId>
+            <UserNick>neeraj</UserNick>
+            <Date>2010-02-27 02:20:44</Date>
+            <Timestamp>1267266044</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:46:14 PDT 2010 -->

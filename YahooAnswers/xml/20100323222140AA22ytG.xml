@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323222140AA22ytG" type="Answered">
+    <Subject>Why does my wireless disconect as soon as i use the internet?</Subject>
+    <Content>Hi, my new computer won&#039;t stay connected to my wireless router. It finds the router and connects to it, but only works for around 30sec and then disconnects/no internet connectivity. How do i fix this problem???
+</Content>
+    <Date>2010-03-23 22:21:40</Date>
+    <Timestamp>1269408100</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323222140AA22ytG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NskNQSFWaa</UserId>
+    <UserNick>Yianni</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You are looking at too much porn.</ChosenAnswer>
+    <ChosenAnswererId>E7kxQ6G6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Rolly</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269408269</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269928395</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You are looking at too much porn.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>E7kxQ6G6aa</UserId>
+            <UserNick>Rolly</UserNick>
+            <Date>2010-03-23 22:24:29</Date>
+            <Timestamp>1269408269</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:16:35 PDT 2010 -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301193740AAHLgpq" type="Answered">
+    <Subject>my computer cant function normally, because the IE there does not work.How can i revive it?</Subject>
+    <Content>IE restoration
+the fact is that i cant open IE to see or correct any mistakes
+</Content>
+    <Date>2010-03-01 19:37:40</Date>
+    <Timestamp>1267501060</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301193740AAHLgpq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hTlRg5NEaa</UserId>
+    <UserNick>Ming Tang</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It depends on the reason that it doesn&#039;t work.  Odds are you have some form of malware.  The first thing I would do it open up IE and click &#039;Tools&#039; then &#039;Internet Options&#039;.  After that click &#039;Connections&#039; &#039;Lan Settings&#039; and make sure that everything there is unchecked.  After that try to download malwarebytes or superantispyware.  I bet that&#039;ll get you going again.</ChosenAnswer>
+    <ChosenAnswererId>WOMmAwo8aa</ChosenAnswererId>
+    <ChosenAnswererNick>mississippiman2001</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267501275</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268020536</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It depends on the reason that it doesn&#039;t work.  Odds are you have some form of malware.  The first thing I would do it open up IE and click &#039;Tools&#039; then &#039;Internet Options&#039;.  After that click &#039;Connections&#039; &#039;Lan Settings&#039; and make sure that everything there is unchecked.  After that try to download malwarebytes or superantispyware.  I bet that&#039;ll get you going again.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>WOMmAwo8aa</UserId>
+            <UserNick>mississippiman2001</UserNick>
+            <Date>2010-03-01 19:41:15</Date>
+            <Timestamp>1267501275</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:28:53 PDT 2010 -->

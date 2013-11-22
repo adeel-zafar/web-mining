@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312140157AAjSyWf" type="Answered">
+    <Subject>Dial-up internet questions?</Subject>
+    <Content>So I have dial-up, but it won&#039;t stay connected long enough for me to download itunes.  I downloaded it on my old computer overnight, and I tried putting the setup file on a flash drive and putting it on my new computer, but it is an older version, too old for my itouch.  Where in control panel or wherever can I change this setting that disconnects me from the internet after it has been on for awhile?  Or can I change it at all?
+
+Also, if I get a wifi box-thingy, will it be extremely unbearably slow with dial-up?
+
+Thanks!
+</Content>
+    <Date>2010-03-12 14:01:57</Date>
+    <Timestamp>1268431317</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312140157AAjSyWf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZnPDOX6Naa</UserId>
+    <UserNick>MandaPandaE</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Bih0KGOvAAEC98GlKK7dl0EB.medium.jpg</UserPhotoURL>
+    <NumAnswers>9</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if your computer is very old i doubt if it will be able to use the WIFI (wireless broadband) is it a laptop or desktop pc. If it was a laptop then most of them have inbuilt wifi cards which can work with wifi network connection,
+
+the connection drop thing is a problem with dialup, long connections do get to drop in a dialup
+
+regards</ChosenAnswer>
+    <ChosenAnswererId>OXzlezk9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Saurav</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268431755</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268947171</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>wifi is wireless broadband, how the hell can you survive with only dial up in todays times</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lWdNOvo7aa</UserId>
+            <UserNick>Andy</UserNick>
+            <Date>2010-03-12 14:05:39</Date>
+            <Timestamp>1268431539</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you should need to go with broadband for the wifi thing for the dissconection problem i think it will be a setting in the dial up box when you start it up if you cant find it ring the dial up/ internet provider</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>a3BUqOgHaa</UserId>
+            <UserNick>brains007</UserNick>
+            <Date>2010-03-12 14:06:58</Date>
+            <Timestamp>1268431618</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ok what you have to do is get a the latest download from itunes to work with your itunes touch now about your internet disconnecting that dial-up will boot its users becuase of to much use. Well if you get a router ( wifi box-thingy) i would strongly suggest you get a better internet service with that because you will just be expierencing the same speeds.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HRZVP7TQaa</UserId>
+            <UserNick>Wotan</UserNick>
+            <Date>2010-03-12 14:07:44</Date>
+            <Timestamp>1268431664</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if your computer is very old i doubt if it will be able to use the WIFI (wireless broadband) is it a laptop or desktop pc. If it was a laptop then most of them have inbuilt wifi cards which can work with wifi network connection,
+
+the connection drop thing is a problem with dialup, long connections do get to drop in a dialup
+
+regards</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OXzlezk9aa</UserId>
+            <UserNick>Saurav</UserNick>
+            <Date>2010-03-12 14:09:15</Date>
+            <Timestamp>1268431755</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What are you paying for Dial up because for marginally more (like $5 a month or less) you can have a reliable cable/dsl line. Wifi and dialup sounds like a network nightmare to me.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8Yif2doNaa</UserId>
+            <UserNick>fox3</UserNick>
+            <Date>2010-03-12 14:12:34</Date>
+            <Timestamp>1268431954</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Of all my computer work, and seeing some of the unbelievable things some people do to their computer. And of all the computer problems I have ran into, This a first. I have never heard of anyone trying to use a router for wifi with dialup. Somehow I just don&#039;t think it will work. It might, but you&#039;re not going to be happy with it.</Content>
+            <Reference>Computer Tech</Reference>
+            <Best></Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-03-12 14:17:12</Date>
+            <Timestamp>1268432232</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Wi-fi doesn&#039;t work with dial-up, at least not directly.  Wireless routers require a network connection, which uses a different connector and communication standard than old-fashioned dial-up.  You would need broadband, like cable or DSL.  You *could* use wi-fi between two computers with one connected via dial-up, but the slowest connection speed would dictate the speed of the wi-fi shared connection.  In other words, sharing a dial-up connection over wi-fi would be as slow as the dial-up itself.
+
+One thing you can do to improve your download results would be to use a download manager, which browsers like Firefox and Opera have built-in (I don&#039;t know about IE any more, but version 6 and earlier don&#039;t have download management).  A download manager is designed to let you download files a little bit at a time, meaning you can manually stop, continue, or restart a download as time permits.  They can also better deal with interrupted communications.  They&#039;re not flawless, though.
+
+An even better option would be to use a torrent downloader.  Torrents are specifically designed to allow large files to be downloaded in small pieces.  The downsides are that many ISPs don&#039;t like torrents (they&#039;re often used to share illegally copied movies, music, and software) and thus discourage their use to one degree or another, and you can only use a torrent downloader if the file has been converted to a torrent (if it&#039;s not offered as a torrent you can&#039;t force it).</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fE7zhp3Caa</UserId>
+            <UserNick>vikingnoise</UserNick>
+            <Date>2010-03-12 14:22:10</Date>
+            <Timestamp>1268432530</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In MandaPandaE&#039;s defense, believe it or not, there are still areas in this country that do not have access to affordable high speed internet service.  I personally feel it&#039;s inexcusable but it&#039;s a fact.  If a person lives in an area without cable or dsl service their only option is dial-up or a super expensive satellite service provider.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>r49T7zQlaa</UserId>
+            <UserNick>Croc</UserNick>
+            <Date>2010-03-12 14:51:24</Date>
+            <Timestamp>1268434284</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>For the record, some places your only option is dial up. Example: a year ago, the place i lived, while our closest neighbor had high speed via Wireless signal from a nearby tower, our house, just next door, was too low to receive the signal, and to get an antenna to reach it, would have cost more than a grand. and believe me, it was not fun. luckily, i also had internet at school, as well as a flash drive. :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pN6SBxwMaa</UserId>
+            <UserNick>XanderXIII</UserNick>
+            <Date>2010-03-12 15:24:07</Date>
+            <Timestamp>1268436247</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:08:14 PDT 2010 -->

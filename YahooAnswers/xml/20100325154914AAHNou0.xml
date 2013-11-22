@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325154914AAHNou0" type="Answered">
+    <Subject>Whats wrong with my Formspring?</Subject>
+    <Content>I try to sign in but it says the user name doesn&#039;t exist or the password is wrong.
+I know they are right b/c I double checked. I went 2 &quot;Reset my password&quot; but it still hasn&#039;t sent an email.
+How to fix?
+</Content>
+    <Date>2010-03-25 15:49:14</Date>
+    <Timestamp>1269557354</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325154914AAHNou0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Nr74jpf8aa</UserId>
+    <UserNick>KING OF BANJARMASIN</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba58cfeiad6zws123mud/d4qvt5g2dLa935U.gp.6q1IiIhSUR2CHYvFTk502/42/tn48.jpeg?ciAAToMBeY2IsekL</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>I was looking in my network&#039;s question activity and one of them is having problems with Formspring today so it could just be some weird glitches going on today. The answers to her question are saying that they are having problems with it too so just wait until tomorrow I guess.</ChosenAnswer>
+    <ChosenAnswererId>VWpmbf2xaa</ChosenAnswererId>
+    <ChosenAnswererNick>:] [:</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269558011</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269574616</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I was looking in my network&#039;s question activity and one of them is having problems with Formspring today so it could just be some weird glitches going on today. The answers to her question are saying that they are having problems with it too so just wait until tomorrow I guess.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>VWpmbf2xaa</UserId>
+            <UserNick>:] [:</UserNick>
+            <Date>2010-03-25 16:00:11</Date>
+            <Timestamp>1269558011</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>VWpmbf2xaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-25 20:39:37</Date>
+            <Timestamp>1269558011</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:30:13 PDT 2010 -->

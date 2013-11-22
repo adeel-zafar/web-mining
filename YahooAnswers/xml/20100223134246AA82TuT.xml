@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223134246AA82TuT" type="Answered">
+    <Subject>When Firefox or IE are open and I type in any program, why do I loose my cursor after typing a few words?</Subject>
+    <Content>The screen becomes inactive, I hear the little dinging sound, and I then must click back in that screen to type more.
+</Content>
+    <Date>2010-02-23 13:42:46</Date>
+    <Timestamp>1266961366</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223134246AA82TuT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Cpfe7v40aa</UserId>
+    <UserNick>Shanna</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>You may have hotkeys enabled. Or you may be accidentally hitting the ctrl key, perhaps instead of the shift key. That will take focus off the current window, causing you to have to click the window to return focus to it.
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267275273</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267481032</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try running it in safe mode...just a random guess...!!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>udfrUeH3aa</UserId>
+            <UserNick>the_asker</UserNick>
+            <Date>2010-02-23 13:46:21</Date>
+            <Timestamp>1266961581</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You may have hotkeys enabled. Or you may be accidentally hitting the ctrl key, perhaps instead of the shift key. That will take focus off the current window, causing you to have to click the window to return focus to it.
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-02-27 04:54:33</Date>
+            <Timestamp>1267275273</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>Cpfe7v40aa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-01 17:39:33</Date>
+            <Timestamp>1267275273</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:19:17 PDT 2010 -->

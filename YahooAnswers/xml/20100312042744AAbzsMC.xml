@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312042744AAbzsMC" type="Answered">
+    <Subject>I can&#039;t get the internet on my computer at home?</Subject>
+    <Content>I have recently got BT broadband and it will connect to the netwrork but everything I try fails and I can&#039;t get on the internet.  It is the internet that I can&#039;t get on please give me some tips... what do I do?
+I have tried that but the support man couldn&#039;t get me to get the internet either I think there may be a virus on the computer.
+</Content>
+    <Date>2010-03-12 04:27:44</Date>
+    <Timestamp>1268396864</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312042744AAbzsMC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NNdnfOLdaa</UserId>
+    <UserNick>Prolly Lolly</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1IFCEPFN1AAIC-AFM7IwNCg==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You should have received a cd with your Home Hub which shows you what and how you connect. It also installs BT Yahoo for internet access. If you went through the whole procedure as instructed on the cd, give BT Broadband support a call. It&#039;s Freephone and they are very helpful and will talk you through the problem.</ChosenAnswer>
+    <ChosenAnswererId>yEVyNlVpaa</ChosenAnswererId>
+    <ChosenAnswererNick>BARRY</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268397135</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269041593</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>BT should have technical support that can ensure you have connectivity.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hmsCFQocaa</UserId>
+            <UserNick>Your Uncle Dodge!</UserNick>
+            <Date>2010-03-12 04:30:25</Date>
+            <Timestamp>1268397025</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Contact BT, you are paying for a service you cannot receive.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HP1pToMOaa</UserId>
+            <UserNick>Kernow Lady</UserNick>
+            <Date>2010-03-12 04:30:53</Date>
+            <Timestamp>1268397053</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You should have received a cd with your Home Hub which shows you what and how you connect. It also installs BT Yahoo for internet access. If you went through the whole procedure as instructed on the cd, give BT Broadband support a call. It&#039;s Freephone and they are very helpful and will talk you through the problem.</Content>
+            <Reference>BT Broadband Technical Support - 0800 111 4567</Reference>
+            <Best>5</Best>
+            <UserId>yEVyNlVpaa</UserId>
+            <UserNick>BARRY</UserNick>
+            <Date>2010-03-12 04:32:15</Date>
+            <Timestamp>1268397135</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:10:30 PDT 2010 -->

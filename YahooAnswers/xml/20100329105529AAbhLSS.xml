@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329105529AAbhLSS" type="Answered">
+    <Subject>Can I save my firefox configurations and addons?</Subject>
+    <Content>What I mean when I reformat my PC can I save my firefox addons so will not have to go and find and reinstall all the addons again.
+</Content>
+    <Date>2010-03-29 10:55:29</Date>
+    <Timestamp>1269885329</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329105529AAbhLSS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XHzfHFcUaa</UserId>
+    <UserNick>O</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi!
+
+Do a search for Moz Backup. I use it all the time, it will make a back up of all your setting, bookmarks, passwords, etc. I believe it also gets your addons, but I&#039;m not 100% sure. I&#039;ve used it numerous times and I don&#039;t remember having to go out and reinstall all my addons. It&#039;s a great program and has saved me tons of time when switching to a new computer. Just create a back up of Firefox, then install Firefox on the new computer and run Moz Backup and choose the restore option, it also does the same thing for Thunderbird. Great software!
+
+Hope this helps
+Good Luck!
+Mike</ChosenAnswer>
+    <ChosenAnswererId>wXmwWr9naa</ChosenAnswererId>
+    <ChosenAnswererNick>AskMe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269887623</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270135762</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I don&#039;t think so , you can save your bookmarks ofcourse , but not addons. .
+
+there is a software ,btw , that will save all your winows configurations and programs once you format and reinstall windows and use it .. but I don&#039;t remember it&#039;s name ,,, google it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GYe6bAnaaa</UserId>
+            <UserNick>glad.romance</UserNick>
+            <Date>2010-03-29 11:03:43</Date>
+            <Timestamp>1269885823</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi!
+
+Do a search for Moz Backup. I use it all the time, it will make a back up of all your setting, bookmarks, passwords, etc. I believe it also gets your addons, but I&#039;m not 100% sure. I&#039;ve used it numerous times and I don&#039;t remember having to go out and reinstall all my addons. It&#039;s a great program and has saved me tons of time when switching to a new computer. Just create a back up of Firefox, then install Firefox on the new computer and run Moz Backup and choose the restore option, it also does the same thing for Thunderbird. Great software!
+
+Hope this helps
+Good Luck!
+Mike</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wXmwWr9naa</UserId>
+            <UserNick>AskMe</UserNick>
+            <Date>2010-03-29 11:33:43</Date>
+            <Timestamp>1269887623</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:16:03 PDT 2010 -->

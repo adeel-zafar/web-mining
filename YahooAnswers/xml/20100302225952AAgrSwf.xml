@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302225952AAgrSwf" type="Answered">
+    <Subject>What is the coolest...?</Subject>
+    <Content>... Homepage to have?
+</Content>
+    <Date>2010-03-02 22:59:52</Date>
+    <Timestamp>1267599592</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302225952AAgrSwf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PCPnWDyWaa</UserId>
+    <UserNick>John M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1WUjreNOgAAEC62yEwtD0DQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Scroogle!
+
+http://www.scroogle.org/cgi-bin/scraper.htm
+
+All the power of Google search, without Google&#039;s spying on you!</ChosenAnswer>
+    <ChosenAnswererId>inOad9wRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Andrew</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267599738</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267734080</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Scroogle!
+
+http://www.scroogle.org/cgi-bin/scraper.htm
+
+All the power of Google search, without Google&#039;s spying on you!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>inOad9wRaa</UserId>
+            <UserNick>Andrew</UserNick>
+            <Date>2010-03-02 23:02:18</Date>
+            <Timestamp>1267599738</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>nothing is best than about:blank.............................</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZHWTKXtaaa</UserId>
+            <UserNick>Dadul</UserNick>
+            <Date>2010-03-02 23:27:40</Date>
+            <Timestamp>1267601260</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:21:00 PDT 2010 -->

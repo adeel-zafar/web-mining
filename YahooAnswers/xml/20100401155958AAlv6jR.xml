@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100401155958AAlv6jR" type="Answered">
+    <Subject>Computer virus fixed, now I can&#039;t get any internet access.?</Subject>
+    <Content>I had a virus on my laptop called antivirus live which hijacked the whole system. I downloaded norton 2010 on another profile but it wouldn&#039;t find the virus even in safe mode. yesterday i logged on and noticed that the virus appears to be gone but the whole systen is running slow as all hell, it literally takes 15 minutes for the settings to load. i also can&#039;t get the wireless router to work, every time i click on the icon it opens a window that says-
+
+&quot;windows cannot configure this wireless connection,
+if you have enabled another program to manage this wireless connection, use that software.
+
+if you want windows to configure this wireless connection, start the wireless zero configuration (WZC) service. for information about starting the WZC service, see article 871122 in the microsoft knowlege base on the microsoft.com website.&quot;
+
+needless to say i can&#039;t start the service and the website&#039;s directions don&#039;t work. I thought maybe the virus was still there screwing with the wireless router, so i tried loading other antivirus tools like hitman pro and avg onto a usb drive fom another computer and then loading them onto the laptop, but none of them will install without internet access.
+The laptop is an acer so maybe norton is just too big for it. is it just norton slowing it down and screwing with the wireless router, or is there still a virus? I don&#039;t want to remove norton because the history says that it &quot;quarantined&quot; a program called Virusdoctor, and i&#039;m afraid that if i uninstall norton that virus will come back. So anybody know what&#039;s wrong and how it&#039;s fixed? your help is greatly appreciated
+</Content>
+    <Date>2010-04-01 15:59:58</Date>
+    <Timestamp>1270162798</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100401155958AAlv6jR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>23Ir13qXaa</UserId>
+    <UserNick>Tweetwew</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>wsZtB0xhaa</ChosenAnswererId>
+    <ChosenAnswererNick>google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270206739</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270207521</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wsZtB0xhaa</UserId>
+            <UserNick>google</UserNick>
+            <Date>2010-04-02 04:12:19</Date>
+            <Timestamp>1270206739</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:11:18 PDT 2010 -->

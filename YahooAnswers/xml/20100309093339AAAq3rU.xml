@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309093339AAAq3rU" type="Answered">
+    <Subject>how would one have registered a domain name in 1993?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-09 09:33:39</Date>
+    <Timestamp>1268156019</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309093339AAAq3rU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ccc963a034d9bf3cbe5210b52a994882aa</UserId>
+    <UserNick>Tyler Durden</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/16tZOyA5wAAAEIIEkPI1yAlheEw==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>That&#039;s a strange question...the same way one would now, through a registrar...</ChosenAnswer>
+    <ChosenAnswererId>FuF8qZfsaa</ChosenAnswererId>
+    <ChosenAnswererNick>FrankW</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268156197</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268672079</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>That&#039;s a strange question...the same way one would now, through a registrar...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FuF8qZfsaa</UserId>
+            <UserNick>FrankW</UserNick>
+            <Date>2010-03-09 09:36:37</Date>
+            <Timestamp>1268156197</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:25:27 PDT 2010 -->

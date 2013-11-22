@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317150414AAlg266" type="Answered">
+    <Subject>Why does Chat Roulette always switch my cam from ManyCam to my webcam?</Subject>
+    <Content>Hello!
+Well I learned how to make a &quot;fake webcam&quot; for Chat Roulette on a program called ManyCam. Anyway, I went to chatroulette, switched my cam to &quot;ManyCam&quot; (there were two ManyCam options?) and my video shows up and everything, it plays perfectly, etc. Now, when I press &quot;start&quot; and it connects me to somebody, it switches back to my webcam and you can see me?? How can I fix this? 
+Thank ya! :)
+</Content>
+    <Date>2010-03-17 15:04:14</Date>
+    <Timestamp>1268863454</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317150414AAlg266</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RrVonriqaa</UserId>
+    <UserNick>Leah</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1kSXd3U2oAAIC-CG23EoMum0B.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I believe that Chat roulette has started blocking the &#039;fake webcam&#039; programs like Manycam.  You can go back to the original version of Chat roulette via chatroulette.com/classic and run the older version.  This one still works with Manycam.  I think the intention of the authors is to try to stop Manycam completely.</ChosenAnswer>
+    <ChosenAnswererId>AA11946174</ChosenAnswererId>
+    <ChosenAnswererNick>Hypnotoad</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268961245</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269191757</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>idk this is happening to me to and its angering me xD</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jOA1s7jzaa</UserId>
+            <UserNick>AndreaApocalypse</UserNick>
+            <Date>2010-03-17 17:36:50</Date>
+            <Timestamp>1268872610</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I hade the same problem an di found out why:
+
+
+1st:you need to download google chrome 
+2ng:go to chatrt.com
+3rd:it will show manycam as 1 of you cams to use.
+
+
+ps.hope it help and if it does pls top ans me ;) -_-</Content>
+            <Reference>myself</Reference>
+            <Best></Best>
+            <UserId>VHClOSeMaa</UserId>
+            <UserNick>JON!</UserNick>
+            <Date>2010-03-17 18:53:54</Date>
+            <Timestamp>1268877234</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Use split cam or any other program instead</Content>
+            <Reference>http://stream-recorder.com/forum/webcam-alternative-virtual-web-cam-do-webcamming-t964.html</Reference>
+            <Best></Best>
+            <UserId>OsgZmgqmaa</UserId>
+            <UserNick>Stream Recorder</UserNick>
+            <Date>2010-03-18 04:01:22</Date>
+            <Timestamp>1268910082</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I believe that Chat roulette has started blocking the &#039;fake webcam&#039; programs like Manycam.  You can go back to the original version of Chat roulette via chatroulette.com/classic and run the older version.  This one still works with Manycam.  I think the intention of the authors is to try to stop Manycam completely.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>AA11946174</UserId>
+            <UserNick>David O</UserNick>
+            <Date>2010-03-18 18:14:05</Date>
+            <Timestamp>1268961245</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:43:29 PDT 2010 -->

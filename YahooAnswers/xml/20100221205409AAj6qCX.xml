@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221205409AAj6qCX" type="Answered">
+    <Subject>How can i check what credit card I have on Amazon.com?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-21 20:54:09</Date>
+    <Timestamp>1266814449</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221205409AAj6qCX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LIJGYIiDaa</UserId>
+    <UserNick>sexy t</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1hEAsB-WVAAACXYN3kJMeCw==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to Your Account (top right), sign in at the prompt, and select Payment, then Add a Credit Card.  There will be a link to edit or delete a payment method.</ChosenAnswer>
+    <ChosenAnswererId>dztKGMAQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Windowphobe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266893910</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267120016</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to Your Account (top right), sign in at the prompt, and select Payment, then Add a Credit Card.  There will be a link to edit or delete a payment method.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>dztKGMAQaa</UserId>
+            <UserNick>Windowphobe</UserNick>
+            <Date>2010-02-22 18:58:30</Date>
+            <Timestamp>1266893910</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:31:19 PDT 2010 -->

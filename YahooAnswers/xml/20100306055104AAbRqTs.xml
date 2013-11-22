@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306055104AAbRqTs" type="Answered">
+    <Subject>I am unable to open one website- all other pages open fine. Website is not down.?</Subject>
+    <Content>My firewall is not blocking it and when I run the troubleshooter  it says that my &quot;broadband modem is experiencing connectivity issues&quot;  I have tried opening from IE, Firefox and Google chrome. This has gone on for days. I have reset the modem and wireless router. I can occasionally open up the site and when I go into &quot;sign up&quot; it gives me the &quot;page can not be displayed&quot; message. AAGGHH.
+</Content>
+    <Date>2010-03-06 05:51:04</Date>
+    <Timestamp>1267883464</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306055104AAbRqTs</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>f4639bc792f777f2acadb3e97e0577f3aa</UserId>
+    <UserNick>Stepford Wife</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1XhgVNe8ZAAIBmgKcUEkrCQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>That is the website for sure nothing to do with you. If you can open up other websites it means that it&#039;s the website you are trying to go to. Try pinging the website.  Just try again tomorrow and the next day.
+
+Good luck :)</ChosenAnswer>
+    <ChosenAnswererId>YeVE6hWqaa</ChosenAnswererId>
+    <ChosenAnswererNick>ishrex</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267883862</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268056585</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>sounds to me like to website has been closed down or is down for updates or repairs</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>CGEMmRr4aa</UserId>
+            <UserNick>anson</UserNick>
+            <Date>2010-03-06 05:55:20</Date>
+            <Timestamp>1267883720</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That is the website for sure nothing to do with you. If you can open up other websites it means that it&#039;s the website you are trying to go to. Try pinging the website.  Just try again tomorrow and the next day.
+
+Good luck :)</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>YeVE6hWqaa</UserId>
+            <UserNick>ishrex</UserNick>
+            <Date>2010-03-06 05:57:42</Date>
+            <Timestamp>1267883862</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Maybe the Site is under maintenance...... Also try using a Web Filter and see if you can access the site..</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dbMxRXfcaa</UserId>
+            <UserNick>Mahesh D</UserNick>
+            <Date>2010-03-06 06:53:51</Date>
+            <Timestamp>1267887231</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:49:47 PDT 2010 -->

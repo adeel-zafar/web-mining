@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227100101AABPgYv" type="Answered">
+    <Subject>Can anyone find me GIMP 2.6.2 proper download link?</Subject>
+    <Content>I go on http://www.gimp.org/downloads/ and it&#039;s not there.
+I don&#039;t want to google it and download any random GIMP cause it could be a virus.
+Thanks !!
+</Content>
+    <Date>2010-02-27 10:01:01</Date>
+    <Timestamp>1267293661</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227100101AABPgYv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>N8RwlA3daa</UserId>
+    <UserNick>chompp.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/10SJgmukoAAED4YQz2TFDl2cB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://download.cnet.com/GIMP/3000-2192_4-10073935.html
+
+This is latest version.. has a bug fix in it. better than the 2.6.2  ~</ChosenAnswer>
+    <ChosenAnswererId>ssue3clzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasper M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267294193</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267377059</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://download.cnet.com/GIMP/3000-2192_4-10073935.html
+
+This is latest version.. has a bug fix in it. better than the 2.6.2  ~</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper</UserNick>
+            <Date>2010-02-27 10:09:53</Date>
+            <Timestamp>1267294193</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try 1st one it is all good.. I got it from here only..
+scroll down and u can download it..
+
+but if u are ok wit 2.6.8 then it is ok.. because it is the most trusted place i refer to.. i.e. cnet.com [see the second link..</Content>
+            <Reference>http://www.orbitdownloader.com/freeware-download/download-the-gimp-262/50/
+http://download.cnet.com/1770-20_4-0.html?query=gimp+2.6.2&amp;tag=srch&amp;searchtype=downloads&amp;filterName=platform%3DWindows,Webware&amp;filter=platform%3DWindows,Webware</Reference>
+            <Best></Best>
+            <UserId>rc9Mil2zaa</UserId>
+            <UserNick>ethical_king</UserNick>
+            <Date>2010-02-27 10:11:53</Date>
+            <Timestamp>1267294313</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:44:40 PDT 2010 -->

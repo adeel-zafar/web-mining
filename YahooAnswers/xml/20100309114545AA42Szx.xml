@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309114545AA42Szx" type="Answered">
+    <Subject>Why does my internet keep crashing?</Subject>
+    <Content>I&#039;m using Mozilla FireFox 3.6 I just upgraded it but it still crashes and doesn&#039;t respond, wth?!
+When i go to play FarmVille or go onto Chatroulette, its just freezes and then doesnt respond.
+What can I do ?
+</Content>
+    <Date>2010-03-09 11:45:45</Date>
+    <Timestamp>1268163945</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309114545AA42Szx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ACzK9L4Qaa</UserId>
+    <UserNick>i_like_to_chewit</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1qSWyeMovAAIDVQKbSBfOBMXYMA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>okay, here is a simple solution
+Go here: http://www.opera.com/browser/download/
+
+and download Opera Internet browser, it is the fastest and the best one you&#039;ll find.
+That should fix your problem
+
+:)</ChosenAnswer>
+    <ChosenAnswererId>sZhbZkIQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Reinhard</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268164843</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268246059</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>okay, here is a simple solution
+Go here: http://www.opera.com/browser/download/
+
+and download Opera Internet browser, it is the fastest and the best one you&#039;ll find.
+That should fix your problem
+
+:)</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>sZhbZkIQaa</UserId>
+            <UserNick>Reinhard</UserNick>
+            <Date>2010-03-09 12:00:43</Date>
+            <Timestamp>1268164843</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:24:45 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227083847AAc2svu" type="Answered">
+    <Subject>Problem with uploading to Photobucket?</Subject>
+    <Content>I am trying to upload a video file to photobucket, but every time I try, it only uploads to 60% and then stops. I have tried on several different occasions, with the same results every time. Does anyone know what the problem is?
+</Content>
+    <Date>2010-02-27 08:38:47</Date>
+    <Timestamp>1267288727</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227083847AAc2svu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6173ede5e3ea0a8b44522ccd89de7fe0aa</UserId>
+    <UserNick>FUNdie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1348Yv4KZAAEDQoE-IIiRNaIB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your video file is too long.</ChosenAnswer>
+    <ChosenAnswererId>kqOV4FJvaa</ChosenAnswererId>
+    <ChosenAnswererNick>F</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267288907</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267509679</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your video file is too long.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>kqOV4FJvaa</UserId>
+            <UserNick>F</UserNick>
+            <Date>2010-02-27 08:41:47</Date>
+            <Timestamp>1267288907</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:44:57 PDT 2010 -->

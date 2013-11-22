@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329155046AAeKYwN" type="Answered">
+    <Subject>Why is 98% of my CPU usage on an open internet browser (firefox)?</Subject>
+    <Content>which is btw running very slow and the cooling fan is making lots of noise. What could be causing this??
+yes it does drop back down when I close it!!
+</Content>
+    <Date>2010-03-29 15:50:46</Date>
+    <Timestamp>1269903046</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329155046AAeKYwN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PYwWOuKpaa</UserId>
+    <UserNick>Johnny Appleseed</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Your browser may have a hijacker/malware. The CPU working non stop will cause it to heat up and the fan will kick on full speed to cool it down. 
+
+When you close your browser does the cpu usage drop back down?
+
+Try running an antimalware application like malwarebytes. 
+http://www.malwarebytes.org/mbam-download.php
+Install it, update it, run it. then check again. 
+I also recommend running it from Safe Mode. 
+Reboot pc, press F8 until the Advanced Boot Options menu appears on the screen and choose Safe mode. But be sure to update malwarebytes before hand. 
+It does a great job of removing any hijackers/spyware/malware, etc.</ChosenAnswer>
+    <ChosenAnswererId>TEJsT030aa</ChosenAnswererId>
+    <ChosenAnswererNick>OneShot</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269903447</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270017036</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your browser may have a hijacker/malware. The CPU working non stop will cause it to heat up and the fan will kick on full speed to cool it down. 
+
+When you close your browser does the cpu usage drop back down?
+
+Try running an antimalware application like malwarebytes. 
+http://www.malwarebytes.org/mbam-download.php
+Install it, update it, run it. then check again. 
+I also recommend running it from Safe Mode. 
+Reboot pc, press F8 until the Advanced Boot Options menu appears on the screen and choose Safe mode. But be sure to update malwarebytes before hand. 
+It does a great job of removing any hijackers/spyware/malware, etc.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>TEJsT030aa</UserId>
+            <UserNick>OneShot</UserNick>
+            <Date>2010-03-29 15:57:27</Date>
+            <Timestamp>1269903447</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:15:31 PDT 2010 -->

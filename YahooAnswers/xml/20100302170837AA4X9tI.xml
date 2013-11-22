@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302170837AA4X9tI" type="Answered">
+    <Subject>So what do people think of Chatroulette.com?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-02 17:08:37</Date>
+    <Timestamp>1267578517</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302170837AA4X9tI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pKw9w0k7aa</UserId>
+    <UserNick>$llllie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>haha its full of old guys holding theyre dicks out on webcam... I just heard of it last night and I came across maybe 5 or 6 normal people I acually had conversations with, out of like 500.</ChosenAnswer>
+    <ChosenAnswererId>AA11603151</ChosenAnswererId>
+    <ChosenAnswererNick>__A_YAHOO_USER__</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267578647</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267667279</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Pretty cool, despite the fact that I&#039;ve gotten someone with their dick out like six times now. Other than that though, it&#039;s good for a nice laugh.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6VcCVadXaa</UserId>
+            <UserNick>Vyseaurion</UserNick>
+            <Date>2010-03-02 17:10:28</Date>
+            <Timestamp>1267578628</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>haha its full of old guys holding theyre dicks out on webcam... I just heard of it last night and I came across maybe 5 or 6 normal people I acually had conversations with, out of like 500.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11603151</UserId>
+            <UserNick>Joey</UserNick>
+            <Date>2010-03-02 17:10:47</Date>
+            <Timestamp>1267578647</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:24 PDT 2010 -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321211127AA92cqa" type="Answered">
+    <Subject>How do i kick someone off my...?</Subject>
+    <Content>router but i don&#039;t want to turn it off like where do i go in the 192.168.1.1 for westell verizon . because my brothers on myspace all day and i get home around like 8 and i would like to play a round or 2 of call of duty or world of warcraft but its soo laggy cause hes on myspace
+</Content>
+    <Date>2010-03-21 21:11:27</Date>
+    <Timestamp>1269231087</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321211127AA92cqa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ui7AK1MNaa</UserId>
+    <UserNick>Alex</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Merely being on Myspace should not create enough lag to interfere with World of Warcraft or other online games.  Are u sure he is not doing some other activity...such as downloading items from torrents or similar activities?
+
+But to directly answer your question...Yes u can find his MAC address and ban it in the router&#039;s configuration screen.  The router should report the MAC address somewhere in its status reports so u can get it that way.  Routers differ on where this function is located, so u will have to browse the setup screens.</ChosenAnswer>
+    <ChosenAnswererId>Y2LoZQlMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Andrew Clements</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269231478</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269750368</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Merely being on Myspace should not create enough lag to interfere with World of Warcraft or other online games.  Are u sure he is not doing some other activity...such as downloading items from torrents or similar activities?
+
+But to directly answer your question...Yes u can find his MAC address and ban it in the router&#039;s configuration screen.  The router should report the MAC address somewhere in its status reports so u can get it that way.  Routers differ on where this function is located, so u will have to browse the setup screens.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Y2LoZQlMaa</UserId>
+            <UserNick>Andrew Clements</UserNick>
+            <Date>2010-03-21 21:17:58</Date>
+            <Timestamp>1269231478</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:59 PDT 2010 -->

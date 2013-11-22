@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223084530AAnAZNU" type="Answered">
+    <Subject>i want a comparison between Google - Bing &amp; Yahoo!?</Subject>
+    <Content>i want each search engine advantages and problems
+and how could we solve these problems
+</Content>
+    <Date>2010-02-23 08:45:30</Date>
+    <Timestamp>1266943530</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223084530AAnAZNU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KhcUIL6Haa</UserId>
+    <UserNick>Miss AD</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Start with this:
+http://lmgtfy.com/?q=%22bing+vs+google+vs+yahoo%22
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267260088</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267463135</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Start with this:
+http://lmgtfy.com/?q=%22bing+vs+google+vs+yahoo%22
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-02-27 00:41:28</Date>
+            <Timestamp>1267260088</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:21:33 PDT 2010 -->

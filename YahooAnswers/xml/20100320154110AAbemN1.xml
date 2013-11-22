@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320154110AAbemN1" type="Answered">
+    <Subject>How does this work??</Subject>
+    <Content>Look @ this!
+
+http://www.crazy-jokes.com/Tricks/magic_1.shtml
+
+Can anyone tell me how this works????
+</Content>
+    <Date>2010-03-20 15:41:10</Date>
+    <Timestamp>1269124870</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320154110AAbemN1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rfm4W1Bkaa</UserId>
+    <UserNick>Cold Side of the Pillow</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4afca1d2i463zul5re4/7_KiybkjdKVpCl_PKPZi4pd1vSaN/2/tn48.jpg?ciAAToMBDdudRrGe</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you notice, all of the cards are replaced by different cards, so no matter what you chose it always disappears, try writing the cards down and checking it for yourself. People just fall for it, because there is a graphical similarity between the original and the replaced cards.</ChosenAnswer>
+    <ChosenAnswererId>anvLxlEkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Roman</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269125245</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269644158</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you notice, all of the cards are replaced by different cards, so no matter what you chose it always disappears, try writing the cards down and checking it for yourself. People just fall for it, because there is a graphical similarity between the original and the replaced cards.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>anvLxlEkaa</UserId>
+            <UserNick>Roman</UserNick>
+            <Date>2010-03-20 15:47:25</Date>
+            <Timestamp>1269125245</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:14 PDT 2010 -->

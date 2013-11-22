@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301081529AAwRZfn" type="Answered">
+    <Subject>internet explorer overwriting problem?</Subject>
+    <Content>I click my google talk mail button but the mail window opened overwirte my alraedy opend other window. how can i open new window or new tab without overwrite i already opened window
+</Content>
+    <Date>2010-03-01 08:15:29</Date>
+    <Timestamp>1267460129</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301081529AAwRZfn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3bstm9PAaa</UserId>
+    <UserNick>kuttan</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49b936fci1e3cz/Sw.U0DMic6_WhCJTi.FUusTlyoTH5.3bIg--/100/tn48.jpg?ciAAToMB37TPburH</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Use whatever else than IE, there are so many possibilieties and they are much better in all ways...
+
+Try out Firefox, Opera, Google Chrome... I am sure that you will find something that fits you best. I prefer Firefox for security and friendly GUI.</ChosenAnswer>
+    <ChosenAnswererId>ZjlIMfqGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rastlinka</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267460533</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267979693</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use Firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>728fa89f222f3d8b9e88553f9bc954ffaa</UserId>
+            <UserNick>winsnug</UserNick>
+            <Date>2010-03-01 08:17:22</Date>
+            <Timestamp>1267460242</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Use whatever else than IE, there are so many possibilieties and they are much better in all ways...
+
+Try out Firefox, Opera, Google Chrome... I am sure that you will find something that fits you best. I prefer Firefox for security and friendly GUI.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ZjlIMfqGaa</UserId>
+            <UserNick>Rastlinka</UserNick>
+            <Date>2010-03-01 08:22:13</Date>
+            <Timestamp>1267460533</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you want to open the link on a new tab, press the Ctrl key while you click on the link.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TJDklEwtaa</UserId>
+            <UserNick>Bill M.</UserNick>
+            <Date>2010-03-01 08:35:37</Date>
+            <Timestamp>1267461337</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>stop using IE 
+Install Apple Safari,it rules!! It&#039;s much faster than Firefox.
+P.S don&#039;t use Chrome,its all hype and it lacks security!!
+I&#039;m a browser expert,so you can count on me :)
+Use Safari</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0od5FmAkaa</UserId>
+            <UserNick>Bozo</UserNick>
+            <Date>2010-03-01 10:55:11</Date>
+            <Timestamp>1267469711</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:22 PDT 2010 -->

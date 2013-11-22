@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327210306AAPRJjL" type="Answered">
+    <Subject>Can you guys create account on Winglin?</Subject>
+    <Content>I had been trying to create a new account for like 10 hours now however every time I create one, it says that an error occurred and check it later blah blah. 
+
+Do you guys having the same problem as me?
+
+I really need to create account urgently!
+</Content>
+    <Date>2010-03-27 21:03:06</Date>
+    <Timestamp>1269748986</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327210306AAPRJjL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uuotVXTGaa</UserId>
+    <UserNick>EuKi</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ae9251ai2704zul8sp1/7pm5D4g0bq1vOTL.Ye2e5d9m/1/tn48.jpg?ciAAToMB8lWBOP7Z</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>same, i haven&#039;t been able to create one for the past two or so days --;</ChosenAnswer>
+    <ChosenAnswererId>vMKromMvaa</ChosenAnswererId>
+    <ChosenAnswererNick>Asker</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269878644</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270268629</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>same, i haven&#039;t been able to create one for the past two or so days --;</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>vMKromMvaa</UserId>
+            <UserNick>Asker</UserNick>
+            <Date>2010-03-29 09:04:04</Date>
+            <Timestamp>1269878644</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:51 PDT 2010 -->

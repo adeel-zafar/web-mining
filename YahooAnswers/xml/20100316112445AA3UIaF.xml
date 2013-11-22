@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316112445AA3UIaF" type="Answered">
+    <Subject>when in internet explorer i write http.192.168.1.1 and connect then a proggram show what is that?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-16 11:24:45</Date>
+    <Timestamp>1268763885</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316112445AA3UIaF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IYDwl2zNaa</UserId>
+    <UserNick>Bader</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>More than likely its your Router and/or Modem.</ChosenAnswer>
+    <ChosenAnswererId>yVDyuYVGaa</ChosenAnswererId>
+    <ChosenAnswererNick>shutdown</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268763996</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269374546</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>More than likely its your Router and/or Modem.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>yVDyuYVGaa</UserId>
+            <UserNick>shutdown</UserNick>
+            <Date>2010-03-16 11:26:36</Date>
+            <Timestamp>1268763996</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your Router&#039;s software interface!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-16 11:29:04</Date>
+            <Timestamp>1268764144</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The IP address is to a router or dsl modem. It should be asking you for user and password in ordr to access the program. If your the owner it should be user: admin password:password.
+ Good luck</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fc617e4bd9b118c1293a39dcf3fc137aaa</UserId>
+            <UserNick>H.Robert O</UserNick>
+            <Date>2010-03-16 11:31:02</Date>
+            <Timestamp>1268764262</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>the URL should be not like the one you have given.  It should be :
+
+http://192.168.1.1
+
+You will be asked to enter your Log In Id and Password.  In most cases, if you have not set up any password, it would be &#039;admin&#039;  for log in and also for password.
+
+After entering the correct password, you will be taken to the following page :
+
+http://192.168.1.1/cgi-bin/webcm
+
+This is the interface program for DSL Modem router, through which you can configure the DSL Line Internet connection.  There you will find a button &#039;Run Wizard&quot;.  Clicking this button, you will be taken to some other pages to configure the Router. 
+
+Do not Run the Wizard unless you have any trouble in getting connection. 
+
+Just use the Back button of your browser and close the window.  If you want to do experiment, then run the wizard and follow the instructions, carefully.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ahImXzM4aa</UserId>
+            <UserNick>Proud Indian</UserNick>
+            <Date>2010-03-16 11:40:15</Date>
+            <Timestamp>1268764815</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:13 PDT 2010 -->

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308213731AAomNVT" type="Answered">
+    <Subject>There is a problem with this website&#039;s security certificate.?</Subject>
+    <Content>I received dis msg when i opened gmail. whats dis mean.. give me suggestion to resolve dis..
+</Content>
+    <Date>2010-03-08 21:37:31</Date>
+    <Timestamp>1268113051</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308213731AAomNVT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6gyTrKgBaa</UserId>
+    <UserNick>saran</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It means that the security certificate for the gmail website is invalid. Check the date and time settings on your PC to make sure they&#039;re right. If that&#039;s OK, then it&#039;s very possible that you have a nasty virus or something similar. Make sure your antivirus and anti-malware tools are up to date and do a scan.
+
+DO NOT log in to gmail if you&#039;re getting errors about the security certificate! It could mean that somebody is able to steal your username and password.</ChosenAnswer>
+    <ChosenAnswererId>AXqKh0ixaa</ChosenAnswererId>
+    <ChosenAnswererNick>Peter</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268113648</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268628796</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Its a microsoft thing. I would imagine google is sick of paying microsoft for the authentication (as are many other website). Just set it to allow.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10654797</UserId>
+            <UserNick>blamay22000</UserNick>
+            <Date>2010-03-08 21:40:07</Date>
+            <Timestamp>1268113207</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It means that the security certificate for the gmail website is invalid. Check the date and time settings on your PC to make sure they&#039;re right. If that&#039;s OK, then it&#039;s very possible that you have a nasty virus or something similar. Make sure your antivirus and anti-malware tools are up to date and do a scan.
+
+DO NOT log in to gmail if you&#039;re getting errors about the security certificate! It could mean that somebody is able to steal your username and password.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AXqKh0ixaa</UserId>
+            <UserNick>Peter</UserNick>
+            <Date>2010-03-08 21:47:28</Date>
+            <Timestamp>1268113648</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>visit this blog address  &amp; click side link ads  it is useful to you http://americansingles-1.blogspot.com/</Content>
+            <Reference>http://americansingles-1.blogspot.com/</Reference>
+            <Best></Best>
+            <UserId>jaN0Eiyyaa</UserId>
+            <UserNick>Raja</UserNick>
+            <Date>2010-03-08 22:38:42</Date>
+            <Timestamp>1268116722</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:27:45 PDT 2010 -->

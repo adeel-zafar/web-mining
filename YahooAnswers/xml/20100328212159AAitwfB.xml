@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328212159AAitwfB" type="Answered">
+    <Subject>Social networking site for bloggers?</Subject>
+    <Content>What are some good social networking sites for bloggers?
+</Content>
+    <Date>2010-03-28 21:21:59</Date>
+    <Timestamp>1269836519</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328212159AAitwfB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JAhlGdxPaa</UserId>
+    <UserNick>Sarah Johnson</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>HI, Theres a new site called blogtide you should checke it out. Its a social twitter like site for recreational bloggers. http://blogtide.com</ChosenAnswer>
+    <ChosenAnswererId>FXhXgP86aa</ChosenAnswererId>
+    <ChosenAnswererNick>Albert</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269969806</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270014490</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Bloggerbase.com is a really good one, but focused more around actual blogging. Some others are:
+
+http://geeks.pirillo.com/
+http://sodahead.com
+
+Check out the ning.com platforms too. 
+
+Hope this helps!</Content>
+            <Reference>http://kimrandall.me</Reference>
+            <Best></Best>
+            <UserId>9PFh4BcSaa</UserId>
+            <UserNick>Kim Randall</UserNick>
+            <Date>2010-03-28 22:27:14</Date>
+            <Timestamp>1269840434</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Fubar has a blogging option that alerts all your friends every time you post one.
+its has lots of other things to do too.
+http://www.fubar.com/mafia/join.php?acceptinv=87418</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>HCEkcD9oaa</UserId>
+            <UserNick>Mental</UserNick>
+            <Date>2010-03-29 04:15:51</Date>
+            <Timestamp>1269861351</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>HI, Theres a new site called blogtide you should checke it out. Its a social twitter like site for recreational bloggers. http://blogtide.com</Content>
+            <Reference>http://blogtide.com</Reference>
+            <Best>5</Best>
+            <UserId>FXhXgP86aa</UserId>
+            <UserNick>Albert</UserNick>
+            <Date>2010-03-30 10:23:26</Date>
+            <Timestamp>1269969806</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:01 PDT 2010 -->

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328151707AA9I46b" type="Answered">
+    <Subject>No activation email from The Pirate Bay?</Subject>
+    <Content>Yes, I did check the spam folder... I tried this with my gmail and yahoo emails. Still nothing.
+Did you get any emails from them? Any way to actually upload torrents without getting the email?
+</Content>
+    <Date>2010-03-28 15:17:07</Date>
+    <Timestamp>1269814627</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328151707AA9I46b</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>v3Mnayuwaa</UserId>
+    <UserNick>Craig</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There seems to be some issue with their email server again, I can&#039;t register either. Absolutely frustrating!
+
+Update: Moderator confirms that their mailserver is &quot;broken&quot; at the moment.</ChosenAnswer>
+    <ChosenAnswererId>8Q2QzVuhaa</ChosenAnswererId>
+    <ChosenAnswererNick>James</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269892225</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269997139</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yes</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qKduFl6waa</UserId>
+            <UserNick>IKE</UserNick>
+            <Date>2010-03-28 15:18:12</Date>
+            <Timestamp>1269814692</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There seems to be some issue with their email server again, I can&#039;t register either. Absolutely frustrating!
+
+Update: Moderator confirms that their mailserver is &quot;broken&quot; at the moment.</Content>
+            <Reference>http://forum.suprbay.org/showthread.php?tid=39055&amp;page=103</Reference>
+            <Best>5</Best>
+            <UserId>8Q2QzVuhaa</UserId>
+            <UserNick>James</UserNick>
+            <Date>2010-03-29 12:50:25</Date>
+            <Timestamp>1269892225</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:49 PDT 2010 -->

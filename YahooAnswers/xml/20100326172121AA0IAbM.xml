@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326172121AA0IAbM" type="Answered">
+    <Subject>If I don&#039;t have a Formspring account, but ask a question, will it be anonymous?</Subject>
+    <Content>I don&#039;t have a Formspring account, so it doesn&#039;t provide the &quot;Anonymous&quot; option when I want to ask a question. Will it still be anonymous if I ask a question, even if I ask it while signed on to my Facebook account?
+</Content>
+    <Date>2010-03-26 17:21:21</Date>
+    <Timestamp>1269649281</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326172121AA0IAbM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KiPnm40waa</UserId>
+    <UserNick>T</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1j1AMKA_mAAECQOFnfBNVhkEB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes it is still anonymous if you ask a question, as long as you are not logged on to a formspring account. Non of your information will be seen, regardless of you being on facebook, because when you want to ask a question, it leads you to the formspring page to ask it.</ChosenAnswer>
+    <ChosenAnswererId>PHcWtYrXaa</ChosenAnswererId>
+    <ChosenAnswererNick>discreetthinker</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269649456</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270168608</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes it is still anonymous if you ask a question, as long as you are not logged on to a formspring account. Non of your information will be seen, regardless of you being on facebook, because when you want to ask a question, it leads you to the formspring page to ask it.</Content>
+            <Reference>I&#039;ve asked questions before.</Reference>
+            <Best>5</Best>
+            <UserId>PHcWtYrXaa</UserId>
+            <UserNick>discreetthinker</UserNick>
+            <Date>2010-03-26 17:24:16</Date>
+            <Timestamp>1269649456</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yuuppppp its all anonymous</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yEG98Jaqaa</UserId>
+            <UserNick>Alex Jar</UserNick>
+            <Date>2010-03-26 17:26:07</Date>
+            <Timestamp>1269649567</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:19 PDT 2010 -->

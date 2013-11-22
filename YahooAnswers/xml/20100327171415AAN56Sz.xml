@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327171415AAN56Sz" type="Answered">
+    <Subject>can you use clear wireless mobile on a desktop?</Subject>
+    <Content>I want to get the Clear Wimax network but i don&#039;t want to pay extra for both the mobile and the home connection if I can just connect my mobile USB to my desktop and still be able to use the internet. Is that possible?
+</Content>
+    <Date>2010-03-27 17:14:15</Date>
+    <Timestamp>1269735255</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327171415AAN56Sz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ygR2cL3Kaa</UserId>
+    <UserNick>K</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go to BESTBUY and get a program called DATA Pilot Get the Universal Kit - Make sure it supports your phone model, it includes all of the cables and software to use your phone as a modem! I have used it for years. You can also edit your phone book and change pictures in your phones and create ring tones - it is like 79.95</ChosenAnswer>
+    <ChosenAnswererId>AA11767225</ChosenAnswererId>
+    <ChosenAnswererNick>bert_beer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269735483</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270254830</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, same exact thing. Just be careful with downloading a ton of stuff because mobile wireless providers sometimes enforce bandwidth caps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uXqAlyWQaa</UserId>
+            <UserNick>Joe D</UserNick>
+            <Date>2010-03-27 17:15:54</Date>
+            <Timestamp>1269735354</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go to BESTBUY and get a program called DATA Pilot Get the Universal Kit - Make sure it supports your phone model, it includes all of the cables and software to use your phone as a modem! I have used it for years. You can also edit your phone book and change pictures in your phones and create ring tones - it is like 79.95</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11767225</UserId>
+            <UserNick>bert_beer</UserNick>
+            <Date>2010-03-27 17:18:03</Date>
+            <Timestamp>1269735483</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:41 PDT 2010 -->

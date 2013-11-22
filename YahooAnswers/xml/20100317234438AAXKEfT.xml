@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317234438AAXKEfT" type="Answered">
+    <Subject>can&#039;t load flash games or flash banners?</Subject>
+    <Content>help :(
+
+I reformatted my computer and now some web pages won&#039;t load flash. SOME pages tell me I need to update my player, but NOT ALL.
+
+I have attempted ALL OBVIOUS SUGGESTIONS on how to fix this, so now I need some not so obvious suggestions.
+
+Help please
+</Content>
+    <Date>2010-03-17 23:44:38</Date>
+    <Timestamp>1268894678</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317234438AAXKEfT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6CdY8mvCaa</UserId>
+    <UserNick>KoKo KiTTy</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1NUOuajFwAAED-wFs5BAhQhGfbvoG.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Flash problems
+=================
+In XP, go to add remove programs and uninstall macromedia shockwave and also uninstall adobe flash, and adobe shockwave.
+
+Using Explorer, go to c: windows/system32/macromed and find the uninstall active x file in one of the folders, and run it.
+
+Then delete the contents of macromed folder.  If a particular file will not delete, right click &gt;properties and un-tick the read only attribute.  If it still will not delete , boot in safe mode and delete it, them boot normally.
+
+Then google adobe shockwave and install it.
+Then google adobe flash  and install it.  You will have to allow active x to help install which is ok.
+
+
+Do this to your IE, even if you use Firefox. Although this is written for IE8, you can do most of it in IE7 and IE6. It will fix your connection hassles with windows live messenger.
+
+IE8
+If you haven’t got IE8, download it from filehippo.com.  Select the correct one to suit XP or Vista/win7. Its as fast and as presentable as Firefox..  When you install IE8 it will automatically uninstall the existing IE, so if you having problems you can try re-installing it, but first try this.
+
+Set up IE/8 so it runs efficiently. (2 minutes)
+
+1. In IE, Click Tools &gt;Internet Options &gt;Advance Tab. Click Restore advance settings defaults button. Then scroll the listings down to near the bottom and select &gt;Tick empty temp files when browser closes (this empties the cache, which if not empty, will stop you from going online and hassles msn)
+2. Ensure only one phishing filter program, and only one firewall program is used on the computer.  Disable others that may be in other software, or disable the browser phishing filter.
+Ie8  - to disable the phishing filter click Tools &gt; scroll down to SmartScreen filter and disable it.  (leave it on is preferred) SmartScreen filter will stop malicious code from being installed to your computer, specially through activex, however it may be doubling up with your internet security program so causing your browser to be a little slower.  So either disable it in the browser or disable it in your internet security program.
+3. Then in IE8 click the blue drop arrow near the search icon (top RHS corner) &gt;manage search providers &gt;make the one you want default &gt;then remove all the others listed.  These really slow IE8 so remove them.
+4  Click Tools &gt;manage add ons &gt; accelerators and disable all of them.
+5  Get rid of any toolbars on the menu line.  Place the curser near the top under the address bar and right click.  Tick Menu bar, Status Bar, and Command bar. Untick any other listed.
+6  Then Click Tools &gt;Delete Browser History, cookies, add ons,  the whole lot. Do this regularly. Close the browser to set the settings. 
+
+Reboot and then do a windows express updates until no more updates.  This seems to help IE8.
+
+After you have used IE8 and happy with it, then you can experiment with the accelerators in manage add ons, and also experiment with the selections on the menu bar (5 above)
+
+IE8 has nice coloured tabs and if you see some text you like swipe it and a blue arrow shows, click it and you can select a function. These functions will change as you add accelerators. eg you may add Wiki or a medical site etc.</ChosenAnswer>
+    <ChosenAnswererId>pDxFOekIaa</ChosenAnswererId>
+    <ChosenAnswererNick>chezzrob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268895720</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269002201</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe you should try re-downloading adobe flash player and restarting your computer following the download. (that&#039;s what I had to do.)
+
+Or maybe you should remove the flash player on your pc and THEN re-download it... also check where you are saving flash player.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ocgWZqRBaa</UserId>
+            <UserNick>bluefairy1</UserNick>
+            <Date>2010-03-17 23:46:46</Date>
+            <Timestamp>1268894806</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>check if u have the lastest updates for flash and shockwave player</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RFjfqckNaa</UserId>
+            <UserNick>kat2009</UserNick>
+            <Date>2010-03-17 23:51:04</Date>
+            <Timestamp>1268895064</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Flash problems
+=================
+In XP, go to add remove programs and uninstall macromedia shockwave and also uninstall adobe flash, and adobe shockwave.
+
+Using Explorer, go to c: windows/system32/macromed and find the uninstall active x file in one of the folders, and run it.
+
+Then delete the contents of macromed folder.  If a particular file will not delete, right click &gt;properties and un-tick the read only attribute.  If it still will not delete , boot in safe mode and delete it, them boot normally.
+
+Then google adobe shockwave and install it.
+Then google adobe flash  and install it.  You will have to allow active x to help install which is ok.
+
+
+Do this to your IE, even if you use Firefox. Although this is written for IE8, you can do most of it in IE7 and IE6. It will fix your connection hassles with windows live messenger.
+
+IE8
+If you haven’t got IE8, download it from filehippo.com.  Select the correct one to suit XP or Vista/win7. Its as fast and as presentable as Firefox..  When you install IE8 it will automatically uninstall the existing IE, so if you having problems you can try re-installing it, but first try this.
+
+Set up IE/8 so it runs efficiently. (2 minutes)
+
+1. In IE, Click Tools &gt;Internet Options &gt;Advance Tab. Click Restore advance settings defaults button. Then scroll the listings down to near the bottom and select &gt;Tick empty temp files when browser closes (this empties the cache, which if not empty, will stop you from going online and hassles msn)
+2. Ensure only one phishing filter program, and only one firewall program is used on the computer.  Disable others that may be in other software, or disable the browser phishing filter.
+Ie8  - to disable the phishing filter click Tools &gt; scroll down to SmartScreen filter and disable it.  (leave it on is preferred) SmartScreen filter will stop malicious code from being installed to your computer, specially through activex, however it may be doubling up with your internet security program so causing your browser to be a little slower.  So either disable it in the browser or disable it in your internet security program.
+3. Then in IE8 click the blue drop arrow near the search icon (top RHS corner) &gt;manage search providers &gt;make the one you want default &gt;then remove all the others listed.  These really slow IE8 so remove them.
+4  Click Tools &gt;manage add ons &gt; accelerators and disable all of them.
+5  Get rid of any toolbars on the menu line.  Place the curser near the top under the address bar and right click.  Tick Menu bar, Status Bar, and Command bar. Untick any other listed.
+6  Then Click Tools &gt;Delete Browser History, cookies, add ons,  the whole lot. Do this regularly. Close the browser to set the settings. 
+
+Reboot and then do a windows express updates until no more updates.  This seems to help IE8.
+
+After you have used IE8 and happy with it, then you can experiment with the accelerators in manage add ons, and also experiment with the selections on the menu bar (5 above)
+
+IE8 has nice coloured tabs and if you see some text you like swipe it and a blue arrow shows, click it and you can select a function. These functions will change as you add accelerators. eg you may add Wiki or a medical site etc.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>pDxFOekIaa</UserId>
+            <UserNick>chezzrob</UserNick>
+            <Date>2010-03-18 00:02:00</Date>
+            <Timestamp>1268895720</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:13 PDT 2010 -->

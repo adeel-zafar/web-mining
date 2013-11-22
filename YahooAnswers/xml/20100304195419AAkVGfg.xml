@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304195419AAkVGfg" type="Answered">
+    <Subject>Internet Connection Clogging Up?</Subject>
+    <Content>I am running Vista (Service pack 2) and run through wireless.  When i connect to the internet, everything is fine.  But then after say 10 mins - 1 hour, my internet connection slows down big time, to the point that when I go to load another page, it takes forever &amp; just seems to keep on tryng to connect.  The problem is always solved by restarting my computer.  I&#039;m positive that it&#039;s not the wireless connection, cause that&#039;s still connected.  I&#039;m figuring it could have something to do with my firewall (Zonealarm), but I not sure.  I run Avast &amp; Malwarebytes on my computer (both with real time protection), so I kinda don&#039;t think that I&#039;ve got a virus or that it&#039;s a spyware issue.  I clean regularly with (Avanced Sysytem Care) &amp; (CCleaner) as well.  Any help would be much appreciated.
+</Content>
+    <Date>2010-03-04 19:54:19</Date>
+    <Timestamp>1267761259</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304195419AAkVGfg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>j5dY45gsaa</UserId>
+    <UserNick>louiepeterfraser</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Vista is the worst OS ever made!</ChosenAnswer>
+    <ChosenAnswererId>kxsvjGmTaa</ChosenAnswererId>
+    <ChosenAnswererNick>John C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267761491</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269509613</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Vista is the worst OS ever made!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-04 19:58:11</Date>
+            <Timestamp>1267761491</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 22:00:34 PDT 2010 -->

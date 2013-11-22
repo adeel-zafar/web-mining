@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309010426AA7ssbU" type="Answered">
+    <Subject>Does /b/ on 4chan work for anyone else?</Subject>
+    <Content>whenever I try to go there, I get &quot;Oh no the board is gone!&quot;
+</Content>
+    <Date>2010-03-09 01:04:26</Date>
+    <Timestamp>1268125466</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309010426AA7ssbU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>h9PGmWIvaa</UserId>
+    <UserNick>Rachel O</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Some a$$hole thought it would be funny to delete the whole thing, what a jerk.</ChosenAnswer>
+    <ChosenAnswererId>A1dmgeeuaa</ChosenAnswererId>
+    <ChosenAnswererNick>Joshua G</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268125544</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268883726</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Some a$$hole thought it would be funny to delete the whole thing, what a jerk.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>A1dmgeeuaa</UserId>
+            <UserNick>Joshua G</UserNick>
+            <Date>2010-03-09 01:05:44</Date>
+            <Timestamp>1268125544</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1 and 2 kid.
+
+Go away.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jWb0EuKRaa</UserId>
+            <UserNick>dammuzi</UserNick>
+            <Date>2010-03-09 01:05:46</Date>
+            <Timestamp>1268125546</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:27:08 PDT 2010 -->

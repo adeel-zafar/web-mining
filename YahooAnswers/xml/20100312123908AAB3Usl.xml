@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312123908AAB3Usl" type="Answered">
+    <Subject>HELP,HELP.Disaster.Does  ANYONE KNOW HOW TO RETRIEVE DELETED EMAILS FROM AOL Mail account?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-12 12:39:08</Date>
+    <Timestamp>1268426348</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312123908AAB3Usl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>i7iQmSgIaa</UserId>
+    <UserNick>Suave-cat</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49f4fecai10a5zul5sp1/gkhzUSk7frLFVTWDy.eI9ssf/2/tn48.jpg?ciAAToMBeQEwPdyX</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It might be on your PC if you set this option up...Open the AOL client and select File&gt;Filing Cabinet.
+Also check the link...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268427009</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269083543</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It might be on your PC if you set this option up...Open the AOL client and select File&gt;Filing Cabinet.
+Also check the link...</Content>
+            <Reference>http://www.askageek.com/2008/03/05/retrieve-deleted-aol-email/</Reference>
+            <Best>5</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-12 12:50:09</Date>
+            <Timestamp>1268427009</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:08:17 PDT 2010 -->

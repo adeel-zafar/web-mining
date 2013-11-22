@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314153344AAYQjPW" type="Answered">
+    <Subject>Glasser wont work with Firefox 3.6?</Subject>
+    <Content>Every time I try to start up Firefox I get a java script error
+</Content>
+    <Date>2010-03-14 15:33:44</Date>
+    <Timestamp>1268606024</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314153344AAYQjPW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vDRdli8qaa</UserId>
+    <UserNick>Juwan L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Enable and disable the java script and try woking into it.
+
+To enable JavaScript in Firefox 1.xx series
+ 
+Open Firefox.
+On the Tools menu, click Options.
+Click Web Features in the Options list. (Fig.1)
+Under the Web Features section, check the box next to Enable JavaScript.
+Click the Advanced button to open the Advanced JavaScript Options box. (Fig. 2)
+Check the boxes under Allow scripts to section that you want to allow.
+Click OK.
+Click OK.
+
+...
+Once you disable it, update your firefox browser, then try it. Else you should reinstall and see</ChosenAnswer>
+    <ChosenAnswererId>WwzFFtc5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Best performer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268606588</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269125670</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Enable and disable the java script and try woking into it.
+
+To enable JavaScript in Firefox 1.xx series
+ 
+Open Firefox.
+On the Tools menu, click Options.
+Click Web Features in the Options list. (Fig.1)
+Under the Web Features section, check the box next to Enable JavaScript.
+Click the Advanced button to open the Advanced JavaScript Options box. (Fig. 2)
+Check the boxes under Allow scripts to section that you want to allow.
+Click OK.
+Click OK.
+
+...
+Once you disable it, update your firefox browser, then try it. Else you should reinstall and see</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>WwzFFtc5aa</UserId>
+            <UserNick>Best performer</UserNick>
+            <Date>2010-03-14 15:43:08</Date>
+            <Timestamp>1268606588</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi, Juwan L
+
+There are 3 step to repair firefox 3.6 error
+
+My friend had the same problem with you. I am sure your computer has registry problems.It is very easy to repair firefox 3.6 error. you just need 3 steps:
+
+1: Download a registry cleaner and install it.
+2: Open the registry cleaner and scan you computer for free.
+3: Click fix button and you done.
+
+Download the top firefox 3.6 error repair tool here:http://www.RepairErrorInstantly.com/ttfix-firefox_3.6_error-zz0001</Content>
+            <Reference>http://www.RepairErrorInstantly.com/ttfix-firefox_3.6_error-zz0001</Reference>
+            <Best></Best>
+            <UserId>tDxYlk0Naa</UserId>
+            <UserNick>Antonia</UserNick>
+            <Date>2010-03-15 00:00:30</Date>
+            <Timestamp>1268636430</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:58:00 PDT 2010 -->

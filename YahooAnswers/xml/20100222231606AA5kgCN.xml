@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222231606AA5kgCN" type="Answered">
+    <Subject>Why is chat roulette not working?</Subject>
+    <Content>It&#039;s not connecting for some reason...
+</Content>
+    <Date>2010-02-22 23:16:06</Date>
+    <Timestamp>1266909366</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222231606AA5kgCN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ytHxuQ5Jaa</UserId>
+    <UserNick>badmadogus</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes the news is also put on www.trybonus.nl. Hope to keep you all updated on it. The site chatroulette prolly grows too fast lol, normal really. 
+The maintenance started at 0:00 in Netherlands (23:00 GMT), Chatroulette prolly will be up today, 23 February at 19:00 pm GMT.
+Bored now? Just take a look around on it, many other stuff to do online to keep urself busy really.</ChosenAnswer>
+    <ChosenAnswererId>Cwdhwbssaa</ChosenAnswererId>
+    <ChosenAnswererNick>Rick</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266922529</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269126151</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>idk, for me the web page isnt loading at all</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iyXZ3vY1aa</UserId>
+            <UserNick>White Sox Dude</UserNick>
+            <Date>2010-02-22 23:27:51</Date>
+            <Timestamp>1266910071</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The nameservers for the domain is not answering either, so the servers can not even be located...
+
+Btw, the nameservers are in Russia.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QWnBLDz0aa</UserId>
+            <UserNick>lenne_dk</UserNick>
+            <Date>2010-02-22 23:39:51</Date>
+            <Timestamp>1266910791</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes the news is also put on www.trybonus.nl. Hope to keep you all updated on it. The site chatroulette prolly grows too fast lol, normal really. 
+The maintenance started at 0:00 in Netherlands (23:00 GMT), Chatroulette prolly will be up today, 23 February at 19:00 pm GMT.
+Bored now? Just take a look around on it, many other stuff to do online to keep urself busy really.</Content>
+            <Reference>www.trybonus.nl
+www.chatroulette.com</Reference>
+            <Best>5</Best>
+            <UserId>Cwdhwbssaa</UserId>
+            <UserNick>Rick</UserNick>
+            <Date>2010-02-23 02:55:29</Date>
+            <Timestamp>1266922529</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:23:59 PDT 2010 -->

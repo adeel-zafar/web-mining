@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310032449AAlG9Ms" type="Answered">
+    <Subject>Why do my websites not update themselves?</Subject>
+    <Content>When I go to a previous website I always have to refresh otherwise I&#039;m reading old news or weather. Is there a way to refresh them automatically?
+When I log on to the internet, no matter what site I go to, normally the same ones every day, news, weather, ebay, etc. I always have to clik the refresh icon to update it. I am using windows vista and this just started happening a week ago.
+</Content>
+    <Date>2010-03-10 03:24:49</Date>
+    <Timestamp>1268220289</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310032449AAlG9Ms</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10346117</UserId>
+    <UserNick>americanmalearlington</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1PEpKIxMkAAEDQWEo8AhywT4A.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Create a bookmark to go there rather than going back via previous button. When you use the previous button it is assumed you want the old data from the web site. When you go forward it is assumed you want new data.</ChosenAnswer>
+    <ChosenAnswererId>8c44cac7a547e9bbb2bfa16207440753aa</ChosenAnswererId>
+    <ChosenAnswererNick>Auntie Mame</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268221417</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269081824</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Something odd is going on. Can you give an example or two of websites you have this issue on? Also, what browser are you using? And do you know if you are using a proxy of some kind?
+
+How exactly do you &quot;go to a previous website&quot;? Do you click on a link? Click on a shortcut? Enter the site name into your address bar?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ebuxHnScaa</UserId>
+            <UserNick>JoelKatz</UserNick>
+            <Date>2010-03-10 03:41:00</Date>
+            <Timestamp>1268221260</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Create a bookmark to go there rather than going back via previous button. When you use the previous button it is assumed you want the old data from the web site. When you go forward it is assumed you want new data.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>8c44cac7a547e9bbb2bfa16207440753aa</UserId>
+            <UserNick>Auntie Mame</UserNick>
+            <Date>2010-03-10 03:43:37</Date>
+            <Timestamp>1268221417</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>When you go to the previous site (I am assuming you are clicking on the Back button), the page is served from the local cache (temporary copy) on your computer and that is why you are seeing old content.
+
+You have to revisit the site either by typing the URL again or by clicking on a bookmarked link. This will load the page again, picking up fresh contents.
+
+Arun</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>c75u2IYKaa</UserId>
+            <UserNick>Arun Agrawal - Ebizindia</UserNick>
+            <Date>2010-03-10 03:46:51</Date>
+            <Timestamp>1268221611</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:20:19 PDT 2010 -->

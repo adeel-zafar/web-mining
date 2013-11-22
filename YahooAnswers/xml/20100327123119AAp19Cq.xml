@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327123119AAp19Cq" type="Answered">
+    <Subject>my browser jumps or redirects me all the time.  How do I stop that?</Subject>
+    <Content>when I type something in my browser my choices appear.  If I click on any of those choices I get redirected or jumped to someplace I didn&#039;t want to go.
+</Content>
+    <Date>2010-03-27 12:31:19</Date>
+    <Timestamp>1269718279</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327123119AAp19Cq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mHFBMf8Eaa</UserId>
+    <UserNick>Rev. Rick</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Firstly, try deleting all your cookies, you can usually do this in your browser option, if that doesn&#039;t work download a new browser or reinstall the one you have now, then get yourself a good anti-virus like AVG or Avira Anti-Vir to stop malware from infecting your browser. By the way that&#039;s most likely your problem, you have malware or a virus on your computer sending you to sites you don&#039;t want to go.</ChosenAnswer>
+    <ChosenAnswererId>Y8syltsBaa</ChosenAnswererId>
+    <ChosenAnswererNick>MC</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269718892</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270281745</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There are known viruses which are infecting your Internet Browser making it redirect you to a malicious sites every time you click a link, I would suggest running a Anti Virus
+
+Here are some Free ones.
+Microsoft Securtiy Essentials (Microsoft.com
+Avira (avira.com)
+Avast (Avast.com)
+
+Can also be you are using a fake browser, I suggest using one off these
+Comodo Dragon (Comodo.com)
+Firefox (Mozilla.com)
+Opera (Opera.com)
+Google Chrome (Google.com/chrome)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IG1gIOcNaa</UserId>
+            <UserNick>Glenn</UserNick>
+            <Date>2010-03-27 12:37:25</Date>
+            <Timestamp>1269718645</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try searching for add-ons / plug-ins for your browser</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BISXsCI1aa</UserId>
+            <UserNick>Nobody</UserNick>
+            <Date>2010-03-27 12:39:13</Date>
+            <Timestamp>1269718753</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firstly, try deleting all your cookies, you can usually do this in your browser option, if that doesn&#039;t work download a new browser or reinstall the one you have now, then get yourself a good anti-virus like AVG or Avira Anti-Vir to stop malware from infecting your browser. By the way that&#039;s most likely your problem, you have malware or a virus on your computer sending you to sites you don&#039;t want to go.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Y8syltsBaa</UserId>
+            <UserNick>MC</UserNick>
+            <Date>2010-03-27 12:41:32</Date>
+            <Timestamp>1269718892</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:22:28 PDT 2010 -->

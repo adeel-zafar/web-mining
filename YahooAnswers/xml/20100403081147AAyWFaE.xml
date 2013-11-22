@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100403081147AAyWFaE" type="Answered">
+    <Subject>does mobile network has any affect on wireless broadband  connection?</Subject>
+    <Content>here there is very poor network of reliance so will it have any effect on reliance net connect
+actually inside my home there is no network i cant make calls or sms i have to go outside
+so plz tell me will my net connect work properly
+thanks
+</Content>
+    <Date>2010-04-03 08:11:47</Date>
+    <Timestamp>1270307507</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100403081147AAyWFaE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lYqk7u3Xaa</UserId>
+    <UserNick>Harendra S</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Those are two different frequencies, so one should not affect the other.</ChosenAnswer>
+    <ChosenAnswererId>Z6mKM1DOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Michelle H</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270307580</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270323810</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Those are two different frequencies, so one should not affect the other.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Z6mKM1DOaa</UserId>
+            <UserNick>Michelle H</UserNick>
+            <Date>2010-04-03 08:13:00</Date>
+            <Timestamp>1270307580</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No it will not have an effect if you are using a good router.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6M08zE0taa</UserId>
+            <UserNick>Ankur</UserNick>
+            <Date>2010-04-03 08:38:32</Date>
+            <Timestamp>1270309112</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Mobile Network and Wireless Network does not depend on each other. But If you use the devices which uses the mobile network tower. Then it will be a problem.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>I8lKySRvaa</UserId>
+            <UserNick>Little Star</UserNick>
+            <Date>2010-04-03 10:00:03</Date>
+            <Timestamp>1270314003</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:09:22 PDT 2010 -->

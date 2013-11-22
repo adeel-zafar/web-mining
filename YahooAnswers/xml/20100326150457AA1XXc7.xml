@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326150457AA1XXc7" type="Answered">
+    <Subject>I have a question about Paypal?</Subject>
+    <Content>Im trying to link my bank account with paypal so that i can get my account verified. I have a personal account and i was wondering if they are going to charge me for this or is it free. And will my information be kept safe.
+</Content>
+    <Date>2010-03-26 15:04:57</Date>
+    <Timestamp>1269641097</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326150457AA1XXc7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>U6vcnS47aa</UserId>
+    <UserNick>socomdude</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/11QLY6Rn2AAEEPQFAoE9NCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If I remember rightly they charge a small fee to your bank account and there is a code number in the transaction. Once you check your bank statement and verify these code numbers back to them they deduct the charge. It does make things safer for everyone as only you should have access to your bank account statement. Took about 4 days for me to check my statement online.
+
+All your information is safe on Paypal. I&#039;ve used it for years for Ebay and private transactions.</ChosenAnswer>
+    <ChosenAnswererId>6JYnwZCwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Trust me I&#039;m a Doctor</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269642065</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269746305</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>the only charges are when you receive money... the verification is free and even if they charged for it, the 2 deposits are like 22 cents....</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PrrPXI30aa</UserId>
+            <UserNick>ez80227</UserNick>
+            <Date>2010-03-26 15:06:32</Date>
+            <Timestamp>1269641192</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>And to add to what the last person said, they withdraw the charges when you have verified your account.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>a757e290506dfe1a3c06c3dacd86217eaa</UserId>
+            <UserNick>meganreeves</UserNick>
+            <Date>2010-03-26 15:13:42</Date>
+            <Timestamp>1269641622</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If I remember rightly they charge a small fee to your bank account and there is a code number in the transaction. Once you check your bank statement and verify these code numbers back to them they deduct the charge. It does make things safer for everyone as only you should have access to your bank account statement. Took about 4 days for me to check my statement online.
+
+All your information is safe on Paypal. I&#039;ve used it for years for Ebay and private transactions.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6JYnwZCwaa</UserId>
+            <UserNick>Trust Me I&#039;m a Doctor ♥</UserNick>
+            <Date>2010-03-26 15:21:05</Date>
+            <Timestamp>1269642065</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:01 PDT 2010 -->

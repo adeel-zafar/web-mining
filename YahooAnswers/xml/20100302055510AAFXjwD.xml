@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302055510AAFXjwD" type="Answered">
+    <Subject>Why isn&#039;t my Internet Explorer working?</Subject>
+    <Content>So make a long story short, I have had the Flock browser for a while now and I never really used Internet Explorer.  I would be able to connect with it though and still use it if I had to.  Now, I recently downloaded Mozilla from Flock and it didn&#039;t work, so I uninstalled it.  I was going to try to use IE to download Mozilla again, but now it just says &quot;Diagnose Connection Problems&quot; when I&#039;m connected fine. It won&#039;t work at all, and I&#039;m not sure what the problem is... Help?
+One more question... what would be considered funky settings and how could I check my firewall? I&#039;m not really experienced with this. lol
+</Content>
+    <Date>2010-03-02 05:55:10</Date>
+    <Timestamp>1267538110</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302055510AAFXjwD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FTv1DeO9aa</UserId>
+    <UserNick>ij;ouahsjdkfahsdkfas</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>2</NumComments>
+    <ChosenAnswer>check your avialable space, defragmentor page will tell you exactly how much space you have, and add/remove programs will let you make more, and do the disk clean up</ChosenAnswer>
+    <ChosenAnswererId>Z4sH97Vcaa</ChosenAnswererId>
+    <ChosenAnswererNick>mr.dfleming57</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267541231</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268057611</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Assuming its not something silly like say, IE needs to be reinstalled; check the IE settings- make sure that it doesn&#039;t have some funky settings, or the firewall is blocking it.
+
+Worst case, download FF on another computer, copy to flash drive, install to computer from there (maybe retain a copy of the installer just in case you have to install it again)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wPsVEsWRaa</UserId>
+            <UserNick>jared_e42</UserNick>
+            <Date>2010-03-02 06:00:38</Date>
+            <Timestamp>1267538438</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>check your avialable space, defragmentor page will tell you exactly how much space you have, and add/remove programs will let you make more, and do the disk clean up</Content>
+            <Reference>me</Reference>
+            <Best>5</Best>
+            <UserId>Z4sH97Vcaa</UserId>
+            <UserNick>mr.dfleming57</UserNick>
+            <Date>2010-03-02 06:47:11</Date>
+            <Timestamp>1267541231</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If ur using a laptop check the wireless switch, if ur using windows such as vista, u should have a bar on top of ur desktop, make sure one of the lights is switched on deppending what conncetion u have.
+
+Microsoft has been ordered this week to give all its european users who are using vista, xp and 7 an option of 12 different internet browsers, 5 main ones will be IE, Firefox, G Chrome, Opera and Safari, u&#039;ll also get another 7 less known options, it will apear in a pop up starting this week, That may be the reason why its slow,</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>L8Tbnc9raa</UserId>
+            <UserNick>Shinobi</UserNick>
+            <Date>2010-03-02 07:11:57</Date>
+            <Timestamp>1267542717</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>Z4sH97Vcaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-08 06:49:15</Date>
+            <Timestamp>1267542717</Timestamp>
+        </Comment>
+        <Comment>
+            <Content></Content>
+            <UserId>Z4sH97Vcaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-08 08:31:09</Date>
+            <Timestamp>1267542717</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:27:09 PDT 2010 -->

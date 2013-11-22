@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301154325AAC3Ted" type="Answered">
+    <Subject>does having a browser open all day use up more internet memory?</Subject>
+    <Content>so as most of you know, rogers has cutback pretty much everyone&#039;s internet usage basically to peanuts and so i was wondering if leaving an internet browser open to let say facebook all day would increase the internet memory used? or does it just use up memory to open to that page and like as long as you keep it open it doesnt matter? i usually dont close my email and facebook windows so that i can just come back to it any time
+</Content>
+    <Date>2010-03-01 15:43:25</Date>
+    <Timestamp>1267487005</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301154325AAC3Ted</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>U32LxQ2raa</UserId>
+    <UserNick>QTtrini_gyal</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/17RVGt9gMAAEBnOJwhBP1uVoB.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It uses a tiny amount of bandwidth, yes.  Which means fractionally less bandwidth for everyone else.
+
+It&#039;s a tiny little pebble in a bucket compared to the bandwidth downloading a movie or music uses up, so it is not going to really affect anyone.</ChosenAnswer>
+    <ChosenAnswererId>O1I1ZbgZaa</ChosenAnswererId>
+    <ChosenAnswererNick>John K</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267487371</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267654798</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It uses a tiny amount of bandwidth, yes.  Which means fractionally less bandwidth for everyone else.
+
+It&#039;s a tiny little pebble in a bucket compared to the bandwidth downloading a movie or music uses up, so it is not going to really affect anyone.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>O1I1ZbgZaa</UserId>
+            <UserNick>John K</UserNick>
+            <Date>2010-03-01 15:49:31</Date>
+            <Timestamp>1267487371</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:29:54 PDT 2010 -->

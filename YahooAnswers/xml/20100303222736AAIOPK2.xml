@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303222736AAIOPK2" type="Answered">
+    <Subject>Please help me out in this.?</Subject>
+    <Content>I got metacafe installed on my hdd and when my window was corrupted and all the videos were gone but they are still present in my hard drive.Is there any way i can get my videos back in metacafe?
+</Content>
+    <Date>2010-03-03 22:27:36</Date>
+    <Timestamp>1267684056</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303222736AAIOPK2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3ni0Ja5Baa</UserId>
+    <UserNick>The Devil Hunter</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb8462eiedazws126sp2/QvJGMCMherT1YiuqVH93.fRwv4nKkTA3DU5C/2/tn48.jpeg?ciAAToMB5D2bPbFY</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if the videos are still present in you harddisk. 
+go get a good live cd and boot up using it./
+then goto the partition where the videos are stored then copy it to any portable storage device, like flash drives.
+
+Take your harddisk, goto any of ur frnds with a computer, attache this harddisk as secondary, then bootup their system, then copy it to wherever u want.</ChosenAnswer>
+    <ChosenAnswererId>6pUigIqLaa</ChosenAnswererId>
+    <ChosenAnswererNick>obscurant1st</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267684722</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267776323</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>if the videos are still present in you harddisk. 
+go get a good live cd and boot up using it./
+then goto the partition where the videos are stored then copy it to any portable storage device, like flash drives.
+
+Take your harddisk, goto any of ur frnds with a computer, attache this harddisk as secondary, then bootup their system, then copy it to wherever u want.</Content>
+            <Reference>My EXp.</Reference>
+            <Best>4</Best>
+            <UserId>6pUigIqLaa</UserId>
+            <UserNick>obscurant1st</UserNick>
+            <Date>2010-03-03 22:38:42</Date>
+            <Timestamp>1267684722</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:13:08 PDT 2010 -->

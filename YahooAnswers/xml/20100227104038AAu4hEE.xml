@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227104038AAu4hEE" type="Answered">
+    <Subject>Firefox keeps crashing :@?</Subject>
+    <Content>Well every time i go on it, and have more than 2 pages open. It freezes. And my CPU goes up to like 70% so i have to end it and start again.
+Ive updated it with the latest version.
+Any ideas?
+</Content>
+    <Date>2010-02-27 10:40:38</Date>
+    <Timestamp>1267296038</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227104038AAu4hEE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>znMUPvpKaa</UserId>
+    <UserNick>Harvey</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try using google chrome it is faster and no crashes.
+http://www.google.com/chrome?hl=en-GB</ChosenAnswer>
+    <ChosenAnswererId>Emggwqnjaa</ChosenAnswererId>
+    <ChosenAnswererNick>Moustafa</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267296393</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267815436</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox is a major ram hogger. It also depends on what sites you have open, and what programs you have open.
+I suggest using Google Chome.</Content>
+            <Reference>www.NoTopic.net - Programming/computer site.</Reference>
+            <Best></Best>
+            <UserId>Afcautlpaa</UserId>
+            <UserNick>Mike</UserNick>
+            <Date>2010-02-27 10:42:28</Date>
+            <Timestamp>1267296148</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox usually crashes to some people. This had happened to me sometimes last month. There is actually no way to fix it but to wait for a new update or waiting until it works. That&#039;s why i have internet explorer, Google chrome, And firefox.
+
+Also firefox does use lots of memory. Which can effect the performance. My suggestion is to get Google chrome or just use Internet explorer</Content>
+            <Reference>Simple answer, Simple life - Bob the builder</Reference>
+            <Best></Best>
+            <UserId>KOVShOGIaa</UserId>
+            <UserNick>bob the builder</UserNick>
+            <Date>2010-02-27 10:43:22</Date>
+            <Timestamp>1267296202</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Seems to be you have add-on conflicts.  You might have to trouble shoot this by turning some off to see which one is the problem.  I suspect it could be an add-on from Microsoft that is causing this maybe turnoff Silverlight or .net if it is listed in Firefox.
+
+Update Java while your at it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZiTf8reKaa</UserId>
+            <UserNick>WWEisNotdaCenteroftheUniverse</UserNick>
+            <Date>2010-02-27 10:45:26</Date>
+            <Timestamp>1267296326</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try using google chrome it is faster and no crashes.
+http://www.google.com/chrome?hl=en-GB</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Emggwqnjaa</UserId>
+            <UserNick>Moustafa</UserNick>
+            <Date>2010-02-27 10:46:33</Date>
+            <Timestamp>1267296393</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>A computer&#039;s registry is one big database that has numerous files, options, and settings. These settings and options keep changing with every second of you using your PC and can lead to the damage of some of these settings. This causes errors to show up and the computer to crash.  Registry cleaners http://make-a-computer-run-better.com      software scan the computer&#039;s errors and matches all files and settings with the applications that use them. If it identifies any file or setting to be damaged, missing, or corrupted, it provides you with an updated list of the same and also repairs these errors.  Therefore, if your computer keeps crashing and need to fix blue screen of death a good registry cleaner is all you need. Your computer can also cause problems because of redundant files in its registry. Reg cleaners identify all these redundant and junk files that were left over during the uninstalling process of hardware of software and delete them. This makes sure that the &quot;computer keeps crashing&quot; issue is taken care of.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BqFj1m6baa</UserId>
+            <UserNick>Name</UserNick>
+            <Date>2010-02-27 15:33:31</Date>
+            <Timestamp>1267313611</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:44:16 PDT 2010 -->

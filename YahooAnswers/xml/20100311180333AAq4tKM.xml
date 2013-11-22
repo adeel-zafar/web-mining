@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311180333AAq4tKM" type="Answered">
+    <Subject>Is it possible to have two seperate internet connections?</Subject>
+    <Content>I want to have two separate ISPs. I have two phone lines, and willing to pay two separate internet bills. Is this possible? Also, what ISP is the best for under $40
+</Content>
+    <Date>2010-03-11 18:03:33</Date>
+    <Timestamp>1268359413</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311180333AAq4tKM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kLbKuO9Eaa</UserId>
+    <UserNick>Nathan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It is possible, but you&#039;ll need a Firewall/Router with Dual WAN capabilities.  Usually this works as a &quot;Fail over&quot; or for &quot;Load Balancing.&quot;  So if one connection goes down or is bogged down, it switches to the other.
+
+Also, to find good internet service try dslreports.com</ChosenAnswer>
+    <ChosenAnswererId>An3BJ3Q5aa</ChosenAnswererId>
+    <ChosenAnswererNick>Phylopy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268359899</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268584030</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It is possible, but you&#039;ll need a Firewall/Router with Dual WAN capabilities.  Usually this works as a &quot;Fail over&quot; or for &quot;Load Balancing.&quot;  So if one connection goes down or is bogged down, it switches to the other.
+
+Also, to find good internet service try dslreports.com</Content>
+            <Reference>This router supports this capability... http://www.newegg.com/Product/Product.aspx?Item=N82E16833156237</Reference>
+            <Best>3</Best>
+            <UserId>An3BJ3Q5aa</UserId>
+            <UserNick>Phylopy</UserNick>
+            <Date>2010-03-11 18:11:39</Date>
+            <Timestamp>1268359899</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:12:29 PDT 2010 -->

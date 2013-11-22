@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303120747AAPvxHd" type="Answered">
+    <Subject>Is there a free online source for mapping that will help me plan shortest routes?</Subject>
+    <Content>I know there are software programs available to purchase that will let me enter in multiple addresses and then it will map out shortest routes so that I&#039;m not back-tracking myself all day long.
+
+My question is:  Is there something similar free online that I can use?
+
+In case I&#039;m not making myself clear... Let&#039;s say I have 5 addresses that I have to go to today, but I don&#039;t know exactly where each is located, so I just randomly pick which order I will go them.  I want a map to tell me what order to go to them so that I have the shortest trip time/mileage.  Make sense?
+</Content>
+    <Date>2010-03-03 12:07:47</Date>
+    <Timestamp>1267646867</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303120747AAPvxHd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lObSWGuDaa</UserId>
+    <UserNick>Misty</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b7f18deia99zul4re4/5Mgw.BAld68eN4vYsDTCvGtnHMCGRajpqjcd9r9s/7/tn48.jpg?ciAAToMBwk2ScqVd</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ive never used Bing Maps but I have used Google Maps and Mapquest. These will not do what you want to do. You can enter multiple addresses but they will plan the route in the order you enter addresses. They dont sort them to provide a logical route. I dont know of an online mapping service which will do what you are looking to do. You might try a search for &quot;maps&quot;, &quot;directions&quot; or &quot;route&quot; then enter some sample addresses you know the locations of to see if they get sorted into a logical route.</ChosenAnswer>
+    <ChosenAnswererId>6mGYEQWQaa</ChosenAnswererId>
+    <ChosenAnswererNick>KNDChicago</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267648123</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267741430</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try Google map</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yFYGOlhfaa</UserId>
+            <UserNick>gqbebejai</UserNick>
+            <Date>2010-03-03 12:08:52</Date>
+            <Timestamp>1267646932</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Bing Maps
+Google Maps
+Mapquest
+etc</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XlyLakYAaa</UserId>
+            <UserNick>Mercuri</UserNick>
+            <Date>2010-03-03 12:09:07</Date>
+            <Timestamp>1267646947</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>google maps</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fJLb98iRaa</UserId>
+            <UserNick>TC</UserNick>
+            <Date>2010-03-03 12:09:16</Date>
+            <Timestamp>1267646956</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ive never used Bing Maps but I have used Google Maps and Mapquest. These will not do what you want to do. You can enter multiple addresses but they will plan the route in the order you enter addresses. They dont sort them to provide a logical route. I dont know of an online mapping service which will do what you are looking to do. You might try a search for &quot;maps&quot;, &quot;directions&quot; or &quot;route&quot; then enter some sample addresses you know the locations of to see if they get sorted into a logical route.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>6mGYEQWQaa</UserId>
+            <UserNick>KNDChicago</UserNick>
+            <Date>2010-03-03 12:28:43</Date>
+            <Timestamp>1267648123</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:17:08 PDT 2010 -->

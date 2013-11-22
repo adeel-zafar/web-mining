@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317183637AAFbuQx" type="Answered">
+    <Subject>how do i connect my eee pc to a verizon internet?</Subject>
+    <Content>ok i just got a eee pc for my bday and it does not have a cd thing on it so i cant upload the verizon i tried the stick saver to save it to it and that didnt work. what do i do i need internet on my eee pc. do i need to get a external cd player or what??
+</Content>
+    <Date>2010-03-17 18:36:37</Date>
+    <Timestamp>1268876197</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317183637AAFbuQx</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>J5k5kUV3aa</UserId>
+    <UserNick>Delia Marie.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to a place other than your own that has internet.  The Eee will work just fine either plugged into an ethernet port or wifi.  Then download the verizon stuff you need.  That way you dont have to buy an external drive</ChosenAnswer>
+    <ChosenAnswererId>PX2uuH2taa</ChosenAnswererId>
+    <ChosenAnswererNick>Chris</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269049347</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269395724</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to a place other than your own that has internet.  The Eee will work just fine either plugged into an ethernet port or wifi.  Then download the verizon stuff you need.  That way you dont have to buy an external drive</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>PX2uuH2taa</UserId>
+            <UserNick>Chris</UserNick>
+            <Date>2010-03-19 18:42:27</Date>
+            <Timestamp>1269049347</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:42:30 PDT 2010 -->

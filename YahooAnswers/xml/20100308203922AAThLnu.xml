@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308203922AAThLnu" type="Answered">
+    <Subject>Does anyone know anything about Mozilla Firefox?</Subject>
+    <Content>Ohk, my little sister installed a yahoo tool bar to both firefox and explorer, so I uninstalled it but after I did I noticed that every time I opened a new tab it would go to this web site http://search.yahoo.com/?fr=freeze&amp;type=W3i_NA,132,3_6,Tab%20Search,20100209,6374,0,15,0 But I want it to open up to a blank tab. I tried using add ons to change it but still no luck so help please! its driving me bananas haha. I&#039;ve thought about just redownloading firefox but I&#039;m not sure if I&#039;ll lose all my Bookmarks. So any help would be great. Keep in mind that is my tabs not my homepage I know how to change that.
+</Content>
+    <Date>2010-03-08 20:39:22</Date>
+    <Timestamp>1268109562</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308203922AAThLnu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IQDWRhKtaa</UserId>
+    <UserNick>Hacker_Morphine</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No, dont redownload firefox!
+I had the same problem,
+
+Okay, so go to Tools
+Then click on Add Ons
+Then go on Extensions
+It probably says &quot;My.Freeze.com Net Assistant&quot; as one of the options
+Have it selected, and then click on Uninstall
+
+That gets you back to having a blank tab when you click for a new tab.
+You dont have to uninstall the Yahoo toolbar, this is separate from it.</ChosenAnswer>
+    <ChosenAnswererId>XiQhSDttaa</ChosenAnswererId>
+    <ChosenAnswererNick>Pepsi Cola</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268181383</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268625275</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, dont redownload firefox!
+I had the same problem,
+
+Okay, so go to Tools
+Then click on Add Ons
+Then go on Extensions
+It probably says &quot;My.Freeze.com Net Assistant&quot; as one of the options
+Have it selected, and then click on Uninstall
+
+That gets you back to having a blank tab when you click for a new tab.
+You dont have to uninstall the Yahoo toolbar, this is separate from it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>XiQhSDttaa</UserId>
+            <UserNick>Pepsi Cola</UserNick>
+            <Date>2010-03-09 16:36:23</Date>
+            <Timestamp>1268181383</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:27:58 PDT 2010 -->

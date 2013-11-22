@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307054446AAoHoWe" type="Answered">
+    <Subject>When I try to go to a certain web site it will say internet exp can not display the page,any other site works?</Subject>
+    <Content>the wesite in question is www.freedombywowmobile.com.
+</Content>
+    <Date>2010-03-07 05:44:46</Date>
+    <Timestamp>1267969486</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307054446AAoHoWe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QXwCXWAzaa</UserId>
+    <UserNick>Chet</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi
+I have just tried it on I.E. and firefox with no trouble at all. I noticed on the address you gave it has a . dot after com, try putting it in without this and it should be fine. good luck.</ChosenAnswer>
+    <ChosenAnswererId>1f9aDH2Baa</ChosenAnswererId>
+    <ChosenAnswererNick>JOHN H</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267970014</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268568155</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>internet exporlrer isint very good, try this website with google chrome or mozilla firefox..</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LP5Xvcgzaa</UserId>
+            <UserNick>Edward</UserNick>
+            <Date>2010-03-07 05:51:40</Date>
+            <Timestamp>1267969900</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi
+I have just tried it on I.E. and firefox with no trouble at all. I noticed on the address you gave it has a . dot after com, try putting it in without this and it should be fine. good luck.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>1f9aDH2Baa</UserId>
+            <UserNick>JOHN H</UserNick>
+            <Date>2010-03-07 05:53:34</Date>
+            <Timestamp>1267970014</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:41:23 PDT 2010 -->

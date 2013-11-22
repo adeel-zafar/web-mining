@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303080446AAtlZbF" type="Answered">
+    <Subject>how do you sell something on amazon. com?</Subject>
+    <Content>I have some stuff that might be valuable. How do I sell it on amazon. com?
+</Content>
+    <Date>2010-03-03 08:04:46</Date>
+    <Timestamp>1267632286</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303080446AAtlZbF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3cTCHVAfaa</UserId>
+    <UserNick>InkStorm</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1kUDss3wGAAIC_IFH9KBeuBHXa3t9r54Y.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>the there,
+
+you go to the sell your stuff page :
+
+http://www.amazon.com/gp/seller/sell-your-stuff.html</ChosenAnswer>
+    <ChosenAnswererId>mXddmDwpaa</ChosenAnswererId>
+    <ChosenAnswererNick>George S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267632491</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268319990</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>the there,
+
+you go to the sell your stuff page :
+
+http://www.amazon.com/gp/seller/sell-your-stuff.html</Content>
+            <Reference>http://www.amazon.com/gp/seller/sell-your-stuff.html</Reference>
+            <Best>5</Best>
+            <UserId>mXddmDwpaa</UserId>
+            <UserNick>George S</UserNick>
+            <Date>2010-03-03 08:08:11</Date>
+            <Timestamp>1267632491</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:18:58 PDT 2010 -->

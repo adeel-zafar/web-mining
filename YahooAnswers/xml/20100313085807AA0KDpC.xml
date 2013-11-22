@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313085807AA0KDpC" type="Answered">
+    <Subject>Which sites can &quot;figure out&quot; what country you are in...?</Subject>
+    <Content>I mean some sites on the net seem to automatically &quot;know&quot; your country when you register, others don&#039;t... What does it depend on and can I &quot;fool&quot; them claiming that I&#039;m in, say, US, while in reality I&#039;m in UK?
+
+thanks
+ok,then why do they ask your country when you edit your profile??  :/
+</Content>
+    <Date>2010-03-13 08:58:07</Date>
+    <Timestamp>1268499487</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313085807AA0KDpC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ccg0ykWxaa</UserId>
+    <UserNick>Lee</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1AK_H_gzyAAEBhwOcrBanI-wA.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>All sites know which country you are from and can see roughly where you are in that country due to your IP address. 
+
+All sites know which country you are in, but not many actually use the information.</ChosenAnswer>
+    <ChosenAnswererId>jQGRTYD2aa</ChosenAnswererId>
+    <ChosenAnswererNick>HarryG321</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268499760</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268561177</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>All sites &quot;know&quot; that.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-13 08:59:58</Date>
+            <Timestamp>1268499598</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>All sites know which country you are from and can see roughly where you are in that country due to your IP address. 
+
+All sites know which country you are in, but not many actually use the information.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>jQGRTYD2aa</UserId>
+            <UserNick>HarryG321</UserNick>
+            <Date>2010-03-13 09:02:40</Date>
+            <Timestamp>1268499760</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:40 PDT 2010 -->

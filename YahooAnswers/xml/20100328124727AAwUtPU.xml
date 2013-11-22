@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328124727AAwUtPU" type="Answered">
+    <Subject>How do is stop Firefox from closing all tabs at the same time?</Subject>
+    <Content>Im new to Firefox. I finialy changed over from IE witch was a BIG PLUS!!  How can I stop Firefox from closing all tabs with out my permission? In other words I have 3 tabs open at the same time and sometimes i make a mistake and click the red X at the far upper right hand corner and it automaticly closes ALL 3 tabs at the same time. Of course i loose all my stuff. How can i stop this from happening? Seroius answers only please!!
+
+Thanks
+</Content>
+    <Date>2010-03-28 12:47:27</Date>
+    <Timestamp>1269805647</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328124727AAwUtPU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11833271</UserId>
+    <UserNick>prowoodman</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Open FF, Menu &gt; Tools &gt; Options.
+Then, click on the TABS tab.
+Check the appropriate checkbox.</ChosenAnswer>
+    <ChosenAnswererId>Fx8n4Hguaa</ChosenAnswererId>
+    <ChosenAnswererNick>Fred</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269805833</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269836203</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Open FF, Menu &gt; Tools &gt; Options.
+Then, click on the TABS tab.
+Check the appropriate checkbox.</Content>
+            <Reference>FF</Reference>
+            <Best>5</Best>
+            <UserId>Fx8n4Hguaa</UserId>
+            <UserNick>Fred</UserNick>
+            <Date>2010-03-28 12:50:33</Date>
+            <Timestamp>1269805833</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There happens to be a Firefox option for this:
+
+1. Click the Tools-&gt;Options menu item.
+2. Click the Tabs page.
+3. Check the &quot;Warn me when closing multiple tabs&quot; checkbox.
+4. Click OK.
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-28 20:10:50</Date>
+            <Timestamp>1269832250</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:18:31 PDT 2010 -->

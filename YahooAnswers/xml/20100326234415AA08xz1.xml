@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326234415AA08xz1" type="Answered">
+    <Subject>Applying for PayPal Debit Card?</Subject>
+    <Content>I don&#039;t see the link to apply for a PayPal debit card on the products and service tab.
+I reside in UAE (Middle East).
+And my account is a premier one.
+</Content>
+    <Date>2010-03-26 23:44:15</Date>
+    <Timestamp>1269672255</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326234415AA08xz1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TyhF7rp2aa</UserId>
+    <UserNick>Kreep</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Because there are so many email phising going on, I would manually type in the URL address. www.paypal.com and apply from that site.</ChosenAnswer>
+    <ChosenAnswererId>0KKXa9Xaaa</ChosenAnswererId>
+    <ChosenAnswererNick>vplumme</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269672579</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270191789</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Because there are so many email phising going on, I would manually type in the URL address. www.paypal.com and apply from that site.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0KKXa9Xaaa</UserId>
+            <UserNick>vplumme</UserNick>
+            <Date>2010-03-26 23:49:39</Date>
+            <Timestamp>1269672579</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:24:19 PDT 2010 -->

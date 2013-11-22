@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307172728AAmqtQF" type="Answered">
+    <Subject>I just invited twenty friends to lockerz and made z list and i was wondering...do i get a free t-shirt?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-07 17:27:28</Date>
+    <Timestamp>1268011648</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307172728AAmqtQF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>izWRFCLtaa</UserId>
+    <UserNick>Jonathan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes.. Of course! You are a z-lister.</ChosenAnswer>
+    <ChosenAnswererId>o04rMtAPaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ben</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268012585</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268106643</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes.. Of course! You are a z-lister.</Content>
+            <Reference>My friend is a z-lister, and got his shirt a couple weeks ago.</Reference>
+            <Best>4</Best>
+            <UserId>o04rMtAPaa</UserId>
+            <UserNick>Ben</UserNick>
+            <Date>2010-03-07 17:43:05</Date>
+            <Timestamp>1268012585</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:36:58 PDT 2010 -->

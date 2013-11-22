@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325213732AAw4njA" type="Answered">
+    <Subject>What happened to 7chan?</Subject>
+    <Content>As I can&#039;t access it at all.
+</Content>
+    <Date>2010-03-25 21:37:32</Date>
+    <Timestamp>1269578252</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325213732AAw4njA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1Od6ogdcaa</UserId>
+    <UserNick>Haru</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>4chan=  12 year olds.
+7chan= dead for a while. i don&#039;t think they made a payment or something.
+12chan= bunch of old guys masturbating.
+420chan= slow as crap.
+
+no more chans. unless you count all the ones filled with pedos.</ChosenAnswer>
+    <ChosenAnswererId>ylJMlEcBaa</ChosenAnswererId>
+    <ChosenAnswererNick>Chalk</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269578458</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270097701</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>4chan=  12 year olds.
+7chan= dead for a while. i don&#039;t think they made a payment or something.
+12chan= bunch of old guys masturbating.
+420chan= slow as crap.
+
+no more chans. unless you count all the ones filled with pedos.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ylJMlEcBaa</UserId>
+            <UserNick>Chalk</UserNick>
+            <Date>2010-03-25 21:40:58</Date>
+            <Timestamp>1269578458</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i&#039;m guessing they are resetting/updating/upgrading their servers...havent been able to access it for about 2 days.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tM1DVBlRaa</UserId>
+            <UserNick>Sebas</UserNick>
+            <Date>2010-03-26 02:20:30</Date>
+            <Timestamp>1269595230</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:28:48 PDT 2010 -->

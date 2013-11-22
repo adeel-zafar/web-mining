@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226095327AAXWAMH" type="Answered">
+    <Subject>Why has my internet gone so slow?</Subject>
+    <Content>We are with BT internet and phone line and we used to be on 2-8Mb/s internet speeds and now it has gone down to 0.1Mb/s!! The phone line is very crackly and the internet turns off every now and then. We have rang BT about it, they said it was something to do with their exchange servers but it is fixed now. Well it obviously isn&#039;t, does anybody know what the problem is and how we can fix it? BT are no help at all.
+
+Thank you,
+Mike
+here is our internet speed details:
+
+http://www.speedtest.net/result/730147392.png
+I have tried turning off/on pc/router + resetting everything + unplugging/plugging in everything and done what BT advised us but none of this work.
+</Content>
+    <Date>2010-02-26 09:53:27</Date>
+    <Timestamp>1267206807</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226095327AAXWAMH</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>eDJWs2zxaa</UserId>
+    <UserNick>anonymouse</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try to unplug and replug your ethernet cable, turn the modem off, and then again on. Try to restart your computer. Connect everything like it was, and then try your internet speed again.
+If it still continues to be slow, call the company and tell them you&#039;re going to break the contract, since their service is not as it supposed to be WRITTEN ON PAPER.
+Once they begged me not to break the contract.</ChosenAnswer>
+    <ChosenAnswererId>EkUiJ3Mlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Blina</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267207050</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267726423</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try to unplug and replug your ethernet cable, turn the modem off, and then again on. Try to restart your computer. Connect everything like it was, and then try your internet speed again.
+If it still continues to be slow, call the company and tell them you&#039;re going to break the contract, since their service is not as it supposed to be WRITTEN ON PAPER.
+Once they begged me not to break the contract.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>EkUiJ3Mlaa</UserId>
+            <UserNick>Blina</UserNick>
+            <Date>2010-02-26 09:57:30</Date>
+            <Timestamp>1267207050</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it could be something to do with the cookies that have collected on your computer. i dont actually know but my computer can go really slow at times and the phone line goes dodgy and its the cookies. ps im with bt too and your right there no help :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7pNCkXLraa</UserId>
+            <UserNick>Cat G</UserNick>
+            <Date>2010-02-26 10:05:01</Date>
+            <Timestamp>1267207501</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ehh... i had sumtin a bit like that... but it turned out to be our neighbours wer robbing it.... make sure nobody around you is stealing your connection
+
+dont no it dat was any help or not but i tryed</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wqccfKrxaa</UserId>
+            <UserNick>The guy who loves energy drinks</UserNick>
+            <Date>2010-02-26 10:05:36</Date>
+            <Timestamp>1267207536</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Have check you pc make sure why is your pc is slow.
+ http://slowpc-checking.com/Slow_PC</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XBdMIVBHaa</UserId>
+            <UserNick>Importe</UserNick>
+            <Date>2010-03-01 12:28:15</Date>
+            <Timestamp>1267475295</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:51:11 PDT 2010 -->

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310193327AAoXZZZ" type="Answered">
+    <Subject>How to remove Internet Explorer forever?</Subject>
+    <Content>Hey, I&#039;m Rachey. 
+Lately, I&#039;ve been using Mozilla Firefox and noticed that I may not need to use Internet Explorer ever again, but the thing is when I click on my friends&#039; link and stuff, it would appear using Internet Explorer as the default...I want Mozilla Firefox to be my default...Can anyone help? Thanks in advance!
+</Content>
+    <Date>2010-03-10 19:33:27</Date>
+    <Timestamp>1268278407</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310193327AAoXZZZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BzNK3EOoaa</UserId>
+    <UserNick>ItzMeRachel</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b490769i1678zul1sp1/4c59q244b7zWU05SZlBmfsobA0_x0bW0H2A7m_4-/2/tn48.jpg?ciAAToMBq3g1xAF8</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Open FF 
+
+Go to Tools &gt; Options &gt; Advanced &gt; General Tab and press the check now button. Press yes and FF will be your default browser. 
+
+To uninstall IE
+
+Open Control Panel, Add Remove Programs &gt; Add/Remove Windows Components.
+
+In the window that opens, uncheck IE and click next. Follow on with that and IE will be uninstalled.</ChosenAnswer>
+    <ChosenAnswererId>9lqHIQ7Daa</ChosenAnswererId>
+    <ChosenAnswererNick>Kris</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268279186</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268794463</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You could remove it, but I wouldnt recommend it.  Open the control panel.  click programs.  click set your default programs.  this is where you can change which program is your default.  to remove it completely against my recommendations, click control panel, click programs, click programs and features, and click turn windows features on or off.  It is one of the listed features</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fVvOB85Waa</UserId>
+            <UserNick>Joe</UserNick>
+            <Date>2010-03-10 19:36:34</Date>
+            <Timestamp>1268278594</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The first time you installed and used firefox it should have given you that option to make it your default browser. Now you should still be able to do that either in firefox options or in the control panel.
+
+I would however not uninstall Internet Explorer, as not all sites work properly in firefox and the same goes for Internet Explorer, This is why it&#039;s good to have at least two different browsers installed on your computer. I have three
+
+Internet Explorer
+Fire Fox
+and very recently Google Chrome</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>901930fc8f0cb1ce4a9483207715497baa</UserId>
+            <UserNick>Linds</UserNick>
+            <Date>2010-03-10 19:36:55</Date>
+            <Timestamp>1268278615</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You cannot get rid of IE as long as you&#039;re using Windows. IE is an intrinsic part of the OS.
+But you can systematically (as needed) avoid the use of IE by any application, wirh the exception of Windows Explorer.
+I haven&#039;t used IE since 2001, at all, even if a newly installed program open an IE window, I &quot;educated&quot; the program into not doing it anymore.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kb8dVx1eaa</UserId>
+            <UserNick>Luthus V</UserNick>
+            <Date>2010-03-10 19:37:33</Date>
+            <Timestamp>1268278653</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Uh, IE is impossible to get rid of, blame Microsoft. If you want Firefox as default then: 
+Open Firefox&gt;Tools&gt;Options&gt;Advanced&gt;General&gt;Check Now.
+
+The General Tab is a small tab inside of the Advanced tab.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LBCscNj9aa</UserId>
+            <UserNick>Betahead</UserNick>
+            <Date>2010-03-10 19:39:37</Date>
+            <Timestamp>1268278777</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hello Rachey,
+
+Hope it will help you with
+
+Internet Explorer is a windows default component, it is built in everytime you setup any windows operating system. but surely you can remove internet explorer by this way
+
+1. using windows xp
+a. click start
+b. go to control panel
+c. click add/remove programs
+d. at the leftside you can see WINDOWS COMPONENT
+E. click windows component
+f. uncheck INTERNET EXPLORER
+G. click next
+H. click finish
+finally restart your computer.
+
+if you are going to restore internet explorer, you can do the same just check the box of the internet explorer..
+
+hope this can help you rachey</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Rt378TYIaa</UserId>
+            <UserNick>Perfecto Manait</UserNick>
+            <Date>2010-03-10 19:40:42</Date>
+            <Timestamp>1268278842</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Open FF 
+
+Go to Tools &gt; Options &gt; Advanced &gt; General Tab and press the check now button. Press yes and FF will be your default browser. 
+
+To uninstall IE
+
+Open Control Panel, Add Remove Programs &gt; Add/Remove Windows Components.
+
+In the window that opens, uncheck IE and click next. Follow on with that and IE will be uninstalled.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>9lqHIQ7Daa</UserId>
+            <UserNick>Kris</UserNick>
+            <Date>2010-03-10 19:46:26</Date>
+            <Timestamp>1268279186</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:15:32 PDT 2010 -->

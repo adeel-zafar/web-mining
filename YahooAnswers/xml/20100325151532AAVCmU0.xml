@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325151532AAVCmU0" type="Answered">
+    <Subject>Why are all these websites not working?</Subject>
+    <Content>in the past week something weird has happened on my computer.  Most of the websites that i&#039;ve gone to in the past along with others have stopped working.  When i try to go to them, either i gives me the &quot;internet can&#039;t display this page&quot; message or the format is all screwed up and pictures don&#039;t show up.  I thought my computer was just screwed up but when i went on my parent&#039;s computer, the same thing happened.  What&#039;s the problem? Is there something wrong with the connection? and if so how do i fix it?
+thank you!
+</Content>
+    <Date>2010-03-25 15:15:32</Date>
+    <Timestamp>1269555332</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325151532AAVCmU0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nLqgBezuaa</UserId>
+    <UserNick>kellimarie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ac0088fie0czul6sp1/k74FXGsibqiNkmbnD5Ck8uHRTBy.0cY-/1/tn48.jpg?ciAAToMBVAYI9inf</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Make sure no-ones using xbox live/plystation online
+
+Make sure no-ones using any download programs like kazaa or uTorrent which take up all the &#039;bandwidth&#039;
+
+try unplugging and plugging back in your router,modem and pc</ChosenAnswer>
+    <ChosenAnswererId>gKkmNm6Xaa</ChosenAnswererId>
+    <ChosenAnswererNick>AllStar™</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269555582</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269619413</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Your internet speed is extremely slow.
+Try to talk to your ISP - it&#039;s quite common that your internet service provoider gives you a much lower speed than what you&#039;re paying for. Just call them and it should be fixed within a few minutes - that&#039;s what happened to me :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dBHA05IMaa</UserId>
+            <UserNick>Relex</UserNick>
+            <Date>2010-03-25 15:17:29</Date>
+            <Timestamp>1269555449</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Make sure no-ones using xbox live/plystation online
+
+Make sure no-ones using any download programs like kazaa or uTorrent which take up all the &#039;bandwidth&#039;
+
+try unplugging and plugging back in your router,modem and pc</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gKkmNm6Xaa</UserId>
+            <UserNick>AllStar™</UserNick>
+            <Date>2010-03-25 15:19:42</Date>
+            <Timestamp>1269555582</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try clearing your browser cache and see if you can get in.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3iPKzdeIaa</UserId>
+            <UserNick>CubicalMonkey</UserNick>
+            <Date>2010-03-25 15:27:50</Date>
+            <Timestamp>1269556070</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:30:26 PDT 2010 -->

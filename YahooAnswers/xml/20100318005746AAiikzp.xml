@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318005746AAiikzp" type="Answered">
+    <Subject>Skype help! It thinks im already signed in!?</Subject>
+    <Content>Skype wont let me log in, as it says that im already logged on, on that computer. how can i fix this?
+Thanks!
+</Content>
+    <Date>2010-03-18 00:57:46</Date>
+    <Timestamp>1268899066</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318005746AAiikzp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>A8NBQR3iaa</UserId>
+    <UserNick>random3377</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1peeuR6keAAECdSOcRBdVtu4wKBsG.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Restart your computer</ChosenAnswer>
+    <ChosenAnswererId>2LbTrlQnaa</ChosenAnswererId>
+    <ChosenAnswererNick>JIM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268900139</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269935542</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>only thing i can think of is have you tried the task manager? maybe you have skype open twice
+
+or if there is more than one user account on your computer? is it possible you are signed in on the other user account?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WNKx2Bp7aa</UserId>
+            <UserNick>princess_kitty</UserNick>
+            <Date>2010-03-18 01:04:00</Date>
+            <Timestamp>1268899440</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Restart your computer</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-18 01:15:39</Date>
+            <Timestamp>1268900139</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:08 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308142813AAtbDmI" type="Answered">
+    <Subject>Question about ebay counters?</Subject>
+    <Content>For some counters, when I refresh the page the counter doesn&#039;t get updated, and for some counters it does. Why is this?
+</Content>
+    <Date>2010-03-08 14:28:13</Date>
+    <Timestamp>1268087293</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308142813AAtbDmI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8253606e962dc30046c3b40e0678936aaa</UserId>
+    <UserNick>Cybele</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/18cmvkVkqAAEB4IQy2THzuDsLKQ==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Some counters have unique IDs that will detect your IP address so counter refreshes will only update if a new IP address has called for it.</ChosenAnswer>
+    <ChosenAnswererId>bdzgFiEqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nothgrin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268087567</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268244066</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Some counters have unique IDs that will detect your IP address so counter refreshes will only update if a new IP address has called for it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bdzgFiEqaa</UserId>
+            <UserNick>Nothgrin</UserNick>
+            <Date>2010-03-08 14:32:47</Date>
+            <Timestamp>1268087567</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:30:06 PDT 2010 -->

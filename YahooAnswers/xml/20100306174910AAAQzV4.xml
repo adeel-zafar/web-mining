@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306174910AAAQzV4" type="Answered">
+    <Subject>Is it free to call from Skype to cell phone with unlimited internet?</Subject>
+    <Content>I have unlimited internet with Bigpond which means it&#039;s the same amount of money a month. But when I was on Skype I accidentally called someone on to their phone and that isn&#039;t free. Will it cost me more money even though I&#039;ve got unlimited?
+</Content>
+    <Date>2010-03-06 17:49:10</Date>
+    <Timestamp>1267926550</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306174910AAAQzV4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9i5AxN7daa</UserId>
+    <UserNick>iLoveYou&lt;3</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1s0RCxJ57AAEC7iOcuJgtCw==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Apparently not.
+
+http://www.skype.com/intl/en/allfeatures/callphones/
+
+I believe its only &quot;free&quot; if you&#039;ve calling another skype user. If you try to contact someone NOT using skype when you call them, that you&#039;ll be charged for it.</ChosenAnswer>
+    <ChosenAnswererId>226SiJcqaa</ChosenAnswererId>
+    <ChosenAnswererNick>Someguy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267935750</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268646763</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Apparently not.
+
+http://www.skype.com/intl/en/allfeatures/callphones/
+
+I believe its only &quot;free&quot; if you&#039;ve calling another skype user. If you try to contact someone NOT using skype when you call them, that you&#039;ll be charged for it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>226SiJcqaa</UserId>
+            <UserNick>Someguy</UserNick>
+            <Date>2010-03-06 20:22:30</Date>
+            <Timestamp>1267935750</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:44:26 PDT 2010 -->

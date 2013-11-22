@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323180110AALPYad" type="Answered">
+    <Subject>New to Firefox - the look of it just changed on my computer?</Subject>
+    <Content>I&#039;ve only been using FF 3.5.8 on WinXP for about a week, but one thing I did like about it was that it let me see the different tabs/websites that I had open at a time.  Suddenly, now, I see that the tabs are not visible anymore and when I click the &quot;X&quot; up in the right-top corner, the page shuts down and doesn&#039;t ask me if I want to close out of FF anymore.  It just closes.  How can I reset it so I see the tabs again?  I made many other changes, so I don&#039;t really want to do a System Restore.  TIA.
+Thanks!!  Works like it used to.  You were all correct - I&#039;ll wait till I can close this answer and then pick the first one as best answer.  (!)
+Oh, not quite the same yet.  I did what you all said, but I still only see one tab, and a different URL in my address bar (on top).  I&#039;d like to see two tabs, to see what I have open.  Now I can only see the one I&#039;m on.  How can I do this? (thanks again)
+&#039;Guess what I&#039;m asking is, how do I see multiple tabs (at top) when I have multiple windows open, so I can switch back and forth between them easily?
+</Content>
+    <Date>2010-03-23 18:01:10</Date>
+    <Timestamp>1269392470</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323180110AALPYad</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1B0JwDfgaa</UserId>
+    <UserNick>Hotspot</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1POrckDO5AAEDQgFmdJOp1RLPIw==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There&#039;s an option to show the tabs even when only a single website is open.  Here&#039;s how to set it:
+
+1. Click the Tools-&gt;Options menu item.
+2. Click the Tabs page.
+3. Check the &quot;Always show the Tab bar&quot; checkbox.
+4. Click OK.
+
+Hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269393210</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269618291</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>open up firefox.
+
+go to Tools -&gt; Options
+
+Go to the Tabs section
+
+Everything should be checked except the last option. If they aren&#039;t then check them off
+
+Restart Firefox
+
+Or update to the latest 3.6.2</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zNYs4huJaa</UserId>
+            <UserNick>Professor Will</UserNick>
+            <Date>2010-03-23 18:07:48</Date>
+            <Timestamp>1269392868</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go to tools menu, options, tabs, check &quot;warn me when closing multiple tabs&quot;</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xyGApfyKaa</UserId>
+            <UserNick>tyler Durden</UserNick>
+            <Date>2010-03-23 18:08:37</Date>
+            <Timestamp>1269392917</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There&#039;s an option to show the tabs even when only a single website is open.  Here&#039;s how to set it:
+
+1. Click the Tools-&gt;Options menu item.
+2. Click the Tabs page.
+3. Check the &quot;Always show the Tab bar&quot; checkbox.
+4. Click OK.
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-23 18:13:30</Date>
+            <Timestamp>1269393210</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:05 PDT 2010 -->

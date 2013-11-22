@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309162559AA0ahbb" type="Answered">
+    <Subject>HOW TO GET WIRELESS INTERNET WITHOUT THE PASSWORD?</Subject>
+    <Content>PLEASE HELP
+</Content>
+    <Date>2010-03-09 16:25:59</Date>
+    <Timestamp>1268180759</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309162559AA0ahbb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NSvVofRhaa</UserId>
+    <UserNick>MR DR PRFSER CARLOS SPICY WEINER</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1zOIDzVgHAAEC_KF3hL_kDQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you have forgotten the WEP or WPA key, please log into the web interface to your router firmware by typing the IP address of the router into the addressbar of your web browser and hitting the &lt;enter&gt; key. Enter your administrative username and password. Once you have logged in, you can change the WEP or WPA key to a new one.
+
+Note that if you do not know the IP address of your router and you do not have an instruction manual, you can find it easily if you have access to a properly configured computer on the network. You can just grab the address (default gateway) off of one of those machines. If you don&#039;t have any machines that are connected and properly configured at all though, then either read the instruction manual PDF available at the manufacturer&#039;s website or just try some random addresses in private address space, such as http://192.168.1.1 http://192.168.0.1 http://192.168.0.254 and http://192.168.1.254
+
+If, however, you don&#039;t know the WEP or WPA key *or* the administrative username and password, then you will have no choice but to restore the router to factory settings and come up with a new username, new password and new passphrase. Once you&#039;ve done this, you can then set a new WEP or WPA key as well. Remember to save your settings when finished.</ChosenAnswer>
+    <ChosenAnswererId>IbxhRebgaa</ChosenAnswererId>
+    <ChosenAnswererNick>cen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268180946</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268432197</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>get backtrack</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zXmE7sQKaa</UserId>
+            <UserNick>w_steidley</UserNick>
+            <Date>2010-03-09 16:27:13</Date>
+            <Timestamp>1268180833</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That&#039;s called stealing, so unless the wireless network doesn&#039;t require a password and open to all users, you are stealing someone&#039;s internet. It&#039;s call hacking.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hcKoFZ3Daa</UserId>
+            <UserNick>.</UserNick>
+            <Date>2010-03-09 16:28:13</Date>
+            <Timestamp>1268180893</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you have forgotten the WEP or WPA key, please log into the web interface to your router firmware by typing the IP address of the router into the addressbar of your web browser and hitting the &lt;enter&gt; key. Enter your administrative username and password. Once you have logged in, you can change the WEP or WPA key to a new one.
+
+Note that if you do not know the IP address of your router and you do not have an instruction manual, you can find it easily if you have access to a properly configured computer on the network. You can just grab the address (default gateway) off of one of those machines. If you don&#039;t have any machines that are connected and properly configured at all though, then either read the instruction manual PDF available at the manufacturer&#039;s website or just try some random addresses in private address space, such as http://192.168.1.1 http://192.168.0.1 http://192.168.0.254 and http://192.168.1.254
+
+If, however, you don&#039;t know the WEP or WPA key *or* the administrative username and password, then you will have no choice but to restore the router to factory settings and come up with a new username, new password and new passphrase. Once you&#039;ve done this, you can then set a new WEP or WPA key as well. Remember to save your settings when finished.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>IbxhRebgaa</UserId>
+            <UserNick>cen</UserNick>
+            <Date>2010-03-09 16:29:06</Date>
+            <Timestamp>1268180946</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:23:11 PDT 2010 -->

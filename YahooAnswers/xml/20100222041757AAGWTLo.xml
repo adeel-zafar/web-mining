@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222041757AAGWTLo" type="Answered">
+    <Subject>Cool and cute Firefox theme?</Subject>
+    <Content>Hi, i would like to change my standart firefox&#039;s themes into a cute theme. I used to use Foxkeh because it is so good, not only it is cute, there&#039;s also animated Foxkeh in the corner, and he would running if i&#039;m loading a site. Everybody knows that Foxkeh for 3.6 still unavailable ;_;
+i want to change my theme, any good recommendation?? if it is possible, with animation like in Foxkeh
+</Content>
+    <Date>2010-02-22 04:17:57</Date>
+    <Timestamp>1266841077</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222041757AAGWTLo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2wSE41HXaa</UserId>
+    <UserNick>GriMgriMoiRe</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/16E78i4X0AAEC_EE38SzvdwsjbtsF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Why not use Firefox Personas?
+
+http://www.getpersonas.com/en-US/</ChosenAnswer>
+    <ChosenAnswererId>8SvPSox6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Akash_Raj</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266843379</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267360436</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Why not use Firefox Personas?
+
+http://www.getpersonas.com/en-US/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>8SvPSox6aa</UserId>
+            <UserNick>Akash_Raj</UserNick>
+            <Date>2010-02-22 04:56:19</Date>
+            <Timestamp>1266843379</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:29:47 PDT 2010 -->

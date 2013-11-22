@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221121616AAn4TdO" type="Answered">
+    <Subject>Browser doesn&#039;t load (5mins broken-5 mins works-...) while I do have internet connection?</Subject>
+    <Content>I&#039;m having this problem for a pretty long time now. Any browser I try can&#039;t load any pages during some time (usually +-5 min). After that it runs fine for about 5 mins and then stops loading any new page for another period of +-5 min, this cycle keeps repeating.
+
+I do have internet connections in the moments the browsers are not working (I can talk to people on msn messenger etc).
+
+Anyone got any idea on how to solve this?
+tried these browsers (all are running and down at same periods of time): IE, firefox, chrome, cometbird
+its not my overall speed thats bad, its periods it doesnt work at all and periods it works really good
+</Content>
+    <Date>2010-02-21 12:16:16</Date>
+    <Timestamp>1266783376</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221121616AAn4TdO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UGWTc3Miaa</UserId>
+    <UserNick>brammiseur</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1XpGHEsl6AAQCpAKdIVJ1qnbdLg==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>this depends on alot of things if u have dial up its gana take long if u have cable it shoudnt it should be really fast and if u have satilite its a mid speed... also if ur using safari stop it sucks i use fire fox it works on windows to i only use fire foxs its the fastest and safest wat to go :)</ChosenAnswer>
+    <ChosenAnswererId>iNoJnK66aa</ChosenAnswererId>
+    <ChosenAnswererNick>mitch</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266783567</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267302935</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>this depends on alot of things if u have dial up its gana take long if u have cable it shoudnt it should be really fast and if u have satilite its a mid speed... also if ur using safari stop it sucks i use fire fox it works on windows to i only use fire foxs its the fastest and safest wat to go :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>iNoJnK66aa</UserId>
+            <UserNick>mitch</UserNick>
+            <Date>2010-02-21 12:19:27</Date>
+            <Timestamp>1266783567</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:34:09 PDT 2010 -->

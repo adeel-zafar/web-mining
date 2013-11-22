@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223175851AA1iXKL" type="Answered">
+    <Subject>Chat roulette running bad for anyone else?</Subject>
+    <Content>I connect but link up with very few webcams
+</Content>
+    <Date>2010-02-23 17:58:51</Date>
+    <Timestamp>1266976731</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223175851AA1iXKL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WKYbxUOtaa</UserId>
+    <UserNick>J</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if you would read at the bottom of the welcome screen it says they are having server problems. will be fixed with in 48 hours</ChosenAnswer>
+    <ChosenAnswererId>E3h4hHVXaa</ChosenAnswererId>
+    <ChosenAnswererNick>outlaw_biker53</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266977016</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267496243</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no its fine here</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>h7TU4DBTaa</UserId>
+            <UserNick>Romeo</UserNick>
+            <Date>2010-02-23 18:03:16</Date>
+            <Timestamp>1266976996</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if you would read at the bottom of the welcome screen it says they are having server problems. will be fixed with in 48 hours</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>E3h4hHVXaa</UserId>
+            <UserNick>outlaw_biker53</UserNick>
+            <Date>2010-02-23 18:03:36</Date>
+            <Timestamp>1266977016</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:28 PDT 2010 -->

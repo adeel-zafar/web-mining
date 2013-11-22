@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316083221AAYDhgJ" type="Answered">
+    <Subject>Who has the most followers on Twitter?</Subject>
+    <Content>I know several have 2 million,is there any with 3 or 4 or more million? Who has the most?
+</Content>
+    <Date>2010-03-16 08:32:21</Date>
+    <Timestamp>1268753541</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316083221AAYDhgJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4c874e283dd92b6b16b07e3f459300f8aa</UserId>
+    <UserNick>Me</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b53d1e6id7azul5sp1/bZp5EJg2aaNK4wztaSiMyNOcSZErCg--/10/tn48.jpg?ciAAToMB0AVjVQ1D</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ashton Kutcher, 4.6 million followers</ChosenAnswer>
+    <ChosenAnswererId>WI9cXQdQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jorge</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268754749</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268942316</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ashton Kutcher, 4.6 million followers</Content>
+            <Reference>http://twitterholic.com/</Reference>
+            <Best>5</Best>
+            <UserId>WI9cXQdQaa</UserId>
+            <UserNick>Jorge</UserNick>
+            <Date>2010-03-16 08:52:29</Date>
+            <Timestamp>1268754749</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:51 PDT 2010 -->

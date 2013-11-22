@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314223134AAcetyS" type="Answered">
+    <Subject>Is there a way to know how many people googled my name today?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-14 22:31:34</Date>
+    <Timestamp>1268631094</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314223134AAcetyS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tYuZS29taa</UserId>
+    <UserNick>Eliza</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no</ChosenAnswer>
+    <ChosenAnswererId>3L5ucj1Raa</ChosenAnswererId>
+    <ChosenAnswererNick>Tony</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268631424</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269150213</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Thanks I needed a good laugh... Why in Hell would you need to know that? If you need attention get a puppy.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>F3ITpTcwaa</UserId>
+            <UserNick>Arther</UserNick>
+            <Date>2010-03-14 22:36:05</Date>
+            <Timestamp>1268631365</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>no</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-14 22:37:04</Date>
+            <Timestamp>1268631424</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here&#039;s how
+
+http://www.googlefight.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>6iPr1BKSaa</UserId>
+            <UserNick>Maplestoria</UserNick>
+            <Date>2010-03-14 22:39:59</Date>
+            <Timestamp>1268631599</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:55:41 PDT 2010 -->

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221194802AAEWIxt" type="Answered">
+    <Subject>My sister&#039;s computer is having a problem with Internet Explorer - it won&#039;t allow her on any websites...?</Subject>
+    <Content>Everytime she tries to go on anything, this pops up: http://s703.photobucket.com/albums/ww31/Well_Hello_Beautiful/?action=view&amp;current=vista-1.jpg&amp;newest=1
+And when the scan is done, up pops some virus thing it says we have to buy. What could be wrong with it, and how could we try to fix it? 
+Thanks. :)
+Thanks for all the good answers, everyone! It&#039;s all better now. :)
+</Content>
+    <Date>2010-02-21 19:48:02</Date>
+    <Timestamp>1266810482</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221194802AAEWIxt</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dpuhQ29Haa</UserId>
+    <UserNick>Meg M✿</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b737df8i622zul4re4/8mEHYdk8fqoV5nfjgEFJWEMatSkdLNWX/9/tn48.jpg?ciAAToMByhAbs3mR</UserPhotoURL>
+    <NumAnswers>8</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Nick is correct. Do a system restore.
+As an added precaution i would do a full virus scan after the restore is complete to catch the virus and remove it, lowering the chances of the exact same thing happening again.
+
+I also recommend using the Mozilla Firefox browser instead of Internet Explorer. Its much better, faster, more customizable and has heaps better security.</ChosenAnswer>
+    <ChosenAnswererId>mBoVXZZDaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dr House in the house.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266835641</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267050816</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You have a virus.  There are several good free virus scans avail on the internet.  Don&#039;t click on the pop-up.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IBDPGahnaa</UserId>
+            <UserNick>CinderBlock</UserNick>
+            <Date>2010-02-21 19:52:01</Date>
+            <Timestamp>1266810721</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Starring... you know I&#039;m a technophobe and have nfi... Luckily I have awesome Contacts who do have a clue lol! *coughs* Dr House *coughs* Nick *coughs* Carebear... haha!
+
+Please help my favourite Penguin!!!
+
+:D</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZXDxiGYxaa</UserId>
+            <UserNick>Angela</UserNick>
+            <Date>2010-02-21 19:52:57</Date>
+            <Timestamp>1266810777</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>step 1: Download Firefox
+step 2: Uninstall Internet Explorer
+step 3: ????
+step 4: Profit!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZxBjGOJ4aa</UserId>
+            <UserNick>Moderas</UserNick>
+            <Date>2010-02-21 19:55:36</Date>
+            <Timestamp>1266810936</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try to restore U R computer to earlier date
+most of the viruses can be remove by this
+
+try it
+start-all program-accessories-system tool- system restore</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>mTiHzaCpaa</UserId>
+            <UserNick>LoveRBoy</UserNick>
+            <Date>2010-02-21 20:17:20</Date>
+            <Timestamp>1266812240</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i bet your sis is trying to surf all naughty sites... nice! ;) ... just show her our facebook comments. its a bit pornish too. it should calm her temporarily.. lol</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qhU3PDgfaa</UserId>
+            <UserNick>Nix</UserNick>
+            <Date>2010-02-21 21:33:29</Date>
+            <Timestamp>1266816809</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What LoverRBoy said is correct.  It&#039;s time to  do a System Restore - 
+
+Start ------&gt;  All Programs------&gt; Accesories---------&gt; System Restore
+
+Then just pick a day before this happened.  What is does is change key registry files back to the way they were on the day you choose.   Virus add instructions to registry files that you don&#039;t want in there, then your computer executes them</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WpA7n8Iwaa</UserId>
+            <UserNick>Nick</UserNick>
+            <Date>2010-02-22 01:37:22</Date>
+            <Timestamp>1266831442</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nick is correct. Do a system restore.
+As an added precaution i would do a full virus scan after the restore is complete to catch the virus and remove it, lowering the chances of the exact same thing happening again.
+
+I also recommend using the Mozilla Firefox browser instead of Internet Explorer. Its much better, faster, more customizable and has heaps better security.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mBoVXZZDaa</UserId>
+            <UserNick>Dr House in the house.</UserNick>
+            <Date>2010-02-22 02:47:21</Date>
+            <Timestamp>1266835641</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i agree w/ Nick. but then run a scan .
+download malwarebytes and run it. 
+or type regedit and check your registry keys
+if you haven&#039;t changed to IE8 do so ...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DcUoZntOaa</UserId>
+            <UserNick>BIG-G</UserNick>
+            <Date>2010-02-22 03:39:16</Date>
+            <Timestamp>1266838756</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:31:33 PDT 2010 -->

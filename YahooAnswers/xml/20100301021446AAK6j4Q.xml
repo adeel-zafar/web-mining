@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301021446AAK6j4Q" type="Answered">
+    <Subject>Can a hippo feel happy if she has a very long neck?</Subject>
+    <Content>Can a hippo feel happy if she has a very long neck?
+</Content>
+    <Date>2010-03-01 02:14:46</Date>
+    <Timestamp>1267438486</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301021446AAK6j4Q</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3V3qYGhsaa</UserId>
+    <UserNick>hippo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well, she would have an advantage playing Hungry Hungry Hippo. So, yes.</ChosenAnswer>
+    <ChosenAnswererId>7CQ99i0Paa</ChosenAnswererId>
+    <ChosenAnswererNick>anh1227</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267474870</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267957982</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>fatty tissue</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Nz4C4UpKaa</UserId>
+            <UserNick>Francisco Lopez&#039;s tomato</UserNick>
+            <Date>2010-03-01 07:19:18</Date>
+            <Timestamp>1267456758</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well, she would have an advantage playing Hungry Hungry Hippo. So, yes.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7CQ99i0Paa</UserId>
+            <UserNick>anh1227</UserNick>
+            <Date>2010-03-01 12:21:10</Date>
+            <Timestamp>1267474870</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:33:27 PDT 2010 -->

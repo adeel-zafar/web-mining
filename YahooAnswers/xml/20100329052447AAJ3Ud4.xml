@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329052447AAJ3Ud4" type="Answered">
+    <Subject>How long will it take?</Subject>
+    <Content>I ordered something off Ebay, it said posted via Sellers Standard International Rate, how many days would it take from England to arrive at Australia
+</Content>
+    <Date>2010-03-29 05:24:47</Date>
+    <Timestamp>1269865487</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329052447AAJ3Ud4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>luMItC3Aaa</UserId>
+    <UserNick>Lolman :D</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bae4cai2459zul1sp1/PxIOGHMzerU69hnrpmbUr38zmYKQjC0GwA--/2/tn48.jpg?ciAAToMBgcj0L2TA</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Standard: 7 Business days (1st Class)
+Maximum two weeks if there are flight delays and so on.</ChosenAnswer>
+    <ChosenAnswererId>E0xux5zbaa</ChosenAnswererId>
+    <ChosenAnswererNick>ArrestedData</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269865629</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270028757</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Standard: 7 Business days (1st Class)
+Maximum two weeks if there are flight delays and so on.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>E0xux5zbaa</UserId>
+            <UserNick>ArrestedData</UserNick>
+            <Date>2010-03-29 05:27:09</Date>
+            <Timestamp>1269865629</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>about 10 days</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>e1e4270c0a2724cd12103fe875ca31baaa</UserId>
+            <UserNick>its me :)</UserNick>
+            <Date>2010-03-29 05:42:00</Date>
+            <Timestamp>1269866520</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:16:25 PDT 2010 -->

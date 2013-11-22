@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307061411AAkmyQo" type="Answered">
+    <Subject>Internet Problem - help please?</Subject>
+    <Content>My internets been playing up for a couple of weeks now, and i ran a cleaner on my laptop incase it was a problem with my laptop. 
+And now, my facebook isn&#039;t loading, and neither is Youtube. And also, google images won&#039;t show any images. Any suggestions of how to fix this? thankyou very much :)
+</Content>
+    <Date>2010-03-07 06:14:11</Date>
+    <Timestamp>1267971251</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307061411AAkmyQo</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JIxv8QLcaa</UserId>
+    <UserNick>Pixie;</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>By cleaning you  mean disk cleaning or registry cleaning?
+
+CC Cleaner is the best and only software that repairs only necessary registry entries. Others will do unnecessary actions. So try it again. And don&#039;t forget to backup your registrys.</ChosenAnswer>
+    <ChosenAnswererId>64a582e999957e5b09ad9eba2cf0c22faa</ChosenAnswererId>
+    <ChosenAnswererNick>Willie Black</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267971952</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269357202</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try Using Other Web Browsers like Firefox,Opera.....</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iUpjJqqFaa</UserId>
+            <UserNick>Vivin007</UserNick>
+            <Date>2010-03-07 06:15:53</Date>
+            <Timestamp>1267971353</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>system restore</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7FY9JB9Faa</UserId>
+            <UserNick>Michael</UserNick>
+            <Date>2010-03-07 06:17:25</Date>
+            <Timestamp>1267971445</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you are using Internet explorer, this is what you should do: 
+Go to tools, --&gt; Internet options ---&gt; advanced tab. From there, click on the &quot;reset&quot; button. A box will pop up, and check &quot;Delete personal settings&quot; and click &quot;reset&quot;. It should work fine after that.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>r4hVfavJaa</UserId>
+            <UserNick>Sam S</UserNick>
+            <Date>2010-03-07 06:18:03</Date>
+            <Timestamp>1267971483</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if itis internet explorer go to conrol panel go to internet options and ctrl+d  then it will come to default profile then it will be ok if not then re install it from internet or automatic updates available in your computer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>d6LIArHuaa</UserId>
+            <UserNick>Hems zing</UserNick>
+            <Date>2010-03-07 06:24:12</Date>
+            <Timestamp>1267971852</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>By cleaning you  mean disk cleaning or registry cleaning?
+
+CC Cleaner is the best and only software that repairs only necessary registry entries. Others will do unnecessary actions. So try it again. And don&#039;t forget to backup your registrys.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>64a582e999957e5b09ad9eba2cf0c22faa</UserId>
+            <UserNick>Willie</UserNick>
+            <Date>2010-03-07 06:25:52</Date>
+            <Timestamp>1267971952</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:41:06 PDT 2010 -->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301144524AANB9kD" type="Answered">
+    <Subject>What is the name of this website?</Subject>
+    <Content>There was this website that i saw when i used Mozilla firefox. 
+i don&#039;t want to load it over again so i will just use internet explorer. 
+It was this website where you saw when a person died and when a person was born.
+ You also saw when Co2 was made or sort of how much was discarded. 
+I had stumble upon and i think i got it from there. 
+Can any one help me?
+</Content>
+    <Date>2010-03-01 14:45:24</Date>
+    <Timestamp>1267483524</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301144524AANB9kD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MPdPqoAcaa</UserId>
+    <UserNick>Gabby rox my sox!!!!!!!!!!!!!!!!</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1z6P8YToyAAEDXWOcTFn8Cw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yay! Another environmentalist like meee!!
+The website you&#039;re talking about is called:
+
+http://www.breathingearth.net/
+
+It&#039;s a pretty cool website!</ChosenAnswer>
+    <ChosenAnswererId>a4F35kRjaa</ChosenAnswererId>
+    <ChosenAnswererNick>lookbit2</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267485441</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267571834</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I believe I have found what you are looking for. It shows how much CO2 is being dispensed since you have been watching and how many people have died and have been born. It was pretty interesting to see.
+http://www.breathingearth.net/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cpnhKLGzaa</UserId>
+            <UserNick>redoaks22</UserNick>
+            <Date>2010-03-01 15:11:53</Date>
+            <Timestamp>1267485113</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yay! Another environmentalist like meee!!
+The website you&#039;re talking about is called:
+
+http://www.breathingearth.net/
+
+It&#039;s a pretty cool website!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>a4F35kRjaa</UserId>
+            <UserNick>lookbit2</UserNick>
+            <Date>2010-03-01 15:17:21</Date>
+            <Timestamp>1267485441</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:30:25 PDT 2010 -->

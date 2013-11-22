@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314183115AANHiv7" type="Answered">
+    <Subject>where do i find downloads on  the apple website?</Subject>
+    <Content>it seems to have been replaced with the ipad tab
+</Content>
+    <Date>2010-03-14 18:31:15</Date>
+    <Timestamp>1268616675</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314183115AANHiv7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>PZIAzt5daa</UserId>
+    <UserNick>Braden L</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a10a79bi980zul7sp1/VRKLOWgzaadOOq7Ja9_n0N9Z8ESOkBEqMgIf6A--/5/tn48.jpg?ciAAToMBvchwUWtD</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://support.apple.com/downloads/</ChosenAnswer>
+    <ChosenAnswererId>xsTLpzisaa</ChosenAnswererId>
+    <ChosenAnswererNick>angelis_angelcustoms</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268619421</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269135937</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://support.apple.com/downloads/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xsTLpzisaa</UserId>
+            <UserNick>angelis_angelcustoms</UserNick>
+            <Date>2010-03-14 19:17:01</Date>
+            <Timestamp>1268619421</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:57:11 PDT 2010 -->

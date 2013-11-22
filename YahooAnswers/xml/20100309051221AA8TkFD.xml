@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309051221AA8TkFD" type="Answered">
+    <Subject>i formatted my system,and i m using a BSNL broadband internet connection,?</Subject>
+    <Content>my net speed was asusual like before,but when watching videos on the net the video streaming was ok but the motion of the video is not okay,i.e the video stops for one sec and again commences,can you help me to fix this problem,my net speed was ok
+</Content>
+    <Date>2010-03-09 05:12:21</Date>
+    <Timestamp>1268140341</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309051221AA8TkFD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1SotojbCaa</UserId>
+    <UserNick>siva</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1CJWEK56YAAEC_AFHGDtMCA==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This has to do with net speed, or the memory level of your PC is too low. Just allow the streaming status to complete and then replay it.</ChosenAnswer>
+    <ChosenAnswererId>PryoZ0yAaa</ChosenAnswererId>
+    <ChosenAnswererNick>Oniel Best--The Website Packager</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268141038</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268656347</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This has to do with net speed, or the memory level of your PC is too low. Just allow the streaming status to complete and then replay it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>PryoZ0yAaa</UserId>
+            <UserNick>Oniel Best</UserNick>
+            <Date>2010-03-09 05:23:58</Date>
+            <Timestamp>1268141038</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>watch after the complete of buffering the whole video</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>K5fSEJ02aa</UserId>
+            <UserNick>prince giri</UserNick>
+            <Date>2010-03-09 09:07:06</Date>
+            <Timestamp>1268154426</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Just pause the vedio for 10 minutes then watch it.
+Also install video accelerator.
+Use this site for high speed vedio streaming.
+http://www.movies4india.co.nr</Content>
+            <Reference>http://www.movies4india.co.nr</Reference>
+            <Best></Best>
+            <UserId>euhssBNaaa</UserId>
+            <UserNick>Athul</UserNick>
+            <Date>2010-03-09 17:23:35</Date>
+            <Timestamp>1268184215</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:26:13 PDT 2010 -->

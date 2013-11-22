@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302121919AAVmTAf" type="Answered">
+    <Subject>internet explorer question?</Subject>
+    <Content>I have roadrunner and my internet explorer seems to be gone (I can&#039;t get online)
+is there some way to get it back?
+</Content>
+    <Date>2010-03-02 12:19:19</Date>
+    <Timestamp>1267561159</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302121919AAVmTAf</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d84b1cd78a37c5e933b1157fe08d2033aa</UserId>
+    <UserNick>Dr.Greenthumb</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bc6764i18edz/PvqGac86NrHRus3tDnsxlFQSc53jb5JZf7WSIQ--/101/tn48.jpg?ciAAToMBPMVk4xGe</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Click Start&gt;Run and type Iexplore.exe and press enter</ChosenAnswer>
+    <ChosenAnswererId>13bff504802cbac1fdf217a1da67dd50aa</ChosenAnswererId>
+    <ChosenAnswererNick>Egore</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267561459</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268152927</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Click Start&gt;Run and type Iexplore.exe and press enter</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>13bff504802cbac1fdf217a1da67dd50aa</UserId>
+            <UserNick>Egore</UserNick>
+            <Date>2010-03-02 12:24:19</Date>
+            <Timestamp>1267561459</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Look in your start menu list of programs under Windows Internet Explorer. You should be able to right click and create a shortcut on your desk top.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1OBXqGi8aa</UserId>
+            <UserNick>Keith M</UserNick>
+            <Date>2010-03-02 12:25:41</Date>
+            <Timestamp>1267561541</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:25:49 PDT 2010 -->

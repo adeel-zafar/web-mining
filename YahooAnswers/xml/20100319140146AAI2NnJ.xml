@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319140146AAI2NnJ" type="Answered">
+    <Subject>will quicktime work if i uninstall itunes?</Subject>
+    <Content>i tunes runs in processes and its a program i dont use. 
+need quicktime though. suggestions?
+</Content>
+    <Date>2010-03-19 14:01:46</Date>
+    <Timestamp>1269032506</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319140146AAI2NnJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wTlbVsP3aa</UserId>
+    <UserNick>typhillips2001</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>of course it&#039;ll work, they are two different programs, not related at all.</ChosenAnswer>
+    <ChosenAnswererId>abarCPjraa</ChosenAnswererId>
+    <ChosenAnswererNick>10da20!</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269033316</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269551740</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>of course it&#039;ll work, they are two different programs, not related at all.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>abarCPjraa</UserId>
+            <UserNick>10da20!</UserNick>
+            <Date>2010-03-19 14:15:16</Date>
+            <Timestamp>1269033316</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>When installing itunes, it will ask if you want to remove all programs associated with itunes, select NO or select custom to choose what you want and don&#039;t want. If it still removes quicktime, you could easily download it from apple&#039;s website:
+
+http://www.apple.com/quicktime/download/
+
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PibBUgEBaa</UserId>
+            <UserNick>KVV</UserNick>
+            <Date>2010-03-19 14:22:32</Date>
+            <Timestamp>1269033752</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:59 PDT 2010 -->

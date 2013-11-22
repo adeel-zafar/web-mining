@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326133147AAQCSQS" type="Answered">
+    <Subject>Can I run multiple skype accounts from 1 laptop, not at the same time, IE 1 for wife and 1 for me.?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-26 13:31:47</Date>
+    <Timestamp>1269635507</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326133147AAQCSQS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>x8WbtQ5caa</UserId>
+    <UserNick>Rizzer</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yes
+go to  skype and click register.
+add the new username and the password.  ( your making a new account)
+when you open skype on your computer type in the name and password to which account you want to use at that time.</ChosenAnswer>
+    <ChosenAnswererId>rugZxDXbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Devastation Assistant</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269635719</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269678257</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yes
+go to  skype and click register.
+add the new username and the password.  ( your making a new account)
+when you open skype on your computer type in the name and password to which account you want to use at that time.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>rugZxDXbaa</UserId>
+            <UserNick>Devastation Assistant</UserNick>
+            <Date>2010-03-26 13:35:19</Date>
+            <Timestamp>1269635719</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:19 PDT 2010 -->

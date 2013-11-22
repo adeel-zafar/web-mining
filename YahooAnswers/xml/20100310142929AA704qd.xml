@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310142929AA704qd" type="Answered">
+    <Subject>My funnyjunk wont log on?</Subject>
+    <Content>When i type my password and user name (CORRECTLY) it says &quot;request failed&quot;
+Have i been hacked or has my account been banned
+</Content>
+    <Date>2010-03-10 14:29:29</Date>
+    <Timestamp>1268260169</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310142929AA704qd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6zP6eAWhaa</UserId>
+    <UserNick>KingMH</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It seems to have been hacked, but if you check the site you&#039;ll see that it SHOULD be resolved soon... hopefully.</ChosenAnswer>
+    <ChosenAnswererId>T7YUh5mRaa</ChosenAnswererId>
+    <ChosenAnswererNick>CouchSpud</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268324447</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268427658</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>funnyjunk was haked. soem people are denying this but there dumb</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>1YlJjb8maa</UserId>
+            <UserNick>Puelof</UserNick>
+            <Date>2010-03-10 14:35:23</Date>
+            <Timestamp>1268260523</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>FJ was hacked</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zP7H2UWhaa</UserId>
+            <UserNick>Mike Rotch</UserNick>
+            <Date>2010-03-10 18:42:53</Date>
+            <Timestamp>1268275373</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It seems to have been hacked, but if you check the site you&#039;ll see that it SHOULD be resolved soon... hopefully.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>T7YUh5mRaa</UserId>
+            <UserNick>CouchSpud</UserNick>
+            <Date>2010-03-11 08:20:47</Date>
+            <Timestamp>1268324447</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:17:55 PDT 2010 -->

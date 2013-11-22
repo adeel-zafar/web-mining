@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304193537AAspc3C" type="Answered">
+    <Subject>I am just too stupid to figure this out,I dont know why but help please......?</Subject>
+    <Content>downloaded funny videos to my favorites and want to send them,how do I do this? please no comments on why I am that stupid,lol.
+</Content>
+    <Date>2010-03-04 19:35:37</Date>
+    <Timestamp>1267760137</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304193537AAspc3C</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ywuvqEH3aa</UserId>
+    <UserNick>Dmann</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1_wGoY5hYAAEC2aQeA2SEDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Add to e-mail as attachment.</ChosenAnswer>
+    <ChosenAnswererId>obRODVoGaa</ChosenAnswererId>
+    <ChosenAnswererNick>reed c</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267760285</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267984427</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>the videos should have an option for &quot;sharing&quot; click that and it should give you instructions.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3wCX3LJVaa</UserId>
+            <UserNick>Mee;)</UserNick>
+            <Date>2010-03-04 19:37:38</Date>
+            <Timestamp>1267760258</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>send them where?  like through email?  if that is the case you will have to check the file size could be they are too large possibly but will need to know wha tyou mean by &#039;send them&#039;</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>cdfaf090d61b4780b0e9991dfb477d46aa</UserId>
+            <UserNick>sociald</UserNick>
+            <Date>2010-03-04 19:37:49</Date>
+            <Timestamp>1267760269</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Add to e-mail as attachment.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>obRODVoGaa</UserId>
+            <UserNick>reed c</UserNick>
+            <Date>2010-03-04 19:38:05</Date>
+            <Timestamp>1267760285</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 22:00:38 PDT 2010 -->

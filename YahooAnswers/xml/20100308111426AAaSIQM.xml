@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308111426AAaSIQM" type="Answered">
+    <Subject>How do you remove your old bebo account from showing up on google?</Subject>
+    <Content>I deleted my Bebo account because I no longer used it, but if I search my name on Google, my old posts and pictures on other people&#039;s bebo pages still appear. How can I get rid of this?
+</Content>
+    <Date>2010-03-08 11:14:26</Date>
+    <Timestamp>1268075666</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308111426AAaSIQM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>SQ4LjTCOaa</UserId>
+    <UserNick>aroosak</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think they stay there even if you delete your account.</ChosenAnswer>
+    <ChosenAnswererId>23b6749a7088443a1a545bf4e3bff54caa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268416974</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268591734</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think they stay there even if you delete your account.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>23b6749a7088443a1a545bf4e3bff54caa</UserId>
+            <UserNick>Mark D</UserNick>
+            <Date>2010-03-12 10:02:54</Date>
+            <Timestamp>1268416974</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:31:51 PDT 2010 -->

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301013426AAsoaLh" type="Answered">
+    <Subject>I accidently delted an email forever but i need it back. what do i do?</Subject>
+    <Content>i accidently deleted a message that was really important and now i cant get it back. what do i do? please help. :( thanks
+</Content>
+    <Date>2010-03-01 01:34:26</Date>
+    <Timestamp>1267436066</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301013426AAsoaLh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>P6jLOScXaa</UserId>
+    <UserNick>Alisa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1rj4c2C3vAAEC2IKcwNcPDg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Any chance you can contact the sender. If it was a person they might have a copy of the email in their sent folder. Hope this helps. Good Luck.</ChosenAnswer>
+    <ChosenAnswererId>lEQCD3Pyaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ralph</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267437056</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267532815</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You pretty much nailed it by stating &quot;forever&quot;.
+
+Life&#039;s lesson #28238
+Make backups of important data.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nsiN6E3zaa</UserId>
+            <UserNick>Misc Tech Advice</UserNick>
+            <Date>2010-03-01 01:36:53</Date>
+            <Timestamp>1267436213</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What kind of e-mail client are we talking about here? And i suppose you also removed it from the trash bin? Then the only option is looking for a regular (automatic) backup or using a HD Recovery tool.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TsCsyZrmaa</UserId>
+            <UserNick>Vincent M</UserNick>
+            <Date>2010-03-01 01:38:00</Date>
+            <Timestamp>1267436280</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Any chance you can contact the sender. If it was a person they might have a copy of the email in their sent folder. Hope this helps. Good Luck.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>lEQCD3Pyaa</UserId>
+            <UserNick>Ralph</UserNick>
+            <Date>2010-03-01 01:50:56</Date>
+            <Timestamp>1267437056</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:33:34 PDT 2010 -->

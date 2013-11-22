@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304150211AAN5DL8" type="Answered">
+    <Subject>Why can&#039;t I play video?</Subject>
+    <Content>Okay, I switched computers to my dad&#039;s Windows Vista. Everything has been working great but I immediately noticed that a lot of videos aren&#039;t working. Only internet videos, like none of the &quot;play video here&quot; on google  videos work (but when I click on the link, it works on the home site) and ALL the different players on different sites. Youtube works but that is about it. When I try to use the video, no matter what site it is, it very often has a small picture in the top left that look like a bunch of colours. I&#039;ve never had this happen before, I do have Explorer 8. I think it might be because it has to be on the original site. Please Help.
+</Content>
+    <Date>2010-03-04 15:02:11</Date>
+    <Timestamp>1267743731</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304150211AAN5DL8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dWJOUUl4aa</UserId>
+    <UserNick>Mudgie101</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1E8P3QmJrAAEB_EG3zB1lV0MHqiUG.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Adobe Flash is required to play on most of those.  It is available at http://adobe.com
+
+You might also need Java:  http://www.java.com/en/download/index.jsp
+
+For non-Internet based videos (like downloaded movies) you&#039;ll want to install the K-Lite codec pack:  http://www.free-codecs.com/K_lite_codec_pack_download.htm
+
+These are all free.
+
+If none of this works you can always reset Internet Explorer 8.  This will remove all of the add-ons (toolbars and stuff) that might be getting in the way, and take it back to factory settings.  You&#039;ll still have your favorites, but you&#039;ll have to reinstall things like Flash Player or any toolbars.
+
+To reset Internet Explorer 8, click Tools, Internet Options, Advanced.  Try the &quot;restore&quot; option first.  If that doesn&#039;t let you see the videos go back and try the &quot;reset&quot; option.
+
+It *will* work if you do a reset, then install Flash Player.</ChosenAnswer>
+    <ChosenAnswererId>hebgnstGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Paul P</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267757738</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267832755</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Have you tried downloading the latest flash from http://get.adobe.com/flashplayer/?
+It usually fixes these problems.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nXtL02SNaa</UserId>
+            <UserNick>Ainm</UserNick>
+            <Date>2010-03-04 15:52:06</Date>
+            <Timestamp>1267746726</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Adobe Flash is required to play on most of those.  It is available at http://adobe.com
+
+You might also need Java:  http://www.java.com/en/download/index.jsp
+
+For non-Internet based videos (like downloaded movies) you&#039;ll want to install the K-Lite codec pack:  http://www.free-codecs.com/K_lite_codec_pack_download.htm
+
+These are all free.
+
+If none of this works you can always reset Internet Explorer 8.  This will remove all of the add-ons (toolbars and stuff) that might be getting in the way, and take it back to factory settings.  You&#039;ll still have your favorites, but you&#039;ll have to reinstall things like Flash Player or any toolbars.
+
+To reset Internet Explorer 8, click Tools, Internet Options, Advanced.  Try the &quot;restore&quot; option first.  If that doesn&#039;t let you see the videos go back and try the &quot;reset&quot; option.
+
+It *will* work if you do a reset, then install Flash Player.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>hebgnstGaa</UserId>
+            <UserNick>Paul P</UserNick>
+            <Date>2010-03-04 18:55:38</Date>
+            <Timestamp>1267757738</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:09:18 PDT 2010 -->

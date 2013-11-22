@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322123235AAgjRqB" type="Answered">
+    <Subject>What are some interesting email newsletters I should subscribe to?</Subject>
+    <Content>I am subscribed to the Freshome.com newsletter, and I find it interesting. I think email newsletters are easier than remembering to go to the website every other day. Do you have any good newsletters that are interesting and worthwhile? (FYI: I don&#039;t find Holiday&#039;s Inn newsletter interesting)
+</Content>
+    <Date>2010-03-22 12:32:35</Date>
+    <Timestamp>1269286355</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322123235AAgjRqB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XoOWYZDeaa</UserId>
+    <UserNick>þ</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;ve always enjoyed the Y Pulse newsletter. I&#039;ve been getting it for about 2 years. But it&#039;s very Gen Y specific and sometimes a bit too young...</ChosenAnswer>
+    <ChosenAnswererId>f75K3u28aa</ChosenAnswererId>
+    <ChosenAnswererNick>TimmyH</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269286508</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269351431</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;ve always enjoyed the Y Pulse newsletter. I&#039;ve been getting it for about 2 years. But it&#039;s very Gen Y specific and sometimes a bit too young...</Content>
+            <Reference>Y-Pulse</Reference>
+            <Best>5</Best>
+            <UserId>f75K3u28aa</UserId>
+            <UserNick>TimmyH</UserNick>
+            <Date>2010-03-22 12:35:08</Date>
+            <Timestamp>1269286508</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:33 PDT 2010 -->

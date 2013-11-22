@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321203347AASCeKX" type="Answered">
+    <Subject>Am i the only one who&#039;s Firefox keep crashing since the last update (3.6)?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-21 20:33:47</Date>
+    <Timestamp>1269228827</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321203347AASCeKX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ux7NW2nYaa</UserId>
+    <UserNick>Joelouis</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;ve noticed a difference in performance in switching from one web page to another, etc., but I think it may have had something to do with Comcast switching from McAfee to Norton.  
+
+I could be wrong though.  I have no idea what is going on.</ChosenAnswer>
+    <ChosenAnswererId>37pRHETIaa</ChosenAnswererId>
+    <ChosenAnswererNick>Imnotplayin</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269229021</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269748484</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>NO!! every since i got the update my internet decides to quit every 20 minutes... it&#039;s really irratating and i&#039;m regretting buying my apple</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pshaVjiNaa</UserId>
+            <UserNick>bookworm</UserNick>
+            <Date>2010-03-21 20:35:35</Date>
+            <Timestamp>1269228935</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;ve noticed a difference in performance in switching from one web page to another, etc., but I think it may have had something to do with Comcast switching from McAfee to Norton.  
+
+I could be wrong though.  I have no idea what is going on.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>37pRHETIaa</UserId>
+            <UserNick>Imnotplayin</UserNick>
+            <Date>2010-03-21 20:37:01</Date>
+            <Timestamp>1269229021</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:25:18 PDT 2010 -->

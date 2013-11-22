@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317134325AAEPL95" type="Answered">
+    <Subject>Do I need a terms of use or privacy policy for my website?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-17 13:43:25</Date>
+    <Timestamp>1268858605</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317134325AAEPL95</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wEsyahlraa</UserId>
+    <UserNick>Amber T</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>regardless if you need them or not you should put them in along with a contact page as google will not rank your site well otherwise.Hope this helps.</ChosenAnswer>
+    <ChosenAnswererId>heXM9Z9Faa</ChosenAnswererId>
+    <ChosenAnswererNick>Tom</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268865978</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269134021</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it depends on the material, but you should really have it for safety reasons, you never know who can be looking at your website.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>P7ll4hZ6aa</UserId>
+            <UserNick>Stephanie</UserNick>
+            <Date>2010-03-17 13:48:10</Date>
+            <Timestamp>1268858890</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Not really. If you put downloadable stuff then YES, but otherwise no</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3QhTwdzdaa</UserId>
+            <UserNick>Mr</UserNick>
+            <Date>2010-03-17 13:50:29</Date>
+            <Timestamp>1268859029</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>regardless if you need them or not you should put them in along with a contact page as google will not rank your site well otherwise.Hope this helps.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>heXM9Z9Faa</UserId>
+            <UserNick>Tom</UserNick>
+            <Date>2010-03-17 15:46:18</Date>
+            <Timestamp>1268865978</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:43:44 PDT 2010 -->

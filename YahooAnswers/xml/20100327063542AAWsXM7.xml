@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327063542AAWsXM7" type="Answered">
+    <Subject>Internet keeps freezing on me?</Subject>
+    <Content>Basically between every 5mins and 1hour my internet will freeze on me and will take up to 40 seconds to load a page(this can be anypage even if I refresh the one i&#039;m currently viewing)  Sometimes I will get the page can not the be displayed error and I will have to refresh multiple times. I am using a wired internet connection which is connected to a router downstairs.
+
+Thanks
+</Content>
+    <Date>2010-03-27 06:35:42</Date>
+    <Timestamp>1269696942</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327063542AAWsXM7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FpzSxehNaa</UserId>
+    <UserNick>tracey b</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s possible you have a router problem. Either it&#039;s oveheating or it&#039;s starting to fail.
+
+Without actually seeing your set up it&#039;s difficult to say.</ChosenAnswer>
+    <ChosenAnswererId>WeZcSZvKaa</ChosenAnswererId>
+    <ChosenAnswererNick>sewrobb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269697601</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270216429</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s possible you have a router problem. Either it&#039;s oveheating or it&#039;s starting to fail.
+
+Without actually seeing your set up it&#039;s difficult to say.</Content>
+            <Reference>Experienced1</Reference>
+            <Best>5</Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-27 06:46:41</Date>
+            <Timestamp>1269697601</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try using a different internet programme, i use google chrome its alot better than explorer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Z3mb5p6qaa</UserId>
+            <UserNick>Wayne H</UserNick>
+            <Date>2010-03-27 07:02:29</Date>
+            <Timestamp>1269698549</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sounds like either a router problem or a problem with internet settings. Can&#039;t help you with router, but can recommend a program I use to optimize settings for my hardware. It&#039;s an optimization suite called BoostSpeed and it has a tool called Internet Optimizer. Works great for me. Link below.</Content>
+            <Reference>http://www.auslogics.com/go/27021001/en/software/boost-speed</Reference>
+            <Best></Best>
+            <UserId>nvoaxZ8jaa</UserId>
+            <UserNick>Adin</UserNick>
+            <Date>2010-03-27 07:24:28</Date>
+            <Timestamp>1269699868</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The most likely cause is a bloated registry which has become the home for all kinds of useless bits and pieces of data.  Whenever any change is made to the system settings or a program is installed or uninstalled, a new entry is generated in the registry. The operating system while running your computer has to pick its way through all this excess material. There is a multitude of useless bits and pieces to be removed.Parts of uninstalled programs,parts of incompletely installed programs,dead drivers and many other things. clean your registry and remove all the useless data fragments and no longer needed information to fix the freeze error! I should like to commend Registry Easy http://cleanup-comuter-run-perfectly.com          to you ! You can try ! Good luck!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>10O9Dexcaa</UserId>
+            <UserNick>Tjjtyh</UserNick>
+            <Date>2010-03-27 08:00:39</Date>
+            <Timestamp>1269702039</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:20 PDT 2010 -->

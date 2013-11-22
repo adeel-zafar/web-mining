@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308124807AAC5b4b" type="Answered">
+    <Subject>I can&#039;t delete internet explorer history! Please help me!?</Subject>
+    <Content>Hello! I have a very serious problem. A friend of mine, has used my computer to get in various sites. But I try to delete the history, and I just f***ing can&#039;t! I tried deleting it manually, but the tools--&gt; internet options, by spybot search and destroy, and even by CCleaner! and the stupid history is just there, like nothing happened! It&#039;s not all history, but when I type in the address bar a specific word, it shows me the site he has been. i tried clicking on the x, and still it doesn&#039;t get deleted! Please please please help! I want to delete this ASAP!
+
+I am pretty sure you understanded what sites I am talking about, that I can&#039;t get rid off!... And it is really a privacy thing! So one last time: HELP!!! Please I am horrified that anyone might find out! I just can&#039;t get rid of it! :-(
+</Content>
+    <Date>2010-03-08 12:48:07</Date>
+    <Timestamp>1268081287</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308124807AAC5b4b</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>h7ncOKtCaa</UserId>
+    <UserNick>Andreas</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>depending on what version you have tools to internet options should work. you might have your privacy setting real high and it wont allow you to delete it. 
+
+one thing you can do is go into my computer right click on the c: drive. click on properties. then go to disk clean up. make sure everything is checked and do that. that should work</ChosenAnswer>
+    <ChosenAnswererId>JN58HuZYaa</ChosenAnswererId>
+    <ChosenAnswererNick>bob b</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268081563</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268597166</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Don&#039;t panic.  Just go to your tool bar and click on the safety icon scroll to delete history and wahla history deleted.  Try it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7xH7yxvEaa</UserId>
+            <UserNick>JP</UserNick>
+            <Date>2010-03-08 12:51:41</Date>
+            <Timestamp>1268081501</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>That&#039;s easy.  For Internet Explorer 8, it goes like this.
+
+Open the Internet Explorer browser.
+From the Internet Explorer menu, select &#039;Tools&#039;
+Select &#039;Internet Options&#039;
+Click &#039;Content&#039;
+Click the &#039;Settings&#039; button in the &#039;AutoComplete&#039; section.
+Click &#039;Delete AutoComplete History&#039;
+Read the options and check off the boxes you want to select in the pop-up.
+Click &#039;Delete&#039;
+
+You&#039;re done.</Content>
+            <Reference>IT Guy.</Reference>
+            <Best></Best>
+            <UserId>N58OONjGaa</UserId>
+            <UserNick>hrlq</UserNick>
+            <Date>2010-03-08 12:52:32</Date>
+            <Timestamp>1268081552</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>depending on what version you have tools to internet options should work. you might have your privacy setting real high and it wont allow you to delete it. 
+
+one thing you can do is go into my computer right click on the c: drive. click on properties. then go to disk clean up. make sure everything is checked and do that. that should work</Content>
+            <Reference>computer</Reference>
+            <Best>5</Best>
+            <UserId>JN58HuZYaa</UserId>
+            <UserNick>bob b</UserNick>
+            <Date>2010-03-08 12:52:43</Date>
+            <Timestamp>1268081563</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if it INTERNET EXPLORER 7 or 8 go to control panel select genral tab tehn near browsing history heading there will be delete option then a sub menu appears in it click on delet under browsing history heading</Content>
+            <Reference>IT</Reference>
+            <Best></Best>
+            <UserId>d6LIArHuaa</UserId>
+            <UserNick>Hems zing</UserNick>
+            <Date>2010-03-10 06:08:02</Date>
+            <Timestamp>1268230082</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:31:13 PDT 2010 -->

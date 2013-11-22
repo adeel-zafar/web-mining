@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326190821AAYydvU" type="Answered">
+    <Subject>Weeworld Toolbar....?</Subject>
+    <Content>Ok i might install the Weeworld toolbar on my computer
+but im wondering can you ever uninstall or remove the toolbar
+after you install it?
+How do remove it after?
+</Content>
+    <Date>2010-03-26 19:08:21</Date>
+    <Timestamp>1269655701</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326190821AAYydvU</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UmVqve19aa</UserId>
+    <UserNick>ツ melanie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes just go to Control panel, 
+Add remove programs,
+Find the program and click uninstall.</ChosenAnswer>
+    <ChosenAnswererId>h5vD8UlZaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sk8te668</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269655904</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270175085</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yup... not hard to do at all</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uV6qX048aa</UserId>
+            <UserNick>Jonathan</UserNick>
+            <Date>2010-03-26 19:09:27</Date>
+            <Timestamp>1269655767</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes just go to Control panel, 
+Add remove programs,
+Find the program and click uninstall.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>h5vD8UlZaa</UserId>
+            <UserNick>Sk8te668</UserNick>
+            <Date>2010-03-26 19:11:44</Date>
+            <Timestamp>1269655904</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:24:57 PDT 2010 -->

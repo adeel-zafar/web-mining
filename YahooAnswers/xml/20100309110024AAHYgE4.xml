@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309110024AAHYgE4" type="Answered">
+    <Subject>I need Email Help. Please?</Subject>
+    <Content>Hi I have 4 yahoo email accounts and 1 hotmail. I am sick of having to check all of them, how do I use them all and connect them through outlook? What I mean, when I go to set it up, which do I select. Microsoft Exchange Server, POP3, IMAP, HTTP or Additional Server type. I need to know which to check and what else to do. Please help I cant figure this out. Thanks
+</Content>
+    <Date>2010-03-09 11:00:24</Date>
+    <Timestamp>1268161224</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309110024AAHYgE4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>k620LJ04aa</UserId>
+    <UserNick>Fresh Look</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yahoo requires you to have a Yahoo mail plus account which is $19.99 for a year. I do not know if one account would work for all 4 email accounts or not...
+
+If you have a Yahoo mail plus account, or if you are going to get one, here is how to set it up to Outlook:
+
+http://help.yahoo.com/l/us/yahoo/mail/original/mailplus/pop/pop-08.html</ChosenAnswer>
+    <ChosenAnswererId>BK4ukjFUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mike</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268163387</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268676996</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You have to look into something called YPOPS!
+
+Yahoo doesn&#039;t allow you to natively forward or use a 3rd party mail client to manage the email and hotmail doesn&#039;t allow forwarding altogether, but you can use POP3 to access that one through outlook.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hi72pocRaa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-09 11:03:29</Date>
+            <Timestamp>1268161409</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yahoo requires you to have a Yahoo mail plus account which is $19.99 for a year. I do not know if one account would work for all 4 email accounts or not...
+
+If you have a Yahoo mail plus account, or if you are going to get one, here is how to set it up to Outlook:
+
+http://help.yahoo.com/l/us/yahoo/mail/original/mailplus/pop/pop-08.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>BK4ukjFUaa</UserId>
+            <UserNick>Mike</UserNick>
+            <Date>2010-03-09 11:36:27</Date>
+            <Timestamp>1268163387</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:24:52 PDT 2010 -->

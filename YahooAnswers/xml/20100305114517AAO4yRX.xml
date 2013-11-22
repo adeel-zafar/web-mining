@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305114517AAO4yRX" type="Answered">
+    <Subject>Which is the best website to get Technology news from Japan?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-05 11:45:17</Date>
+    <Timestamp>1267818317</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305114517AAO4yRX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cnXnRNuLaa</UserId>
+    <UserNick>Mark</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4addeb39i8bazul8re4/CovEj9M8erS0ZcK0llVVyXVw80S640RzNNOfHw--/1/tn48.jpg?ciAAToMBCfFnFOUU</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Read this. It covers articles of technology in Japan.
+
+(Japan Today - Technology)
+http://www.japantoday.com/category/technology</ChosenAnswer>
+    <ChosenAnswererId>NTBaMjuNaa</ChosenAnswererId>
+    <ChosenAnswererNick>t_8152</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268129710</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268337964</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This link might help - 
+
+http://web-japan.org/trends/science/index.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>23b6749a7088443a1a545bf4e3bff54caa</UserId>
+            <UserNick>Mark D</UserNick>
+            <Date>2010-03-09 02:00:30</Date>
+            <Timestamp>1268128830</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Read this. It covers articles of technology in Japan.
+
+(Japan Today - Technology)
+http://www.japantoday.com/category/technology</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>NTBaMjuNaa</UserId>
+            <UserNick>t_8152</UserNick>
+            <Date>2010-03-09 02:15:10</Date>
+            <Timestamp>1268129710</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:56:48 PDT 2010 -->

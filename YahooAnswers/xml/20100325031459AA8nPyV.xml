@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325031459AA8nPyV" type="Answered">
+    <Subject>my mozilla browser takes more time to open,solve it?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-25 03:14:59</Date>
+    <Timestamp>1269512099</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325031459AA8nPyV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HX7UxLbxaa</UserId>
+    <UserNick>jrp</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Mine is doing the same thing, but hopefully it is cause i am using my old pc, even the gmail is crap and i only downloaded it today, have you tried Chrome that is the other one i am using and it is fast give it a try</ChosenAnswer>
+    <ChosenAnswererId>ZRr89fmVaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sarah</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269512345</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270031602</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Use Google Chrome. Or uninstall your add ons</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11269647</UserId>
+            <UserNick>Jerry H</UserNick>
+            <Date>2010-03-25 03:16:22</Date>
+            <Timestamp>1269512182</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Mine is doing the same thing, but hopefully it is cause i am using my old pc, even the gmail is crap and i only downloaded it today, have you tried Chrome that is the other one i am using and it is fast give it a try</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ZRr89fmVaa</UserId>
+            <UserNick>Sarah</UserNick>
+            <Date>2010-03-25 03:19:05</Date>
+            <Timestamp>1269512345</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i use opera less traffic and it is like here the more people that use it ----it does slow down 
+fox is very popular and sometimes they can&#039;t handle the load
+here are other choices
+avant browser
+goolge 
+opera 
+remember like i said-- less traffic----the faster your browser will be</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YchuP01jaa</UserId>
+            <UserNick>Mark</UserNick>
+            <Date>2010-03-25 03:23:54</Date>
+            <Timestamp>1269512634</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can effectively see if you&#039;re having the same speed issues using another browser (is it page loading or the browser itself that&#039;s sluggish?). If it&#039;s a generalized issue with your computer, you might want to defragment you hard drive. If it&#039;s Firefox, try disabling the extensions you&#039;re using (if you have any) and see what difference that makes. If that doesn&#039;t help, you can always try uninstalling/reinstalling Firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>sP1G6Qeiaa</UserId>
+            <UserNick>Colin L</UserNick>
+            <Date>2010-03-25 03:55:48</Date>
+            <Timestamp>1269514548</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:31:46 PDT 2010 -->

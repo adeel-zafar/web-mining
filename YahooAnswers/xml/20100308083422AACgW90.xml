@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308083422AACgW90" type="Answered">
+    <Subject>hidden video inside another video?</Subject>
+    <Content>I was downloading a video and decided to preview the incomplete file.  The preview showed portions of the file I intended to download as well as portions of other video files.  When the download was complete, the original video (and only the original video) played from the file.  Where did the other videos go? Are they hidden within the file? Is there a way to extract them and see what they are?
+</Content>
+    <Date>2010-03-08 08:34:22</Date>
+    <Timestamp>1268066062</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308083422AACgW90</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WApJWAUfaa</UserId>
+    <UserNick>John</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can never trust pre-viewing an incomplete file while it is downloading.  There is no video inside a video.  You sure you weren&#039;t seeing other portions of the video that you were downloading.
+
+Bottom line...wait till the file downloads complete.
+
+PS...Am I assuming that you are downloading a torrent and want to check the file to make sure you aren&#039;t being tricked with a bogus file with a wrong name?</ChosenAnswer>
+    <ChosenAnswererId>5f77d77111e746e3342cef4f8a12796baa</ChosenAnswererId>
+    <ChosenAnswererNick>Know It All</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268067643</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268582088</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You can never trust pre-viewing an incomplete file while it is downloading.  There is no video inside a video.  You sure you weren&#039;t seeing other portions of the video that you were downloading.
+
+Bottom line...wait till the file downloads complete.
+
+PS...Am I assuming that you are downloading a torrent and want to check the file to make sure you aren&#039;t being tricked with a bogus file with a wrong name?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5f77d77111e746e3342cef4f8a12796baa</UserId>
+            <UserNick>Know It All</UserNick>
+            <Date>2010-03-08 09:00:43</Date>
+            <Timestamp>1268067643</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:33:04 PDT 2010 -->

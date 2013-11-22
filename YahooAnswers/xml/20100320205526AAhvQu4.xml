@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320205526AAhvQu4" type="Answered">
+    <Subject>Program/site for voice for text?</Subject>
+    <Content>Okay, I know this is really vague... But is there a site/program where you can use a voice, like off YouTube, to say whatever you type in? Not the text-to-speech, but where you can actually choose the voice?
+</Content>
+    <Date>2010-03-20 20:55:26</Date>
+    <Timestamp>1269143726</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320205526AAhvQu4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ULusPJqUaa</UserId>
+    <UserNick>sunny59</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Are you thinking of YAKiToMe! http://www.yakitome.com?</ChosenAnswer>
+    <ChosenAnswererId>79c9c785d3b3b5697c24113df628c839aa</ChosenAnswererId>
+    <ChosenAnswererNick>eldelfinalegre</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269201372</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269921784</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Are you thinking of YAKiToMe! http://www.yakitome.com?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>79c9c785d3b3b5697c24113df628c839aa</UserId>
+            <UserNick>eldelfinalegre</UserNick>
+            <Date>2010-03-21 12:56:12</Date>
+            <Timestamp>1269201372</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:10 PDT 2010 -->

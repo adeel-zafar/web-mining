@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308071634AAgLWvD" type="Answered">
+    <Subject>my myyearbook account was deleted i was wondering if there was any way i could get it back?</Subject>
+    <Content>people reported me for stupid reasons so i got deleted and i really want my account back is there any way to do it? or do i just have to make a new account?
+</Content>
+    <Date>2010-03-08 07:16:34</Date>
+    <Timestamp>1268061394</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308071634AAgLWvD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hm0drYfPaa</UserId>
+    <UserNick>HANK HILL</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1krs4Q6yXAAECUENwzCSdVD4B.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if you were reported for suspicious activity it is gone,if you deleted it yourself it would still be there.my guess is you need to make a new account and obey the rules</ChosenAnswer>
+    <ChosenAnswererId>0H1U7ek7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Kung Fu Panda</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268061588</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268146536</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>contact the company look for contact info or make a new account good luck btw</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>slaFPTjGaa</UserId>
+            <UserNick>Terry</UserNick>
+            <Date>2010-03-08 07:17:36</Date>
+            <Timestamp>1268061456</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if you were reported for suspicious activity it is gone,if you deleted it yourself it would still be there.my guess is you need to make a new account and obey the rules</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>0H1U7ek7aa</UserId>
+            <UserNick>Kung Fu Panda</UserNick>
+            <Date>2010-03-08 07:19:48</Date>
+            <Timestamp>1268061588</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:33:44 PDT 2010 -->

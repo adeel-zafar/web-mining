@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224051328AApp6sB" type="Answered">
+    <Subject>403 forbidden error Access to this resource on the server is denied!?</Subject>
+    <Content>When I try to open www.cerebrals.org on my PC I get the 403 forbidden error which says that Access to this resource on the server is denied! However I can open this site on any other PC. Also all other sites open perfectly well on my PC. Problem is not with this site, some prob with my PC. Can anybody suggest a solution?
+</Content>
+    <Date>2010-02-24 05:13:28</Date>
+    <Timestamp>1267017208</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224051328AApp6sB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zddZWLcdaa</UserId>
+    <UserNick>nikjd</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1sisKpjzeAAEC_GHZHcPrCUMB.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The 403 Forbidden Error Simply Indicates That The Resource you tried to acess on the web is temprorarily Unavailable. For Example: If Suppose On loading  An URL   http://in.answers.fanswer?qid=20100224051328AApp6sB
+ You get the message  403 Forbidden Error That means That on the Web Server Which is Hosting the Site www.fanswer.in . The above Page is not available at present. This Might be due to the Fact That the Web Server is Improperly Configured Or The Web Page Is Unable Due to being Updated Etc.
+
+This Problem Is Of WebServer So unless The Error Occurs due to the fact That you Have An Invalid User Name Password Combination To Access The Above Page on your System,The Web Site Will Not Open On Any System.
+
+Best Remedy for such An Error is to clear your Cookies Of your Web Browser And Refresh Page If Problem Still Persists Wait For Some Time Before Retrying.
+
+Hope You are Satisfied By This Answer</ChosenAnswer>
+    <ChosenAnswererId>WHVzcsFXaa</ChosenAnswererId>
+    <ChosenAnswererNick>vivek</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267018291</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267583699</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>either it is offline
+or your blocked so nothing can be done</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JuJTnZSDaa</UserId>
+            <UserNick>Dennis PC Repairs</UserNick>
+            <Date>2010-02-24 05:20:47</Date>
+            <Timestamp>1267017647</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The 403 Forbidden Error Simply Indicates That The Resource you tried to acess on the web is temprorarily Unavailable. For Example: If Suppose On loading  An URL   http://in.answers.fanswer?qid=20100224051328AApp6sB
+ You get the message  403 Forbidden Error That means That on the Web Server Which is Hosting the Site www.fanswer.in . The above Page is not available at present. This Might be due to the Fact That the Web Server is Improperly Configured Or The Web Page Is Unable Due to being Updated Etc.
+
+This Problem Is Of WebServer So unless The Error Occurs due to the fact That you Have An Invalid User Name Password Combination To Access The Above Page on your System,The Web Site Will Not Open On Any System.
+
+Best Remedy for such An Error is to clear your Cookies Of your Web Browser And Refresh Page If Problem Still Persists Wait For Some Time Before Retrying.
+
+Hope You are Satisfied By This Answer</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>WHVzcsFXaa</UserId>
+            <UserNick>vivek</UserNick>
+            <Date>2010-02-24 05:31:31</Date>
+            <Timestamp>1267018291</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Make sure you&#039;re connected to the internet. If you are, then it must be blocked. I went to the site, it worked good for me.</Content>
+            <Reference>Computer Tech</Reference>
+            <Best></Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-02-24 05:46:32</Date>
+            <Timestamp>1267019192</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>HI YA
+Your Answer is
+You are unable to access normal web pages and are greeted with the error message Error 403 ? Access Forbidden / Access Denied.
+
+Cause
+
+This is caused by having incorrectly specified a proxy server in your Internet Explorer settings.
+
+Resolution
+
+To resolve this problem if using a broadband connection, you should remove the specified proxy from Internet Options by following these steps:
+
+   1. Click on Start
+   2. Click on Settings
+   3. Click on Control Panel
+   4. Double click on Internet Options
+   5. Click on the Connection Tab
+   6. Click the LAN Settings button and take the tick out of use proxy server.
+   7. Click OK
+
+If you are using a variant of Windows XP and cannot see a proxy specified in the Lan Settings, you may have to tick the checkbox (to use a proxy) and then access the Advanced button and remove advanced proxy entries. Once this has been undertaken, please untick the use proxy server box and close all Internet Explorer windows.
+
+Netscape users should click on Edit &gt; Preferences &gt; Advanced &gt; Proxies. Ensure that you have selected a Direct connection to the Internet.
+
+If you are using a dial-up connection, then each setting specified is specific to that connection. This is the process to specify/remove proxy settings on a dial-up connection.
+
+   1. Click on Start
+   2. Click on Settings
+   3. Click on Control Panel
+   4. Double click on Internet Options
+   5. Click on the Connection Tab
+   6. Click on the dial up connection that you want to apply the settings to
+   7. Click the Settings button on the right
+   8. You can now click on Use a Proxy server and specify or remove the IP and Port used.
+   9. Click OK. Click OK
+Thanks
+Ithink this is the best and useful answer to u</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0MjUhoDRaa</UserId>
+            <UserNick>sam</UserNick>
+            <Date>2010-02-24 08:59:48</Date>
+            <Timestamp>1267030788</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:15:11 PDT 2010 -->

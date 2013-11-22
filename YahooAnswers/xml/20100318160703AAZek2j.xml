@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318160703AAZek2j" type="Answered">
+    <Subject>How can I make it so that a new tab is my most visited sites?</Subject>
+    <Content>On Mozilla Firefox.
+</Content>
+    <Date>2010-03-18 16:07:03</Date>
+    <Timestamp>1268953623</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318160703AAZek2j</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0NBaeC4Raa</UserId>
+    <UserNick>Lin&lt;3</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b935806ic38zws135ac4/_XFdqpI1brSq6r4I3kD2XUwibNYOxrxFS6mH5w--/9/tn48.jpeg?ciAAToMBKZgzg.kJ</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>download google chrome. does it automatically
+imports everything from firefox. 
+and its quicker</ChosenAnswer>
+    <ChosenAnswererId>aXtreu9taa</ChosenAnswererId>
+    <ChosenAnswererNick>Eric</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268955516</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269054228</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>download google chrome. does it automatically
+imports everything from firefox. 
+and its quicker</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>aXtreu9taa</UserId>
+            <UserNick>Eric</UserNick>
+            <Date>2010-03-18 16:38:36</Date>
+            <Timestamp>1268955516</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:38:25 PDT 2010 -->

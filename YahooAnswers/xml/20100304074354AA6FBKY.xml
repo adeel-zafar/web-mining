@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304074354AA6FBKY" type="Answered">
+    <Subject>how to restore search bar on internet?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-04 07:43:54</Date>
+    <Timestamp>1267717434</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304074354AA6FBKY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3j9gVeb7aa</UserId>
+    <UserNick>T.K.</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1VhZUZMGjAAEDHAJqhA5wAg==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>right clip around the address bar or where ever in empty space and select the bar you want to be up there.</ChosenAnswer>
+    <ChosenAnswererId>ZIWXQ4QHaa</ChosenAnswererId>
+    <ChosenAnswererNick>clayton</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267717780</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268237080</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Please clarify.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vdMDspPmaa</UserId>
+            <UserNick>Shizzlator XV</UserNick>
+            <Date>2010-03-04 07:45:11</Date>
+            <Timestamp>1267717511</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>right clip around the address bar or where ever in empty space and select the bar you want to be up there.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ZIWXQ4QHaa</UserId>
+            <UserNick>clayton</UserNick>
+            <Date>2010-03-04 07:49:40</Date>
+            <Timestamp>1267717780</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go to tools on top of home-page,click on to add-ons,or type internet/search bar/restore. ood luck.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GZXZl131aa</UserId>
+            <UserNick>mommy</UserNick>
+            <Date>2010-03-04 08:03:16</Date>
+            <Timestamp>1267718596</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:11:43 PDT 2010 -->

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228121533AAS359H" type="Answered">
+    <Subject>Wireless Internet Connection Connects then Disconnects Repeatedly!?</Subject>
+    <Content>So, I have a dell net book and the wireless connection has always been fine and then all of a sudden the connection comes and goes! it&#039;s so frustrating! I don&#039;t think I&#039;ve done anything different to my computer. Somebody please help me!
+</Content>
+    <Date>2010-02-28 12:15:33</Date>
+    <Timestamp>1267388133</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228121533AAS359H</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZuSKdNl8aa</UserId>
+    <UserNick>CristySolful</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>device manager &gt; network adapters &gt; uninstall wireless lan &gt; restart your computer and let windows reload and refresh the drivers.....you will see a message &#039;&#039;found new hardware&#039;&#039; on restarting your computer</ChosenAnswer>
+    <ChosenAnswererId>9W12ZE5Caa</ChosenAnswererId>
+    <ChosenAnswererNick>cimmic13</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267388291</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267413612</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>device manager &gt; network adapters &gt; uninstall wireless lan &gt; restart your computer and let windows reload and refresh the drivers.....you will see a message &#039;&#039;found new hardware&#039;&#039; on restarting your computer</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>9W12ZE5Caa</UserId>
+            <UserNick>cimmic13</UserNick>
+            <Date>2010-02-28 12:18:11</Date>
+            <Timestamp>1267388291</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>this happens to me all the time on my iPod touch. it&#039;s just something interfering with the signal.  I find that when someone is on the phone (landline) or it is ringing, it is very low to no signal.  it&#039;s the chance you take with wifi.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dzVrJfcQaa</UserId>
+            <UserNick>Brandon</UserNick>
+            <Date>2010-02-28 12:18:21</Date>
+            <Timestamp>1267388301</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if your still not sure on what to do
+then go to your local computer store and get them to look at it and fix it for you</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JuJTnZSDaa</UserId>
+            <UserNick>Dennis PC Repairs</UserNick>
+            <Date>2010-02-28 12:29:34</Date>
+            <Timestamp>1267388974</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:26 PDT 2010 -->

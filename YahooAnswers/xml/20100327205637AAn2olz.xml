@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327205637AAn2olz" type="Answered">
+    <Subject>Why does Internet Explorer keep having this problem? What to do?</Subject>
+    <Content>I will navigate to certain webpages and while I am scrolling down it will freeze and when i click on the page somewhere trying to scroll down, it says &quot;NOT RESPONDING&quot;..
+
+I have Windows Vista
+
+How do I fix this problem?
+
+What is wrong?
+</Content>
+    <Date>2010-03-27 20:56:37</Date>
+    <Timestamp>1269748597</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327205637AAn2olz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iM18Z9HWaa</UserId>
+    <UserNick>Angie</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4acfe864i2695zul3sp1/jELc3PswdaFO1H4tyFwDGrJt1_E28iWK/4/tn48.jpg?ciAAToMBegxeXGkW</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Windows Vista is the first problem.  Secondly, try downloading Mozilla Firefox.  Use it instead of IE</ChosenAnswer>
+    <ChosenAnswererId>HfNralgnaa</ChosenAnswererId>
+    <ChosenAnswererNick>teachinfellow</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269748699</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269811183</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Windows Vista is the first problem.  Secondly, try downloading Mozilla Firefox.  Use it instead of IE</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>HfNralgnaa</UserId>
+            <UserNick>teachinfellow</UserNick>
+            <Date>2010-03-27 20:58:19</Date>
+            <Timestamp>1269748699</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:20:53 PDT 2010 -->

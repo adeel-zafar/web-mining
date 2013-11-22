@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330214130AABJIxt" type="Answered">
+    <Subject>Where can I find a good free penpal site?</Subject>
+    <Content>I&#039;d like to get in touch with someone around my age in Wales (to learn a bit of Cymraeg and have a friend there before I travel) but I discovered that the website I was attempting to use requires you to pay in order to contact other members. I&#039;m 17. Where should I go?
+</Content>
+    <Date>2010-03-30 21:41:30</Date>
+    <Timestamp>1270010490</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330214130AABJIxt</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GChWTGNiaa</UserId>
+    <UserNick>The Four</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1G67B6DVgAAQCzCKbUMh6Cg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www.penpalworld.com</ChosenAnswer>
+    <ChosenAnswererId>u1b6ucBtaa</ChosenAnswererId>
+    <ChosenAnswererNick>Young.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270241821</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270269252</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.penpalworld.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>u1b6ucBtaa</UserId>
+            <UserNick>Young.</UserNick>
+            <Date>2010-04-02 13:57:01</Date>
+            <Timestamp>1270241821</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:19 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228131110AAN9QTR" type="Answered">
+    <Subject>Why does my internet say that i have not enabled cookies even though i did in the internet options?</Subject>
+    <Content>I can not log into certain things and some links on facebook don&#039;t work and it is really annoying. They say that i have not enabled cookies but i definitely have. Im just confused right now and i need to know quickly because i must finish an assignment on one of the websites.
+</Content>
+    <Date>2010-02-28 13:11:10</Date>
+    <Timestamp>1267391470</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228131110AAN9QTR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zBm65ROPaa</UserId>
+    <UserNick>Zach B</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Check your security things.  Your anti-virus or anti-spyware program may be a little too aggressive, or you may have something like No-Script turned on.  It is probably something in your security.</ChosenAnswer>
+    <ChosenAnswererId>AA12042448</ChosenAnswererId>
+    <ChosenAnswererNick>thejanith</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267391674</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267910810</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Check your security things.  Your anti-virus or anti-spyware program may be a little too aggressive, or you may have something like No-Script turned on.  It is probably something in your security.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA12042448</UserId>
+            <UserNick>thejanith</UserNick>
+            <Date>2010-02-28 13:14:34</Date>
+            <Timestamp>1267391674</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:09 PDT 2010 -->

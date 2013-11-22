@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315131521AADlUiM" type="Answered">
+    <Subject>Will the Ipod Touch connect to the internet through a mobile broadband dongle?</Subject>
+    <Content>We are looking to get a mobile broadband dongle, both have ipod Touch, when it is plugged into our laptop will the Ipod connect wireless to the dongle therefore giving us an internet connection?
+</Content>
+    <Date>2010-03-15 13:15:21</Date>
+    <Timestamp>1268684121</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315131521AADlUiM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6A3BG4lBaa</UserId>
+    <UserNick>Cadence&#039;s Mum</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Not exactly.
+
+Does your laptop have a wireless network card? 
+Most newer laptops do have one built in. If your&#039;s does, then you need to set up that wireless card (using windows or the software that came with your network card) to operate an Adhoc wireless network. The settings, terminology and process to do this can be slightly different depending on what operating system you are running, and what brand your wireless card is. Make sure you use a password when you create the wireless network or all your neighbours will be able to connect as well. Once you set this wireless network up you can connect your IPod to the laptop via the wireless network. Now, when you plug your mobile broadband dongle into the laptop, you will need to enable that wireless connection to be shared. Once that is done, when you try to access the internet from your IPod, your laptop will redirect the request through the dongle.
+
+If your laptop doesn&#039;t have a wireless card then you are out of luck. In that case, you might be best to get a modem that has a built in wireless router. I&#039;ve never seen a dongle that had a built in wireless router, so you&#039;d need to get a standalone unit - they&#039;re not expensive. Over here in Australia you can pick a reasonable one up for about $60-$70.
+
+In any case, it doesn&#039;t seem like you have a huge knowledge of computers and networking. I&#039;d suggest that before you spend any money, speak to someone who knows what they are doing and can have a look at your laptop to set it up or figure out what you need.</ChosenAnswer>
+    <ChosenAnswererId>8963ed45af3c4bbe909ce1869e2957ddaa</ChosenAnswererId>
+    <ChosenAnswererNick>Richard D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269002108</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269203660</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Not exactly.
+
+Does your laptop have a wireless network card? 
+Most newer laptops do have one built in. If your&#039;s does, then you need to set up that wireless card (using windows or the software that came with your network card) to operate an Adhoc wireless network. The settings, terminology and process to do this can be slightly different depending on what operating system you are running, and what brand your wireless card is. Make sure you use a password when you create the wireless network or all your neighbours will be able to connect as well. Once you set this wireless network up you can connect your IPod to the laptop via the wireless network. Now, when you plug your mobile broadband dongle into the laptop, you will need to enable that wireless connection to be shared. Once that is done, when you try to access the internet from your IPod, your laptop will redirect the request through the dongle.
+
+If your laptop doesn&#039;t have a wireless card then you are out of luck. In that case, you might be best to get a modem that has a built in wireless router. I&#039;ve never seen a dongle that had a built in wireless router, so you&#039;d need to get a standalone unit - they&#039;re not expensive. Over here in Australia you can pick a reasonable one up for about $60-$70.
+
+In any case, it doesn&#039;t seem like you have a huge knowledge of computers and networking. I&#039;d suggest that before you spend any money, speak to someone who knows what they are doing and can have a look at your laptop to set it up or figure out what you need.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>8963ed45af3c4bbe909ce1869e2957ddaa</UserId>
+            <UserNick>Richard D</UserNick>
+            <Date>2010-03-19 05:35:08</Date>
+            <Timestamp>1269002108</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:53:41 PDT 2010 -->

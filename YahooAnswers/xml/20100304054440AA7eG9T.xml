@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304054440AA7eG9T" type="Answered">
+    <Subject>what is twitter? thanks?</Subject>
+    <Content>is that like facebook?
+</Content>
+    <Date>2010-03-04 05:44:40</Date>
+    <Timestamp>1267710280</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304054440AA7eG9T</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2fiN5CC1aa</UserId>
+    <UserNick>♥Myan♥</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1wsp7zJcOAAECnKKbSBfzWGcLMA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Its a stupid place for twits.</ChosenAnswer>
+    <ChosenAnswererId>2ARgi1rdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sane</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267714262</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267748087</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>its a place to stalk celebrities.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0H1U7ek7aa</UserId>
+            <UserNick>Kung Fu Panda</UserNick>
+            <Date>2010-03-04 05:46:22</Date>
+            <Timestamp>1267710382</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Twitter feels like coffee after the service at church where many people are gathered but the conversation is often passing and brief. Don&#039;t get me wrong, I have taken many of those brief conversations on Twitter offline and have formed incredible relationships.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>9ZjAd7SDaa</UserId>
+            <UserNick>Micheal</UserNick>
+            <Date>2010-03-04 05:50:47</Date>
+            <Timestamp>1267710647</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>no. It&#039;s a mini blogging site where you write up to 140 characters about what you&#039;re doing/feeling that very second and people for some reason subscribe to it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DOwIbRaDaa</UserId>
+            <UserNick>Dr. TJ</UserNick>
+            <Date>2010-03-04 05:51:07</Date>
+            <Timestamp>1267710667</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Its a stupid place for twits.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>2ARgi1rdaa</UserId>
+            <UserNick>Sane</UserNick>
+            <Date>2010-03-04 06:51:02</Date>
+            <Timestamp>1267714262</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:12:08 PDT 2010 -->

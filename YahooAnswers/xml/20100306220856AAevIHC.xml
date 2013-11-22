@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306220856AAevIHC" type="Answered">
+    <Subject>What would be a good blog name?</Subject>
+    <Content>My name is Emily.
+</Content>
+    <Date>2010-03-06 22:08:56</Date>
+    <Timestamp>1267942136</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306220856AAevIHC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Jb2zU5k8aa</UserId>
+    <UserNick>Em</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1i-6TiSVUAAEC-gFlQA2vYVuTrtIF.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It really depend on what your blog is going to be about. If its going to be a simple journal of your daily life, you could go with names like emilys journal or something like that. Of course you have to consider domain availabilities too, specially if your going to have your own unique domain name. 
+I myself have a couple of blogs for different reasons, and of course for each a name that resemble the topic of the blog.
+I hope it helps.</ChosenAnswer>
+    <ChosenAnswererId>ieIFtYYwaa</ChosenAnswererId>
+    <ChosenAnswererNick>Satrap</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267942879</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268025894</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>enduring emily</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eXL3WayHaa</UserId>
+            <UserNick>T.R.</UserNick>
+            <Date>2010-03-06 22:12:57</Date>
+            <Timestamp>1267942377</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It really depend on what your blog is going to be about. If its going to be a simple journal of your daily life, you could go with names like emilys journal or something like that. Of course you have to consider domain availabilities too, specially if your going to have your own unique domain name. 
+I myself have a couple of blogs for different reasons, and of course for each a name that resemble the topic of the blog.
+I hope it helps.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>ieIFtYYwaa</UserId>
+            <UserNick>Satrap</UserNick>
+            <Date>2010-03-06 22:21:19</Date>
+            <Timestamp>1267942879</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:43:22 PDT 2010 -->

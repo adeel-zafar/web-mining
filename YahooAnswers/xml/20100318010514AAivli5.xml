@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318010514AAivli5" type="Answered">
+    <Subject>Why do I always have to refresh my web pages for updated page?</Subject>
+    <Content>I have Windows Vista and lately I have to clik on refresh to get the updated page. Even in Ebay I have to refresh old pages whether I log on using favorites or use the web bar. Even when i reboot, I log into yahoo and have to refresh the page every time. I don&#039;t remember changing any configuration.
+</Content>
+    <Date>2010-03-18 01:05:14</Date>
+    <Timestamp>1268899514</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318010514AAivli5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10346117</UserId>
+    <UserNick>americanmalearlington</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1PEpKIxMkAAEDQWEo8AhywT4A.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i think that your browser is set to cache web pages, you can set the browser to always load the page from scratch. i think that browsers are set to load cached pages to speed up browsing, so if you have already been to a web page it does not have to load all the files again every time. most sites are only updated every few days anyway, so it would normally not effect you.</ChosenAnswer>
+    <ChosenAnswererId>XExNsGXbaa</ChosenAnswererId>
+    <ChosenAnswererNick>GEM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268900071</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269418961</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You always have to hit refresh to refresh a page, That is what the refresh button is for.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BgwTxzEFaa</UserId>
+            <UserNick>korgrue</UserNick>
+            <Date>2010-03-18 01:06:54</Date>
+            <Timestamp>1268899614</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i think that your browser is set to cache web pages, you can set the browser to always load the page from scratch. i think that browsers are set to load cached pages to speed up browsing, so if you have already been to a web page it does not have to load all the files again every time. most sites are only updated every few days anyway, so it would normally not effect you.</Content>
+            <Reference>www.fdesign.co.za</Reference>
+            <Best>5</Best>
+            <UserId>XExNsGXbaa</UserId>
+            <UserNick>GEM</UserNick>
+            <Date>2010-03-18 01:14:31</Date>
+            <Timestamp>1268900071</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:06 PDT 2010 -->

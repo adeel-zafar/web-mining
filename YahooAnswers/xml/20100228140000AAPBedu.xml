@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228140000AAPBedu" type="Answered">
+    <Subject>How do you delete links from Mozilla Firefox&#039;s toolbar on a mac?</Subject>
+    <Content>Random sites I visit sometimes just end up on my toolbar. I tried dragging them to the trash, but it doesn&#039;t work.
+</Content>
+    <Date>2010-02-28 14:00:00</Date>
+    <Timestamp>1267394400</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228140000AAPBedu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XCmU57lnaa</UserId>
+    <UserNick>&lt;33</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1VtlUsXr0AAECVUJohBPCA5kgLA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>just drag them out of the toolbar or right click on them and click delete</ChosenAnswer>
+    <ChosenAnswererId>AA10503899</ChosenAnswererId>
+    <ChosenAnswererNick>neil</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267394528</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267487234</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>just drag them out of the toolbar or right click on them and click delete</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>AA10503899</UserId>
+            <UserNick>neil</UserNick>
+            <Date>2010-02-28 14:02:08</Date>
+            <Timestamp>1267394528</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:36:55 PDT 2010 -->

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324230950AAzRjnR" type="Answered">
+    <Subject>help with internet download speed?</Subject>
+    <Content>just yesterday, I noticed that the download speed in my internet suddenly slowed down. It was around 80 to 90 kbps before and since yesterday, it changed to around 20 kbps. The internet speed is still roughly the same though. When I tried a speed test, the download speed really reduced but the upload speed remained kinda the same. What could the problem be here?
+</Content>
+    <Date>2010-03-24 23:09:50</Date>
+    <Timestamp>1269497390</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324230950AAzRjnR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6cUrFXtpaa</UserId>
+    <UserNick>WWEfanatix1005</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1GBXjxtTqAAEC_IFHiI4q64cB.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>your internet provider has overworked lines. but they will NEVER tell you this.</ChosenAnswer>
+    <ChosenAnswererId>Tsye1UAJaa</ChosenAnswererId>
+    <ChosenAnswererNick>Akmed</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269497484</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270019560</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>your internet provider has overworked lines. but they will NEVER tell you this.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Tsye1UAJaa</UserId>
+            <UserNick>Akmed</UserNick>
+            <Date>2010-03-24 23:11:24</Date>
+            <Timestamp>1269497484</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>no</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3tvtIcNoaa</UserId>
+            <UserNick>Misterio</UserNick>
+            <Date>2010-03-24 23:11:26</Date>
+            <Timestamp>1269497486</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>90 kbps sucks, you should try a new provider</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>uOMnzhanaa</UserId>
+            <UserNick>xhdiy</UserNick>
+            <Date>2010-03-24 23:15:03</Date>
+            <Timestamp>1269497703</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try using DAP</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vVh1yZ4uaa</UserId>
+            <UserNick>xeoyiz</UserNick>
+            <Date>2010-03-24 23:19:00</Date>
+            <Timestamp>1269497940</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Dear Friend,
+
+This is a problem from the side of your Internet Connection Provider (ISP). So, you need not to do anything else.
+
+From the side of you, you may boost the performance of your computer in order to tweak the downloading process. You may defrag the drives, registry, manage Windows Startups, clean Registry Broken Entries, Fre-Up Unnecessary Drive Space, etc. to boost the performance of your system.
+
+* * * *
+For more information, mail at: vikas.jnpt@yahoo.in
+* * * *</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>sp1QE9Pjaa</UserId>
+            <UserNick>Vikas</UserNick>
+            <Date>2010-03-24 23:21:00</Date>
+            <Timestamp>1269498060</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:16 PDT 2010 -->

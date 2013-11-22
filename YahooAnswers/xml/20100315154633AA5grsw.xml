@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315154633AA5grsw" type="Answered">
+    <Subject>How do I remove Firefox theme?</Subject>
+    <Content>i installed a theme fore Firefox but i don&#039;t like it anymore, but i don&#039;t know how to take it off, anyone can help thx :)
+</Content>
+    <Date>2010-03-15 15:46:33</Date>
+    <Timestamp>1268693193</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315154633AA5grsw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>r4SBEiaJaa</UserId>
+    <UserNick>SlimShadyOG</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1S7oSFEE5AAEC_OFUqA6vslvaHQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to &quot;Tools&quot; and click on &quot;Add-Ons&quot;.  Find the tab that says &quot;Themes&quot; (with a color palette and paintbrush icon on it).  From here there should be a list of all the themes you currently have installed.  You can either &quot;Disable&quot; a theme, which means your browser will no longer use the theme, but it will still be there if you want it again, or you can &quot;Uninstall&quot; it, which removes it from your browser completely.  If you uninstall and want it again, you can always reinstall it from the Firefox website :)</ChosenAnswer>
+    <ChosenAnswererId>Cap5k62Laa</ChosenAnswererId>
+    <ChosenAnswererNick>julia.rose</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268693387</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268954846</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to Tools-&gt;Addons and click on the themes tab. You&#039;ll see your list of installed themes there. There is a button to uninstall the theme.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>SuyAG7MCaa</UserId>
+            <UserNick>Ben</UserNick>
+            <Date>2010-03-15 15:48:21</Date>
+            <Timestamp>1268693301</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>tools-addons-themes, then select the &#039;default&#039; theme, it will ask you to restart firefox, click it and y0ou will be back to normal. btw i suggest using lavafox v1 blue :) very cool and interactive. also, you could just install another theme and it would immediately go to that one.</Content>
+            <Reference>I use firefox 3.7.3 alpha</Reference>
+            <Best></Best>
+            <UserId>GuH3M7rfaa</UserId>
+            <UserNick>Black</UserNick>
+            <Date>2010-03-15 15:48:50</Date>
+            <Timestamp>1268693330</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to &quot;Tools&quot; and click on &quot;Add-Ons&quot;.  Find the tab that says &quot;Themes&quot; (with a color palette and paintbrush icon on it).  From here there should be a list of all the themes you currently have installed.  You can either &quot;Disable&quot; a theme, which means your browser will no longer use the theme, but it will still be there if you want it again, or you can &quot;Uninstall&quot; it, which removes it from your browser completely.  If you uninstall and want it again, you can always reinstall it from the Firefox website :)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Cap5k62Laa</UserId>
+            <UserNick>julia.rose</UserNick>
+            <Date>2010-03-15 15:49:47</Date>
+            <Timestamp>1268693387</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>either choose a new 1 or go to tools add ons then remove personas or just disable :D hope i helped</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>wIqAXTxEaa</UserId>
+            <UserNick>jessejayd@yahoo.com</UserNick>
+            <Date>2010-03-15 15:55:40</Date>
+            <Timestamp>1268693740</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:54 PDT 2010 -->

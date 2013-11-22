@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330080847AAPcjx1" type="Answered">
+    <Subject>Anyone know any sites like craigslist or better?</Subject>
+    <Content>I need a site that is like craigslist.org - please help!
+</Content>
+    <Date>2010-03-30 08:08:47</Date>
+    <Timestamp>1269961727</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330080847AAPcjx1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TGbtTh2vaa</UserId>
+    <UserNick>Fred</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I find that www.amplezone.com is just like craigslist.org for classified ads that are free. Amplezone.com has a great simple interface, many users, and I suggest it to everyone to use it, best of all, it&#039;s free. I hope I helped!</ChosenAnswer>
+    <ChosenAnswererId>uZole0HHaa</ChosenAnswererId>
+    <ChosenAnswererNick>Shawn</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269961924</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270058943</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ebay, possibly?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WoK2LVi9aa</UserId>
+            <UserNick>Inquirer</UserNick>
+            <Date>2010-03-30 08:10:03</Date>
+            <Timestamp>1269961803</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>craigslist is likely your best bet, unless you want to look in the newspaper&#039;s advertisement section. craigslist is ideal due to the fact that it&#039;s local. ebay and amazon both are cheap and both have used products but for buying something such as a car or boat you would not want to use either.</Content>
+            <Reference>expierience</Reference>
+            <Best></Best>
+            <UserId>hm0CrLGBaa</UserId>
+            <UserNick>Grant</UserNick>
+            <Date>2010-03-30 08:11:39</Date>
+            <Timestamp>1269961899</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I find that www.amplezone.com is just like craigslist.org for classified ads that are free. Amplezone.com has a great simple interface, many users, and I suggest it to everyone to use it, best of all, it&#039;s free. I hope I helped!</Content>
+            <Reference>www.amplezone.com</Reference>
+            <Best>5</Best>
+            <UserId>uZole0HHaa</UserId>
+            <UserNick>Shawn</UserNick>
+            <Date>2010-03-30 08:12:04</Date>
+            <Timestamp>1269961924</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:22 PDT 2010 -->

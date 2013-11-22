@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324051401AAAIgQF" type="Answered">
+    <Subject>Is the new Firefox ok guys?? Should i dump the old one before installing the latest?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-24 05:14:01</Date>
+    <Timestamp>1269432841</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324051401AAAIgQF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8DlR7hmpaa</UserId>
+    <UserNick>Bonzo</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49f1f606i6a8z/R6XaJH0zdKgt41Ku8BGAslg-/3/tn48.jpg?ciAAToMB6KFJREOH</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The new FireFox is fine. Just install over the top. All automatic.</ChosenAnswer>
+    <ChosenAnswererId>1bRRODd2aa</ChosenAnswererId>
+    <ChosenAnswererNick>JA12</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269435550</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269526963</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just install over it, and the new one is great :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kBUwZb35aa</UserId>
+            <UserNick>Areal Vizier</UserNick>
+            <Date>2010-03-24 05:16:30</Date>
+            <Timestamp>1269432990</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The new FireFox is fine. Just install over the top. All automatic.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>1bRRODd2aa</UserId>
+            <UserNick>JA12</UserNick>
+            <Date>2010-03-24 05:59:10</Date>
+            <Timestamp>1269435550</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:35:52 PDT 2010 -->

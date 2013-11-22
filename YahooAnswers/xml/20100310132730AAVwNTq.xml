@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310132730AAVwNTq" type="Answered">
+    <Subject>Does the County Board Of Education know what ur doing all the time?</Subject>
+    <Content>Do they know when ur on a computer at school? (Before and after school).... Like getting past the school web filter? :/
+</Content>
+    <Date>2010-03-10 13:27:30</Date>
+    <Timestamp>1268256450</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310132730AAVwNTq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>olD2wHCSaa</UserId>
+    <UserNick>Rush</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The LAN Administrator has FULL access to all the computers logs on that Network.  The log CAN (if setup and properly configured) tell which web site any computer on that Network has visited or attempted to access, and all the e-mail sent and received by the computer. (normally Headers only).  
+
+The log will show all attempts to get around the schools filter and which computer the attempt came from.  
+
+If you are on a school computer just figure EVERYTHING you do on the computer CAN be monitored.  
+
+Reality check-- It CAN be monitored but school IT personnel have a lot more important things to do than see if a student is trying to access his/her My Space or Facebook account.   But if they have a reason to look it WILL show up.</ChosenAnswer>
+    <ChosenAnswererId>d5ff2901a10bb8c0d5e2b76c8023ba6daa</ChosenAnswererId>
+    <ChosenAnswererNick>Jerry</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268257082</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268772406</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>most schools have spyware and keyloggers on their computers.
+in other words, every keystroke you make is recorded.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tmV217YFaa</UserId>
+            <UserNick>Kyle</UserNick>
+            <Date>2010-03-10 13:35:10</Date>
+            <Timestamp>1268256910</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The LAN Administrator has FULL access to all the computers logs on that Network.  The log CAN (if setup and properly configured) tell which web site any computer on that Network has visited or attempted to access, and all the e-mail sent and received by the computer. (normally Headers only).  
+
+The log will show all attempts to get around the schools filter and which computer the attempt came from.  
+
+If you are on a school computer just figure EVERYTHING you do on the computer CAN be monitored.  
+
+Reality check-- It CAN be monitored but school IT personnel have a lot more important things to do than see if a student is trying to access his/her My Space or Facebook account.   But if they have a reason to look it WILL show up.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>d5ff2901a10bb8c0d5e2b76c8023ba6daa</UserId>
+            <UserNick>Jerry</UserNick>
+            <Date>2010-03-10 13:38:02</Date>
+            <Timestamp>1268257082</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:18:04 PDT 2010 -->

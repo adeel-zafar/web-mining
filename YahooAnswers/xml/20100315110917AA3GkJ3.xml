@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315110917AA3GkJ3" type="Answered">
+    <Subject>What is Ping.fm? I just saw someone post a status on FB using it...?</Subject>
+    <Content>I saw somebody use it once on facebook, and I&#039;m wondering what it is, and what you can do on it.
+</Content>
+    <Date>2010-03-15 11:09:17</Date>
+    <Timestamp>1268676557</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315110917AA3GkJ3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BWSWLFHbaa</UserId>
+    <UserNick>Allyson is crazy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/129gLe3i5AAEB-gFbRJeANJA2kkQUi1wT.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Ping.fm basically allows you to update all your social networking sites at once. For example if you use facebook and twitter, this site will update them both for you, however you only need to type the update once on ping.fm.
+Hope this helped.</ChosenAnswer>
+    <ChosenAnswererId>ElxC0K1Faa</ChosenAnswererId>
+    <ChosenAnswererNick>Nathan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268676738</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268876227</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Ping.fm basically allows you to update all your social networking sites at once. For example if you use facebook and twitter, this site will update them both for you, however you only need to type the update once on ping.fm.
+Hope this helped.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ElxC0K1Faa</UserId>
+            <UserNick>Nathan</UserNick>
+            <Date>2010-03-15 11:12:18</Date>
+            <Timestamp>1268676738</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:54:03 PDT 2010 -->

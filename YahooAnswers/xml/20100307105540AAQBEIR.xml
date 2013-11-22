@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307105540AAQBEIR" type="Answered">
+    <Subject>Ebay rating question. Can someone please explain?</Subject>
+    <Content>Hey I have an ebay account and have purchased 7 items with it and have received 7 positive feedback. I purchased from 3 different sellers. However the number next to my account name only says 4. Why is this? Could someone please explain how this number is calculated and what it means? I thought that that was the number of total items purchased or sold. 
+
+My ebay user name is classy_yet_crazy if you want to look it up to see what I mean.
+
+Thanks for your help everyone :)
+</Content>
+    <Date>2010-03-07 10:55:40</Date>
+    <Timestamp>1267988140</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307105540AAQBEIR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9ze6bOMYaa</UserId>
+    <UserNick>classyyetcrazy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1EXbRr48zAAMDGcJ66BhyBg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You only count 1 feedback from each Seller 
+Even if you Buy 10 items from one seller and he sends you 10 feedback, your feedback will only increase by 1</ChosenAnswer>
+    <ChosenAnswererId>efd70b1dd0c2fde5a2ce1207fb24c8ffaa</ChosenAnswererId>
+    <ChosenAnswererNick>LOTR-FAN</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268022547</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268091243</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You only count 1 feedback from each Seller 
+Even if you Buy 10 items from one seller and he sends you 10 feedback, your feedback will only increase by 1</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>efd70b1dd0c2fde5a2ce1207fb24c8ffaa</UserId>
+            <UserNick>LOTR-FAN</UserNick>
+            <Date>2010-03-07 20:29:07</Date>
+            <Timestamp>1268022547</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:39:26 PDT 2010 -->

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227234831AAgelJe" type="Answered">
+    <Subject>Can&#039;t even find wireless networks.?</Subject>
+    <Content>Alright.My iPhone, Xbox, and 3 other laptops can detect and connect wirelessly to my wireless modem. Yet one can&#039;t. I&#039;ve made sure the WLAN switch is on and indicated by a blue light. I&#039;ve even tried connecting with the ethernet cable directly to the modem but it still can&#039;t detect. Any ideas?
+</Content>
+    <Date>2010-02-27 23:48:31</Date>
+    <Timestamp>1267343311</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227234831AAgelJe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DPcaoJpKaa</UserId>
+    <UserNick>FVHS Student</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well you didn&#039;t state WHICH ONE... but i&#039;m going to assume the laptop .... lol  Any how, it&#039;s probably just the network controller is bad ( in other words your hardware adapter is bad if it&#039;s the Xbox or the Iphone ~ i believe thats low chance for those 2 ) 
+
+In the laptop if i was correct, then it&#039;s a good chance that the Onboard Wifi is bad, so you may want to get a wireless internet card and try that, but first thing i would try is uninstalling the Networking drivers then reinstalling them.. 
+
+Uninstalling Network device
+
+In windows 7 or Vista Go to the Windows button ( formerly Start button ) Right click on &quot;computer&quot; click &quot;properties&quot; then on the left click &quot;device manager&quot;  ( might say manage devices ) Find the Networking group, and expand that. Find your Network cards or w/e and Uninstall that.. reboot then reinstall ~ then hope for the best~
+
+If it IS your Xbox or Iphone... look into having the manafacturer take a look into it.</ChosenAnswer>
+    <ChosenAnswererId>uLQXJNmcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Xero</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267345626</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267416726</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well you didn&#039;t state WHICH ONE... but i&#039;m going to assume the laptop .... lol  Any how, it&#039;s probably just the network controller is bad ( in other words your hardware adapter is bad if it&#039;s the Xbox or the Iphone ~ i believe thats low chance for those 2 ) 
+
+In the laptop if i was correct, then it&#039;s a good chance that the Onboard Wifi is bad, so you may want to get a wireless internet card and try that, but first thing i would try is uninstalling the Networking drivers then reinstalling them.. 
+
+Uninstalling Network device
+
+In windows 7 or Vista Go to the Windows button ( formerly Start button ) Right click on &quot;computer&quot; click &quot;properties&quot; then on the left click &quot;device manager&quot;  ( might say manage devices ) Find the Networking group, and expand that. Find your Network cards or w/e and Uninstall that.. reboot then reinstall ~ then hope for the best~
+
+If it IS your Xbox or Iphone... look into having the manafacturer take a look into it.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>uLQXJNmcaa</UserId>
+            <UserNick>Xero</UserNick>
+            <Date>2010-02-28 00:27:06</Date>
+            <Timestamp>1267345626</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:40:29 PDT 2010 -->

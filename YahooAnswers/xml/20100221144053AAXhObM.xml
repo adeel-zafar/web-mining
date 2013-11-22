@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221144053AAXhObM" type="Answered">
+    <Subject>Virus from music transferred or no?</Subject>
+    <Content>if i download music off the internet that contains a virus and then put it in itunes and and then on the home sharing i send the music to a different computer, will the virus be transferred as well or is the virus just in the computer you downloaded the music to?
+</Content>
+    <Date>2010-02-21 14:40:53</Date>
+    <Timestamp>1266792053</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221144053AAXhObM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>RGlMGZHHaa</UserId>
+    <UserNick>Epicentrum</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266878191</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266878414</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You will transfer the virus also. Think, man!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>c1OAu6Sjaa</UserId>
+            <UserNick>AstroBlocker</UserNick>
+            <Date>2010-02-21 14:46:34</Date>
+            <Timestamp>1266792394</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-02-22 14:36:31</Date>
+            <Timestamp>1266878191</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:33:23 PDT 2010 -->

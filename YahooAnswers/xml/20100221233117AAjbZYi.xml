@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221233117AAjbZYi" type="Answered">
+    <Subject>Chat Roulette Website Down?</Subject>
+    <Content>Anyone else having problems using www.chatroulette.com I know the site now has around 50,000 online, or has the website crashed due to high demand?
+</Content>
+    <Date>2010-02-21 23:31:17</Date>
+    <Timestamp>1266823877</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221233117AAjbZYi</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZjMg9dngaa</UserId>
+    <UserNick>Stacy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>Someone mentioned downforev... But that&#039;s a heck of a lot to type each time you want to see if a website is down.
+
+The short version is http://checkw.com/
+
+In this particular case, use the link http://checkw.com/www.chatroulette.com or go to the main page and type in www.chatroulette.com
+
+CheckW says its online now, and I can see it is up myself, so it is accurate.
+
+Good luck ;)</ChosenAnswer>
+    <ChosenAnswererId>yOvKskbNaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267072872</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267343052</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>PING says that it is up, they may possibly be doing maintenance or your comp may be screwing up.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Rj3yGIj1aa</UserId>
+            <UserNick>Jedioutcast</UserNick>
+            <Date>2010-02-21 23:39:47</Date>
+            <Timestamp>1266824387</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it was working for me like 30 mins ago now its down</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WKYbxUOtaa</UserId>
+            <UserNick>J</UserNick>
+            <Date>2010-02-21 23:39:51</Date>
+            <Timestamp>1266824391</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Down for me too.
+http://downforeveryoneorjustme.com/ confirms it&#039;s down for everyone.
+
+I have no idea why; I just found out about it and tried to see what this is. Is it down frequently?</Content>
+            <Reference>http://downforeveryoneorjustme.com/</Reference>
+            <Best></Best>
+            <UserId>gDHs3pMcaa</UserId>
+            <UserNick>Nick</UserNick>
+            <Date>2010-02-21 23:47:52</Date>
+            <Timestamp>1266824872</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yea its down today for me to it also says on the site that their replacing servers and it says it will all be fixed in 20 hours</Content>
+            <Reference>the website 
+the last line</Reference>
+            <Best></Best>
+            <UserId>t9Zd1PBdaa</UserId>
+            <UserNick>Mynameis</UserNick>
+            <Date>2010-02-22 19:06:02</Date>
+            <Timestamp>1266894362</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Someone mentioned downforev... But that&#039;s a heck of a lot to type each time you want to see if a website is down.
+
+The short version is http://checkw.com/
+
+In this particular case, use the link http://checkw.com/www.chatroulette.com or go to the main page and type in www.chatroulette.com
+
+CheckW says its online now, and I can see it is up myself, so it is accurate.
+
+Good luck ;)</Content>
+            <Reference>http://checkw.com/</Reference>
+            <Best>5</Best>
+            <UserId>yOvKskbNaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-02-24 20:41:12</Date>
+            <Timestamp>1267072872</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>65m9A5t1aa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-09 13:48:05</Date>
+            <Timestamp>1267072872</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:30:29 PDT 2010 -->

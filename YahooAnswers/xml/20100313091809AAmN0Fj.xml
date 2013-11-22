@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313091809AAmN0Fj" type="Answered">
+    <Subject>I put wrong billing address when I ordered something online?</Subject>
+    <Content>I moved and still havent changed my address (bank). I put my current address as my billing address. Will my order get canceled or something? I&#039;m not sure how to fix this.
+</Content>
+    <Date>2010-03-13 09:18:09</Date>
+    <Timestamp>1268500689</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313091809AAmN0Fj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6tIgoroYaa</UserId>
+    <UserNick>Cyborg</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1D0q2VCHDAAECB4ScTCZidcdIGTP8iw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if it was on a credit card it may be&gt;they run the card to the billing address</ChosenAnswer>
+    <ChosenAnswererId>3L5ucj1Raa</ChosenAnswererId>
+    <ChosenAnswererNick>Tony</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268500980</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268557621</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just email the co. directly &amp; explain all of this to them.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UJD2eYebaa</UserId>
+            <UserNick>jo</UserNick>
+            <Date>2010-03-13 09:20:52</Date>
+            <Timestamp>1268500852</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if it was on a credit card it may be&gt;they run the card to the billing address</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-13 09:23:00</Date>
+            <Timestamp>1268500980</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>then you best contact them and deal with it!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JuJTnZSDaa</UserId>
+            <UserNick>Dennis PC Repairs</UserNick>
+            <Date>2010-03-13 09:27:18</Date>
+            <Timestamp>1268501238</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:34 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308141445AA1pogh" type="Answered">
+    <Subject>Internet Explorer 8...how do I change new tab options?</Subject>
+    <Content>Okay, before you tell me to go to &quot;Tools, Internet Options, Tab Options&quot;, that&#039;s not what I&#039;m asking about. Okay, so in my Tab Settings, I have it set so that when I open a new tab, it opens the &quot;New Tab&quot; window. However, I somehow managed to change the &quot;New Tab&quot; window to a MyHeritage window. Yes, whenever I open a new tab, the URL says &quot;about:tabs&quot;, but it&#039;s MyHeritage themed, and I want to change it back to the one that it came with when I downloaded Internet Explorer 8. How can I change it? Thanks in advance, Rachael.
+</Content>
+    <Date>2010-03-08 14:14:45</Date>
+    <Timestamp>1268086485</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308141445AA1pogh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>HE3IIgbGaa</UserId>
+    <UserNick>Tinkerbell</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1hfBnj803AAECnGKctJRQhgn1rL0F.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Delete System32.</ChosenAnswer>
+    <ChosenAnswererId>REnHWHbTaa</ChosenAnswererId>
+    <ChosenAnswererNick>The Game</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268756495</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268948042</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Delete System32.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>REnHWHbTaa</UserId>
+            <UserNick>The Game</UserNick>
+            <Date>2010-03-16 09:21:35</Date>
+            <Timestamp>1268756495</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:30:15 PDT 2010 -->

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322023545AA06wx1" type="Answered">
+    <Subject>Spotify invite please?</Subject>
+    <Content>I would like to start using Spotify, but no one i now has any invites, so if someone has a spare invite may i please have the code.
+Thanks
+Send the code to jamiemorgan545@yahoo.com
+</Content>
+    <Date>2010-03-22 02:35:45</Date>
+    <Timestamp>1269250545</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322023545AA06wx1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2t8P1PNiaa</UserId>
+    <UserNick>Jamie M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi
+try this similar site: http://www.tv243.com</ChosenAnswer>
+    <ChosenAnswererId>ugFRu9pOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tiago</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269346228</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269769978</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Jane Fonda.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TRLMIgrEaa</UserId>
+            <UserNick>kinamyen</UserNick>
+            <Date>2010-03-22 02:37:58</Date>
+            <Timestamp>1269250678</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi
+try this similar site: http://www.tv243.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ugFRu9pOaa</UserId>
+            <UserNick>Tiago</UserNick>
+            <Date>2010-03-23 05:10:28</Date>
+            <Timestamp>1269346228</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:24:18 PDT 2010 -->

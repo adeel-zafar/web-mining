@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223200243AA6gNmC" type="Answered">
+    <Subject>Cannnot browse specifics internet sites?</Subject>
+    <Content>hi, i have a Macbook Pro, and im having problems with the internet. It happens that there are -some- internet pages that my computer doesn´t load, but most of them it does. It has nothing to do with the browser that i use, ´cause it happens with both, safari and firefox. Does anybody can help me pleaaseeee???? what should i do??? thanx a lot!! stefi
+thanx Alexander for your answer. But my roommate has the same computer and he has no problems with that. And my problems started a par weeks ago. So it doesn´t help me much what you´r saying. But thanx anyway!
+thanx, But it looks that its just me!!! And its off  a lot sites that i cant visit!! 
+What can i do?!?!?
+Thanx Balakrishnan!!! It shows me this message, for example with this page
+Safari can’t open the page “http://www.ficg.mx/” because Safari can’t connect to the server “www.ficg.mx”.
+
+Im living in Mexico, and i cant open some mexican pages too. I dont why. I think it has to be something with the setup, cause like i said, my roommate can open everything without problems (with the same computer model, the same browser, etc), and i cant. 
+Where should i look in the setups? because i´ve tried but i cant find the problem. thanx again!!
+</Content>
+    <Date>2010-02-23 20:02:43</Date>
+    <Timestamp>1266984163</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223200243AA6gNmC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XrByomWFaa</UserId>
+    <UserNick>china girl</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1Nm_9y4X7AAECOqEr4Ack4TIA.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try to use some kind of antifilters, such as Ultrasurf (www.ultrasearch.com). 
+
+Download it free and install it. Then go to your Internet Explorer and try to visit the mentioned web sites.
+
+If the problem got sold, then you can use 127.0.0.1 (for IP) and 9666 (for port) in the Proxy settings on other browsers ( eg. firefox and .. ).
+
+Good Luck</ChosenAnswer>
+    <ChosenAnswererId>JLr3UcEHaa</ChosenAnswererId>
+    <ChosenAnswererNick>MS</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266999746</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267066067</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This is all part of Steve Job&#039;s plan. It has started with only being able to use apple programs with apple products (iTunes). Eventually all Macs will only be able to access apple.com, but only if you use safari, some new apple internet service, from your apple made home.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XHJcZA51aa</UserId>
+            <UserNick>Alexander</UserNick>
+            <Date>2010-02-23 20:08:12</Date>
+            <Timestamp>1266984492</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Believe it or not, the site could actually be down.  You can check that hypothesis here.
+http://downforeveryoneorjustme.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>j5ChRhX2aa</UserId>
+            <UserNick>Yahoo! Answerer</UserNick>
+            <Date>2010-02-23 20:18:14</Date>
+            <Timestamp>1266985094</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Which websites fail to load? Do you get any error messages or is it just a blank page?
+It could be any number of reasons, like maybe you need some plugin or extension like java or flash for the site to work, or it might be a webpage coded to work only with Internet Explorer(though such sites are relatively rare now). You could try to access the pages from a different computer/OS, using Firefox/IE so that you can rule out if something is wrong with your Macbook Pro setup.
+
+Other possibilities:
+Perhaps the sites are no longer operational. There are also websites that check your IP address and block requests from certain countries due to issues like copyright concerns. If you&#039;re in Australia or China or Iran, the relevant pages may be blocked by your ISP as part of government mandated internet censorship; certain sites are blocked by some ISPs in the UK as per recommendations by the Internet Watch Foundation, usually if suspected of containing material the IWF considers child pornography. In Australia, the labor government is determined to totally censor the internet(apparently they admire the Chinese model), but I don&#039;t know for sure to what extent these plans have been implemented at present.
+In most of these cases you ought to get an error message though or be redirected to a page with the info that the site is blocked, though I think in Australia silent blocking is planned, the list of banned sites is secret and you just won&#039;t be able to access the site.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ws57WaQgaa</UserId>
+            <UserNick>Balakrishnan</UserNick>
+            <Date>2010-02-23 20:37:37</Date>
+            <Timestamp>1266986257</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try to use some kind of antifilters, such as Ultrasurf (www.ultrasearch.com). 
+
+Download it free and install it. Then go to your Internet Explorer and try to visit the mentioned web sites.
+
+If the problem got sold, then you can use 127.0.0.1 (for IP) and 9666 (for port) in the Proxy settings on other browsers ( eg. firefox and .. ).
+
+Good Luck</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JLr3UcEHaa</UserId>
+            <UserNick>MS</UserNick>
+            <Date>2010-02-24 00:22:26</Date>
+            <Timestamp>1266999746</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:16:48 PDT 2010 -->

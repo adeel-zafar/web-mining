@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313060438AAoLGg7" type="Answered">
+    <Subject>how to change home page in opera 10?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-13 06:04:38</Date>
+    <Timestamp>1268489078</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313060438AAoLGg7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IYygs5J4aa</UserId>
+    <UserNick>ram k</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>To change the default homepage in your Opera, first click on the Tools tab at the top of the Opera browser. Then navigate to and click on the &#039;Preferences&#039; link from.....read more at: http://forums.techarena.in/technology-internet/1171851.htm</ChosenAnswer>
+    <ChosenAnswererId>xxQ9yH1vaa</ChosenAnswererId>
+    <ChosenAnswererNick>Amol</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268492865</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269004988</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go to TOOLS&gt;Preference or ctrl+F12
+there will a box named home page. wright there what u want.
+will change ur hame page.
+(Indian)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>nnkjQEL1aa</UserId>
+            <UserNick>Sunil Shukla.</UserNick>
+            <Date>2010-03-13 06:21:51</Date>
+            <Timestamp>1268490111</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>To change the default homepage in your Opera, first click on the Tools tab at the top of the Opera browser. Then navigate to and click on the &#039;Preferences&#039; link from.....read more at: http://forums.techarena.in/technology-internet/1171851.htm</Content>
+            <Reference>http://forums.techarena.in</Reference>
+            <Best>5</Best>
+            <UserId>xxQ9yH1vaa</UserId>
+            <UserNick>Amol</UserNick>
+            <Date>2010-03-13 07:07:45</Date>
+            <Timestamp>1268492865</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:05:03 PDT 2010 -->

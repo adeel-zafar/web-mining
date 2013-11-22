@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314134316AApCF4o" type="Answered">
+    <Subject>why can&#039;t I load some sites?! 5 stars asap today!?</Subject>
+    <Content>So I have the crappy Verizon DSL connection. It&#039;s raining in my area but I asked my neighbor friends if their DSL works and they said theirs was fine.
+
+Some sites won&#039;t load for me like Yahoo! mail, Twitter, etc. Facebook, my search engine, and other sites works for me though. Its like 50% working, the other 50% doesn&#039;t. AIM works fine.
+
+what is wrong?
+I scanned my PC for viruses, there&#039;s nothing wrong.
+I tested my connection, it seems fine.
+
+I am using windows XP, using mozilla firefox. I tested windows IE and it doesn&#039;t load the same pages either. I cleared cookies, cache, etc. My firewall is on. I turned it off to see if anything changes, nothing did.
+
+is my computer the problem, or my internet?
+</Content>
+    <Date>2010-03-14 13:43:16</Date>
+    <Timestamp>1268599396</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314134316AApCF4o</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>62oGpC87aa</UserId>
+    <UserNick>obsession</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1rIuEdWdmAAECXqGbCJ87Ru4-KA==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Sometimes it appears that acomputer will especially act up in the rain. I have found that you can reset the Network.
+Shut your computer clear OFF
+Pull the power adapter from both the MODEM and the ROUTER.
+Wait like 5 minutes and then Plug in the Modem and wait at least 1 minute.
+Now Plug in the ROUTER and wait 1 minute.
+Now you can restart your computer. Be sure you let the computer boot all the way up and now give it a whirl.</ChosenAnswer>
+    <ChosenAnswererId>zGkqGZzYaa</ChosenAnswererId>
+    <ChosenAnswererNick>Don M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268602090</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268684481</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sometimes it appears that acomputer will especially act up in the rain. I have found that you can reset the Network.
+Shut your computer clear OFF
+Pull the power adapter from both the MODEM and the ROUTER.
+Wait like 5 minutes and then Plug in the Modem and wait at least 1 minute.
+Now Plug in the ROUTER and wait 1 minute.
+Now you can restart your computer. Be sure you let the computer boot all the way up and now give it a whirl.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>zGkqGZzYaa</UserId>
+            <UserNick>Don M</UserNick>
+            <Date>2010-03-14 14:28:10</Date>
+            <Timestamp>1268602090</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I would recommend you to call verizon because the problem may be with the service, it looks like its disconnecting you from the internet, they have a couple tests that can determine if you are getting a stable connection.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Gbfg5GNyaa</UserId>
+            <UserNick>omarpasos</UserNick>
+            <Date>2010-03-14 21:39:40</Date>
+            <Timestamp>1268627980</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:58:26 PDT 2010 -->

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307181047AAKdKtr" type="Answered">
+    <Subject>current status of the internet: connection between continents?</Subject>
+    <Content>hi people,
+please can someone help me with information about current status of the internet: connection between continents. And also a website or websites that i can get more information about my topic.
+thankz
+</Content>
+    <Date>2010-03-07 18:10:47</Date>
+    <Timestamp>1268014247</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307181047AAKdKtr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rhAkMZLJaa</UserId>
+    <UserNick>Al_amin</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1Hok9DeZaAAECPwEr8AceAQ==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The intercontinental Internet connections are known as the first tier of the internet. ISPs are part of the second and third tier.
+
+For more information, wikipedia is always a great place to go. If you&#039;re not allowed to cite wikipedia just cite the articles it links to.
+
+http://en.wikipedia.org/wiki/Tier_1_network</ChosenAnswer>
+    <ChosenAnswererId>sn4jriJAaa</ChosenAnswererId>
+    <ChosenAnswererNick>CycloneTH</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268014513</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268076399</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Seems to be working ok.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dZ2YhY1Gaa</UserId>
+            <UserNick>BatMasterMan</UserNick>
+            <Date>2010-03-07 18:11:48</Date>
+            <Timestamp>1268014308</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The intercontinental Internet connections are known as the first tier of the internet. ISPs are part of the second and third tier.
+
+For more information, wikipedia is always a great place to go. If you&#039;re not allowed to cite wikipedia just cite the articles it links to.
+
+http://en.wikipedia.org/wiki/Tier_1_network</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>sn4jriJAaa</UserId>
+            <UserNick>CycloneTH</UserNick>
+            <Date>2010-03-07 18:15:13</Date>
+            <Timestamp>1268014513</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:36:29 PDT 2010 -->

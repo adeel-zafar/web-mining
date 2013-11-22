@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302184154AAiZRzP" type="Answered">
+    <Subject>Paypal Purchasing, and eBay?</Subject>
+    <Content>I&#039;m a person that has always used Amazon and only amazon, but apparently I can only find what I currently want on eBay. I have no checking account or a credit card so I can&#039;t verify. But I do online surveys that pay me via paypal. Can I purchase something through eBay without a verified Paypal? And can I be payed via paypal if it isn&#039;t verified, because I haven&#039;t cashed out yet.
+</Content>
+    <Date>2010-03-02 18:41:54</Date>
+    <Timestamp>1267584114</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302184154AAiZRzP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LE1VH8dRaa</UserId>
+    <UserNick>Phillip</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No, it must be verified.</ChosenAnswer>
+    <ChosenAnswererId>t6za3RSsaa</ChosenAnswererId>
+    <ChosenAnswererNick>OMN0MNOMM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267584270</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267664000</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, it must be verified.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>t6za3RSsaa</UserId>
+            <UserNick>OMN0MNOMM</UserNick>
+            <Date>2010-03-02 18:44:30</Date>
+            <Timestamp>1267584270</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:23:01 PDT 2010 -->

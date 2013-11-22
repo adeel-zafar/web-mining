@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316221650AA6G2he" type="Answered">
+    <Subject>do you HAVE to have paypal account to send money?</Subject>
+    <Content>do i need to sign up for their service, or can i just send someone money using a card?
+how do you go about sending money then (if its possible) and NOT signing up
+</Content>
+    <Date>2010-03-16 22:16:50</Date>
+    <Timestamp>1268803010</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316221650AA6G2he</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>f99338e6b9f8de19770ed896871ef4ffaa</UserId>
+    <UserNick>collaredfairy0304</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b6707fbi169bzul6re4/sCMPbb8ydKol7eL9RpuLCeLAK5.P7I1m7A--/104/tn48.jpg?ciAAToMBUsQn36HO</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No you dont have to have an account but if you are buying off ebay for example, most sellers only accept credit/debit cards through paypal.  Only a small amount of sellers can accept direct card payments.
+Other sites might be different. You only need their paypal email address to send money.
+
+See https://cms.paypal.com/us/cgi-bin/?cmd=_render-content&amp;content_ID=marketing_us/send_money
+all you need is their email address.</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268812887</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269668043</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You should register with them and they will verify your card details. Then only you can send money. But if you have some balance in your paypal account you can send them without using your card.</Content>
+            <Reference>http://www.lk-tech.blogspot.com/</Reference>
+            <Best></Best>
+            <UserId>MjHTDbRQaa</UserId>
+            <UserNick>Elecsl</UserNick>
+            <Date>2010-03-16 22:51:18</Date>
+            <Timestamp>1268805078</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No you dont have to have an account but if you are buying off ebay for example, most sellers only accept credit/debit cards through paypal.  Only a small amount of sellers can accept direct card payments.
+Other sites might be different. You only need their paypal email address to send money.
+
+See https://cms.paypal.com/us/cgi-bin/?cmd=_render-content&amp;content_ID=marketing_us/send_money
+all you need is their email address.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-17 01:01:27</Date>
+            <Timestamp>1268812887</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:46:10 PDT 2010 -->

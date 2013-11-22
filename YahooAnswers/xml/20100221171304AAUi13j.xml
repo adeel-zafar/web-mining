@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221171304AAUi13j" type="Answered">
+    <Subject>How do I stop word from opening when I click on a link in an email that should open with INTERNET explorer?</Subject>
+    <Content>I am running incredmail 2. When I try to open a link that should take me direct to a web site, it opens in Word insted. I have been using incredimail XE for years and never had this problem till it upgraded to incredmail 2. Can some one please help me?
+</Content>
+    <Date>2010-02-21 17:13:04</Date>
+    <Timestamp>1266801184</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221171304AAUi13j</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BlfNuuzMaa</UserId>
+    <UserNick>BabyCakes</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/18BPBK1K5AAEDDCJs_A3aQT3CCXUC.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Strange. This shouldn&#039;t be an Incredimail problem at all.  The decision about what program to call to open a link should be made by the operating system, not Incredimail.  Try this:
+
+In Windows XP:
+
+1.Click on the Start-&gt;Control Panel menu item.
+2.Click on Add or Remove Programs.
+3.At the bottom of the left-hand list, click Set Program Access and Defaults.  (Because Add or Remove is searching for installed programs, this may not take effect immediately.)
+4.Click the Custom radio button.
+5.Click Internet Explorer as the default Web browser.
+6.Click OK.
+
+In Vista:
+
+1.Click Windows button-&gt;Default Programs.
+2.Click Set Your Default Programs.
+3.Select IE.
+4.Click Set this program as Default.
+5.Also click choose defaults for this program and make sure they’re all checked for your browser.
+6.Click Save.
+
+That should do it.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266801642</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266955048</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Strange. This shouldn&#039;t be an Incredimail problem at all.  The decision about what program to call to open a link should be made by the operating system, not Incredimail.  Try this:
+
+In Windows XP:
+
+1.Click on the Start-&gt;Control Panel menu item.
+2.Click on Add or Remove Programs.
+3.At the bottom of the left-hand list, click Set Program Access and Defaults.  (Because Add or Remove is searching for installed programs, this may not take effect immediately.)
+4.Click the Custom radio button.
+5.Click Internet Explorer as the default Web browser.
+6.Click OK.
+
+In Vista:
+
+1.Click Windows button-&gt;Default Programs.
+2.Click Set Your Default Programs.
+3.Select IE.
+4.Click Set this program as Default.
+5.Also click choose defaults for this program and make sure they’re all checked for your browser.
+6.Click Save.
+
+That should do it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-02-21 17:20:42</Date>
+            <Timestamp>1266801642</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:32:31 PDT 2010 -->

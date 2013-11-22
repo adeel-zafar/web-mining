@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314080315AAU2tJB" type="Answered">
+    <Subject>can anyone tell me what code 107 class 2 means?</Subject>
+    <Content>i have a virgin mobile phone and everytime i try to send a text message it says delivery failed and the code for the failure is 107 and the class is 2.
+</Content>
+    <Date>2010-03-14 08:03:15</Date>
+    <Timestamp>1268578995</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314080315AAU2tJB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>xutRX8Boaa</UserId>
+    <UserNick>Jackkie K</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1-YWaPaDcAAIB9IHFhLL8O4AB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>SMS Error 107 is a general purpose error.
+In human language it means &quot;Could not send text within the set time&quot;.
+
+Try changing the timeout of your SMS messages if you have that under settings, make sure you are using the full telephone number and try sending short texts (only a couple of words) to test which one might be the problem.
+
+If this persists then take the phone back to Virgin Media as it may have been flashed wrong before being released for sale/contract to the public.</ChosenAnswer>
+    <ChosenAnswererId>qeH4rOH9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Daryl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268579421</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269800572</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>SMS Error 107 is a general purpose error.
+In human language it means &quot;Could not send text within the set time&quot;.
+
+Try changing the timeout of your SMS messages if you have that under settings, make sure you are using the full telephone number and try sending short texts (only a couple of words) to test which one might be the problem.
+
+If this persists then take the phone back to Virgin Media as it may have been flashed wrong before being released for sale/contract to the public.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qeH4rOH9aa</UserId>
+            <UserNick>Daryl</UserNick>
+            <Date>2010-03-14 08:10:21</Date>
+            <Timestamp>1268579421</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:59:56 PDT 2010 -->

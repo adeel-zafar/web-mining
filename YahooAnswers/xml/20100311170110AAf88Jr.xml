@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311170110AAf88Jr" type="Answered">
+    <Subject>Ok so today i was on 4chan and saw this post:?</Subject>
+    <Content>www {dot} chan-exposed {dot} ph {dot} tc
+i went to the site and it did some java stuff then said all of this
+
+Java Plug-in 1.6.0_18
+Using JRE version 1.6.0_18-b07 Java HotSpot(TM) Client VM
+User home directory = C:\Users\jibbarousseau
+----------------------------------------------------
+c:   clear console window
+f:   finalize objects on finalization queue
+g:   garbage collect
+h:   display this help message
+l:   dump classloader list
+m:   print memory usage
+o:   trigger logging
+q:   hide console
+r:   reload policy configuration
+s:   dump system and deployment properties
+t:   dump thread list
+v:   dump thread stack
+x:   clear classloader cache
+0-5: set trace level to &lt;n&gt;
+----------------------------------------------------
+
+
+java.security.AccessControlException: access denied (java.io.FilePermission &lt;&lt;ALL FILES&gt;&gt; execute)
+at java.security.AccessControlContext.checkPermission(Unknown Source)
+at java.security.AccessController.checkPermission(Unknown Source)
+at java.lang.SecurityManager.checkPermission(Unknown Source)
+at java.lang.SecurityManager.checkExec(Unknown Source)
+at java.lang.ProcessBuilder.start(Unknown Source)
+at java.lang.Runtime.exec(Unknown Source)
+at java.lang.Runtime.exec(Unknown Source)
+at java.lang.Runtime.exec(Unknown Source)
+at Client.init(Client.java:26)
+at sun.plugin2.applet.Plugin2Manager$AppletExecutionRunnable.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+Exception: java.security.AccessControlException: access denied (java.io.FilePermission &lt;&lt;ALL FILES&gt;&gt; execute)
+
+
+now i have no idea what might have happened but can someone please tell me if I have a virus on my comp or not?
+</Content>
+    <Date>2010-03-11 17:01:10</Date>
+    <Timestamp>1268355670</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311170110AAf88Jr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AInAhJx5aa</UserId>
+    <UserNick>Dave</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it&#039;s from anontalk, it contains CP and sends your IP address to the authorities. the owner of anontalk is trying to be 1337H4Xx0r and get anonymous V&amp; left and right. i seriously suggest you get it out of your system, as this isn&#039;t the first time this has been poasted and there are rumors of it doing it&#039;s job quite well in the past. ask around on the boards where you first saw it and hope someone can help</ChosenAnswer>
+    <ChosenAnswererId>U4Ce24B2aa</ChosenAnswererId>
+    <ChosenAnswererNick>koddono</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268388607</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268871402</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you were stupid enough to actually go to a link on 4Chan, you deserve any virus you may have received.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-11 17:02:00</Date>
+            <Timestamp>1268355720</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No. It&#039;s not a virus.
+
+Don&#039;t click random links.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>hi72pocRaa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-11 17:04:46</Date>
+            <Timestamp>1268355886</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it&#039;s from anontalk, it contains CP and sends your IP address to the authorities. the owner of anontalk is trying to be 1337H4Xx0r and get anonymous V&amp; left and right. i seriously suggest you get it out of your system, as this isn&#039;t the first time this has been poasted and there are rumors of it doing it&#039;s job quite well in the past. ask around on the boards where you first saw it and hope someone can help</Content>
+            <Reference>past experience.</Reference>
+            <Best>5</Best>
+            <UserId>U4Ce24B2aa</UserId>
+            <UserNick>koddono</UserNick>
+            <Date>2010-03-12 02:10:07</Date>
+            <Timestamp>1268388607</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:12:37 PDT 2010 -->

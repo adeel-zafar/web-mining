@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305182617AAfFZdB" type="Answered">
+    <Subject>URL doesn&#039;t work in firefox?</Subject>
+    <Content>My URL bar no longer works in firefox. When I type in a URL or select one of the saved sites nothing happens. My web connection is fine, I tried downloading the latest version (3.5.8) but no luck.
+Please help!
+thx
+</Content>
+    <Date>2010-03-05 18:26:17</Date>
+    <Timestamp>1267842377</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305182617AAfFZdB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zFdKArX3aa</UserId>
+    <UserNick>Bob</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>3.6 is the latest version of Firefox. Try clearing ALL history.
+If that doesn&#039;t work, find the preferences file for Firefox and trash it, when Firefox is started again it will make a new preferences file.</ChosenAnswer>
+    <ChosenAnswererId>gQnsT9cRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bruce</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267842788</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268361837</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You have a proxy server enabled in the firefox settings. go to tools, options, advanced, network, settings, then NO PROXY..</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11487401</UserId>
+            <UserNick>sivart7555</UserNick>
+            <Date>2010-03-05 18:31:17</Date>
+            <Timestamp>1267842677</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>3.6 is the latest version of Firefox. Try clearing ALL history.
+If that doesn&#039;t work, find the preferences file for Firefox and trash it, when Firefox is started again it will make a new preferences file.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gQnsT9cRaa</UserId>
+            <UserNick>Bruce</UserNick>
+            <Date>2010-03-05 18:33:08</Date>
+            <Timestamp>1267842788</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:53:29 PDT 2010 -->

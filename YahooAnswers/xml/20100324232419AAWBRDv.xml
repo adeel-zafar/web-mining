@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324232419AAWBRDv" type="Answered">
+    <Subject>Do I need to pay the outstanding amount for domain registration?</Subject>
+    <Content>Hi I have registered a domain name in one.com for $15. This company belongs to Europe. I have not used that domain afterwards. Next year they sent a post to my address and sent a mail that your outstanding amount is $43.In terms &amp; conditions they specified like you have to send the cancellation request. Will it cause any major legal issues if I don&#039;t care about this. Need help please.
+</Content>
+    <Date>2010-03-24 23:24:19</Date>
+    <Timestamp>1269498259</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324232419AAWBRDv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UEbkveClaa</UserId>
+    <UserNick>karthik k</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1QzL01j8pAAACQ4E_8IhVLIsB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it seems you&#039;ve been conned. Just send the cancellation request. It will be hard to avoid legal issues if you signed some kind of agreement. Or find a lawyer.</ChosenAnswer>
+    <ChosenAnswererId>3194720718c34e49926eec95b597d357aa</ChosenAnswererId>
+    <ChosenAnswererNick>Airgetlam nodurchi</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269498442</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270017797</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it seems you&#039;ve been conned. Just send the cancellation request. It will be hard to avoid legal issues if you signed some kind of agreement. Or find a lawyer.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>3194720718c34e49926eec95b597d357aa</UserId>
+            <UserNick>Airgetlam nodurchi</UserNick>
+            <Date>2010-03-24 23:27:22</Date>
+            <Timestamp>1269498442</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Cancel your account and register your domain with http://www.goldpuma.com or http://www.godaddy.com. Both are cheap and reliable services.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kNeMexGMaa</UserId>
+            <UserNick>David M</UserNick>
+            <Date>2010-03-25 08:01:38</Date>
+            <Timestamp>1269529298</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:12 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320200353AA4DJ9w" type="Answered">
+    <Subject>on eBay, why are there so many accounts that go like i**o?</Subject>
+    <Content>i notice a few people whose account names are: k***o or h***s, it just has those stars in the middle.  are those accounts trustworthy?
+</Content>
+    <Date>2010-03-20 20:03:53</Date>
+    <Timestamp>1269140633</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320200353AA4DJ9w</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lSxQxKiraa</UserId>
+    <UserNick>show</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1LrDpbXKuAAEEWOFVoI1yklvK0igD.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>All ebay members have their user ids hidden when they are bidding on any auction.  Yours will be hidden to others if they were to view the bidding history. Only ebay staff &amp; the seller can see the user ids.  So yes they are trustworthy.
+For example say my ebay user id is fourleafclover, ebay will take 2 random letters from my user name say the letter f &amp; v so everyone else will see f***v.</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269141703</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269200717</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>ebay has allowed users to hide part of their username with *** to allow userneames to be kept private I personally would not buy from someone who has hid their username like this but you can always look at what kind of feedback they have received from other users</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8d9a312a1879f4d1b071c654ed5a108baa</UserId>
+            <UserNick>AARON M</UserNick>
+            <Date>2010-03-20 20:09:33</Date>
+            <Timestamp>1269140973</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>All ebay members have their user ids hidden when they are bidding on any auction.  Yours will be hidden to others if they were to view the bidding history. Only ebay staff &amp; the seller can see the user ids.  So yes they are trustworthy.
+For example say my ebay user id is fourleafclover, ebay will take 2 random letters from my user name say the letter f &amp; v so everyone else will see f***v.</Content>
+            <Reference>ebay buyer &amp; seller</Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-20 20:21:43</Date>
+            <Timestamp>1269141703</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:18 PDT 2010 -->

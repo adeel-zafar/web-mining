@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306122708AAKi2U7" type="Answered">
+    <Subject>Firefox wont open for me?</Subject>
+    <Content>Whenever I try to open Firefox it says &quot;Firefox is already running, but is not responding. To open a new window, you must first close the existing Firefox process, or restart your system.&quot; 
+Firefox isn&#039;t open, and I don&#039;t see why that matters anyway as you can have multiple windows open...
+I have tried going to Processes on Task Manager and trying to end any firefox related processes, but there wasn&#039;t anything there anyway.
+What can I do? I&#039;m using SeaMonkey at the moment and it&#039;s awful (mainly because who likes change??)
+I have tried re-starting my computer.
+</Content>
+    <Date>2010-03-06 12:27:08</Date>
+    <Timestamp>1267907228</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306122708AAKi2U7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rQEJATQgaa</UserId>
+    <UserNick>lcjj7</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Do a barrel roll</ChosenAnswer>
+    <ChosenAnswererId>e5ea1441af58fc140a14780db43063a4aa</ChosenAnswererId>
+    <ChosenAnswererNick>Hodgie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267920985</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267923083</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>restart your computer?
+works for me :0</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kjW577RLaa</UserId>
+            <UserNick>juice</UserNick>
+            <Date>2010-03-06 12:28:47</Date>
+            <Timestamp>1267907327</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This happens to me all the time, try logging off thn on again, and if it doesnt work restart ur comp!! :)
+
+
+someone answer mine?? http://answers.yahoo.com/question/index;_ylt=Amu72hVOmL5HSND5CSZXHwDsy6IX;_ylv=3?qid=20100306120918AATwxN5</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>57boyBi2aa</UserId>
+            <UserNick>No</UserNick>
+            <Date>2010-03-06 12:31:30</Date>
+            <Timestamp>1267907490</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you just try again. or restart your computer. it happens all the time to me (:</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YClqEldoaa</UserId>
+            <UserNick>♥Alb Nutty♥</UserNick>
+            <Date>2010-03-06 12:31:49</Date>
+            <Timestamp>1267907509</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Do a barrel roll</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>e5ea1441af58fc140a14780db43063a4aa</UserId>
+            <UserNick>Hodgie</UserNick>
+            <Date>2010-03-06 16:16:25</Date>
+            <Timestamp>1267920985</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:47:11 PDT 2010 -->

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327193134AAJKDSI" type="Answered">
+    <Subject>my browser keeps going to webresults6.org?</Subject>
+    <Content>every time i do a Google search and click on one of the links my browser will go to webresults6.org instead of the page its supposed to...it works fine if i type the website in the address bar and only does it if i try to search something in a search engine then try to click on one of the results.
+oh yea it is also a fresh install of windows XP professional
+and this happens on all my browsers...firefox, IE, Opera, and google chrome
+</Content>
+    <Date>2010-03-27 19:31:34</Date>
+    <Timestamp>1269743494</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327193134AAJKDSI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>jDPhSD6Baa</UserId>
+    <UserNick>tmore615</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Scan for malware with free of this. http://www.malwarebytes.org/mbam.php
+Update it,, run quick scan,, remove all detected.. restart.. ~</ChosenAnswer>
+    <ChosenAnswererId>ssue3clzaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jasper M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269743646</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270262717</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>its probably a virus meant to draw more hits and more money to their website</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>crR29mRoaa</UserId>
+            <UserNick>Macintosh HD</UserNick>
+            <Date>2010-03-27 19:33:29</Date>
+            <Timestamp>1269743609</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>reset your browser&#039;s cache? That&#039;s how I fixed a similar problem on mine.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BQmXfJt8aa</UserId>
+            <UserNick>Teddy P</UserNick>
+            <Date>2010-03-27 19:33:54</Date>
+            <Timestamp>1269743634</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Scan for malware with free of this. http://www.malwarebytes.org/mbam.php
+Update it,, run quick scan,, remove all detected.. restart.. ~</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ssue3clzaa</UserId>
+            <UserNick>Jasper M</UserNick>
+            <Date>2010-03-27 19:34:06</Date>
+            <Timestamp>1269743646</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:21 PDT 2010 -->

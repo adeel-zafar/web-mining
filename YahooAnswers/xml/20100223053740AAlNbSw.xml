@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223053740AAlNbSw" type="Answered">
+    <Subject>Is it legal for me to post a 30-second clip of two mixed copyrighted songs online? (Not for profit)?</Subject>
+    <Content>I was listening to one song, and realized it sounded just like another song. I opened up Audacity, and mixed the two songs together and the result was interesting. I&#039;d like to show at least part of the result to a few people online, like 30 seconds of it, is this legal? Both songs are copyrighted and I am obviously not going to charge for this.
+</Content>
+    <Date>2010-02-23 05:37:40</Date>
+    <Timestamp>1266932260</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223053740AAlNbSw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>OWlZM3SSaa</UserId>
+    <UserNick>dsavi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1VR1vTX1aAAEDXGGbqKXWBA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no..............</ChosenAnswer>
+    <ChosenAnswererId>zVu19UBCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Topi jerami</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267264957</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267451693</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gPiQhQGeaa</UserId>
+            <UserNick>Jefin R</UserNick>
+            <Date>2010-02-23 05:58:35</Date>
+            <Timestamp>1266933515</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>no..............</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>zVu19UBCaa</UserId>
+            <UserNick>Topi jerami</UserNick>
+            <Date>2010-02-27 02:02:37</Date>
+            <Timestamp>1267264957</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:22:42 PDT 2010 -->

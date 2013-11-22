@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222164052AAI5xBL" type="Answered">
+    <Subject>Wht happened to the gifworks site?</Subject>
+    <Content>I key in http://www.gifworks.com  and I get this in return:  http://www.clipart.com/en/
+
+Any insight on this?
+</Content>
+    <Date>2010-02-22 16:40:52</Date>
+    <Timestamp>1266885652</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222164052AAI5xBL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ySo2IrrIaa</UserId>
+    <UserNick>Dorothy S</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>Lois, I have to say that &quot;explanation&quot; sounds a bit fishy to me.  If Gifworks has been closed, why does the link not send us to a page that tells us this instead of sending us to Clipart.com, which gives no explanation about Gifworks at all?
+
+Dorothy, there&#039;s another online editor here: http://www.online-image-editor.com/ that you might like to try but I don&#039;t like it as much as Gifworks.
+
+There&#039;s also an early version of Ulead Gif Animator that you can download for free.
+It&#039;s here: http://encoderx.co.uk/imageeditors/index.php
+
+To download it, click on the text link that says Ulead Gif Animator, NOT on the picture below it.</ChosenAnswer>
+    <ChosenAnswererId>Bv5TvFnYaa</ChosenAnswererId>
+    <ChosenAnswererNick>Hannah R</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267190103</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267206775</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I was just informed that GifWorks was shut down. Someone over at AnimationFactory.com just told me that they are unable to provide technical support or suggestions for editing files. You&#039;ll need to find another program to edit GIFs.</Content>
+            <Reference>email from Lois Needham</Reference>
+            <Best></Best>
+            <UserId>mHuTOwYvaa</UserId>
+            <UserNick>LDEJRuff</UserNick>
+            <Date>2010-02-25 14:32:00</Date>
+            <Timestamp>1267137120</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Lois, I have to say that &quot;explanation&quot; sounds a bit fishy to me.  If Gifworks has been closed, why does the link not send us to a page that tells us this instead of sending us to Clipart.com, which gives no explanation about Gifworks at all?
+
+Dorothy, there&#039;s another online editor here: http://www.online-image-editor.com/ that you might like to try but I don&#039;t like it as much as Gifworks.
+
+There&#039;s also an early version of Ulead Gif Animator that you can download for free.
+It&#039;s here: http://encoderx.co.uk/imageeditors/index.php
+
+To download it, click on the text link that says Ulead Gif Animator, NOT on the picture below it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Bv5TvFnYaa</UserId>
+            <UserNick>Hannah R</UserNick>
+            <Date>2010-02-26 05:15:03</Date>
+            <Timestamp>1267190103</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>657df76c314e226b67edccc378e13a80aa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-04-01 16:19:08</Date>
+            <Timestamp>1267190103</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:25:49 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225132443AAravFq" type="Answered">
+    <Subject>What are the swagcodes avalible today and the mystery letters so far for swagbucks birthday?</Subject>
+    <Content>What are the swagcodes avalible today and the mystery letters so far for swagbucks birthday?
+</Content>
+    <Date>2010-02-25 13:24:43</Date>
+    <Timestamp>1267133083</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225132443AAravFq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hbMHFkIuaa</UserId>
+    <UserNick>SUNNY572</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1QQaoHF7wAAICpIKbKLtudxqnK1cG.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>they are on the blog</ChosenAnswer>
+    <ChosenAnswererId>vCsFDHpsaa</ChosenAnswererId>
+    <ChosenAnswererNick>theGUYwithTHEhatON</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267219342</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267242302</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>they are on the blog</Content>
+            <Reference>theswagbucksblog</Reference>
+            <Best>4</Best>
+            <UserId>vCsFDHpsaa</UserId>
+            <UserNick>theGUYwithTHEhatON</UserNick>
+            <Date>2010-02-26 13:22:22</Date>
+            <Timestamp>1267219342</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Swaggernauts cannot tell other swaggnauts what the codes are, as it results in account deactivation.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>F2JU18goaa</UserId>
+            <UserNick>Rock Guy</UserNick>
+            <Date>2010-02-26 13:35:09</Date>
+            <Timestamp>1267220109</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:56:18 PDT 2010 -->

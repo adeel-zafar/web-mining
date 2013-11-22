@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326075828AAXaeA2" type="Answered">
+    <Subject>When streaming videos off some sights why does it ask for you to verify that your human?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-26 07:58:28</Date>
+    <Timestamp>1269615508</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326075828AAXaeA2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ylHfrQ4Kaa</UserId>
+    <UserNick>Tom</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1jDlZ0heSAAEC_IFHqEg=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Many sites, not just those streaming videos, require human verification. The reason for this is money. It costs them money for you to watch the video (they pay for how much bandwidth they use). They don&#039;t want &#039;bots&#039; to steal the videos, or other sites to embed the videos. By making you verify your humanity they can guarantee that they have a real live person viewing the video on their web site. They get all the advertising revenue for your view while blocking out those trying to steal the video.</ChosenAnswer>
+    <ChosenAnswererId>W1F7bPd7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Aaron</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269615710</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269810584</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Many sites, not just those streaming videos, require human verification. The reason for this is money. It costs them money for you to watch the video (they pay for how much bandwidth they use). They don&#039;t want &#039;bots&#039; to steal the videos, or other sites to embed the videos. By making you verify your humanity they can guarantee that they have a real live person viewing the video on their web site. They get all the advertising revenue for your view while blocking out those trying to steal the video.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>W1F7bPd7aa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-26 08:01:50</Date>
+            <Timestamp>1269615710</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:27:23 PDT 2010 -->

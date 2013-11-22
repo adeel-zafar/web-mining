@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322111747AACFNIX" type="Answered">
+    <Subject>Where in the U.S does not have internet connection?</Subject>
+    <Content>Someone I know is moving to somewhere without internet connection. I didn&#039;t know there was a place without internet connection. Anyone know anywhere?
+</Content>
+    <Date>2010-03-22 11:17:47</Date>
+    <Timestamp>1269281867</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322111747AACFNIX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>By2Ke7dZaa</UserId>
+    <UserNick>Kakurenbo :D</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>In theory everywhere could have internet but in very isolated places it would be very costly - by satellite. Also you would need electricity. In mountainous regions there might be no cell phone service either.</ChosenAnswer>
+    <ChosenAnswererId>UwEEHuRcaa</ChosenAnswererId>
+    <ChosenAnswererNick>scoutma53</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269282325</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269626701</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Perhaps the Amish....Amish people don&#039;t even have electricity let alone the internet...
+
+Also....The people living next to me don&#039;t have internet....Since it isn&#039;t free, not everyone has it...And I do know people that would connect to the internet for free....</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>LxdRZVGTaa</UserId>
+            <UserNick>Drake Haven</UserNick>
+            <Date>2010-03-22 11:20:17</Date>
+            <Timestamp>1269282017</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>lots of places &gt;mountains or places with no phone or cable services</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-22 11:20:25</Date>
+            <Timestamp>1269282025</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There are several places in the world that do not have a good enough instraucture for DSL/Cable/Fiber optic.
+
+However I don&#039;t think its possible to go to places that doesn&#039;t have internet connection, there is always the option to use Dial-up (connects through phone lines), mobile broadband (connections through radio waves), and satellites (self-explanatory)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YESUhp8gaa</UserId>
+            <UserNick>Aaron</UserNick>
+            <Date>2010-03-22 11:22:21</Date>
+            <Timestamp>1269282141</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>In theory everywhere could have internet but in very isolated places it would be very costly - by satellite. Also you would need electricity. In mountainous regions there might be no cell phone service either.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>UwEEHuRcaa</UserId>
+            <UserNick>scoutma53</UserNick>
+            <Date>2010-03-22 11:25:25</Date>
+            <Timestamp>1269282325</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:10 PDT 2010 -->

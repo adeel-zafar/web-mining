@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321075747AATXKQj" type="Answered">
+    <Subject>How do I change my Default webpage in Firefox?</Subject>
+    <Content>I downloaded windows live messenger last night and it changed all of my main pages on my browsers to some live messenger/bing website, I do not like it and want to change it back to google, how do I do that?
+
+Thanks,
+Johnny
+</Content>
+    <Date>2010-03-21 07:57:47</Date>
+    <Timestamp>1269183467</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321075747AATXKQj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>bDr2oQWraa</UserId>
+    <UserNick>~Johnny~</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to Tools, options  and then general tab. I can&#039;t explain this good (I have hungarian FF), so:
+about:config then proceed and type browser.startup.homepage then edit and type the URL.
+I think about:config is better becuase there are a lot of options!
+
+---
+If this solved your problem, don&#039;t forget to choose Best Answer!</ChosenAnswer>
+    <ChosenAnswererId>FxiIZ3nCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nagy B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269183576</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269702859</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to Tools, options  and then general tab. I can&#039;t explain this good (I have hungarian FF), so:
+about:config then proceed and type browser.startup.homepage then edit and type the URL.
+I think about:config is better becuase there are a lot of options!
+
+---
+If this solved your problem, don&#039;t forget to choose Best Answer!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FxiIZ3nCaa</UserId>
+            <UserNick>Nagy B</UserNick>
+            <Date>2010-03-21 07:59:36</Date>
+            <Timestamp>1269183576</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>go to tools&gt;options&gt;general&gt;start-up&gt;home page...........and type your default home page and thn press ok!!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>89jS8xrcaa</UserId>
+            <UserNick>Osama Ahmed</UserNick>
+            <Date>2010-03-21 08:12:16</Date>
+            <Timestamp>1269184336</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Dear Friend,
+
+Do the following procedure to change the Default Web Page in Firefox:
+
+1. Open Mozilla Firefox.
+
+2. Click Tools -&gt; Options -&gt; General (Tab).
+
+3. In the Home Page Text Box, type &quot;www.google.com&quot; or any other web page that you would like to make as default.
+
+4. Click OK button to apply.
+
+* * * * * *
+For more information, mail at: vikas.jnpt@yahoo.in
+* * * * * *</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>sp1QE9Pjaa</UserId>
+            <UserNick>Vikas</UserNick>
+            <Date>2010-03-21 08:12:24</Date>
+            <Timestamp>1269184344</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1.  Simply open Firefox and in the address bar, type the location
+you want (such as Yahoo.com or whatever). STAY on that page.
+
+2.  Go to the Tools menu and then Options.
+
+3.  Under &quot;Home Page&quot; click on the &quot;Use Current Pages&quot; button.
+
+That will set your default home page to the one you have open.
+.</Content>
+            <Reference>J&#039;s PC Repair
+js_pcrepair@yahoo.com</Reference>
+            <Best></Best>
+            <UserId>M0v5Wkzlaa</UserId>
+            <UserNick>Js PC Repair</UserNick>
+            <Date>2010-03-21 08:14:32</Date>
+            <Timestamp>1269184472</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:56 PDT 2010 -->

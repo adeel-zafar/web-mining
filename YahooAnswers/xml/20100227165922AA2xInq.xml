@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227165922AA2xInq" type="Answered">
+    <Subject>Theres this site called http://www.batterybay.net/ so can I trust it?</Subject>
+    <Content>Has anyone purchased anything from there before?
+Im not sure if they can be trusted..
+:S
+</Content>
+    <Date>2010-02-27 16:59:22</Date>
+    <Timestamp>1267318762</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227165922AA2xInq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>OZbm6Ldraa</UserId>
+    <UserNick>lisa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>seems phishy</ChosenAnswer>
+    <ChosenAnswererId>AA10503899</ChosenAnswererId>
+    <ChosenAnswererNick>neil</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267319121</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267838128</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>seems phishy</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10503899</UserId>
+            <UserNick>neil</UserNick>
+            <Date>2010-02-27 17:05:21</Date>
+            <Timestamp>1267319121</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:41:52 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307090908AAJrHYy" type="Answered">
+    <Subject>how do i put a pic on the side of my name like every1 elses?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-07 09:09:08</Date>
+    <Timestamp>1267981748</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307090908AAJrHYy</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8pdXsDyKaa</UserId>
+    <UserNick>fighter</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go into your prefrences</ChosenAnswer>
+    <ChosenAnswererId>jTQRhKdWaa</ChosenAnswererId>
+    <ChosenAnswererNick>Tom</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267981818</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268099987</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go into your prefrences</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>jTQRhKdWaa</UserId>
+            <UserNick>Tom</UserNick>
+            <Date>2010-03-07 09:10:18</Date>
+            <Timestamp>1267981818</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:40:11 PDT 2010 -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330140902AA2R1LK" type="Answered">
+    <Subject>if i switch from ie8  to firefox ..what icons will change??  explain to me please?</Subject>
+    <Content>and what will be better  in firefox over ie?????????????
+</Content>
+    <Date>2010-03-30 14:09:02</Date>
+    <Timestamp>1269983342</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330140902AA2R1LK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1YQ3SOA6aa</UserId>
+    <UserNick>jimgreg</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4afe3ba4i9afzul6sp1/_2K9CtE7eqt5VweqaGwZ48ib5w--/10/tn48.jpg?ciAAToMBsonq2jY0</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Over the years they&#039;re making ie look more like firefox so the visual differences aren&#039;t as striking as they used to be.  firefox is faster.  period.  You&#039;ll be amazed how much faster.  it is also safer and more customizable.  Just give it a try and see for yourself.  It&#039;s install is completely independent of IE on your machine.  you can run both at the same time and see for yourself...</ChosenAnswer>
+    <ChosenAnswererId>TI0cn1feaa</ChosenAnswererId>
+    <ChosenAnswererNick>18 gibbs 20</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269993693</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270010669</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Everything will be at least as good in firefox as ie and if you want to customize toolbars and themes you could probably get it to look exactly like ie if you wanted.
+Go ahead and download it to try it out.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qWGF0ET6aa</UserId>
+            <UserNick>Talon D</UserNick>
+            <Date>2010-03-30 14:12:39</Date>
+            <Timestamp>1269983559</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Over the years they&#039;re making ie look more like firefox so the visual differences aren&#039;t as striking as they used to be.  firefox is faster.  period.  You&#039;ll be amazed how much faster.  it is also safer and more customizable.  Just give it a try and see for yourself.  It&#039;s install is completely independent of IE on your machine.  you can run both at the same time and see for yourself...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TI0cn1feaa</UserId>
+            <UserNick>18 gibbs 20</UserNick>
+            <Date>2010-03-30 17:01:33</Date>
+            <Timestamp>1269993693</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:03 PDT 2010 -->

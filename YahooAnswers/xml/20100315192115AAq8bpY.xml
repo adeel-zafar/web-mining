@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315192115AAq8bpY" type="Answered">
+    <Subject>Does Sun wireless broadband have good reception in our area?</Subject>
+    <Content>I want to avail of it because of its unlimited internet promo but I&#039;m not sure if it would work in my home. I&#039;m from Floodway area in Taytay, Rizal.
+</Content>
+    <Date>2010-03-15 19:21:15</Date>
+    <Timestamp>1268706075</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315192115AAq8bpY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>n7Hsj8gkaa</UserId>
+    <UserNick>i-TAMARAW</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>no</ChosenAnswer>
+    <ChosenAnswererId>qTjhkWMraa</ChosenAnswererId>
+    <ChosenAnswererNick>Ritande</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268706407</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269578555</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>no</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qTjhkWMraa</UserId>
+            <UserNick>Ritande</UserNick>
+            <Date>2010-03-15 19:26:47</Date>
+            <Timestamp>1268706407</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:56 PDT 2010 -->

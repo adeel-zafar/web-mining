@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221115600AAV1Sws" type="Answered">
+    <Subject>Internet Explorer isn&#039;t working although I have internet connection?</Subject>
+    <Content>Okay, for some reason, my internet explorer isn&#039;t working. When i try 2 open it i get the usual &quot;Internet Explorer cannot display the webpage.&quot; Firefox works just fine but without internet explorer some of my programs are acting up. i tried re-installing IE but still, same problem. =( any suggestions?
+</Content>
+    <Date>2010-02-21 11:56:00</Date>
+    <Timestamp>1266782160</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221115600AAV1Sws</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GMUuafjraa</UserId>
+    <UserNick>Funny Girl =D</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1Au9S6pf8AAED4eSD4mTGDA==.medium.png</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What version of Internet Explorer are you using? If you are not running Internet Explorer 8, try downloading it from here: http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie8_sm_a  
+
+If you are running IE8, try enabling compatibility mode. It is the broken page icon next to the refresh button on the toolbar. Here’s a good resource from the IEBlog that talks about compatibility mode in detail if you’d like to learn more: http://blogs.msdn.com/ie/archive/2009/02/16/just-the-facts-recap-of-compatibility-view.aspx 
+
+If that doesn’t work, run IE in No Add-ons Mode.  Go to Start -&gt; All Programs -&gt; Accessories -&gt; System Tools -&gt; Internet Explorer (No Add-ons) - If this fixes the issue, then go to Tools -&gt; Manage Add-ons and enable the add-ons one by one to find which one was causing the problem. 
+
+You can also try resetting Internet Explorer&#039;s settings by going to Tools &gt; Internet Options and then the &quot;Advanced&quot; tab, and click &quot;Reset...&quot; 
+
+I hope this solves your problem!
+
+Cheers,
+
+Bryn
+IE8 Outreach Team</ChosenAnswer>
+    <ChosenAnswererId>5A9mfbA3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Bryn</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266947235</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266960292</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hello ,
+
+  Remove completely your Antivirus software . You will need to properly remove by using the &quot;Removal Tool&quot; found at the Antivirus Website . Add or Remove Programs will not properly remove . Then install the IE8 again . Right after the IE8 install , be sure to install your Antivirus and run a Full System Scan after updating the Antivirus .</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11739387</UserId>
+            <UserNick>seven_up_the_uncola</UserNick>
+            <Date>2010-02-21 12:03:09</Date>
+            <Timestamp>1266782589</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I was going to sugest re-installing IE, you stole my answer!
+
+Have you tried resetting the browser in options to its origonal settings? Although this would do the same as re-installing it...
+
+Not something silly like it has Working Offline ticked? :)
+
+My next option is removing other browsers then removing IE until it is back it IE 6 and see if it works then?
+
+Then I would say hell with it and re-install Windows ;)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>MidFov2Aaa</UserId>
+            <UserNick>Mihul</UserNick>
+            <Date>2010-02-21 12:03:38</Date>
+            <Timestamp>1266782618</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Mine isn&#039;t working either.
+My computer made me upgrade my windows through Microsoft genuine or something.
+before that my internet explorer wouldn&#039;t even open.
+Now it opens, but when i type in an address it won&#039;t load and it gets frozen.
+I&#039;m using Firefox right now too.
+
+It sucks.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IhRihZDcaa</UserId>
+            <UserNick>shamwownow. :)</UserNick>
+            <Date>2010-02-21 12:19:37</Date>
+            <Timestamp>1266783577</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Did you use an antifilter or proxy ? If it is so, try to change your proxy settings from Tools | Internet Options| Connections| settings. In the &quot;settings&quot; dialog box, remove the tick from &quot;proxy server&quot; check box. Then click OK and try to use IE again.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JLr3UcEHaa</UserId>
+            <UserNick>MS</UserNick>
+            <Date>2010-02-21 23:05:24</Date>
+            <Timestamp>1266822324</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What version of Internet Explorer are you using? If you are not running Internet Explorer 8, try downloading it from here: http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie8_sm_a  
+
+If you are running IE8, try enabling compatibility mode. It is the broken page icon next to the refresh button on the toolbar. Here’s a good resource from the IEBlog that talks about compatibility mode in detail if you’d like to learn more: http://blogs.msdn.com/ie/archive/2009/02/16/just-the-facts-recap-of-compatibility-view.aspx 
+
+If that doesn’t work, run IE in No Add-ons Mode.  Go to Start -&gt; All Programs -&gt; Accessories -&gt; System Tools -&gt; Internet Explorer (No Add-ons) - If this fixes the issue, then go to Tools -&gt; Manage Add-ons and enable the add-ons one by one to find which one was causing the problem. 
+
+You can also try resetting Internet Explorer&#039;s settings by going to Tools &gt; Internet Options and then the &quot;Advanced&quot; tab, and click &quot;Reset...&quot; 
+
+I hope this solves your problem!
+
+Cheers,
+
+Bryn
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5A9mfbA3aa</UserId>
+            <UserNick>Bryn</UserNick>
+            <Date>2010-02-23 09:47:15</Date>
+            <Timestamp>1266947235</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:34:21 PDT 2010 -->

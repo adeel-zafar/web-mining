@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226171240AARjF7X" type="Answered">
+    <Subject>I cannot load nypost.com but can load all other websites, using firefox and internet explorer?</Subject>
+    <Content>I cannot load the nypost.com website  but can load all other newspapers and websites.
+</Content>
+    <Date>2010-02-26 17:12:40</Date>
+    <Timestamp>1267233160</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226171240AARjF7X</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6NqcXg2baa</UserId>
+    <UserNick>Tom Y</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>may be it is blocked by your ISP or .. , try to use some kinds of antifilters (proxies) such as ultrasurf .
+
+you can download it from here (www.ultrasearch.com). The installation and operating instructions
+ for using in firefox, is written in its site.
+
+Good Luck</ChosenAnswer>
+    <ChosenAnswererId>JLr3UcEHaa</ChosenAnswererId>
+    <ChosenAnswererNick>MS</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267444657</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268067200</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Neither can I. Very strange. Never had this happen before where only one site is affected.
+
+Fixed it. Had to unplug cable modem.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>W8UIjfMXaa</UserId>
+            <UserNick>Ithos</UserNick>
+            <Date>2010-02-27 06:08:22</Date>
+            <Timestamp>1267279702</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>may be it is blocked by your ISP or .. , try to use some kinds of antifilters (proxies) such as ultrasurf .
+
+you can download it from here (www.ultrasearch.com). The installation and operating instructions
+ for using in firefox, is written in its site.
+
+Good Luck</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>JLr3UcEHaa</UserId>
+            <UserNick>MS</UserNick>
+            <Date>2010-03-01 03:57:37</Date>
+            <Timestamp>1267444657</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:48:04 PDT 2010 -->

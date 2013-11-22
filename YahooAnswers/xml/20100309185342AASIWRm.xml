@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309185342AASIWRm" type="Answered">
+    <Subject>Can you use Remote Assistance on XP to help someone using windows 7?</Subject>
+    <Content>I have an Xp. My grandparents just got a 7... they know nothing about computers.. they had to ask how to shut it down. can you do Remote Assistance from Xp to 7?
+For the smart people who cant figure this out... my grandparents dont live in the same city as me... or even the same state.
+</Content>
+    <Date>2010-03-09 18:53:42</Date>
+    <Timestamp>1268189622</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309185342AASIWRm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vO28qnJ5aa</UserId>
+    <UserNick>stephen c</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yes you can,
+
+ask your grandparent click start button( bottom left round button ) the shutdown button is at the bottom right of the start menu.
+
+if you want to do remote assistance, click the search line at the bottom of the start menu ( beside the shutdown button ) and type &#039;remote&#039;
+
+the result will show at the top portion of the search screen. then click on remote assistance.</ChosenAnswer>
+    <ChosenAnswererId>w0dOFOS3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Roy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268190608</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268932958</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Perhaps you could go upstairs/downstairs to the room their computer is in and just help in-person?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>En58zmwhaa</UserId>
+            <UserNick>t-bar</UserNick>
+            <Date>2010-03-09 18:57:00</Date>
+            <Timestamp>1268189820</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xdlsGvldaa</UserId>
+            <UserNick>Bassman1</UserNick>
+            <Date>2010-03-09 18:58:01</Date>
+            <Timestamp>1268189881</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes you can,
+
+ask your grandparent click start button( bottom left round button ) the shutdown button is at the bottom right of the start menu.
+
+if you want to do remote assistance, click the search line at the bottom of the start menu ( beside the shutdown button ) and type &#039;remote&#039;
+
+the result will show at the top portion of the search screen. then click on remote assistance.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>w0dOFOS3aa</UserId>
+            <UserNick>Roy</UserNick>
+            <Date>2010-03-09 19:10:08</Date>
+            <Timestamp>1268190608</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:22:16 PDT 2010 -->

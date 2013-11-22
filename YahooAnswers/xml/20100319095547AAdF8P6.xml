@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319095547AAdF8P6" type="Answered">
+    <Subject>I&#039;m only getting 1.5 mbps speed and im supposed to be getting 10 mbps?</Subject>
+    <Content>the isp is centurylink and they charged me 155 bucks for internet and phone the first month and they cant even give me the speed im supposed to get, they sent a technician over and on speedtest.net the speed is still 1.5 mbps and the tech said theirs nothing else i can do, what a sorry ISP
+and the 155 bill was supposed to be for 0.77 mbps internet, i just recently &#039;&#039;upgraded&#039;&#039; to 10mb but speedtest.net says its 1.5
+wrong, speedtest.net measures in bits not bytes from .5 to 50 it even says on the bottom of the scale, megabits
+do you think it would measure up to 50 megabytes, when isps offer a maximum of 50 megabits
+</Content>
+    <Date>2010-03-19 09:55:47</Date>
+    <Timestamp>1269017747</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319095547AAdF8P6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Z1QroanWaa</UserId>
+    <UserNick>Justin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1lhseACeaAAEB_IF32JAf4nDWXfwLn7pZeAM=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Usually when ISPs advertise speed, its in bits, like 10megabits. What you are looking at is bytes, which is the common speed downloads are displaying as.
+
+For the math, there are 8 bits in a byte, so 10 megabits = 1.25 megabytes. So yea you are getting what you paid for.
+
+If you are unsatisfied, then switch ISPs.</ChosenAnswer>
+    <ChosenAnswererId>hg4Sxfomaa</ChosenAnswererId>
+    <ChosenAnswererNick>KaosuM</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269018448</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269544661</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Usually when ISPs advertise speed, its in bits, like 10megabits. What you are looking at is bytes, which is the common speed downloads are displaying as.
+
+For the math, there are 8 bits in a byte, so 10 megabits = 1.25 megabytes. So yea you are getting what you paid for.
+
+If you are unsatisfied, then switch ISPs.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>hg4Sxfomaa</UserId>
+            <UserNick>KaosuM</UserNick>
+            <Date>2010-03-19 10:07:28</Date>
+            <Timestamp>1269018448</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What are you doing that requires 10 megs?  Most people don&#039;t realize than unless your doing something bandwidth intensive you won&#039;t know the difference between 1.5 megs and 50 megs.
+
+Anyway, this is something to have tech support continue to look at.  A few questions;  1)  Do you have an alarm system in the home?  2)  How old is your PC?  3)  How often does this problem occur?
+
+Just a few things that could impact the situation or help tech support find the issue.  That being said, if your only getting 1.5 megs then call customer service, request a credit and downgrade to 1.5 megs.</Content>
+            <Reference>Telecommunication employee</Reference>
+            <Best></Best>
+            <UserId>iPDLLrpFaa</UserId>
+            <UserNick>Justin</UserNick>
+            <Date>2010-03-21 14:16:57</Date>
+            <Timestamp>1269206217</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:35:49 PDT 2010 -->

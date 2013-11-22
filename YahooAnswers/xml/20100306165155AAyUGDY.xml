@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306165155AAyUGDY" type="Answered">
+    <Subject>Error 503 Service Unavailable. Why?</Subject>
+    <Content>I&#039;m from Sathyamangalam (Erode District). I got an error &quot;Error 503 Service Unavailable from 192.168.5.5&quot; while opening the website &quot;www.rrbchennai.net&quot; but other websites are opening properly. At the same time, this site is opening in other cities. Please help me to solve this problem.
+</Content>
+    <Date>2010-03-06 16:51:55</Date>
+    <Timestamp>1267923115</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306165155AAyUGDY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7qHGAKe9aa</UserId>
+    <UserNick>balaji k</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>To fix this problem, click on tools at the top right of your window  -  in Windows Vista &quot;tools&quot; has an icon next next to it that looks like a gear. 
+
+A menu will open up when you click on tools, the selection will be line by line  -  with the very bottom one being &quot;internet options&quot;   ..   ..   ..   click on that.
+
+When your internet options open up click on the privacy tab and then on the &quot;sites&quot; option. There will be a blank space for you to type in the name of a web site.  Type in yieldmanager.com and click on the choice that allows you to block yield manager and then follow up by click on ok.
+
+Yieldmanager is a tracking cookie which can potentially pose a security threat.</ChosenAnswer>
+    <ChosenAnswererId>9c226e62d204ed9ed1fd2a90fe852c3faa</ChosenAnswererId>
+    <ChosenAnswererNick>ctmom05</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267940689</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268455373</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>To fix this problem, click on tools at the top right of your window  -  in Windows Vista &quot;tools&quot; has an icon next next to it that looks like a gear. 
+
+A menu will open up when you click on tools, the selection will be line by line  -  with the very bottom one being &quot;internet options&quot;   ..   ..   ..   click on that.
+
+When your internet options open up click on the privacy tab and then on the &quot;sites&quot; option. There will be a blank space for you to type in the name of a web site.  Type in yieldmanager.com and click on the choice that allows you to block yield manager and then follow up by click on ok.
+
+Yieldmanager is a tracking cookie which can potentially pose a security threat.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>9c226e62d204ed9ed1fd2a90fe852c3faa</UserId>
+            <UserNick>ctmom05</UserNick>
+            <Date>2010-03-06 21:44:49</Date>
+            <Timestamp>1267940689</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:45:22 PDT 2010 -->

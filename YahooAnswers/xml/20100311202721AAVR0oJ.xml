@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311202721AAVR0oJ" type="Answered">
+    <Subject>Skype help please: calling from PC to PC?</Subject>
+    <Content>is there any way of making an Australia to Italy skype call a little better?
+Its very hard to talk on SKyoe, things arrive late, the picture arrives late... anything i can do???
+</Content>
+    <Date>2010-03-11 20:27:21</Date>
+    <Timestamp>1268368041</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311202721AAVR0oJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8cfvN5voaa</UserId>
+    <UserNick>Killer Queen</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1CjcT9mF_AAEBIOKb_E9mCg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>get quicker internet (Y)</ChosenAnswer>
+    <ChosenAnswererId>G7iODx29aa</ChosenAnswererId>
+    <ChosenAnswererNick>jonny</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268369133</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268606463</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>get quicker internet (Y)</Content>
+            <Reference>my brain</Reference>
+            <Best>5</Best>
+            <UserId>G7iODx29aa</UserId>
+            <UserNick>jonny</UserNick>
+            <Date>2010-03-11 20:45:33</Date>
+            <Timestamp>1268369133</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:11:53 PDT 2010 -->

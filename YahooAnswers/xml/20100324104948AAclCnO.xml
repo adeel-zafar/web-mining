@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324104948AAclCnO" type="Answered">
+    <Subject>Your favourite forum                                     ?</Subject>
+    <Content>what is a forum, if any, which you go on to talk about anything in general?
+</Content>
+    <Date>2010-03-24 10:49:48</Date>
+    <Timestamp>1269452988</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324104948AAclCnO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>kgciU0nVaa</UserId>
+    <UserNick>Someone</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Stadium-arcadium.com
+Writingforums.com</ChosenAnswer>
+    <ChosenAnswererId>y18NuEGjaa</ChosenAnswererId>
+    <ChosenAnswererNick>Permutation</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269453079</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269536629</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Stadium-arcadium.com
+Writingforums.com</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>y18NuEGjaa</UserId>
+            <UserNick>Stockholm Syndrome</UserNick>
+            <Date>2010-03-24 10:51:19</Date>
+            <Timestamp>1269453079</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:35:13 PDT 2010 -->

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301094102AAK9fUQ" type="Answered">
+    <Subject>Answer my Question ASAP...?</Subject>
+    <Content>Tell me any  site to download Macromedia Flash . I need full version. I just want to download demo for 30 or more days . Thnx.........
+</Content>
+    <Date>2010-03-01 09:41:02</Date>
+    <Timestamp>1267465262</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301094102AAK9fUQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>73znR2jjaa</UserId>
+    <UserNick>SuMaT</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1pvkLLXMjAAIC_IFH3G3cDQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can go to Adobe.com and select Flash then click &quot;try&quot; 
+
+http://www.adobe.com/products/flash/?promoid=BPDEE</ChosenAnswer>
+    <ChosenAnswererId>rzPMtX1Uaa</ChosenAnswererId>
+    <ChosenAnswererNick>Isabel M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267465695</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267984695</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Adobe bought the Macromedia company. It is now called Adobe Flash. 
+http://kb2.adobe.com/cps/188/tn_18843.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ce9864e08a14a933ced7cdc4de839112aa</UserId>
+            <UserNick>Bubbie</UserNick>
+            <Date>2010-03-01 09:46:31</Date>
+            <Timestamp>1267465591</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can go to Adobe.com and select Flash then click &quot;try&quot; 
+
+http://www.adobe.com/products/flash/?promoid=BPDEE</Content>
+            <Reference>http://www.adobe.com/products/flash/?promoid=BPDEE</Reference>
+            <Best>5</Best>
+            <UserId>rzPMtX1Uaa</UserId>
+            <UserNick>Isabel M</UserNick>
+            <Date>2010-03-01 09:48:15</Date>
+            <Timestamp>1267465695</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>its freee anyway-just google it , its readily available??  how can you ask a question without at least looking for it first??gees ever heard of the `internet`?</Content>
+            <Reference>doh!</Reference>
+            <Best></Best>
+            <UserId>z2Wt55GGaa</UserId>
+            <UserNick>Rob</UserNick>
+            <Date>2010-03-01 09:50:28</Date>
+            <Timestamp>1267465828</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:08 PDT 2010 -->

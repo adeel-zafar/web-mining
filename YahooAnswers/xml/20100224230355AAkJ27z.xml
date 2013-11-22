@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224230355AAkJ27z" type="Answered">
+    <Subject>internet browser problems, can any1 help?</Subject>
+    <Content>okay so i fully wiped my PC and reinstalled evrything but now firefox sometimes crashes on certen sites, (it also happens with IE) its pissing me off, i cant even get on youtube now, i relinstalled firefox, please help me
+</Content>
+    <Date>2010-02-24 23:03:55</Date>
+    <Timestamp>1267081435</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224230355AAkJ27z</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NIZAygjDaa</UserId>
+    <UserNick>kitty corps</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>make sure you have java updated and enabled
+
+http://support.mozilla.com/en-US/kb/Using+the+Java+plugin+with+Firefox</ChosenAnswer>
+    <ChosenAnswererId>qzV32xVIaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gravy B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267081843</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267601006</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Download the new version of firefox and install it.. Some of the sites it will crash the browser don&#039;t use the sites.. Install the new version this problems continuous means fromat the hard disk and reinstall the windows with the new windows setup 
+
+2.5 years i am using fire fox but I didn&#039;t face any problems. But some times it will slow  that&#039;s all.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DjV6mBgvaa</UserId>
+            <UserNick>jenin A</UserNick>
+            <Date>2010-02-24 23:09:33</Date>
+            <Timestamp>1267081773</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have to install the latest version of Firefox http://www.mozilla-europe.org/en/firefox/
+Then install 
+Adobe Flash Player http://get.adobe.com/flashplayer/
+Shockwave Player http://get.adobe.com/shockwave/
+Java http://www.java.com/en/download/manual.jsp
+
+You will find all the important plugings here https://addons.mozilla.org/en-US/firefox/browse/type:7
+
+If nothing works then the best thing to do is a system Restore!
+
+Click on Start
+All Programs
+Accessories
+System Tools
+And open System Restore
+
+It will more likely fix the problems.</Content>
+            <Reference>Comp Tech</Reference>
+            <Best></Best>
+            <UserId>KP2n0Fbuaa</UserId>
+            <UserNick>Smoke</UserNick>
+            <Date>2010-02-24 23:10:19</Date>
+            <Timestamp>1267081819</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>make sure you have java updated and enabled
+
+http://support.mozilla.com/en-US/kb/Using+the+Java+plugin+with+Firefox</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qzV32xVIaa</UserId>
+            <UserNick>Gravy B</UserNick>
+            <Date>2010-02-24 23:10:43</Date>
+            <Timestamp>1267081843</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr 21 01:12:41 PDT 2010 -->

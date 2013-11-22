@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223073646AAe8cC8" type="Answered">
+    <Subject>please help, when i go on the internet it keeps saying operation aborted..?</Subject>
+    <Content>in a white box with a red cross, what is this? then when i press the cross the web page goes off, its driving me mad please help
+</Content>
+    <Date>2010-02-23 07:36:46</Date>
+    <Timestamp>1266939406</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223073646AAe8cC8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nChtooMEaa</UserId>
+    <UserNick>wooooooooooooo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You have a malware infection. Update then run full scans with your anti-virus &amp; anti-spyware programs
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267257775</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267458915</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try a different browser</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bSXlplTXaa</UserId>
+            <UserNick>Jess H</UserNick>
+            <Date>2010-02-23 07:38:31</Date>
+            <Timestamp>1266939511</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have a malware infection. Update then run full scans with your anti-virus &amp; anti-spyware programs
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-02-27 00:02:55</Date>
+            <Timestamp>1267257775</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try a different browser...............</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zVu19UBCaa</UserId>
+            <UserNick>Topi jerami</UserNick>
+            <Date>2010-02-27 02:00:40</Date>
+            <Timestamp>1267264840</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:22:12 PDT 2010 -->

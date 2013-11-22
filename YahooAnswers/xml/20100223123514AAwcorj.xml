@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223123514AAwcorj" type="Answered">
+    <Subject>why are the links on mydeardiary.com not working?</Subject>
+    <Content>finally mydeardiary.com is back, but for some reason the links for the diaries aren&#039;t working and everytime i click on one a 404 error page comes up saying something about it not being available on this server....? i don&#039;t understand computers much...so is it something to do with my computer or the site?
+</Content>
+    <Date>2010-02-23 12:35:14</Date>
+    <Timestamp>1266957314</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223123514AAwcorj</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nySeFJiSaa</UserId>
+    <UserNick>hugsandkisses2120</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s the site, not you. Nothing you can do until they fix it.</ChosenAnswer>
+    <ChosenAnswererId>aljvRlLNaa</ChosenAnswererId>
+    <ChosenAnswererNick>j k</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266957950</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267682748</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s the site, not you. Nothing you can do until they fix it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>aljvRlLNaa</UserId>
+            <UserNick>j k</UserNick>
+            <Date>2010-02-23 12:45:50</Date>
+            <Timestamp>1266957950</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s not your computer. On my computer it isn&#039;t working too. MyDeardiary had some complications on financial problem. Problem on paying the site if I&#039;m correct. For now you can go to foreverdita.com
+It looks exactly like mydeardiary. And it is safe. the Mydeardiary.com is now Bored.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ubhpDXoYaa</UserId>
+            <UserNick>coolandcute</UserNick>
+            <Date>2010-02-26 04:27:44</Date>
+            <Timestamp>1267187264</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:19:50 PDT 2010 -->

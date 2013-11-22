@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330161402AAGobf7" type="Answered">
+    <Subject>What does &quot;smh&quot; mean?</Subject>
+    <Content>Please tell me!!! (: Please and thanks!!! :D ♥
+</Content>
+    <Date>2010-03-30 16:14:02</Date>
+    <Timestamp>1269990842</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330161402AAGobf7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>GELbHPZxaa</UserId>
+    <UserNick>Mesmerized ♥</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1t6q-kIEBAAID-GFn8A5qt0EB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>shaking my head</ChosenAnswer>
+    <ChosenAnswererId>7kr0XAdPaa</ChosenAnswererId>
+    <ChosenAnswererNick>Man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269990889</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270165130</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>shaking my head</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7kr0XAdPaa</UserId>
+            <UserNick>Man</UserNick>
+            <Date>2010-03-30 16:14:49</Date>
+            <Timestamp>1269990889</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:47 PDT 2010 -->

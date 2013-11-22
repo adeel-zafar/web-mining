@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328171046AAi3Tiu" type="Answered">
+    <Subject>How can I take a picture url and find the original site again?</Subject>
+    <Content>Soo, asking a question in the hair section I used a picture as a reference, but instead of putting up a link to the page the picture was one I simply right clicked and viewed the picture by itself, and then got that url.
+
+This, to be exact; http://th09.deviantart.net/fs51/300W/i/2009/282/c/5/kayla_by_the_cards_can_lie.png
+
+Is there a way I can get back to the web page I got to the picture with from this? because I can&#039;t remember the original url :/.
+-_- I kindof want the specific girl&#039;s page.
+</Content>
+    <Date>2010-03-28 17:10:46</Date>
+    <Timestamp>1269821446</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328171046AAi3Tiu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AuVlR4cYaa</UserId>
+    <UserNick>cut3iswh4tw34imfor</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ynHkMfx2AAEB92FbqLK1aIZLMQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>deviantart.net</ChosenAnswer>
+    <ChosenAnswererId>9xZ60j9baa</ChosenAnswererId>
+    <ChosenAnswererNick>-Brooklyn.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269821580</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269909287</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>deviantart.net</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>9xZ60j9baa</UserId>
+            <UserNick>Francesca</UserNick>
+            <Date>2010-03-28 17:13:00</Date>
+            <Timestamp>1269821580</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:32 PDT 2010 -->

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309114945AA6OQZI" type="Answered">
+    <Subject>If i am following a celeb on twitter and go @katewinslet(forexample) can they see what i say to them?</Subject>
+    <Content>on twitter
+if i want a celeb to reply to me,
+how do i do it?
+i&#039;ve tried typing &quot;@&quot; and their name after with my message but i don&#039;t get any replies :(
+i haven&#039;t protected my tweets
+how do i get them to reply.
+i want to wish my favourite singer happy birthday tomorow
+on her youtube she said tweet me happy birthday tomorow
+how would i do this and would she see it?
+thanks.
+</Content>
+    <Date>2010-03-09 11:49:45</Date>
+    <Timestamp>1268164185</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309114945AA6OQZI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zYogzbcpaa</UserId>
+    <UserNick>NeverShoutCHLOE!</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1fONBc4kCAAIE-GGDQtgo22X_LA==.medium.png</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yes you go on twitter, go to find people, find out her twitter name e.g. @sam_ni or whatever then you type @sam_ni happy birthday. and she&#039;ll see it.</ChosenAnswer>
+    <ChosenAnswererId>a18866a5fa9b1011516eec55c6df35e4aa</ChosenAnswererId>
+    <ChosenAnswererNick>Sam</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268167097</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268237571</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go on her page, and reply to any random tweet, than you will see her name followed after @.
+Than write your message.
+She will get it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eDv2rgBwaa</UserId>
+            <UserNick>soccer_str</UserNick>
+            <Date>2010-03-09 12:03:25</Date>
+            <Timestamp>1268165005</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes you go on twitter, go to find people, find out her twitter name e.g. @sam_ni or whatever then you type @sam_ni happy birthday. and she&#039;ll see it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>a18866a5fa9b1011516eec55c6df35e4aa</UserId>
+            <UserNick>Sam</UserNick>
+            <Date>2010-03-09 12:38:17</Date>
+            <Timestamp>1268167097</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>they probably dont look at them anyways...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>t64wxdcJaa</UserId>
+            <UserNick>Lee J</UserNick>
+            <Date>2010-03-09 12:59:25</Date>
+            <Timestamp>1268168365</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:24:42 PDT 2010 -->

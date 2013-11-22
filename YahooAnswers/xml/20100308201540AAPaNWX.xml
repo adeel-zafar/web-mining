@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308201540AAPaNWX" type="Answered">
+    <Subject>My computer keeps logging on as a temporary user and nothing will be saved when I log off. How do I fix this?</Subject>
+    <Content>I was using my computer and lost my connection so I tried resetting it and after i put my password in it logs me in as a temp user and any info will not be saved. What caused this and how do i fix it? Thanks
+</Content>
+    <Date>2010-03-08 20:15:40</Date>
+    <Timestamp>1268108140</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308201540AAPaNWX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4D78yC3Iaa</UserId>
+    <UserNick>Batman</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If your pc has error, you can check your pc health online:
+http://registry.tpdownload.com/PC_Error</ChosenAnswer>
+    <ChosenAnswererId>v3vmAIIlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nextmonth</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268402274</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269023071</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you have to sign back in as administrator!!  go to the administrator&#039;s icon and log in there, then make adjustments</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10409603</UserId>
+            <UserNick>fuzzykjun</UserNick>
+            <Date>2010-03-08 20:20:51</Date>
+            <Timestamp>1268108451</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If your pc has error, you can check your pc health online:
+http://registry.tpdownload.com/PC_Error</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>v3vmAIIlaa</UserId>
+            <UserNick>Nextmonth</UserNick>
+            <Date>2010-03-12 05:57:54</Date>
+            <Timestamp>1268402274</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:28:11 PDT 2010 -->

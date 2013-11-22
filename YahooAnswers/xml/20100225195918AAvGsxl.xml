@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225195918AAvGsxl" type="Answered">
+    <Subject>Buy Now button sends customers to paypal home page. Can&#039;t finish purchase. Why?</Subject>
+    <Content>I just created a paypal account (primier) to sell my cd and buy now button. I placed button on myspace, but when someone clicks the button it takes them to paypal home page with no option for continuing with purchase. What am I doing wrong?  Please someone help.
+</Content>
+    <Date>2010-02-25 19:59:18</Date>
+    <Timestamp>1267156758</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225195918AAvGsxl</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>793133cc3be9325a1071a4d448a20720aa</UserId>
+    <UserNick>Aniol</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>better you ask paypal customer care by phone or email,
+its fast and easy</ChosenAnswer>
+    <ChosenAnswererId>3Yluz4Yiaa</ChosenAnswererId>
+    <ChosenAnswererNick>RAryan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267461487</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267676043</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>better you ask paypal customer care by phone or email,
+its fast and easy</Content>
+            <Reference>Aryan</Reference>
+            <Best>5</Best>
+            <UserId>3Yluz4Yiaa</UserId>
+            <UserNick>RAryan</UserNick>
+            <Date>2010-03-01 08:38:07</Date>
+            <Timestamp>1267461487</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:53:31 PDT 2010 -->

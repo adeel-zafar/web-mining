@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314231556AAGRvv0" type="Answered">
+    <Subject>how can adjust how to save downloads on firefox?</Subject>
+    <Content>Whenever I download files in the past from firefox, it prompts me to either Save or Open. now i can only save my files which has a small hassle to it because I have to do that extra step of of extracting is need be.   im using OSX. thanks
+</Content>
+    <Date>2010-03-14 23:15:56</Date>
+    <Timestamp>1268633756</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314231556AAGRvv0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>e137046f68063bec238c8ea22e21da2daa</UserId>
+    <UserNick>jon fish</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>My goodness, it always amazes me how some people can be so oblivious
+
+In firefox, Click Tools&gt;Options
+
+Go to the &quot;General&quot; tab, and select &quot;Save files to&quot;. Specify a folder, and voila</ChosenAnswer>
+    <ChosenAnswererId>yRiuRbQMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Blake</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268634406</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269153201</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>My goodness, it always amazes me how some people can be so oblivious
+
+In firefox, Click Tools&gt;Options
+
+Go to the &quot;General&quot; tab, and select &quot;Save files to&quot;. Specify a folder, and voila</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>yRiuRbQMaa</UserId>
+            <UserNick>Blake</UserNick>
+            <Date>2010-03-14 23:26:46</Date>
+            <Timestamp>1268634406</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:55:30 PDT 2010 -->

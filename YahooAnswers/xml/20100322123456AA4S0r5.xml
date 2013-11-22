@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322123456AA4S0r5" type="Answered">
+    <Subject>Buying from Amazon UK?</Subject>
+    <Content>I would like to purchase this, http://www.amazon.co.uk/Titanic-Disc-Deluxe-Collectors-DVD/dp/B000A8NZ6I , from Amazon UK. I live in the US, will I still be able to do that? What is 8.40 pounds in US dollars?? And how does the conversion thing work if you order with a credit card..thanks.
+</Content>
+    <Date>2010-03-22 12:34:56</Date>
+    <Timestamp>1269286496</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322123456AA4S0r5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Nhgkaepkaa</UserId>
+    <UserNick>Livvie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Z2Zc8Q_dAAEBf4OcUCdf6CLlKw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>8.40 pounds in dollars is about $12.61. You can still buy it from the UK and if you use a credit card, I think it just converts the pounds to US dollars and takes that amount from the account.</ChosenAnswer>
+    <ChosenAnswererId>AA11276512</ChosenAnswererId>
+    <ChosenAnswererNick>♪єℓℓιє ßєℓℓy♫</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269388152</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269427986</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>8.40 pounds in dollars is about $12.61. You can still buy it from the UK and if you use a credit card, I think it just converts the pounds to US dollars and takes that amount from the account.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11276512</UserId>
+            <UserNick>♪єℓℓιє ßєℓℓy♫</UserNick>
+            <Date>2010-03-23 16:49:12</Date>
+            <Timestamp>1269388152</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:32 PDT 2010 -->

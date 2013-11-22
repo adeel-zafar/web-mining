@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301180645AA2EPZ0" type="Answered">
+    <Subject>Computer Virus!!!!!!!? So these days on my computer, it begins to lag ALOT. I checked windows task manager on?</Subject>
+    <Content>Computer Virus!!!!!!!?
+So these days on my computer, it begins to lag ALOT. I checked windows task manager on processes, and it saids hw1.exe, and also msb.exe which take alot of memory and cpu. When i delete both of them, the lag stops. Any help?
+</Content>
+    <Date>2010-03-01 18:06:45</Date>
+    <Timestamp>1267495605</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301180645AA2EPZ0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>FKYDWHGFaa</UserId>
+    <UserNick>Otter</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267541005</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267541304</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Only thing I can suggest for now is to do a Disk Cleanup. Go to Start &gt; AllPrograms &gt; Accesories &gt; Systemtools &gt; Disk cleanup
+
+Disk defrag is also a good thing to do once in a while.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VgTPTkkxaa</UserId>
+            <UserNick>northernkid</UserNick>
+            <Date>2010-03-01 18:10:07</Date>
+            <Timestamp>1267495807</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>msb.exe is a know virus to the pc community. i would recommend getting a virus program, or formatting your harddrive</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>jb2iKYKiaa</UserId>
+            <UserNick>stargazer17</UserNick>
+            <Date>2010-03-01 18:11:03</Date>
+            <Timestamp>1267495863</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you don&#039;t have anti-virus (yet!) then get out to one of the on-line virus scanners.. .something like HouseCall:
+
+http://housecall.trendmicro.com/
+
+or Bitdefenders
+
+http://www.bitdefender.com/scanner/online/free.html
+
+I&#039;ve used &#039;em, they work, there are others, you can try more than one.  Get a scan done and let it clean up whatever it can.
+
+Next hit malwarebytes....
+
+http://www.malwarebytes.org/
+
+Install that and run it. That will help clean up any malware (which isn&#039;t necessarily a virus, although I suspect msb.exe is and who knows if it&#039;s leveraging hw1.exe)
+
+You can do your scans and see how things look.  Then, if you don&#039;t already, get a virus scanner and get it up to date.  Avoid suspicious sites, turn off flash in our web browser (OK, not practical, but it would help!) and be careful!
+
+Good luck.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZIZbkLqMaa</UserId>
+            <UserNick>Merchant</UserNick>
+            <Date>2010-03-01 18:16:19</Date>
+            <Timestamp>1267496179</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-02 06:43:25</Date>
+            <Timestamp>1267541005</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:29:25 PDT 2010 -->

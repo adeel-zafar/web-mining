@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222140800AAIoEMS" type="Answered">
+    <Subject>Does anyone use Pidgin?</Subject>
+    <Content>I use Pidgin...the instant messenger. It used to be fine but a few weeks ago, it stopped letting me sign on to my AIM account. My Yahoo IM still works, but as far as the AIM goes, it&#039;s very temperamental. Some days it will work and some days it wont.
+
+I have already tried uninstalling and reinstalling the software. And yes, I have the latest version available.
+
+Does anyone have any idea what I&#039;m doing wrong, or how I can fix this problem?
+</Content>
+    <Date>2010-02-22 14:08:00</Date>
+    <Timestamp>1266876480</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222140800AAIoEMS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LvOUaZjyaa</UserId>
+    <UserNick>Sofia</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1-MAMWywCAAEDzyScQJfospnaIuvUs3Ib.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>i dont</ChosenAnswer>
+    <ChosenAnswererId>kXtU0Eeraa</ChosenAnswererId>
+    <ChosenAnswererNick>Keags</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266879395</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267396017</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i dont</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kXtU0Eeraa</UserId>
+            <UserNick>Keag</UserNick>
+            <Date>2010-02-22 14:56:35</Date>
+            <Timestamp>1266879395</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:26:40 PDT 2010 -->

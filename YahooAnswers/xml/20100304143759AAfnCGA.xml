@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304143759AAfnCGA" type="Answered">
+    <Subject>Whats the website where it lists phone numbers to companys so you arent on hold?</Subject>
+    <Content>it connects you directly to a person, like At&amp;t, progressive, etc etc..
+</Content>
+    <Date>2010-03-04 14:37:59</Date>
+    <Timestamp>1267742279</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304143759AAfnCGA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7DyrzgpAaa</UserId>
+    <UserNick>pepperman_001</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1wskeATG1AAECPUFA8IhFMk0A.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www.gethuman.com</ChosenAnswer>
+    <ChosenAnswererId>AA10004006</ChosenAnswererId>
+    <ChosenAnswererNick>mahoneycuttnc2002</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267926869</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268004261</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.gethuman.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA10004006</UserId>
+            <UserNick>mahoneycuttnc2002</UserNick>
+            <Date>2010-03-06 17:54:29</Date>
+            <Timestamp>1267926869</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:09:32 PDT 2010 -->

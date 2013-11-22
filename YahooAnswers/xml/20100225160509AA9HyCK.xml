@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225160509AA9HyCK" type="Answered">
+    <Subject>i can&#039;t get onto formspring, is something up with the website? [It keeps coming up as broken link?]?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-25 16:05:09</Date>
+    <Timestamp>1267142709</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225160509AA9HyCK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AWlYN4Kzaa</UserId>
+    <UserNick>girl with the face xP</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1UjFSyNtSAAED4ESVZdBA7LsB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Make sure you are typing in www.formspring.me not .com.... I have done that before...</ChosenAnswer>
+    <ChosenAnswererId>6in2kQVAaa</ChosenAnswererId>
+    <ChosenAnswererNick>a kid</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267142862</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269550409</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Make sure you are typing in www.formspring.me not .com.... I have done that before...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6in2kQVAaa</UserId>
+            <UserNick>a kid</UserNick>
+            <Date>2010-02-25 16:07:42</Date>
+            <Timestamp>1267142862</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>i&#039;m having trouble logging on too, keeps loading forever, probably just temporary, will be back soon :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>a4BTluvGaa</UserId>
+            <UserNick>kayy♥</UserNick>
+            <Date>2010-02-25 16:16:24</Date>
+            <Timestamp>1267143384</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:11 PDT 2010 -->

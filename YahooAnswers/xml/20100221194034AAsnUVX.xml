@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221194034AAsnUVX" type="Answered">
+    <Subject>Can&#039;t sign into lockerz.?</Subject>
+    <Content>every time i try to sign into lockerz it says, &quot;you have been logged out please sign in&quot;.  What is wrong.
+</Content>
+    <Date>2010-02-21 19:40:34</Date>
+    <Timestamp>1266810034</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221194034AAsnUVX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>TFWKLdCFaa</UserId>
+    <UserNick>Gangster</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1FgSnIwtuAAIBQ4E_EA3pwejY3X1Vtw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Might be server problems, but try erasing all history from your browser, and logging in again.
+If this does not work, the only solution is to wait, or ask info@lockerz.com</ChosenAnswer>
+    <ChosenAnswererId>mScbhXd0aa</ChosenAnswererId>
+    <ChosenAnswererNick>Xallen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266810122</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267329452</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>ive had that prob...close internet and try again it works for me</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>z9bFChlQaa</UserId>
+            <UserNick>meancereal14</UserNick>
+            <Date>2010-02-21 19:41:13</Date>
+            <Timestamp>1266810073</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>typing in the password incorrectly?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5o7LBLazaa</UserId>
+            <UserNick>Mark F</UserNick>
+            <Date>2010-02-21 19:41:15</Date>
+            <Timestamp>1266810075</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Might be server problems, but try erasing all history from your browser, and logging in again.
+If this does not work, the only solution is to wait, or ask info@lockerz.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>mScbhXd0aa</UserId>
+            <UserNick>Xallen</UserNick>
+            <Date>2010-02-21 19:42:02</Date>
+            <Timestamp>1266810122</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:31:45 PDT 2010 -->

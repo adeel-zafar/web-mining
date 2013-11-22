@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312183830AAiQLA6" type="Answered">
+    <Subject>How to get online fonts into Paint?</Subject>
+    <Content>How do I take online text fonts into Word and Paint
+</Content>
+    <Date>2010-03-12 18:38:30</Date>
+    <Timestamp>1268447910</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312183830AAiQLA6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>iarx0rpTaa</UserId>
+    <UserNick>ѕριттιη νєяѕєѕ (♠яισт♠)</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b9bea79i1da8zws121mud/.aAcptg3d6mitQxs3fwejIHjf7AWB0SRQbiMlyO45waoEA7dhZM-/10/tn48.jpeg?ciAAToMBF5YrZKwa</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can go to www.dafont.com download any font you wish to have.
+after downloading it. Extract it with WinRAR.
+go to your control panel and look for the file where it says &quot;fonts&quot;
+open the folder up and drag the font file into it.
+Then you&#039;ll have the font&#039;s for paint, microsoft word and any other program that include text.</ChosenAnswer>
+    <ChosenAnswererId>FlC6JTcNaa</ChosenAnswererId>
+    <ChosenAnswererNick>Cindy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268448630</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268963789</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Just install the fonts normally and they should show up.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>obvN6dHmaa</UserId>
+            <UserNick>Daylan</UserNick>
+            <Date>2010-03-12 18:42:37</Date>
+            <Timestamp>1268448157</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What should happen is when you download them (you need admin rights) and save them into your win32 or win64 it should automatically work for all windows based programs</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>izFO4xOEaa</UserId>
+            <UserNick>Alex B. Pansexual</UserNick>
+            <Date>2010-03-12 18:42:56</Date>
+            <Timestamp>1268448176</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Install/copy them to appropriate location.  In XP (classic view of control panel) there is a fonts icon you can copy/paste them right there (also works with Windows 7).</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tR7QF7fQaa</UserId>
+            <UserNick>Marianne</UserNick>
+            <Date>2010-03-12 18:44:16</Date>
+            <Timestamp>1268448256</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can go to www.dafont.com download any font you wish to have.
+after downloading it. Extract it with WinRAR.
+go to your control panel and look for the file where it says &quot;fonts&quot;
+open the folder up and drag the font file into it.
+Then you&#039;ll have the font&#039;s for paint, microsoft word and any other program that include text.</Content>
+            <Reference>ME.</Reference>
+            <Best>5</Best>
+            <UserId>FlC6JTcNaa</UserId>
+            <UserNick>Cindy</UserNick>
+            <Date>2010-03-12 18:50:30</Date>
+            <Timestamp>1268448630</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:07:11 PDT 2010 -->

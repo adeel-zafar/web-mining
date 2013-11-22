@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301060731AAzxACz" type="Answered">
+    <Subject>Mozilla Firefox: When it crashed, used to recover my tabs - now it doesn&#039;t.  Is this a setting somewhere?</Subject>
+    <Content>Drives me nuts.  Love Firefox, but it seems to be crashing more lately, and this losing of tabs is driving me crazy.  Help?
+</Content>
+    <Date>2010-03-01 06:07:31</Date>
+    <Timestamp>1267452451</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301060731AAzxACz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fClCg18Aaa</UserId>
+    <UserNick>PlantersCashews</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to Tools (Edit for Linux)&gt; Options (Preferences)&gt; Main&gt; top drop menu, tick &quot;Show my windows and tabs from last time&quot;&gt; OK out.</ChosenAnswer>
+    <ChosenAnswererId>14d0ad3dfdb4dd36a9f896b96a702e69aa</ChosenAnswererId>
+    <ChosenAnswererNick>Dunbar Pappy ϟϟ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267460327</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267474273</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>disable you add-ons , download newest version and then reset  to default.  should get you back to normal</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10340798</UserId>
+            <UserNick>impact7778</UserNick>
+            <Date>2010-03-01 06:13:47</Date>
+            <Timestamp>1267452827</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to Tools (Edit for Linux)&gt; Options (Preferences)&gt; Main&gt; top drop menu, tick &quot;Show my windows and tabs from last time&quot;&gt; OK out.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>14d0ad3dfdb4dd36a9f896b96a702e69aa</UserId>
+            <UserNick>Dunbar Pappy ϟϟ</UserNick>
+            <Date>2010-03-01 08:18:47</Date>
+            <Timestamp>1267460327</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>give up on firefox it has too many problems in the latest editions try orca, k-meleon or flock all mozilla browsers like firefox but faster and without the problems, firefox help and mozillazine both deny there are any problems but there are hundreds of reported problems with firefox all over the internet. check your task manager firefox sometimes opens multiple times and freezes the computer without opening any windows something mozillazine &quot;experts&quot; say is impossible</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-01 10:31:39</Date>
+            <Timestamp>1267468299</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>stop using Firefox
+Install Apple Safari,it rules!! It&#039;s much faster than Firefox.
+P.S don&#039;t use Chrome,its all hype and it lacks security!!
+I&#039;m a browser expert,so you can count on me :)
+Use Safari</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0od5FmAkaa</UserId>
+            <UserNick>Bozo</UserNick>
+            <Date>2010-03-01 10:57:57</Date>
+            <Timestamp>1267469877</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:32:47 PDT 2010 -->

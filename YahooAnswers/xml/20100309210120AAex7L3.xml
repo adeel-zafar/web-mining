@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309210120AAex7L3" type="Answered">
+    <Subject>Is there a program that will let me update my MySpace, Facebook, and Twitter?</Subject>
+    <Content>I have accounts with all of them and I normally update my statuses via mobile phone. I just wanted to know if there was a program that will let me do that via computer :D 
+
+I heard about TweetDeck but I haven&#039;t tried it yet. Any ideas :) Thanks!
+</Content>
+    <Date>2010-03-09 21:01:20</Date>
+    <Timestamp>1268197280</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309210120AAex7L3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11803569</UserId>
+    <UserNick>Homer</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/49bb7d0di14dfz/AZ02OAU5dqyLLCV.mRNoZQ--/100/tn48.jpg?ciAAToMBmtNV3087</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try going to the websites and doing it that way.... If youre at school/work and you need to get around a firewall blocker then you should try www.atproxy.net or www.camolist.com</ChosenAnswer>
+    <ChosenAnswererId>YcaXpMRWaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kevan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268198469</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268377142</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try going to the websites and doing it that way.... If youre at school/work and you need to get around a firewall blocker then you should try www.atproxy.net or www.camolist.com</Content>
+            <Reference>www.atproxy.net
+www.camoList.com</Reference>
+            <Best>4</Best>
+            <UserId>YcaXpMRWaa</UserId>
+            <UserNick>Kevan</UserNick>
+            <Date>2010-03-09 21:21:09</Date>
+            <Timestamp>1268198469</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:21:32 PDT 2010 -->

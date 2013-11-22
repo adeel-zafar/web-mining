@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225171409AAj3swd" type="Answered">
+    <Subject>How do you put a link for a download on your blog?</Subject>
+    <Content>I see people who put links on their blog, and if you click on it, you can download music and such...I think you know what I mean. Like this : http://blog.akutoulovesyou.com/2010/02/dont-cross-streams.html  see the link?
+</Content>
+    <Date>2010-02-25 17:14:09</Date>
+    <Timestamp>1267146849</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225171409AAj3swd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZaOEFsm7aa</UserId>
+    <UserNick>Ti Amo!</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4aa3f51di1ce1zul7re4/yNHdV5k5ca9PdFLLrpxp3bKtnsjq9WBwoB2dqxIh3k.g/10/tn48.jpg?ciAAToMBW4M2y_yP</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You have to upload the music or video to your hosting account.  There is a way to upload in wordpress admin but I prefer just to use FTP.  Once it is uploaded to your site, then you just post a link to it so others can grab it.
+
+If you need more help or tips, be sure to check out http://www.get-pnb.com</ChosenAnswer>
+    <ChosenAnswererId>vewbBI30aa</ChosenAnswererId>
+    <ChosenAnswererNick>Brian L</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267280356</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267294784</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you just posted the link.
+
+ѕαкυяα</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Trjl9l6laa</UserId>
+            <UserNick>❀Sakura✿</UserNick>
+            <Date>2010-02-25 17:49:43</Date>
+            <Timestamp>1267148983</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You have to upload the music or video to your hosting account.  There is a way to upload in wordpress admin but I prefer just to use FTP.  Once it is uploaded to your site, then you just post a link to it so others can grab it.
+
+If you need more help or tips, be sure to check out http://www.get-pnb.com</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>vewbBI30aa</UserId>
+            <UserNick>Brian L</UserNick>
+            <Date>2010-02-27 06:19:16</Date>
+            <Timestamp>1267280356</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:55:04 PDT 2010 -->

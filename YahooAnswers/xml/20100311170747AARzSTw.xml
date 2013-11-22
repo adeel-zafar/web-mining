@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311170747AARzSTw" type="Answered">
+    <Subject>How does E-bay work? I have never used it before and want to sell some stuff.?</Subject>
+    <Content>How do you sell?
+Does it cost every time you want to sell?
+I haven&#039;t done it before and i have NO idea how to. Thanks!
+</Content>
+    <Date>2010-03-11 17:07:47</Date>
+    <Timestamp>1268356067</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311170747AARzSTw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>119RaDbraa</UserId>
+    <UserNick>GodLuvr=]</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1vy6K7__bAAEC7CK6QLFQNtuGHQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You will need to open a Paypal account if you don&#039;t have one already. It&#039;s not mandatory but most people won&#039;t buy your item unless they can use Paypal. Ebay charges a percentage of what your item sells for. For the first $25 it&#039;s 8.75%. Anything over $25 they charge 3.50%. The way they charge you is they send you an email once a month and tell you what you owe them. They will automatically take it out of your Paypal account unless you make arrangments to handle it differently. One word of caution, everytime I have sold something I have been contacted by someone wanting to know if I will accept a money order for payment. It&#039;s a well known scam but they&#039;re hoping a new seller such as yourself won&#039;t know about it. The money orders are printed on a computer printer and are worthless.</ChosenAnswer>
+    <ChosenAnswererId>42e0d0fb0ffbef1c3c70fbcae0da89adaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268359203</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268871890</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Read the FAQs!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-11 17:10:10</Date>
+            <Timestamp>1268356210</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You will need to open a Paypal account if you don&#039;t have one already. It&#039;s not mandatory but most people won&#039;t buy your item unless they can use Paypal. Ebay charges a percentage of what your item sells for. For the first $25 it&#039;s 8.75%. Anything over $25 they charge 3.50%. The way they charge you is they send you an email once a month and tell you what you owe them. They will automatically take it out of your Paypal account unless you make arrangments to handle it differently. One word of caution, everytime I have sold something I have been contacted by someone wanting to know if I will accept a money order for payment. It&#039;s a well known scam but they&#039;re hoping a new seller such as yourself won&#039;t know about it. The money orders are printed on a computer printer and are worthless.</Content>
+            <Reference>http://pages.ebay.com/help/sell/fvf.html#how</Reference>
+            <Best>5</Best>
+            <UserId>42e0d0fb0ffbef1c3c70fbcae0da89adaa</UserId>
+            <UserNick>Mark C</UserNick>
+            <Date>2010-03-11 18:00:03</Date>
+            <Timestamp>1268359203</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:12:36 PDT 2010 -->

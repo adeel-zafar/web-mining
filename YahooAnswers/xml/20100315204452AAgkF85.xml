@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315204452AAgkF85" type="Answered">
+    <Subject>On fictionpress.com, how do I know how many hits and visitors I have?</Subject>
+    <Content>I&#039;ve heard that the site tells you that, but I can&#039;t figure out where.
+
+By the way, my account is Evelyn Rags, in case you want to read my stories. :)  I&#039;m new, so I don&#039;t have many up yet.
+</Content>
+    <Date>2010-03-15 20:44:52</Date>
+    <Timestamp>1268711092</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315204452AAgkF85</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>be8CqWEzaa</UserId>
+    <UserNick>Elle</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Login&gt; Traffic
+&#039;Traffic&#039; (a tab after &#039;account&#039; and &#039;publish&#039;) will show you a graph of hits/visitors each day of that month. When your curser is over &#039;traffic&#039; you will see &#039;story stats&#039; under it. This will show you hits and visitors for each story along with favs, alerts and reviews. &#039;User stats&#039; will show favs and alerts for you as a user.
+
+Hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>DY2OIaszaa</ChosenAnswererId>
+    <ChosenAnswererNick>PinkKiwi</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268786147</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270073630</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Login&gt; Traffic
+&#039;Traffic&#039; (a tab after &#039;account&#039; and &#039;publish&#039;) will show you a graph of hits/visitors each day of that month. When your curser is over &#039;traffic&#039; you will see &#039;story stats&#039; under it. This will show you hits and visitors for each story along with favs, alerts and reviews. &#039;User stats&#039; will show favs and alerts for you as a user.
+
+Hope that helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DY2OIaszaa</UserId>
+            <UserNick>PinkKiwi</UserNick>
+            <Date>2010-03-16 17:35:47</Date>
+            <Timestamp>1268786147</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You click on the login button in the top right corner. Then click traffic. Then you can click story traffic, or profile traffic. One will show you the stats for your story, and one will show you the stats for how many people visit your profile page.
+
+My bestfriend writes on fictionpress and showed me all this stuff. Her username is lulu.lemon , she&#039;s really good :)
+Hope that helped :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>78ae52a6d637c3f91c492dfb0a77b543aa</UserId>
+            <UserNick>Janelle S.</UserNick>
+            <Date>2010-03-16 19:59:43</Date>
+            <Timestamp>1268794783</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:31 PDT 2010 -->

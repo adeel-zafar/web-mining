@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221183144AAsSB7B" type="Answered">
+    <Subject>How to connect to the internet?</Subject>
+    <Content>Okay, so I have a linsys router and I have a little attena hooked up to the back of my PC to connect to it. I have what looks like an IP adress for the router, the name the network is called and the password.
+How do I connect it?
+My question is how do I connect to the internet. Like how to I set it up or whatever.
+yes and yes
+</Content>
+    <Date>2010-02-21 18:31:44</Date>
+    <Timestamp>1266805904</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221183144AAsSB7B</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>p3RU5avCaa</UserId>
+    <UserNick>Funeral Fires</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;m just wondering how you asked this question...</ChosenAnswer>
+    <ChosenAnswererId>ijzDpofNaa</ChosenAnswererId>
+    <ChosenAnswererNick>Wolfgirl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266806019</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270345943</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I&#039;m just wondering how you asked this question...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ijzDpofNaa</UserId>
+            <UserNick>Wolfgirl</UserNick>
+            <Date>2010-02-21 18:33:39</Date>
+            <Timestamp>1266806019</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have a question for you? What in  the world is your question?</Content>
+            <Reference>Computer Tech</Reference>
+            <Best></Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-02-21 18:45:22</Date>
+            <Timestamp>1266806722</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>little antenna on ur computer????? is it a wireless adapter???? if it is go into the wireless settings on your computer and look for your wireless name. 
+
+btw is the linksys wireless capable?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VuZwseH1aa</UserId>
+            <UserNick>jimmy</UserNick>
+            <Date>2010-02-21 20:20:34</Date>
+            <Timestamp>1266812434</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:32:08 PDT 2010 -->

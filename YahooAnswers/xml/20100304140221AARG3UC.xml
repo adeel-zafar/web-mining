@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304140221AARG3UC" type="Answered">
+    <Subject>why is formspring saying &quot;page not found?&quot;?</Subject>
+    <Content>whenever i try to go to my friend&#039;s page it says &quot;page not found&quot; and i know for a fact she didn&#039;t delete or disable her account, nor did she change her name or anything. anyone else have this problem or know what&#039;s going on?
+this person is still on my list of people i&#039;m following and i can still see their posts on the feed thingy, i just cant see their literal page
+</Content>
+    <Date>2010-03-04 14:02:21</Date>
+    <Timestamp>1267740141</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304140221AARG3UC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5o3JMQoeaa</UserId>
+    <UserNick>Victoria</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>it&#039;s either been deleted or you don;t have permission to view that page.</ChosenAnswer>
+    <ChosenAnswererId>WzBZ1rbsaa</ChosenAnswererId>
+    <ChosenAnswererNick>loinora</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267740449</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268084807</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it&#039;s either been deleted or you don;t have permission to view that page.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>WzBZ1rbsaa</UserId>
+            <UserNick>loinora</UserNick>
+            <Date>2010-03-04 14:07:29</Date>
+            <Timestamp>1267740449</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:09:54 PDT 2010 -->

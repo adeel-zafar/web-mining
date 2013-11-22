@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311061047AAC8Mq6" type="Answered">
+    <Subject>how to create sites for friends &amp; family?</Subject>
+    <Content>beautiful sites for friends &amp; family
+</Content>
+    <Date>2010-03-11 06:10:47</Date>
+    <Timestamp>1268316647</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311061047AAC8Mq6</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AvXaQ4ihaa</UserId>
+    <UserNick>Nikki</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www.freewebs.com</ChosenAnswer>
+    <ChosenAnswererId>G6yIwQo8aa</ChosenAnswererId>
+    <ChosenAnswererNick>Steph</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268316748</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268832234</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.freewebs.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>G6yIwQo8aa</UserId>
+            <UserNick>Steph</UserNick>
+            <Date>2010-03-11 06:12:28</Date>
+            <Timestamp>1268316748</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.webs.com/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NA3WlA4saa</UserId>
+            <UserNick>Robot™</UserNick>
+            <Date>2010-03-11 06:12:57</Date>
+            <Timestamp>1268316777</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>blogger.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Al6LwSOBaa</UserId>
+            <UserNick>Alice&amp;Oz.</UserNick>
+            <Date>2010-03-11 06:13:49</Date>
+            <Timestamp>1268316829</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:13:55 PDT 2010 -->

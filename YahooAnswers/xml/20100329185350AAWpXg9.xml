@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329185350AAWpXg9" type="Answered">
+    <Subject>A really Quick question about AT&amp;T wireless internet?</Subject>
+    <Content>So i have a 2wire router and we got this other router (lynxe or somthing like that)  and i want to know if i can have 2 routers and will it slow down our upgraded speed or screw everything up that is connected to phone line?  thanks 10 pts best
+Umm... i know 1 is &quot;G&quot; idk what the 2wire one is
+</Content>
+    <Date>2010-03-29 18:53:50</Date>
+    <Timestamp>1269914030</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329185350AAWpXg9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>9CLRMnhSaa</UserId>
+    <UserNick>Matt the gamer man!</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1zyxESYPuAAAClSSbDJ5oWB-Ta8SNw88Z.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes it is possible to connect two routers to your in home network. I don&#039;t think it will slow down your connection speed. Unless one router is rated a &quot;N&quot; router, and another is a &quot;G&quot;. That will be the main thing on the speed. Because &quot;N&quot; routers are faster than &quot;G&quot;. But it will not screw everything up with the phone line. Just follow this guide I posted it talks about how to do it, and whatnot.</ChosenAnswer>
+    <ChosenAnswererId>66w9hJdEaa</ChosenAnswererId>
+    <ChosenAnswererNick>Travis D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269914479</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269988279</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes it is possible to connect two routers to your in home network. I don&#039;t think it will slow down your connection speed. Unless one router is rated a &quot;N&quot; router, and another is a &quot;G&quot;. That will be the main thing on the speed. Because &quot;N&quot; routers are faster than &quot;G&quot;. But it will not screw everything up with the phone line. Just follow this guide I posted it talks about how to do it, and whatnot.</Content>
+            <Reference>http://compnetworking.about.com/od/routers/f/two_routers.htm</Reference>
+            <Best>3</Best>
+            <UserId>66w9hJdEaa</UserId>
+            <UserNick>Travis D</UserNick>
+            <Date>2010-03-29 19:01:19</Date>
+            <Timestamp>1269914479</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:15:06 PDT 2010 -->

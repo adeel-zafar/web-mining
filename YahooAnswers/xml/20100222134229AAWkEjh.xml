@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222134229AAWkEjh" type="Answered">
+    <Subject>deleting quizzes on Sporcle?</Subject>
+    <Content>I&#039;m a Sporcle.com member, and I recently was in the process of creating 2 quizzes to put on the site. Then, I changed my mind about creating them, and now I want to delete them. But, I have no idea how to do that. I don&#039;t see a place on the website where I can delete quizzes in progress. Does anyone know where I can delete quizzes that I&#039;ve started but not yet submitted?
+</Content>
+    <Date>2010-02-22 13:42:29</Date>
+    <Timestamp>1266874949</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222134229AAWkEjh</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tAaBhk4Maa</UserId>
+    <UserNick>iluvdogs1987</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1oG_b8bsnAAEB-qFpeI1oQrcGKg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hello
+On this page you&#039;ll get
+the requested information.
+
+http://www.sporcle.com/faq.php</ChosenAnswer>
+    <ChosenAnswererId>dSaDG765aa</ChosenAnswererId>
+    <ChosenAnswererNick>ԃДɳїƐԼ ԃüֆƐɳՇЯїƐβ</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267562362</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267740241</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hello
+On this page you&#039;ll get
+the requested information.
+
+http://www.sporcle.com/faq.php</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dSaDG765aa</UserId>
+            <UserNick>ԃДɳїƐԼ ԃüֆƐɳՇЯїƐβ</UserNick>
+            <Date>2010-03-02 12:39:22</Date>
+            <Timestamp>1267562362</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:26:47 PDT 2010 -->

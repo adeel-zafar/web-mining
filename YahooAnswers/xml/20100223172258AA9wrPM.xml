@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223172258AA9wrPM" type="Answered">
+    <Subject>An hero, internet meme?</Subject>
+    <Content>What the heck is an hero? what does it mean? I know it&#039;s some kind of internet meme, and up till now I&#039;ve been able to figure out all the internet memes, I just...don&#039;t get this one.
+</Content>
+    <Date>2010-02-23 17:22:58</Date>
+    <Timestamp>1266974578</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223172258AA9wrPM</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ekRGKE6Baa</UserId>
+    <UserNick>Toesilywah</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1-RxHKhdzAAECQqEruAxykqqyNg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>An hero is someone that commits suicide generally on webcam for all to watch. An hero&#039;s are kind of stupid</ChosenAnswer>
+    <ChosenAnswererId>DcDIJ6Ivaa</ChosenAnswererId>
+    <ChosenAnswererNick>Cobyy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266974692</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267494230</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>An hero is someone that commits suicide generally on webcam for all to watch. An hero&#039;s are kind of stupid</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DcDIJ6Ivaa</UserId>
+            <UserNick>Cobyy</UserNick>
+            <Date>2010-02-23 17:24:52</Date>
+            <Timestamp>1266974692</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:37 PDT 2010 -->

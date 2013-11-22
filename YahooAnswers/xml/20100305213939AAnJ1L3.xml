@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305213939AAnJ1L3" type="Answered">
+    <Subject>From which site can i send long sms from my computer to any mobile phone in India?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-05 21:39:39</Date>
+    <Timestamp>1267853979</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305213939AAnJ1L3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KwCLaB05aa</UserId>
+    <UserNick>cooldude</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can try
+http://voipsms.blogspot.com</ChosenAnswer>
+    <ChosenAnswererId>SnA7x8D3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Vic</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268093778</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268373239</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.way2sms.com....You can send sms upto 160 characters...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iM9ytAQkaa</UserId>
+            <UserNick>Rakesh</UserNick>
+            <Date>2010-03-06 03:18:23</Date>
+            <Timestamp>1267874303</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can try
+http://voipsms.blogspot.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>SnA7x8D3aa</UserId>
+            <UserNick>Vic</UserNick>
+            <Date>2010-03-08 16:16:18</Date>
+            <Timestamp>1268093778</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:52:22 PDT 2010 -->

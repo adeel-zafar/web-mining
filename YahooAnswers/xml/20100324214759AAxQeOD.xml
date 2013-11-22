@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324214759AAxQeOD" type="Answered">
+    <Subject>Request evaluation IE versus Firefox?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-24 21:47:59</Date>
+    <Timestamp>1269492479</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324214759AAxQeOD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0AiBX0YNaa</UserId>
+    <UserNick>Gerald</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>IE8 Rules! It does everything I need it to do without question or failing.  I do not use add-ons or toolbars either!</ChosenAnswer>
+    <ChosenAnswererId>kxsvjGmTaa</ChosenAnswererId>
+    <ChosenAnswererNick>John C</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269492797</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270011904</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>IE8 Rules! It does everything I need it to do without question or failing.  I do not use add-ons or toolbars either!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-24 21:53:17</Date>
+            <Timestamp>1269492797</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:29 PDT 2010 -->

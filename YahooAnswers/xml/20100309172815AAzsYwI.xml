@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309172815AAzsYwI" type="Answered">
+    <Subject>Help! I accidentally disabled my internet connection and don&#039;t know how to bring it back!?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-09 17:28:15</Date>
+    <Timestamp>1268184495</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309172815AAzsYwI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Yfwveyj7aa</UserId>
+    <UserNick>Mvdoim</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You can turn the wireless switch off and on, right click the network icon and troubleshoot problems where eventually it will give you the option to enable internet, hope that helps.</ChosenAnswer>
+    <ChosenAnswererId>vBSvOT4maa</ChosenAnswererId>
+    <ChosenAnswererNick>Ejsiudqe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268184621</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268203126</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Is this a joke?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>abLF20Nuaa</UserId>
+            <UserNick>Finding_Brain. Please Hold.</UserNick>
+            <Date>2010-03-09 17:29:29</Date>
+            <Timestamp>1268184569</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you wouldnt be able to post a question if you didnt have internet.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qamRPKCTaa</UserId>
+            <UserNick>Love Every Minute</UserNick>
+            <Date>2010-03-09 17:29:49</Date>
+            <Timestamp>1268184589</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can turn the wireless switch off and on, right click the network icon and troubleshoot problems where eventually it will give you the option to enable internet, hope that helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>vBSvOT4maa</UserId>
+            <UserNick>Ejsiudqe</UserNick>
+            <Date>2010-03-09 17:30:21</Date>
+            <Timestamp>1268184621</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If wireless press wireless button or go in network and sharing.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ErtrXEDNaa</UserId>
+            <UserNick>Jnsvtaij</UserNick>
+            <Date>2010-03-09 17:32:14</Date>
+            <Timestamp>1268184734</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to the control panel and find the Network Connections applet. Double-click on it and find you network connection. Then right-click on it and select enable.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10594501</UserId>
+            <UserNick>link</UserNick>
+            <Date>2010-03-09 17:32:34</Date>
+            <Timestamp>1268184754</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can turn the wireless switch off and on, hope that helps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rz80KlvAaa</UserId>
+            <UserNick>Odnpto</UserNick>
+            <Date>2010-03-09 17:35:10</Date>
+            <Timestamp>1268184910</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:22:44 PDT 2010 -->

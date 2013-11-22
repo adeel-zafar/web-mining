@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227122119AApeGnY" type="Answered">
+    <Subject>My internet is annoying me soo much?</Subject>
+    <Content>I can search on the interent and access some websites.... but most wont work (interent explorer cannot display this website)
+
+Any links a click dont work.....
+
+Im going to go crazy
+
+I know my dad changed the settings a while ago and wont admit that hes messed it up and he also has parental controls
+
+Can anyone think of some possibilities to fix it!
+
+Ill be thankful forever
+</Content>
+    <Date>2010-02-27 12:21:19</Date>
+    <Timestamp>1267302079</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227122119AApeGnY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oAAI1xZjaa</UserId>
+    <UserNick>Kelly</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1CGPO9S-PAAEBM0EoYAtyUnckIg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What browser are you using? I would try downloading Google Chrome.
+Mine used to be very messed up at time and Chrome runs on so much less and doesn&#039;t hold as high of a cache. 
+
+Everything wen&#039;t back to perfect for me! Worth a shot, good luck !</ChosenAnswer>
+    <ChosenAnswererId>bw9ONv1Maa</ChosenAnswererId>
+    <ChosenAnswererNick>foxforce5</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267302188</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267393509</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go into options and look around in there</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lyiVWD7caa</UserId>
+            <UserNick>Jerry S</UserNick>
+            <Date>2010-02-27 12:21:59</Date>
+            <Timestamp>1267302119</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>What browser are you using? I would try downloading Google Chrome.
+Mine used to be very messed up at time and Chrome runs on so much less and doesn&#039;t hold as high of a cache. 
+
+Everything wen&#039;t back to perfect for me! Worth a shot, good luck !</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bw9ONv1Maa</UserId>
+            <UserNick>foxforce5</UserNick>
+            <Date>2010-02-27 12:23:08</Date>
+            <Timestamp>1267302188</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>download google or firefox and set ur own settings</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qOX3EapGaa</UserId>
+            <UserNick>Jackie D</UserNick>
+            <Date>2010-02-27 12:23:32</Date>
+            <Timestamp>1267302212</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well, try going into Control panel from the start button. Then click on Internet Options.Then where it says Browsing History click on Delete, this will get rid of old unnecessary temporary files which could be blocking up your computer. It helped mine.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dXRGsPwDaa</UserId>
+            <UserNick>Jenny</UserNick>
+            <Date>2010-02-27 12:25:11</Date>
+            <Timestamp>1267302311</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox is a much better browser (IE just lays down and dies on some trivial little errors on websites), but if it&#039;s the parental controls that are blocking you, no browser will get to those sites.  Since you get here with no problem, I&#039;m betting it&#039;s the parental controls.  (And without the password you can&#039;t change that.)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7bf62358ee706efffb78c25a9c7d5a00aa</UserId>
+            <UserNick>Colanth</UserNick>
+            <Date>2010-02-27 12:28:57</Date>
+            <Timestamp>1267302537</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:43:38 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315194025AAHCiXn" type="Answered">
+    <Subject>How do I connect to the internet?</Subject>
+    <Content>I used to have a laptop using wifi.I had a problem,so I rebooted it.Now I can&#039;t connect to the internet via direct line nor wifi(No wifi icon on the computer).I need help in the two conditions(connection via cable and via wifi)
+</Content>
+    <Date>2010-03-15 19:40:25</Date>
+    <Timestamp>1268707225</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315194025AAHCiXn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wrGFIE3laa</UserId>
+    <UserNick>essofaetlaco</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>go to connect to and find internet connnections that r not locked</ChosenAnswer>
+    <ChosenAnswererId>dLmYPGtSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Danababe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268707395</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269226637</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go to connect to and find internet connnections that r not locked</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dLmYPGtSaa</UserId>
+            <UserNick>Danababe</UserNick>
+            <Date>2010-03-15 19:43:15</Date>
+            <Timestamp>1268707395</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:41 PDT 2010 -->

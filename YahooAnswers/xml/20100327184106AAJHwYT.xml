@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327184106AAJHwYT" type="Answered">
+    <Subject>Where can I find a website with these pictures on them?</Subject>
+    <Content>I&#039;m trying to find those pictures where you can insert your own photos into them. For example, it&#039;s a building with a bill bored and your picture is on the bill bored. If anyone knows a website for those pictures that would be wonderful!
+</Content>
+    <Date>2010-03-27 18:41:06</Date>
+    <Timestamp>1269740466</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327184106AAJHwYT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4dxgPKODaa</UserId>
+    <UserNick>Elizabeth</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.bighugelabs.com has movie poster id cards ect.. you upload a photo and add text its pretty fun actually</ChosenAnswer>
+    <ChosenAnswererId>REcJsokBaa</ChosenAnswererId>
+    <ChosenAnswererNick>Greybox</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269753555</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270008840</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://www.bighugelabs.com has movie poster id cards ect.. you upload a photo and add text its pretty fun actually</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>REcJsokBaa</UserId>
+            <UserNick>Greybox</UserNick>
+            <Date>2010-03-27 22:19:15</Date>
+            <Timestamp>1269753555</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:33 PDT 2010 -->

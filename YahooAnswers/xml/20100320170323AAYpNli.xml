@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320170323AAYpNli" type="Answered">
+    <Subject>is the apple website the slowest ever?</Subject>
+    <Content>Or is it just me/my computer?
+</Content>
+    <Date>2010-03-20 17:03:23</Date>
+    <Timestamp>1269129803</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320170323AAYpNli</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6fba742e6dcddf2755a2f5373aa02ec9aa</UserId>
+    <UserNick>red1lynnmarie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1muUs3AvFAAEB-IFzhLJSVmcB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Not even close.
+
+The slowest loading website to date in link.
+
+http://www.28fields.com/wlw.html</ChosenAnswer>
+    <ChosenAnswererId>dkaZHoAIaa</ChosenAnswererId>
+    <ChosenAnswererNick>G M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269130127</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269649453</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Not even close.
+
+The slowest loading website to date in link.
+
+http://www.28fields.com/wlw.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>dkaZHoAIaa</UserId>
+            <UserNick>G M</UserNick>
+            <Date>2010-03-20 17:08:47</Date>
+            <Timestamp>1269130127</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:02 PDT 2010 -->

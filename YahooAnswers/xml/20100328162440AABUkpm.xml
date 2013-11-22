@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328162440AABUkpm" type="Answered">
+    <Subject>question about formspring.me?</Subject>
+    <Content>I accidently didn&#039;t put anonymous when i asked someone a question so i disabled my account and now i&#039;m wondering can they still see the username of the account?
+</Content>
+    <Date>2010-03-28 16:24:40</Date>
+    <Timestamp>1269818680</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328162440AABUkpm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>af6hgH41aa</UserId>
+    <UserNick>lizzy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/16b-sQFiGAAED3QSD2l8CDA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No they can&#039;t, I just tried it myself with my two accounts.
+Hope this helps :) 
+Be careful next time
+~stylinn</ChosenAnswer>
+    <ChosenAnswererId>c4mAxz4iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Stylin970</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269908167</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270338292</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No they can&#039;t, I just tried it myself with my two accounts.
+Hope this helps :) 
+Be careful next time
+~stylinn</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>c4mAxz4iaa</UserId>
+            <UserNick>Stylin970</UserNick>
+            <Date>2010-03-29 17:16:07</Date>
+            <Timestamp>1269908167</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:17:39 PDT 2010 -->

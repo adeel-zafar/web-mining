@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324183925AAhW1r4" type="Answered">
+    <Subject>I have Dish for my cable tv.  I now have a laptop.  How do I get on the internet?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-24 18:39:25</Date>
+    <Timestamp>1269481165</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324183925AAhW1r4</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gDeODi9Haa</UserId>
+    <UserNick>Susan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you got to pay dish to connect.</ChosenAnswer>
+    <ChosenAnswererId>DgPC4NKwaa</ChosenAnswererId>
+    <ChosenAnswererNick>batman08332</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269481819</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270000667</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You need a modem.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>upjvMObtaa</UserId>
+            <UserNick>ASL</UserNick>
+            <Date>2010-03-24 18:39:51</Date>
+            <Timestamp>1269481191</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you need to get an internet package.  If you just have TV, you can&#039;t get internet through that.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11414206</UserId>
+            <UserNick>elpasi2</UserNick>
+            <Date>2010-03-24 18:41:06</Date>
+            <Timestamp>1269481266</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you got to pay dish to connect.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DgPC4NKwaa</UserId>
+            <UserNick>batman08332</UserNick>
+            <Date>2010-03-24 18:50:19</Date>
+            <Timestamp>1269481819</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:33:15 PDT 2010 -->

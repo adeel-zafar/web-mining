@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319205739AAGMHsA" type="Answered">
+    <Subject>Slow download speed with Firefox?</Subject>
+    <Content>For the past couple weeks my downloads have been taking absolutely ages with Firefox. It&#039;s taking up to 2 and a half hours to download software and albums which used to take 20 minutes at the most a few months ago. I do regular registry checks and things like that, plus my internet itself is really quite fast. Does anybody know what could be causing the slow download speed?
+</Content>
+    <Date>2010-03-19 20:57:39</Date>
+    <Timestamp>1269057459</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319205739AAGMHsA</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Eh1yj3NDaa</UserId>
+    <UserNick>char</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Could be a number of reasons, mainly I would have thought that your broadband provider are upgrading their systems which seems to be happening a lot just lately especially if your using ADSL and the BT phone network.
+
+Damage has been done to the system and you are being routed through different exchanges and servers.
+
+If your phone line has developed line noise that will also drag your speed down. Ask for a line test.
+
+Also check your providers service status which is usually on their home page.</ChosenAnswer>
+    <ChosenAnswererId>WeZcSZvKaa</ChosenAnswererId>
+    <ChosenAnswererNick>sewrobb</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269065269</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269213711</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>thats been happening with me too. The updates are screwed up
+Try Google Chrome</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>CHxzrgO2aa</UserId>
+            <UserNick>KROkrimpsonify202</UserNick>
+            <Date>2010-03-19 21:13:30</Date>
+            <Timestamp>1269058410</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Could be a number of reasons, mainly I would have thought that your broadband provider are upgrading their systems which seems to be happening a lot just lately especially if your using ADSL and the BT phone network.
+
+Damage has been done to the system and you are being routed through different exchanges and servers.
+
+If your phone line has developed line noise that will also drag your speed down. Ask for a line test.
+
+Also check your providers service status which is usually on their home page.</Content>
+            <Reference>Experienced1</Reference>
+            <Best>5</Best>
+            <UserId>WeZcSZvKaa</UserId>
+            <UserNick>sewrobb</UserNick>
+            <Date>2010-03-19 23:07:49</Date>
+            <Timestamp>1269065269</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:33:28 PDT 2010 -->

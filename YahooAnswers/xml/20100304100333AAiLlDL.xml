@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304100333AAiLlDL" type="Answered">
+    <Subject>How can you join SpinVox?</Subject>
+    <Content>How do you get in? Is it invite only or something? I cannot find a register link on the main page.
+http://www.spinvox.com/
+</Content>
+    <Date>2010-03-04 10:03:33</Date>
+    <Timestamp>1267725813</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304100333AAiLlDL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>EZdVBdzfaa</UserId>
+    <UserNick>Spaceyavin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1SDAa2-SwAAEB_KEXhk8Lu74B.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>In general you can only sign up if your mobile network supports it.
+
+If you are in Canada, there is a fair chance your carrier has a deal with them, whilst there are a handful of US, South American and Australian networks who can subscribe you to the service also.
+
+They used to have a &#039;retail&#039; outreach program, particularly in the UK, where they would enable a service for you if you were a firend of the company, a blogger, a journalist, or worked for a telco - however I believe that programme has been slowed since the acquisition by Nuance. If you aren&#039;t lucky enough to be subscribed to a supporting carrier, but think you should experience SpinVox and can explain to them why, then try using the contact details on their site to get in touch.</ChosenAnswer>
+    <ChosenAnswererId>oLwheVYvaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kit</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267775767</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267912674</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>In general you can only sign up if your mobile network supports it.
+
+If you are in Canada, there is a fair chance your carrier has a deal with them, whilst there are a handful of US, South American and Australian networks who can subscribe you to the service also.
+
+They used to have a &#039;retail&#039; outreach program, particularly in the UK, where they would enable a service for you if you were a firend of the company, a blogger, a journalist, or worked for a telco - however I believe that programme has been slowed since the acquisition by Nuance. If you aren&#039;t lucky enough to be subscribed to a supporting carrier, but think you should experience SpinVox and can explain to them why, then try using the contact details on their site to get in touch.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>oLwheVYvaa</UserId>
+            <UserNick>Kit</UserNick>
+            <Date>2010-03-04 23:56:07</Date>
+            <Timestamp>1267775767</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:11:01 PDT 2010 -->

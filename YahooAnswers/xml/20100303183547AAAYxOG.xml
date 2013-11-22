@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303183547AAAYxOG" type="Answered">
+    <Subject>Can malware put porn on your computer?</Subject>
+    <Content>If so, is it possible to tell whether said porn is actually malware or if it was actually watched by someone on your computer?
+</Content>
+    <Date>2010-03-03 18:35:47</Date>
+    <Timestamp>1267670147</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303183547AAAYxOG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>a0lnxN6Oaa</UserId>
+    <UserNick>Del</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes, malware can put porn onto an infected computer. Determining if someone actually downloaded the porn or if it was installed by the malware would be more difficult.
+
+See my source for an article about this type of malware:</ChosenAnswer>
+    <ChosenAnswererId>UXgkPrnVaa</ChosenAnswererId>
+    <ChosenAnswererNick>SkinnyD</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267670654</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268189625</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes, malware can put porn onto an infected computer. Determining if someone actually downloaded the porn or if it was installed by the malware would be more difficult.
+
+See my source for an article about this type of malware:</Content>
+            <Reference>http://www.wired.com/techbiz/it/news/2004/04/63280</Reference>
+            <Best>5</Best>
+            <UserId>UXgkPrnVaa</UserId>
+            <UserNick>SkinnyD</UserNick>
+            <Date>2010-03-03 18:44:14</Date>
+            <Timestamp>1267670654</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, it can put anything on your computer.
+
+Even a webpage can put hidden pictures onto your computer. By resizing them as 1x1 pixels on your screen, but it&#039;s really a full-size pic in your cache (hard disk).
+
+Can you tell if someone looked it it? That would be very difficult, and would have errors. So you could not tell for sure.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>o0tBgRlyaa</UserId>
+            <UserNick>MY ICON IS UPSIDE DOWN</UserNick>
+            <Date>2010-03-03 18:44:51</Date>
+            <Timestamp>1267670691</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Malware sure can put porn and other things on your computer!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dna6JMaJaa</UserId>
+            <UserNick>Smokies Hiker</UserNick>
+            <Date>2010-03-03 20:00:46</Date>
+            <Timestamp>1267675246</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:14:38 PDT 2010 -->

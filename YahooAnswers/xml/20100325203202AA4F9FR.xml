@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325203202AA4F9FR" type="Answered">
+    <Subject>How can you change a website when...?</Subject>
+    <Content>I have a guy who wants me to redo his website but the guy who originally made it won&#039;t release the passwords and user names, etc.  all the guy has is the email info this guy set up for him.  I did a who is check and got this maybe someone on here can tell me if there&#039;s anything that can be done.  I blocked out personal info.  Even if there is someway this guy can delete the site and somehow buy it again, although i think the guy who built it bought it for him.
+
+the &#039;clientDeleteProhibited&#039; makes me think there&#039;s nothing that can be done?
+
+Domain Name: ***********************
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS39.DOMAINCONTROL.COM
+   Name Server: NS40.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 11-sep-2009
+   Creation Date: 27-sep-2008
+   Expiration Date: 27-sep-2010
+
+thanks in advance
+</Content>
+    <Date>2010-03-25 20:32:02</Date>
+    <Timestamp>1269574322</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325203202AA4F9FR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7HMpGiEGaa</UserId>
+    <UserNick>Chris Rians</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1euwGS6ZMAAECV6KcsCY6JtsOHw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The best answer I thought of was to get the guy who has the website.....the one you are working for.....to call GoDaddy support phone number. (Which he should have a PIN number to give to an operator for verification.) Ask the support person to confirm who the domain is registered to. If it is your friend, have all the administration passwords changed over the phone. If it is the other guy, your friend cannot do anything right this minute. (Nor will they do anything over the phone if it&#039;s registered to the other guy.)
+
+Court? Does he have any written paperwork/receipts/agreements from the time they were working on the website initially? Read it all carefully, could there possibly be a breach written out in black in white? A blatant contradiction?</ChosenAnswer>
+    <ChosenAnswererId>ltOvpLeVaa</ChosenAnswererId>
+    <ChosenAnswererNick>sadistwitch</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269821437</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270093966</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The best answer I thought of was to get the guy who has the website.....the one you are working for.....to call GoDaddy support phone number. (Which he should have a PIN number to give to an operator for verification.) Ask the support person to confirm who the domain is registered to. If it is your friend, have all the administration passwords changed over the phone. If it is the other guy, your friend cannot do anything right this minute. (Nor will they do anything over the phone if it&#039;s registered to the other guy.)
+
+Court? Does he have any written paperwork/receipts/agreements from the time they were working on the website initially? Read it all carefully, could there possibly be a breach written out in black in white? A blatant contradiction?</Content>
+            <Reference>GoDaddy customer.</Reference>
+            <Best>5</Best>
+            <UserId>ltOvpLeVaa</UserId>
+            <UserNick>sadistwitch</UserNick>
+            <Date>2010-03-28 17:10:37</Date>
+            <Timestamp>1269821437</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:29:13 PDT 2010 -->

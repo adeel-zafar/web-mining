@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315002323AANEdMr" type="Answered">
+    <Subject>My Firefox Spellcheck doesn&#039;t work?</Subject>
+    <Content>I&#039;ve uninstalled and installed my firefox already.
+nvm. you have to add a dictionary.
+</Content>
+    <Date>2010-03-15 00:23:23</Date>
+    <Timestamp>1268637803</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315002323AANEdMr</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>JXqzUUjUaa</UserId>
+    <UserNick>orz</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yeah, it turns itself on and off. Right Click whatever you want to spell check and you will see if &quot;Spell Check&quot; is turned on or not.
+
+Good Luck</ChosenAnswer>
+    <ChosenAnswererId>a30c9df48f39a58a08a1083d248e6555aa</ChosenAnswererId>
+    <ChosenAnswererNick>wraymac</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268638035</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268767289</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yeah, it turns itself on and off. Right Click whatever you want to spell check and you will see if &quot;Spell Check&quot; is turned on or not.
+
+Good Luck</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>a30c9df48f39a58a08a1083d248e6555aa</UserId>
+            <UserNick>wraymac</UserNick>
+            <Date>2010-03-15 00:27:15</Date>
+            <Timestamp>1268638035</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Maybe it&#039;s trying to tell you something</Content>
+            <Reference>the rooster</Reference>
+            <Best></Best>
+            <UserId>1eItvbl0aa</UserId>
+            <UserNick>Robert</UserNick>
+            <Date>2010-03-15 00:55:02</Date>
+            <Timestamp>1268639702</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:55:14 PDT 2010 -->

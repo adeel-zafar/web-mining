@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301133110AAErFx9" type="Answered">
+    <Subject>Why isn&#039;t oovoo working?</Subject>
+    <Content>I&#039;ve tried oovoo on both internet explorer and google chrome and they are both not working. i had oovoo on my computer but it wouldn&#039;t let me sign in so i uninstalled it and tryed to reinstall but the website isnt working.
+</Content>
+    <Date>2010-03-01 13:31:10</Date>
+    <Timestamp>1267479070</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301133110AAErFx9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ky85kSCJaa</UserId>
+    <UserNick>Marissa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1kQg24aFoAAED9GFbPBNV5vHaIiwG.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>same happened to me, i tried updating the newer version, and its saying : oovoo has stopped working</ChosenAnswer>
+    <ChosenAnswererId>2Agjq7c5aa</ChosenAnswererId>
+    <ChosenAnswererNick>girL(:</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267578275</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268261751</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>same happened to me, i tried updating the newer version, and its saying : oovoo has stopped working</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2Agjq7c5aa</UserId>
+            <UserNick>girL(:</UserNick>
+            <Date>2010-03-02 17:04:35</Date>
+            <Timestamp>1267578275</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:31:08 PDT 2010 -->

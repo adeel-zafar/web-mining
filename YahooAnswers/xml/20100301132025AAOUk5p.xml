@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301132025AAOUk5p" type="Answered">
+    <Subject>How can I use a Windows Mobile based mobile phone as a modem?</Subject>
+    <Content>I have a HTC Touch mobile phone with Windows Mobile 6.1. I have tried using the Comm manager and switching on Internet Sharing, and turning on the connect option only to have the Windows 7 Home Premium Sony VAIO to not recognize the phone as a modem. Any Ideas? Should I call US Cellular? Sony? Windows? lol yeah right as if they even have a support hotline. lol
+I guess I should have added I also have the software..Windows Mobile Device Center 6.1
+</Content>
+    <Date>2010-03-01 13:20:25</Date>
+    <Timestamp>1267478425</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301132025AAOUk5p</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>W5cMAc8aaa</UserId>
+    <UserNick>Charles M</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you can&#039;t use that method but i highly reccomend http://www.wmwifirouter.com/ it makes your phone a wireless hotspot that up to 8 devices can connect to through your phone.. wirelessly! if your interested in this you can get the free version here http://global.wmwifirouter.com/trial/ then download the cab on your phone.</ChosenAnswer>
+    <ChosenAnswererId>C2N0thfTaa</ChosenAnswererId>
+    <ChosenAnswererNick>jason m</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267603477</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268204556</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Its possible your carrier has disabled Internet sharing. 
+
+But, you have to ensure that active-sync is installed, because if it isn&#039;t your phone will not connect. Can you dial up without the computer connected? If so then I suspect its been disabled if you&#039;re running the Internet sharing app.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3KokY0w6aa</UserId>
+            <UserNick>Nicx</UserNick>
+            <Date>2010-03-01 13:26:49</Date>
+            <Timestamp>1267478809</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you can&#039;t use that method but i highly reccomend http://www.wmwifirouter.com/ it makes your phone a wireless hotspot that up to 8 devices can connect to through your phone.. wirelessly! if your interested in this you can get the free version here http://global.wmwifirouter.com/trial/ then download the cab on your phone.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>C2N0thfTaa</UserId>
+            <UserNick>jason m</UserNick>
+            <Date>2010-03-03 00:04:37</Date>
+            <Timestamp>1267603477</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:31:20 PDT 2010 -->

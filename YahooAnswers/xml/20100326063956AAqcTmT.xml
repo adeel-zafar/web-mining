@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326063956AAqcTmT" type="Answered">
+    <Subject>To watch live streaming of Indian channels on the internet.?</Subject>
+    <Content>I need to watch free live streaming of Indian channels.Please suggest any websites.
+If available,please post links.
+</Content>
+    <Date>2010-03-26 06:39:56</Date>
+    <Timestamp>1269610796</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326063956AAqcTmT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ci7NxzFtaa</UserId>
+    <UserNick>rahul v</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://delicast.com/tv/India/NDTV_India
+
+http://alltimetv.com/livetv/
+
+http://wwitv.com/television/99.htm</ChosenAnswer>
+    <ChosenAnswererId>d5ff2901a10bb8c0d5e2b76c8023ba6daa</ChosenAnswererId>
+    <ChosenAnswererNick>Jerry</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269611328</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270130132</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://delicast.com/tv/India/NDTV_India
+
+http://alltimetv.com/livetv/
+
+http://wwitv.com/television/99.htm</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>d5ff2901a10bb8c0d5e2b76c8023ba6daa</UserId>
+            <UserNick>Jerry</UserNick>
+            <Date>2010-03-26 06:48:48</Date>
+            <Timestamp>1269611328</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>log on to www.freeztv.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vY3m8ASWaa</UserId>
+            <UserNick>Ayaz</UserNick>
+            <Date>2010-03-26 09:11:41</Date>
+            <Timestamp>1269619901</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:27:38 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320154445AAf9ecD" type="Answered">
+    <Subject>Why Isnt EBAY showing me the option to add the UPC of an item i want to sell?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-20 15:44:45</Date>
+    <Timestamp>1269125085</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320154445AAf9ecD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6BIYfszeaa</UserId>
+    <UserNick>Josh from Harvey</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Only some categories have this option.</ChosenAnswer>
+    <ChosenAnswererId>jd1xTIjeaa</ChosenAnswererId>
+    <ChosenAnswererNick>evilfiredeamon</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269125742</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269140015</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Only some categories have this option.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>jd1xTIjeaa</UserId>
+            <UserNick>evilfiredeamon</UserNick>
+            <Date>2010-03-20 15:55:42</Date>
+            <Timestamp>1269125742</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:11 PDT 2010 -->

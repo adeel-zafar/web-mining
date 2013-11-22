@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226150910AAcGOmd" type="Answered">
+    <Subject>Antivirus soft virus?</Subject>
+    <Content>nothing&#039;s working
+i downloaded malwarebytes&#039; anti-malware, i performed both a full scan and a quick scan and it said it removed all threats. it didn&#039;t, when i restarted my computer in normal mode, the virus was still there
+i tried following the directions i use mozilla firefox and everytime i go to tools, first there&#039;s no internet options button but there is an option button so i click on that, but it doesn&#039;t have a connections tab. so i don&#039;t know where to go from there
+i can&#039;t run rkill in safe mode, everytime i try and download rkill (and avg and antivira) it gets &quot;infected&quot; and i can&#039;t run it. in safe mode with networking i can&#039;t get the internet so i can&#039;t download anything while in safe mode
+i&#039;ve tried a system restore but for some reason all my restore points were deleted
+finally i downloaded IObit Security 360. i performed a scan and at first it found 18 threats. i restarted the computer and antivirus soft was still there
+
+i don&#039;t know what to do
+please please help!!
+</Content>
+    <Date>2010-02-26 15:09:10</Date>
+    <Timestamp>1267225750</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226150910AAcGOmd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0LtKMGXsaa</UserId>
+    <UserNick>Kobe Bryan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267283618</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267284581</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Before you ran the scans, did you check for updates with malwarebytes? This should be down every time you scan for infections.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>901930fc8f0cb1ce4a9483207715497baa</UserId>
+            <UserNick>Linds</UserNick>
+            <Date>2010-02-26 15:11:04</Date>
+            <Timestamp>1267225864</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>On a clean PC burn Avira Rescue System to CD/DVD and run it on the infected machine. You can also burn Malwarebytes, SuperAntiSpyware, Hitman Pro, ccleaner to CD, being sure to update them, and run them After Avira Rescue System...</Content>
+            <Reference>http://www.free-av.com/en/tools/12/avira_antivir_rescue_system.html
+http://forum.avira.com/wbb/index.php?page=Thread&amp;threadID=82163
+---------
+http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/SuperAntiSpyware-Free-Edition/3000-8022_4-10523889.html?tag=mncol
+http://www.surfright.nl/en/hitmanpro
+http://download.cnet.com/ccleaner/?tag=mncol</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-26 15:25:17</Date>
+            <Timestamp>1267226717</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you don&#039;t just download free software online. I wouldn&#039;t doubt you downloaded a ton more viruses. you have to actually buy anti-virus for it to be good at all. if you are buying it online it has to have https at the top because the S at the end means its secure. NEVER buy anything online until you make sure at the top on the address bar it says https. Try buying exterminate it; it really does the job. here is the link:
+https://www.regnow.com/softsell/nph-softsell.cgi?items=16843-2&amp;sn=
+It only costs 30 dollars. To be exact it was like 29.95. Once you buy it at the end it gives you the code. Click the download link. Once you install it do all the updates. On the left click activate. Go back to the webpage that had the code on it copy and paste and click activate. Now you scan give it a while until it completely scans everything then click exterminate!</Content>
+            <Reference>experience</Reference>
+            <Best></Best>
+            <UserId>y3raOcg2aa</UserId>
+            <UserNick>Esparza90</UserNick>
+            <Date>2010-02-26 15:32:24</Date>
+            <Timestamp>1267227144</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-02-27 07:13:38</Date>
+            <Timestamp>1267283618</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:49:15 PDT 2010 -->

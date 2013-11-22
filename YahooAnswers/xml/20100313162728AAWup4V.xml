@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313162728AAWup4V" type="Answered">
+    <Subject>I Need Help on Ebay...?</Subject>
+    <Content>Ok so i just sold an item on ebay. In the item description i clearly stated i could only deliver to the U.K. But now the guy who has won the auction is from  portugal and is asking me for the total payment. the guy who was second in the auction is from the U.K and only bidded 50p less. So what do i do , Can i just tell the winning bidder he can&#039;t have it and make a second chance offer to the second person? 
+
+Thanks in advance.
+</Content>
+    <Date>2010-03-13 16:27:28</Date>
+    <Timestamp>1268526448</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313162728AAWup4V</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>W0WgDTbkaa</UserId>
+    <UserNick>gbij478</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Advise the buyer that you only sell to the UK as per your listing therefore you will need to cancel the transaction. Only after that transaction is resolved you may offer the item to any underbidders.
+Do yourself a favour by setting some buyers blocks (see selling preferences) one of these is to block buyers from countries that you do not post to.</ChosenAnswer>
+    <ChosenAnswererId>ErqdYx4Gaa</ChosenAnswererId>
+    <ChosenAnswererNick>fourleafclover</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268527096</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269042344</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Advise the buyer that you only sell to the UK as per your listing therefore you will need to cancel the transaction. Only after that transaction is resolved you may offer the item to any underbidders.
+Do yourself a favour by setting some buyers blocks (see selling preferences) one of these is to block buyers from countries that you do not post to.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ErqdYx4Gaa</UserId>
+            <UserNick>fourleafclover</UserNick>
+            <Date>2010-03-13 16:38:16</Date>
+            <Timestamp>1268527096</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:31 PDT 2010 -->

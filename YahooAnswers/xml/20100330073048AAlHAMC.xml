@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330073048AAlHAMC" type="Answered">
+    <Subject>how to get a domain name?</Subject>
+    <Content>how can i get a free domain name?
+</Content>
+    <Date>2010-03-30 07:30:48</Date>
+    <Timestamp>1269959448</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330073048AAlHAMC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>I6hO4705aa</UserId>
+    <UserNick>Joshua</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Top level domain names (Anything that is .com, .net, etc and not .something.com) cost money.  The most popular (and to my knowledge, cheapest) place to register a domain is GoDaddy.com.</ChosenAnswer>
+    <ChosenAnswererId>1tDVRbeJaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jason</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269959565</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270135517</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Top level domain names (Anything that is .com, .net, etc and not .something.com) cost money.  The most popular (and to my knowledge, cheapest) place to register a domain is GoDaddy.com.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>1tDVRbeJaa</UserId>
+            <UserNick>Jason</UserNick>
+            <Date>2010-03-30 07:32:45</Date>
+            <Timestamp>1269959565</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>freeweb.com  try there.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Ta58Coegaa</UserId>
+            <UserNick>Joop</UserNick>
+            <Date>2010-03-30 07:39:11</Date>
+            <Timestamp>1269959951</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you need to setup a FREE website with Free Domain name and free PHP Hosting read this article
+http://dotcomwebsite.blogspot.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NA84TUSDaa</UserId>
+            <UserNick>Malayalamonlinemovies</UserNick>
+            <Date>2010-03-30 09:48:10</Date>
+            <Timestamp>1269967690</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:14:23 PDT 2010 -->

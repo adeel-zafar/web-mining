@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319102804AAEUxH1" type="Answered">
+    <Subject>How to add Gifs to ChatRoulette?</Subject>
+    <Content>How to add Gifs to ChatRoulette?
+</Content>
+    <Date>2010-03-19 10:28:04</Date>
+    <Timestamp>1269019684</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319102804AAEUxH1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tjImPvzOaa</UserId>
+    <UserNick>Thrust</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ybAtdIiXAAECPYE_hAvUBA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>manycam</ChosenAnswer>
+    <ChosenAnswererId>sDtOr2pAaa</ChosenAnswererId>
+    <ChosenAnswererNick>The answer is 42</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269128726</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269228977</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>manycam</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>sDtOr2pAaa</UserId>
+            <UserNick>The answer is 42</UserNick>
+            <Date>2010-03-20 16:45:26</Date>
+            <Timestamp>1269128726</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:35:38 PDT 2010 -->

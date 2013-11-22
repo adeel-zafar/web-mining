@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222064808AAvqNRg" type="Answered">
+    <Subject>How do I overlap my drop down menu?</Subject>
+    <Content>We&#039;re doing a website for a computer project.
+I&#039;ve already created a navigation bar.
+When I mouse over the tab, a drop down menu appears.
+The problem is, the drop menu appears behind the iFrame below the navigation bar.
+It&#039;s like, &quot;underlaped&quot; instead of overlapped.
+How do I solve this problem??
+i saw the answer. how do I use the z-index?
+</Content>
+    <Date>2010-02-22 06:48:08</Date>
+    <Timestamp>1266850088</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222064808AAvqNRg</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fkY7SBioaa</UserId>
+    <UserNick>veerah</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1gRUb1ifPAAEC0AJpPJNwAlucIgYFvA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try giving the menus a z-index</ChosenAnswer>
+    <ChosenAnswererId>6CdY8mvCaa</ChosenAnswererId>
+    <ChosenAnswererNick>KoKo KiTTy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266850196</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267369522</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try giving the menus a z-index</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6CdY8mvCaa</UserId>
+            <UserNick>KoKo KiTTy</UserNick>
+            <Date>2010-02-22 06:49:56</Date>
+            <Timestamp>1266850196</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:29:22 PDT 2010 -->

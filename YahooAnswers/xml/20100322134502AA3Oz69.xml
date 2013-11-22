@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322134502AA3Oz69" type="Answered">
+    <Subject>How to get Firefox&#039;s address bar to show up again?</Subject>
+    <Content>My little sister came into my room when I wasn&#039;t looking and screwed with the keyboard; leading to Firefox looking a bit plainer than usual with the result of a missing address bar and no toolbars.  Help?
+</Content>
+    <Date>2010-03-22 13:45:02</Date>
+    <Timestamp>1269290702</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322134502AA3Oz69</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>sh0gdUWWaa</UserId>
+    <UserNick>┢┦aΡｐy</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4ba175e7i51ezws130mud/kVXocb88fqhn6b9hW5cBvUmAOWjNSp7R3cF5niI__t4_vEUJ/1/tn48.png?ciAAToMBj1WjRhvh</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Press Alt and F at the same time to open the File menu. Move your mouse over to View then Toolbars then Navigation.
+
+Choose Navigation and it should reappear.</ChosenAnswer>
+    <ChosenAnswererId>Qz4oYMlSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ike</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269290943</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269385187</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There should be a &quot;oval-looking&quot; button in the right corner of the window. Click it. :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NEzY8ofgaa</UserId>
+            <UserNick>Cassie</UserNick>
+            <Date>2010-03-22 13:46:33</Date>
+            <Timestamp>1269290793</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try F11 I believe that key will bring back the toolbars.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XBLQGjrJaa</UserId>
+            <UserNick>Dustin</UserNick>
+            <Date>2010-03-22 13:46:50</Date>
+            <Timestamp>1269290810</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>hit the F11 key
+put the mouse pointer on top and right click uncheck hide tool bar</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3dB43nhuaa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-22 13:47:09</Date>
+            <Timestamp>1269290829</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Is it in full screen mode? Try pressing escape, Ctrl Alt Delete (if in Windows), or F11.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GI8vocbcaa</UserId>
+            <UserNick>Thomas</UserNick>
+            <Date>2010-03-22 13:47:14</Date>
+            <Timestamp>1269290834</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to the top of you Firefox Browser and right Click it. Check on the menu bar and the Navigation bar.
+This should get it back to where you were.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UJRMWNvCaa</UserId>
+            <UserNick>Buster</UserNick>
+            <Date>2010-03-22 13:48:52</Date>
+            <Timestamp>1269290932</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Press Alt and F at the same time to open the File menu. Move your mouse over to View then Toolbars then Navigation.
+
+Choose Navigation and it should reappear.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Qz4oYMlSaa</UserId>
+            <UserNick>Ike</UserNick>
+            <Date>2010-03-22 13:49:03</Date>
+            <Timestamp>1269290943</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hold down the {ALT} key ({Cmd} key in OSX) and press the following letters in this exact order: V T M 
+The Menu Bar should now be displayed permanently, unless you turn it off again (View &gt; Toolbars). Turning the Menu Bar on and off is a new feature in version 3.6. 
+See other bars under View &gt; Toolbars. Click on one of them will place a check mark (display) or remove the check mark (not displayed). 
+To display the Status Bar, View, then click Status bar to place a check mark (display) or remove the check mark (not displayed).
+
+hope it helped !</Content>
+            <Reference>it happened to my friend</Reference>
+            <Best></Best>
+            <UserId>CRVp09jXaa</UserId>
+            <UserNick>Liv</UserNick>
+            <Date>2010-03-22 13:49:39</Date>
+            <Timestamp>1269290979</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:22:19 PDT 2010 -->

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226144105AAlZApm" type="Answered">
+    <Subject>why wont my aim sign on? has this ever happened to you?</Subject>
+    <Content>i was on AIM perfectly like 10 minutes ago. and i tried signing on now and it says wrong password or screen name. im 100% sure that my password is correct because i didnt change it. caps lock isnt on either. i tried going on www.meebo.com and that didnt work either, so i reset my computer and tried both of them again. and nothing. what do i do?
+okay can you tell me when its fixed.
+</Content>
+    <Date>2010-02-26 14:41:05</Date>
+    <Timestamp>1267224065</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226144105AAlZApm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1NIp8eH7aa</UserId>
+    <UserNick>&lt;3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/19RG-i2EnAAED-GHFhDL6Cw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I have the same problem! I can&#039;t sign on through AIM or Meebo and I can&#039;t reset my password either. But I can sign onto another screen name that I have on both AIM and Meebo. I don&#039;t know what happened... hope this is resolved soon.
+
+EDIT: I can sign onto AIM now. XD</ChosenAnswer>
+    <ChosenAnswererId>ac18c51d88c50d16c81d3bc04f04a3ddaa</ChosenAnswererId>
+    <ChosenAnswererNick>XD</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267228008</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268190829</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>same things happening to me... i&#039;m sure its just a server glitch.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>RpxiheZAaa</UserId>
+            <UserNick>rooney325</UserNick>
+            <Date>2010-02-26 14:42:33</Date>
+            <Timestamp>1267224153</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I have the same problem! I can&#039;t sign on through AIM or Meebo and I can&#039;t reset my password either. But I can sign onto another screen name that I have on both AIM and Meebo. I don&#039;t know what happened... hope this is resolved soon.
+
+EDIT: I can sign onto AIM now. XD</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ac18c51d88c50d16c81d3bc04f04a3ddaa</UserId>
+            <UserNick>XD</UserNick>
+            <Date>2010-02-26 15:46:48</Date>
+            <Timestamp>1267228008</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:49:40 PDT 2010 -->

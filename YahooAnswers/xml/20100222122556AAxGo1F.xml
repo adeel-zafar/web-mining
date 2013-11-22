@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222122556AAxGo1F" type="Answered">
+    <Subject>Why does my internet explorer close when i open my windows live hot mail?</Subject>
+    <Content>when i open my hotmail and view the emails about 1 or 2 mins later a box pops up telling me ie needs to close and would i like to send details to microsoft........this ha only been happening in the last week
+
+using xp all updates downloaded
+kaspersky i s
+</Content>
+    <Date>2010-02-22 12:25:56</Date>
+    <Timestamp>1266870356</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222122556AAxGo1F</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>oyoW6UJnaa</UserId>
+    <UserNick>Chocolate Starfish</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b34df91i131bzul6re4/3FfExG8zaaOR1TomnDrNrco-/1/tn48.jpg?ciAAToMBfDcVHEWU</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Restart PC in safe mode by tapping F-8 key, choosing &quot;Last Known Good Configuration&quot; from menu. Next download, update, run Malwarebytes, ccleaner, Reset IE8 to Default in Options, Advanced and Restart PC...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266871698</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267438355</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it might be a problem with the flash/java for the internet explorer.
+
+it would be way easier if you downloaded mozilla firefox, google chrome, or opera
+
+http://www.mozilla.com/en-US/ &gt; Firefox</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EhAL1z78aa</UserId>
+            <UserNick>AaRoN.tHe.CP.WiZ</UserNick>
+            <Date>2010-02-22 12:46:25</Date>
+            <Timestamp>1266871585</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Restart PC in safe mode by tapping F-8 key, choosing &quot;Last Known Good Configuration&quot; from menu. Next download, update, run Malwarebytes, ccleaner, Reset IE8 to Default in Options, Advanced and Restart PC...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/ccleaner/?tag=mncol</Reference>
+            <Best>5</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-22 12:48:18</Date>
+            <Timestamp>1266871698</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:27:22 PDT 2010 -->

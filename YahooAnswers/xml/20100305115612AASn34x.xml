@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305115612AASn34x" type="Answered">
+    <Subject>How do I change the look of my Firefox browser.?</Subject>
+    <Content>I started a short while ago &amp; set the &quot;skin&quot;? to be AVATAR which is getting annoying as the eyes on it are getting distracting. How can I change this to something else?
+</Content>
+    <Date>2010-03-05 11:56:12</Date>
+    <Timestamp>1267818972</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305115612AASn34x</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yr6AEHrdaa</UserId>
+    <UserNick>froodles01</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/10oF83KnoAAEC5YRnkTvDp_0OYN8Eo78V.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Firefox has many &quot;Themes&quot; for your browser. See the page with the options below.
+
+http://customize.org/firefox</ChosenAnswer>
+    <ChosenAnswererId>rugZxDXbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Devastation Assistant</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267819167</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267912674</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox has many &quot;Themes&quot; for your browser. See the page with the options below.
+
+http://customize.org/firefox</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>rugZxDXbaa</UserId>
+            <UserNick>Devastation Assistant</UserNick>
+            <Date>2010-03-05 11:59:27</Date>
+            <Timestamp>1267819167</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:56:44 PDT 2010 -->

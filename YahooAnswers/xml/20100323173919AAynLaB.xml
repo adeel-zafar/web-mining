@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323173919AAynLaB" type="Answered">
+    <Subject>When i go on the iphone web site my browser almost stops?</Subject>
+    <Content>Im using ie8 on my pc and i cant scroll or hardley do anything on apples iphone web site
+</Content>
+    <Date>2010-03-23 17:39:19</Date>
+    <Timestamp>1269391159</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323173919AAynLaB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>6t03pmkJaa</UserId>
+    <UserNick>barbeler</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Update your flash settings!
+
+www.technologyfixins.com or call 1 (888) 758-7986</ChosenAnswer>
+    <ChosenAnswererId>tkI6pmE7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Technology Fixins</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269391850</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269910724</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Update your flash settings!
+
+www.technologyfixins.com or call 1 (888) 758-7986</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>tkI6pmE7aa</UserId>
+            <UserNick>Technology Fixins</UserNick>
+            <Date>2010-03-23 17:50:50</Date>
+            <Timestamp>1269391850</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:12 PDT 2010 -->

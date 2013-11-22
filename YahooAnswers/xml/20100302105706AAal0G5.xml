@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302105706AAal0G5" type="Answered">
+    <Subject>Is it possible for a website to show up in the internet history without logging on to it?</Subject>
+    <Content>So I have this strange thing going on on my computer. Recently in the history its been saying that I&#039;ve logged onto Facebook. I know my sister has used this computer a long time ago to log on to her account but not in a long time. I&#039;ve noticed that facebook keeps showing up in the history. Can anyone explain this?
+</Content>
+    <Date>2010-03-02 10:57:06</Date>
+    <Timestamp>1267556226</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302105706AAal0G5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>BMzadzLGaa</UserId>
+    <UserNick>Rest</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1VNGGGvI6AAEDXYFTkI1wAg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if you never deleted your history, it would still be there, but if you have,somebody has been on the pc.</ChosenAnswer>
+    <ChosenAnswererId>bs4EQtkvaa</ChosenAnswererId>
+    <ChosenAnswererNick>liketolisten</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267556545</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268075785</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You don&#039;t have to login to a website for it to be in internet history, just visiting it records that.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>muzBf9mnaa</UserId>
+            <UserNick>fediaFedia</UserNick>
+            <Date>2010-03-02 11:01:21</Date>
+            <Timestamp>1267556481</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I wish I could...I try to tell my wife that the porno sites just pop up, but she doesn&#039;t believe me.  I wonder why?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eLtY7AvZaa</UserId>
+            <UserNick>snake eater</UserNick>
+            <Date>2010-03-02 11:02:06</Date>
+            <Timestamp>1267556526</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if you never deleted your history, it would still be there, but if you have,somebody has been on the pc.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bs4EQtkvaa</UserId>
+            <UserNick>liketolisten</UserNick>
+            <Date>2010-03-02 11:02:25</Date>
+            <Timestamp>1267556545</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:26:03 PDT 2010 -->

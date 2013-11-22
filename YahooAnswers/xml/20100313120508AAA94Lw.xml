@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313120508AAA94Lw" type="Answered">
+    <Subject>Does anyone besides me have a spam email? is it a good idea?</Subject>
+    <Content>I have 2 emails my real email and my spam email. A spam email is an email that you give out to websites, people or groups where you have to give your email but you&#039;re uninterested or you know that for sure you&#039;ll get &quot;spammed&quot;. Opinions,comments,concerns?
+</Content>
+    <Date>2010-03-13 12:05:08</Date>
+    <Timestamp>1268510708</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313120508AAA94Lw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>uWFs6KO6aa</UserId>
+    <UserNick>Grover</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1lmywrNk-AAID_AHf0dDBDQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yeah i do that. i used to wade through so much spam to get my real emails, this way is so much easier</ChosenAnswer>
+    <ChosenAnswererId>3UIWQG6maa</ChosenAnswererId>
+    <ChosenAnswererNick>x</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268510821</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268616083</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yeah i do that. i used to wade through so much spam to get my real emails, this way is so much easier</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>3UIWQG6maa</UserId>
+            <UserNick>x</UserNick>
+            <Date>2010-03-13 12:07:01</Date>
+            <Timestamp>1268510821</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You are being prudent by using a &quot;dummy&quot; or &quot;throw away&quot; account to get memberships to sites, groups, etc. If the account ever gets overrun with spam, you can simply delete it. However, it is always a good idea to use a different password for any such accounts to further safeguard your real email account.
+
+Here are a few steps you can take to try and avoid spam.
+
+1. Don&#039;t open unsolicited Spam. Often what happens is that when you open up spam, it sends back a trigger to the originating source indicating that a valid email address has been found thus subjecting you to even more spam down the road.
+
+2. Don&#039;t use the Preview Pane for the same reasons as #1. Also adjust your email options not to automatically open up email messages. Set it so that after you finish reading one email and take the necessary action you return to the inbox and not open the next one.
+
+3. Set your email options to accept mail from only people in your address book or safe lists.
+
+4. Set some filters to automatically route spam to certain folders for easy deletion later.
+
+5. Use a throwaway account for any online registrations you need such as news sites and contests, etc. Often these email addresses are sold to other places, particularly advertising firms. If the throwaway account gets over run, you can simply delete it and create another.
+
+6. Use the BCC when composing emails and encourage your friends to do the same. What this does is protects mailing lists from email harvesters.
+
+7. You can consider using a third party application such as SpamFighter (free version can only be used for 1 account and it is for Outlook and Outlook Express only) http://www.spamfighter.com/ . Mailwasher is also a good antispam tool. http://www.mailwasher.net/
+
+8. Never reply to any spam email that you happen to open and receive for the same reason as #1 above. 
+
+You can see more info at the webpage below:
+
+http://www.us-cert.gov/cas/tips/ST04-007.html</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gPzLD9gmaa</UserId>
+            <UserNick>MLM</UserNick>
+            <Date>2010-03-13 12:08:50</Date>
+            <Timestamp>1268510930</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:03:45 PDT 2010 -->

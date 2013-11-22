@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225000349AAWNEWC" type="Answered">
+    <Subject>internet browser question?</Subject>
+    <Content>my internet browser history states sites visited i am not aware i have been on. if they are there is that a 100% deffinate answer that that particular site has been visited ?
+</Content>
+    <Date>2010-02-25 00:03:49</Date>
+    <Timestamp>1267085029</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225000349AAWNEWC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>43FtSnMZaa</UserId>
+    <UserNick>Kate</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b5aa2a3i240fzul5re4/GTPScJk6erIFBtnP2wIfxCXpA0QC/1/tn48.jpg?ciAAToMBZZ395IzL</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if a website shows up in the history than its obvious it was visited</ChosenAnswer>
+    <ChosenAnswererId>o716IHkHaa</ChosenAnswererId>
+    <ChosenAnswererNick>universe man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267085732</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267604594</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Do you share your computer with anyone else? That would be the first question to ask.
+
+If yes find out when the sites are visited by using the history bar, and then find out who was on at that time.
+
+If not then it may just be ad sites that have been popping up on sites you have visited.
+
+Hope that helped.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DtUDkUD0aa</UserId>
+            <UserNick>JibMate</UserNick>
+            <Date>2010-02-25 00:08:02</Date>
+            <Timestamp>1267085282</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Maybe someone just use your computer.</Content>
+            <Reference>Joyhong Software</Reference>
+            <Best></Best>
+            <UserId>dczcVkMYaa</UserId>
+            <UserNick>Happy</UserNick>
+            <Date>2010-02-25 00:13:49</Date>
+            <Timestamp>1267085629</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if a website shows up in the history than its obvious it was visited</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>o716IHkHaa</UserId>
+            <UserNick>universe man</UserNick>
+            <Date>2010-02-25 00:15:32</Date>
+            <Timestamp>1267085732</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:00:14 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323175816AA7qoRu" type="Answered">
+    <Subject>My internet page font and format is ridiculouly huge how do i get it back to regular sized?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-23 17:58:16</Date>
+    <Timestamp>1269392296</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323175816AA7qoRu</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ihYqZngyaa</UserId>
+    <UserNick>__A_YAHOO_USER__</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Look in the lower right hand corner of the window.  There is a small black downward-pointing triangle next to a number and percent sign.  If the percent is something other than 100% (say, 200% or 400%), that&#039;s your problem.  Click on the triangle, choose 100%, and it should go back to normal.</ChosenAnswer>
+    <ChosenAnswererId>LmF6O21laa</ChosenAnswererId>
+    <ChosenAnswererNick>levarfan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269397266</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269911699</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hold Ctrl and scroll out.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>IU1fzXRNaa</UserId>
+            <UserNick>George</UserNick>
+            <Date>2010-03-23 18:00:40</Date>
+            <Timestamp>1269392440</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Look in the lower right hand corner of the window.  There is a small black downward-pointing triangle next to a number and percent sign.  If the percent is something other than 100% (say, 200% or 400%), that&#039;s your problem.  Click on the triangle, choose 100%, and it should go back to normal.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>LmF6O21laa</UserId>
+            <UserNick>levarfan</UserNick>
+            <Date>2010-03-23 19:21:06</Date>
+            <Timestamp>1269397266</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:06 PDT 2010 -->

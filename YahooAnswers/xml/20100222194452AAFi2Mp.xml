@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222194452AAFi2Mp" type="Answered">
+    <Subject>Why is thepiratebay.org not working?</Subject>
+    <Content>I look up something and the banners on the sides are still there and I can still flip pages but there are no torrents. Why is this? It works on a different computer.
+</Content>
+    <Date>2010-02-22 19:44:52</Date>
+    <Timestamp>1266896692</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222194452AAFi2Mp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ow4Cb6hgaa</UserId>
+    <UserNick>Dudes</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Cause theroyalnavy.net is on the warpath.</ChosenAnswer>
+    <ChosenAnswererId>X3a9VMMeaa</ChosenAnswererId>
+    <ChosenAnswererNick>Cassandra</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266896770</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267427031</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Cause theroyalnavy.net is on the warpath.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>X3a9VMMeaa</UserId>
+            <UserNick>Cassandra</UserNick>
+            <Date>2010-02-22 19:46:10</Date>
+            <Timestamp>1266896770</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try torrentz.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OBKrjHEhaa</UserId>
+            <UserNick>SammY</UserNick>
+            <Date>2010-02-22 19:48:14</Date>
+            <Timestamp>1266896894</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:24:43 PDT 2010 -->

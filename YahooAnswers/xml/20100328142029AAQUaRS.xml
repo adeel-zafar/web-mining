@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100328142029AAQUaRS" type="Answered">
+    <Subject>Where is the tamper data on Internet Explorer?</Subject>
+    <Content>I saw a video were a guy went into the tools section of Firefox and clicked on tamper data. is there such thing on Internet Explorer, because I went to tools and did not find it. If there is explain how to get there, thank you.
+</Content>
+    <Date>2010-03-28 14:20:29</Date>
+    <Timestamp>1269811229</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100328142029AAQUaRS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qp9EZ2JXaa</UserId>
+    <UserNick>GIGU</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>tamper data is an addon for firefox. There is, but it needs to be installed.</ChosenAnswer>
+    <ChosenAnswererId>qHt5jXd9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Stupid Guy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269811338</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270008253</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>tamper data is an addon for firefox. There is, but it needs to be installed.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>qHt5jXd9aa</UserId>
+            <UserNick>Stupid Guy</UserNick>
+            <Date>2010-03-28 14:22:18</Date>
+            <Timestamp>1269811338</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:18:01 PDT 2010 -->

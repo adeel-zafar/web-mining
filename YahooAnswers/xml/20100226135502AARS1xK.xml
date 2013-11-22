@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226135502AARS1xK" type="Answered">
+    <Subject>How come Chatroulette! is so slow?</Subject>
+    <Content>well, how come? is it still updating the software or whatever? xP
+</Content>
+    <Date>2010-02-26 13:55:02</Date>
+    <Timestamp>1267221302</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226135502AARS1xK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NyaWJdUbaa</UserId>
+    <UserNick>dynotheryno</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1IdL4kGSQAAEBX4FDfBPxtE7TLcS1vw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>System notice:
+We are aware of the &quot;Entering&quot; problem and we are currently resolving it. We&#039;ve met unexpected troubles with scaling, but we are working hard and hoping to fix it quickly. Chatroulette should be running properly soon.</ChosenAnswer>
+    <ChosenAnswererId>w8iQuy7Qaa</ChosenAnswererId>
+    <ChosenAnswererNick>ieg0</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267246079</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267284536</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>System notice:
+We are aware of the &quot;Entering&quot; problem and we are currently resolving it. We&#039;ve met unexpected troubles with scaling, but we are working hard and hoping to fix it quickly. Chatroulette should be running properly soon.</Content>
+            <Reference>chatroulette.com</Reference>
+            <Best>5</Best>
+            <UserId>w8iQuy7Qaa</UserId>
+            <UserNick>ieg0</UserNick>
+            <Date>2010-02-26 20:47:59</Date>
+            <Timestamp>1267246079</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>uTLMJ0Bfaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-03-01 13:53:37</Date>
+            <Timestamp>1267246079</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:50:03 PDT 2010 -->

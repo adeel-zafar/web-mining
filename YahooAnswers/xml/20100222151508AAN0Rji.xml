@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100222151508AAN0Rji" type="Answered">
+    <Subject>Virus On My Computer!?</Subject>
+    <Content>I have a virus on my computer that doesn&#039;t let me log in into any account.
+
+So when I startup and log on to one of the user accounts, it logs me out right after.
+
+And, to be worst, it disables my keyboard UNTIL i&#039;m at the log in screen so I can&#039;t press F2 or such when the computer is starting up, any ideas?
+
+I can&#039;t log on Guest or any account. The virus automatically logs me back out as I log back in. And I can&#039;t download anything because I can&#039;t LOG IN.
+
+I&#039;m using Windows XP. I&#039;ve heard rumors of a certain Windows CD that can restart the computer as if it was brand new? Any ideas on where to get that?
+
+Can you please support a step-by-step guide on any of your comments? Please and thank you!
+</Content>
+    <Date>2010-02-22 15:15:08</Date>
+    <Timestamp>1266880508</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100222151508AAN0Rji</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Ky3ekxvzaa</UserId>
+    <UserNick>Meganano</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266937313</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1266937721</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Its not a rumors of the cd
+
+its windows CD
+ fomat the computer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>iU2e8dsRaa</UserId>
+            <UserNick>Pirates of Hell</UserNick>
+            <Date>2010-02-22 15:20:55</Date>
+            <Timestamp>1266880855</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you should have recieved the cd when your bought your computer.
+
+if you don&#039;t have one, you could try to borrow a friends, or download it somewhere online and copy it to a cd.
+
+
+or you could take your computer to geek squad or somewhere else and they might be able to get rid of the virus</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8pQP17wlaa</UserId>
+            <UserNick>hhllxisluv</UserNick>
+            <Date>2010-02-22 15:23:16</Date>
+            <Timestamp>1266880996</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if not a virus, it could just be an infinite boot loop that is in your start up folder that keeps logging u out. the whole disabling the keyboard thing though is sorta weird to me. there&#039;s sometimes a button on your computer close to the on/off switch that enables some control over the start up process of the computer.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ljtsC8dkaa</UserId>
+            <UserNick>Redrider469</UserNick>
+            <Date>2010-02-22 15:30:20</Date>
+            <Timestamp>1266881420</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-02-23 07:01:53</Date>
+            <Timestamp>1266937313</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:26:09 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312185456AA7lmmJ" type="Answered">
+    <Subject>Weird error when trying to browse a cosmetic website?</Subject>
+    <Content>Maybe it is just the website but i&#039;m trying to click on the eyes button to look at the eyeshadow on www.dulcecosmetics.com? But  it says: Unable to connect to the server. Error is: Access denied. Just a white screen saying this. Is this just my comptuer or what? I&#039;m trying to get some to do reviews on for my youtube channel :(.
+</Content>
+    <Date>2010-03-12 18:54:56</Date>
+    <Timestamp>1268448896</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312185456AA7lmmJ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Bn2jN1y1aa</UserId>
+    <UserNick>Samantha Serenity</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/12fTLu4VUAAEB24Kc2NTACw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s an error on the website - they&#039;ve sent you to a directory that has security that disallows browsing, or to a page that is locked down. Nothing you can do but email the webmaster with the page and error, and hope they fix it.</ChosenAnswer>
+    <ChosenAnswererId>wqchA8B7aa</ChosenAnswererId>
+    <ChosenAnswererNick>jack99skellington</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268448984</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268964825</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s an error on the website - they&#039;ve sent you to a directory that has security that disallows browsing, or to a page that is locked down. Nothing you can do but email the webmaster with the page and error, and hope they fix it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wqchA8B7aa</UserId>
+            <UserNick>jack99skellington</UserNick>
+            <Date>2010-03-12 18:56:24</Date>
+            <Timestamp>1268448984</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s their website, nothing on your end.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>9fec58dcddffbdd1aec8a4af3474c54eaa</UserId>
+            <UserNick>mrresearchman</UserNick>
+            <Date>2010-03-12 18:57:26</Date>
+            <Timestamp>1268449046</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:06:59 PDT 2010 -->

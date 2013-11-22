@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324123108AArCapR" type="Answered">
+    <Subject>How do I put my localhost online?</Subject>
+    <Content>I have a domain name, Is there some way I can transfer the localhost files to my domain name? is there some way i can connect my localhost to my domain?
+I Use XAMPP Control Panel with Apache and MySQL sevices.
+</Content>
+    <Date>2010-03-24 12:31:08</Date>
+    <Timestamp>1269459068</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324123108AArCapR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>LnVcSBg3aa</UserId>
+    <UserNick>Nick</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1opSNb1yMAAEB_EHZ9U0si20bMg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes there is.
+
+Basicly you have to do 3 things: 
+1. Let apache allow outside IP-adresses (http://httpd.apache.org/docs/2.0/mod/mod_access.html)
+2. Link your domain name to your computer IP-adress. (Change the DNS of your mod to your IP, or, if you only have a domain name, and you need an nameserver to redirect to your computer, make one here: http://freedns.afraid.org/)
+3. If using a router, set portforwarding for port 80 to your innernetwork IP-adres (often 192.168.x.x). (http://portforward.com/)
+
+Here is a tutorial video, didn&#039;t watch it till the end, but the audio quality is kind off crappy.</ChosenAnswer>
+    <ChosenAnswererId>CJTwaMitaa</ChosenAnswererId>
+    <ChosenAnswererNick>Pieter v L.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269476194</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270323963</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes there is.
+
+Basicly you have to do 3 things: 
+1. Let apache allow outside IP-adresses (http://httpd.apache.org/docs/2.0/mod/mod_access.html)
+2. Link your domain name to your computer IP-adress. (Change the DNS of your mod to your IP, or, if you only have a domain name, and you need an nameserver to redirect to your computer, make one here: http://freedns.afraid.org/)
+3. If using a router, set portforwarding for port 80 to your innernetwork IP-adres (often 192.168.x.x). (http://portforward.com/)
+
+Here is a tutorial video, didn&#039;t watch it till the end, but the audio quality is kind off crappy.</Content>
+            <Reference>http://www.youtube.com/watch?v=wD4tSsCAZK0
+http://freedns.afraid.org/
+http://httpd.apache.org/docs/2.0/mod/mod_access.html
+http://portforward.com/</Reference>
+            <Best>5</Best>
+            <UserId>CJTwaMitaa</UserId>
+            <UserNick>Pieter v L.</UserNick>
+            <Date>2010-03-24 17:16:34</Date>
+            <Timestamp>1269476194</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:52 PDT 2010 -->

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320122357AAczAUP" type="Answered">
+    <Subject>Is anyone having problems with this website?? (details inside)?</Subject>
+    <Content>myyearbook.com is not letting me log in. what is wrong? can anyone help me out? are u having the same problem?
+</Content>
+    <Date>2010-03-20 12:23:57</Date>
+    <Timestamp>1269113037</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320122357AAczAUP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>weKK8Claaa</UserId>
+    <UserNick>Gary</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1HgF6U0S_AAEC_IGG9ll0i3oB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No I&#039;m not.
+When you go to Myyearbook.com and try to put in your email and password does it say invalid pass or email?</ChosenAnswer>
+    <ChosenAnswererId>Kjp3aqFCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269203700</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269918731</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No I&#039;m not.
+When you go to Myyearbook.com and try to put in your email and password does it say invalid pass or email?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Kjp3aqFCaa</UserId>
+            <UserNick>Dan</UserNick>
+            <Date>2010-03-21 13:35:00</Date>
+            <Timestamp>1269203700</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:30:58 PDT 2010 -->

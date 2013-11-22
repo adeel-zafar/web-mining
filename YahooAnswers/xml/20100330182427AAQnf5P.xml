@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100330182427AAQnf5P" type="Answered">
+    <Subject>How do you change your photo on scallyroo?</Subject>
+    <Content>I recently signed up, I honestly have no idea how.
+</Content>
+    <Date>2010-03-30 18:24:27</Date>
+    <Timestamp>1269998667</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100330182427AAQnf5P</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>CpA0x2Sjaa</UserId>
+    <UserNick>Moo</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>are you talking about your profile pic? it&#039;s easy. just login and click your profile pic on your home page. you can upload a new photo. scallyroo rocks!</ChosenAnswer>
+    <ChosenAnswererId>aW0FtjiQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Michael</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270050901</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270054006</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>are you talking about your profile pic? it&#039;s easy. just login and click your profile pic on your home page. you can upload a new photo. scallyroo rocks!</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>aW0FtjiQaa</UserId>
+            <UserNick>Michael</UserNick>
+            <Date>2010-03-31 08:55:01</Date>
+            <Timestamp>1270050901</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:13:42 PDT 2010 -->

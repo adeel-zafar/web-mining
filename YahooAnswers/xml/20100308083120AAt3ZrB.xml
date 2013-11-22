@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308083120AAt3ZrB" type="Answered">
+    <Subject>How to stop popups in tabs for Internet Explorer?</Subject>
+    <Content>I have Internet Explorer, and I keep getting popups. The pop ups are not in new windows, but in new tabs. How can I stop the popups from appearing in tabs?
+</Content>
+    <Date>2010-03-08 08:31:20</Date>
+    <Timestamp>1268065880</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308083120AAt3ZrB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Unw5UNUPaa</UserId>
+    <UserNick>Emy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1R0a1yAaQAAEBQEEo2IfNBA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Use a pop up blocker to block it.
+http://popsup-blocker.com
+or 
+ you can block it manually under the steps.
+
+Step1
+Press the Esc key one time. If this does not help, press Ctrl, Alt, and
+Delete keys all at the same time. If a programs screen appears, select end task and left click your mouse one time. If another screen appears select end task and left click your mouse one more time. Hopefully your mission is accomplished with this five second procedure. 
+Step2
+If step one worked for you, you&#039;ll probably have to do it again each time you connect to the Internet, but only once per visit, until you go into your computer and delete this file that keeps popping up from your computer. 
+Step3
+If the above procedure is working for you, great. However, they may return again as invisible pop ups. When you&#039;re computer appears to be stalling for longer than normal, try the above procedure again, to see if the same program screen reappears. (Invisible pop ups are done away with in the same manner). 
+Step4
+If the procedure mentioned above did not help, disconnect from the Internet. Press Start, then control panel, then Internet preferences.
+Delete cookies and search history. 
+Step5
+If the above attempts were not enough, delete the user name and use
+another one. 
+Step6
+If the above attempts were not enough yet, 
+your computer is infected spyware.
+Scan your Spyware/Adaware
+http://popsup-blocker.com
+Step 7
+If IE pop up,you can manage your IE by using Cleaner tool.
+Remmend:
+http://popsup-blocker.com/IEHospital/</ChosenAnswer>
+    <ChosenAnswererId>aE7r2HIkaa</ChosenAnswererId>
+    <ChosenAnswererNick>RightNow</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268285103</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269317588</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>On your menu bar select Tools-&gt;Pop-Up Blocker-&gt;Turn on Pop-Up Blocker, if that is already off go into Tools-&gt;Internet Options-&gt; Security and configure your security level. You can also change the Restricted Sites level to block more. Hope this helps!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8YA5DiKEaa</UserId>
+            <UserNick>tazgirl</UserNick>
+            <Date>2010-03-08 08:45:15</Date>
+            <Timestamp>1268066715</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Tazgirl is correct. Here is an addition guide in case you need more assistance: http://support.microsoft.com/kb/843016
+
+I hope this helps!
+
+Cheers,
+Bryn
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5A9mfbA3aa</UserId>
+            <UserNick>Bryn</UserNick>
+            <Date>2010-03-08 11:54:50</Date>
+            <Timestamp>1268078090</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Use a pop up blocker to block it.
+http://popsup-blocker.com
+or 
+ you can block it manually under the steps.
+
+Step1
+Press the Esc key one time. If this does not help, press Ctrl, Alt, and
+Delete keys all at the same time. If a programs screen appears, select end task and left click your mouse one time. If another screen appears select end task and left click your mouse one more time. Hopefully your mission is accomplished with this five second procedure. 
+Step2
+If step one worked for you, you&#039;ll probably have to do it again each time you connect to the Internet, but only once per visit, until you go into your computer and delete this file that keeps popping up from your computer. 
+Step3
+If the above procedure is working for you, great. However, they may return again as invisible pop ups. When you&#039;re computer appears to be stalling for longer than normal, try the above procedure again, to see if the same program screen reappears. (Invisible pop ups are done away with in the same manner). 
+Step4
+If the procedure mentioned above did not help, disconnect from the Internet. Press Start, then control panel, then Internet preferences.
+Delete cookies and search history. 
+Step5
+If the above attempts were not enough, delete the user name and use
+another one. 
+Step6
+If the above attempts were not enough yet, 
+your computer is infected spyware.
+Scan your Spyware/Adaware
+http://popsup-blocker.com
+Step 7
+If IE pop up,you can manage your IE by using Cleaner tool.
+Remmend:
+http://popsup-blocker.com/IEHospital/</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>aE7r2HIkaa</UserId>
+            <UserNick>RightNow</UserNick>
+            <Date>2010-03-10 21:25:03</Date>
+            <Timestamp>1268285103</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:33:06 PDT 2010 -->

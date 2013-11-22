@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312151139AABrUeK" type="Answered">
+    <Subject>I&#039;m unable to open anti virus websites? what should I do to fix this problem?</Subject>
+    <Content>I&#039;m unable to open anti virus websites?
+what should I do to fix this problem?
+</Content>
+    <Date>2010-03-12 15:11:39</Date>
+    <Timestamp>1268435499</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312151139AABrUeK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>M2fcRWRGaa</UserId>
+    <UserNick>La Fonte</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268518638</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268518866</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Check that your hosts files is clean.
+
+Google &quot;Windows hosts file&quot; to find out where the file is located on your disk, then delete any suspicious entries. (you can probably delete all entries).</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YJCWXOe3aa</UserId>
+            <UserNick>Mr S</UserNick>
+            <Date>2010-03-12 15:12:51</Date>
+            <Timestamp>1268435571</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>messege me on msn and i will send you malwarebyte    lol-tripp@hotmail.com</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>F8QdWnd5aa</UserId>
+            <UserNick>Gathering of Coders</UserNick>
+            <Date>2010-03-12 15:14:21</Date>
+            <Timestamp>1268435661</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-13 14:17:18</Date>
+            <Timestamp>1268518638</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:08:02 PDT 2010 -->

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223061341AAxCZCC" type="Answered">
+    <Subject>I have a prepaid visa card can I use it to buy things on ebay?</Subject>
+    <Content>its an only 1 gift card prepaid visa.... can I use it to buy things off ebay?
+</Content>
+    <Date>2010-02-23 06:13:41</Date>
+    <Timestamp>1266934421</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223061341AAxCZCC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XTE2GZgBaa</UserId>
+    <UserNick>chickensouper</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>chances are if its VISA you shouldnt have a problem. all visa cards whether it be a credit or debit card work so long as there is money in the account and the associated numbers on the card and a CCV number (3 digit security number) are present. hope that helps</ChosenAnswer>
+    <ChosenAnswererId>WDtFWVeuaa</ChosenAnswererId>
+    <ChosenAnswererNick>skitzonoia</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266934766</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267073784</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Of course you can.  As long as you don&#039;t spend more than the balance on the card.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>BrSDvWacaa</UserId>
+            <UserNick>mike k</UserNick>
+            <Date>2010-02-23 06:17:03</Date>
+            <Timestamp>1266934623</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>chances are if its VISA you shouldnt have a problem. all visa cards whether it be a credit or debit card work so long as there is money in the account and the associated numbers on the card and a CCV number (3 digit security number) are present. hope that helps</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>WDtFWVeuaa</UserId>
+            <UserNick>skitzonoia</UserNick>
+            <Date>2010-02-23 06:19:26</Date>
+            <Timestamp>1266934766</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes :D i&#039;ve done it lots of times</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JUoXn8Thaa</UserId>
+            <UserNick>jackie.zombiexcore</UserNick>
+            <Date>2010-02-23 06:30:14</Date>
+            <Timestamp>1266935414</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:22:35 PDT 2010 -->

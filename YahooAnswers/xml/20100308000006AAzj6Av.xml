@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308000006AAzj6Av" type="Answered">
+    <Subject>how to send direct msg in twitter ?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-08 00:00:06</Date>
+    <Timestamp>1268035206</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308000006AAzj6Av</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>G5nNFa96aa</UserId>
+    <UserNick>FAREED</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Start the message with the @ symbol, no space, and the recipient&#039;s Twitter user name.</ChosenAnswer>
+    <ChosenAnswererId>VcMIdQ8Daa</ChosenAnswererId>
+    <ChosenAnswererNick>David H</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268036170</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268554397</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>when you open profile of someone you get option of doing so.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>WdpWzToIaa</UserId>
+            <UserNick>TIRANGA211</UserNick>
+            <Date>2010-03-08 00:15:50</Date>
+            <Timestamp>1268036150</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Start the message with the @ symbol, no space, and the recipient&#039;s Twitter user name.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>VcMIdQ8Daa</UserId>
+            <UserNick>David H</UserNick>
+            <Date>2010-03-08 00:16:10</Date>
+            <Timestamp>1268036170</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>For example:
+
+@ExampleUserName your msg</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3566d08c7ee59d3c0eba8226b531a997aa</UserId>
+            <UserNick>Ekansh Saxena</UserNick>
+            <Date>2010-03-08 14:54:32</Date>
+            <Timestamp>1268088872</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:35:16 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327091258AA8aMh2" type="Answered">
+    <Subject>is this website a con?</Subject>
+    <Content>http://www.eshoppingfashion.com/pro_list.asp?BIGID=5&amp;SUBID=51
+</Content>
+    <Date>2010-03-27 09:12:58</Date>
+    <Timestamp>1269706378</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327091258AA8aMh2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>0jq6VU4jaa</UserId>
+    <UserNick>smiley</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes.</ChosenAnswer>
+    <ChosenAnswererId>4JOXkSIvaa</ChosenAnswererId>
+    <ChosenAnswererNick>Dr. Simons</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269756729</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270226015</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Yes.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>4JOXkSIvaa</UserId>
+            <UserNick>Dr. Simons</UserNick>
+            <Date>2010-03-27 23:12:09</Date>
+            <Timestamp>1269756729</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:10 PDT 2010 -->

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303082128AA3126U" type="Answered">
+    <Subject>Who put dad on the internet?</Subject>
+    <Content>I woke up this morning and saw that someone had put Dad on the internet. How do I take him off?
+</Content>
+    <Date>2010-03-03 08:21:28</Date>
+    <Timestamp>1267633288</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303082128AA3126U</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>esUpbGdyaa</UserId>
+    <UserNick>puppkett</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>there should be a contact on the website and you should be able to tell them to take it off.</ChosenAnswer>
+    <ChosenAnswererId>UerqorYbaa</ChosenAnswererId>
+    <ChosenAnswererNick>Atif73</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267633458</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268152665</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>sign him out</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>orfmhb2waa</UserId>
+            <UserNick>Tiny Dan</UserNick>
+            <Date>2010-03-03 08:22:16</Date>
+            <Timestamp>1267633336</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>dad , who??</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>J5rcgL4Zaa</UserId>
+            <UserNick>Angela</UserNick>
+            <Date>2010-03-03 08:23:08</Date>
+            <Timestamp>1267633388</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>there should be a contact on the website and you should be able to tell them to take it off.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>UerqorYbaa</UserId>
+            <UserNick>Atif73</UserNick>
+            <Date>2010-03-03 08:24:18</Date>
+            <Timestamp>1267633458</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>whats dad?!?!?!?!?!?!?!?!!?!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Ovas4Nbbaa</UserId>
+            <UserNick>Nat</UserNick>
+            <Date>2010-03-03 08:32:40</Date>
+            <Timestamp>1267633960</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:18:54 PDT 2010 -->

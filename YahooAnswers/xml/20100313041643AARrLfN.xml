@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313041643AARrLfN" type="Answered">
+    <Subject>Download suddenly freezes?</Subject>
+    <Content>i am downloading then it freezes. i have to start the download again. why is that?
+</Content>
+    <Date>2010-03-13 04:16:43</Date>
+    <Timestamp>1268482603</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313041643AARrLfN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ybzuUn0Qaa</UserId>
+    <UserNick>Darren</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1.Are you using any proxy services?
+2.is your connection Clean?i mean check that it doesn&#039;t have noises.
+3.it might be from the site that you&#039;re downloading from, check if it happens in every downloading.
+4.you can use softwares like Flash Get that you can pause/ start / stop and do whatever you wanna do, and disconnections, delays, and other staffs wont make the download crashed!
+;)</ChosenAnswer>
+    <ChosenAnswererId>KqE31ky4aa</ChosenAnswererId>
+    <ChosenAnswererNick>hamid</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268483139</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268998432</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>1.Are you using any proxy services?
+2.is your connection Clean?i mean check that it doesn&#039;t have noises.
+3.it might be from the site that you&#039;re downloading from, check if it happens in every downloading.
+4.you can use softwares like Flash Get that you can pause/ start / stop and do whatever you wanna do, and disconnections, delays, and other staffs wont make the download crashed!
+;)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>KqE31ky4aa</UserId>
+            <UserNick>hamid</UserNick>
+            <Date>2010-03-13 04:25:39</Date>
+            <Timestamp>1268483139</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>try downloading the file with IDM download manager it may prevent the download freezing have fun</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VSEaqWt1aa</UserId>
+            <UserNick>MZ</UserNick>
+            <Date>2010-03-13 04:31:24</Date>
+            <Timestamp>1268483484</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:05:22 PDT 2010 -->

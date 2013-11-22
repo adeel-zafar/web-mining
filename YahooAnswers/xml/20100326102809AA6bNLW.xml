@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326102809AA6bNLW" type="Answered">
+    <Subject>Is it ok to use Internet Explorer?</Subject>
+    <Content>I have firefox and sometimes it woent let me connect to the internet, would it be ok to just use Internet Explorer? I was told you can get a lot of viruses from Internet Explorer.
+</Content>
+    <Date>2010-03-26 10:28:09</Date>
+    <Timestamp>1269624489</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326102809AA6bNLW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QOJACAKRaa</UserId>
+    <UserNick>MommyinMay</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1gb7-XUJWAAED-IFT0I7o0n8FMA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>6</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Lots of virus&#039;?  Who said that?
+You wont get any more virus&#039; from IE then you would firefox.
+Maybe more virus&#039; affect IE.
+
+Dane</ChosenAnswer>
+    <ChosenAnswererId>maI66F3Faa</ChosenAnswererId>
+    <ChosenAnswererNick>TaKe.Me.DoWn?_Try.iT!</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269624710</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269821835</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Who told you that?  Internet Explorer is Microsoft&#039;s own browser that is part of the Windows operating system.  Occasionally slow to start (IE8) but fine once it gets going</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2LbTrlQnaa</UserId>
+            <UserNick>JIM</UserNick>
+            <Date>2010-03-26 10:30:27</Date>
+            <Timestamp>1269624627</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox is by far the most secure out of the two, but as long as you have both browsers patched up, and be careful of the sites you visit, you should be ok.
+
+You should also have a good Internet Protection software, I recommend McAfee, which will also help protect you, no matter what you browser you use.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qDKlH7MMaa</UserId>
+            <UserNick>Ian Spencer</UserNick>
+            <Date>2010-03-26 10:31:24</Date>
+            <Timestamp>1269624684</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Lots of virus&#039;?  Who said that?
+You wont get any more virus&#039; from IE then you would firefox.
+Maybe more virus&#039; affect IE.
+
+Dane</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>maI66F3Faa</UserId>
+            <UserNick>TaKe.Me.DoWn?_Try.iT!</UserNick>
+            <Date>2010-03-26 10:31:50</Date>
+            <Timestamp>1269624710</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The truth is Internet Explorer is notorious for viruses and security breaches.
+
+&quot;who told you that&quot;, whoever said that must have not read anything in the news about the internet in the last 10 years, year after year. Its not just that firefox, chrome, and safari are &quot;cooler&quot; and &quot;faster&quot;, but they are much much much more secure.
+
+if you&#039;d like some proof, the government of Germany recommends all citizens stop using IE:
+http://mashable.com/2010/01/15/german-government-stop-using-internet-explorer/
+
+also just google internet explorer and security, you won&#039;t find a supportive article in the first 20 pages.
+
+try ANY other browser, but in a recent famous hacking contest, IE went down in seconds but Chrome was the only to remain untouched.
+
+lastly take a look at this:
+http://en.wikipedia.org/wiki/Comparison_of_web_browsers#Vulnerabilities
+
+check the &quot;totals&quot; for internet explorer (even the latest IE8) and compare with the others</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>xdK0cTNVaa</UserId>
+            <UserNick>andr0x</UserNick>
+            <Date>2010-03-26 10:36:09</Date>
+            <Timestamp>1269624969</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you have good antivirus protection, then you should be fine. However I suggest using FF and Chrome.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EaUtyMCDaa</UserId>
+            <UserNick>Asphodel B.</UserNick>
+            <Date>2010-03-26 10:40:09</Date>
+            <Timestamp>1269625209</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>yes it&#039;s okay..you can always used Internet Explorer..unless you don&#039;t accept third party website you can&#039;t catch virus..or just install anti virus to you pc.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10351546</UserId>
+            <UserNick>kenn</UserNick>
+            <Date>2010-03-26 11:48:03</Date>
+            <Timestamp>1269629283</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:38 PDT 2010 -->

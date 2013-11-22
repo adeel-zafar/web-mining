@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100329185716AA24j3b" type="Answered">
+    <Subject>Using Google Chrome, how can I permanently block access to a website?</Subject>
+    <Content>Using Google Chrome, how can I permanently block access to a website?
+</Content>
+    <Date>2010-03-29 18:57:16</Date>
+    <Timestamp>1269914236</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100329185716AA24j3b</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>gor6IhMJaa</UserId>
+    <UserNick>count_kleinmeyer</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1c0yYUa_fAAEBHME_NJNU5t5i6KEF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here&#039;s some instructions with pictures of each step:
+http://www.recipester.org/Recipe:Block_Website_in_Google_Chrome_39998919
+
+Hope it helps!</ChosenAnswer>
+    <ChosenAnswererId>dlHl5rZ7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Some guy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269914863</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270090626</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Here&#039;s some instructions with pictures of each step:
+http://www.recipester.org/Recipe:Block_Website_in_Google_Chrome_39998919
+
+Hope it helps!</Content>
+            <Reference>http://www.recipester.org/Recipe:Block_Website_in_Google_Chrome_39998919</Reference>
+            <Best>1</Best>
+            <UserId>dlHl5rZ7aa</UserId>
+            <UserNick>Some guy</UserNick>
+            <Date>2010-03-29 19:07:43</Date>
+            <Timestamp>1269914863</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:15:05 PDT 2010 -->

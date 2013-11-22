@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324215457AABCmcW" type="Answered">
+    <Subject>Domain name on blogspot.com?</Subject>
+    <Content>Can anyone tell me how much it costs to get my own domain name on blogspot.com? i have a blog there, but i want my own website with &quot;.com&quot; at the end instead of &quot;blogspot.com.&quot; I hope this makes sense. Thanks in advance.
+for example, i want my blog&#039;s domain to be honeydew.com instead of it saying honeydew.blogspot.com
+</Content>
+    <Date>2010-03-24 21:54:57</Date>
+    <Timestamp>1269492897</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324215457AABCmcW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>WEuDxUcGaa</UserId>
+    <UserNick>Huda</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb2ce43i1b06zws141mud/p_MWczE5bqKBfkrwV6j.uQ--/2/tn48.jpeg?ciAAToMBsUlKuKpA</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>From your question i understand that you want to continue using blogspot as your host but you want to use your own domain name. To do this you need to first purchase a domain name then point it to googles servers. When you purchase the name you will be given a control panel log in which will allow you to change nameservers to googles, the instructions are here:
+http://www.google.com/support/blogger/bin/answer.py?hl=en&amp;answer=55373
+After changing your domain names servers you need to adjust the settings in your blogger account as per instructions above. Finally you just need to wait. It can take up to 48 hours for  nameserver change to propogate the www but is often a matter of minutes,
+There are many hosting companies who will give you a free domain name if you purchase your hosting from them, this has many advantages but as you are probably using blogger to earn from adsense then you have a load of free traffic immediately. Plus you would need to learn how to use your hosting control panel, good stuff but complicated for a beginner.</ChosenAnswer>
+    <ChosenAnswererId>3Qxv92y7aa</ChosenAnswererId>
+    <ChosenAnswererNick>zbdblues</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269493605</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269524328</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It varies. See &#039;go daddy&#039; for an example.  I recently paid $14. per.
+Just do a search on &#039;domain name&#039;. You will get a list.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DfHUFzATaa</UserId>
+            <UserNick>bg</UserNick>
+            <Date>2010-03-24 21:57:17</Date>
+            <Timestamp>1269493037</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>From your question i understand that you want to continue using blogspot as your host but you want to use your own domain name. To do this you need to first purchase a domain name then point it to googles servers. When you purchase the name you will be given a control panel log in which will allow you to change nameservers to googles, the instructions are here:
+http://www.google.com/support/blogger/bin/answer.py?hl=en&amp;answer=55373
+After changing your domain names servers you need to adjust the settings in your blogger account as per instructions above. Finally you just need to wait. It can take up to 48 hours for  nameserver change to propogate the www but is often a matter of minutes,
+There are many hosting companies who will give you a free domain name if you purchase your hosting from them, this has many advantages but as you are probably using blogger to earn from adsense then you have a load of free traffic immediately. Plus you would need to learn how to use your hosting control panel, good stuff but complicated for a beginner.</Content>
+            <Reference>Free web host provider.</Reference>
+            <Best>4</Best>
+            <UserId>3Qxv92y7aa</UserId>
+            <UserNick>zbdblues</UserNick>
+            <Date>2010-03-24 22:06:45</Date>
+            <Timestamp>1269493605</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>As you may know a domain name is just a name, not a real website/weblog. If you are going to create your blog website: 1- Buy a domain name. A domain name is a name you want to call your website (ex: www.yahoo.com).  To get a domain name, you have to pay an annual fee to a registrar for the right to use that name. 2- Buy a web hosting service to provide your online space and enable you to get your blog online at your purchased domain name.
+
+If you’re going to start your blog at your own domain with different pages, you need a web host providing wordpress.
+
+Take a look at:
+http://www.threehosts.com/blog
+There you can reach the three reputable companies that are leaders in the blog/wordpress website hosting industry.
+
+Hope this helps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YsXKcAgbaa</UserId>
+            <UserNick>David M</UserNick>
+            <Date>2010-03-24 22:43:45</Date>
+            <Timestamp>1269495825</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you want your own domain name, find a &quot;host&quot; company, who will usually sell you a domain and hosting in one package for around five bucks.
+
+I use GoDaddy.com
+
+Just choose your domain name, and specify that you want a blog (as opposed to a website).
+
+Then just follow the directions your host gives you to go &quot;live&quot;.
+
+Have fun...and let me know if you need further help.
+
+I have much experience and training and am glad to share.
+
+Diane</Content>
+            <Reference>GoDaddy.com</Reference>
+            <Best></Best>
+            <UserId>5dUxTFN2aa</UserId>
+            <UserNick>Diane Neill Jensen</UserNick>
+            <Date>2010-03-24 23:47:12</Date>
+            <Timestamp>1269499632</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>only 10$</Content>
+            <Reference>http://free2host.tk/2010/01/free-web-hosting-services.html</Reference>
+            <Best></Best>
+            <UserId>1mDWqjDvaa</UserId>
+            <UserNick>Mank</UserNick>
+            <Date>2010-03-25 06:11:47</Date>
+            <Timestamp>1269522707</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:26 PDT 2010 -->

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100331155048AAijFCK" type="Answered">
+    <Subject>What is this really annoying virus on Windows 7?</Subject>
+    <Content>Since the first day I upgraded to Windows 7, I&#039;ve had this damn virus on my computer. It&#039;s been going on and off for over a week now, and it&#039;s really pissing me off. I just assume it&#039;s Windows 7 that caused the virus, because I had no problems running Vista.
+
+I&#039;m using an HP G71 laptop with a Core 2 Duo processor, 4GB of RAM and a 320GB HDD, just in case any of that affects it.
+
+So, here are the specifics. Every 5-15 minutes, a pop-up comes up, saying: &quot;Attention!!!&quot; Your personal computer needs to install antivirus software! Personal Security can perform fast and free scan of your computer.&quot; When I close it, a fake screen displaying virus-ridden documents comes up, which I can also close. This happens consistently, though, and it gets on my nerves.
+
+Yesterday, though, another new virus-related thing happens. A message from a site called http://shprotect.in/hitin.php?affid=0299… (DO NOT GO TO THIS LINK, IT IS A PAGE WITH A VIRUS FROM INDIA, APPARENTLY) pops up randomly and demands that I download a file. It won&#039;t let me close the page unless I click &quot;OK,&quot; at which time the taskbar comes up telling me I&#039;m about to download a virus. Nice.
+
+I&#039;ve tried deleting Internet Explorer itself, since I&#039;m more of a Mozilla Firefox person, but these pop-ups still keep occurring. I&#039;ve also tried going through some of my files, but nothing looks out of place. I have McAfee, and I&#039;ve run diagnostic scans on my entire computer four times to no avail. This is really becoming a burden, and I&#039;m just curious if anyone else has experienced or is experiencing this problem, or if anyone knows how to fix it.
+</Content>
+    <Date>2010-03-31 15:50:48</Date>
+    <Timestamp>1270075848</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100331155048AAijFCK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>2lRqnSfFaa</UserId>
+    <UserNick>Equinox</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>1</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>wsZtB0xhaa</ChosenAnswererId>
+    <ChosenAnswererNick>google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270121671</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270122018</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Windows 7 doesn&#039;t contain a virus. Anytime your computer goes online, whether your surfin the web, instant messaging, or anything you are at harm for a virus. deleting IE is not going to help. if McAfee doesn&#039;t work, try AVG. if that doesn&#039;t work try going to a past restore point. if that doesn&#039;t work, you need to back up all your important files onto another computer, shared folder, large flash drive, external hard drive, or online backup, etc. then access the command prompt, which you can go to start&gt;run&gt; type in &quot;cmd&quot;. once your in command prompt, type in format.exe 
+this will wipe your computer clean. then you can install AVG free version, then restore all your important files back on to the computer via the external source you used.
+
+p.s. when you get a virus, deleting a program like IE will not work, you have to target all files that were effected by the virus. it can spread fast, or it can sit dormant for weeks or months before it shows any signs of having a virus at all when you get one. some are harmful, some are just annoying.</Content>
+            <Reference>Computer Sys tech</Reference>
+            <Best></Best>
+            <UserId>44Y4gv55aa</UserId>
+            <UserNick>Amber</UserNick>
+            <Date>2010-03-31 15:58:19</Date>
+            <Timestamp>1270076299</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>wsZtB0xhaa</UserId>
+            <UserNick>google</UserNick>
+            <Date>2010-04-01 04:34:31</Date>
+            <Timestamp>1270121671</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+        <Comment>
+            <Content></Content>
+            <UserId>S16zm2jAaa</UserId>
+            <UserNick></UserNick>
+            <Date>2010-04-01 06:43:10</Date>
+            <Timestamp>1270121671</Timestamp>
+        </Comment>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:12:34 PDT 2010 -->

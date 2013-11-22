@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322185246AAZJiuk" type="Answered">
+    <Subject>How can I send a message to a phone through email?</Subject>
+    <Content>I want to send a message through my email, to someones cell phone how would I do that?
+</Content>
+    <Date>2010-03-22 18:52:46</Date>
+    <Timestamp>1269309166</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322185246AAZJiuk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VTQrFQwiaa</UserId>
+    <UserNick>Cyndi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/12Wt6hJRmAAMCXgFTnLOTh24B.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It depends mostly on what network they have.
+I believe that just about any carrier allows it, but different carriers have different domains and such.
+For example, I think Verizon uses [Insert Number Here]@vztext.com</ChosenAnswer>
+    <ChosenAnswererId>ianJuZw3aa</ChosenAnswererId>
+    <ChosenAnswererNick>Blob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269309819</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269828862</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>make the phone send you a text to your email, from there all you have to do is copy the email address of the phone. after that you can send texts or pictures, hope it helped if you have any other question feel free to ask!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>tiZnYn92aa</UserId>
+            <UserNick>kadosh77</UserNick>
+            <Date>2010-03-22 18:56:18</Date>
+            <Timestamp>1269309378</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It depends mostly on what network they have.
+I believe that just about any carrier allows it, but different carriers have different domains and such.
+For example, I think Verizon uses [Insert Number Here]@vztext.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ianJuZw3aa</UserId>
+            <UserNick>Blob</UserNick>
+            <Date>2010-03-22 19:03:39</Date>
+            <Timestamp>1269309819</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:49 PDT 2010 -->

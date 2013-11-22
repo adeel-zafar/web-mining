@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319221648AAu6zjv" type="Answered">
+    <Subject>Is this site offline for you?</Subject>
+    <Content>I cannot access this website. 
+For some reason when I last updated it the site is having problems. 
+http://gamingrant.com/
+Thanks guys.
+When I published the site I accidentally also published a page which was supposed to be deleted, but it was still in the &quot;pages&quot; folder.  This caused the entire site to be taken offline until I republished it with the page fully deleted.
+It isn&#039;t working again. 
+I tried updating it, and it suddenly went offline.
+</Content>
+    <Date>2010-03-19 22:16:48</Date>
+    <Timestamp>1269062208</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319221648AAu6zjv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>YHu0s3JZaa</UserId>
+    <UserNick>Wiiplay_ds</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1HJrG0bqTAAECAAJpxTZkBw==.medium.png</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This is a site I use it comes in very handy!
+
+http://downforeveryoneorjustme.com/
+
+:)</ChosenAnswer>
+    <ChosenAnswererId>gYQrMHLQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Nikki V</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269063991</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269241325</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>works for me</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3L5ucj1Raa</UserId>
+            <UserNick>Tony</UserNick>
+            <Date>2010-03-19 22:19:11</Date>
+            <Timestamp>1269062351</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nope, works fine!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-03-19 22:19:20</Date>
+            <Timestamp>1269062360</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nope, works for me.
+
+Try going into command prompt (If you have Vista or Seven you need to run it in elevated mode, to do this go to Start-&gt;type &#039;cmd&#039; without the quotes-&gt;Right click on first entry and select &#039;Run as Administrator&#039;. If you have XP or lower go Start-&gt;Run-&gt;Type &#039;cmd&#039; without the quotes), then type &#039;ipconfig -flushdns&#039; without the quotes. This may fix it. Otherwise try turning your router/modem/computer all off at once, count to 10 and turn them back on.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>pVGY9myOaa</UserId>
+            <UserNick>Firzen</UserNick>
+            <Date>2010-03-19 22:20:28</Date>
+            <Timestamp>1269062428</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nope works fine.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>oJZcL5eaaa</UserId>
+            <UserNick>lucky</UserNick>
+            <Date>2010-03-19 22:32:50</Date>
+            <Timestamp>1269063170</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>This is a site I use it comes in very handy!
+
+http://downforeveryoneorjustme.com/
+
+:)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>gYQrMHLQaa</UserId>
+            <UserNick>Nikki V</UserNick>
+            <Date>2010-03-19 22:46:31</Date>
+            <Timestamp>1269063991</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:33:10 PDT 2010 -->

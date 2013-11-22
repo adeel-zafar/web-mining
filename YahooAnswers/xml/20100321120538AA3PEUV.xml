@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321120538AA3PEUV" type="Answered">
+    <Subject>How does wireless Internet  work at a cafe?</Subject>
+    <Content>In my story, my killer uses its computer but i&#039;m not sure if i should have it to this. From what i understand (movies lol) they can&#039;t really trace your computer if you use it at a wireless cafe or starbucks right? If not, please elaborate
+</Content>
+    <Date>2010-03-21 12:05:38</Date>
+    <Timestamp>1269198338</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321120538AA3PEUV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>5rIfjLREaa</UserId>
+    <UserNick>kcoria91</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1ubZh_m92AAED_GHRAU51ypSjMg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Supposebly, it&#039;s possible to trace it to a wireless cafe. They would find the local ip of the computer and have to trace it back to that cafe&#039;s ip. But, since everyone at the cafe is using the same ip, he would be able to blend in with everyone at the cyber cafe. They wouldn&#039;t be able to tell who was using the ip. He could easily use the cyber cafe&#039;s ip, and then book it before the police show up. No evidence.</ChosenAnswer>
+    <ChosenAnswererId>6x6fswQeaa</ChosenAnswererId>
+    <ChosenAnswererNick>rickeymarsee</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269199011</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269426736</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Supposebly, it&#039;s possible to trace it to a wireless cafe. They would find the local ip of the computer and have to trace it back to that cafe&#039;s ip. But, since everyone at the cafe is using the same ip, he would be able to blend in with everyone at the cyber cafe. They wouldn&#039;t be able to tell who was using the ip. He could easily use the cyber cafe&#039;s ip, and then book it before the police show up. No evidence.</Content>
+            <Reference>Just experience with networking.</Reference>
+            <Best>5</Best>
+            <UserId>6x6fswQeaa</UserId>
+            <UserNick>rickeymarsee</UserNick>
+            <Date>2010-03-21 12:16:51</Date>
+            <Timestamp>1269199011</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:27:09 PDT 2010 -->

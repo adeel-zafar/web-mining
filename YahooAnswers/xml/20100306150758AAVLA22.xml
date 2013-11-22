@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306150758AAVLA22" type="Answered">
+    <Subject>why cant my daughter get google chrome or internet explorer to work on her laptop when internet is workin?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-06 15:07:58</Date>
+    <Timestamp>1267916878</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306150758AAVLA22</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>332c9be44d4fcf39d181c8855a767bf8aa</UserId>
+    <UserNick>njaymc2003</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1FIuf10v1AAECPAKdGTt3Bw==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if she cant get either to work, it could be a connection problem.
+check your internet connection.</ChosenAnswer>
+    <ChosenAnswererId>iWFLdk0haa</ChosenAnswererId>
+    <ChosenAnswererNick>tr</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267916984</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268436265</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it might just be a bad download so uninstal it and try reloading it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>45QDATSZaa</UserId>
+            <UserNick>cameronissim...</UserNick>
+            <Date>2010-03-06 15:09:36</Date>
+            <Timestamp>1267916976</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if she cant get either to work, it could be a connection problem.
+check your internet connection.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>iWFLdk0haa</UserId>
+            <UserNick>tr</UserNick>
+            <Date>2010-03-06 15:09:44</Date>
+            <Timestamp>1267916984</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Download, update, run Malwarebytes, Hitman Pro, ccleaner, Reset IE8 to Defaults in Options, Advanced and Restart PC...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://www.surfright.nl/en/hitmanpro
+http://download.cnet.com/ccleaner/?tag=mncol</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-06 15:30:15</Date>
+            <Timestamp>1267918215</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hmm. That is weird maybe try contacting them tat happened to me and my parents did it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>shAGhTs7aa</UserId>
+            <UserNick>Zoe</UserNick>
+            <Date>2010-03-06 15:32:32</Date>
+            <Timestamp>1267918352</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:45:40 PDT 2010 -->

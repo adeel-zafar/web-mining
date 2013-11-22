@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227151525AAPBNT1" type="Answered">
+    <Subject>Question about Paypal fees?</Subject>
+    <Content>I buy from ebay regularly. I use paypal to pay for the items. I have my bank account linked to paypal and they have my bank debit card # also. When I pay for items, paypal uses my debit card to charge my bank account i suppose. Anyway do they charge fees?
+</Content>
+    <Date>2010-02-27 15:15:25</Date>
+    <Timestamp>1267312525</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227151525AAPBNT1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wRWbB1Ksaa</UserId>
+    <UserNick>Worldwide Revolution</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No, I don&#039;t think they do. Only when you are using the Funds on your Paypal account to send money to some one they charge you.
+
+Even if they do, its only like 40 cents.</ChosenAnswer>
+    <ChosenAnswererId>zpJyFfuWaa</ChosenAnswererId>
+    <ChosenAnswererNick>Hunter</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267312700</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267401684</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Only if you receive money!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kxsvjGmTaa</UserId>
+            <UserNick>John C</UserNick>
+            <Date>2010-02-27 15:17:40</Date>
+            <Timestamp>1267312660</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>No, I don&#039;t think they do. Only when you are using the Funds on your Paypal account to send money to some one they charge you.
+
+Even if they do, its only like 40 cents.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>zpJyFfuWaa</UserId>
+            <UserNick>Hunter</UserNick>
+            <Date>2010-02-27 15:18:20</Date>
+            <Timestamp>1267312700</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:42:33 PDT 2010 -->

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312102953AAnmaAm" type="Answered">
+    <Subject>Why do all my passwords reset when I close Firefox?</Subject>
+    <Content>Starting yesterday, whenever I close Firefox, all my saved passwords that I have clicked &quot;keep me logged in&quot; or &quot;remember me&quot; for, reset and log me out. I have used Firefox for over a year and have never had this problem. Is there a setting or something I can change?
+</Content>
+    <Date>2010-03-12 10:29:53</Date>
+    <Timestamp>1268418593</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312102953AAnmaAm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>yp1jAzWEaa</UserId>
+    <UserNick>yanks2519</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There are many possibilities
+
+1. In the History tab in the options window in Firefox &quot;use custom settings for history&quot; may be selected.  check to see if clear history when firefox closes is checked.  MOST likely is that next to this there is a button &quot;settings&quot; which has check boxes for things to delete when firefox closes.  At the bottom of that window there are check boxes for data like saved passwords.  You probably have one of those checked.
+2. Under security, make sure &quot;remember passwords&quot; is checked
+
+3. Check that you have cookies enabled.</ChosenAnswer>
+    <ChosenAnswererId>92517655f5cdc0b04061c39c885a5811aa</ChosenAnswererId>
+    <ChosenAnswererNick>Carp Face</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268419061</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269872620</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to tools click on security and tick the box that says remember passwords for sites</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5L8NdsPIaa</UserId>
+            <UserNick>Rumpel Foreskin</UserNick>
+            <Date>2010-03-12 10:33:22</Date>
+            <Timestamp>1268418802</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There are many possibilities
+
+1. In the History tab in the options window in Firefox &quot;use custom settings for history&quot; may be selected.  check to see if clear history when firefox closes is checked.  MOST likely is that next to this there is a button &quot;settings&quot; which has check boxes for things to delete when firefox closes.  At the bottom of that window there are check boxes for data like saved passwords.  You probably have one of those checked.
+2. Under security, make sure &quot;remember passwords&quot; is checked
+
+3. Check that you have cookies enabled.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>92517655f5cdc0b04061c39c885a5811aa</UserId>
+            <UserNick>Carp Face</UserNick>
+            <Date>2010-03-12 10:37:41</Date>
+            <Timestamp>1268419061</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:09:29 PDT 2010 -->

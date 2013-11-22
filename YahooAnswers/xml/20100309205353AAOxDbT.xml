@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309205353AAOxDbT" type="Answered">
+    <Subject>Would an admin of a site least likely read a message i sent?</Subject>
+    <Content>someone hacked into my friends email and they sent some bad stuff to the admin
+</Content>
+    <Date>2010-03-09 20:53:53</Date>
+    <Timestamp>1268196833</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309205353AAOxDbT</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tQJtS3lUaa</UserId>
+    <UserNick>Juan</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1iNx2DS6jAAQDJ4E_gKZiVWEB.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you are worried that the admin will block his account, you are right. However writing a quick letter apologizing for the hassle and explaining the situation should help. Most of the admins are understanding, mature people.
+
+You should also change your password to something complicated (include at least one capital letter, 1 digit and one special character like $ # ! ^ etc) and make it as long as you are comfortable with. 
+
+Arun</ChosenAnswer>
+    <ChosenAnswererId>c75u2IYKaa</ChosenAnswererId>
+    <ChosenAnswererNick>Arun Agrawal - Ebizindia</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268198477</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268263903</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you are worried that the admin will block his account, you are right. However writing a quick letter apologizing for the hassle and explaining the situation should help. Most of the admins are understanding, mature people.
+
+You should also change your password to something complicated (include at least one capital letter, 1 digit and one special character like $ # ! ^ etc) and make it as long as you are comfortable with. 
+
+Arun</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>c75u2IYKaa</UserId>
+            <UserNick>Arun Agrawal - Ebizindia</UserNick>
+            <Date>2010-03-09 21:21:17</Date>
+            <Timestamp>1268198477</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:21:37 PDT 2010 -->

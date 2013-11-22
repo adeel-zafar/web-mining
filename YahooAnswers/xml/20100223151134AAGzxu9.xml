@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223151134AAGzxu9" type="Answered">
+    <Subject>In Firefox how can you set it up so that it will save only the cookies you want and delete the rest?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-23 15:11:34</Date>
+    <Timestamp>1266966694</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223151134AAGzxu9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dc9c15a372dbef2f15715da6fa6bf309aa</UserId>
+    <UserNick>Mr. E</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1fJGuo41pAAEB58T7tWE9DA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try Tools&gt;Options&gt;Privacy. Set it up to accept or not accept cookies and set exceptions.</ChosenAnswer>
+    <ChosenAnswererId>Va2l8XQLaa</ChosenAnswererId>
+    <ChosenAnswererNick>R.M.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266966860</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267036680</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try Tools&gt;Options&gt;Privacy. Set it up to accept or not accept cookies and set exceptions.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>Va2l8XQLaa</UserId>
+            <UserNick>R.M.</UserNick>
+            <Date>2010-02-23 15:14:20</Date>
+            <Timestamp>1266966860</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi there! All you have to do is go to the tools menu at the top, click clear recent history, a window should pop up with a danger sign, click details &amp; highlight everything you want to clear except cookies! :)
+
+Hope this helps!</Content>
+            <Reference>My own knowledge.</Reference>
+            <Best></Best>
+            <UserId>kFSnNt8haa</UserId>
+            <UserNick>JasonFox</UserNick>
+            <Date>2010-02-23 15:15:47</Date>
+            <Timestamp>1266966947</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:18:28 PDT 2010 -->

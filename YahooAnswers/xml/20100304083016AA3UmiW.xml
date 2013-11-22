@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304083016AA3UmiW" type="Answered">
+    <Subject>Aaahhhh! Why has my internet stopped working!?</Subject>
+    <Content>Tonnes to get done on my pc, but internet stopped working, the url for sky broadband comes up but the page stays white for a few seconds, then the page just vanishes. have tried doing system restore, norton anti virus, but the same problem.
+Thanks in advance.
+Myron, this is someone else&#039;s computer you chump.
+</Content>
+    <Date>2010-03-04 08:30:16</Date>
+    <Timestamp>1267720216</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304083016AA3UmiW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>58a89d1ce283ec3b8198357b509fb4c5aa</UserId>
+    <UserNick>Carla Vermelha</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/12B2-jVSLAAABLMacjXI=.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Need more info.
+Do other websites work?  If so, then the internet isn&#039;t the problem; that particular web page is.
+
+If no sites work, try unplugging the power to your modem (and router, if you&#039;ve got one) from the wall for about a minute, then plug them back in and give them a minute to reboot.  If that doesn&#039;t work, unplug the ethernet cable from your computer for a minute or two and plug that back in.  If neither of those things work, call tech support.</ChosenAnswer>
+    <ChosenAnswererId>d0nv49tHaa</ChosenAnswererId>
+    <ChosenAnswererNick>kl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267721771</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267884167</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Reset the modem and router</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Q7dlNsnYaa</UserId>
+            <UserNick>name</UserNick>
+            <Date>2010-03-04 08:33:25</Date>
+            <Timestamp>1267720405</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>The fact that you posted here tells me it is working</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eNXiflCAaa</UserId>
+            <UserNick>Myron</UserNick>
+            <Date>2010-03-04 08:33:34</Date>
+            <Timestamp>1267720414</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Need more info.
+Do other websites work?  If so, then the internet isn&#039;t the problem; that particular web page is.
+
+If no sites work, try unplugging the power to your modem (and router, if you&#039;ve got one) from the wall for about a minute, then plug them back in and give them a minute to reboot.  If that doesn&#039;t work, unplug the ethernet cable from your computer for a minute or two and plug that back in.  If neither of those things work, call tech support.</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>d0nv49tHaa</UserId>
+            <UserNick>kl</UserNick>
+            <Date>2010-03-04 08:56:11</Date>
+            <Timestamp>1267721771</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:11:29 PDT 2010 -->

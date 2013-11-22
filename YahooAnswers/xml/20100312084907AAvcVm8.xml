@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312084907AAvcVm8" type="Answered">
+    <Subject>what does refresh button on Internet Explorer do?</Subject>
+    <Content>What exactly does it do? Does it refresh a cached version of site or live website?
+</Content>
+    <Date>2010-03-12 08:49:07</Date>
+    <Timestamp>1268412547</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312084907AAvcVm8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pVbT9KXXaa</UserId>
+    <UserNick>Blahblahblahblahblah</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>7</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Its just to re-do the page just like if Yahoo edited the page right now it wouldnt pop up until i refresh it</ChosenAnswer>
+    <ChosenAnswererId>c7aDbch9aa</ChosenAnswererId>
+    <ChosenAnswererNick>Mudkipro</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268412653</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268928476</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>it refreshes the page</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FGMDbhoJaa</UserId>
+            <UserNick>mecklestone</UserNick>
+            <Date>2010-03-12 08:49:52</Date>
+            <Timestamp>1268412592</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it makes the page new again. like youve just opened it up brand new.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OPD6QllOaa</UserId>
+            <UserNick>Have A Heart ♥</UserNick>
+            <Date>2010-03-12 08:50:20</Date>
+            <Timestamp>1268412620</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Its just to re-do the page just like if Yahoo edited the page right now it wouldnt pop up until i refresh it</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>c7aDbch9aa</UserId>
+            <UserNick>Mudkipro</UserNick>
+            <Date>2010-03-12 08:50:53</Date>
+            <Timestamp>1268412653</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Say if you were looking at a page of yahoo answers and you wanted to see if anyone had posted again you would just press refresh (F5) and it would reload the page and download all the elements again.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fkuHUI9Caa</UserId>
+            <UserNick>Adadad</UserNick>
+            <Date>2010-03-12 08:51:23</Date>
+            <Timestamp>1268412683</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it reloads the website</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>834bd4fc464e18342ffda66ccfe3eb28aa</UserId>
+            <UserNick>ajstyles</UserNick>
+            <Date>2010-03-12 08:52:21</Date>
+            <Timestamp>1268412741</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it renews the page, like if something says 5 mins ago when u refresh it it may say 30 mins or something, it renews it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>885HB7ndaa</UserId>
+            <UserNick>Lucky</UserNick>
+            <Date>2010-03-12 08:52:44</Date>
+            <Timestamp>1268412764</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your internet browser temporarily saves the web pages, and the images on those pages, in order to load those same pages faster when you go to them again. By pressing the refresh button, it will force your browser to load the website from the source, rather than the saved files on your computer. It&#039;s great for sites like forums/twitter pages where new info is constantly be loaded to the page, although there are lots of sites that automatically &#039;refresh&#039; the page for you. 
+ Hope that makes sense!
+
+Kyler
+IE8 Outreach Team</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0BzipcAfaa</UserId>
+            <UserNick>Kyler_IE8_Team</UserNick>
+            <Date>2010-03-12 10:57:10</Date>
+            <Timestamp>1268420230</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:09:49 PDT 2010 -->

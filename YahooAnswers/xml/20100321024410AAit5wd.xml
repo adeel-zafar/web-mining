@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321024410AAit5wd" type="Answered">
+    <Subject>Anyone else having problems with Firefox?</Subject>
+    <Content>
+I switched to Safari and my pages are loading much quicker...less error pages and refreshing...
+</Content>
+    <Date>2010-03-21 02:44:10</Date>
+    <Timestamp>1269164650</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321024410AAit5wd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>477325d0154aaec2a804ba114d34b06caa</UserId>
+    <UserNick>zurr58</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try Google Chrome, it&#039;s faster too.</ChosenAnswer>
+    <ChosenAnswererId>ZDOIPATWaa</ChosenAnswererId>
+    <ChosenAnswererNick>King Kuro Koopa</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269164717</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269309105</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try Google Chrome, it&#039;s faster too.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>ZDOIPATWaa</UserId>
+            <UserNick>King Kuro Koopa</UserNick>
+            <Date>2010-03-21 02:45:17</Date>
+            <Timestamp>1269164717</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Nope, but it does crash when i view comments on YT when the videos are loading.. annoying</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Q7dlNsnYaa</UserId>
+            <UserNick>Unknown</UserNick>
+            <Date>2010-03-21 02:46:21</Date>
+            <Timestamp>1269164781</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:28:23 PDT 2010 -->

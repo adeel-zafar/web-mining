@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309134058AAsrn7b" type="Answered">
+    <Subject>Question About Twitter?</Subject>
+    <Content>I have a twitter account and its protected.... sometimes i like to tweet celebrities (that arent following me obviously) can they see my tweets even though im protected or would i have to have a public account
+</Content>
+    <Date>2010-03-09 13:40:58</Date>
+    <Timestamp>1268170858</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309134058AAsrn7b</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>UEiFBruTaa</UserId>
+    <UserNick>stronger&lt;3</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1peVkJpDkAAEBieObmJZFJ_EA.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you tweet directly to them they can see it</ChosenAnswer>
+    <ChosenAnswererId>4KGJQQVEaa</ChosenAnswererId>
+    <ChosenAnswererNick>RossMc01</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268171360</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268339700</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>If you tweet directly to them they can see it</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>4KGJQQVEaa</UserId>
+            <UserNick>RossMc01</UserNick>
+            <Date>2010-03-09 13:49:20</Date>
+            <Timestamp>1268171360</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:24:09 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228102814AAMSbeQ" type="Answered">
+    <Subject>Facebook Chat Problem?</Subject>
+    <Content>I cant chat to anyone on facebook! For example it will say 5 ppl are online and when I click on their name, It says they are offline, It has been going on for around a month now, And I know their online. What is this??
+</Content>
+    <Date>2010-02-28 10:28:14</Date>
+    <Timestamp>1267381694</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228102814AAMSbeQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lIEyTPMfaa</UserId>
+    <UserNick>Dillon D</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Maybe because Facebook chat does not update in real-time. Same with the live feed of status updates.They need to fix that.</ChosenAnswer>
+    <ChosenAnswererId>YYfrv69Laa</ChosenAnswererId>
+    <ChosenAnswererNick>Vitali</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267381934</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269662663</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>too bad</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NqW6yCrpaa</UserId>
+            <UserNick>omar.martinez111@ymail.com</UserNick>
+            <Date>2010-02-28 10:30:38</Date>
+            <Timestamp>1267381838</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Maybe because Facebook chat does not update in real-time. Same with the live feed of status updates.They need to fix that.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>YYfrv69Laa</UserId>
+            <UserNick>Vitali</UserNick>
+            <Date>2010-02-28 10:32:14</Date>
+            <Timestamp>1267381934</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:48 PDT 2010 -->

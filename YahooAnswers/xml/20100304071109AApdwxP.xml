@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304071109AApdwxP" type="Answered">
+    <Subject>I have trouble hooking up my laptop to my Linksys G router.?</Subject>
+    <Content>Okay, I have a Toshiba laptob and a Linksys G wireless router. I can connect to the internet through a lan cable but when i connect to my router it says i have local connectivity only.
+</Content>
+    <Date>2010-03-04 07:11:09</Date>
+    <Timestamp>1267715469</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304071109AApdwxP</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>19unYnL8aa</UserId>
+    <UserNick>xXxBlondiexXx</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1F6cSjDxEAAEBBGOc3JgMumUB.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You should check to see if you are in public, home , or business mode. Sometimes if you are in public mode it wont allow you to access anything past the router You should set it to home mode if this is the case. You might want to go into the linksys router config  type http://192.168.0.1 into the address bar and then the default account/pass should be like admin/pass you can find generic router passwords on the internet or in your router technical documentation.</ChosenAnswer>
+    <ChosenAnswererId>ZIWXQ4QHaa</ChosenAnswererId>
+    <ChosenAnswererNick>clayton</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267715707</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268235685</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Must not be to bad if you can post on yahoo answers.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>qEuBO8JVaa</UserId>
+            <UserNick>Tiny</UserNick>
+            <Date>2010-03-04 07:13:09</Date>
+            <Timestamp>1267715589</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You should check to see if you are in public, home , or business mode. Sometimes if you are in public mode it wont allow you to access anything past the router You should set it to home mode if this is the case. You might want to go into the linksys router config  type http://192.168.0.1 into the address bar and then the default account/pass should be like admin/pass you can find generic router passwords on the internet or in your router technical documentation.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ZIWXQ4QHaa</UserId>
+            <UserNick>clayton</UserNick>
+            <Date>2010-03-04 07:15:07</Date>
+            <Timestamp>1267715707</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:11:56 PDT 2010 -->

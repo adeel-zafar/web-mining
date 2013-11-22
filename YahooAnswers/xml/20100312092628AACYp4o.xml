@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100312092628AACYp4o" type="Answered">
+    <Subject>Using Skype while using an internet mobile device?</Subject>
+    <Content>Just wondering if using Skype would eat up my allotted internet usage on my mobile internet stick.  In other words is it a hog as compared to just surfing the internet?
+</Content>
+    <Date>2010-03-12 09:26:28</Date>
+    <Timestamp>1268414788</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100312092628AACYp4o</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>S7sRVQyoaa</UserId>
+    <UserNick>Lizzy Borden</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>VOIP need more net usage then just browsing the net.  
+The best option is to take a unlimited plan. 
+
+PS: Compared with other Chat client Skype is the bandwidth eater. You can use Gtalk like other service for VOIP. it will be lower then others. The best option is use Fring. Its support all the chat client and suppot Video calls to. Just try it. And let me know. 
+
+Cheers</ChosenAnswer>
+    <ChosenAnswererId>4JMNs67haa</ChosenAnswererId>
+    <ChosenAnswererNick>Sandra Willam</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268415670</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268947351</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yes, because the bytes are used during calls. . .</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aC2SKTnOaa</UserId>
+            <UserNick>Tauqeer</UserNick>
+            <Date>2010-03-12 09:28:23</Date>
+            <Timestamp>1268414903</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>VOIP need more net usage then just browsing the net.  
+The best option is to take a unlimited plan. 
+
+PS: Compared with other Chat client Skype is the bandwidth eater. You can use Gtalk like other service for VOIP. it will be lower then others. The best option is use Fring. Its support all the chat client and suppot Video calls to. Just try it. And let me know. 
+
+Cheers</Content>
+            <Reference>My Own Experience.</Reference>
+            <Best>5</Best>
+            <UserId>4JMNs67haa</UserId>
+            <UserNick>Sandra Willam</UserNick>
+            <Date>2010-03-12 09:41:10</Date>
+            <Timestamp>1268415670</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:09:46 PDT 2010 -->

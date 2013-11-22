@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327155741AAYtHSF" type="Answered">
+    <Subject>Where can I upload 7 gig vid for my family to view for free?</Subject>
+    <Content>Hi I want to upload a 7.9 gig hol video for my family to view.   have checked a lot of options available for posting videos for family etc online but non of them seems to allow for over 5 gigs.  Is there a way to do this?
+
+Thanks
+</Content>
+    <Date>2010-03-27 15:57:41</Date>
+    <Timestamp>1269730661</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327155741AAYtHSF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11423391</UserId>
+    <UserNick>onR</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well, if all else fails, split it into two 4 gig parts and upload them to YouTube.
+
+Good luck!... ☺</ChosenAnswer>
+    <ChosenAnswererId>f3234ab5b45cafb8798f57ad5dc16a80aa</ChosenAnswererId>
+    <ChosenAnswererNick>Cartoon Head</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269730764</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270250080</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well, if all else fails, split it into two 4 gig parts and upload them to YouTube.
+
+Good luck!... ☺</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>f3234ab5b45cafb8798f57ad5dc16a80aa</UserId>
+            <UserNick>Cartoon Head</UserNick>
+            <Date>2010-03-27 15:59:24</Date>
+            <Timestamp>1269730764</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>use 7zip and &#039;&#039;add to archive&#039;&#039; split the volume by 700mb and then upload each compressed file individually onto rapidshare and email the files one by one to your family, tell them to extract just the one 001 file</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>FcaDJlHYaa</UserId>
+            <UserNick>Shad App</UserNick>
+            <Date>2010-03-27 16:04:38</Date>
+            <Timestamp>1269731078</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You need to convert it into a more reasonable size
+
+Format factory (freeware) should do the job
+
+http://www.formatoz.com/
+
+It would be wise to install a codecs package first, so you have maximum output options
+
+http://www.free-codecs.com/K_lite_codec_pack_download.htm
+(pick the full option)
+
+If a full Hollywood film can fit in a 700 MB AVI file, I&#039;m pretty sure your blockbuster can be reduced quite significantly too</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>u63ya9Leaa</UserId>
+            <UserNick>Michael</UserNick>
+            <Date>2010-03-27 16:22:30</Date>
+            <Timestamp>1269732150</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you are able to compress it to 5gb there is a site called upload direct that lets you upload 5gb for free. You can send it to your families emails or you can give them a password to log on and view it.</Content>
+            <Reference>http://uploaddirect.com/</Reference>
+            <Best></Best>
+            <UserId>2YH65Qbeaa</UserId>
+            <UserNick>jess</UserNick>
+            <Date>2010-03-28 01:44:47</Date>
+            <Timestamp>1269765887</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:21:56 PDT 2010 -->

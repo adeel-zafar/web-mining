@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322180724AA7WBNR" type="Answered">
+    <Subject>I&#039;m having Internet problems?</Subject>
+    <Content>Ever since my college changed the internet connection, supposably to make it faster I&#039;ve been having problems with webcams and videos in general loading on websites. I&#039;ve tried clearing the cache, enabling cookies and checking firewall. i also have the up to date versions of adobe flash and java but nothing seems to be working. anyone have any tips or suggestions? Thanks
+</Content>
+    <Date>2010-03-22 18:07:24</Date>
+    <Timestamp>1269306444</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322180724AA7WBNR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fsOA15tMaa</UserId>
+    <UserNick>M.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Contact the helpdesk, since they&#039;re the ones who know what was changed and if there are any known problems.</ChosenAnswer>
+    <ChosenAnswererId>7aqEtfLRaa</ChosenAnswererId>
+    <ChosenAnswererNick>Hawaiian Eskimo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269306650</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270116127</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Contact the helpdesk, since they&#039;re the ones who know what was changed and if there are any known problems.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7aqEtfLRaa</UserId>
+            <UserNick>Hawaiian Eskimo</UserNick>
+            <Date>2010-03-22 18:10:50</Date>
+            <Timestamp>1269306650</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:20:59 PDT 2010 -->

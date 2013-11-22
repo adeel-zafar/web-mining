@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306003241AALPuap" type="Answered">
+    <Subject>Does anyone know of any eBay alternatives.?</Subject>
+    <Content>I HATE eBay&#039;s fees and am looking for something that has the spirit of Craigslist with an auction style platform.  
+
+Any suggestions?
+</Content>
+    <Date>2010-03-06 00:32:41</Date>
+    <Timestamp>1267864361</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306003241AALPuap</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>7Do2xtUzaa</UserId>
+    <UserNick>russell</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Look into mondro.com. It&#039;s new but growing. And there are no fees at all.</ChosenAnswer>
+    <ChosenAnswererId>4XAsX2URaa</ChosenAnswererId>
+    <ChosenAnswererNick>Mondro</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267865952</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268038150</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Try IOffer.com, I do well there and fees are low.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>sEZImlklaa</UserId>
+            <UserNick>kimela77</UserNick>
+            <Date>2010-03-06 00:38:59</Date>
+            <Timestamp>1267864739</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Look into mondro.com. It&#039;s new but growing. And there are no fees at all.</Content>
+            <Reference>http://www.mondro.com</Reference>
+            <Best>5</Best>
+            <UserId>4XAsX2URaa</UserId>
+            <UserNick>Mondro</UserNick>
+            <Date>2010-03-06 00:59:12</Date>
+            <Timestamp>1267865952</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>amazon!!!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>YP3rXworaa</UserId>
+            <UserNick>anis z</UserNick>
+            <Date>2010-03-06 02:21:51</Date>
+            <Timestamp>1267870911</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:51:12 PDT 2010 -->

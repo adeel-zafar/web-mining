@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323161401AASYQ6N" type="Answered">
+    <Subject>How do I save a frame from YouTube video and save to desktop?</Subject>
+    <Content>I&#039;m not very computer savy --
+</Content>
+    <Date>2010-03-23 16:14:01</Date>
+    <Timestamp>1269386041</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323161401AASYQ6N</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ThR6x4Eoaa</UserId>
+    <UserNick>Klaatu Barada Nikto</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b0b11d9i1225zul4re4/I7lPRUo9frUBhMq8NX65Ys0WfWo-/2/tn48.jpg?ciAAToMB1sFK0QN3</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This is quite simple. First, go to the video and make it full screen (if you want). if you are using a mac, you press and hold command-shift-3 to take a shot of the whole screen. To take a shot of just a portion of the screen hold command-shift-4 and drag the mouse to where you want the shot to be.      If you are using a pc, look at the top right corner of your keyboard and you should see a button called print screen. When pressed it will take a picture of the screen. You will have to find where it saves though as I&#039;m not 100% sure it will save to your desktop. Hope this helps :D</ChosenAnswer>
+    <ChosenAnswererId>hqQbrwlcaa</ChosenAnswererId>
+    <ChosenAnswererNick>Aj</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269387427</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269406974</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This is quite simple. First, go to the video and make it full screen (if you want). if you are using a mac, you press and hold command-shift-3 to take a shot of the whole screen. To take a shot of just a portion of the screen hold command-shift-4 and drag the mouse to where you want the shot to be.      If you are using a pc, look at the top right corner of your keyboard and you should see a button called print screen. When pressed it will take a picture of the screen. You will have to find where it saves though as I&#039;m not 100% sure it will save to your desktop. Hope this helps :D</Content>
+            <Reference>computer knowlege</Reference>
+            <Best>5</Best>
+            <UserId>hqQbrwlcaa</UserId>
+            <UserNick>Aj</UserNick>
+            <Date>2010-03-23 16:37:07</Date>
+            <Timestamp>1269387427</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:28 PDT 2010 -->

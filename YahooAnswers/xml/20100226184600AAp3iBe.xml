@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226184600AAp3iBe" type="Answered">
+    <Subject>Why don&#039;t they have a six month premium membership on deviantART?</Subject>
+    <Content>I want to give my friend one, and want more than three but not as much as twelve...
+</Content>
+    <Date>2010-02-26 18:46:00</Date>
+    <Timestamp>1267238760</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226184600AAp3iBe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>fEpc8nJFaa</UserId>
+    <UserNick>L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well, firstly it is for the money and secondly, maybe they don&#039;t think people would stay on it so long etc.</ChosenAnswer>
+    <ChosenAnswererId>zOjfMqLVaa</ChosenAnswererId>
+    <ChosenAnswererNick>Louisa.</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267238847</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267758353</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well, firstly it is for the money and secondly, maybe they don&#039;t think people would stay on it so long etc.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>zOjfMqLVaa</UserId>
+            <UserNick>Louisa.</UserNick>
+            <Date>2010-02-26 18:47:27</Date>
+            <Timestamp>1267238847</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Ask them to offer it.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>fWrygrgMaa</UserId>
+            <UserNick>E. F. Hutton</UserNick>
+            <Date>2010-02-26 18:48:53</Date>
+            <Timestamp>1267238933</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Buy them a three month premium membership, and then another three month premium membership right afterwards.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>NDvAN9mTaa</UserId>
+            <UserNick>odd.girlz</UserNick>
+            <Date>2010-02-27 09:13:26</Date>
+            <Timestamp>1267290806</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:47:45 PDT 2010 -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316151735AA5VUZk" type="Answered">
+    <Subject>On Gaiaonline, my avatar, nor my friend&#039;s avatar show up and I can&#039;t log in. What&#039;s wrong?</Subject>
+    <Content>I&#039;ve tried, and I&#039;ve used my password and tried to retrieve the password, yet nothing works. Gaia says that my e-mail isn&#039;t in the database, but when I tried using it for a new account, it said that my e-mail was already in use. It won&#039;t show many of my friends&#039; avatars, and mine won&#039;t show up. My profile also change, reverted to its standard look. I really hate this, and I think I&#039;ve been hacked. Has this happen before? Is this normal? Is there a way to fix this problem? 
+This is my profile: http://gaiaonline.com/profiles/8636333
+</Content>
+    <Date>2010-03-16 15:17:35</Date>
+    <Timestamp>1268777855</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316151735AA5VUZk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1TwWwQ4Waa</UserId>
+    <UserNick>pinktuliprosey</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1XTBR_-0yAAEC40SwaLPQNuzUH8AE.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>the server probably crashed or something. I can&#039;t get on mine either. I can get to my topics but gaia keeps messing up. THe admins might fix it as soon as possible though</ChosenAnswer>
+    <ChosenAnswererId>rLpVERpEaa</ChosenAnswererId>
+    <ChosenAnswererNick>megan</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268778047</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268956415</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>the server probably crashed or something. I can&#039;t get on mine either. I can get to my topics but gaia keeps messing up. THe admins might fix it as soon as possible though</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>rLpVERpEaa</UserId>
+            <UserNick>megan</UserNick>
+            <Date>2010-03-16 15:20:47</Date>
+            <Timestamp>1268778047</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yeah my account is just missing. My bf can get on his and some of my mules can, but not the account that was actually worth something e.e</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ZfvFjxpwaa</UserId>
+            <UserNick>rindesayu_ayame</UserNick>
+            <Date>2010-03-16 15:45:25</Date>
+            <Timestamp>1268779525</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:48:08 PDT 2010 -->

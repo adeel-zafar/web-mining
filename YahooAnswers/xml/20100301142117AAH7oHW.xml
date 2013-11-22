@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301142117AAH7oHW" type="Answered">
+    <Subject>How to do the colorsplash thing?</Subject>
+    <Content>I need to know an online program or something that i can use to make one part of a picture color and the rest black and white. FYI i need my shoes in color in a pic of me and everything else black and white. Like the color splash app on the iphone but online. Is there any online program that I can do this with I don&#039;t have photoshop or anything like that.
+I don&#039;t have photoshop.!
+</Content>
+    <Date>2010-03-01 14:21:17</Date>
+    <Timestamp>1267482077</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301142117AAH7oHW</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>B6OrzrU3aa</UserId>
+    <UserNick>BBeachBoy</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/16B1iQBWQAAED_gFvlKZ-6V4B.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>try using the sponge tool in photoshop with maximum tolerance
+
+EDIT: sorry, didn&#039;t notice you said you don&#039;t have photoshop. Try downloading GIMP, it&#039;s free and very similar to photoshop</ChosenAnswer>
+    <ChosenAnswererId>kKtx9xO4aa</ChosenAnswererId>
+    <ChosenAnswererNick>The Shimmering Scarlet</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267482639</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267664860</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try using the sponge tool in photoshop with maximum tolerance
+
+EDIT: sorry, didn&#039;t notice you said you don&#039;t have photoshop. Try downloading GIMP, it&#039;s free and very similar to photoshop</Content>
+            <Reference></Reference>
+            <Best>2</Best>
+            <UserId>kKtx9xO4aa</UserId>
+            <UserNick>The Shimmering Scarlet</UserNick>
+            <Date>2010-03-01 14:30:39</Date>
+            <Timestamp>1267482639</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:30:38 PDT 2010 -->

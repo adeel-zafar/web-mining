@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226165016AAexuBO" type="Answered">
+    <Subject>I am using internet explorer 8 with vista and I need to downgrade to 7...?</Subject>
+    <Content>I am attending school and part of my class is online.  The blackboard doesn&#039;t work with 8, but it says it is compatible with 7.  Do I have to purchase hardware.  How do I downgrade?
+Also how do I uninstall 8.  I am not that great with computers.
+</Content>
+    <Date>2010-02-26 16:50:16</Date>
+    <Timestamp>1267231816</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226165016AAexuBO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cd5feda5f3996f2dd453d559c1a38582aa</UserId>
+    <UserNick>Barbara C</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1VSI5mXQJAAEB98FTNDEoBg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>IE 8 has something called Compatibility View.  Click on the little icon that looks like a gear and choose Compatibility View Settings.  Add the address of the site that doesn&#039;t work and Internet Explorer will run the site as if it is IE7.</ChosenAnswer>
+    <ChosenAnswererId>xwuL7Vieaa</ChosenAnswererId>
+    <ChosenAnswererNick>MaxPower</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267232145</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267335081</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No, just stop using Internet Explorer altogether and use a real browser. Such as Safari, Chrome, or Firefox.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-02-26 16:51:22</Date>
+            <Timestamp>1267231882</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>IE 8 has something called Compatibility View.  Click on the little icon that looks like a gear and choose Compatibility View Settings.  Add the address of the site that doesn&#039;t work and Internet Explorer will run the site as if it is IE7.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xwuL7Vieaa</UserId>
+            <UserNick>Swami</UserNick>
+            <Date>2010-02-26 16:55:45</Date>
+            <Timestamp>1267232145</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Un-install 8, then download 7 and install it.
+You may also try another browsers.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JE2NGf4baa</UserId>
+            <UserNick>Bulldozer</UserNick>
+            <Date>2010-02-26 16:56:00</Date>
+            <Timestamp>1267232160</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:48:15 PDT 2010 -->

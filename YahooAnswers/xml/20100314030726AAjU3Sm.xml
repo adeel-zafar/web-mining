@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314030726AAjU3Sm" type="Answered">
+    <Subject>improving online watching?</Subject>
+    <Content>i have an acer aspire 5332 and just recently everythingg i watch is very jumpy and stop start, anyone any ideas why this has started or how to fix it
+</Content>
+    <Date>2010-03-14 03:07:26</Date>
+    <Timestamp>1268561246</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314030726AAjU3Sm</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>i6w0PsTyaa</UserId>
+    <UserNick>Mike Q</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b5c6d22i1039zul6re4/IdPGLCw8cq19j3tOD_jU7JG4W5u89rs8EoU6/1/tn48.jpg?ciAAToMB8tf02r8o</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Yes - your internet connection is running slow .. visit http://www.speedtest.net/ (or any of the other speed test sites) to check what you are getting ...
+
+From what you say, it WAS working OK, so the question is WHAT HAVE YOU CHANGED ?
+(things like adding another extension phone or moving the Router or moving where you use your laptop  (assuming you are on wireless) etc.) ... whatever you changed, put it back ..
+
+If the answer is &#039;nothing&#039;, then is it possible your neighbors have just got WiFi ???? (most WiFi routers default to frequency band 6 - if your neighbors just turned theirs on it could be interference .. .. try changing yours Router wifi band to 1 or 11)
+
+Having checked everything else, all that&#039;s left is a hardware fault .. I suggest you try replacing the &#039;ADSL Filter&#039; ... and then the router power block before replacing the Router itself (unless you can borrow a friends to do some testing)
+
+
+NB. If the problem is a duff Filter, your will need to power cycle your Router to get it to &#039;see&#039; the new one .. and even then it can take a day or two before BT recognizes you have fixed it ...</ChosenAnswer>
+    <ChosenAnswererId>86e0fcff22774bed26d5e5f6773ca754aa</ChosenAnswererId>
+    <ChosenAnswererNick>Steve B</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268825265</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269684774</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>nope not 1 idea just thought the 2points would help me a little</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>zPw04kL3aa</UserId>
+            <UserNick>Username</UserNick>
+            <Date>2010-03-14 03:34:16</Date>
+            <Timestamp>1268562856</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes - your internet connection is running slow .. visit http://www.speedtest.net/ (or any of the other speed test sites) to check what you are getting ...
+
+From what you say, it WAS working OK, so the question is WHAT HAVE YOU CHANGED ?
+(things like adding another extension phone or moving the Router or moving where you use your laptop  (assuming you are on wireless) etc.) ... whatever you changed, put it back ..
+
+If the answer is &#039;nothing&#039;, then is it possible your neighbors have just got WiFi ???? (most WiFi routers default to frequency band 6 - if your neighbors just turned theirs on it could be interference .. .. try changing yours Router wifi band to 1 or 11)
+
+Having checked everything else, all that&#039;s left is a hardware fault .. I suggest you try replacing the &#039;ADSL Filter&#039; ... and then the router power block before replacing the Router itself (unless you can borrow a friends to do some testing)
+
+
+NB. If the problem is a duff Filter, your will need to power cycle your Router to get it to &#039;see&#039; the new one .. and even then it can take a day or two before BT recognizes you have fixed it ...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>86e0fcff22774bed26d5e5f6773ca754aa</UserId>
+            <UserNick>Steve B</UserNick>
+            <Date>2010-03-17 04:27:45</Date>
+            <Timestamp>1268825265</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:00:56 PDT 2010 -->

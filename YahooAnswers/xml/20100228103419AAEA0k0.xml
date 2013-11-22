@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228103419AAEA0k0" type="Answered">
+    <Subject>Does anyone know of a free website where you can set up your own page for with administrative priveliges?</Subject>
+    <Content>This would be a site where you could start and moderate a discussion topic, have your own poll, and be able to exercise the right to keep the webpage family-friendly if you want to.
+Do any of the social networking sites allow this?
+</Content>
+    <Date>2010-02-28 10:34:19</Date>
+    <Timestamp>1267382059</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228103419AAEA0k0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>p23GaUapaa</UserId>
+    <UserNick>Jeremy</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b746335i2196zul6sp1/ftWFBfZgIqxGgOSC5Lz1M3e9IXWXZA--/1/tn48.jpg?ciAAToMBmgRuw_RG</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>www.webeden.co.uk</ChosenAnswer>
+    <ChosenAnswererId>2SE7D3jfaa</ChosenAnswererId>
+    <ChosenAnswererNick>ram</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267382243</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267942638</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>www.webeden.co.uk</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>2SE7D3jfaa</UserId>
+            <UserNick>ram</UserNick>
+            <Date>2010-02-28 10:37:23</Date>
+            <Timestamp>1267382243</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:37:43 PDT 2010 -->

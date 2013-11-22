@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314000429AAiabcq" type="Answered">
+    <Subject>i have a problem with my internet browser,?</Subject>
+    <Content>i cant go to any sites and my yahoo messenger doesnt work too, how can i fix this, pls help. it says that i have possible http connection problem.
+and also, my internet connection is working fine.
+</Content>
+    <Date>2010-03-14 00:04:29</Date>
+    <Timestamp>1268553869</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314000429AAiabcq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>zOLbWsVbaa</UserId>
+    <UserNick>jv g</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>If you cannot get to sites, how did you post this question? 
+
+Use a different computer and try to create the problem again to test.</ChosenAnswer>
+    <ChosenAnswererId>kdEzAHaUaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jon</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268554903</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269069828</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It may not be a IE problem. check out whether you got your connections right. Check out IP and DNS addresses. If this still continues call you Internet Service Provider.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>TPt49eQ5aa</UserId>
+            <UserNick>tiger</UserNick>
+            <Date>2010-03-14 00:10:03</Date>
+            <Timestamp>1268554203</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>If you cannot get to sites, how did you post this question? 
+
+Use a different computer and try to create the problem again to test.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kdEzAHaUaa</UserId>
+            <UserNick>Jon</UserNick>
+            <Date>2010-03-14 00:21:43</Date>
+            <Timestamp>1268554903</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:10 PDT 2010 -->

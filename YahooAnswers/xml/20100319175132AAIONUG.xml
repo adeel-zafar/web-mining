@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319175132AAIONUG" type="Answered">
+    <Subject>How do i save my recordings on X Factor Pure Solo site?</Subject>
+    <Content>Every time i record a track it sont let me save my song, what is wrong? Everything is working, microphone, sound everything, can anyone help?
+</Content>
+    <Date>2010-03-19 17:51:32</Date>
+    <Timestamp>1269046292</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319175132AAIONUG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>38qZdzXpaa</UserId>
+    <UserNick>KellyMarie</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hey, why don&#039;t you ask your question on the site&#039;s forum? There&#039;s a trouble shooting section where you can post and their team will help you there: http://xfactorkaraoke.puresolo.com/forums</ChosenAnswer>
+    <ChosenAnswererId>W96dJEPfaa</ChosenAnswererId>
+    <ChosenAnswererNick>Bizzle</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269111866</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269565529</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Hey, why don&#039;t you ask your question on the site&#039;s forum? There&#039;s a trouble shooting section where you can post and their team will help you there: http://xfactorkaraoke.puresolo.com/forums</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>W96dJEPfaa</UserId>
+            <UserNick>Bizzle</UserNick>
+            <Date>2010-03-20 12:04:26</Date>
+            <Timestamp>1269111866</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:00 PDT 2010 -->

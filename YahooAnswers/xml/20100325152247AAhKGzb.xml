@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100325152247AAhKGzb" type="Answered">
+    <Subject>Why does only my Firefox connect to the internet?</Subject>
+    <Content>Neither my Internet Explorer nor Google Chrome is able to connect to the internet. Only Firefox works. What could be wrong?
+</Content>
+    <Date>2010-03-25 15:22:47</Date>
+    <Timestamp>1269555767</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100325152247AAhKGzb</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QIVQy8Bpaa</UserId>
+    <UserNick>GasG00</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1eFqeU-iCAAACPAJvoTM=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you  probably got to many tool bars on your computer.  Each  tool bar has a  security setting.  And their  all working  against each other.  And also make sure your fire wall is locked down.</ChosenAnswer>
+    <ChosenAnswererId>z7hWblT7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Iron Clad</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269557432</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270075429</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you  probably got to many tool bars on your computer.  Each  tool bar has a  security setting.  And their  all working  against each other.  And also make sure your fire wall is locked down.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>z7hWblT7aa</UserId>
+            <UserNick>Iron Clad</UserNick>
+            <Date>2010-03-25 15:50:32</Date>
+            <Timestamp>1269557432</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:30:24 PDT 2010 -->

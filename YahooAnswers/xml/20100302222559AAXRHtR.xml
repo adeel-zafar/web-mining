@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302222559AAXRHtR" type="Answered">
+    <Subject>Can you ask me a Question, Lool.?</Subject>
+    <Content>On formspring.me/MuthaUcka
+
+Have fun.
+</Content>
+    <Date>2010-03-02 22:25:59</Date>
+    <Timestamp>1267597559</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302222559AAXRHtR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>owB5MyOgaa</UserId>
+    <UserNick>-Nancy. xo.</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/14yTGGmfZAAAFXAE_NI1n4mJC2a0E.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>ask me a question! simmerme.com is better then formspring http://www.simmerme.com/index.php?id=2</ChosenAnswer>
+    <ChosenAnswererId>r8U1JTnkaa</ChosenAnswererId>
+    <ChosenAnswererNick>Brad</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267719105</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268116994</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>sure I&#039;ll follow you hun.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Scz177kqaa</UserId>
+            <UserNick>pakinja</UserNick>
+            <Date>2010-03-02 22:28:22</Date>
+            <Timestamp>1267597702</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ask me a question! simmerme.com is better then formspring http://www.simmerme.com/index.php?id=2</Content>
+            <Reference>http://www.simmerme.com/index.php?id=2</Reference>
+            <Best>5</Best>
+            <UserId>r8U1JTnkaa</UserId>
+            <UserNick>Brad</UserNick>
+            <Date>2010-03-04 08:11:45</Date>
+            <Timestamp>1267719105</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:21:10 PDT 2010 -->

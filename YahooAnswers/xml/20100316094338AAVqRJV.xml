@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316094338AAVqRJV" type="Answered">
+    <Subject>20mb Broadband :/ Really ? Help Please?</Subject>
+    <Content>Well i have a 20mb broadband but when i go onto speedtest it only gives me a 6.8 mb download speed ?
+Any Ideas Why/
+</Content>
+    <Date>2010-03-16 09:43:38</Date>
+    <Timestamp>1268757818</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316094338AAVqRJV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lk2KUgtDaa</UserId>
+    <UserNick>CKsquid</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1x_-bvyrRAAED_EEiktCpalzjMA==.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>6.8 was your average download speed. 20Mb mean it was the maximum but you will never get to that speed.</ChosenAnswer>
+    <ChosenAnswererId>pYnS3VINaa</ChosenAnswererId>
+    <ChosenAnswererNick>Guitargeek</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268758478</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268945598</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>20Mbps is the maximum raw line rate. It doesn&#039;t mean you&#039;ll actually download at 20Mbps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ebuxHnScaa</UserId>
+            <UserNick>JoelKatz</UserNick>
+            <Date>2010-03-16 09:50:39</Date>
+            <Timestamp>1268758239</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>6.8 was your average download speed. 20Mb mean it was the maximum but you will never get to that speed.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>pYnS3VINaa</UserId>
+            <UserNick>Guitargeek</UserNick>
+            <Date>2010-03-16 09:54:38</Date>
+            <Timestamp>1268758478</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:35 PDT 2010 -->

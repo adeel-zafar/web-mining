@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100402150443AAHwAYX" type="Answered">
+    <Subject>Why isn&#039;t Mozilla checking my spelling as I type?</Subject>
+    <Content>I had to redownload Mozilla when I did a System Recovery, and now when I make a spelling error, it doesn&#039;t underline it with a squiggly red line. I&#039;ve checked the &quot;Check spelling as I type&quot; box in Tools. I&#039;ve unchecked it, closed Mozilla, then checked it again. Do I have to do anything else to enable it?
+
+Thanks.
+</Content>
+    <Date>2010-04-02 15:04:43</Date>
+    <Timestamp>1270245883</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100402150443AAHwAYX</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lrazLb9daa</UserId>
+    <UserNick>Pickled Emerald</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1OldX_i2ZAAEC5AQzVUilC5kB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>this happened a lot during a firefox update and you&#039;ll have to reinstall a dictionary add-on it&#039;s not a big deal, scroll down for English USA, UK, Canada etc after install restart firefox then restart your computer
+https://addons.mozilla.org/en-US/firefox/browse/type:3</ChosenAnswer>
+    <ChosenAnswererId>5991586b22046a25e6c14b30424b53c6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Jim W</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270246247</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270277131</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>just get google chrome. it is soooo much better in terms of looks and ease of browsing. it even has an &quot;incognito&quot; window you can open up whenever you want to do some &quot;secret&quot; browsing (you know naughty stuff). you can also rearrange the tabs an make a tab into a separate window!</Content>
+            <Reference>i have both browsers. i dont even use mozilla any more.</Reference>
+            <Best></Best>
+            <UserId>WIaUsh50aa</UserId>
+            <UserNick>Apulo</UserNick>
+            <Date>2010-04-02 15:08:19</Date>
+            <Timestamp>1270246099</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>this happened a lot during a firefox update and you&#039;ll have to reinstall a dictionary add-on it&#039;s not a big deal, scroll down for English USA, UK, Canada etc after install restart firefox then restart your computer
+https://addons.mozilla.org/en-US/firefox/browse/type:3</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>5991586b22046a25e6c14b30424b53c6aa</UserId>
+            <UserNick>Jim W</UserNick>
+            <Date>2010-04-02 15:10:47</Date>
+            <Timestamp>1270246247</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>mozilla never did that for me.. i stick with my safari.. yes on windows. i run safari on windows!!!</Content>
+            <Reference>http://www.apple.com/safari/download/
+
+enjoy</Reference>
+            <Best></Best>
+            <UserId>zavJBcDdaa</UserId>
+            <UserNick>strings</UserNick>
+            <Date>2010-04-02 15:16:06</Date>
+            <Timestamp>1270246566</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:10:02 PDT 2010 -->

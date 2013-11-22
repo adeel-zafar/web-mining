@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308165330AAQkfGR" type="Answered">
+    <Subject>What&#039;s a crew on ourworld? And what&#039;s this elevator thing in them?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-08 16:53:30</Date>
+    <Timestamp>1268096010</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308165330AAQkfGR</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DI5BUBuOaa</UserId>
+    <UserNick>twiprincesssami</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1xNzcYUaNAAIC-UGLcJGepf7K4wYF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>What are Crews? http://blog.ourworld.com/blog/?p=807
+How do I make a Crew? http://blog.ourworld.com/blog/?p=851
+How do I join a Crew? http://blog.ourworld.com/blog/?p=895</ChosenAnswer>
+    <ChosenAnswererId>DjnAG0diaa</ChosenAnswererId>
+    <ChosenAnswererNick>Last Cookie</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268439597</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268612018</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>What are Crews? http://blog.ourworld.com/blog/?p=807
+How do I make a Crew? http://blog.ourworld.com/blog/?p=851
+How do I join a Crew? http://blog.ourworld.com/blog/?p=895</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>DjnAG0diaa</UserId>
+            <UserNick>Last Cookie</UserNick>
+            <Date>2010-03-12 16:19:57</Date>
+            <Timestamp>1268439597</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:29:05 PDT 2010 -->

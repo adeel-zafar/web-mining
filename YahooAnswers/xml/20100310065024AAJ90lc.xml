@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100310065024AAJ90lc" type="Answered">
+    <Subject>your opinions on this question...?</Subject>
+    <Content>How long can you survive without mobile or Internet access before you break into cold sweats?
+</Content>
+    <Date>2010-03-10 06:50:24</Date>
+    <Timestamp>1268232624</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100310065024AAJ90lc</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8XLjyfaxaa</UserId>
+    <UserNick>mexi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>2 minutes.</ChosenAnswer>
+    <ChosenAnswererId>ITUcRUQGaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sergiy</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268232681</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268403832</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>2 minutes.</Content>
+            <Reference></Reference>
+            <Best>1</Best>
+            <UserId>ITUcRUQGaa</UserId>
+            <UserNick>Sergiy</UserNick>
+            <Date>2010-03-10 06:51:21</Date>
+            <Timestamp>1268232681</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;ve gone months because all I had before was dial up and didn&#039;t feel like dealing with that. It&#039;s a pain but it&#039;s doable.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QL976Tf5aa</UserId>
+            <UserNick>blue_girl</UserNick>
+            <Date>2010-03-10 06:51:47</Date>
+            <Timestamp>1268232707</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>as long as i want.  the internet service at my old apartment sucked, so i never used the internet.  and i don&#039;t have mobile internet.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>UenVRd2faa</UserId>
+            <UserNick>Kissy Cat Lover</UserNick>
+            <Date>2010-03-10 06:52:52</Date>
+            <Timestamp>1268232772</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Put down the crackberry
+Take a walk 
+Hold a conversation with a real person
+Read printed text
+
+The symptoms will subside - there is life beyond the net.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rNFPqCSoaa</UserId>
+            <UserNick>pmc123</UserNick>
+            <Date>2010-03-10 06:59:24</Date>
+            <Timestamp>1268233164</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:19:41 PDT 2010 -->

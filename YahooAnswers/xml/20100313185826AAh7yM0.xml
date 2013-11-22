@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313185826AAh7yM0" type="Answered">
+    <Subject>RSS feed        help?</Subject>
+    <Content>I&#039;d say about every 15-30 minutes or so, I get a box that pops up onto my computer screen while browsing around the internet. Here&#039;s a screenshot(it started today) http://www.flickr.com/photos/23964883@N07/4430302255/sizes/m/
+
+
+How do I get this to go away?
+</Content>
+    <Date>2010-03-13 18:58:26</Date>
+    <Timestamp>1268535506</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313185826AAh7yM0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>s9GhfiVXaa</UserId>
+    <UserNick>jay k</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bb9ec7ci20bbzws129ac4/M.2KYvI7erRGgCm7vDTbY3M-/7/tn48.png?ciAAToMBeAHMjqFY</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Well: (lol)
+
+I don&#039;t have a Mac but I&#039;ve been reading some stuff and (if you haven&#039;t already figured it out) you could try disabling the RSS updates feature in Safari -- (Safari)/(Preferences)/ click on the RSS tab and change (Check for updates:) to (Never)
+
+OR I think it has helped some people to delete certain sites from their Top Sites list (i.e. Google Reader), or from their history or bookmarks list.
+
+Hope this helps???
+
+-Jennay</ChosenAnswer>
+    <ChosenAnswererId>0r3UuOBaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jennay</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268630697</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268702521</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Well: (lol)
+
+I don&#039;t have a Mac but I&#039;ve been reading some stuff and (if you haven&#039;t already figured it out) you could try disabling the RSS updates feature in Safari -- (Safari)/(Preferences)/ click on the RSS tab and change (Check for updates:) to (Never)
+
+OR I think it has helped some people to delete certain sites from their Top Sites list (i.e. Google Reader), or from their history or bookmarks list.
+
+Hope this helps???
+
+-Jennay</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>0r3UuOBaaa</UserId>
+            <UserNick>Jennay</UserNick>
+            <Date>2010-03-14 22:24:57</Date>
+            <Timestamp>1268630697</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:01:58 PDT 2010 -->

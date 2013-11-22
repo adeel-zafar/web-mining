@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100323143128AACvkWY" type="Answered">
+    <Subject>Who do i make a pic. appear on chat roulette?</Subject>
+    <Content>Such as the dancing cat or the fat dude in the bra?
+</Content>
+    <Date>2010-03-23 14:31:28</Date>
+    <Timestamp>1269379888</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100323143128AACvkWY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Si9zTSVNaa</UserId>
+    <UserNick>Dawn</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Virtual webcam software allows to put a video or an image instead of your real web-cam. So you can use it without showing your real face.</ChosenAnswer>
+    <ChosenAnswererId>OsgZmgqmaa</ChosenAnswererId>
+    <ChosenAnswererNick>Stream Recorder</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269504620</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269899246</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Virtual webcam software allows to put a video or an image instead of your real web-cam. So you can use it without showing your real face.</Content>
+            <Reference>http://stream-recorder.com/forum/webcam-alternative-virtual-web-cam-do-webcamming-t964.html</Reference>
+            <Best>5</Best>
+            <UserId>OsgZmgqmaa</UserId>
+            <UserNick>Stream Recorder</UserNick>
+            <Date>2010-03-25 01:10:20</Date>
+            <Timestamp>1269504620</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:17:54 PDT 2010 -->

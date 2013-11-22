@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303104035AADW6do" type="Answered">
+    <Subject>Why does my internet connection keeps disconnecting and reconnecting?</Subject>
+    <Content>This problem has been occurring for several days and it starting to get me. Don&#039;t tell me to call the operator because they&#039;re just plain rude. Help me please.
+</Content>
+    <Date>2010-03-03 10:40:35</Date>
+    <Timestamp>1267641635</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303104035AADW6do</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>r3C5uCmzaa</UserId>
+    <UserNick>Anna</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1vb1N9XJWAAEC-OGi9FjjDQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There can be various reasons for this...I guess by Operator you mean your Internet Provider? A Service Tech there should walk you through a check-list to help you fix this. That is their main-job and what they get paid to do.  A few things you can try yourself is, download, update, run Malwarebytes, ccleaner, reset IE8 to Default in Options, Advanced and restart PC...You can also Reset your Router or unplug it for 10 sec and plug it back in and restart PC...You can uninstall any anti virus including the firewall, enabling your Windows firewall and try your connection to see if it is better and if that was it use another anti virus. You can try a service like OpenDNS to see if that helps. The problem could be a corrupt Network Driver and you need to Reinstall it...It could be a loose or bad cable-ire connection, so make sure to check these...It could also be the Router going bad...You might think about what changes you made between the time the connection was working and not working. Maybe you move a cordless phone too close to the router and they are both conflicting with each other...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267645418</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267687006</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>There can be various reasons for this...I guess by Operator you mean your Internet Provider? A Service Tech there should walk you through a check-list to help you fix this. That is their main-job and what they get paid to do.  A few things you can try yourself is, download, update, run Malwarebytes, ccleaner, reset IE8 to Default in Options, Advanced and restart PC...You can also Reset your Router or unplug it for 10 sec and plug it back in and restart PC...You can uninstall any anti virus including the firewall, enabling your Windows firewall and try your connection to see if it is better and if that was it use another anti virus. You can try a service like OpenDNS to see if that helps. The problem could be a corrupt Network Driver and you need to Reinstall it...It could be a loose or bad cable-ire connection, so make sure to check these...It could also be the Router going bad...You might think about what changes you made between the time the connection was working and not working. Maybe you move a cordless phone too close to the router and they are both conflicting with each other...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-03 11:43:38</Date>
+            <Timestamp>1267645418</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:18:04 PDT 2010 -->

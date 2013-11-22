@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100305183405AAjfmjQ" type="Answered">
+    <Subject>Since installing malwarebytes, I am no longer able to access a particular web page I  on either IE or Firefox?</Subject>
+    <Content>I had been able to access this page anytime until I installed Malwarebytes. I also had upgraded my version of Internet Explorer around the same time as I installed Malwarebytes.  How can I solve this issue?
+</Content>
+    <Date>2010-03-05 18:34:05</Date>
+    <Timestamp>1267842845</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100305183405AAjfmjQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vHtEWWeRaa</UserId>
+    <UserNick>Cindy</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>You haven&#039;t given us much to go on. What happens when you try to access the web page?  Does it give you an error page in the browser?  Does a message box come up? What do they say?
+
+About all I can say from the evidence, is that a new version of Internet Explorer should have no effect on Firefox.
+
+Sorry.  Maybe if you post more information someone will be able to help you more.</ChosenAnswer>
+    <ChosenAnswererId>FBQZ06vraa</ChosenAnswererId>
+    <ChosenAnswererNick>The Phlebob</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267846188</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268362451</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>remove that crap and install adaware... seriously!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Sdxbk3o2aa</UserId>
+            <UserNick>Malty21</UserNick>
+            <Date>2010-03-05 18:37:02</Date>
+            <Timestamp>1267843022</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try deleting malwarebytes first</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>o0f9bLUDaa</UserId>
+            <UserNick>HammeringOracle</UserNick>
+            <Date>2010-03-05 18:37:11</Date>
+            <Timestamp>1267843031</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You haven&#039;t given us much to go on. What happens when you try to access the web page?  Does it give you an error page in the browser?  Does a message box come up? What do they say?
+
+About all I can say from the evidence, is that a new version of Internet Explorer should have no effect on Firefox.
+
+Sorry.  Maybe if you post more information someone will be able to help you more.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>FBQZ06vraa</UserId>
+            <UserNick>The Phlebob</UserNick>
+            <Date>2010-03-05 19:29:48</Date>
+            <Timestamp>1267846188</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:53:20 PDT 2010 -->

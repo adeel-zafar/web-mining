@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100227144117AAzcvFD" type="Answered">
+    <Subject>I signed into my paypal &amp; My only credit card, it says is asigned to a different account. Any way to unassign?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-27 14:41:17</Date>
+    <Timestamp>1267310477</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100227144117AAzcvFD</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hM2KNQxXaa</UserId>
+    <UserNick>Michael</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Unless you have two paypal accounts, I would think that someone has jacked your card number. You should call customer service on paypal, and if it is an account you don&#039;t know, have them unassign it. Then check your bank for unknown charges.</ChosenAnswer>
+    <ChosenAnswererId>g2ODb0Jpaa</ChosenAnswererId>
+    <ChosenAnswererNick>eSkye</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267310671</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270167796</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Unless you have two paypal accounts, I would think that someone has jacked your card number. You should call customer service on paypal, and if it is an account you don&#039;t know, have them unassign it. Then check your bank for unknown charges.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>g2ODb0Jpaa</UserId>
+            <UserNick>ENSkye</UserNick>
+            <Date>2010-02-27 14:44:31</Date>
+            <Timestamp>1267310671</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>is there a phone number,I would call them up and find out&gt;you will just get a run around doing it over the internet.what gets me is asigned to a different account,meaning what,like some-one else signed in?        good luck. it also might for the best call the bank,or the credit card place and see about that too?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GZXZl131aa</UserId>
+            <UserNick>mommy</UserNick>
+            <Date>2010-02-27 14:49:56</Date>
+            <Timestamp>1267310996</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:42:38 PDT 2010 -->

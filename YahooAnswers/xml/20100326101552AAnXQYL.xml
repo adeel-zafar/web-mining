@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326101552AAnXQYL" type="Answered">
+    <Subject>Internet Explorer help?</Subject>
+    <Content>For some reason i keep getting these websites when i try to go to another one: iamwired.net, ask.com, askjohny.com, informationportal. I have even blocked them in my internet options its really getting aggravating, i can do research for a paper and it will be redirected to one of these. if anyone can help it will be appreciated.
+</Content>
+    <Date>2010-03-26 10:15:52</Date>
+    <Timestamp>1269623752</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326101552AAnXQYL</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Lrrq96quaa</UserId>
+    <UserNick>B~rad</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/11u1-dE_fAAEC-OFncCY7xgYB.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Install Malware Bytes -
+
+http://www.malwarebytes.org/
+
+This will help clean up your machine.
+
+Make sure you disable System Restore before you do this, and then enable it once clean.</ChosenAnswer>
+    <ChosenAnswererId>qDKlH7MMaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ian Spencer</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269624760</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270197759</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You need to clear your cache, delete all your cookies and rid yourself of your browsing history. Looks like you may have picked up some malware along the way. Check out AVGFree as a way to get rid of it, or Avast Antivirus.
+
+You can also attempt to download Mozilla FireFox, Google Chrome or Apple Safari in the interim.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>OlMQHOzSaa</UserId>
+            <UserNick>techmonkey</UserNick>
+            <Date>2010-03-26 10:19:49</Date>
+            <Timestamp>1269623989</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can Turn on your Pop up blocker
+OR use Mozilla Firefox Browser it&#039;s very safe &amp; easy to interface..!</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>18flndcjaa</UserId>
+            <UserNick>Saturn3672</UserNick>
+            <Date>2010-03-26 10:22:21</Date>
+            <Timestamp>1269624141</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yep, it looks like you have picked up malware. You might even want to reset IE. Here is a link that can guide you through:
+
+http://support.microsoft.com/kb/923737
+
+Kyler
+IE Outreach Team</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0BzipcAfaa</UserId>
+            <UserNick>Kyler_IE8_Team</UserNick>
+            <Date>2010-03-26 10:26:36</Date>
+            <Timestamp>1269624396</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Install Malware Bytes -
+
+http://www.malwarebytes.org/
+
+This will help clean up your machine.
+
+Make sure you disable System Restore before you do this, and then enable it once clean.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qDKlH7MMaa</UserId>
+            <UserNick>Ian Spencer</UserNick>
+            <Date>2010-03-26 10:32:40</Date>
+            <Timestamp>1269624760</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:26:39 PDT 2010 -->

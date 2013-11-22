@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100321160238AAHASf2" type="Answered">
+    <Subject>I have the XP Internet Security 2010 virus.. how can I get rid of it?</Subject>
+    <Content>I&#039;ve searched this on google and most websites tell me to download Malwarebytes and it&#039;ll get rid of it. I already have that installed on my computer, but I can&#039;t get that to open!
+
+I have had viruses like this before and I just had to restart my computer and open Malwarebytes before anything else, but I can&#039;t get it to open this time. And I&#039;ve tried many times, even on safe mode. Doesn&#039;t work :(
+
+Help please!
+</Content>
+    <Date>2010-03-21 16:02:38</Date>
+    <Timestamp>1269212558</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100321160238AAHASf2</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>qSNljKWyaa</UserId>
+    <UserNick>Brownies</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</ChosenAnswer>
+    <ChosenAnswererId>rlrruu5Iaa</ChosenAnswererId>
+    <ChosenAnswererNick>Google</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269270706</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269271167</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>go here http://4everythingyouneed.webs.com/  them click in fake virus , and follow step by step how remove it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5CTkAwjzaa</UserId>
+            <UserNick>Romantico</UserNick>
+            <Date>2010-03-21 16:04:49</Date>
+            <Timestamp>1269212689</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Restart PC in safe mode by tapping F-8 key, choosing &quot;Safe Mode with Networking&quot; from menu. Next download, update, run Malwarebytes and click Remove. In normal mode download, update, run SuperAntiSpyware, Hitman Pro, ccleaner and restart PC...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/SuperAntiSpyware-Free-Edition/3000-8022_4-10523889.html?tag=mncol
+http://www.surfright.nl/en/hitmanpro
+http://download.cnet.com/ccleaner/?tag=mncol</Reference>
+            <Best></Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-03-21 16:52:12</Date>
+            <Timestamp>1269215532</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>antivirus tips and antivirus download:
+http://merakit-komputer.com
+http://merakit-komputer.com</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>rlrruu5Iaa</UserId>
+            <UserNick>Google</UserNick>
+            <Date>2010-03-22 08:11:46</Date>
+            <Timestamp>1269270706</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:25:58 PDT 2010 -->

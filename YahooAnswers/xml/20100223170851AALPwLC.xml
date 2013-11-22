@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223170851AALPwLC" type="Answered">
+    <Subject>Firefox keeps upgrading itself when I don&#039;t want it to?</Subject>
+    <Content>I&#039;d decided long ago not to upgrade to the new version of Firefox.  I&#039;m required to use Firefox for my work, &amp; many of my colleagues reported the new version sometimes clashed with our work&#039;s toolbar.  Last week I accidentally upgraded.  Sure enough, my pc kept on taking turns crashing &amp; freezing.
+
+I got my pc repaired &amp; I downloaded the old version of Firefox.  However, it seems to suddenly &quot;morph&quot; from the old look to the new look without any prompting.  What is causing this?  And how can I stop it?  I actually prefer the old look &amp; I&#039;m scared the new one will cause problems again.  Please help!
+</Content>
+    <Date>2010-02-23 17:08:51</Date>
+    <Timestamp>1266973731</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223170851AALPwLC</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>hbBx2V2kaa</UserId>
+    <UserNick>merebear83</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Do what you did before and reinstall the old version of Firefox. 
+
+To stop automatic updating of Firefox, go to &quot;Tools, select &quot;Options&quot;, select the &quot;Advanced&quot; tab, select the &quot;Update&quot; tab. Under &quot;When updates to Firefox are found&quot;, select the dot beside &quot;Ask me what to do.&quot;
+
+Firefox will prompt/nag you when a update is available, but you have the option to install it or not install it.</ChosenAnswer>
+    <ChosenAnswererId>lQHx3SWdaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ben</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266974124</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267493156</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Do what you did before and reinstall the old version of Firefox. 
+
+To stop automatic updating of Firefox, go to &quot;Tools, select &quot;Options&quot;, select the &quot;Advanced&quot; tab, select the &quot;Update&quot; tab. Under &quot;When updates to Firefox are found&quot;, select the dot beside &quot;Ask me what to do.&quot;
+
+Firefox will prompt/nag you when a update is available, but you have the option to install it or not install it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>lQHx3SWdaa</UserId>
+            <UserNick>Ben</UserNick>
+            <Date>2010-02-23 17:15:24</Date>
+            <Timestamp>1266974124</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:17:39 PDT 2010 -->

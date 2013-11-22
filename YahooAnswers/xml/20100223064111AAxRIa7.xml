@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223064111AAxRIa7" type="Answered">
+    <Subject>Any good text-to-speech websites with a range of voices?</Subject>
+    <Content>I want to use them in a flash animation.
+</Content>
+    <Date>2010-02-23 06:41:11</Date>
+    <Timestamp>1266936071</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223064111AAxRIa7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Cf4KF2UXaa</UserId>
+    <UserNick>Laurence</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Here&#039;s some
+AT&amp;T Labs - http://www.research.att.com/~ttsweb/tts/demo.php
+YAKiToMe - http://www.yakitome.com
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267256770</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267455309</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Check this website
+
+http://text-to-speech.imtranslator.net/</Content>
+            <Reference>http://text-to-speech.imtranslator.net/</Reference>
+            <Best></Best>
+            <UserId>ZK3YZBEZaa</UserId>
+            <UserNick>shailv</UserNick>
+            <Date>2010-02-23 07:02:31</Date>
+            <Timestamp>1266937351</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Here&#039;s some
+AT&amp;T Labs - http://www.research.att.com/~ttsweb/tts/demo.php
+YAKiToMe - http://www.yakitome.com
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-02-26 23:46:10</Date>
+            <Timestamp>1267256770</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:22:23 PDT 2010 -->

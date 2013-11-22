@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319162227AAFBQ4n" type="Answered">
+    <Subject>Should i update my browser?</Subject>
+    <Content>*mozilla Firefox
+*Internet Explorer 8
+*safari
+*Google Chrome
+*or opera browser
+
+Which one is better?
+and is it a good idea to update your browser or leave it like that?
+</Content>
+    <Date>2010-03-19 16:22:27</Date>
+    <Timestamp>1269040947</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319162227AAFBQ4n</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MOyWJrZFaa</UserId>
+    <UserNick>Dat Girl!!</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b4a45f3i1f01zul1sp1/dRjDhmMzeb9NYsUfrR9W1ELy/1/tn48.jpg?ciAAToMBEeRCyi7V</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I think Firefox, because of all the awesome applications. Or opera, which already has a lot of awesome applications built in.</ChosenAnswer>
+    <ChosenAnswererId>C4wcSS7taa</ChosenAnswererId>
+    <ChosenAnswererNick>Tim</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269041257</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269290622</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Chrome. No argument.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0D1jDZl4aa</UserId>
+            <UserNick>anonymous</UserNick>
+            <Date>2010-03-19 16:26:11</Date>
+            <Timestamp>1269041171</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I think Firefox, because of all the awesome applications. Or opera, which already has a lot of awesome applications built in.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>C4wcSS7taa</UserId>
+            <UserNick>Tim</UserNick>
+            <Date>2010-03-19 16:27:37</Date>
+            <Timestamp>1269041257</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Mac - Safari
+PC - Firefox
+
+ANYTHING BUT INTERNET EXPLORER.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>7qoYn00Baa</UserId>
+            <UserNick>Richmond</UserNick>
+            <Date>2010-03-19 16:29:10</Date>
+            <Timestamp>1269041350</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:34:18 PDT 2010 -->

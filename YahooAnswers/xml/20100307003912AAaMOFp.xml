@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307003912AAaMOFp" type="Answered">
+    <Subject>Can anyone plz tell me the best online file hosting site for free?</Subject>
+    <Content>i want to host my files on any free file hosting site which must have following facilities,
+1-minimum 5GB of Disk Space
+2-unlimited Bandwidth
+3-provides Direct Link of hosted files
+4-store files for maximum time after last download
+can anyone plz help me?
+</Content>
+    <Date>2010-03-07 00:39:12</Date>
+    <Timestamp>1267951152</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307003912AAaMOFp</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Li1xaTXNaa</UserId>
+    <UserNick>Ayubi</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I recommend http://www.bestfilehosting.org/
+
+There are many if you do not need unlimited bandwidth. Why need so much?</ChosenAnswer>
+    <ChosenAnswererId>MhxrQPvBaa</ChosenAnswererId>
+    <ChosenAnswererNick>britany</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267982516</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268470405</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sign Up a Account on 4shared.com.
+It gives you 5GB space for free but you have to open your account once in the month otherwise the system delete your account....</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GC2EzPKcaa</UserId>
+            <UserNick>amitsareen127</UserNick>
+            <Date>2010-03-07 01:31:03</Date>
+            <Timestamp>1267954263</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I recommend http://www.bestfilehosting.org/
+
+There are many if you do not need unlimited bandwidth. Why need so much?</Content>
+            <Reference>http://www.bestfilehosting.org/</Reference>
+            <Best>5</Best>
+            <UserId>MhxrQPvBaa</UserId>
+            <UserNick>britany</UserNick>
+            <Date>2010-03-07 09:21:56</Date>
+            <Timestamp>1267982516</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Their are hundreds of such site, but why you are using free service? They put many restrictions on your file extension and uploading format. if you are going to generate revenue from this hosting its better to use paid (but low cost) hosting service. I personally know service from - http://www.onthenetoffice.com/ you can trust on them. Thanks</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>W0IR0gTtaa</UserId>
+            <UserNick>Sherly J</UserNick>
+            <Date>2010-03-09 01:24:00</Date>
+            <Timestamp>1268126640</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:42:50 PDT 2010 -->

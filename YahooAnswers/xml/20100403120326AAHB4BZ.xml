@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100403120326AAHB4BZ" type="Answered">
+    <Subject>What country has the fastest broadband in the world?</Subject>
+    <Content>
+</Content>
+    <Date>2010-04-03 12:03:26</Date>
+    <Timestamp>1270321406</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100403120326AAHB4BZ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>keXajhEdaa</UserId>
+    <UserNick>Superfast Jellyfish</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Japanese Broadband is the World&#039;s Fastest</ChosenAnswer>
+    <ChosenAnswererId>owVSSZ06aa</ChosenAnswererId>
+    <ChosenAnswererNick>BART LOVES ♫MJ♫™original© .</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1270335771</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270336774</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>donno? we got 1000/1000mbps here in sweden that anyone can buy (as long as u live in a city)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>lFMRLQa7aa</UserId>
+            <UserNick>Tassular</UserNick>
+            <Date>2010-04-03 12:05:17</Date>
+            <Timestamp>1270321517</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>us</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>eJE1Orpkaa</UserId>
+            <UserNick>Desi I</UserNick>
+            <Date>2010-04-03 12:05:21</Date>
+            <Timestamp>1270321521</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Sweden, Latvia, and Romania
+
+U.S. are second in continental rank</Content>
+            <Reference>speedtest.net</Reference>
+            <Best></Best>
+            <UserId>B4UVr3z7aa</UserId>
+            <UserNick>Lukasz L</UserNick>
+            <Date>2010-04-03 12:08:05</Date>
+            <Timestamp>1270321685</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Japanese Broadband is the World&#039;s Fastest</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>owVSSZ06aa</UserId>
+            <UserNick>BART LOVES ♫MJ♫™original© .</UserNick>
+            <Date>2010-04-03 16:02:51</Date>
+            <Timestamp>1270335771</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:09:21 PDT 2010 -->

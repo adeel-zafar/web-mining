@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313171436AAUoaGa" type="Answered">
+    <Subject>Internet explorer 8 problem?</Subject>
+    <Content>Please help.
+
+I tried downloading Internet Explorer 8  to my computer.   Now when I try to open Internet Explorer it goes on for a split second and closes again.   Just a flash on the screen with no error message. 
+
+I tried running it without add-ons.   I went in and fixed corrupt files in my system.   Nothing works.
+
+Itunes can connect to the Internet ok.
+
+I have a netbook and can only access the computer via the Internet or USB.   I do not have any other browsers installed.
+
+Help!
+</Content>
+    <Date>2010-03-13 17:14:36</Date>
+    <Timestamp>1268529276</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313171436AAUoaGa</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10059698</UserId>
+    <UserNick>god1oak</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Q9Dv3An7AAEDOcLpMCKdBA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Get rid of it, I had the same problem. and while your at it get rid of IE and try something else.</ChosenAnswer>
+    <ChosenAnswererId>vFVL2Ai8aa</ChosenAnswererId>
+    <ChosenAnswererNick>eric</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268531216</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270251728</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Run the FixIE utility.  It re-registers alot of the .dll&#039;s IE uses.
+
+http://www.thewindowsclub.com/repair-internet-explorer-with-fix-ie-utility</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>ngQqisNiaa</UserId>
+            <UserNick>AJ</UserNick>
+            <Date>2010-03-13 17:17:41</Date>
+            <Timestamp>1268529461</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Get rid of it, I had the same problem. and while your at it get rid of IE and try something else.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>vFVL2Ai8aa</UserId>
+            <UserNick>eric</UserNick>
+            <Date>2010-03-13 17:46:56</Date>
+            <Timestamp>1268531216</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi,god1oak
+
+There are 3 step to repair internet explorer 8 error
+
+My friend had the same problem with you. I am sure your computer has registry problems.It is very easy to repair internet explorer 8 error. you just need 3 steps:
+
+1: Download a registry cleaner and install it.
+2: Open the registry cleaner and scan you computer for free.
+3: Click fix button and you done.
+
+Download the top internet explorer 8 error repair tool here:http://www.RepairErrorTips.com/ttfix-internet_explorer_8_error-zz0001</Content>
+            <Reference>http://www.RepairErrorTips.com/ttfix-internet_explorer_8_error-zz0001</Reference>
+            <Best></Best>
+            <UserId>DO7Fewwlaa</UserId>
+            <UserNick>Ada</UserNick>
+            <Date>2010-03-13 18:50:56</Date>
+            <Timestamp>1268535056</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:18 PDT 2010 -->

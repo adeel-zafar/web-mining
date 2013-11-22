@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224152515AAG0kh1" type="Answered">
+    <Subject>10GB useage allowence - can i watch 4od bbc iplayer etc?</Subject>
+    <Content>i have a 10GB usuage allowence and have been watching a bit of tv on the laptop lately (4od BBC iplayer etc) ..can 10gb handle this or am i going to have a massive bill? (i generally also spend about 4 hours ish surfing the internet a day)
+</Content>
+    <Date>2010-02-24 15:25:15</Date>
+    <Timestamp>1267053915</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224152515AAG0kh1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>OSrgMPBuaa</UserId>
+    <UserNick>**Liam&#039;s mummy**</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>loads of room. if you go over the top they will inform you dont worry.</ChosenAnswer>
+    <ChosenAnswererId>IpcsLekBaa</ChosenAnswererId>
+    <ChosenAnswererNick>cannybiz123</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267054070</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267641198</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>loads of room. if you go over the top they will inform you dont worry.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>IpcsLekBaa</UserId>
+            <UserNick>cannybiz123</UserNick>
+            <Date>2010-02-24 15:27:50</Date>
+            <Timestamp>1267054070</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Keep it to 30 mins or 60 mins viewing maximum per day and you should be fine.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GrpQFRPSaa</UserId>
+            <UserNick>Another Me</UserNick>
+            <Date>2010-02-24 15:28:13</Date>
+            <Timestamp>1267054093</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if each 30minute tv show is around 500mb you could watch about 20 tv shows before using up the full 10gb it&#039;ll be used up quicker if you watch the shows in HD</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11000207</UserId>
+            <UserNick>Claiire</UserNick>
+            <Date>2010-02-24 15:42:11</Date>
+            <Timestamp>1267054931</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:12:59 PDT 2010 -->

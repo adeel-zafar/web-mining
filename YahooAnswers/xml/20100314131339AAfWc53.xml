@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314131339AAfWc53" type="Answered">
+    <Subject>Internet connection problem, please help?</Subject>
+    <Content>My mom&#039;s laptop is connected to the internet, but not to our ISP to our neighbor&#039;s one. When I click &#039;Search for Available Wireless Networks&#039; it says that it cannot find any at this time, yet my computer is connected, along with my sister&#039;s and I can see our modem is fully connected. 
+Can you guys troubleshoot or maybe help me out, thanks.
+Im not trying to get onto my neighbors. Im trying to connect to MY modem. 
+
+Read the question...
+</Content>
+    <Date>2010-03-14 13:13:39</Date>
+    <Timestamp>1268597619</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314131339AAfWc53</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>wABXqerEaa</UserId>
+    <UserNick>Kevin</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1jTGe_ETeAAIBgIcnoSbbBvkA.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Maybe your neighbour has made their connection private with a password</ChosenAnswer>
+    <ChosenAnswererId>TwrGic9Uaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sasha</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268597771</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269117340</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe your neighbour has made their connection private with a password</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>TwrGic9Uaa</UserId>
+            <UserNick>Sasha</UserNick>
+            <Date>2010-03-14 13:16:11</Date>
+            <Timestamp>1268597771</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:58:42 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100314222939AArdud7" type="Answered">
+    <Subject>What is and e-family? It&#039;s like an internet thing..?</Subject>
+    <Content>What is an e-family.? Haha.
+</Content>
+    <Date>2010-03-14 22:29:39</Date>
+    <Timestamp>1268630979</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100314222939AArdud7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>vYVPkWjXaa</UserId>
+    <UserNick>Logan</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1qzgUL7YbAAED4QSDrtYsW8IB.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>An electronic family.</ChosenAnswer>
+    <ChosenAnswererId>6iPr1BKSaa</ChosenAnswererId>
+    <ChosenAnswererNick>Maplestoria</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268631676</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269150199</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>An electronic family.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>6iPr1BKSaa</UserId>
+            <UserNick>Maplestoria</UserNick>
+            <Date>2010-03-14 22:41:16</Date>
+            <Timestamp>1268631676</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:55:48 PDT 2010 -->

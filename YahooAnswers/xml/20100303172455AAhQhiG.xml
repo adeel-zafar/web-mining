@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100303172455AAhQhiG" type="Answered">
+    <Subject>What is the best internet browser?</Subject>
+    <Content>I would like something that is not slow you can get around on like Internet Explorer has.Also can block websites easily.
+</Content>
+    <Date>2010-03-03 17:24:55</Date>
+    <Timestamp>1267665895</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100303172455AAhQhiG</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>pnq3TH7Jaa</UserId>
+    <UserNick>aleah</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/146hjSp-bAAIC-IFD3F8=.medium.png</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you all need to read her requirements!  with the requirement: block websites
+
+IE can block web sites.
+not safari, not opera, not chrome, not firefox.
+only IE can do that.
+If that were not your requirement, safari and firefox would be my best recommendations as far as ability to render documents.
+
+however, firefox doesn&#039;t always print well.  there is an overflow:hidden thing which people are using to display text on IE for printing (why?) and it&#039;s causing cross-browser problems.  it&#039;s their own fault.</ChosenAnswer>
+    <ChosenAnswererId>Xrpse3Iaaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jim</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267668185</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267887177</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Opera is the fastest web browser I know, have been using it for ages.
+Firefox is nice too, but loads slower.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QLp6QBrIaa</UserId>
+            <UserNick>Aivars</UserNick>
+            <Date>2010-03-03 17:26:43</Date>
+            <Timestamp>1267666003</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Google Chrome.</Content>
+            <Reference>Extensive use of IE, Firefox, and Safari over the years.</Reference>
+            <Best></Best>
+            <UserId>d0nv49tHaa</UserId>
+            <UserNick>kl</UserNick>
+            <Date>2010-03-03 17:27:42</Date>
+            <Timestamp>1267666062</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox is the fastest I&#039;ve ever used, but it really depends on your computer speed, too.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vb1zlSp7aa</UserId>
+            <UserNick>☆Kuro</UserNick>
+            <Date>2010-03-03 17:28:21</Date>
+            <Timestamp>1267666101</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>you all need to read her requirements!  with the requirement: block websites
+
+IE can block web sites.
+not safari, not opera, not chrome, not firefox.
+only IE can do that.
+If that were not your requirement, safari and firefox would be my best recommendations as far as ability to render documents.
+
+however, firefox doesn&#039;t always print well.  there is an overflow:hidden thing which people are using to display text on IE for printing (why?) and it&#039;s causing cross-browser problems.  it&#039;s their own fault.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Xrpse3Iaaa</UserId>
+            <UserNick>Jim</UserNick>
+            <Date>2010-03-03 18:03:05</Date>
+            <Timestamp>1267668185</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:15:00 PDT 2010 -->

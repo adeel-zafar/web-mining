@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306093730AAcJVi9" type="Answered">
+    <Subject>How do you connect your DSi to the Internet?</Subject>
+    <Content>I just need to know how!
+</Content>
+    <Date>2010-03-06 09:37:30</Date>
+    <Timestamp>1267897050</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306093730AAcJVi9</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>mOgzp5KNaa</UserId>
+    <UserNick>xox.abc.xox</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/17SQxUU_nAAEB-IFTOF0=.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.ehow.com/how_4890413_connect-nintendo-dsi-internet.html</ChosenAnswer>
+    <ChosenAnswererId>ylyDSpb7aa</ChosenAnswererId>
+    <ChosenAnswererNick>Sexy Scottish Kool Aid Man</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267897131</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268097637</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Via Wi-Fi.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>vAJocLqvaa</UserId>
+            <UserNick>star123compy</UserNick>
+            <Date>2010-03-06 09:38:10</Date>
+            <Timestamp>1267897090</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.ehow.com/how_4890413_connect-nintendo-dsi-internet.html</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>ylyDSpb7aa</UserId>
+            <UserNick>Sexy Scottish Kool Aid Man</UserNick>
+            <Date>2010-03-06 09:38:51</Date>
+            <Timestamp>1267897131</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:48:47 PDT 2010 -->

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100327040435AA03W4C" type="Answered">
+    <Subject>Computer/Internet help?</Subject>
+    <Content>My computer wont pick up an internet connection even though my Xbox and laptop(which im using) have perfect internet connection. Every time i try to connect to the internet on my comp it says modem had an unreported error and i dont know what to do. I hav a netgear modem/broadband thing and thats all the info i can give u. Sorry if there are not enough details.
+</Content>
+    <Date>2010-03-27 04:04:35</Date>
+    <Timestamp>1269687875</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100327040435AA03W4C</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>NmOVaOkAaa</UserId>
+    <UserNick>Jason</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Only laptops,xbox and the Wii etc. can get internet connection (Wireless) well the computer needs wired connection trust me!
+
+Hope i helped</ChosenAnswer>
+    <ChosenAnswererId>KsKm362Paa</ChosenAnswererId>
+    <ChosenAnswererNick>Silent hill 4 the livers</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269688697</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269776311</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Only laptops,xbox and the Wii etc. can get internet connection (Wireless) well the computer needs wired connection trust me!
+
+Hope i helped</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>KsKm362Paa</UserId>
+            <UserNick>Silent hill 4 the livers</UserNick>
+            <Date>2010-03-27 04:18:17</Date>
+            <Timestamp>1269688697</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it sounds like you need to update the ethernet drivers on the computer. go to control panel, system, then device manager then network adapters. you should find it in there. try right clicking on it and click on update driver software. if it fails to find a driver then note down what its called and google it</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>DLnLkMPvaa</UserId>
+            <UserNick>tony</UserNick>
+            <Date>2010-03-27 04:21:40</Date>
+            <Timestamp>1269688900</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:23:45 PDT 2010 -->

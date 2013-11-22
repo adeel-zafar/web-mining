@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100304073035AAYAKOV" type="Answered">
+    <Subject>Only Internet Explorer will connect to the internet?</Subject>
+    <Content>For some strange reason only Internet Explorer will connect to the internet.
+
+Firefox, Chrome, Limewire ect all tell me that I dont have an internet connection.
+
+Ive turned of my firewall and I dont use a proxy.....Please Help!!!!
+All other browers are running online but not connecting......and ive uninstalled and reinstalled everything.
+</Content>
+    <Date>2010-03-04 07:30:35</Date>
+    <Timestamp>1267716635</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100304073035AAYAKOV</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dDuvMEmUaa</UserId>
+    <UserNick>matt.keylock</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1LH_du6FPAAECrCJYjItyMkYB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Run antivirus and check firefox from the file tab in the top left hand corner and make sure you arent &quot;working offline&quot;</ChosenAnswer>
+    <ChosenAnswererId>ZIWXQ4QHaa</ChosenAnswererId>
+    <ChosenAnswererNick>clayton</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267716908</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268236664</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Run antivirus and check firefox from the file tab in the top left hand corner and make sure you arent &quot;working offline&quot;</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>ZIWXQ4QHaa</UserId>
+            <UserNick>clayton</UserNick>
+            <Date>2010-03-04 07:35:08</Date>
+            <Timestamp>1267716908</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try redownloading firefox w/ the new version</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>3j9gVeb7aa</UserId>
+            <UserNick>T.K.</UserNick>
+            <Date>2010-03-04 07:46:06</Date>
+            <Timestamp>1267717566</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>did you at least blocked your firefox.re-move chrome,and limewire,etcsee if you can do a versus can?  turn your computer completely off,than back-on again,alot of times when you do this ,will work better?might also be because of the versus protection you were having causing the problems.chec for up-dates?do a system check-up. good luck?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>GZXZl131aa</UserId>
+            <UserNick>mommy</UserNick>
+            <Date>2010-03-04 08:15:45</Date>
+            <Timestamp>1267719345</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:11:46 PDT 2010 -->

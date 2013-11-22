@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324205238AAjY12o" type="Answered">
+    <Subject>websites like thepiratebay.org?</Subject>
+    <Content>Is there one more popular to download torrents?
+
+I&#039;m trying to find something and I can&#039;t find it on thepiratebay.org
+</Content>
+    <Date>2010-03-24 20:52:38</Date>
+    <Timestamp>1269489158</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324205238AAjY12o</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1YWiq3soaa</UserId>
+    <UserNick>Chicken</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Go to this blog::
+
+http://computertipstrickstweaks.blogspot.com/2010/03/introduction-to-torrents.html</ChosenAnswer>
+    <ChosenAnswererId>xozq9I66aa</ChosenAnswererId>
+    <ChosenAnswererNick>Anoop</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269694932</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270008819</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>That&#039;s not smart to use torrents because they can contain big virus payloads. Its also illegal, so just don&#039;t do it. But if you really want it... check out bit torrent</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>0K2h5iIraa</UserId>
+            <UserNick>Snail</UserNick>
+            <Date>2010-03-24 20:54:25</Date>
+            <Timestamp>1269489265</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Go to this blog::
+
+http://computertipstrickstweaks.blogspot.com/2010/03/introduction-to-torrents.html</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>xozq9I66aa</UserId>
+            <UserNick>Anoop</UserNick>
+            <Date>2010-03-27 06:02:12</Date>
+            <Timestamp>1269694932</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:32:52 PDT 2010 -->

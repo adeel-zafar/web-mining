@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100301173155AA9SXxI" type="Answered">
+    <Subject>How can you delete your favorites?</Subject>
+    <Content>I try to but it dosent let and it stays there.
+</Content>
+    <Date>2010-03-01 17:31:55</Date>
+    <Timestamp>1267493515</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100301173155AA9SXxI</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Iv6Oa9Y2aa</UserId>
+    <UserNick>Missy Wissy:)</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1fjgouo6PAAEC-CG6bLO1iEHXaZVtun8X.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Favorites are stored in the user folder, for example.. scroll down to the Start button, right click, and select Explore. It will bring up a menu of all of these different folders, and a group of these folders are under the current computer name your using, i.e. Sarah. One of these folders is labeled &quot;Favorites&quot;, left click this and you&#039;ll see all your current favorites. You can then delete all of those from that folder.</ChosenAnswer>
+    <ChosenAnswererId>NYhx3kvlaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jackal</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267493762</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267679322</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Favorites are stored in the user folder, for example.. scroll down to the Start button, right click, and select Explore. It will bring up a menu of all of these different folders, and a group of these folders are under the current computer name your using, i.e. Sarah. One of these folders is labeled &quot;Favorites&quot;, left click this and you&#039;ll see all your current favorites. You can then delete all of those from that folder.</Content>
+            <Reference>http://www.sbccrew.com</Reference>
+            <Best>4</Best>
+            <UserId>NYhx3kvlaa</UserId>
+            <UserNick>Jackal</UserNick>
+            <Date>2010-03-01 17:36:02</Date>
+            <Timestamp>1267493762</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:29:31 PDT 2010 -->

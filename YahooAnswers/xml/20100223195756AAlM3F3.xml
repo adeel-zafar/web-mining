@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223195756AAlM3F3" type="Answered">
+    <Subject>eBay shipping / shipping labels- Items marked as shipped?</Subject>
+    <Content>Recently, Ive been selling a few things on eBay. When the buyers finally send their money from Paypal, I use the &quot;Create A Shipping Label&quot;. The problem is, when Im finished creating a shipping label, eBay marks the item as &quot;Shipped on (Day I print the label)&quot;.
+
+ I want to know if there is a way where eBay will not mark the item send the minute I print out a shipping label. Ive changed the &quot;Shipping date&quot; box when your filling out the information for the label, but it still says that Ive shipped my item.
+
+I cant seem to find out how to fix this. Its like once you print the label, eBay assumes you have shipped the item out on that day, which is not true for me in some cases. Any help would be greatly appreciated. Thank you in advance!
+</Content>
+    <Date>2010-02-23 19:57:56</Date>
+    <Timestamp>1266983876</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223195756AAlM3F3</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>1PrMGOl4aa</UserId>
+    <UserNick>Maze n&#039; Blue</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1PCvw05BrAAQB_GH6eKAYCQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>The only &quot;recent&quot; answer for your question I could find was this http://forums.zfirm.com/showthread.php?t=7110
+
+I&#039;m assuming there still isn&#039;t a way to change this, as this post was from early last year.
+
+I know that my parents print out one of the sale pages that has the buyers address on it and use that as a label, saves money, and you can then manually mark it as shipped when you do ship it.</ChosenAnswer>
+    <ChosenAnswererId>E3rz01sIaa</ChosenAnswererId>
+    <ChosenAnswererNick>Wykked</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266987193</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267503402</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>The only &quot;recent&quot; answer for your question I could find was this http://forums.zfirm.com/showthread.php?t=7110
+
+I&#039;m assuming there still isn&#039;t a way to change this, as this post was from early last year.
+
+I know that my parents print out one of the sale pages that has the buyers address on it and use that as a label, saves money, and you can then manually mark it as shipped when you do ship it.</Content>
+            <Reference>http://forums.zfirm.com/showthread.php?t=7110
+http://www.ebay.com</Reference>
+            <Best>5</Best>
+            <UserId>E3rz01sIaa</UserId>
+            <UserNick>Wykked</UserNick>
+            <Date>2010-02-23 20:53:13</Date>
+            <Timestamp>1266987193</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:16:50 PDT 2010 -->

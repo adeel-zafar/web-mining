@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225093518AAgC5wO" type="Answered">
+    <Subject>How do you find out how fast your internet connection is?</Subject>
+    <Content>
+</Content>
+    <Date>2010-02-25 09:35:18</Date>
+    <Timestamp>1267119318</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225093518AAgC5wO</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>Tvcu9pREaa</UserId>
+    <UserNick>zoenbob</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://speedtest.net</ChosenAnswer>
+    <ChosenAnswererId>id6fQVwBaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sobin Jose</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267119486</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267638898</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>http://speedtest.net</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>id6fQVwBaa</UserId>
+            <UserNick>Sobin Jose</UserNick>
+            <Date>2010-02-25 09:38:06</Date>
+            <Timestamp>1267119486</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It depends on what operating system you have...if it&#039;s Windows look in the bottom right-hand corner.  Find something that looks like the Earth, put your cursor onto it and keep it there.  It should say there.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>unoBz4tIaa</UserId>
+            <UserNick>Lenny</UserNick>
+            <Date>2010-02-25 09:39:19</Date>
+            <Timestamp>1267119559</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Speedtest.net</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>us3dBYpeaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-02-25 09:44:52</Date>
+            <Timestamp>1267119892</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:58:04 PDT 2010 -->

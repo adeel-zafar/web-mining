@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225071524AABpTng" type="Answered">
+    <Subject>Does anyone know what&#039;s up with CompUsa?</Subject>
+    <Content>I have been trying to visit the CompUsa website for two days now. It simply won&#039;t load/open. I constantly encounter &quot;The page cannot be displayed&quot;. That only occurs for www.compusa.com. Other sites seem to load normal. Did something go wrong with their site?
+</Content>
+    <Date>2010-02-25 07:15:24</Date>
+    <Timestamp>1267110924</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225071524AABpTng</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>lpVZf38Qaa</UserId>
+    <UserNick>Ginmardo</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1jIi87cdJAAEDP4E_rAo=.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I was getting the same message. I&#039;ve tried, but wont load. Something must be going on with their web server.</ChosenAnswer>
+    <ChosenAnswererId>RvabmOsOaa</ChosenAnswererId>
+    <ChosenAnswererNick>DarthBurrito</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267114348</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267630435</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It sounds like something is up with your DNS possibly.  I am able to get to their site just fine.
+
+Try going to start -&gt; Run -&gt; type cmd and press enter
+
+type ping compusa.com
+
+If your dns is working properly you should receive 4 Replies.  Otherwise you may need to change your dns server settings or contact your ISP.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8765e09eac4169ff35f757509355ba19aa</UserId>
+            <UserNick>Paul Z</UserNick>
+            <Date>2010-02-25 07:20:22</Date>
+            <Timestamp>1267111222</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I was getting the same message. I&#039;ve tried, but wont load. Something must be going on with their web server.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>RvabmOsOaa</UserId>
+            <UserNick>DarthBurrito</UserNick>
+            <Date>2010-02-25 08:12:28</Date>
+            <Timestamp>1267114348</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:58:56 PDT 2010 -->

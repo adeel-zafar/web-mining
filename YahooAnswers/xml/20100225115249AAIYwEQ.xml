@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225115249AAIYwEQ" type="Answered">
+    <Subject>is anyone else having trouble getting into the ydf freebie site?</Subject>
+    <Content>are they having any problems that you are aware of?  thanks
+</Content>
+    <Date>2010-02-25 11:52:49</Date>
+    <Timestamp>1267127569</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225115249AAIYwEQ</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d23aca13370978e420b62a034a5c1c41aa</UserId>
+    <UserNick>try 2 help</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/19F_bfp4KAAEC8mIeUad2x_gA.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s been down all day.  My guess is a software upgrade or tweaking of the new system (as a few weeks ago)</ChosenAnswer>
+    <ChosenAnswererId>AFmyvDjeaa</ChosenAnswererId>
+    <ChosenAnswererNick>Kat</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267134155</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267145088</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s been down all day.  My guess is a software upgrade or tweaking of the new system (as a few weeks ago)</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AFmyvDjeaa</UserId>
+            <UserNick>Kat</UserNick>
+            <Date>2010-02-25 13:42:35</Date>
+            <Timestamp>1267134155</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:57:01 PDT 2010 -->

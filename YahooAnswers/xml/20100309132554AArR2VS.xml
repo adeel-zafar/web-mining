@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100309132554AArR2VS" type="Answered">
+    <Subject>Internet Explorer/Firefox &quot; not responding&quot;.. why ?</Subject>
+    <Content>It happened lately when I go to websites to view videos or listen to music (youtube for example)
+I have mcaphee installed..
+I just bought this HP dv4-2040 US and it&#039;s so annoying...
+</Content>
+    <Date>2010-03-09 13:25:54</Date>
+    <Timestamp>1268169954</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100309132554AArR2VS</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>M2UnyKW8aa</UserId>
+    <UserNick>tiff098</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>make sure you have all current versions of directX and flash installed.  sites like that have alot of advertisements that can bog down your comp if you dont.</ChosenAnswer>
+    <ChosenAnswererId>qFpTvS3raa</ChosenAnswererId>
+    <ChosenAnswererNick>skitz41985</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268170329</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268685964</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I hate when that happens....</Content>
+            <Reference>Windows Vista sucks!</Reference>
+            <Best></Best>
+            <UserId>FX9T0Lkoaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-09 13:27:05</Date>
+            <Timestamp>1268170025</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>make sure you have all current versions of directX and flash installed.  sites like that have alot of advertisements that can bog down your comp if you dont.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>qFpTvS3raa</UserId>
+            <UserNick>skitz41985</UserNick>
+            <Date>2010-03-09 13:32:09</Date>
+            <Timestamp>1268170329</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:24:15 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100225231619AA93dTB" type="Answered">
+    <Subject>How do i get japanese and chinese characters to show up on my computer?</Subject>
+    <Content>I am using XP home. when i try to view web-pages that have characters instead of letters all i get is weird squiggles like ~ but vertical and a buch of boxes. how do i get the characters to show up?
+</Content>
+    <Date>2010-02-25 23:16:19</Date>
+    <Timestamp>1267168579</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100225231619AA93dTB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>8YQ7URA9aa</UserId>
+    <UserNick>titan</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4b7b9649i1df4zul5sp1/KkljVPMrRKCp9Rrlzjaha8gQSzNozQ--/1/tn48.png?ciAAToMBHFcuO8.G</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you need to install east asian language pack, it is included in your xp cd. First go to control panel and look for input setting, choose install east asian language or something like that.</ChosenAnswer>
+    <ChosenAnswererId>2wSE41HXaa</ChosenAnswererId>
+    <ChosenAnswererNick>GriMgriMoiRe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267168696</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267688000</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you need to install east asian language pack, it is included in your xp cd. First go to control panel and look for input setting, choose install east asian language or something like that.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2wSE41HXaa</UserId>
+            <UserNick>GriMgriMoiRe</UserNick>
+            <Date>2010-02-25 23:18:16</Date>
+            <Timestamp>1267168696</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Japanese ( and other asian character sets) are included in unicode.  You must install Font sets to display them, though.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10940191</UserId>
+            <UserNick>vector4tfc</UserNick>
+            <Date>2010-02-25 23:24:53</Date>
+            <Timestamp>1267169093</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:53:06 PDT 2010 -->

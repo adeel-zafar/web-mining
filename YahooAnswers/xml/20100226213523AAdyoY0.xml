@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226213523AAdyoY0" type="Answered">
+    <Subject>Internet Disconnection problems.?</Subject>
+    <Content>Yahoo Instant Messenger, Yonno [Firefox add-on], any internet browser that isn&#039;t Firefox, every MMO I have on my computer, and programs I want to download that need internet connection are not working because for some reason they believe my internet is disconnected, even though it&#039;s not. The only thing that isn&#039;t fooled by this is Firefox. I posted this question a few times in other places without getting much help. Does anyone know how to fix this?
+According to my friend, it&#039;s a Windows 7 network glitch. Still don&#039;t know how to fix it though.
+</Content>
+    <Date>2010-02-26 21:35:23</Date>
+    <Timestamp>1267248923</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226213523AAdyoY0</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>k7oHKaRRaa</UserId>
+    <UserNick>Pandemoniac BLAST</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4acbd45bi483zul5re4/fik5R641fqtO1LgsXX5.4TnZST0-/1/tn48.jpg?ciAAToMBE_jD5nB0</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Restart PC in safe mode by tapping F-8 key, choosing &quot;Last Known Good Configuration&quot;. Next use Malwarebytes, ccleaner, Reset IE-8 to Default in Options, Advanced and Restart PC...You might also have to Reset Router or unplug it for 10 sec and plug it back in Restarting PC...You can renew IP in the 3rd link, and the last thing to try is reinstalling the Network Driver, if the above doesn&#039;t work...</ChosenAnswer>
+    <ChosenAnswererId>ccF4msmoaa</ChosenAnswererId>
+    <ChosenAnswererNick>SurfUp</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267251247</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267768410</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>try downloading programs using internet explorer</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>71aCbsLtaa</UserId>
+            <UserNick>ceddie1987</UserNick>
+            <Date>2010-02-26 21:43:10</Date>
+            <Timestamp>1267249390</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>then you have two choices
+
+1.   Contact your ISP and check with them
+
+2.   if your still not sure on what to do
+then go to your local computer store and get them to look at it and fix it for you</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JuJTnZSDaa</UserId>
+            <UserNick>Dennis PC Repairs</UserNick>
+            <Date>2010-02-26 21:43:11</Date>
+            <Timestamp>1267249391</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Restart PC in safe mode by tapping F-8 key, choosing &quot;Last Known Good Configuration&quot;. Next use Malwarebytes, ccleaner, Reset IE-8 to Default in Options, Advanced and Restart PC...You might also have to Reset Router or unplug it for 10 sec and plug it back in Restarting PC...You can renew IP in the 3rd link, and the last thing to try is reinstalling the Network Driver, if the above doesn&#039;t work...</Content>
+            <Reference>http://download.cnet.com/Malwarebytes-Anti-Malware/3000-8022_4-10804572.html
+http://download.cnet.com/ccleaner/?tag=mncol
+http://www.wikihow.com/Refresh-Your-IP-Address-on-a-Windows-Computer</Reference>
+            <Best>5</Best>
+            <UserId>ccF4msmoaa</UserId>
+            <UserNick>SurfUp</UserNick>
+            <Date>2010-02-26 22:14:07</Date>
+            <Timestamp>1267251247</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:47:09 PDT 2010 -->

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223081034AACRlt7" type="Answered">
+    <Subject>Where can i get older versions of Firefox?</Subject>
+    <Content>Mozilla is being as usual, extremely evasive in their so-called support, and every time I try the painstaking search for an answer, they just give me the runaround, which always leads back to downloading the latest version. Is there anywhere safe, where I can get a reliable older version, and possible &quot;honest&quot; support for Mozilla Freezefox??
+</Content>
+    <Date>2010-02-23 08:10:34</Date>
+    <Timestamp>1266941434</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223081034AACRlt7</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11772632</UserId>
+    <UserNick>glenngor2001</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/11IMgDIcbAAED_sFKjA6yA5pIGQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.oldversion.com/Mozilla-Firefox.html.</ChosenAnswer>
+    <ChosenAnswererId>zVu19UBCaa</ChosenAnswererId>
+    <ChosenAnswererNick>Topi jerami</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267265267</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267460820</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Firefox at 3.5/6 seems okay ... but you can always go to oldversion.com to get any old stuff ...</Content>
+            <Reference>http://www.oldversion.com/Mozilla-Firefox.html</Reference>
+            <Best></Best>
+            <UserId>1b99e2172d8e187dc1c01f1f61578326aa</UserId>
+            <UserNick>Michael from UK</UserNick>
+            <Date>2010-02-23 08:15:09</Date>
+            <Timestamp>1266941709</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>ftp://ftp.mozilla.org/pub/mozilla.org/firefox/releases/
+This site contains all older versions of Firefox.  I wouldn&#039;t expect any good support from Mozilla.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA12377726</UserId>
+            <UserNick>chrome_rider</UserNick>
+            <Date>2010-02-23 08:22:04</Date>
+            <Timestamp>1266942124</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Really good site that has posted all the &quot;Old System Apps&quot;
+
+http://www.oldapps.com/
+
+What a concept holding on to the old apps they even help you when you choose what OS and what update that is available to you to download.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>QJD9v64Haa</UserId>
+            <UserNick>John Thom</UserNick>
+            <Date>2010-02-23 09:01:29</Date>
+            <Timestamp>1266944489</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.oldversion.com/Mozilla-Firefox.html.</Content>
+            <Reference>.....</Reference>
+            <Best>5</Best>
+            <UserId>zVu19UBCaa</UserId>
+            <UserNick>Topi jerami</UserNick>
+            <Date>2010-02-27 02:07:47</Date>
+            <Timestamp>1267265267</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:21:58 PDT 2010 -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100221194547AAoKjAE" type="Answered">
+    <Subject>Ebay help?????????????????</Subject>
+    <Content>I&#039;ve had an ebay account for ages, but never used it and didnt enter any of my card details. Now, i&#039;ve started re using my account and want to pay for an item, however i dont know how to enter all my debit card details etc. do i have to set up one of those paypal account things? im not sure, please help
+</Content>
+    <Date>2010-02-21 19:45:47</Date>
+    <Timestamp>1266810347</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100221194547AAoKjAE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VTNs65zDaa</UserId>
+    <UserNick>Laila</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>When you go to purchase an item, it will ask you for your paypal account details, or to create one. This is the easiest way, just go create a paypal account, then create it, using your credit card information and make sure you have a very secure password. Then continue with your purchases, from now on your paypal will be linked to your ebay account.</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267152239</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267329808</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Safest way in my opinion is setting up an account with paypal so you dont have to put your card info over and over. Paypay does it automatically. It is faster and safe. Another important thing is that with EBAY most sellers do not accept straight forward credit card transactions. They rely on paypal for the security it provides.</Content>
+            <Reference>personal experience</Reference>
+            <Best></Best>
+            <UserId>VuZwseH1aa</UserId>
+            <UserNick>jimmy</UserNick>
+            <Date>2010-02-21 20:15:37</Date>
+            <Timestamp>1266812137</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>When you go to purchase an item, it will ask you for your paypal account details, or to create one. This is the easiest way, just go create a paypal account, then create it, using your credit card information and make sure you have a very secure password. Then continue with your purchases, from now on your paypal will be linked to your ebay account.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>⚡Static⚡ ⚡Shock⚡</UserNick>
+            <Date>2010-02-25 18:43:59</Date>
+            <Timestamp>1267152239</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:31:36 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326193401AANOtDF" type="Answered">
+    <Subject>If my Twitter account is protected, do my tweets still trend?</Subject>
+    <Content>I can&#039;t find this out, since my tweets don&#039;t pop up publicly I don&#039;t know if they still count towards trending topics or not.
+</Content>
+    <Date>2010-03-26 19:34:01</Date>
+    <Timestamp>1269657241</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326193401AANOtDF</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>420vZQDPaa</UserId>
+    <UserNick>BigB</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>No they won&#039;t be shown on the public time-line. The only people that can see them are your followers that you have accepted.</ChosenAnswer>
+    <ChosenAnswererId>h5vD8UlZaa</ChosenAnswererId>
+    <ChosenAnswererNick>Sk8te668</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269657439</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1270176807</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>No they won&#039;t be shown on the public time-line. The only people that can see them are your followers that you have accepted.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>h5vD8UlZaa</UserId>
+            <UserNick>Sk8te668</UserNick>
+            <Date>2010-03-26 19:37:19</Date>
+            <Timestamp>1269657439</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:24:51 PDT 2010 -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100224222322AACjMve" type="Answered">
+    <Subject>Computer internet help! How can I make it so that this website does not come up in the list of &quot;potential site?</Subject>
+    <Content>&quot;potential sites&quot; when I start to type in a a website?
+I don&#039;t want other people to see it
+PS: I have Mozilla Firefox.
+</Content>
+    <Date>2010-02-24 22:23:22</Date>
+    <Timestamp>1267079002</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100224222322AACjMve</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>XHNPg7XNaa</UserId>
+    <UserNick>Melina</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Tools -&gt; Options -&gt; Privacy, Location Bar select Nothing</ChosenAnswer>
+    <ChosenAnswererId>raOqmw0kaa</ChosenAnswererId>
+    <ChosenAnswererNick>ladyScar</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267081039</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267308655</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Go to http://www.filehippo.com and download the free Ccleaner program, then run it. It will remove all history-cookies etc from your computer. On the download page you may be asked for a donation, but you can download and run without paying anything. Later you may want to update the program, so you either pay a donation or go back to filehippo for a new free version. That will stop the &quot;potential sites&quot; from appearing.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aeadabc6cbb8f9d20e48ee5c17d9318daa</UserId>
+            <UserNick>Rowen</UserNick>
+            <Date>2010-02-24 22:30:25</Date>
+            <Timestamp>1267079425</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Tools -&gt; Options -&gt; Privacy, Location Bar select Nothing</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>raOqmw0kaa</UserId>
+            <UserNick>ladyScar</UserNick>
+            <Date>2010-02-24 22:57:19</Date>
+            <Timestamp>1267081039</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:05:37 PDT 2010 -->

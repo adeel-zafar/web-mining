@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315222129AARMkYe" type="Answered">
+    <Subject>Rapidshare Problem, Help?</Subject>
+    <Content>Everytime i try to download something, it says i already am downloading a file, but i&#039;m not.Any ideas!!!!!!!!
+</Content>
+    <Date>2010-03-15 22:21:29</Date>
+    <Timestamp>1268716889</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315222129AARMkYe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>MkImXLulaa</UserId>
+    <UserNick>mr.perry454</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1_RRavtk2AAEC_IGXFL7ymXgB.medium.jpg</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>clear all downloads and try again 
+are you a free user and getting put back in the cue?</ChosenAnswer>
+    <ChosenAnswererId>E7UBtXdTaa</ChosenAnswererId>
+    <ChosenAnswererNick>Steve S</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268733040</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269236084</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>use 4shared.com.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA10837061</UserId>
+            <UserNick>Nin10dude</UserNick>
+            <Date>2010-03-15 22:22:43</Date>
+            <Timestamp>1268716963</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>clear all downloads and try again 
+are you a free user and getting put back in the cue?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>E7UBtXdTaa</UserId>
+            <UserNick>Steve S</UserNick>
+            <Date>2010-03-16 02:50:40</Date>
+            <Timestamp>1268733040</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try turning off your modem and leave it for 5 seconds then turn it on again
+BTW, try using the rapidshare auto downloader (http://sharecash.org/download.php?file=515284)
+You can add links and leave it overnight for your download to finish</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>EprNLc5qaa</UserId>
+            <UserNick>Daryl Seah</UserNick>
+            <Date>2010-03-19 00:24:17</Date>
+            <Timestamp>1268983457</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:51:01 PDT 2010 -->

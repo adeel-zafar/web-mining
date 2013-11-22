@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100311233625AAs6YzN" type="Answered">
+    <Subject>Internet search opening wrong pages?</Subject>
+    <Content>I think it only happens late at night, but when I go to Google and type, for example, Antigone, I find websites that are green checked by my virus software and have legit names (like wikipedia) but they actually open other sites, like things for sale! Often I can&#039;t even go back to Google with the back button, I have to type Google into the address bar again. Any ideas? I must be able to search! I have homework. :)
+Hmm... it DOES sound like spyware, but I have paid virus/spyware/malware, etc. protection that says I&#039;m covered. ??
+</Content>
+    <Date>2010-03-11 23:36:25</Date>
+    <Timestamp>1268379385</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100311233625AAs6YzN</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>T7urCQzSaa</UserId>
+    <UserNick>ChickieLee</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a7f0d62i1226zul4re4/XCZYCJM1fqgUb2Kr7jCIIiCc/103/tn48.jpg?ciAAToMBDDopNUXw</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s because Google knows white chicks look at porn.</ChosenAnswer>
+    <ChosenAnswererId>7jH7HDlaaa</ChosenAnswererId>
+    <ChosenAnswererNick>The Ricardo</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268379469</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268895179</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Sounds more like you have spyware.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>8Aei6R4Faa</UserId>
+            <UserNick>Makavelidadon7</UserNick>
+            <Date>2010-03-11 23:37:32</Date>
+            <Timestamp>1268379452</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It&#039;s because Google knows white chicks look at porn.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>7jH7HDlaaa</UserId>
+            <UserNick>The Ricardo</UserNick>
+            <Date>2010-03-11 23:37:49</Date>
+            <Timestamp>1268379469</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Your machine is infected with a search hi-jacker.
+
+Perform a full system scan with both your anti-virus and anti-spyware programs.
+
+Quarantine what they find.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>2ce047bPaa</UserId>
+            <UserNick>TempoOne</UserNick>
+            <Date>2010-03-11 23:39:54</Date>
+            <Timestamp>1268379594</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>A virus I think.</Content>
+            <Reference>http://www.t1everywhere.com/</Reference>
+            <Best></Best>
+            <UserId>uzJYpkwCaa</UserId>
+            <UserNick>bobmacans</UserNick>
+            <Date>2010-03-12 01:16:53</Date>
+            <Timestamp>1268385413</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:11:20 PDT 2010 -->

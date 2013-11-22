@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100324134628AAbX6Kw" type="Answered">
+    <Subject>i had a foo pets account. then i changed my e-mail. now i can&#039;t log on. HELP !?</Subject>
+    <Content>when i was on foopets ( online ) i went to profile because i didn&#039;t know my e-mail WAS going to be private.
+so i changed my e-mail to something random... and now i can&#039;t remember what it is to log back on !
+please help ! i love my foopet very much .
+~thanks
+</Content>
+    <Date>2010-03-24 13:46:28</Date>
+    <Timestamp>1269463588</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100324134628AAbX6Kw</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>4DIDQMbXaa</UserId>
+    <UserNick>lilyzgirl@yahoo.com</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1l3JzrY97AAEDL2ScxJbAA47ga54F.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Maybe you can set up another account?</ChosenAnswer>
+    <ChosenAnswererId>23b6749a7088443a1a545bf4e3bff54caa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269793394</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269983193</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Maybe you can set up another account?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>23b6749a7088443a1a545bf4e3bff54caa</UserId>
+            <UserNick>Mark D</UserNick>
+            <Date>2010-03-28 09:23:14</Date>
+            <Timestamp>1269793394</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:34:34 PDT 2010 -->

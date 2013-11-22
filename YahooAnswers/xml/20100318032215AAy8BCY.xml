@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100318032215AAy8BCY" type="Answered">
+    <Subject>Opera keeps breaking up?</Subject>
+    <Content>I keep encountering this issue all the time it must loose it&#039;s connection at least 5 times a day, you type in your search in any search engine hit the return button and get &quot;connection closed by remote server&quot; when i hit the refresh button it connects back up again, this is becoming really disturbing and i&#039;m starting to think that Opera really is the worst browser no wonder why all of my friends use Firefox and Chrome. This issue came only in the new 10 series, every previous version of Opera 9 worked great and it even started up way faster.
+</Content>
+    <Date>2010-03-18 03:22:15</Date>
+    <Timestamp>1268907735</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100318032215AAy8BCY</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DtMgzp0zaa</UserId>
+    <UserNick>CrashHead</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4baf8c18i923zws135ac4/Xo3pa.M3d6dvSunS2orhXgaKqA--/4/tn48.jpeg?ciAAToMBHBLr6w4f</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>This isn&#039;t an issue with Opera 10. I have Opera installed on numerous computers, including a Linux and a Mac machine, and they all work perfectly. I would rate it as by far the BEST browser around, any issues with it are apparently at your end, not on the Opera side of things.
+
+Check your routers DNS settings, and your port forwarding. Also, check that you have not enabled Opera Turbo by accident, and that you are loading images as normal, not from the cache.
+
+Also, make sure you have the latest version (10.51).</ChosenAnswer>
+    <ChosenAnswererId>OUZvwEUgaa</ChosenAnswererId>
+    <ChosenAnswererNick>Legion</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269595639</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269787969</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>This isn&#039;t an issue with Opera 10. I have Opera installed on numerous computers, including a Linux and a Mac machine, and they all work perfectly. I would rate it as by far the BEST browser around, any issues with it are apparently at your end, not on the Opera side of things.
+
+Check your routers DNS settings, and your port forwarding. Also, check that you have not enabled Opera Turbo by accident, and that you are loading images as normal, not from the cache.
+
+Also, make sure you have the latest version (10.51).</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>OUZvwEUgaa</UserId>
+            <UserNick>Legion</UserNick>
+            <Date>2010-03-26 02:27:19</Date>
+            <Timestamp>1269595639</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:41:01 PDT 2010 -->

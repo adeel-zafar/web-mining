@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100326174734AAboSH1" type="Answered">
+    <Subject>What Web Hosting services offer video streaming on your website?</Subject>
+    <Content>I have a website hosted by godaddy.com but unless I buy the big dedicated server hosting plans, I can do live video streaming.
+
+I have a camera setup at my church and I want to stream our services LIVE.  With godaddy I cant unless I purchase a dedicated server hosting plan which start at like $60/month. Is there anything cheaper  out there?  Thanks!
+</Content>
+    <Date>2010-03-26 17:47:34</Date>
+    <Timestamp>1269650854</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100326174734AAboSH1</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>VXUOm1DCaa</UserId>
+    <UserNick>GaryC</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>http://www.threehosts.com/multimedia
+
+Top 3 best web hosts supporting audio/video streaming.
+
+Hope this helps.</ChosenAnswer>
+    <ChosenAnswererId>kNeMexGMaa</ChosenAnswererId>
+    <ChosenAnswererNick>David M</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269678386</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269791572</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I suggest you this website http://www.tenhostingreviews.com/ffmpeg-hosting.htm</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>kQHUM1CJaa</UserId>
+            <UserNick>WebMaster</UserNick>
+            <Date>2010-03-26 18:52:02</Date>
+            <Timestamp>1269654722</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>You can Be the Reseller in the site http://www.goresellers.com/ and Transfer,register the Domain,Bulk Transfer,Hosting etc...I hosted my site by getting the reseller plan in that site.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>yXExSSL4aa</UserId>
+            <UserNick>Surrvij</UserNick>
+            <Date>2010-03-26 23:19:22</Date>
+            <Timestamp>1269670762</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>http://www.threehosts.com/multimedia
+
+Top 3 best web hosts supporting audio/video streaming.
+
+Hope this helps.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>kNeMexGMaa</UserId>
+            <UserNick>David M</UserNick>
+            <Date>2010-03-27 01:26:26</Date>
+            <Timestamp>1269678386</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Host monster supports audio/video streaming with normal hosting plan.</Content>
+            <Reference>.
+
+http://www.hostmonster.com/track/ourplans/tellmemore?page=tell_me_more.html</Reference>
+            <Best></Best>
+            <UserId>VAk8R91Gaa</UserId>
+            <UserNick>Litly</UserNick>
+            <Date>2010-03-27 05:21:01</Date>
+            <Timestamp>1269692461</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 19:25:17 PDT 2010 -->

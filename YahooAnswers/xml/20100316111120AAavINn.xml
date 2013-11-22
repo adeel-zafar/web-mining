@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316111120AAavINn" type="Answered">
+    <Subject>How come everytime somebody?</Subject>
+    <Content>How come everytime somebody talks about candle jack there words cu
+</Content>
+    <Date>2010-03-16 11:11:20</Date>
+    <Timestamp>1268763080</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316111120AAavINn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>d4cd6dad5668a158c18e01ba67aa23d4aa</UserId>
+    <UserNick>ste_bkr</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/190bAgZ8pAAAC_IFHyBXBAg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>How come some people can&#039;t ask an understandable question?</ChosenAnswer>
+    <ChosenAnswererId>c2imOBHBaa</ChosenAnswererId>
+    <ChosenAnswererNick>max m</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268968715</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269282508</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>How come some people can&#039;t ask an understandable question?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>c2imOBHBaa</UserId>
+            <UserNick>max m</UserNick>
+            <Date>2010-03-18 20:18:35</Date>
+            <Timestamp>1268968715</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:19 PDT 2010 -->

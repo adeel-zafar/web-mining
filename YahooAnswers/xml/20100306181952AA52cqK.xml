@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306181952AA52cqK" type="Answered">
+    <Subject>Wireless Internet keeps dropping?</Subject>
+    <Content>Recently my wireless internet connection randomly drops then reconnects a few seconds to a minute later.  Its a 2wire router, and the internet drops on my laptop and on my PS3.  I&#039;ve had this wireless internet for a few years now, and this problem did happen until recently. Anyone know what i can do to fix this?
+</Content>
+    <Date>2010-03-06 18:19:52</Date>
+    <Timestamp>1267928392</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306181952AA52cqK</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>ZRF4S6Xpaa</UserId>
+    <UserNick>Paintballa</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try resetting your modem and router. I also included a guide to common internet problems in the source which you can check out.</ChosenAnswer>
+    <ChosenAnswererId>wGRTtNdxaa</ChosenAnswererId>
+    <ChosenAnswererNick>YTF</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267928547</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269379401</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I think you should call the company where you bought the router from and see if they have recalls on it. and what could be wrong with it. that is your best bet.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>i5U47BDFaa</UserId>
+            <UserNick>sexymama_jayla20</UserNick>
+            <Date>2010-03-06 18:21:26</Date>
+            <Timestamp>1267928486</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try resetting your modem and router. I also included a guide to common internet problems in the source which you can check out.</Content>
+            <Reference>http://www.quack-ware.com/forums/showthread.php?56-List-of-Common-Internet-Problem-Solutions</Reference>
+            <Best>5</Best>
+            <UserId>wGRTtNdxaa</UserId>
+            <UserNick>YTF</UserNick>
+            <Date>2010-03-06 18:22:27</Date>
+            <Timestamp>1267928547</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>pull the power cord from router and there is reset button . press that reset button with pin for 30 seconds and restart again............i hope this works</Content>
+            <Reference>www.eppleblogs.com</Reference>
+            <Best></Best>
+            <UserId>0lXOSMBaaa</UserId>
+            <UserNick>rox_in_ur_pc</UserNick>
+            <Date>2010-03-06 18:26:16</Date>
+            <Timestamp>1267928776</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>contact your isp ( internet service provider) and ask them to do a line test they can do it over the phone. If they tell you everything is ok try to get hold of a friends router you can test.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>X12amDtxaa</UserId>
+            <UserNick>Tygra</UserNick>
+            <Date>2010-03-06 18:28:21</Date>
+            <Timestamp>1267928901</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:44:19 PDT 2010 -->

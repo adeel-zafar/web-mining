@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100228092928AAgc8AE" type="Answered">
+    <Subject>How can I find his blog from his email address ?</Subject>
+    <Content>I liked this guy, I met on a forum, and got his email address, then googled it, so got a search telling me that he has a blog, but I couldn&#039;t ever find it. How can I find it ?
+i don&#039;t want to email him, as he doesn&#039;t know I like him.. I feel deeply in love, which I know could be silly!
+</Content>
+    <Date>2010-02-28 09:29:28</Date>
+    <Timestamp>1267378168</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100228092928AAgc8AE</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>x7k4s23zaa</UserId>
+    <UserNick>La La La</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/18l_XrqtSAAED0EKcqBN20lRoSzqCg1wz8QI=.medium.png</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>He didn&#039;t mention it in his forum profile?
+
+Maybe he *used* to have a blog and took it down.  If it shows up in a Google search, try reading a cached version of it.</ChosenAnswer>
+    <ChosenAnswererId>dztKGMAQaa</ChosenAnswererId>
+    <ChosenAnswererNick>Windowphobe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267403876</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267432042</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You could email the guy and ask him.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Cy2pjnSTaa</UserId>
+            <UserNick>Mattfox14</UserNick>
+            <Date>2010-02-28 09:30:37</Date>
+            <Timestamp>1267378237</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>He didn&#039;t mention it in his forum profile?
+
+Maybe he *used* to have a blog and took it down.  If it shows up in a Google search, try reading a cached version of it.</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>dztKGMAQaa</UserId>
+            <UserNick>Windowphobe</UserNick>
+            <Date>2010-02-28 16:37:56</Date>
+            <Timestamp>1267403876</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:38:15 PDT 2010 -->

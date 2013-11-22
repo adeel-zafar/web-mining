@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100319231038AAEiDhk" type="Answered">
+    <Subject>internet speed decreases while downloading?</Subject>
+    <Content>I am use net service providedy local company , net speed shows 64 kbps on online speed test but only 8-10kbps while downloding why?
+</Content>
+    <Date>2010-03-19 23:10:38</Date>
+    <Timestamp>1269065438</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100319231038AAEiDhk</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>cWCNkCE5aa</UserId>
+    <UserNick>Pratik S</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/1aw-ik4vuAAIB_GH6nCM4aBPlJw==.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>yeah, this happens to me all the time. when im downloading and then i surf/ play online games. it goes laggy like hell.
+
+dont know why but my only dumb theory i invented is that:
+
+apart of the internet speed goes the the download leaving me very little speed for surfing :P</ChosenAnswer>
+    <ChosenAnswererId>bHd2n6DLaa</ChosenAnswererId>
+    <ChosenAnswererNick>MusicGem</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269065706</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269584594</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>yeah, this happens to me all the time. when im downloading and then i surf/ play online games. it goes laggy like hell.
+
+dont know why but my only dumb theory i invented is that:
+
+apart of the internet speed goes the the download leaving me very little speed for surfing :P</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>bHd2n6DLaa</UserId>
+            <UserNick>MusicGem</UserNick>
+            <Date>2010-03-19 23:15:06</Date>
+            <Timestamp>1269065706</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:32:54 PDT 2010 -->

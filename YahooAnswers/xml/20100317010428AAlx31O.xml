@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100317010428AAlx31O" type="Answered">
+    <Subject>does anyone know an untie filter that works on Mozilla firefox3.6?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-17 01:04:28</Date>
+    <Timestamp>1268813068</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100317010428AAlx31O</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>QLTgBA3Haa</UserId>
+    <UserNick>Bahar</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1A3dUNU7FAAIBN0E_EOWrvJVtOA==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It&#039;s called TOR, google it.</ChosenAnswer>
+    <ChosenAnswererId>72aa4d0937174be512576dfccdea6b0eaa</ChosenAnswererId>
+    <ChosenAnswererNick>Saj</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268815712</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269357743</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s called TOR, google it.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>72aa4d0937174be512576dfccdea6b0eaa</UserId>
+            <UserNick>Saj</UserNick>
+            <Date>2010-03-17 01:48:32</Date>
+            <Timestamp>1268815712</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yes, per above user, here&#039;s the link to TOR&#039;s website:  http://www.torproject.org/index.html.en</Content>
+            <Reference>Google</Reference>
+            <Best></Best>
+            <UserId>N64vZ4Pcaa</UserId>
+            <UserNick>fetherwayt</UserNick>
+            <Date>2010-03-19 06:14:27</Date>
+            <Timestamp>1269004467</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:45:47 PDT 2010 -->

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100226034109AArmge8" type="Answered">
+    <Subject>Streaming live video windows bases flash or other?</Subject>
+    <Content>I&#039;m trying to stream live video of an event to a network device for digital signage, i&#039;ve tried windows media encoder and it works fine but is limited to 4 connections and I have 13. We don&#039;t have a flash server so can&#039;t try that. I was just wondering if anybody knows any other software or way to stream live video to an ip address as I have to point it at a network address in order for it to work.
+Thank in advance for your suggestions
+</Content>
+    <Date>2010-02-26 03:41:09</Date>
+    <Timestamp>1267184469</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100226034109AArmge8</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KNEAQVZoaa</UserId>
+    <UserNick>david k</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>3</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Try the VLC player
+
+http://www.videolan.org/vlc/
+
+http://blog.tmcnet.com/blog/tom-keating/voip/streaming-live-tv.asp</ChosenAnswer>
+    <ChosenAnswererId>Sdf4gA9Aaa</ChosenAnswererId>
+    <ChosenAnswererNick>▐▀▀☟▀▀▌ ☞βḭŁŁ☜ ▐▄▄☝▄▄▌</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267184762</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267433722</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>have you looked at justin tv.
+Veetle.com
+vshare.com
+
+they all let you stream.
+
+if you have a free programme like manycam you can also add adverts or a watermark to your streams
+
+I use them for streaming live sports and events and they work very well.
+
+heres an example of the live tennis on now.
+http://www.atdhe.net/7635/watch-atp-dubai-tennis-championships</Content>
+            <Reference>lagerassassin.com</Reference>
+            <Best></Best>
+            <UserId>rugZxDXbaa</UserId>
+            <UserNick>Devistation Assistant</UserNick>
+            <Date>2010-02-26 03:44:57</Date>
+            <Timestamp>1267184697</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Try the VLC player
+
+http://www.videolan.org/vlc/
+
+http://blog.tmcnet.com/blog/tom-keating/voip/streaming-live-tv.asp</Content>
+            <Reference></Reference>
+            <Best>3</Best>
+            <UserId>Sdf4gA9Aaa</UserId>
+            <UserNick>▐▀▀☟▀▀▌ ☞βḭŁŁ☜ ▐▄▄☝▄▄▌</UserNick>
+            <Date>2010-02-26 03:46:02</Date>
+            <Timestamp>1267184762</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>To stream live video on website, you can check this tutorial with the RTMP Stream Plugin of Moyea Web Player - http://www.playerdiy.com/blog/play-live-streaming-video-in-your-customized-rtmp-flv-player-on-site/
+
+Moyea Web Player ( http://www.playerdiy.com/ ) is a quick solution to add flash video ( FLV ) to website and an easy-to-use Web FLV player creator, with which, creating custom FLV player (flash video player) with scrollable thumbnail playlist for website only needs a few mouse-clicks. And the skin of the generated web player can be easily customized.
+
+This is an example for easily customizing the flash video player - 
+http://www.playerdiy.com/support/tutorial/customize-flash-video-player.html
+
+Customize the skin and playback options of web FLV player:
+http://www.playerdiy.com/configuration/</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dZn1GcBCaa</UserId>
+            <UserNick>Dream dancer</UserNick>
+            <Date>2010-02-26 17:22:44</Date>
+            <Timestamp>1267233764</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:52:21 PDT 2010 -->

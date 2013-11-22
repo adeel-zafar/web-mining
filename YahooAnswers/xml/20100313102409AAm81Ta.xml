@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313102409AAm81Ta" type="Answered">
+    <Subject>lost internet connection?</Subject>
+    <Content>My cable internet stopped working.  It says &quot;Domain Name server is unreachable&quot;. any thoughts?
+</Content>
+    <Date>2010-03-13 10:24:09</Date>
+    <Timestamp>1268504649</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313102409AAm81Ta</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA11375148</UserId>
+    <UserNick>invadergir</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1x9sPTJuIAAECQEEocIhvwgAB.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There is a reset button on the back of the modem or router (its the small box with lights on it that is connected to your computer).
+
+The reset button is very small and hard to press sometimes.
+Use a paper clip or pen to press and hold it in for 5 seconds.
+
+You can also unplug the modem or router from power than plug back in.
+
+Wait for a few minutes for it to reconnect.</ChosenAnswer>
+    <ChosenAnswererId>AA11190160</ChosenAnswererId>
+    <ChosenAnswererNick>rmaisel</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268505591</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269020673</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Report this to you cable provider</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>AA11721605</UserId>
+            <UserNick>10 Years Out &amp; Proud!!!</UserNick>
+            <Date>2010-03-13 10:26:38</Date>
+            <Timestamp>1268504798</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There is a reset button on the back of the modem or router (its the small box with lights on it that is connected to your computer).
+
+The reset button is very small and hard to press sometimes.
+Use a paper clip or pen to press and hold it in for 5 seconds.
+
+You can also unplug the modem or router from power than plug back in.
+
+Wait for a few minutes for it to reconnect.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>AA11190160</UserId>
+            <UserNick>rmaisel</UserNick>
+            <Date>2010-03-13 10:39:51</Date>
+            <Timestamp>1268505591</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:04:02 PDT 2010 -->

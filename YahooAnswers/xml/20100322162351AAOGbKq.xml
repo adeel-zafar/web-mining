@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322162351AAOGbKq" type="Answered">
+    <Subject>Find an online library?</Subject>
+    <Content>Is there a website I can go to that is just like a library? I sign up, maybe pay a shipping fee (I would prefer it to be free but I know I probably can&#039;t get away with that), and order books that can be sent to my home? Then, of course, I send them back when they are do. 
+
+I was just wondering if there was anything like this?
+</Content>
+    <Date>2010-03-22 16:23:51</Date>
+    <Timestamp>1269300231</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322162351AAOGbKq</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>54qRtpnNaa</UserId>
+    <UserNick>Taylor</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/12EIZnSzwAAECSoN6jJMWk8yc4iAF.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I don&#039;t know of a site like that.
+
+I do know that sometimes people treat Amazon.com like that, though. You can buy a book, read it, and sell it again as &#039;used&#039; after you&#039;re done with it. You can keep the book as long as you&#039;d like, and you can sell it for however much you want. There&#039;s no subscription fee or anything.
+
+You can also buy a bunch of other things at Amazon, too.
+
+Regards,
+
+--Lucien Briscoe</ChosenAnswer>
+    <ChosenAnswererId>543c169d68a85f5a6bd0da31e1621ff5aa</ChosenAnswererId>
+    <ChosenAnswererNick>LBriscoe</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269300554</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269921783</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I don&#039;t know of a site like that.
+
+I do know that sometimes people treat Amazon.com like that, though. You can buy a book, read it, and sell it again as &#039;used&#039; after you&#039;re done with it. You can keep the book as long as you&#039;d like, and you can sell it for however much you want. There&#039;s no subscription fee or anything.
+
+You can also buy a bunch of other things at Amazon, too.
+
+Regards,
+
+--Lucien Briscoe</Content>
+            <Reference>http://www.amazon.com/ref=gno_logo</Reference>
+            <Best>5</Best>
+            <UserId>543c169d68a85f5a6bd0da31e1621ff5aa</UserId>
+            <UserNick>LBriscoe</UserNick>
+            <Date>2010-03-22 16:29:14</Date>
+            <Timestamp>1269300554</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:21:45 PDT 2010 -->

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100308073812AAGITo5" type="Answered">
+    <Subject>how do you know if you have Wifi?</Subject>
+    <Content>i don&#039;t know if my computer has Wifi or not how do i find out?
+</Content>
+    <Date>2010-03-08 07:38:12</Date>
+    <Timestamp>1268062692</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100308073812AAGITo5</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>H2VD07bQaa</UserId>
+    <UserNick>Crista</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Control Panel -&gt; Networking -&gt; Change adapter settings
+
+If you don&#039;t see a &quot;Wireless&quot; description, you don&#039;t have a wifi adapter in your computer.
+Most desktops don&#039;t.
+The vast majority of laptops do.</ChosenAnswer>
+    <ChosenAnswererId>nsiN6E3zaa</ChosenAnswererId>
+    <ChosenAnswererNick>Excessive MHz</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268062804</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268139876</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Control Panel -&gt; Networking -&gt; Change adapter settings
+
+If you don&#039;t see a &quot;Wireless&quot; description, you don&#039;t have a wifi adapter in your computer.
+Most desktops don&#039;t.
+The vast majority of laptops do.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>nsiN6E3zaa</UserId>
+            <UserNick>Misc Tech Advice</UserNick>
+            <Date>2010-03-08 07:40:04</Date>
+            <Timestamp>1268062804</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Wifi = wireless internet, so if you want connect to the internet without any cables, you probably have wifi.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>bdHw59ssaa</UserId>
+            <UserNick>Frxstrem</UserNick>
+            <Date>2010-03-08 07:41:40</Date>
+            <Timestamp>1268062900</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:33:42 PDT 2010 -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316172344AAvvshz" type="Answered">
+    <Subject>I want to read my mail in Outlook Express but it opens up in Windows Live Mail instead.  What do I do?</Subject>
+    <Content>I tried deleting my email account that Windows Live Mail imported to it but the messages still pop up in Windows Live Mail.  I want them back in Outlook Express.  Please tell me what I need to do to correct this.  It doesn&#039;t help when I set the default to OE.
+</Content>
+    <Date>2010-03-16 17:23:44</Date>
+    <Timestamp>1268785424</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316172344AAvvshz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>AA10357932</UserId>
+    <UserNick>hulk4ever76</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1Rass89JjAAICXeE-LIimQau6Jg==.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>you need to make OE your default for mail in OE, ie &quot;make outlook express my default mail handler&quot; in options</ChosenAnswer>
+    <ChosenAnswererId>2Bxy8GO6aa</ChosenAnswererId>
+    <ChosenAnswererNick>Harley Drive</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268785710</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268846524</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you need to make OE your default for mail in OE, ie &quot;make outlook express my default mail handler&quot; in options</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>2Bxy8GO6aa</UserId>
+            <UserNick>Harley Drive</UserNick>
+            <Date>2010-03-16 17:28:30</Date>
+            <Timestamp>1268785710</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:47:27 PDT 2010 -->

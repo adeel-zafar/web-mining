@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100316090047AAPaTRe" type="Answered">
+    <Subject>if you order something from the internet?</Subject>
+    <Content>does the money get taken out of your bank account right away or is it only taken out once you get what you ordered????
+</Content>
+    <Date>2010-03-16 09:00:47</Date>
+    <Timestamp>1268755247</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100316090047AAPaTRe</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>nhiMs31zaa</UserId>
+    <UserNick>Albert</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>It depends on Company policy. Some companies take the money out straight away and some take the money after posting the item (good practice). 
+
+So it depends on the company you are dealing with. But for sure you can&#039;t stop the payment once you give your debit/credit card details to them.</ChosenAnswer>
+    <ChosenAnswererId>N54KEwuRaa</ChosenAnswererId>
+    <ChosenAnswererNick>John</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268757524</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269297137</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It should be once the order is processed. Then again sometimes it depends on the site your ordered from.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>VMH2XuXGaa</UserId>
+            <UserNick>Writer Roo</UserNick>
+            <Date>2010-03-16 09:02:11</Date>
+            <Timestamp>1268755331</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>the places i order from bills me when the product ships out of their warehouses.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>JoNJp3MCaa</UserId>
+            <UserNick>it8eazy</UserNick>
+            <Date>2010-03-16 09:02:14</Date>
+            <Timestamp>1268755334</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>it is taken out right away if you use a visa/mastercard
+it may take a while for them to take the money if you use a debit card through paypal
+but in most instances the money is instant</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>d9Offc8Xaa</UserId>
+            <UserNick>GoodNBad</UserNick>
+            <Date>2010-03-16 09:02:29</Date>
+            <Timestamp>1268755349</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>It depends on Company policy. Some companies take the money out straight away and some take the money after posting the item (good practice). 
+
+So it depends on the company you are dealing with. But for sure you can&#039;t stop the payment once you give your debit/credit card details to them.</Content>
+            <Reference>http://en.wikipedia.org/wiki/Debit_card</Reference>
+            <Best>5</Best>
+            <UserId>N54KEwuRaa</UserId>
+            <UserNick>John</UserNick>
+            <Date>2010-03-16 09:38:44</Date>
+            <Timestamp>1268757524</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:49:41 PDT 2010 -->

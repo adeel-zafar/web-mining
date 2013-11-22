@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100306123743AA0eQ35" type="Answered">
+    <Subject>Firefox wont open for me?</Subject>
+    <Content>Whenever I try to open Firefox it says &quot;Firefox is already running, but is not responding. To open a new window, you must first close the existing Firefox process, or restart your system.&quot;
+Firefox isn&#039;t open, and I don&#039;t see why that matters anyway as you can have multiple windows open...
+I have tried doing what it says in the message - logging off and on, restarting my computer etc.
+I have tried going to Processes on Task Manager and trying to end any firefox related processes, but there wasn&#039;t anything there anyway.
+What can I do? I&#039;m using SeaMonkey at the moment and it&#039;s awful (mainly because who likes change??)
+(I&#039;m reposting this Q because last time I asked it everybody said &quot;restart your computer&quot; because I forgot to say I had already done it.   -   I&#039;m looking for somebody who knows atleast a little bit about computers/web browsers to answer this, not teenage girls who want to know how to wear their hair and use :3 faces.)
+Thanks guys, some real answers.
+I have tried going to Processes in Task manager, but there was nothing with Mozilla or Firefox in the name
+</Content>
+    <Date>2010-03-06 12:37:43</Date>
+    <Timestamp>1267907863</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100306123743AA0eQ35</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>rQEJATQgaa</UserId>
+    <UserNick>lcjj7</UserNick>
+    <UserPhotoURL></UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>open task manager and look for firefox listed end that process then reopen fire fox it works somehow it closed but it didn&#039;t completely so you need to press ctrl alt delete task manager and find firefox and end process it happens to me all the time.</ChosenAnswer>
+    <ChosenAnswererId>Ec4KMfohaa</ChosenAnswererId>
+    <ChosenAnswererNick>__A_YAHOO_USER__</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267907903</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268687717</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>It&#039;s not ready yet, give it some time.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>W4Dek41Jaa</UserId>
+            <UserNick>Riss.</UserNick>
+            <Date>2010-03-06 12:38:13</Date>
+            <Timestamp>1267907893</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>open task manager and look for firefox listed end that process then reopen fire fox it works somehow it closed but it didn&#039;t completely so you need to press ctrl alt delete task manager and find firefox and end process it happens to me all the time.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>Ec4KMfohaa</UserId>
+            <UserNick>Carlos</UserNick>
+            <Date>2010-03-06 12:38:23</Date>
+            <Timestamp>1267907903</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Have you tried to uninstall it from control panel add/remove programs or program features in vista then reboot then download it again and install?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5c15c0190499901685ee43e400c14a49aa</UserId>
+            <UserNick>Brian G</UserNick>
+            <Date>2010-03-06 12:41:18</Date>
+            <Timestamp>1267908078</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox has had some issues lately. What I had to do was use Google Chrome (or you could use IE) and download the latest version of Firefox. I haven&#039;t had any issues since. Hope this helps.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>5PdiLmfCaa</UserId>
+            <UserNick>PurpleGirl</UserNick>
+            <Date>2010-03-06 12:42:14</Date>
+            <Timestamp>1267908134</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:47:09 PDT 2010 -->

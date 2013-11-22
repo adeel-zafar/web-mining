@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100315180151AAhx66k" type="Answered">
+    <Subject>my internet works but my computer says there is no internet connection?</Subject>
+    <Content>
+</Content>
+    <Date>2010-03-15 18:01:51</Date>
+    <Timestamp>1268701311</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100315180151AAhx66k</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>tbLQLLIOaa</UserId>
+    <UserNick>joe mama</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Hi there! If it is a laptop..., there is a switch that slides to turn the connection on and off. Mine is located in the front on the left. Give yours a quick look over and see what you find. Good luck to you!</ChosenAnswer>
+    <ChosenAnswererId>7I2MDr4yaa</ChosenAnswererId>
+    <ChosenAnswererNick>Ellen</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268702575</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269355978</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>then there is something wrong with the connection. could be as simple as the cord came loose. or could be you need to update your drivers.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>aQcUEK9Baa</UserId>
+            <UserNick>Stnrmom</UserNick>
+            <Date>2010-03-15 18:06:40</Date>
+            <Timestamp>1268701600</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Hi there! If it is a laptop..., there is a switch that slides to turn the connection on and off. Mine is located in the front on the left. Give yours a quick look over and see what you find. Good luck to you!</Content>
+            <Reference>Experience</Reference>
+            <Best>5</Best>
+            <UserId>7I2MDr4yaa</UserId>
+            <UserNick>Ellen</UserNick>
+            <Date>2010-03-15 18:22:55</Date>
+            <Timestamp>1268702575</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:52:07 PDT 2010 -->

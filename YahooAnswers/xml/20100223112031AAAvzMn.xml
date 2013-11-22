@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223112031AAAvzMn" type="Answered">
+    <Subject>FireFox or Internet Explorer 8?</Subject>
+    <Content>Just curious what everyone&#039;s opinion is. I use FireFox and my friend uses IE8. *quick note: just between these two browsers, I don&#039;t care for the others* He always complains if I ever mention FireFox. I know IE7 lagged behind against FireFox but I was reading how IE8 is now supposed to be better. Would like some actual facts about the two, not just &quot;I like it.&quot;
+</Content>
+    <Date>2010-02-23 11:20:31</Date>
+    <Timestamp>1266952831</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223112031AAAvzMn</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>o6LAUEmhaa</UserId>
+    <UserNick>FlyingSheep</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4a760520i1d3azul8sp1/I2_Mq443d79MmHWShlnM9Wi8ytPbmBjy/1/tn48.jpg?ciAAToMBSEBDzmQ9</UserPhotoURL>
+    <NumAnswers>5</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>I&#039;ve always had 2 browsers, and sometimes 3. They each have their strengths &amp; I use them both. I&#039;m going to add Chrome this weekend if I have the time to play with it.
+
+For Firefox vs IE comparisons, check here:
+http://www.pcworld.com/article/161616/browser_showdown_ie_8_vs_firefox.html
+http://lifehacker.com/5178564/five-best-web-browsers
+http://www.washingtonpost.com/wp-dyn/content/article/2009/03/19/AR2009031904339.html
+http://www.microsoft.com/windows/internet-explorer/get-the-facts/browser-comparison.aspx
+http://www.infoworld.com/d/windows/ie8-vs-firefox-35-browser-wars-continue-422
+
+...</ChosenAnswer>
+    <ChosenAnswererId>2F5XkiHLaa</ChosenAnswererId>
+    <ChosenAnswererNick>Gary</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267265248</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267472123</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>I use Internet Explorer for almost everything, but FireFox is better for streaming movies, so I use both.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>rlFcgyj2aa</UserId>
+            <UserNick>Justine W</UserNick>
+            <Date>2010-02-23 11:24:13</Date>
+            <Timestamp>1266953053</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Well, IE8 runs each tab in a separate process, so if one tab fails, it doesn&#039;t kill your entire browsing session.  Also IE8 seems to render webpages better than Firefox.  Firefox has good plugins though, but I find it crashes randomly a little too often (and I&#039;m not the only one who&#039;s noticed this).
+
+Anyway, when it comes to browsers, they&#039;re really all good.  It mostly comes down to personal preference and my preference is towards IE8.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>XlyLakYAaa</UserId>
+            <UserNick>Mercuri</UserNick>
+            <Date>2010-02-23 11:24:15</Date>
+            <Timestamp>1266953055</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Firefox is more stable and secure... but if your using Windoze your still going to have security issues.
+Also Firefox has more functions with Add-ons.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>gQnsT9cRaa</UserId>
+            <UserNick>Bruce</UserNick>
+            <Date>2010-02-23 11:30:35</Date>
+            <Timestamp>1266953435</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I use both. Then if one don&#039;t work, try the other.</Content>
+            <Reference>Computer Tech</Reference>
+            <Best></Best>
+            <UserId>CVpM4VqGaa</UserId>
+            <UserNick>Computer Tech</UserNick>
+            <Date>2010-02-23 11:33:58</Date>
+            <Timestamp>1266953638</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>I&#039;ve always had 2 browsers, and sometimes 3. They each have their strengths &amp; I use them both. I&#039;m going to add Chrome this weekend if I have the time to play with it.
+
+For Firefox vs IE comparisons, check here:
+http://www.pcworld.com/article/161616/browser_showdown_ie_8_vs_firefox.html
+http://lifehacker.com/5178564/five-best-web-browsers
+http://www.washingtonpost.com/wp-dyn/content/article/2009/03/19/AR2009031904339.html
+http://www.microsoft.com/windows/internet-explorer/get-the-facts/browser-comparison.aspx
+http://www.infoworld.com/d/windows/ie8-vs-firefox-35-browser-wars-continue-422
+
+...</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>2F5XkiHLaa</UserId>
+            <UserNick>Gary</UserNick>
+            <Date>2010-02-27 02:07:28</Date>
+            <Timestamp>1267265248</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:20:16 PDT 2010 -->

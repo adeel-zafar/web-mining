@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100313151415AAaySLv" type="Answered">
+    <Subject>Slow Internet problems. Solutions?</Subject>
+    <Content>HI i have Optimum cable service for Internet.
+When i first got it it was lightning fast. After a month or too it got pretty slow. Especially at night and on weekends. Does anyone know why? Is this happening to anyone else?
+
+
+Or does anyone have any tips on how to increase internet speed in general?
+</Content>
+    <Date>2010-03-13 15:14:15</Date>
+    <Timestamp>1268522055</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100313151415AAaySLv</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>IXaRyunzaa</UserId>
+    <UserNick>Chris L</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>There could be many reason.  I&#039;ll list some of the usual ones.  Since it at night and weekends the first two reason is most likely.  Or a combination of reasons.  
+
+1) Many people who live near your general area also uses the same cable company therefore when people are home using internet, the company does not have the bandwidth to keep every at top speeds.  
+
+2)If you have wireless you may have someone leeching your internet.  Be sure to have password protection up and regularly change your password.  
+
+3)Spy-ware/Mal-ware could be a additional cause of slow downs including or not the first two reasons.
+
+4) Try www.speedtest.net to see how you rank with other peers of the same company. Also if the speed is somewhat close to what you paid for in the first place.  Though most of the time you never really reach what cable companies advertise.  
+
+5) Possible problem with the line/router.  Call your cable company, to see what they say.  Could be a problem on their side but highly unlikely they be able to do something, but it doesn&#039;t hurt to try.</ChosenAnswer>
+    <ChosenAnswererId>e724c949744cfd6b027c6283cfa4e009aa</ChosenAnswererId>
+    <ChosenAnswererNick>stl</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268524297</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268586883</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>You could just download firefox internet browser, instead of using internet explorer. Its free and has a much faster internet browser and a smooth interface. Good luck :)</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>dKheT2D7aa</UserId>
+            <UserNick>Syd</UserNick>
+            <Date>2010-03-13 15:50:49</Date>
+            <Timestamp>1268524249</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There could be many reason.  I&#039;ll list some of the usual ones.  Since it at night and weekends the first two reason is most likely.  Or a combination of reasons.  
+
+1) Many people who live near your general area also uses the same cable company therefore when people are home using internet, the company does not have the bandwidth to keep every at top speeds.  
+
+2)If you have wireless you may have someone leeching your internet.  Be sure to have password protection up and regularly change your password.  
+
+3)Spy-ware/Mal-ware could be a additional cause of slow downs including or not the first two reasons.
+
+4) Try www.speedtest.net to see how you rank with other peers of the same company. Also if the speed is somewhat close to what you paid for in the first place.  Though most of the time you never really reach what cable companies advertise.  
+
+5) Possible problem with the line/router.  Call your cable company, to see what they say.  Could be a problem on their side but highly unlikely they be able to do something, but it doesn&#039;t hurt to try.</Content>
+            <Reference></Reference>
+            <Best>4</Best>
+            <UserId>e724c949744cfd6b027c6283cfa4e009aa</UserId>
+            <UserNick>stl</UserNick>
+            <Date>2010-03-13 15:51:37</Date>
+            <Timestamp>1268524297</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:02:42 PDT 2010 -->

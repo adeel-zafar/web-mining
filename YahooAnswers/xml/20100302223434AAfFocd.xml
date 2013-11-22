@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100302223434AAfFocd" type="Answered">
+    <Subject>I can&#039;t Connect To Smart Bro Packages?</Subject>
+    <Content>after i log in i cant see the packages i tried refreshing , clearing the cache and cookies but the page cant seem to load..  tell me if Smart bro is having a maintenance... the toll free number don&#039;t seem to work.
+
+if you know how to fix it... feel free to give me an answer..
+</Content>
+    <Date>2010-03-02 22:34:34</Date>
+    <Timestamp>1267598074</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100302223434AAfFocd</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>M50lXlNPaa</UserId>
+    <UserNick>Shackelbolt</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/1VLr0QzvjAAECPYE_0F0=.medium.jpg</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Me too, can&#039;t connect either.
+But when I try to connect to other pages, THEY ALL WORK</ChosenAnswer>
+    <ChosenAnswererId>knTJWvZJaa</ChosenAnswererId>
+    <ChosenAnswererNick>Heavenly</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1267621277</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268117607</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Me too, can&#039;t connect either.
+But when I try to connect to other pages, THEY ALL WORK</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>knTJWvZJaa</UserId>
+            <UserNick>Heavenly</UserNick>
+            <Date>2010-03-03 05:01:17</Date>
+            <Timestamp>1267621277</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 01:21:05 PDT 2010 -->

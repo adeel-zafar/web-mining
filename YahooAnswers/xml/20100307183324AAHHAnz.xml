@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100307183324AAHHAnz" type="Answered">
+    <Subject>Are there any websites similar to Take180.com?</Subject>
+    <Content>So they have like web shows, which are super good, and I was wondering if anyone knows of a similar site? Don&#039;t say youtube.com or hulu.com because those aren&#039;t really web series...
+</Content>
+    <Date>2010-03-07 18:33:24</Date>
+    <Timestamp>1268015604</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100307183324AAHHAnz</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>KHvMgVEvaa</UserId>
+    <UserNick>Nicole</UserNick>
+    <UserPhotoURL>http://avatars.zenfs.com/users/11E06lii5AAIB-KFTUCeNJ18B.medium.png</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Have you tried searching for &#039;web shows&#039; on Google?</ChosenAnswer>
+    <ChosenAnswererId>23b6749a7088443a1a545bf4e3bff54caa</ChosenAnswererId>
+    <ChosenAnswererNick>Mark D</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1268327732</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1268535253</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Have you tried searching for &#039;web shows&#039; on Google?</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>23b6749a7088443a1a545bf4e3bff54caa</UserId>
+            <UserNick>Mark D</UserNick>
+            <Date>2010-03-11 09:15:32</Date>
+            <Timestamp>1268327732</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 21:36:22 PDT 2010 -->

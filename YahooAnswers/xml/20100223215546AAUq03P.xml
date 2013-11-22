@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100223215546AAUq03P" type="Answered">
+    <Subject>How do I create an imdb page?</Subject>
+    <Content>So my teacher wants me to create this stupid imdb.com page for a book we read for Spanish class as if it were a movie.  I think she&#039;s retarded because I can&#039;t seem to find where in the hell I can start making one.  Does anybody know if I&#039;m allowed to just make a page for this book or what.  I signed up and everything but I don&#039;t know what the hell I&#039;m doing.
+</Content>
+    <Date>2010-02-23 21:55:46</Date>
+    <Timestamp>1266990946</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100223215546AAUq03P</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>DXrdLqkjaa</UserId>
+    <UserNick>hgkhockey22</UserNick>
+    <UserPhotoURL>http://l.yimg.com/q/users/145jzGLi4AAECPGK_9CQYBQ==.medium.jpg</UserPhotoURL>
+    <NumAnswers>2</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>if you want to create a page particularly a web page you need to learn html, css and server scripting,</ChosenAnswer>
+    <ChosenAnswererId>KBukgIruaa</ChosenAnswererId>
+    <ChosenAnswererNick>rs</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1266991423</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1267621929</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>i think you gotta pay for it, but try clicking join ?</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Scz177kqaa</UserId>
+            <UserNick>pakinja</UserNick>
+            <Date>2010-02-23 21:56:36</Date>
+            <Timestamp>1266990996</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>if you want to create a page particularly a web page you need to learn html, css and server scripting,</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>KBukgIruaa</UserId>
+            <UserNick>rs</UserNick>
+            <Date>2010-02-23 22:03:43</Date>
+            <Timestamp>1266991423</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Wed Apr  7 02:16:16 PDT 2010 -->

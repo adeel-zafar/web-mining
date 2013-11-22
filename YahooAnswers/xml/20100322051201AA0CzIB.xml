@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100322051201AA0CzIB" type="Answered">
+    <Subject>Can i use my computer to give my phone internet?</Subject>
+    <Content>ok, i have a mac laptop and it has this usb internet thing (not hooked up to wifi or the internet cable) and i have an iphone but i dont have the internet plan (cuz im in india for vacation).... i was wondering if i could use a usb cable or send out a bluetooth connection, etc. to use the internet that i have on the laptop on my iphone....
+
+is it possible?
+</Content>
+    <Date>2010-03-22 05:12:01</Date>
+    <Timestamp>1269259921</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100322051201AA0CzIB</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>3eAVxZmtaa</UserId>
+    <UserNick>Sawan P</UserNick>
+    <UserPhotoURL>http://l.yimg.com/a/i/identity/nopic_48.gif</UserPhotoURL>
+    <NumAnswers>1</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>Short answer: No.
+
+Bluetooth is a technology used for short-range tethering of two compatible devices for streaming or exchanging data. Max range varies, but is typically ~30 feet/10 meters.
+
+You would have to find an open wifi connection around your area (Your laptop needs an internal wifi card, or USB Wifi dongle), and connect that way. Your phone cannot help you in this situation.</ChosenAnswer>
+    <ChosenAnswererId>cv6HvKdOaa</ChosenAnswererId>
+    <ChosenAnswererNick>Jason</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269260375</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269779651</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>Short answer: No.
+
+Bluetooth is a technology used for short-range tethering of two compatible devices for streaming or exchanging data. Max range varies, but is typically ~30 feet/10 meters.
+
+You would have to find an open wifi connection around your area (Your laptop needs an internal wifi card, or USB Wifi dongle), and connect that way. Your phone cannot help you in this situation.</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>cv6HvKdOaa</UserId>
+            <UserNick>Jason</UserNick>
+            <Date>2010-03-22 05:19:35</Date>
+            <Timestamp>1269260375</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:23:57 PDT 2010 -->

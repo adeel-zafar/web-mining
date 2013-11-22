@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ResultSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:yahoo:answers" xsi:schemaLocation="urn:yahoo:answers http://answers.yahooapis.com/AnswersService/V1/AnswerResponse.xsd">
+  <Question id="20100320192641AAZlQ84" type="Answered">
+    <Subject>How do you block sites on mozilla firefox?</Subject>
+    <Content>Thanks to all who give helpful answers.
+...
+</Content>
+    <Date>2010-03-20 19:26:41</Date>
+    <Timestamp>1269138401</Timestamp>
+    <Link>http://answers.yahoo.com/question/?qid=20100320192641AAZlQ84</Link>
+    <Category id="2115500139">Other - Internet</Category>
+    <UserId>dDJO7dHFaa</UserId>
+    <UserNick>anna is foxxy♥</UserNick>
+    <UserPhotoURL>http://a323.yahoofs.com/coreid/4bac3b9di272ezws109sp2/ibSgi14lc6M5SxqBK_HUoV6QJg--/82/tn48.jpeg?ciAAToMBOu0hj0Qx</UserPhotoURL>
+    <NumAnswers>4</NumAnswers>
+    <NumComments>0</NumComments>
+    <ChosenAnswer>1. You can download BlockSite addon for Firefox : https://addons.mozilla.org/en-US/firefox/addon/3145
+
+2. If you want to block a site in all browsers and not only Firefox, then use HOSTS file blocking : http://www.trishtech.com/internet/redirect_block_sites_using_hosts_file.php</ChosenAnswer>
+    <ChosenAnswererId>vGW5SoXeaa</ChosenAnswererId>
+    <ChosenAnswererNick>♥ Romeo ♥</ChosenAnswererNick>
+    <ChosenAnswerTimestamp>1269139675</ChosenAnswerTimestamp>
+    <ChosenAnswerAwardTimestamp>1269153033</ChosenAnswerAwardTimestamp>
+    <Answers>
+        <Answer>
+            <Content>you&#039;re bette off blocking them in your modem/router...that way no other browser can access them either...</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>PrrPXI30aa</UserId>
+            <UserNick>ez80227</UserNick>
+            <Date>2010-03-20 19:28:38</Date>
+            <Timestamp>1269138518</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>Yea ther&#039;re right ^ just go onto your modem and set blocks. Fire fox requires an app download. I also recommend Google chrome. its faster than firefox</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>mh6XLALXaa</UserId>
+            <UserNick>Shane</UserNick>
+            <Date>2010-03-20 19:31:51</Date>
+            <Timestamp>1269138711</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>There&#039;s probably an add on for that. Google firefox add ons.</Content>
+            <Reference></Reference>
+            <Best></Best>
+            <UserId>Sk9B8XdGaa</UserId>
+            <UserNick>Aquaman</UserNick>
+            <Date>2010-03-20 19:31:57</Date>
+            <Timestamp>1269138717</Timestamp>
+        </Answer>
+        <Answer>
+            <Content>1. You can download BlockSite addon for Firefox : https://addons.mozilla.org/en-US/firefox/addon/3145
+
+2. If you want to block a site in all browsers and not only Firefox, then use HOSTS file blocking : http://www.trishtech.com/internet/redirect_block_sites_using_hosts_file.php</Content>
+            <Reference></Reference>
+            <Best>5</Best>
+            <UserId>vGW5SoXeaa</UserId>
+            <UserNick>♥ Romeo ♥</UserNick>
+            <Date>2010-03-20 19:47:55</Date>
+            <Timestamp>1269139675</Timestamp>
+        </Answer>
+    </Answers>
+    <Comments>
+    </Comments>
+  </Question>
+</ResultSet>
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Apr  6 20:29:34 PDT 2010 -->
